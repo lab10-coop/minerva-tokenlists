@@ -26,12 +26,12 @@ rm -f eth?.json
 echo "built eth list with $(jq '.|length' eth.json) elements"
 
 
-xdaiSource1="https://raw.githubusercontent.com/1Hive/default-token-list/master/src/tokens/xdai.json "
+xdaiSource1="https://raw.githubusercontent.com/1Hive/default-token-list/master/src/tokens/xdai.json"
 
 # here jq just validates the content
-curl -f -s $xdaiSource1 | jq '.' > xdai0.json
+curl -f -s $xdaiSource1 | jq '.' > xdai1.json
 # concat into one file
-jq -s '.|flatten' xdai0.json lab10_xdai_overlay.json > xdai0.json
+jq -s '.|flatten' xdai1.json lab10_xdai_overlay.json > xdai0.json
 deduplicate xdai0.json xdai.json
 # cleanup
 rm -f xdai?.json
