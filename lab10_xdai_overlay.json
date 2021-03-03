@@ -1,8 +1,16 @@
 [
   {
     "chainId": 100,
+    "address": "0x49d2BB4A247E38b817E9404246DBc48Ca6707831",
+    "name": "legacy ATS for token swap",
+    "symbol": "xATS_tmp",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/sigma1/master/sigma1_xats_on_xdaichain_icon.svg"
+  },
+  {
+    "chainId": 100,
     "address": "0x62f5cAA239A97b21AA61502963Cf8C33F8182e79",
-    "name": "ARTIS Token (xATS)",
+    "name": "ARTIS Token",
     "symbol": "xATS",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/lab10-coop/sigma1/master/sigma1_xats_on_xdaichain_icon.svg"
