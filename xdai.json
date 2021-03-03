@@ -376,6 +376,14 @@
     "logoURI": "https://etherscan.io/token/images/etherisc_28.png"
   },
   {
+    "chainId": 100,
+    "address": "0x49d2bb4a247e38b817e9404246dbc48ca6707831",
+    "name": "legacy ATS for token swap",
+    "symbol": "xATS_tmp",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/sigma1/master/sigma1_xats_on_xdaichain_icon.svg"
+  },
+  {
     "name": "renBTC on xDai",
     "address": "0x4a88248baa5b39bb4a9caa697fb7f8ae0c3f0ddb",
     "symbol": "renBTC",
@@ -514,7 +522,7 @@
   {
     "chainId": 100,
     "address": "0x62f5caa239a97b21aa61502963cf8c33f8182e79",
-    "name": "ARTIS Token (xATS)",
+    "name": "ARTIS Token",
     "symbol": "xATS",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/lab10-coop/sigma1/master/sigma1_xats_on_xdaichain_icon.svg"
