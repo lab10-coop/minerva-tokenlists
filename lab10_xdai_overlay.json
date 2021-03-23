@@ -14,5 +14,21 @@
     "symbol": "xATS",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/lab10-coop/sigma1/master/sigma1_xats_on_xdaichain_icon.svg"
+  },
+  {
+    "chainId": 100,
+    "address": "0x59988e47A3503AaFaA0368b9deF095c818Fdca01",
+    "name": "Super xDAI",
+    "symbol": "xDAIx",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/xdai/0xe91d153e0b41518a2ce8dd3d7944fa863463a97d/logo.png"
+  },
+  {
+    "chainId": 100,
+    "address": "0x63e62989D9EB2d37dfDB1F93A22f063635b07d51",
+    "name": "Minerva Wallet SuperToken",
+    "symbol": "MIVA",
+    "decimals": 18,
+    "logoURI": "http://dev.lab10.io/minerva/Minerva_Logo-SW-Flat.svg"
   }
 ]

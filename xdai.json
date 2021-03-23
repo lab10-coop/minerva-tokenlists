@@ -72,6 +72,14 @@
     "logoURI": "https://etherscan.io/token/images/energi_32.png"
   },
   {
+    "name": "Shenanigan SHWEATPANTS v3",
+    "address": "0x11c9f4c3e960cce4464e25a9fa5414ab72fc45ea",
+    "symbol": "SHWEATPANTS",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/ShenaniganDApp/DrippStaking/master/tokens/SHWEATPANTS.png"
+  },
+  {
     "name": "DAOstack on xDai",
     "address": "0x12dabe79cffc1fde82fcd3b96dbe09fa4d8cd599",
     "symbol": "GEN",
@@ -235,17 +243,9 @@
     "name": "Seed on xDai",
     "address": "0x2fd0c73ad006407f0a96c984f06a9ce8415b094e",
     "symbol": "xSEED",
-    "decimals": 9,
-    "chainId": 100,
-    "logoURI": "https://etherscan.io/token/images/seed_32.png"
-  },
-  {
-    "name": "Agave ALVIN",
-    "address": "0x3008ff3e688346350b0c07b8265d256dddd97215",
-    "symbol": "ALVIN",
     "decimals": 18,
     "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/xdai/0x3008Ff3e688346350b0C07B8265d256dddD97215/logo.png"
+    "logoURI": "https://etherscan.io/token/images/seed_32.png"
   },
   {
     "name": "Golden Bull Token on xDAI",
@@ -416,6 +416,14 @@
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
   },
   {
+    "name": "Agave ALVIN v3",
+    "address": "0x50dbde932a94b0c23d27cdd30fbc6b987610c831",
+    "symbol": "ALVIN",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/xdai/0xf9bb1049378A3462E61Bba502530e5Ed62469925/logo.png"
+  },
+  {
     "name": "MEME on xDai",
     "address": "0x512a2eb0277573ae9be0d48c782590b624048fdf",
     "symbol": "MEME",
@@ -446,6 +454,14 @@
     "decimals": 18,
     "chainId": 100,
     "logoURI": "https://etherscan.io/token/images/powertrade_32.png"
+  },
+  {
+    "chainId": 100,
+    "address": "0x59988e47a3503aafaa0368b9def095c818fdca01",
+    "name": "Super xDAI",
+    "symbol": "xDAIx",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/xdai/0xe91d153e0b41518a2ce8dd3d7944fa863463a97d/logo.png"
   },
   {
     "name": "Enjin Coin on xDai",
@@ -526,6 +542,14 @@
     "symbol": "xATS",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/lab10-coop/sigma1/master/sigma1_xats_on_xdaichain_icon.svg"
+  },
+  {
+    "chainId": 100,
+    "address": "0x63e62989d9eb2d37dfdb1f93a22f063635b07d51",
+    "name": "Minerva Wallet SuperToken",
+    "symbol": "MIVA",
+    "decimals": 18,
+    "logoURI": "http://dev.lab10.io/minerva/Minerva_Logo-SW-Flat.svg"
   },
   {
     "name": "Base Protocol on xDai",
@@ -640,14 +664,6 @@
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0F5D2fB29fb7d3CFeE444a200298f468908cC942/logo.png"
   },
   {
-    "name": "Streamr DATAcoin on xDai",
-    "address": "0x796879025a627d34042e3edd2e239e75ba4445e6",
-    "symbol": "DATA",
-    "decimals": 18,
-    "chainId": 100,
-    "logoURI": "https://etherscan.io/token/images/streamr2_28.png"
-  },
-  {
     "name": "LUKSO Token on xDai",
     "address": "0x79cf2029717e2e78c8927f65f079ab8da21781ee",
     "symbol": "LYXe",
@@ -736,20 +752,20 @@
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6F87D756DAf0503d08Eb8993686c7Fc01Dc44fB1/logo.png"
   },
   {
-    "name": "Shenanigan SHWEATPANTS",
-    "address": "0x898e8897437d7245a2d09a29b2cd06a2c1ca388b",
-    "symbol": "SHWEATPANTS",
-    "decimals": 18,
-    "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/ShenaniganDApp/DrippStaking/master/tokens/SHWEATPANTS.png"
-  },
-  {
     "name": "Audius on xDai",
     "address": "0x8a95ea379e1fa4c749dd0a7a21377162028c479e",
     "symbol": "AUDIO",
     "decimals": 18,
     "chainId": 100,
     "logoURI": "https://user-images.githubusercontent.com/79154451/108109600-68293800-7092-11eb-8235-db5df1e0ab7e.png"
+  },
+  {
+    "name": "MetaFactory on xDai",
+    "address": "0x8d02b73904856de6998ffdf6e7ee18cc21137a79",
+    "symbol": "ROBOT",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://assets.coingecko.com/coins/images/13517/small/MF_Robot_200px.png?1609312481"
   },
   {
     "name": "Wrapped BTC on xDai",
@@ -792,6 +808,14 @@
     "logoURI": "https://etherscan.io/token/images/poa_28_2.png"
   },
   {
+    "name": "AAH on xDai",
+    "address": "0x99deb53501ac9b1c9f386f628f284b5cd8b107b9",
+    "symbol": "AAH",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://pbs.twimg.com/profile_images/1365887727330279424/aofb7sV6_400x400.jpg"
+  },
+  {
     "name": "Bancor Network Token on xDai",
     "address": "0x9a495a281d959192343b0e007284bf130bd05f86",
     "symbol": "BNT",
@@ -822,6 +846,14 @@
     "decimals": 18,
     "chainId": 100,
     "logoURI": "https://etherscan.io/token/images/yieldapp_32.png"
+  },
+  {
+    "name": "prophet.finance on xDai",
+    "address": "0xa9e5cd4efc86c01fae9a9fcd6e8669b97c92a937",
+    "symbol": "PROPHET",
+    "decimals": 9,
+    "chainId": 100,
+    "logoURI": "https://pbs.twimg.com/profile_images/1329880689135718401/24hXwpqd_400x400.jpg"
   },
   {
     "name": "Wrapped ETHO",
@@ -968,6 +1000,22 @@
     "logoURI": "https://autopia.co/images/autopia-200-200.jpg"
   },
   {
+    "name": "Rare Coin",
+    "address": "0xcf740ac463098e442b31a5e88f4b359b30255616",
+    "symbol": "RARE",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://affinityharmonics.s3.ca-central-1.amazonaws.com/Cloud/rare-logo-multi.png"
+  },
+  {
+    "name": "Layer 2 Index on xDai",
+    "address": "0xcf9dc2de2a67d7db1a7171e3b8456d2171e4da75",
+    "symbol": "LTI",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/layer2index/uniswap-tokenlist/bfea3ae40a6deda5c71e783a757d5d102566ccbc/assets/managers/lti.svg"
+  },
+  {
     "name": "HOPR Token on xDai",
     "address": "0xd057604a14982fe8d88c5fc25aac3267ea142a08",
     "symbol": "HOPR",
@@ -1006,6 +1054,14 @@
     "decimals": 8,
     "chainId": 100,
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x8400D94A5cb0fa0D041a3788e395285d61c9ee5e/logo.png"
+  },
+  {
+    "name": "DefiPulse Index from Ethereum",
+    "address": "0xd3d47d5578e55c880505dc40648f7f9307c3e7a8",
+    "symbol": "DPI",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://assets.coingecko.com/coins/images/12465/small/defi_pulse_index_set.png"
   },
   {
     "name": "AMIS on xDai",
@@ -1093,6 +1149,14 @@
     "decimals": 18,
     "chainId": 100,
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x514910771AF9Ca656af840dff83E8264EcF986CA/logo.png"
+  },
+  {
+    "name": "Streamr DATA on xDai",
+    "address": "0xe4a2620ede1058d61bee5f45f6414314fdf10548",
+    "symbol": "DATA",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://etherscan.io/token/images/streamr2_28.png"
   },
   {
     "name": "BLOCKMESH",
