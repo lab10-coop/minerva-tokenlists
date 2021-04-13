@@ -496,6 +496,14 @@
     "logoURI": "https://etherscan.io/token/images/soratoken_32.png"
   },
   {
+    "name": "Adept Coin Governance from Ethereum",
+    "address": "0x5f1f81de1d21b97a5d0d5d62d89bde9ddec27325",
+    "symbol": "AC",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://adept.camp/wp-content/uploads/2020/11/cropped-comingoutofblack.png"
+  },
+  {
     "name": "renZEC on xDai",
     "address": "0x5f2852afd20c39849f6f56f4102b8c29ee141add",
     "symbol": "renZEC",
@@ -549,7 +557,10 @@
     "name": "Minerva Wallet SuperToken",
     "symbol": "MIVA",
     "decimals": 18,
-    "logoURI": "http://dev.lab10.io/minerva/MIVA_Logo.svg"
+    "logoURI": "http://dev.lab10.io/minerva/MIVA_Logo.svg",
+    "tags": [
+      "SuperToken"
+    ]
   },
   {
     "name": "Base Protocol on xDai",
@@ -712,6 +723,14 @@
     "logoURI": "https://etherscan.io/token/images/phala_32.png?v=4"
   },
   {
+    "name": "Perpetual on xDai",
+    "address": "0x7ecf26cd9a36990b8ea477853663092333f59979",
+    "symbol": "PERP",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://assets.coingecko.com/coins/images/12381/large/token_2000x2000.png?1615791204"
+  },
+  {
     "name": "Balancer on xDai",
     "address": "0x7ef541e2a22058048904fe5744f9c7e4c57af717",
     "symbol": "BAL",
@@ -856,6 +875,14 @@
     "logoURI": "https://pbs.twimg.com/profile_images/1329880689135718401/24hXwpqd_400x400.jpg"
   },
   {
+    "name": "Haus",
+    "address": "0xb0c5f3100a4d9d9532a4cfd68c55f1ae8da987eb",
+    "symbol": "HAUS",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://daohaus.club/static/media/haus__icon.439c0f8e.png"
+  },
+  {
     "name": "Wrapped ETHO",
     "address": "0xb17d999e840e0c1b157ca5ab8039bd958b5fa317",
     "symbol": "ETHO",
@@ -910,6 +937,14 @@
     "decimals": 18,
     "chainId": 100,
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0Ae055097C6d159879521C384F1D2123D1f195e6/logo.png"
+  },
+  {
+    "name": "DXdao from Ethereum",
+    "address": "0xb90d6bec20993be5d72a5ab353343f7a0281f158",
+    "symbol": "DXD",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/5589.png"
   },
   {
     "name": "StorjToken on xDai",
@@ -990,6 +1025,14 @@
     "decimals": 9,
     "chainId": 100,
     "logoURI": "https://etherscan.io/token/images/ampleforth_32.png"
+  },
+  {
+    "name": "Wrapped BNB from BSC",
+    "address": "0xca8d20f3e0144a72c6b5d576e9bd3fd8557e2b04",
+    "symbol": "WBNB",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://bscscan.com/token/images/binance_32.png"
   },
   {
     "name": "Autopia Token on xDai",
@@ -1188,7 +1231,7 @@
     "symbol": "CHEEMS",
     "decimals": 18,
     "chainId": 100,
-    "logoURI": "https://kowasaur.github.io/cheemscoin/cheemscoin.png"
+    "logoURI": "https://cheemsco.in/cheemscoinSmall.png"
   },
   {
     "name": "BNS Token on xDai",
@@ -1237,6 +1280,22 @@
     "decimals": 18,
     "chainId": 100,
     "logoURI": "https://etherscan.io/token/images/TheGraph_32.png"
+  },
+  {
+    "name": "AlbCoin from Ethereum",
+    "address": "0xfb23cfd35046466fdba7f73dc2fccb5b17abf1aa",
+    "symbol": "ALBC",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://etherscan.io/token/images/albcoin_32.png"
+  },
+  {
+    "name": "Dai Token from BSC",
+    "address": "0xfc8b2690f66b46fec8b3ceeb95ff4ac35a0054bc",
+    "symbol": "bDAI",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
   },
   {
     "name": "XY Oracle on xDai",
