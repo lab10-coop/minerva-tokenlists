@@ -301,7 +301,10 @@
     "name": "Own a fraction",
     "symbol": "FRACTION",
     "decimals": 18,
-    "logoURI": "https://fraction.fyi/i/FRACTION-TokenIcon.svg"
+    "logoURI": "https://fraction.fyi/i/FRACTION-TokenIcon.svg",
+    "tags": [
+      "SuperToken"
+    ]
   },
   {
     "name": "Synthetix Network Token on xDai",
@@ -560,12 +563,15 @@
     "logoURI": "https://raw.githubusercontent.com/lab10-coop/sigma1/master/sigma1_xats_on_xdaichain_icon.svg"
   },
   {
-    "name": "Minerva Wallet SuperToken",
+    "chainId": 100,
     "address": "0x63e62989d9eb2d37dfdb1f93a22f063635b07d51",
+    "name": "Minerva Wallet SuperToken",
     "symbol": "MIVA",
     "decimals": 18,
-    "chainId": 100,
-    "logoURI": "https://dev.lab10.io/minerva/MIVA_Logo.svg"
+    "logoURI": "https://minerva.digital/i/MIVA-Token.svg",
+    "tags": [
+      "SuperToken"
+    ]
   },
   {
     "name": "Base Protocol on xDai",
