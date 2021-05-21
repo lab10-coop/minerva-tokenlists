@@ -38,6 +38,13 @@ rm -f xdai?.json
 
 echo "built xdai list with $(jq '.|length' xdai.json) elements"
 
+maticSource1="https://unpkg.com/quickswap-default-token-list/build/quickswap-default.tokenlist.json"
+
+curl -f -s -L $maticSource1 | jq '.tokens' > matic1.json
+jq -s '.|flatten' lab10_matic_overlay.json matic1.json > matic0.json
+deduplicate matic0.json matic.json
+rm -f matic?.json
+echo "built matic list with $(jq '.|length' matic.json) elements"
 
 # the sigma1 list is static for now
 echo "validated sigma1 list with $(jq '.|length' sigma1.json) elements"

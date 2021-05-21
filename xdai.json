@@ -200,6 +200,14 @@
     "logoURI": "https://freedomreserv.eth.link/img/freedomcoin400x400.png"
   },
   {
+    "name": "SNAFU",
+    "address": "0x27b9c2bd4baea18abdf49169054c1c1c12af9862",
+    "symbol": "SNAFU",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://gateway.ipfs.io/ipfs/QmaEPqRKrJDN8iNKVSFj19rbHzZSyWENdj241oek3EJYn7"
+  },
+  {
     "name": "Bidao on xDai",
     "address": "0x2977893f4c04bfbd6efc68d0e46598d27810d3db",
     "symbol": "BID",
@@ -222,6 +230,14 @@
     "decimals": 18,
     "chainId": 100,
     "logoURI": "https://etherscan.io/token/images/lrc_32.png"
+  },
+  {
+    "name": "Own a fraction",
+    "address": "0x2bf2ba13735160624a0feae98f6ac8f70885ea61",
+    "symbol": "FRACTION",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://fraction.fyi/i/FRACTION-TokenIcon-Honeyswap-200x200.png"
   },
   {
     "name": "Rocket Pool on xDai",
@@ -286,6 +302,14 @@
     "decimals": 18,
     "chainId": 100,
     "logoURI": "https://etherscan.io/token/images/allianceblocktoken_32.png?v=2"
+  },
+  {
+    "name": "Unisocks",
+    "address": "0x35f346cb4149746272974a92d719fd48ae2f72fa",
+    "symbol": "SOCKS",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://assets.coingecko.com/coins/images/10717/small/qFrcoiM.png"
   },
   {
     "name": "Pinakion on xDai",
@@ -467,6 +491,14 @@
     "logoURI": "https://etherscan.io/token/images/powertrade_32.png"
   },
   {
+    "name": "Rare Coin v2",
+    "address": "0x57e93bb58268de818b42e3795c97bad58afcd3fe",
+    "symbol": "RAREv2",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://affinityharmonics.s3.ca-central-1.amazonaws.com/Cloud/rare-logo.png"
+  },
+  {
     "chainId": 100,
     "address": "0x59988e47a3503aafaa0368b9def095c818fdca01",
     "name": "Super xDAI",
@@ -574,6 +606,14 @@
     ]
   },
   {
+    "name": "CFX Quantum from Ethereum",
+    "address": "0x64b17a95e6c45306fb23bc526eb2dc9e1331a1b1",
+    "symbol": "CFXQ",
+    "decimals": 6,
+    "chainId": 100,
+    "logoURI": "https://user-images.githubusercontent.com/83224547/118118933-453ec380-b3f6-11eb-962f-f2bbb1210c60.png"
+  },
+  {
     "name": "Base Protocol on xDai",
     "address": "0x699d001ef13b15335193bc5fad6cfc6747eee8be",
     "symbol": "BASE",
@@ -644,6 +684,14 @@
     "decimals": 18,
     "chainId": 100,
     "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/xdai/0x71850b7E9Ee3f13Ab46d67167341E4bDc905Eef9/logo.png"
+  },
+  {
+    "name": "Wrapped CHI from Ethereum",
+    "address": "0x7211ab649a4139561a152b787de52d257cbaaee9",
+    "symbol": "WCHI",
+    "decimals": 8,
+    "chainId": 100,
+    "logoURI": "https://xaya.io/wp-content/uploads/2021/04/Wchi-ic1.png"
   },
   {
     "name": "AirSwap Token on xDai",
@@ -822,6 +870,14 @@
     "logoURI": "https://etherscan.io/token/images/unilayer_32.png"
   },
   {
+    "name": "HiveShares from Ethereum",
+    "address": "0x97e4ebc14c117c1ac2d032a5a8140c84628b0d17",
+    "symbol": "HIVESHARE",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://hiveshares.finance/gfx/Logo.jpg"
+  },
+  {
     "name": "Panvala pan on xDai",
     "address": "0x981fb9ba94078a2275a8fc906898ea107b9462a8",
     "symbol": "PAN",
@@ -836,14 +892,6 @@
     "decimals": 18,
     "chainId": 100,
     "logoURI": "https://etherscan.io/token/images/poa_28_2.png"
-  },
-  {
-    "name": "AAH on xDai",
-    "address": "0x99deb53501ac9b1c9f386f628f284b5cd8b107b9",
-    "symbol": "AAH",
-    "decimals": 18,
-    "chainId": 100,
-    "logoURI": "https://pbs.twimg.com/profile_images/1365887727330279424/aofb7sV6_400x400.jpg"
   },
   {
     "name": "Bancor Network Token on xDai",
@@ -870,6 +918,14 @@
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6810e776880C02933D47DB1b9fc05908e5386b96/logo.png"
   },
   {
+    "name": "FreeToken",
+    "address": "0xa106739de31fa7a9df4a93c9bea3e1bade0924e2",
+    "symbol": "FREE",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://i.imgur.com/hiVAYU0.png"
+  },
+  {
     "name": "Yield on xDai",
     "address": "0xa2fec95b3d3fecb39098e81f108533e1abf22ccf",
     "symbol": "YLD",
@@ -891,7 +947,7 @@
     "symbol": "HAUS",
     "decimals": 18,
     "chainId": 100,
-    "logoURI": "https://daohaus.club/static/media/haus__icon.439c0f8e.png"
+    "logoURI": "https://assets.coingecko.com/coins/images/14551/small/jN3kkqke_400x400.png"
   },
   {
     "name": "Wrapped ETHO",
@@ -990,6 +1046,14 @@
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e/logo.png"
   },
   {
+    "name": "SURF.Finance from Ethereum",
+    "address": "0xc12956b840b403b600014a3092f6ebd9259738fe",
+    "symbol": "SURF",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://etherscan.io/token/images/surffinance_32.png"
+  },
+  {
     "name": "EthLend Token on xDai",
     "address": "0xc1b42bdb485deb24c74f58399288d7915a726c1d",
     "symbol": "LEND",
@@ -1054,20 +1118,12 @@
     "logoURI": "https://autopia.co/images/autopia-200-200.jpg"
   },
   {
-    "name": "Rare Coin",
-    "address": "0xcf740ac463098e442b31a5e88f4b359b30255616",
-    "symbol": "RARE",
-    "decimals": 18,
-    "chainId": 100,
-    "logoURI": "https://affinityharmonics.s3.ca-central-1.amazonaws.com/Cloud/rare-logo-multi.png"
-  },
-  {
     "name": "Layer 2 Index on xDai",
     "address": "0xcf9dc2de2a67d7db1a7171e3b8456d2171e4da75",
     "symbol": "LTI",
     "decimals": 18,
     "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/layer2index/uniswap-tokenlist/bfea3ae40a6deda5c71e783a757d5d102566ccbc/assets/managers/lti.svg"
+    "logoURI": "https://layer2index.eth.link/images/lti.png"
   },
   {
     "name": "HOPR Token on xDai",
@@ -1134,19 +1190,20 @@
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2b591e99afE9f32eAA6214f7B7629768c40Eeb39/logo.png"
   },
   {
-    "name": "xDankBillz",
-    "address": "0xdaadd8d96d01e47ee5e4eafecf14cbe46909f335",
-    "symbol": "xdbx",
-    "decimals": 18,
-    "chainId": 100
-  },
-  {
     "name": "COLD TRUTH CASH",
     "address": "0xdbcade285846131a5e7384685eaddbdfd9625557",
     "symbol": "COLD",
     "decimals": 18,
     "chainId": 100,
     "logoURI": "https://user-images.githubusercontent.com/77219460/105215847-eda9ed00-5ba5-11eb-83a4-f8ea6b9bd7bb.png"
+  },
+  {
+    "name": "BUSD Token from BSC",
+    "address": "0xdd96b45877d0e8361a4ddb732da741e97f3191ff",
+    "symbol": "BUSD",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://bscscan.com/token/images/busd_32.png"
   },
   {
     "name": "USDC on xDai",
