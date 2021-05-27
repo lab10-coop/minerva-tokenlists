@@ -51,6 +51,6 @@ echo "validated sigma1 list with $(jq '.|length' sigma1.json) elements"
 
 
 # compile a multi-network list
-jq -s '.|flatten' eth.json xdai.json sigma1.json > all.json
+jq -s '.|flatten' eth.json xdai.json sigma1.json matic.json > all.json
 
 echo "built all list with $(jq '.|length' all.json) elements"

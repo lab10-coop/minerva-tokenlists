@@ -72,14 +72,6 @@
     "logoURI": "https://etherscan.io/token/images/energi_32.png"
   },
   {
-    "name": "Shenanigan SHWEATPANTS v3",
-    "address": "0x11c9f4c3e960cce4464e25a9fa5414ab72fc45ea",
-    "symbol": "SHWEATPANTS",
-    "decimals": 18,
-    "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/ShenaniganDApp/DrippStaking/master/tokens/SHWEATPANTS.png"
-  },
-  {
     "name": "DAOstack on xDai",
     "address": "0x12dabe79cffc1fde82fcd3b96dbe09fa4d8cd599",
     "symbol": "GEN",
@@ -321,7 +313,7 @@
   },
   {
     "chainId": 100,
-    "address": "0x2bF2ba13735160624a0fEaE98f6aC8F70885eA61",
+    "address": "0x388e96dfe68b30892af93f30f5035602d8d51487",
     "name": "Own a fraction",
     "symbol": "FRACTION",
     "decimals": 18,
@@ -377,6 +369,14 @@
     "decimals": 18,
     "chainId": 100,
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x960b236A07cf122663c4303350609A66A7B288C0/logo.png"
+  },
+  {
+    "name": "API3",
+    "address": "0x44b6bba599f100006143e82a60462d71ac1331da",
+    "symbol": "API3",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://assets.coingecko.com/coins/images/13256/small/api3.jpg"
   },
   {
     "name": "Dai Stablecoin on xDai",
@@ -451,12 +451,12 @@
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
   },
   {
-    "name": "Agave ALVIN v3",
-    "address": "0x50dbde932a94b0c23d27cdd30fbc6b987610c831",
-    "symbol": "ALVIN",
+    "name": "Daibase xDAI v0.1.61",
+    "address": "0x4ef1d9a329a0cb0658156aff55c406cc4393a987",
+    "symbol": "DAIX",
     "decimals": 18,
     "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/xdai/0xf9bb1049378A3462E61Bba502530e5Ed62469925/logo.png"
+    "logoURI": "https://user-images.githubusercontent.com/13474314/117913608-ac059500-b2af-11eb-9a04-7e32364798c7.png"
   },
   {
     "name": "MEME on xDai",
@@ -537,6 +537,14 @@
     "decimals": 18,
     "chainId": 100,
     "logoURI": "https://etherscan.io/token/images/soratoken_32.png"
+  },
+  {
+    "name": "rSURF",
+    "address": "0x5c8c83e5d5f7be815863b810d45d7bc706d7b15b",
+    "symbol": "rSURF",
+    "decimals": 9,
+    "chainId": 100,
+    "logoURI": "https://user-images.githubusercontent.com/83677085/118566122-69c1d500-b741-11eb-8d7f-8dedabab7404.png"
   },
   {
     "name": "Adept Coin Governance from Ethereum",
@@ -638,6 +646,14 @@
     "logoURI": "https://etherscan.io/token/images/energywebtokenbridged_32.png"
   },
   {
+    "name": "PieDAO Dough",
+    "address": "0x6d237bb2248d3b40b1a54f3417667b2f39984fc8",
+    "symbol": "DOUGH",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://assets.coingecko.com/coins/images/12693/small/DOUGH2v.png"
+  },
+  {
     "name": "Aragon Network Token on xDai v2",
     "address": "0x6eeceab954efdbd7a8a8d9387bc719959b04b9ca",
     "symbol": "ANTv2",
@@ -708,6 +724,14 @@
     "decimals": 18,
     "chainId": 100,
     "logoURI": "https://etherscan.io/token/images/polkastarter_32.png"
+  },
+  {
+    "name": "FTX Token",
+    "address": "0x75886f00c1a20ec1511111fb4ec3c51de65b1fe7",
+    "symbol": "FTT",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://assets.coingecko.com/coins/images/9026/small/F.png"
   },
   {
     "name": "SwissBorg Token on xDai",
@@ -854,6 +878,14 @@
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png"
   },
   {
+    "name": "Unit Protocol",
+    "address": "0x8e7ab03ca7d17996b097d5866bfaa1e251c35c6a",
+    "symbol": "DUCK",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://assets.coingecko.com/coins/images/13359/small/unit_telegram.png"
+  },
+  {
     "name": "Synth sETH on xDai",
     "address": "0x8f365b41b98fe84acb287540b4b4ab633e07edb2",
     "symbol": "SETH",
@@ -974,6 +1006,14 @@
     "logoURI": "https://miro.medium.com/fit/c/164/164/1*Poxa2tacGDtg8A9sZdfJfA.jpeg"
   },
   {
+    "name": "BarnBridge",
+    "address": "0xb31a2595e4cf66efbc1fe348b1429e5730891382",
+    "symbol": "BOND",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://assets.coingecko.com/coins/images/12811/small/barnbridge.jpg"
+  },
+  {
     "name": "Metronome on xDai",
     "address": "0xb4b6f80d8e573e9867c90163bfdb00e29d92716a",
     "symbol": "MET",
@@ -1006,12 +1046,28 @@
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0Ae055097C6d159879521C384F1D2123D1f195e6/logo.png"
   },
   {
+    "name": "0xF3.tech",
+    "address": "0xb7d918d7631fcdd0954205e3a6b205a10a31a085",
+    "symbol": "TECH",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://avatars.githubusercontent.com/u/71916776?v=4"
+  },
+  {
     "name": "DXdao from Ethereum",
     "address": "0xb90d6bec20993be5d72a5ab353343f7a0281f158",
     "symbol": "DXD",
     "decimals": 18,
     "chainId": 100,
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/5589.png"
+  },
+  {
+    "name": "MEDOOZA Ecosystem v2.0 from Ethereum",
+    "address": "0xbab3cbdcbcc578445480a79ed80269c50bb5b718",
+    "symbol": "MDZA",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://medooza.io/medooza-red-symbol-logo-exchange.png"
   },
   {
     "name": "StorjToken on xDai",
@@ -1036,6 +1092,14 @@
     "decimals": 18,
     "chainId": 100,
     "logoURI": "https://etherscan.io/token/images/bnsd_32.png"
+  },
+  {
+    "name": "Axie Infinity",
+    "address": "0xbde011911128f6bd4abb1d18f39fdc3614ca2cfe",
+    "symbol": "AXS",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://assets.coingecko.com/coins/images/13029/small/axie_infinity_logo.png"
   },
   {
     "name": "Yearn Finance on xDai",
@@ -1246,6 +1310,14 @@
     "logoURI": "https://raw.githubusercontent.com/Badger-Finance/badger-system/master/images/badger-logo.png"
   },
   {
+    "name": "BaoToken Coupon",
+    "address": "0xe0d0b1dbbcf3dd5cac67edaf9243863fd70745da",
+    "symbol": "BAOcx",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://assets.coingecko.com/coins/images/13547/small/BAO.png"
+  },
+  {
     "name": "BandToken on xDai",
     "address": "0xe154a435408211ac89757b76c4fbe4dc9ed2ef27",
     "symbol": "BAND",
@@ -1268,6 +1340,14 @@
     "decimals": 18,
     "chainId": 100,
     "logoURI": "https://etherscan.io/token/images/streamr2_28.png"
+  },
+  {
+    "name": "BZRX",
+    "address": "0xe6a1f98b0f4368559bd16639c844510f5db6fe48",
+    "symbol": "BZRX",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://assets.coingecko.com/coins/images/11811/small/bzrx.png"
   },
   {
     "name": "BLOCKMESH",
@@ -1327,6 +1407,14 @@
     "decimals": 18,
     "chainId": 100,
     "logoURI": "https://xion.finance/images/xgt_icon.png"
+  },
+  {
+    "name": "Fedoragold Coin from Ethereum",
+    "address": "0xf2197c8b553e37e949815360d5ca5e745e925511",
+    "symbol": "BFED",
+    "decimals": 8,
+    "chainId": 100,
+    "logoURI": "https://git.fedoragold.com/FedoraGold/fedswap/raw/branch/main/favicon.png"
   },
   {
     "name": "Robonomics on xDai",
