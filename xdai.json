@@ -224,12 +224,15 @@
     "logoURI": "https://etherscan.io/token/images/lrc_32.png"
   },
   {
-    "name": "Own a fraction",
+    "chainId": 100,
     "address": "0x2bf2ba13735160624a0feae98f6ac8f70885ea61",
+    "name": "Own a fraction",
     "symbol": "FRACTION",
     "decimals": 18,
-    "chainId": 100,
-    "logoURI": "https://fraction.fyi/i/FRACTION-TokenIcon-Honeyswap-200x200.png"
+    "logoURI": "https://fraction.fyi/i/FRACTION-TokenIcon.svg",
+    "tags": [
+      "SuperToken"
+    ]
   },
   {
     "name": "Rocket Pool on xDai",
@@ -310,17 +313,6 @@
     "decimals": 18,
     "chainId": 100,
     "logoURI": "https://etherscan.io/token/images/kelros_28.png"
-  },
-  {
-    "chainId": 100,
-    "address": "0x388e96dfe68b30892af93f30f5035602d8d51487",
-    "name": "Own a fraction",
-    "symbol": "FRACTION",
-    "decimals": 18,
-    "logoURI": "https://fraction.fyi/i/FRACTION-TokenIcon.svg",
-    "tags": [
-      "SuperToken"
-    ]
   },
   {
     "name": "Synthetix Network Token on xDai",
