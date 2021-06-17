@@ -80,6 +80,14 @@
     "logoURI": "https://etherscan.io/token/images/pepedex_32.png?v=2"
   },
   {
+    "name": "CRV",
+    "address": "0x172370d5cd63279efa6d502dab29171933a610af",
+    "symbol": "CRV",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/12124/small/Curve.png?1597369484"
+  },
+  {
     "name": "Wrapped BTC",
     "address": "0x1bfd67037b42cf73acf2047067bd4f2c47d9bfd6",
     "symbol": "WBTC",
@@ -150,6 +158,14 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://cryptologos.cc/logos/fusion-fsn-logo.png?v=010"
+  },
+  {
+    "name": "ChumHum",
+    "address": "0x2e2dde47952b9c7defde7424d00dd2341ad927ca",
+    "symbol": "CHUM",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://i.imgur.com/66lM7Rx.png"
   },
   {
     "name": "EthLend Token",
@@ -376,6 +392,14 @@
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc00e94Cb662C3520282E6f5717214004A7f26888/logo.png"
   },
   {
+    "name": "Gravity Finance",
+    "address": "0x874e178a2f3f3f9d34db862453cd756e7eab0381",
+    "symbol": "GFI",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/15871/small/GFI-Icon.png?1622178588"
+  },
+  {
     "name": "DEGEN Index",
     "address": "0x8a2870fb69a90000d6439b7adfb01d4ba383a415",
     "symbol": "DEGEN",
@@ -448,6 +472,14 @@
     "logoURI": "https://i.imgur.com/jv5A0eX.png"
   },
   {
+    "name": "Future of Finance Fund",
+    "address": "0x9aceb6f749396d1930abc9e263efc449e5e82c13",
+    "symbol": "FFF",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/15761/small/xg1NFl0.png?1621825451"
+  },
+  {
     "name": "Cryptocurrency Top Tokens Index",
     "address": "0x9c49ba0212bb5db371e66b59d1565b7c06e4894e",
     "symbol": "CC10",
@@ -496,12 +528,28 @@
     "logoURI": "https://raw.githubusercontent.com/0xlaozi/qidao/main/images/mimatic-red.png"
   },
   {
+    "name": "IRON Titanium Token",
+    "address": "0xaaa5b9e6c589642f98a1cda99b9d024b8407285a",
+    "symbol": "TITAN",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://ironfi.s3.amazonaws.com/images/TITAN.png"
+  },
+  {
     "name": "iFARM",
     "address": "0xab0b2ddb9c7e440fac8e140a89c0dbcbf2d7bbff",
     "symbol": "iFARM",
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://raw.githubusercontent.com/harvestfi/assets/main/farm-logo.png"
+  },
+  {
+    "name": "Eleven.finance",
+    "address": "0xacd7b3d9c10e97d0efa418903c0c7669e702e4c0",
+    "symbol": "ELE",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/14541/small/eleven_finance_logo.png?1616895791"
   },
   {
     "name": "Uniswap",
@@ -518,6 +566,14 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://etherscan.io/token/images/wisetoken_32.png"
+  },
+  {
+    "name": "Everipedia IQ",
+    "address": "0xb9638272ad6998708de56bbc0a290a1de534a578",
+    "symbol": "IQ",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://i.imgur.com/2Tocoq5.png"
   },
   {
     "name": "Tether USD",
@@ -584,6 +640,14 @@
     "logoURI": "https://assets.coingecko.com/coins/images/3263/small/CEL_logo.png?1609598753"
   },
   {
+    "name": "IRON Stablecoin",
+    "address": "0xd86b5923f3ad7b585ed81b448170ae026c65ae9a",
+    "symbol": "IRON",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://ironfi.s3.amazonaws.com/images/IRON.png"
+  },
+  {
     "name": "yearn.finance",
     "address": "0xda537104d6a5edd53c6fbba9a898708e465260b6",
     "symbol": "YFI",
@@ -598,6 +662,14 @@
     "decimals": 6,
     "chainId": 137,
     "logoURI": "https://aavegotchi.com/images/matokens/maUSDT.svg"
+  },
+  {
+    "name": "Rupeeto",
+    "address": "0xde485931674f4edd3ed3bf22e86e7d3c7d5347a1",
+    "symbol": "INRP",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://cdn.rupeeto.com/images/rupeeto-symbol.jpeg"
   },
   {
     "name": "Telcoin",
@@ -694,6 +766,14 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://raw.githubusercontent.com/beefyfinance/beefy-app/prod/src/images/single-assets/BIFI.png"
+  },
+  {
+    "name": "ZeroSwapToken",
+    "address": "0xfd4959c06fbcc02250952daebf8e0fb38cf9fd8c",
+    "symbol": "ZEE",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://pbs.twimg.com/profile_images/1366339230683652096/sit30Uuo_400x400.png"
   },
   {
     "name": "BTU Protocol",

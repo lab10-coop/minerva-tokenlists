@@ -315,6 +315,14 @@
     "logoURI": "https://etherscan.io/token/images/kelros_28.png"
   },
   {
+    "name": "xDai Native Comb",
+    "address": "0x38fb649ad3d6ba1113be5f57b927053e97fc5bf7",
+    "symbol": "xCOMB",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/xdai/0x38Fb649Ad3d6BA1113Be5F57B927053E97fC5bF7/logo.png"
+  },
+  {
     "name": "Synthetix Network Token on xDai",
     "address": "0x3a00e08544d589e19a8e7d97d0294331341cdbf6",
     "symbol": "SNX",
@@ -496,7 +504,11 @@
     "name": "Super xDAI",
     "symbol": "xDAIx",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/xdai/0xe91d153e0b41518a2ce8dd3d7944fa863463a97d/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/xdai/0xe91d153e0b41518a2ce8dd3d7944fa863463a97d/logo.png",
+    "tags": [
+      "SuperToken",
+      "WrapperToken"
+    ]
   },
   {
     "name": "Enjin Coin on xDai",
@@ -867,7 +879,7 @@
     "symbol": "WBTC",
     "decimals": 8,
     "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/ethereum/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599/logo.png"
   },
   {
     "name": "Unit Protocol",
@@ -1174,6 +1186,14 @@
     "logoURI": "https://autopia.co/images/autopia-200-200.jpg"
   },
   {
+    "name": "MORPHINE",
+    "address": "0xcc043d8820a6dc3e74ef6fb4772fae00c1563489",
+    "symbol": "MRP",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://user-images.githubusercontent.com/66994707/120416532-09f03e80-c37d-11eb-85c4-a27e79adb504.png"
+  },
+  {
     "name": "Layer 2 Index on xDai",
     "address": "0xcf9dc2de2a67d7db1a7171e3b8456d2171e4da75",
     "symbol": "LTI",
@@ -1251,7 +1271,7 @@
     "symbol": "COLD",
     "decimals": 18,
     "chainId": 100,
-    "logoURI": "https://user-images.githubusercontent.com/77219460/105215847-eda9ed00-5ba5-11eb-83a4-f8ea6b9bd7bb.png"
+    "logoURI": "https://user-images.githubusercontent.com/77219460/120896984-5e3e3b80-c667-11eb-8ed3-f9319cd4ebc9.png"
   },
   {
     "name": "BUSD Token from BSC",
