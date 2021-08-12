@@ -650,6 +650,14 @@
     "logoURI": "https://etherscan.io/token/images/energywebtokenbridged_32.png"
   },
   {
+    "name": "xdai dao",
+    "address": "0x6b0f8a3fb7cb257ad7c72ada469ba1d3c19c5094",
+    "symbol": "RXDAI",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://gateway.pinata.cloud/ipfs/QmXRHYRh283fGyWKY96sRzM9WJgQkKSv6VQG3UjKotYxvj/rxdai.png"
+  },
+  {
     "name": "PieDAO Dough",
     "address": "0x6d237bb2248d3b40b1a54f3417667b2f39984fc8",
     "symbol": "DOUGH",
@@ -864,6 +872,14 @@
     "decimals": 18,
     "chainId": 100,
     "logoURI": "https://user-images.githubusercontent.com/79154451/108109600-68293800-7092-11eb-8235-db5df1e0ab7e.png"
+  },
+  {
+    "name": "0xMonero from Ethereum",
+    "address": "0x8c88ea1fd60462ef7004b9e288afcb4680a3c50c",
+    "symbol": "0xMR",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/5668.png"
   },
   {
     "name": "MetaFactory on xDai",
@@ -1130,6 +1146,14 @@
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x80fB784B7eD66730e8b1DBd9820aFD29931aab03/logo.png"
   },
   {
+    "name": "Xion Global Token",
+    "address": "0xc25af3123d2420054c8fcd144c21113aa2853f39",
+    "symbol": "XGTv2",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://xion.finance/images/xgt_icon.png"
+  },
+  {
     "name": "Sai on xDai",
     "address": "0xc439e5b1dee4f866b681e7c5e5df140aa47fbf19",
     "symbol": "SAI",
@@ -1138,12 +1162,28 @@
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x89d24A6b4CcB1B6fAA2625fE562bDD9a23260359/logo.png"
   },
   {
+    "name": "Symmetric",
+    "address": "0xc45b3c1c24d5f54e7a2cf288ac668c74dd507a84",
+    "symbol": "SYMM",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/centfinance/Symmetric.Assets/master/assets/0x57dB3FfCa78dBbE0eFa0EC745D55f62aa0Cbd345.png"
+  },
+  {
     "name": "McDonaldsCoin on xDai",
     "address": "0xc577cddabb7893cc2ca15ef4b5d5e5e13c3feed3",
     "symbol": "MCDC",
     "decimals": 2,
     "chainId": 100,
     "logoURI": "https://raw.githubusercontent.com/birdieearlybird/mcdc_assets/main/mcdc_logo_200.png"
+  },
+  {
+    "name": "DAppNode DAO Token from Ethereum",
+    "address": "0xc60e38c6352875c051b481cbe79dd0383adb7817",
+    "symbol": "NODE",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://etherscan.io/token/images/dappnode_32.png"
   },
   {
     "name": "Basic Attention Token on xDai",
@@ -1191,7 +1231,7 @@
     "symbol": "MRP",
     "decimals": 18,
     "chainId": 100,
-    "logoURI": "https://user-images.githubusercontent.com/66994707/120416532-09f03e80-c37d-11eb-85c4-a27e79adb504.png"
+    "logoURI": "https://i.imgur.com/tJ8E34i.png"
   },
   {
     "name": "Layer 2 Index on xDai",
@@ -1272,6 +1312,14 @@
     "decimals": 18,
     "chainId": 100,
     "logoURI": "https://user-images.githubusercontent.com/77219460/120896984-5e3e3b80-c667-11eb-8ed3-f9319cd4ebc9.png"
+  },
+  {
+    "name": "BZZ from Ethereum",
+    "address": "0xdbf3ea6f5bee45c02255b2c26a16f300502f68da",
+    "symbol": "BZZ",
+    "decimals": 16,
+    "chainId": 100,
+    "logoURI": "https://etherscan.io/token/images/ethswarm_32.png"
   },
   {
     "name": "BUSD Token from BSC",
@@ -1395,6 +1443,14 @@
     "decimals": 18,
     "chainId": 100,
     "logoURI": "https://cheemsco.in/cheemscoinSmall.png"
+  },
+  {
+    "name": "Terra Virtua Kolect",
+    "address": "0xeb2bcabb0cdc099978a74cfe4ab4d45e7e677a45",
+    "symbol": "TVK",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://assets.coingecko.com/coins/images/13330/small/CoinGLogo.png"
   },
   {
     "name": "BNS Token on xDai",

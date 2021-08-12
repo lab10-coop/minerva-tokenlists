@@ -4,6 +4,7 @@
 # requires jq (apt install jq)
 
 set -euo pipefail
+set -x
 
 # takes a json file with a token list as input. Deduplicated by chainId,lowercase(address)
 function deduplicate {
