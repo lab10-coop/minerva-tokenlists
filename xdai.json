@@ -64,12 +64,28 @@
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x408e41876cCCDC0F92210600ef50372656052a38/logo.png"
   },
   {
+    "name": "SHE Sweatpants",
+    "address": "0x0dae13fae64180d3cadcad22329a4abcaef15ca6",
+    "symbol": "PANTS",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/ShenaniganDApp/unisocks/master/src/components/Gallery/pantsToken.png"
+  },
+  {
     "name": "Energi on xDai",
     "address": "0x0dcfed2c3041e66b2d8c4ea39782c60355716316",
     "symbol": "NRGE",
     "decimals": 18,
     "chainId": 100,
     "logoURI": "https://etherscan.io/token/images/energi_32.png"
+  },
+  {
+    "name": "PILLAR from Ethereum",
+    "address": "0x10beea85519a704a63765d396415f9ea5aa30a17",
+    "symbol": "PLR",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://etherscan.io/token/images/pillar_32.png"
   },
   {
     "name": "DAOstack on xDai",
@@ -120,6 +136,14 @@
     "logoURI": "https://etherscan.io/token/images/testa_32.png"
   },
   {
+    "name": "Raid Guild Token from Ethereum",
+    "address": "0x18e9262e68cc6c6004db93105cc7c001bb103e49",
+    "symbol": "RAID",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/xdai/0x18e9262e68cc6c6004db93105cc7c001bb103e49/logo.png"
+  },
+  {
     "name": "Cream on xDai",
     "address": "0x1939d3431cf0e44b1d63b86e2ce489e5a341b1bf",
     "symbol": "CREAM",
@@ -142,6 +166,14 @@
     "decimals": 18,
     "chainId": 100,
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/xdai/assets/0x1e16aa4Df73d29C029d94CeDa3e3114EC191E25A/logo.png"
+  },
+  {
+    "name": "FOX from Ethereum",
+    "address": "0x21a42669643f45bc0e086b8fc2ed70c23d67509d",
+    "symbol": "FOX",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/uniswap/assets/master/blockchains/ethereum/assets/0xc770EEfAd204B5180dF6a14Ee197D99d808ee52d/logo.png"
   },
   {
     "name": "0x Protocol Token on xDai",
@@ -379,7 +411,7 @@
     "logoURI": "https://assets.coingecko.com/coins/images/13256/small/api3.jpg"
   },
   {
-    "name": "Dai Stablecoin on xDai",
+    "name": "Dai Stablecoin from Ethereum",
     "address": "0x44fa8e6f47987339850636f88629646662444217",
     "symbol": "DAI",
     "decimals": 18,
@@ -634,7 +666,7 @@
     "logoURI": "https://etherscan.io/token/images/baseprotocol_32.png"
   },
   {
-    "name": "Wrapped Ether on xDai",
+    "name": "Wrapped Ether from Ethereum",
     "address": "0x6a023ccd1ff6f2045c3309768ead9e68f978f6e1",
     "symbol": "WETH",
     "decimals": 18,
@@ -962,7 +994,7 @@
     "logoURI": "https://etherscan.io/token/images/ethereummeta_32.png"
   },
   {
-    "name": "Gnosis on xDai",
+    "name": "Gnosis from Ethereum",
     "address": "0x9c58bacc331c9aa871afd802db6379a98e80cedb",
     "symbol": "GNO",
     "decimals": 18,
@@ -1047,7 +1079,7 @@
     "symbol": "PRTCLE",
     "decimals": 18,
     "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/ShenaniganDApp/scoreboard/master/assets/token.png"
+    "logoURI": "https://raw.githubusercontent.com/ShenaniganDApp/docs/master/static/img/SHELogo.png"
   },
   {
     "name": "TrueUSD on xDai",
@@ -1064,14 +1096,6 @@
     "decimals": 18,
     "chainId": 100,
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0Ae055097C6d159879521C384F1D2123D1f195e6/logo.png"
-  },
-  {
-    "name": "0xF3.tech",
-    "address": "0xb7d918d7631fcdd0954205e3a6b205a10a31a085",
-    "symbol": "TECH",
-    "decimals": 18,
-    "chainId": 100,
-    "logoURI": "https://avatars.githubusercontent.com/u/71916776?v=4"
   },
   {
     "name": "DXdao from Ethereum",
@@ -1290,6 +1314,14 @@
     "logoURI": "https://assets.coingecko.com/coins/images/12465/small/defi_pulse_index_set.png"
   },
   {
+    "name": "2to5 Poker Token",
+    "address": "0xd4becd6ebe72de8a46eed30d6b07aeb4b66287a9",
+    "symbol": "POKER",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://minerva.digital/i/POKER-Token.svg"
+  },
+  {
     "name": "AMIS on xDai",
     "address": "0xd51e1ddd116fff9a71c1b8feeb58113afa2b4d93",
     "symbol": "AMIS",
@@ -1330,7 +1362,7 @@
     "logoURI": "https://bscscan.com/token/images/busd_32.png"
   },
   {
-    "name": "USDC on xDai",
+    "name": "USDC from Ethereum",
     "address": "0xddafbb505ad214d7b80b1f830fccc89b60fb7a83",
     "symbol": "USDC",
     "decimals": 6,
@@ -1386,7 +1418,7 @@
     "logoURI": "https://etherscan.io/token/images/bandtoken_32.png"
   },
   {
-    "name": "ChainLink Token on xDai",
+    "name": "ChainLink Token from Ethereum",
     "address": "0xe2e73a1c69ecf83f464efce6a5be353a37ca09b2",
     "symbol": "LINK",
     "decimals": 18,
@@ -1475,14 +1507,6 @@
     "decimals": 18,
     "chainId": 100,
     "logoURI": "https://xion.finance/images/xgt_icon.png"
-  },
-  {
-    "name": "Fedoragold Coin from Ethereum",
-    "address": "0xf2197c8b553e37e949815360d5ca5e745e925511",
-    "symbol": "BFED",
-    "decimals": 8,
-    "chainId": 100,
-    "logoURI": "https://git.fedoragold.com/FedoraGold/fedswap/raw/branch/main/favicon.png"
   },
   {
     "name": "Robonomics on xDai",
