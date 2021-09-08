@@ -1021,7 +1021,7 @@
     "symbol": "RAMP",
     "decimals": 18,
     "chainId": 137,
-    "logoURI": "https://rampdefi.com/assets/RAMP_LOGO_V4_256.png"
+    "logoURI": "https://assets.coingecko.com/coins/images/12837/small/RAMP-Logo-v2-1000pxsq.png?1617952606"
   },
   {
     "name": "IOI Token",
@@ -1086,6 +1086,17 @@
     "decimals": 8,
     "chainId": 137,
     "logoURI": "https://i.imgur.com/KTS2F7I.png"
+  },
+  {
+    "chainId": 137,
+    "address": "0xc0b2983a17573660053beeed6fdb1053107cf387",
+    "name": "Minerva Wallet SuperToken",
+    "symbol": "MIVA",
+    "decimals": 18,
+    "logoURI": "https://minerva.digital/i/MIVA-Token.svg",
+    "tags": [
+      "SuperToken"
+    ]
   },
   {
     "name": "Tether USD",
@@ -1349,7 +1360,7 @@
     "symbol": "rUSD",
     "decimals": 18,
     "chainId": 137,
-    "logoURI": "https://rampdefi.com/assets/rUSD-Logo-200.png"
+    "logoURI": "https://assets.coingecko.com/coins/images/16184/small/rUSD-Logo-200.png?1623231145"
   },
   {
     "name": "ZeroSwapToken",
