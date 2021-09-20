@@ -13,6 +13,8 @@ function deduplicate {
 	jq '.[].address |= ascii_downcase | unique_by(.chainId,.address)' $infile > $outfile
 }
 
+############ ETHEREUM ###########
+
 ethSource1="http://tokens.1inch.eth.link/"
 ethSource2="https://tokens.coingecko.com/uniswap/all.json"
 
@@ -26,6 +28,7 @@ rm -f eth?.json
 
 echo "built eth list with $(jq '.|length' eth.json) elements"
 
+########### XDAI ###########
 
 xdaiSource1="https://raw.githubusercontent.com/1Hive/default-token-list/master/src/tokens/xdai.json"
 
@@ -39,6 +42,8 @@ rm -f xdai?.json
 
 echo "built xdai list with $(jq '.|length' xdai.json) elements"
 
+########### MATIC ############
+
 maticSource1="https://unpkg.com/quickswap-default-token-list/build/quickswap-default.tokenlist.json"
 
 curl -f -s -L $maticSource1 | jq '.tokens' > matic1.json
@@ -47,11 +52,24 @@ deduplicate matic0.json matic.json
 rm -f matic?.json
 echo "built matic list with $(jq '.|length' matic.json) elements"
 
+########### BSC ############
+
+bscSource1="https://tokens.pancakeswap.finance/pancakeswap-extended.json"
+
+curl -f -s -L $bscSource1 | jq '.tokens' > bsc1.json
+jq -s '.|flatten' lab10_bsc_overlay.json bsc1.json > bsc0.json
+deduplicate bsc0.json bsc.json
+rm -f bsc?.json
+echo "built bsc list with $(jq '.|length' bsc.json) elements"
+
+########### ARTIS ############
+
 # the sigma1 list is static for now
 echo "validated sigma1 list with $(jq '.|length' sigma1.json) elements"
 
+########### merge all ###########
 
 # compile a multi-network list
-jq -s '.|flatten' eth.json xdai.json sigma1.json matic.json > all.json
+jq -s '.|flatten' eth.json xdai.json sigma1.json matic.json bsc.json > all.json
 
 echo "built all list with $(jq '.|length' all.json) elements"
