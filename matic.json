@@ -304,6 +304,14 @@
     "logoURI": "https://raw.githubusercontent.com/iotexproject/iotex-token-metadata/master/images/io1nxetpma4de3wx6tqcgxdtj5wc64a24t64dc76s.png"
   },
   {
+    "name": "Morpheus Infrastructure Token",
+    "address": "0x31042a4e66eda0d12143ffc8cc1552d611da4cba",
+    "symbol": "MITx",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/3164/small/mitx.png?1604888269"
+  },
+  {
     "name": "EthLend Token",
     "address": "0x313d009888329c9d1cf4f75ca3f32566335bd604",
     "symbol": "LEND",
@@ -408,6 +416,14 @@
     "logoURI": "https://raw.githubusercontent.com/PancakeBunny-finance/PolygonBUNNY/main/assets/token-bunny_32x32.png"
   },
   {
+    "name": "OddzToken",
+    "address": "0x4e830f67ec499e69930867f9017aeb5b3f629c73",
+    "symbol": "ODDZ",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/14421/small/img_circle_200x200.png?1617345151"
+  },
+  {
     "name": "Holyheld",
     "address": "0x521cddc0cba84f14c69c1e99249f781aa73ee0bc",
     "symbol": "HH",
@@ -440,6 +456,14 @@
     "logoURI": "https://assets.coingecko.com/coins/images/13415/small/anrkey.jpg?1608311301"
   },
   {
+    "name": "Zerogoki USD",
+    "address": "0x5668f6d40e15188045a1de6295054103c13ffac1",
+    "symbol": "zUSD",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/17028/small/iconUSD.png?1626619046"
+  },
+  {
     "name": "Qi Dao",
     "address": "0x580a84c73811e1839f75d86d75d88cca0c241ff4",
     "symbol": "QI",
@@ -456,12 +480,28 @@
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/1883.png"
   },
   {
+    "name": "ETHA",
+    "address": "0x59e9261255644c411afdd00bd89162d09d862e38",
+    "symbol": "ETHA",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/14141/small/etha_logo200x200.png?1614646986"
+  },
+  {
     "name": "UniLend Finance Token",
     "address": "0x5b4cf2c120a9702225814e18543ee658c5f8631e",
     "symbol": "UFT",
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://assets.coingecko.com/coins/images/12819/small/UniLend_Finance_logo_PNG.png?1602748658"
+  },
+  {
+    "name": "Binance Token",
+    "address": "0x5c4b7ccbf908e64f32e12c6650ec0c96d717f03f",
+    "symbol": "BNB",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/825/small/binance-coin-logo.png?1547034615"
   },
   {
     "name": "pSwampy",
@@ -888,6 +928,14 @@
     "logoURI": "https://etherscan.io/token/images/indexed-cc10_32.png"
   },
   {
+    "name": "Phoenix Token",
+    "address": "0x9c6bfedc14b5c23e3900889436edca7805170f01",
+    "symbol": "PHX",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/17675/small/phx_logo.png?1628832432"
+  },
+  {
     "name": "Must",
     "address": "0x9c78ee466d6cb57a4d01fd887d2b5dfb2d46288f",
     "symbol": "MUST",
@@ -1062,6 +1110,14 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://raw.githubusercontent.com/sameepsi/quickswap-default-token-list/master/assets/IQ.png"
+  },
+  {
+    "name": "Zerogoki Token",
+    "address": "0xb9f9e37c2cdbaff928c3da730b02f06fe09ae70e",
+    "symbol": "REI",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/17015/small/iconZerogoki.png?1626618921"
   },
   {
     "name": "Unreal Governance Token",
