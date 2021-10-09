@@ -39281,6 +39281,14 @@
     "logoURI": "https://etherscan.io/token/images/celer_28.png"
   },
   {
+    "name": "Streamr DATA on xDai",
+    "address": "0x256eb8a51f382650b2a1e946b8811953640ee47d",
+    "symbol": "DATA",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://streamr-public.s3.amazonaws.com/streamr-new-token-mark-256px.png"
+  },
+  {
     "name": "Nexo on xDai",
     "address": "0x26dc03e492763068ccfe7c39b93a22442807c360",
     "symbol": "NEXO",
@@ -40521,14 +40529,6 @@
     "decimals": 18,
     "chainId": 100,
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x514910771AF9Ca656af840dff83E8264EcF986CA/logo.png"
-  },
-  {
-    "name": "Streamr DATA on xDai",
-    "address": "0xe4a2620ede1058d61bee5f45f6414314fdf10548",
-    "symbol": "DATA",
-    "decimals": 18,
-    "chainId": 100,
-    "logoURI": "https://etherscan.io/token/images/streamr2_28.png"
   },
   {
     "name": "BZRX",
@@ -43575,6 +43575,14 @@
     "chainId": 56,
     "decimals": 18,
     "logoURI": "https://tokens.pancakeswap.finance/images/0xBd2949F67DcdC549c6Ebe98696449Fa79D988A9F.png"
+  },
+  {
+    "name": "Beta Finance",
+    "symbol": "BETA",
+    "address": "0xbe1a001fe942f96eea22ba08783140b9dcc09d28",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0xBe1a001FE942f96Eea22bA08783140B9Dcc09D28.png"
   },
   {
     "name": "Uniswap",
