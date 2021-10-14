@@ -144,6 +144,14 @@
     "logoURI": "https://aavegotchi.com/images/matokens/maWETH.svg"
   },
   {
+    "name": "BLOK",
+    "address": "0x229b1b6c23ff8953d663c4cbb519717e323a0a84",
+    "symbol": "BLOK",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://pbs.twimg.com/profile_images/1443182135410634754/l1wH-p3b_400x400.jpg"
+  },
+  {
     "name": "HEXX",
     "address": "0x23d29d30e35c5e8d321e1dc9a8a61bfd846d4c5c",
     "symbol": "HEX",
@@ -334,6 +342,22 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://i.imgur.com/ncleoTN.png"
+  },
+  {
+    "name": "UnirisToken",
+    "address": "0x3c720206bfacb2d16fa3ac0ed87d2048dbc401fc",
+    "symbol": "UCO",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/12330/small/e353ZVj.png?1599112996"
+  },
+  {
+    "name": "IRISnet",
+    "address": "0x3dc6052a693e4a2fc28eb2ea12fe0cfd3bd221d1",
+    "symbol": "IRIS",
+    "decimals": 6,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/5135/small/IRIS.png?1557999365"
   },
   {
     "name": "Frax Share",
@@ -992,6 +1016,14 @@
     "logoURI": "https://assets.coingecko.com/coins/images/2822/small/huobi-token-logo.png?1547036992"
   },
   {
+    "name": "Aluna",
+    "address": "0xa8fcee762642f156b5d757b6fabc36e06b6d4a1a",
+    "symbol": "ALN",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/14379/small/uaLoLU8c_400x400_%281%29.png?1627873106"
+  },
+  {
     "name": "DinoSwap",
     "address": "0xaa9654becca45b5bdfa5ac646c939c62b527d394",
     "symbol": "DINO",
@@ -1054,6 +1086,14 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://raw.githubusercontent.com/sameepsi/quickswap-interface/master/public/favicon1.png"
+  },
+  {
+    "name": "Persistence",
+    "address": "0xb3b9c016ad1e9f7efdae451b04ef696e05658b32",
+    "symbol": "XPRT",
+    "decimals": 6,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/14582/small/512_Light.png?1617149658"
   },
   {
     "name": "Wise Token",
@@ -1235,14 +1275,6 @@
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e/logo.png"
   },
   {
-    "name": "Iris",
-    "address": "0xdab35042e63e93cc8556c9bae482e5415b5ac4b1",
-    "symbol": "IRIS",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://www.hermesdefi.io/hermes-logo-1.png"
-  },
-  {
     "name": "Matic Aave interest bearing USDT",
     "address": "0xdae5f1590db13e3b40423b5b5c5fbf175515910b",
     "symbol": "maUSDT",
@@ -1323,12 +1355,28 @@
     "logoURI": "https://assets.coingecko.com/coins/images/16185/small/Pera.jpg?1623238387"
   },
   {
+    "name": "Regen Network",
+    "address": "0xec482de9569a5ea3dd9779039b79e53f15791fde",
+    "symbol": "REGEN",
+    "decimals": 6,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/16733/small/REGEN.png?1624861317"
+  },
+  {
     "name": "O3 Swap Token",
     "address": "0xee9801669c6138e84bd50deb500827b776777d28",
     "symbol": "O3",
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://assets.coingecko.com/coins/images/15460/small/o3.png?1620904316"
+  },
+  {
+    "name": "Akash Network",
+    "address": "0xf14fbc6b30e2c4bc05a1d4fbe34bf9f14313309d",
+    "symbol": "AKT",
+    "decimals": 6,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/12785/small/akash-logo.png?1615447676"
   },
   {
     "name": "Standard",
