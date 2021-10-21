@@ -32,14 +32,6 @@
     "logoURI": "https://assets.coingecko.com/coins/images/6331/small/5fbb9e5b8f27d74dd8bcb912_xcash_coingecko_logo.png?1606133752"
   },
   {
-    "name": "Krill",
-    "address": "0x05089c9ebffa4f0aca269e32056b1b36b37ed71b",
-    "symbol": "Krill",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://i.imgur.com/REyP9yh.jpg"
-  },
-  {
     "name": "Elementeum",
     "address": "0x07738eb4ce8932ca961c815cb12c9d4ab5bd0da4",
     "symbol": "ELET",
@@ -584,6 +576,14 @@
     "logoURI": "https://assets.coingecko.com/coins/images/13629/small/COMBO_token_ol.png?1610701537"
   },
   {
+    "name": "SHIBA INU",
+    "address": "0x6f8a06447ff6fcf75d803135a7de15ce88c1d4ec",
+    "symbol": "SHIB",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/11939/small/shiba.png?1622619446"
+  },
+  {
     "name": "Gains V2",
     "address": "0x7075cab6bcca06613e2d071bd918d1a0241379e2",
     "symbol": "GFARM2",
@@ -720,6 +720,14 @@
     "logoURI": "https://assets.coingecko.com/coins/images/14101/small/Group-423.png?1614317472"
   },
   {
+    "name": "DefiPulse Index",
+    "address": "0x85955046df4668e1dd369d2de9f3aeb98dd2a369",
+    "symbol": "DPI",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/12465/small/defi_pulse_index_set.png?1600051053"
+  },
+  {
     "name": "YAMP.FINANCE",
     "address": "0x87f654c4b347230c60cad8d7ea9cf0d7238bcc79",
     "symbol": "YAMP",
@@ -832,14 +840,6 @@
     "logoURI": "https://assets.coingecko.com/coins/images/15761/small/xg1NFl0.png?1621825451"
   },
   {
-    "name": "PUSD",
-    "address": "0x9af3b7dc29d3c4b1a5731408b6a9656fa7ac3b72",
-    "symbol": "PUSD",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://assets.coingecko.com/coins/images/16762/small/PUSD-purple-200.png?1624937879"
-  },
-  {
     "name": "Darwinia",
     "address": "0x9c1c23e60b72bc88a043bf64afdb16a02540ae8f",
     "symbol": "Ring",
@@ -870,6 +870,14 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://i.loli.net/2021/07/28/K83jnTJzG9bq7Xt.png"
+  },
+  {
+    "name": "DeSpace Protocol",
+    "address": "0xa062fc09ca6bdeb2f6e3b77e1d4e09c42c964742",
+    "symbol": "DES",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://i.imgur.com/rb4P2E3.jpg"
   },
   {
     "name": "DSLA",
@@ -1054,6 +1062,14 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/10620.png"
+  },
+  {
+    "name": "Fantom Token",
+    "address": "0xb85517b87bf64942adf3a0b9e4c71e4bc5caa4e5",
+    "symbol": "FTM",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/4001/small/Fantom.png?1558015016"
   },
   {
     "name": "Zerogoki Token",
@@ -1243,6 +1259,14 @@
     "logoURI": "https://etherscan.io/token/images/telcoin_28.png"
   },
   {
+    "name": "Dogelon",
+    "address": "0xe0339c80ffde91f3e20494df88d4206d86024cdf",
+    "symbol": "ELON",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/14962/small/6GxcPRo3_400x400.jpg?1619157413"
+  },
+  {
     "name": "Matic Aave interest bearing DAI",
     "address": "0xe0b22e0037b130a9f56bbb537684e6fa18192341",
     "symbol": "maDAI",
@@ -1329,14 +1353,6 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://aavegotchi.com/images/matokens/maTUSD.svg"
-  },
-  {
-    "name": "YAYO Coin",
-    "address": "0xf7058856f405542cd660e8ce4751248f2d037f2b",
-    "symbol": "YAYO",
-    "decimals": 4,
-    "chainId": 137,
-    "logoURI": "https://raw.githubusercontent.com/YayoCorp/yayo-assets/master/avatar.png"
   },
   {
     "name": "AGA Rewards",
