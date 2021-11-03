@@ -152,6 +152,14 @@
     "logoURI": "https://pbs.twimg.com/profile_images/1443182135410634754/l1wH-p3b_400x400.jpg"
   },
   {
+    "name": "FireStarter",
+    "address": "0x22e3f02f86bc8ea0d73718a2ae8851854e62adc5",
+    "symbol": "FLAME",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/17359/small/Logo_black_%282%29.png?1634095075"
+  },
+  {
     "name": "HEXX",
     "address": "0x23d29d30e35c5e8d321e1dc9a8a61bfd846d4c5c",
     "symbol": "HEX",
@@ -336,6 +344,22 @@
     "logoURI": "https://i.imgur.com/ncleoTN.png"
   },
   {
+    "name": "Continuum",
+    "address": "0x3b1a0c9252ee7403093ff55b4a5886d49a3d837a",
+    "symbol": "UM",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/18798/small/Moneda.png?1633474110"
+  },
+  {
+    "name": "Wall Street Games",
+    "address": "0x3c1bb39bb696b443a1d80bb2b3a3d950ba9dee87",
+    "symbol": "WSG",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://i.imgur.com/BDibHLm.png"
+  },
+  {
     "name": "PureFi Token",
     "address": "0x3c205c8b3e02421da82064646788c82f7bd753b9",
     "symbol": "UFI",
@@ -366,6 +390,22 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://avatars.githubusercontent.com/u/56005256?s=200&v=4"
+  },
+  {
+    "name": "AutoMatic",
+    "address": "0x3eb177a6693ec81d1e170136f8ad02fffbe172a7",
+    "symbol": "AUMI",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/19413/small/automatic.PNG?1635212504"
+  },
+  {
+    "name": "GameStation",
+    "address": "0x3f6b3595ecf70735d3f48d69b09c4e4506db3f47",
+    "symbol": "GAMER",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/19584/small/game_station.PNG?1635471603"
   },
   {
     "name": "Nexo",
@@ -597,7 +637,7 @@
     "symbol": "START",
     "decimals": 18,
     "chainId": 137,
-    "logoURI": "https://starter.xyz/logo_poly_sym.png"
+    "logoURI": "https://assets.coingecko.com/coins/images/14301/small/logo_poly_sym.png?1624893386"
   },
   {
     "name": "Furucombo",
@@ -616,12 +656,12 @@
     "logoURI": "https://assets.coingecko.com/coins/images/11939/small/shiba.png?1622619446"
   },
   {
-    "name": "Gains V2",
-    "address": "0x7075cab6bcca06613e2d071bd918d1a0241379e2",
-    "symbol": "GFARM2",
-    "decimals": 18,
+    "name": "Hanu Yokia",
+    "address": "0x709a4b6217584188ddb93c82f5d716d969acce1c",
+    "symbol": "HANU",
+    "decimals": 12,
     "chainId": 137,
-    "logoURI": "https://gains.farm/images/logo256.png"
+    "logoURI": "https://assets.coingecko.com/coins/images/17161/small/Goji_Hanu_Logo_200x200.png?1627127472"
   },
   {
     "name": "REVV",
@@ -678,14 +718,6 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://assets.coingecko.com/coins/images/12385/small/1619048513068.png?1622193581"
-  },
-  {
-    "name": "Orbit Bridge Polygon Binance Coin",
-    "address": "0x7e9928afe96fefb820b85b4ce6597b8f660fe4f4",
-    "symbol": "PBNB",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://assets.coingecko.com/coins/images/825/small/binance-coin-logo.png?1547034615"
   },
   {
     "name": "Orbit Bridge Polygon AUTOv2",
@@ -1072,6 +1104,14 @@
     "logoURI": "https://raw.githubusercontent.com/sameepsi/quickswap-interface/master/public/favicon1.png"
   },
   {
+    "name": "DeRace Token",
+    "address": "0xb35fcbcf1fd489fce02ee146599e893fdcdc60e6",
+    "symbol": "DERC",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/17438/small/derace-logo-black-coingecko.png?1627656907"
+  },
+  {
     "name": "Persistence",
     "address": "0xb3b9c016ad1e9f7efdae451b04ef696e05658b32",
     "symbol": "XPRT",
@@ -1425,14 +1465,6 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://assets.coingecko.com/coins/images/16184/small/rUSD-Logo-200.png?1623231145"
-  },
-  {
-    "name": "ZeroSwapToken",
-    "address": "0xfd4959c06fbcc02250952daebf8e0fb38cf9fd8c",
-    "symbol": "ZEE",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://pbs.twimg.com/profile_images/1366339230683652096/sit30Uuo_400x400.png"
   },
   {
     "name": "MaticVerse",
