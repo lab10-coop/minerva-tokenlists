@@ -112,6 +112,14 @@
     "logoURI": "https://kogefarm.io/koge-logo-01.png"
   },
   {
+    "name": "HBAR",
+    "address": "0x1646c835d70f76d9030df6baaeec8f65c250353d",
+    "symbol": "HBAR",
+    "decimals": 8,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/3688/small/mqTDGK7Q.png?1566256777"
+  },
+  {
     "name": "CRV",
     "address": "0x172370d5cd63279efa6d502dab29171933a610af",
     "symbol": "CRV",
@@ -134,14 +142,6 @@
     "decimals": 8,
     "chainId": 137,
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png"
-  },
-  {
-    "name": "Matic Aave interest bearing WETH",
-    "address": "0x20d3922b4a1a8560e1ac99fba4fade0c849e2142",
-    "symbol": "maWETH",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://aavegotchi.com/images/matokens/maWETH.svg"
   },
   {
     "name": "BLOK",
@@ -456,6 +456,14 @@
     "logoURI": "https://assets.coingecko.com/coins/images/14421/small/img_circle_200x200.png?1617345151"
   },
   {
+    "name": "Genesis",
+    "address": "0x51869836681bce74a514625c856afb697a013797",
+    "symbol": "GENESIS",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/19905/small/kKkWmniB_400x400.jpg?1636100432"
+  },
+  {
     "name": "ChainLink Token",
     "address": "0x53e0bca35ec356bd5dddfebbd1fc0fd03fabad39",
     "symbol": "LINK",
@@ -478,6 +486,14 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://assets.coingecko.com/coins/images/13415/small/anrkey.jpg?1608311301"
+  },
+  {
+    "name": "Million",
+    "address": "0x5647fe4281f8f6f01e84bce775ad4b828a7b8927",
+    "symbol": "MM",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/16825/small/logo200x200.png?1625834139"
   },
   {
     "name": "Zerogoki USD",
@@ -632,6 +648,14 @@
     "logoURI": "https://raw.githubusercontent.com/anyswap/Brand-assets/master/logo/c-128-white.svg"
   },
   {
+    "name": "JPY Coin",
+    "address": "0x6ae7dfc73e0dde2aa99ac063dcf7e8a63265108c",
+    "symbol": "JPYC",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/17277/small/WoZ8rruL_400x400.png?1627016492"
+  },
+  {
     "name": "BSCstarter",
     "address": "0x6ccf12b480a99c54b23647c995f4525d544a7e72",
     "symbol": "START",
@@ -736,14 +760,6 @@
     "logoURI": "https://assets.coingecko.com/coins/images/2707/small/UnibrightLogo_colorful_500x500_preview.png?1547036916"
   },
   {
-    "name": "Matic Aave interest bearing AAVE",
-    "address": "0x823cd4264c1b951c9209ad0deaea9988fe8429bf",
-    "symbol": "maAAVE",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://aavegotchi.com/images/matokens/maAAVE.svg"
-  },
-  {
     "name": "Quickswap",
     "address": "0x831753dd7087cac61ab5644b308642cc1c33dc13",
     "symbol": "QUICK",
@@ -792,20 +808,20 @@
     "logoURI": "https://assets.coingecko.com/coins/images/12465/small/defi_pulse_index_set.png?1600051053"
   },
   {
+    "name": "Lympo Market Token",
+    "address": "0x873801ae2ff12d816db9a7b082f5796bec64c82c",
+    "symbol": "LMT",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/15155/small/coin_%282%29.png?1619995483"
+  },
+  {
     "name": "YAMP.FINANCE",
     "address": "0x87f654c4b347230c60cad8d7ea9cf0d7238bcc79",
     "symbol": "YAMP",
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://yamp.finance/img/yamp_logo.svg"
-  },
-  {
-    "name": "Wrapped BUSD",
-    "address": "0x87ff96aba480f1813af5c780387d8de7cf7d8261",
-    "symbol": "WBUSD",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://assets.coingecko.com/coins/images/9576/small/BUSD.png?1568947766"
   },
   {
     "name": "DEGEN Index",
@@ -822,14 +838,6 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://polydoge.com/doge-webpage_files/doge.png"
-  },
-  {
-    "name": "Matic Aave interest bearing UNI",
-    "address": "0x8c8bdbe9cee455732525086264a4bf9cf821c498",
-    "symbol": "maUNI",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://aavegotchi.com/images/matokens/maUNI.svg"
   },
   {
     "name": "GAME Credits",
@@ -856,12 +864,20 @@
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
   },
   {
+    "name": "NFT Champions",
+    "address": "0x8f9e8e833a69aa467e42c46cca640da84dd4585f",
+    "symbol": "CHAMP",
+    "decimals": 8,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/19536/small/champ.png?1635905981"
+  },
+  {
     "name": "Relay Token",
     "address": "0x904371845bc56dcbbcf0225ef84a669b2fd6bd0d",
     "symbol": "RELAY",
     "decimals": 18,
     "chainId": 137,
-    "logoURI": "https://starter.xyz/Relay.png"
+    "logoURI": "https://assets.coingecko.com/coins/images/17816/small/relay-logo-200.png?1629339288"
   },
   {
     "name": "Helmet.insure on Polygon",
@@ -870,22 +886,6 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://i.imgur.com/VtDIzy7.png"
-  },
-  {
-    "name": "Matic Aave interest bearing USDC",
-    "address": "0x9719d867a500ef117cc201206b8ab51e794d3f82",
-    "symbol": "maUSDC",
-    "decimals": 6,
-    "chainId": 137,
-    "logoURI": "https://aavegotchi.com/images/matokens/maUSDC.svg"
-  },
-  {
-    "name": "Matic Aave interest bearing LINK",
-    "address": "0x98ea609569bd25119707451ef982b90e3eb719cd",
-    "symbol": "maLINK",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://aavegotchi.com/images/matokens/maLINK.svg"
   },
   {
     "name": "BABYQUICK",
@@ -928,14 +928,6 @@
     "logoURI": "https://cloudstorage.openocean.finance/image/ooe_log.png"
   },
   {
-    "name": "loserchick",
-    "address": "0x9e725cf7265d12fd5f59499aff1258ca92cac74d",
-    "symbol": "CHICK",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://i.loli.net/2021/07/28/K83jnTJzG9bq7Xt.png"
-  },
-  {
     "name": "DeSpace Protocol",
     "address": "0xa062fc09ca6bdeb2f6e3b77e1d4e09c42c964742",
     "symbol": "DES",
@@ -958,14 +950,6 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://assets.coingecko.com/coins/images/14040/small/6YPdWn6.png?1613975899"
-  },
-  {
-    "name": "Bytom minted",
-    "address": "0xa16eba3b7562fc92597579a80fe53a92dcab7122",
-    "symbol": "mBTM",
-    "decimals": 8,
-    "chainId": 137,
-    "logoURI": "https://i.imgur.com/q0LZUrw.png"
   },
   {
     "name": "Decentraland MANA",
@@ -1120,6 +1104,14 @@
     "logoURI": "https://assets.coingecko.com/coins/images/14582/small/512_Light.png?1617149658"
   },
   {
+    "name": "pTokens PNT",
+    "address": "0xb6bcae6468760bc0cdfb9c8ef4ee75c9dd23e1ed",
+    "symbol": "PNT",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/11659/small/pNetwork.png?1592411134"
+  },
+  {
     "name": "Wise Token",
     "address": "0xb77e62709e39ad1cbeebe77cf493745aec0f453a",
     "symbol": "WISE",
@@ -1150,6 +1142,14 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://assets.coingecko.com/coins/images/17015/small/iconZerogoki.png?1626618921"
+  },
+  {
+    "name": "MacaronSwap Token",
+    "address": "0xba25b552c8a098afdf276324c32c71fe28e0ad40",
+    "symbol": "MCRN",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/14633/small/macaron.png?1623038435"
   },
   {
     "name": "Unreal Governance Token",
@@ -1291,6 +1291,14 @@
     "logoURI": "https://etherscan.io/token/images/aave_32.png"
   },
   {
+    "name": "pTokens BTC",
+    "address": "0xd7ecf95cf7ef5256990beaf4ac895cd9e64cb947",
+    "symbol": "pBTC",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/10805/small/J51iIea.png?1583891599"
+  },
+  {
     "name": "Celsius",
     "address": "0xd85d1e945766fea5eda9103f918bd915fbca63e6",
     "symbol": "CEL",
@@ -1307,28 +1315,12 @@
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e/logo.png"
   },
   {
-    "name": "Matic Aave interest bearing USDT",
-    "address": "0xdae5f1590db13e3b40423b5b5c5fbf175515910b",
-    "symbol": "maUSDT",
-    "decimals": 6,
-    "chainId": 137,
-    "logoURI": "https://aavegotchi.com/images/matokens/maUSDT.svg"
-  },
-  {
     "name": "Centaur Token",
     "address": "0xdae89da41a96956e9e70320ac9c0dd077070d3a5",
     "symbol": "CNTR",
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://assets.coingecko.com/coins/images/12743/small/logo_%2898%29.png?1602630445"
-  },
-  {
-    "name": "renBTC",
-    "address": "0xdbf31df14b66535af65aac99c32e9ea844e14501",
-    "symbol": "renBTC",
-    "decimals": 8,
-    "chainId": 137,
-    "logoURI": "https://assets.coingecko.com/coins/images/11370/small/Bitcoin.jpg?1628072791"
   },
   {
     "name": "Telcoin",
@@ -1345,22 +1337,6 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://assets.coingecko.com/coins/images/14962/small/6GxcPRo3_400x400.jpg?1619157413"
-  },
-  {
-    "name": "Matic Aave interest bearing DAI",
-    "address": "0xe0b22e0037b130a9f56bbb537684e6fa18192341",
-    "symbol": "maDAI",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://aavegotchi.com/images/matokens/maDAI.svg"
-  },
-  {
-    "name": "Matic Aave interest bearing YFI",
-    "address": "0xe20f7d1f0ec39c4d5db01f53554f2ef54c71f613",
-    "symbol": "maYFI",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://aavegotchi.com/images/matokens/maYFI.svg"
   },
   {
     "name": "Gains Network",
@@ -1433,14 +1409,6 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://assets.coingecko.com/coins/images/17641/small/QRE5xI0.png?1628741510"
-  },
-  {
-    "name": "Matic Aave interest bearing TUSD",
-    "address": "0xf4b8888427b00d7caf21654408b7cba2ecf4ebd9",
-    "symbol": "maTUSD",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://aavegotchi.com/images/matokens/maTUSD.svg"
   },
   {
     "name": "AGA Rewards",
