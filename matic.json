@@ -1152,6 +1152,17 @@
     "logoURI": "https://assets.coingecko.com/coins/images/12129/small/sandbox_logo.jpg?1597397942"
   },
   {
+    "chainId": 137,
+    "address": "0xbd80cfa9d93a87d1bb895f810ea348e496611cd4",
+    "name": "Own a fraction",
+    "symbol": "FRACTION",
+    "decimals": 18,
+    "logoURI": "https://fraction.fyi/static/Fraction-Token_MC-WB_Polygon.svg",
+    "tags": [
+      "SuperToken"
+    ]
+  },
+  {
     "name": "GemBites",
     "address": "0xbe9512e2754cb938dd69bbb96c8a09cb28a02d6d",
     "symbol": "GBTS",
@@ -1523,6 +1534,14 @@
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
   },
   {
+    "name": "Wrapped Matic",
+    "address": "0x9c3c9283d3e44854697cd22d3faa240cfb032889",
+    "symbol": "WMATIC",
+    "decimals": 18,
+    "chainId": 80001,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0/logo.png"
+  },
+  {
     "name": "Dai Stablecoin",
     "address": "0xcb1e72786a6eb3b44c2a2429e317c8a2462cfeb1",
     "symbol": "DAI",
@@ -1531,11 +1550,11 @@
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
   },
   {
-    "name": "Wrapped Matic",
-    "address": "0xd0a1e359811322d97991e03f863a0c30c2cf029c",
-    "symbol": "WMATIC",
+    "name": "SAND",
+    "address": "0xe03489d4e90b22c59c5e23d45dfd59fc0db8a025",
+    "symbol": "SAND",
     "decimals": 18,
     "chainId": 80001,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0/logo.png"
+    "logoURI": "https://assets.coingecko.com/coins/images/12129/small/sandbox_logo.jpg?1597397942"
   }
 ]
