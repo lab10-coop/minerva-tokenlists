@@ -1549,6 +1549,14 @@
     "logoURI": "https://etherscan.io/token/images/robonomics_28.png"
   },
   {
+    "chainId": 100,
+    "address": "0xf557b2b73b872e6d2f43826f9d77b7402a363bc0",
+    "name": "De-xDai",
+    "symbol": "DXDC",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-tokenlists/master/images/DXDC.svg"
+  },
+  {
     "name": "Meridian Network on xDai",
     "address": "0xf99efeb34aff6d3099c41605e9ee778caec39317",
     "symbol": "LOCK",
@@ -1573,12 +1581,12 @@
     "logoURI": "https://etherscan.io/token/images/albcoin_32.png"
   },
   {
-    "name": "DeHive",
+    "chainId": 100,
     "address": "0xfbdd194376de19a88118e84e279b977f165d01b8",
+    "name": "DeHive.finance",
     "symbol": "DHV",
     "decimals": 18,
-    "chainId": 100,
-    "logoURI": "https://dehive.finance/logo_200x200.png"
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-tokenlists/master/images/dhv.svg"
   },
   {
     "name": "Dai Token from BSC",

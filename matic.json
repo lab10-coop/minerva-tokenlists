@@ -432,6 +432,14 @@
     "logoURI": "https://assets.coingecko.com/coins/images/18441/small/Coin_Forest_Knight_200x200.png?1632480031"
   },
   {
+    "chainId": 137,
+    "address": "0x4964b3b599b82c3fddc56e3a9ffd77d48c6af0f0",
+    "name": "Polycluster",
+    "symbol": "DPOL",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-tokenlists/master/images/DPOL.svg"
+  },
+  {
     "name": "Polygon BUNNY Token",
     "address": "0x4c16f69302ccb511c5fac682c7626b9ef0dc126a",
     "symbol": "polyBUNNY",
@@ -512,6 +520,14 @@
     "logoURI": "https://raw.githubusercontent.com/0xlaozi/qidao/main/images/qi.png"
   },
   {
+    "chainId": 137,
+    "address": "0x589ea336092184d9ed74b8263c4eeca73ed0ce7a",
+    "name": "Poly Gaming",
+    "symbol": "DGAME",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-tokenlists/master/images/DGAME.svg"
+  },
+  {
     "name": "Jarvis Reward Token",
     "address": "0x596ebe76e2db4470966ea395b0d063ac6197a8c5",
     "symbol": "JRT",
@@ -560,12 +576,12 @@
     "logoURI": "https://assets.coingecko.com/coins/images/18630/small/YtrqPIWc.png?1632710781"
   },
   {
-    "name": "DeHive.finance",
+    "chainId": 137,
     "address": "0x5fcb9de282af6122ce3518cde28b7089c9f97b26",
+    "name": "DeHive.finance",
     "symbol": "DHV",
     "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://assets.coingecko.com/coins/images/14926/small/logo_200x200.png?1626181831"
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-tokenlists/master/images/dhv.svg"
   },
   {
     "name": "Impermax",

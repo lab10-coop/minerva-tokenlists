@@ -16,5 +16,29 @@
     "decimals": 18,
     "logoURI": "https://fraction.fyi/static/Fraction-Token_MC-WB_Polygon.svg",
     "tags": [ "SuperToken" ]
+  },
+  {
+    "chainId": 137,
+    "address": "0x5fCB9de282Af6122ce3518CDe28B7089c9F97b26",
+    "name": "DeHive.finance",
+    "symbol": "DHV",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-tokenlists/master/images/dhv.svg"
+  },
+  {
+    "chainId": 137,
+    "address": "0x4964B3B599B82C3FdDC56e3A9Ffd77d48c6AF0f0",
+    "name": "Polycluster",
+    "symbol": "DPOL",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-tokenlists/master/images/DPOL.svg"
+  },
+  {
+    "chainId": 137,
+    "address": "0x589Ea336092184d9eD74b8263c4eecA73Ed0cE7a",
+    "name": "Poly Gaming",
+    "symbol": "DGAME",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-tokenlists/master/images/DGAME.svg"
   }
 ]
