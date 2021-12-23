@@ -16,7 +16,7 @@ function deduplicate {
 ############ ETHEREUM ###########
 
 ethSource1="http://tokens.1inch.eth.link/"
-ethSource2="https://tokens.coingecko.com/uniswap/all.json"
+ethSource2="https://api.coinmarketcap.com/data-api/v3/uniswap/all.json"
 
 curl -f -s $ethSource1 | jq '.tokens' > eth1.json
 curl -f -s $ethSource2 | jq '.tokens' > eth2.json
