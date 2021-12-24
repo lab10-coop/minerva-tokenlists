@@ -7481,6 +7481,14 @@
   },
   {
     "chainId": 1,
+    "name": "Luxury Boom Square",
+    "address": "0x1f3de274e1148390f96814f0ce8e192e4809936a",
+    "decimals": 18,
+    "symbol": "LBS",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/16416.png"
+  },
+  {
+    "chainId": 1,
     "address": "0x1f3f677ecc58f6a1f9e2cf410df4776a8546b5de",
     "name": "VNDC",
     "symbol": "VNDC",
@@ -17825,11 +17833,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x4a7397b0b86bb0f9482a3f4f16de942f04e88702",
     "name": "Freeway Token",
-    "symbol": "FWT",
+    "address": "0x4a7397b0b86bb0f9482a3f4f16de942f04e88702",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/13012/thumb/A-200px.png?1604381296"
+    "symbol": "FWT",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7585.png"
   },
   {
     "chainId": 1,
@@ -19681,11 +19689,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x51fe2e572e97bfeb1d719809d743ec2675924edc",
     "name": "VLaunch",
+    "address": "0x51fe2e572e97bfeb1d719809d743ec2675924edc",
+    "decimals": 10,
     "symbol": "VPAD",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/20838/thumb/vlaunch_22.png?1637738535"
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/14540.png"
   },
   {
     "chainId": 1,
@@ -20150,6 +20158,14 @@
     "decimals": 18,
     "symbol": "PRINT",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7089.png"
+  },
+  {
+    "chainId": 1,
+    "name": "GhostBlade Inu",
+    "address": "0x54b8e638aa2c7a6040f2820f8118237a7bfa0c0d",
+    "decimals": 9,
+    "symbol": "GHOSTBLADE",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/16391.png"
   },
   {
     "chainId": 1,
@@ -22598,6 +22614,14 @@
     "decimals": 8,
     "symbol": "XEN",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/5528.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Kayserispor Token",
+    "address": "0x5fc251c13c4ef172d87a32ab082897132b49435c",
+    "decimals": 2,
+    "symbol": "KYSR",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/16395.png"
   },
   {
     "chainId": 1,
@@ -27912,11 +27936,11 @@
   },
   {
     "chainId": 1,
+    "name": "Smart Marketing Token",
     "address": "0x76dbcba41e11784bfa95ce30e529fa533c3fa4ad",
-    "name": "Smart Marketing Tok",
-    "symbol": "SMT",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/21905/thumb/smt-logo.png?1640234993"
+    "symbol": "SMT",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/16402.png"
   },
   {
     "chainId": 1,
@@ -32314,8 +32338,8 @@
     "chainId": 1,
     "name": "FomoETH",
     "address": "0x8a65b987d9813f0a97446eda0de918b2573ae406",
-    "decimals": 9,
-    "symbol": "FOMOETH",
+    "decimals": 18,
+    "symbol": "FomoETH",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/16379.png"
   },
   {
@@ -32568,14 +32592,6 @@
   },
   {
     "chainId": 1,
-    "name": "Uzyth",
-    "address": "0x8b347235c4b6571cfe18ef7bac4be2029e1a3d25",
-    "decimals": 18,
-    "symbol": "ZYTH",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/4823.png"
-  },
-  {
-    "chainId": 1,
     "name": "IOI Token",
     "address": "0x8b3870df408ff4d7c3a26df852d41034eda11d81",
     "decimals": 18,
@@ -32720,7 +32736,7 @@
   },
   {
     "chainId": 1,
-    "name": "Kaiba Inu",
+    "name": "Kaiba DeFi",
     "address": "0x8bb048845ee0d75be8e07954b2e1e5b51b64b442",
     "decimals": 18,
     "symbol": "KAIBA",
@@ -33394,7 +33410,7 @@
     "chainId": 1,
     "name": "bePAY Finance",
     "address": "0x8f081eb884fd47b79536d28e2dd9d4886773f783",
-    "decimals": 6,
+    "decimals": 18,
     "symbol": "BECOIN",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/15734.png"
   },
@@ -33661,6 +33677,14 @@
     "decimals": 18,
     "symbol": "DOGUS",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/13919.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Hayate INU",
+    "address": "0x903aed40b7fcbe8de84a699151c9055f4c0a6db3",
+    "decimals": 18,
+    "symbol": "HINU",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/16401.png"
   },
   {
     "chainId": 1,
@@ -36064,11 +36088,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x9ab7bb7fdc60f4357ecfef43986818a2a3569c62",
     "name": "Guild of Guardians",
-    "symbol": "GOG",
+    "address": "0x9ab7bb7fdc60f4357ecfef43986818a2a3569c62",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/17362/thumb/V2QDNoLg_400x400.jpg?1640054187"
+    "symbol": "GOG",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/10630.png"
   },
   {
     "chainId": 1,
@@ -39240,11 +39264,11 @@
   },
   {
     "chainId": 1,
-    "address": "0xa87135285ae208e22068acdbff64b11ec73eaa5a",
     "name": "Lunr Token",
+    "address": "0xa87135285ae208e22068acdbff64b11ec73eaa5a",
+    "decimals": 18,
     "symbol": "LUNR",
-    "decimals": 4,
-    "logoURI": "https://assets.coingecko.com/coins/images/19256/thumb/lunr.png?1639975807"
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/12971.png"
   },
   {
     "chainId": 1,
@@ -40912,11 +40936,11 @@
   },
   {
     "chainId": 1,
+    "name": "ACY FINANCE",
     "address": "0xaf9db9e362e306688af48c4acb9618c06db38ac3",
-    "name": "ACY Finance",
-    "symbol": "ACY",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/21883/thumb/ubfPhcEK_400x400.jpg?1640214613"
+    "symbol": "ACY",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/15756.png"
   },
   {
     "chainId": 1,
@@ -42005,14 +42029,6 @@
     "symbol": "ABI",
     "decimals": 9,
     "logoURI": "https://assets.coingecko.com/coins/images/17295/thumb/apeweblogov3-150x150.png?1627262852"
-  },
-  {
-    "chainId": 1,
-    "name": "Rocket Pool",
-    "address": "0xb4efd85c19999d84251304bda99e90b92300bd93",
-    "decimals": 18,
-    "symbol": "RPL",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2943.png"
   },
   {
     "chainId": 1,
@@ -43688,10 +43704,10 @@
   },
   {
     "chainId": 1,
-    "name": "ExenPay Token",
+    "name": "XNP",
     "address": "0xbcf91e60a6719eb3e9308addf1f7c6185c2af889",
     "decimals": 2,
-    "symbol": "EXENP",
+    "symbol": "XNP",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/12679.png"
   },
   {
@@ -45835,7 +45851,7 @@
     "name": "Podo Point",
     "symbol": "POD",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/13917/thumb/wkJXhZ0M_400x400.png?1612841009"
+    "logoURI": "https://assets.coingecko.com/coins/images/13917/thumb/-3pO9_FX_400x400.jpg?1640299042"
   },
   {
     "chainId": 1,
@@ -48103,11 +48119,11 @@
   },
   {
     "chainId": 1,
-    "address": "0xd15a1a2a3211b58113e45809f05934252e34e2f8",
     "name": "Woozoo Music",
-    "symbol": "WZM",
+    "address": "0xd15a1a2a3211b58113e45809f05934252e34e2f8",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/21891/thumb/logo_200_200_%281%29.png?1640228330"
+    "symbol": "WZM",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/16397.png"
   },
   {
     "chainId": 1,
@@ -48519,11 +48535,11 @@
   },
   {
     "chainId": 1,
-    "address": "0xd33526068d116ce69f19a9ee46f0bd304f21a51f",
     "name": "Rocket Pool",
-    "symbol": "RPL",
+    "address": "0xd33526068d116ce69f19a9ee46f0bd304f21a51f",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/2090/thumb/rocket_pool_%28RPL%29.png?1637662441"
+    "symbol": "RPL",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2943.png"
   },
   {
     "chainId": 1,
@@ -50247,7 +50263,7 @@
   },
   {
     "chainId": 1,
-    "name": "HumanDAO",
+    "name": "humanDAO",
     "address": "0xdac657ffd44a3b9d8aba8749830bf14beb66ff2d",
     "decimals": 18,
     "symbol": "HDAO",
@@ -53943,6 +53959,14 @@
   },
   {
     "chainId": 1,
+    "address": "0xec71d11ad500aadbe5af0297882b741b11d647bb",
+    "name": "SpideyFloki",
+    "symbol": "SPIDEYXMAS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/21925/thumb/XoS54P.jpg?1640277442"
+  },
+  {
+    "chainId": 1,
     "name": "GM Holding",
     "address": "0xec73a0f098073c4f43e393b9b2f36073a0484401",
     "decimals": 18,
@@ -54791,7 +54815,7 @@
   },
   {
     "chainId": 1,
-    "name": "Ponyo-Inu",
+    "name": "Ponyo Impact",
     "address": "0xf03f082bf49fe71c2ab8dfaf4f8d0aeaa1d3de14",
     "decimals": 18,
     "symbol": "PONYO",
@@ -55068,14 +55092,6 @@
     "symbol": "PP",
     "decimals": 8,
     "logoURI": "https://assets.coingecko.com/coins/images/19670/thumb/pensionplan-logo-200CG2.png?1635738403"
-  },
-  {
-    "chainId": 1,
-    "name": "Freeway Token",
-    "address": "0xf151980e7a781481709e8195744bf2399fb3cba4",
-    "decimals": 18,
-    "symbol": "FWT",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7585.png"
   },
   {
     "chainId": 1,
