@@ -3289,11 +3289,11 @@
   },
   {
     "chainId": 1,
+    "name": "Ooki Protocol",
     "address": "0x0de05f6447ab4d22c8827449ee4ba2d5c288379b",
-    "name": "Ooki",
-    "symbol": "OOKI",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/21719/thumb/OOKI_500x500.png?1640155873"
+    "symbol": "OOKI",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/16434.png"
   },
   {
     "chainId": 1,
@@ -7598,6 +7598,14 @@
     "decimals": 18,
     "symbol": "SWEET",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/11572.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x1fb359d35c209399f47b4c1a040bd49b24ae90be",
+    "name": "Autobahn",
+    "symbol": "ATB",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/21946/thumb/Autobahn_token_symbol_red.png?1640318611"
   },
   {
     "chainId": 1,
@@ -14169,6 +14177,14 @@
   },
   {
     "chainId": 1,
+    "name": "OpenDAO",
+    "address": "0x3b484b82567a09e2588a13d54d032153f0c0aee0",
+    "decimals": 18,
+    "symbol": "SOS",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/16463.png"
+  },
+  {
+    "chainId": 1,
     "name": "OFIN Token",
     "address": "0x3b4caaaf6f3ce5bee2871c89987cbd825ac30822",
     "decimals": 18,
@@ -17809,11 +17825,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x4a66e967d4bf0170fe74c26980073028b1f2809a",
     "name": "Fantasy World Gold",
-    "symbol": "FWG",
+    "address": "0x4a66e967d4bf0170fe74c26980073028b1f2809a",
     "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/20963/thumb/cropped-photo_2021-10-19-09.22.13.png?1638151342"
+    "symbol": "FWG",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/15259.png"
   },
   {
     "chainId": 1,
@@ -21417,14 +21433,6 @@
   },
   {
     "chainId": 1,
-    "name": "Sportium",
-    "address": "0x5ab6a4f46ce182356b6fa2661ed8ebcafce995ad",
-    "decimals": 18,
-    "symbol": "SPRT",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/15194.png"
-  },
-  {
-    "chainId": 1,
     "name": "YUKI",
     "address": "0x5ab793e36070f0fac928ea15826b0c1bc5365119",
     "decimals": 8,
@@ -24376,11 +24384,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x6765fdd028be3d7874bc2bb3d7d5ca01c1bf14b2",
     "name": "Talaria Inu",
-    "symbol": "TALI",
+    "address": "0x6765fdd028be3d7874bc2bb3d7d5ca01c1bf14b2",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/21849/thumb/200_%2815%29.png?1640137716"
+    "symbol": "TALI",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/16445.png"
   },
   {
     "chainId": 1,
@@ -27144,14 +27152,6 @@
   },
   {
     "chainId": 1,
-    "name": "Fantasy World Gold",
-    "address": "0x7345ffe6291bc15381a4110831013e8fe9f93253",
-    "decimals": 9,
-    "symbol": "FWG",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/15259.png"
-  },
-  {
-    "chainId": 1,
     "name": "Filecoin Standard Hashrate Token",
     "address": "0x7346ad4c8cd1886ff6d16072bcea5dfc0bc24ca2",
     "decimals": 18,
@@ -28357,14 +28357,6 @@
     "decimals": 18,
     "symbol": "FT",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2768.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x78a8c84b4c23563be4518e7045016d3170130823",
-    "name": "3X Short Zcash Toke",
-    "symbol": "ZECBEAR",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/16560/thumb/FTX_LOGO.png?1624453448"
   },
   {
     "chainId": 1,
@@ -32816,6 +32808,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x8c26ef28dcaecc6482ef9e086e8b81c0c0d18202",
+    "name": "PixelGas",
+    "symbol": "PIXELGAS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/21943/thumb/pixelgas.PNG?1640313299"
+  },
+  {
+    "chainId": 1,
     "name": "Satopay Network",
     "address": "0x8c3ee4f778e282b59d42d693a97b80b1ed80f4ee",
     "decimals": 18,
@@ -36261,6 +36261,14 @@
     "decimals": 18,
     "symbol": "MT",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2712.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x9b5161a41b58498eb9c5febf89d60714089d2253",
+    "name": "Meta Finance",
+    "symbol": "MF1",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/21954/thumb/eC1-dKKt_400x400.jpg?1640326512"
   },
   {
     "chainId": 1,
@@ -42328,6 +42336,14 @@
   },
   {
     "chainId": 1,
+    "name": "Incognito",
+    "address": "0xb64fde8f199f073f41c132b9ec7ad5b61de0b1b7",
+    "decimals": 9,
+    "symbol": "PRV",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/16459.png"
+  },
+  {
+    "chainId": 1,
     "name": "NNB Token",
     "address": "0xb66a2131a6b840dd020151f80723caed603efb51",
     "decimals": 18,
@@ -43028,7 +43044,7 @@
     "name": "Gearbox",
     "symbol": "GEAR",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/21630/thumb/logo_symbol_%281%29.png?1639626708"
+    "logoURI": "https://assets.coingecko.com/coins/images/21630/thumb/gear.png?1640330291"
   },
   {
     "chainId": 1,
@@ -47297,7 +47313,7 @@
     "chainId": 1,
     "name": "SafeMoon Inu",
     "address": "0xcd7492db29e2ab436e819b249452ee1bbdf52214",
-    "decimals": 8,
+    "decimals": 18,
     "symbol": "SMI",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/9958.png"
   },
@@ -49143,11 +49159,11 @@
   },
   {
     "chainId": 1,
-    "address": "0xd58f55b2c7b64afed8d21c5e852bcccae721e376",
     "name": "Baby Shibnobi",
-    "symbol": "BABYSHINJA",
+    "address": "0xd58f55b2c7b64afed8d21c5e852bcccae721e376",
     "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/20709/thumb/Ino0FHzd_400x400.jpg?1637573613"
+    "symbol": "BABYSHINJA",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/16462.png"
   },
   {
     "chainId": 1,
@@ -50924,6 +50940,14 @@
     "decimals": 18,
     "symbol": "DEUS",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/12972.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xde72a052cbb212eff11a4a33d61df9c5a2de8dd1",
+    "name": "Shuna Inuverse",
+    "symbol": "SHUNAV2",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/21526/thumb/Untitled-design-15.png?1639382131"
   },
   {
     "chainId": 1,
@@ -55836,6 +55860,14 @@
     "symbol": "SAUD",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/13665/thumb/sAUD.png?1610609254"
+  },
+  {
+    "chainId": 1,
+    "address": "0xf49f43c1e8b0c8ac13e63ec7921692a199029d49",
+    "name": "Coldbank",
+    "symbol": "COLD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/21952/thumb/kUfURTS.png?1640323710"
   },
   {
     "chainId": 1,
