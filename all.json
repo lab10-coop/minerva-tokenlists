@@ -2321,6 +2321,14 @@
   },
   {
     "chainId": 1,
+    "name": "PLT Token",
+    "address": "0x0944d5848bd9f60a34ba92aea300d4286696eb76",
+    "decimals": 18,
+    "symbol": "PLT",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/16272.png"
+  },
+  {
+    "chainId": 1,
     "name": "Lendingblock",
     "address": "0x0947b0e6d821378805c9598291385ce7c791a6b2",
     "decimals": 18,
@@ -3486,6 +3494,14 @@
     "symbol": "ATC",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/17325/thumb/atc.png?1627311439"
+  },
+  {
+    "chainId": 1,
+    "address": "0x0eb638648207d00b9025684d13b1cb53806debe4",
+    "name": "NIL",
+    "symbol": "NIL",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/21612/thumb/nil.PNG?1639608851"
   },
   {
     "chainId": 1,
@@ -4681,11 +4697,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x13c99770694f07279607a6274f28a28c33086424",
     "name": "Material",
-    "symbol": "MTRL",
+    "address": "0x13c99770694f07279607a6274f28a28c33086424",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/22069/thumb/square-200x200.png?1640749501"
+    "symbol": "MTRL",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/16688.png"
   },
   {
     "chainId": 1,
@@ -10193,6 +10209,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x2ac8172d8ce1c5ad3d869556fd708801a42c1c0e",
+    "name": "enVoy DeFi",
+    "symbol": "VOY",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/22105/thumb/voy_tokenconcepts-01-32x32-1-e1640735076388.png?1640828528"
+  },
+  {
+    "chainId": 1,
     "name": "UCBI Banking",
     "address": "0x2adba23cf1252de095aced801e758b369ec10426",
     "decimals": 8,
@@ -12801,14 +12825,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x35a5cb585d51d836922b78a9bb1f5c04635c39b6",
-    "name": "Decimated",
-    "symbol": "DIO",
-    "decimals": 8,
-    "logoURI": "https://assets.coingecko.com/coins/images/8271/thumb/dio_logo_coloured_transparent.png?1640744585"
-  },
-  {
-    "chainId": 1,
     "name": "Banyan Network",
     "address": "0x35a69642857083ba2f30bfab735dacc7f0bac969",
     "decimals": 18,
@@ -14353,14 +14369,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x3c021662c2d7bafcf31413388be5465b2e797381",
-    "name": "Artem",
-    "symbol": "ARTM",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/21998/thumb/ARTM_Logo_MAIN_%281%29.png?1640586249"
-  },
-  {
-    "chainId": 1,
     "name": "CoverCompared",
     "address": "0x3c03b4ec9477809072ff9cc9292c9b25d4a8e6c6",
     "decimals": 18,
@@ -14486,14 +14494,6 @@
     "decimals": 18,
     "symbol": "FIT",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/8499.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x3c76ef53be46ed2e9be224e8f0b92e8acbc24ea0",
-    "name": "Bitsou",
-    "symbol": "BTU",
-    "decimals": 3,
-    "logoURI": "https://assets.coingecko.com/coins/images/8378/thumb/61B3F6DFA9584DDAA760E74B12D6FAD3.png?1557823748"
   },
   {
     "chainId": 1,
@@ -15865,6 +15865,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x424909aea732e0b747e60c6ea9c35bb3e1311011",
+    "name": "Tracee Vision",
+    "symbol": "TRVS",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/22125/thumb/250x250.png?1640850791"
+  },
+  {
+    "chainId": 1,
     "name": "BUDDY",
     "address": "0x4257d9c82767d0bf1e53e14cdee1e9ce50ebdc3b",
     "decimals": 18,
@@ -16086,6 +16094,14 @@
     "decimals": 18,
     "symbol": "CHFU",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/14119.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x430ef9263e76dae63c84292c3409d61c598e9682",
+    "name": "Vulcan Forged",
+    "symbol": "PYR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/14770/thumb/1617088937196.png?1619414736"
   },
   {
     "chainId": 1,
@@ -18649,11 +18665,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x4cff49d0a19ed6ff845a9122fa912abcfb1f68a6",
     "name": "WadzPay Token",
-    "symbol": "WTK",
+    "address": "0x4cff49d0a19ed6ff845a9122fa912abcfb1f68a6",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/13083/thumb/200xWadzToken.png?1604984329"
+    "symbol": "WTK",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7645.png"
   },
   {
     "chainId": 1,
@@ -19446,6 +19462,14 @@
     "decimals": 18,
     "symbol": "SHIBGF",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/13618.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Coinweb",
+    "address": "0x505b5eda5e25a67e1c24a2bf1a527ed9eb88bf04",
+    "decimals": 18,
+    "symbol": "CWEB",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/12089.png"
   },
   {
     "chainId": 1,
@@ -20510,6 +20534,14 @@
     "decimals": 18,
     "symbol": "GSG",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/16464.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Bully Inu",
+    "address": "0x55d1d16fb42fce47b899010c996a3a31f6db8fd6",
+    "decimals": 18,
+    "symbol": "BINU",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/16681.png"
   },
   {
     "chainId": 1,
@@ -28400,14 +28432,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x78571accaf24052795f98b11f093b488a2d9eaa4",
-    "name": "Rocket Token",
-    "symbol": "RCKT",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12262/thumb/IAY0DFX4_400x400.jpg?1598584324"
-  },
-  {
-    "chainId": 1,
     "name": "Bumper",
     "address": "0x785c34312dfa6b74f6f1829f79ade39042222168",
     "decimals": 18,
@@ -32285,6 +32309,14 @@
     "decimals": 18,
     "symbol": "DRM",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/5837.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Yeager Inu",
+    "address": "0x8966f05d78f5c6ede8e964df705847fe2b6045b1",
+    "decimals": 9,
+    "symbol": "YEAGER",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/16677.png"
   },
   {
     "chainId": 1,
@@ -44911,6 +44943,14 @@
   },
   {
     "chainId": 1,
+    "address": "0xc13f4f0f865bac08f62654b57e38669ebc4747a3",
+    "name": "Creds",
+    "symbol": "CREDS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/22122/thumb/creds.png?1640848447"
+  },
+  {
+    "chainId": 1,
     "name": "sLTC",
     "address": "0xc14103c2141e842e228fbac594579e798616ce7a",
     "decimals": 18,
@@ -46220,14 +46260,6 @@
     "decimals": 18,
     "symbol": "BAR",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2431.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xc7596f3fc97ae603e1d7ffa61e6efb7b6a59bed2",
-    "name": "Yoo Ecology",
-    "symbol": "YOO",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/11021/thumb/logo.1a3fe1d.png?1587160083"
   },
   {
     "chainId": 1,
@@ -49407,6 +49439,14 @@
   },
   {
     "chainId": 1,
+    "name": "NFT Worlds",
+    "address": "0xd5d86fc8d5c0ea1ac1ac5dfab6e529c9967a45e9",
+    "decimals": 18,
+    "symbol": "WRLD",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/16678.png"
+  },
+  {
+    "chainId": 1,
     "name": "Decentralized Data Assets Management",
     "address": "0xd5dc8921a5c58fb0eba6db6b40eab40283dc3c01",
     "decimals": 9,
@@ -51447,14 +51487,6 @@
   },
   {
     "chainId": 1,
-    "name": "WadzPay Token",
-    "address": "0xdf9d4674a430bdcc096a3a403128357ab36844ba",
-    "decimals": 2,
-    "symbol": "WTK",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7645.png"
-  },
-  {
-    "chainId": 1,
     "name": "Kinguin Krowns",
     "address": "0xdfb410994b66778bd6cc2c82e8ffe4f7b2870006",
     "decimals": 18,
@@ -51767,6 +51799,14 @@
   },
   {
     "chainId": 1,
+    "name": "Benchmark Protocol Governance Token",
+    "address": "0xe0d8ed14cf46b5c12721df75460cb24495d01af3",
+    "decimals": 18,
+    "symbol": "BEND",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/16658.png"
+  },
+  {
+    "chainId": 1,
     "name": "PressOne",
     "address": "0xe0d95530820aafc51b1d98023aa1ff000b78d8b2",
     "decimals": 18,
@@ -51980,6 +52020,14 @@
     "decimals": 18,
     "symbol": "FCT",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/4953.png"
+  },
+  {
+    "chainId": 1,
+    "name": "The Winkyverse",
+    "address": "0xe1bda0c3bfa2be7f740f0119b6a34f057bd58eba",
+    "decimals": 18,
+    "symbol": "WNK",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/16652.png"
   },
   {
     "chainId": 1,
@@ -63119,6 +63167,14 @@
     "chainId": 56,
     "decimals": 18,
     "logoURI": "https://tokens.pancakeswap.finance/images/0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d.png"
+  },
+  {
+    "name": "Woonkly Power",
+    "symbol": "WOOP",
+    "address": "0x8b303d5bbfbbf46f1a4d9741e491e06986894e18",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x8b303d5BbfBbf46F1a4d9741E491e06986894e18.png"
   },
   {
     "name": "Dragon Kart",
