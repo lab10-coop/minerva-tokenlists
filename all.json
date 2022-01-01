@@ -2321,7 +2321,7 @@
   },
   {
     "chainId": 1,
-    "name": "PLT Token",
+    "name": "PLT",
     "address": "0x0944d5848bd9f60a34ba92aea300d4286696eb76",
     "decimals": 18,
     "symbol": "PLT",
@@ -3497,11 +3497,11 @@
   },
   {
     "chainId": 1,
+    "name": "NIL Coin",
     "address": "0x0eb638648207d00b9025684d13b1cb53806debe4",
-    "name": "NIL",
-    "symbol": "NIL",
     "decimals": 8,
-    "logoURI": "https://assets.coingecko.com/coins/images/21612/thumb/nil.PNG?1639608851"
+    "symbol": "NIL",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/15096.png"
   },
   {
     "chainId": 1,
@@ -8382,6 +8382,14 @@
     "decimals": 18,
     "symbol": "TOMATOS",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7142.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Exotix",
+    "address": "0x230bf0637628ef356b63d389e2ec6c77c8853a11",
+    "decimals": 9,
+    "symbol": "EXOTIX",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/16705.png"
   },
   {
     "chainId": 1,
@@ -14961,6 +14969,14 @@
   },
   {
     "chainId": 1,
+    "name": "New Year Resolution",
+    "address": "0x3ecf9840deb8e3c395e1941fc39ceb662bf5a1dd",
+    "decimals": 18,
+    "symbol": "NYR",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/16709.png"
+  },
+  {
+    "chainId": 1,
     "address": "0x3ed3b47dd13ec9a98b44e6204a523e766b225811",
     "name": "Aave USDT",
     "symbol": "AUSDT",
@@ -15430,14 +15446,6 @@
     "decimals": 18,
     "symbol": "HGH",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/4989.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x40c836982788dca47d11024b1fa3e01fd4661766",
-    "name": "BTCNEXT Coin",
-    "symbol": "BNX",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/8779/thumb/bnx_big.png?1561111777"
   },
   {
     "chainId": 1,
@@ -16097,11 +16105,11 @@
   },
   {
     "chainId": 1,
+    "name": "Vulcan Forged PYR",
     "address": "0x430ef9263e76dae63c84292c3409d61c598e9682",
-    "name": "Vulcan Forged",
-    "symbol": "PYR",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/14770/thumb/1617088937196.png?1619414736"
+    "symbol": "PYR",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/9308.png"
   },
   {
     "chainId": 1,
@@ -20457,14 +20465,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x558a069a3a1a1e72398607b9e3577fce1c67ea63",
-    "name": "JPYQ Stablecoin by ",
-    "symbol": "JPYQ",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/13271/thumb/1MMbEc4a.png?1606884873"
-  },
-  {
-    "chainId": 1,
     "name": "Bread",
     "address": "0x558ec3152e2eb2174905cd19aea4e34a23de9ad6",
     "decimals": 18,
@@ -21243,7 +21243,7 @@
     "chainId": 1,
     "name": "Powerledger",
     "address": "0x595832f8fc6bf59c85c527fec3740a1b7a361269",
-    "decimals": 6,
+    "decimals": 18,
     "symbol": "POWR",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2132.png"
   },
@@ -21406,6 +21406,14 @@
     "decimals": 18,
     "symbol": "OZP",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/5377.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x5a35a6686db167b05e2eb74e1ede9fb5d9cdb3e0",
+    "name": "Cigarette Token",
+    "symbol": "CIG",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/22145/thumb/cig.png?1640929916"
   },
   {
     "chainId": 1,
@@ -24642,17 +24650,17 @@
     "chainId": 1,
     "name": "Benchmark Protocol",
     "address": "0x67c597624b17b16fb77959217360b7cd18284253",
-    "decimals": 9,
+    "decimals": 18,
     "symbol": "MARK",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7765.png"
   },
   {
     "chainId": 1,
-    "address": "0x67cc621ab2d086a101cff3340df0a065ac75827c",
     "name": "Floki Musk",
-    "symbol": "FLOKI",
+    "address": "0x67cc621ab2d086a101cff3340df0a065ac75827c",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/18850/thumb/1632145919586.png?1633592006"
+    "symbol": "FLOKI",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/16703.png"
   },
   {
     "chainId": 1,
@@ -26653,6 +26661,14 @@
     "decimals": 18,
     "symbol": "TRBT",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7047.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x703d8574e19428d662a73c301d106dc236aa9bfc",
+    "name": "Teaswap Art",
+    "symbol": "TSA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/17826/thumb/tsa.PNG?1629358290"
   },
   {
     "chainId": 1,
@@ -31368,6 +31384,14 @@
   },
   {
     "chainId": 1,
+    "name": "DEVITA Global",
+    "address": "0x8640353cdc9778deab0df45d12fb3013deac079c",
+    "decimals": 18,
+    "symbol": "LIFE",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/16483.png"
+  },
+  {
+    "chainId": 1,
     "name": "Prosper",
     "address": "0x8642a849d0dcb7a15a974794668adcfbe4794b56",
     "decimals": 18,
@@ -35069,14 +35093,6 @@
     "symbol": "ETT",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/9111/thumb/NkGLvEO2_400x400.jpg?1564435046"
-  },
-  {
-    "chainId": 1,
-    "name": "Vulcan Forged PYR",
-    "address": "0x9534ad65fb398e27ac8f4251dae1780b989d136e",
-    "decimals": 18,
-    "symbol": "PYR",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/9308.png"
   },
   {
     "chainId": 1,
@@ -40296,11 +40312,11 @@
   },
   {
     "chainId": 1,
-    "address": "0xabd4dc8fde9848cbc4ff2c0ee81d4a49f4803da4",
     "name": "Squeeze Token",
+    "address": "0xabd4dc8fde9848cbc4ff2c0ee81d4a49f4803da4",
+    "decimals": 18,
     "symbol": "SQUEEZE",
-    "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/18554/thumb/squeeze.png?1632377096"
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/12304.png"
   },
   {
     "chainId": 1,
@@ -41162,7 +41178,7 @@
     "chainId": 1,
     "name": "MandoX",
     "address": "0xafbf03181833ab4e8dec24d708a2a24c2baaa4a4",
-    "decimals": 9,
+    "decimals": 18,
     "symbol": "MANDOX",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/15444.png"
   },
@@ -44871,11 +44887,11 @@
   },
   {
     "chainId": 1,
-    "address": "0xc10b30820f793e24733dc80da12c798dfbff0fff",
     "name": "SCARDust",
-    "symbol": "SCARD",
+    "address": "0xc10b30820f793e24733dc80da12c798dfbff0fff",
     "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/22098/thumb/SCARDust-token-icon-full-color-transparent-bg.png?1640796874"
+    "symbol": "SCARD",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/16700.png"
   },
   {
     "chainId": 1,
@@ -45780,14 +45796,6 @@
     "decimals": 18,
     "symbol": "CIT",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3292.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xc541b907478d5cd334c0cbfcb9603b6dac6e9ee3",
-    "name": "CNYQ Stablecoin by ",
-    "symbol": "CNYQ",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/13272/thumb/USDQ_logo.png?1606886052"
   },
   {
     "chainId": 1,
@@ -46764,14 +46772,6 @@
     "symbol": "UGONE",
     "decimals": 17,
     "logoURI": "https://assets.coingecko.com/coins/images/15680/thumb/gone_studio.jpg?1621500252"
-  },
-  {
-    "chainId": 1,
-    "address": "0xc9dfcd0a1dd2d7bb6fd2ef91a16a6a1c4e9846dd",
-    "name": "Hype Bet",
-    "symbol": "HYPEBET",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/13296/thumb/Hype-Bet-Token-Logo.png?1607074281"
   },
   {
     "chainId": 1,
@@ -47815,6 +47815,14 @@
   },
   {
     "chainId": 1,
+    "address": "0xceaaf939438fa3b93479962d519227aed65a5eb2",
+    "name": "Shiba Mongoose",
+    "symbol": "SHIBMONG",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/22149/thumb/p34d979.jpeg?1640931306"
+  },
+  {
+    "chainId": 1,
     "address": "0xceb286c9604c542d3cc08b41aa6c9675b078a832",
     "name": "Vortex DeFi",
     "symbol": "VTX",
@@ -48756,14 +48764,6 @@
     "symbol": "HCUT",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/11868/thumb/60633927_588600498303961_3291974703035449344_n.png?1595496238"
-  },
-  {
-    "chainId": 1,
-    "name": "NIL Coin",
-    "address": "0xd31b00dea80cf282ace1791d204d76a85fb82556",
-    "decimals": 8,
-    "symbol": "NIL",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/15096.png"
   },
   {
     "chainId": 1,
@@ -57916,14 +57916,6 @@
     "decimals": 18,
     "symbol": "LYD",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/16573.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xfce94fde7ac091c2f1db00d62f15eeb82b624389",
-    "name": "Noah s Ark",
-    "symbol": "NOAHARK",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/13557/thumb/Gc6kz-5a.png?1609769750"
   },
   {
     "chainId": 1,
