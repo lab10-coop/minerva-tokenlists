@@ -3777,14 +3777,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x0f8c793dbc30a185138d5da00f106290b26e36c5",
-    "name": "Ape Stax",
-    "symbol": "ASTAX",
-    "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/16842/thumb/apestax.png?1625383600"
-  },
-  {
-    "chainId": 1,
     "address": "0x0fb843d37aa2a99db8d81af9fe2f0a6485c7c002",
     "name": "CPROP",
     "symbol": "CPROP",
@@ -4665,11 +4657,11 @@
   },
   {
     "chainId": 1,
+    "name": "Alpha Coin",
     "address": "0x138c2f1123cf3f82e4596d097c118eac6684940b",
-    "name": "AlphaCoin",
-    "symbol": "ALPHA",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/22199/thumb/coingeckologo.png?1641193441"
+    "symbol": "ALPHA",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/16794.png"
   },
   {
     "chainId": 1,
@@ -10329,14 +10321,6 @@
   },
   {
     "chainId": 1,
-    "name": "BITTUP",
-    "address": "0x2b04dadd412f7281d3ccabfb8425fd9c9e841588",
-    "decimals": 8,
-    "symbol": "BTU",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/1022.png"
-  },
-  {
-    "chainId": 1,
     "name": "MarX",
     "address": "0x2b100be232f90dd33d3b6e4b9ad70d1e8ac0e208",
     "decimals": 18,
@@ -15921,14 +15905,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x424909aea732e0b747e60c6ea9c35bb3e1311011",
-    "name": "Tracee Vision",
-    "symbol": "TRVS",
-    "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/22125/thumb/250x250.png?1640850791"
-  },
-  {
-    "chainId": 1,
     "name": "BUDDY",
     "address": "0x4257d9c82767d0bf1e53e14cdee1e9ce50ebdc3b",
     "decimals": 18,
@@ -17174,6 +17150,14 @@
     "decimals": 18,
     "symbol": "TEMPLE",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/16052.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x47110d43175f7f2c2425e7d15792acc5817eb44f",
+    "name": "Bankless DeFi Innov",
+    "symbol": "GMI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/22238/thumb/GMI_LOGO-07.png?1641266293"
   },
   {
     "chainId": 1,
@@ -20001,11 +19985,11 @@
   },
   {
     "chainId": 1,
+    "name": "Cia Protocol",
     "address": "0x52f4d5ee6c91e01be67ca1f64b11ed0ee370817d",
-    "name": "CIA",
-    "symbol": "CIA",
     "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/21569/thumb/hN5C0qh.png?1639485883"
+    "symbol": "CIA",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/16810.png"
   },
   {
     "chainId": 1,
@@ -20086,6 +20070,14 @@
     "decimals": 18,
     "symbol": "PAN",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/5924.png"
+  },
+  {
+    "chainId": 1,
+    "name": "MetaVice",
+    "address": "0x5375fd52707ab7c8d1b088e07169fa74b0999732",
+    "decimals": 18,
+    "symbol": "METAVICE",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/16814.png"
   },
   {
     "chainId": 1,
@@ -24209,6 +24201,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x65ef703f5594d2573eb71aaf55bc0cb548492df4",
+    "name": "Multichain",
+    "symbol": "MULTI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/22087/thumb/1_Wyot-SDGZuxbjdkaOeT2-A.png?1640764238"
+  },
+  {
+    "chainId": 1,
     "name": "SoMee.Social",
     "address": "0x65f9a292f1aeed5d755aa2fd2fb17ab2e9431447",
     "decimals": 18,
@@ -26736,11 +26736,11 @@
   },
   {
     "chainId": 1,
+    "name": "TSA NFT",
     "address": "0x703d8574e19428d662a73c301d106dc236aa9bfc",
-    "name": "Teaswap Art",
-    "symbol": "TSA",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/17826/thumb/tsa.PNG?1629358290"
+    "symbol": "TSA",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/11792.png"
   },
   {
     "chainId": 1,
@@ -26853,6 +26853,14 @@
     "decimals": 4,
     "symbol": "VEY",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/4419.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Ninja Squad Token",
+    "address": "0x70bef3bb2f001da2fddb207dae696cd9faff3f5d",
+    "decimals": 18,
+    "symbol": "NST",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/16807.png"
   },
   {
     "chainId": 1,
@@ -27973,6 +27981,14 @@
     "decimals": 18,
     "symbol": "SAL",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2857.png"
+  },
+  {
+    "chainId": 1,
+    "name": "BITTUP",
+    "address": "0x75cf8a34ca78ca8e3f17f1184fa34f4a7b13383e",
+    "decimals": 8,
+    "symbol": "BTU",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/1022.png"
   },
   {
     "chainId": 1,
@@ -39440,7 +39456,7 @@
   },
   {
     "chainId": 1,
-    "name": "Totem New Earth Systems",
+    "name": "Totem",
     "address": "0xa803778ab953d3ffe4fbd20cfa0042ecefe8319d",
     "decimals": 18,
     "symbol": "CTZN",
@@ -44679,6 +44695,14 @@
   },
   {
     "chainId": 1,
+    "name": "TownVille",
+    "address": "0xbfbe9c14ff94674e04310bf613d6a327788bdc42",
+    "decimals": 18,
+    "symbol": "TOWN",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/16795.png"
+  },
+  {
+    "chainId": 1,
     "name": "Bidesk",
     "address": "0xbfc1502ebc37475b940ced8f036b91018a73c8f6",
     "decimals": 18,
@@ -45791,11 +45815,11 @@
   },
   {
     "chainId": 1,
+    "name": "STARX TOKEN",
     "address": "0xc4e8a9d47000ab8e59c7031e311762c68215e467",
-    "name": "Starworks Global",
-    "symbol": "STARX",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/8417/thumb/starworks.PNG?1640681958"
+    "symbol": "STARX",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/16824.png"
   },
   {
     "chainId": 1,
@@ -46839,14 +46863,6 @@
   },
   {
     "chainId": 1,
-    "address": "0xc9df0ed2e9ef4357b51db171ff08297d10875280",
-    "name": "Unicly Gone Studio ",
-    "symbol": "UGONE",
-    "decimals": 17,
-    "logoURI": "https://assets.coingecko.com/coins/images/15680/thumb/gone_studio.jpg?1621500252"
-  },
-  {
-    "chainId": 1,
     "name": "SoMee Advertising Token",
     "address": "0xc9f1016d336ef77aee75fc11ad64c5ecf9121332",
     "decimals": 18,
@@ -47031,11 +47047,11 @@
   },
   {
     "chainId": 1,
-    "address": "0xcacc19c5ca77e06d6578decac80408cc036e0499",
     "name": "Monfter",
-    "symbol": "MON",
+    "address": "0xcacc19c5ca77e06d6578decac80408cc036e0499",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/2546/thumb/MON.jpg?1628157896"
+    "symbol": "MON",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/16818.png"
   },
   {
     "chainId": 1,
@@ -51295,14 +51311,6 @@
   },
   {
     "chainId": 1,
-    "address": "0xde8607ccad60814c8d9cd6f5ce8e9031e4675c8f",
-    "name": "Bit Storage Box Tok",
-    "symbol": "BSBT",
-    "decimals": 8,
-    "logoURI": "https://assets.coingecko.com/coins/images/14136/thumb/A8QSwwsxJ0gl8Er4EF4whEcOqHLqfjWScTYHWKkeXbgoFQLQJ6de46yhxAd8kLvuj6MRQT8lloRdPoS_kqbKCXlw-mYMiqFp7j1CbhBScOzhHyZjbVgLpifjOYawUK1308Xl3aMYCZOHxfVrQZpDxbx-8KATNqX03u-CO5UlG8-bV8p6wKlBHWZdw3AoAt-o0gZCBQCynxwVd-d.jpg?1614639184"
-  },
-  {
-    "chainId": 1,
     "name": "HodlTree",
     "address": "0xdea67845a51e24461d5fed8084e69b426af3d5db",
     "decimals": 18,
@@ -55071,7 +55079,7 @@
   },
   {
     "chainId": 1,
-    "name": "METAVERSE INDEX",
+    "name": "Metaverse Index Token",
     "address": "0xefc996ce8341cd36c55412b51df5bbca429a7617",
     "decimals": 14,
     "symbol": "METAI",
@@ -56964,6 +56972,14 @@
     "decimals": 18,
     "symbol": "GLAD",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/8362.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Seed Club",
+    "address": "0xf76d80200226ac250665139b9e435617e4ba55f9",
+    "decimals": 18,
+    "symbol": "CLUB",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/16802.png"
   },
   {
     "chainId": 1,
@@ -63967,6 +63983,14 @@
     "chainId": 56,
     "decimals": 8,
     "logoURI": "https://tokens.pancakeswap.finance/images/0xE1d1F66215998786110Ba0102ef558b22224C016.png"
+  },
+  {
+    "name": "GoldMiner",
+    "symbol": "GM",
+    "address": "0xe2604c9561d490624aa35e156e65e590eb749519",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0xe2604C9561D490624AA35e156e65e590eB749519.png"
   },
   {
     "name": "Tau DOGE",
