@@ -7323,7 +7323,7 @@
     "chainId": 1,
     "name": "Shiryo-Inu",
     "address": "0x1e2f15302b90edde696593607b6bd444b64e8f02",
-    "decimals": 9,
+    "decimals": 18,
     "symbol": "SHIRYO-INU",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/13727.png"
   },
@@ -7934,14 +7934,6 @@
     "symbol": "DHD",
     "decimals": 0,
     "logoURI": "https://assets.coingecko.com/coins/images/14617/thumb/2_%283%29.png?1617256439"
-  },
-  {
-    "chainId": 1,
-    "address": "0x20bc832ca081b91433ff6c17f85701b6e92486c5",
-    "name": "rETH2",
-    "symbol": "RETH2",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/16570/thumb/red256.png?1624495231"
   },
   {
     "chainId": 1,
@@ -10558,6 +10550,14 @@
     "decimals": 18,
     "symbol": "TBP",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7777.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x2c000c0093de75a8fa2fccd3d97b314e20b431c3",
+    "name": "Huobi Litecoin",
+    "symbol": "HLTC",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/14110/thumb/HLTC.png?1614335967"
   },
   {
     "chainId": 1,
@@ -13905,14 +13905,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x39ad22c916f42af5f67371d6f2fb0dab42321a89",
-    "name": "OSINA",
-    "symbol": "OSINA",
-    "decimals": 4,
-    "logoURI": "https://assets.coingecko.com/coins/images/12977/thumb/OSINA_Logo.png?1604019955"
-  },
-  {
-    "chainId": 1,
     "name": "Zeptacoin",
     "address": "0x39ae6d231d831756079ec23589d2d37a739f2e89",
     "decimals": 18,
@@ -16334,6 +16326,14 @@
     "decimals": 18,
     "symbol": "HORD",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/9198.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x43ab765ee05075d78ad8aa79dcb1978ca3079258",
+    "name": "PUNKS Comic POW",
+    "symbol": "POW",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/22333/thumb/16963.png?1641515902"
   },
   {
     "chainId": 1,
@@ -25832,7 +25832,7 @@
   },
   {
     "chainId": 1,
-    "name": "Gamma Strategies",
+    "name": "Gamma",
     "address": "0x6bea7cfef803d1e3d5f7c0103f7ded065644e197",
     "decimals": 18,
     "symbol": "GAMMA",
@@ -30144,6 +30144,14 @@
   },
   {
     "chainId": 1,
+    "name": "X",
+    "address": "0x7f3141c4d6b047fb930991b450f1ed996a51cb26",
+    "decimals": 18,
+    "symbol": "X",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/16727.png"
+  },
+  {
+    "chainId": 1,
     "name": "Lido wstETH",
     "address": "0x7f39c581f595b53c5cb19bd0b3f8da6c935e2ca0",
     "decimals": 18,
@@ -31773,6 +31781,14 @@
     "decimals": 18,
     "symbol": "MTI",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7615.png"
+  },
+  {
+    "chainId": 1,
+    "name": "HUH Token",
+    "address": "0x86d49fbd3b6f989d641e700a15599d3b165002ab",
+    "decimals": 18,
+    "symbol": "HUH",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/16032.png"
   },
   {
     "chainId": 1,
@@ -37808,6 +37824,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x9ffc3bcde7b68c46a6dc34f0718009925c1867cb",
+    "name": "Huobi Polkadot",
+    "symbol": "HDOT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/14107/thumb/hdot.png?1614333466"
+  },
+  {
+    "chainId": 1,
     "name": "WIVA by WiV Technology",
     "address": "0xa00055e6ee4d1f4169096ecb682f70caa8c29987",
     "decimals": 18,
@@ -38368,11 +38392,11 @@
   },
   {
     "chainId": 1,
-    "name": "Cherry Network",
     "address": "0xa20f77b7ad5a88badc48800c56507b7274c06fdc",
-    "decimals": 18,
+    "name": "Cherry Network",
     "symbol": "CHER",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/16559.png"
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/21855/thumb/cherry.PNG?1640144127"
   },
   {
     "chainId": 1,
@@ -38645,6 +38669,14 @@
     "decimals": 18,
     "symbol": "TOMOBULL",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/6090.png"
+  },
+  {
+    "chainId": 1,
+    "name": "GENRE",
+    "address": "0xa392c35ec6900346adec720abe50413f48ee5143",
+    "decimals": 4,
+    "symbol": "GENRE",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/16987.png"
   },
   {
     "chainId": 1,
@@ -40280,6 +40312,14 @@
   },
   {
     "chainId": 1,
+    "address": "0xaac679720204aaa68b6c5000aa87d789a3ca0aa5",
+    "name": "Huobi Bitcoin Cash",
+    "symbol": "HBCH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/14105/thumb/HBCh.png?1614330789"
+  },
+  {
+    "chainId": 1,
     "name": "0x_nodes",
     "address": "0xaaca86b876ca011844b5798eca7a67591a9743c8",
     "decimals": 18,
@@ -41728,11 +41768,11 @@
   },
   {
     "chainId": 1,
+    "name": "EURST",
     "address": "0xb1abd7aba7d99bbefb33d1dfc66b0dd522335350",
-    "name": "Euro Stable Token",
-    "symbol": "EURST",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/20988/thumb/AF3E1D9F-4817-4FC4-BC80-FFF30A3E1B91.PNG?1638169603"
+    "symbol": "EURST",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/17001.png"
   },
   {
     "chainId": 1,
@@ -43440,11 +43480,11 @@
   },
   {
     "chainId": 1,
+    "name": "Gearbox Protocol",
     "address": "0xba3335588d9403515223f109edc4eb7269a9ab5d",
-    "name": "Gearbox",
-    "symbol": "GEAR",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/21630/thumb/gear.png?1640330291"
+    "symbol": "GEAR",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/16360.png"
   },
   {
     "chainId": 1,
@@ -43501,6 +43541,14 @@
     "decimals": 18,
     "symbol": "ExPRO",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/10607.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Hillstone",
+    "address": "0xba6b0dbb2ba8daa8f5d6817946393aef8d3a4487",
+    "decimals": 18,
+    "symbol": "HSF",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/16979.png"
   },
   {
     "chainId": 1,
@@ -44468,14 +44516,6 @@
     "decimals": 18,
     "symbol": "BNC",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/5675.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xbe5d345d05dd62828ed61519ef9f7af76f092248",
-    "name": "Ticket2Lambo",
-    "symbol": "T2L",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/16906/thumb/t2l.png?1625582240"
   },
   {
     "chainId": 1,
@@ -45855,11 +45895,11 @@
   },
   {
     "chainId": 1,
-    "name": "CoinMerge",
     "address": "0xc48b4814faed1ccc885dd6fde62a6474aecbb19a",
-    "decimals": 9,
+    "name": "CoinMerge",
     "symbol": "CMERGE",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/11016.png"
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/17146/thumb/coinmerge.PNG?1626660739"
   },
   {
     "chainId": 1,
@@ -46815,11 +46855,11 @@
   },
   {
     "chainId": 1,
-    "address": "0xc8ef1460277ea47d179dec66d1c5f8b7f7ae5a28",
     "name": "Rikkei Finance",
-    "symbol": "RIFI",
+    "address": "0xc8ef1460277ea47d179dec66d1c5f8b7f7ae5a28",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/21309/thumb/rikkei-finance.jpeg?1638888855"
+    "symbol": "RIFI",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/10676.png"
   },
   {
     "chainId": 1,
@@ -50727,6 +50767,14 @@
   },
   {
     "chainId": 1,
+    "name": "Goldfinch",
+    "address": "0xdab396ccf3d84cf2d07c4454e10c8a6f5b008d2b",
+    "decimals": 18,
+    "symbol": "GFI",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/13967.png"
+  },
+  {
+    "chainId": 1,
     "name": "Tether",
     "address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
     "decimals": 6,
@@ -54279,6 +54327,14 @@
   },
   {
     "chainId": 1,
+    "address": "0xeb986da994e4a118d5956b02d8b7c3c7ce373674",
+    "name": "Gather",
+    "symbol": "GTH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12458/thumb/Gather-Logo-Working-File.png?1599981686"
+  },
+  {
+    "chainId": 1,
     "name": "Origin Sport",
     "address": "0xeb9a4b185816c354db92db09cc3b50be60b901b6",
     "decimals": 18,
@@ -55196,6 +55252,14 @@
     "decimals": 18,
     "symbol": "DACXI",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/10372.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Hakuryu",
+    "address": "0xefbe739c5b999c5bca13be7bb238610a3a8fec93",
+    "decimals": 18,
+    "symbol": "$RYU",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/16115.png"
   },
   {
     "chainId": 1,
@@ -62687,6 +62751,14 @@
     "chainId": 56,
     "decimals": 18,
     "logoURI": "https://tokens.pancakeswap.finance/images/0x2FA5dAF6Fe0708fBD63b1A7D1592577284f52256.png"
+  },
+  {
+    "name": "Bsc-Peg INSUR Token",
+    "symbol": "INSUR",
+    "address": "0x3192ccddf1cdce4ff055ebc80f3f0231b86a7e30",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x3192CCDdf1CDcE4Ff055EbC80f3F0231b86A7E30.png"
   },
   {
     "name": "Mobox",
