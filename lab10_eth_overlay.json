@@ -30,5 +30,29 @@
     "symbol": "DECR",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-tokenlists/master/images/DECR.svg"
+  },
+  {
+    "chainId": 1,
+    "address": "0x0f17bc9a994b87b5225cfb6a2cd4d667adb4f20b",
+    "name": "Jarvis Synthetic Euro",
+    "symbol": "jEUR",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-tokenlists/master/images/jEUR.svg"
+  },
+  {
+    "chainId": 1,
+    "address": "0x7409856cae628f5d578b285b45669b36e7005283",
+    "name": "Jarvis Synthetic British Pound",
+    "symbol": "jGBP",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-tokenlists/master/images/jGBP.svg"
+  },
+  {
+    "chainId": 1,
+    "address": "0x53dfea0a8cc2a2a2e425e1c174bc162999723ea0",
+    "name": "Jarvis Synthetic Swiss Franc",
+    "symbol": "jCHF",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-tokenlists/master/images/jCHF.svg"
   }
 ]
