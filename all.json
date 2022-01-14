@@ -6921,11 +6921,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x1c720999a4f8b2b0e9199039d353d2c9a77a73fc",
     "name": "TigerQueen",
-    "symbol": "TQUEEN",
+    "address": "0x1c720999a4f8b2b0e9199039d353d2c9a77a73fc",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/22531/thumb/Logo-Tiger-Queen.png?1641997189"
+    "symbol": "TQUEEN",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/17223.png"
   },
   {
     "chainId": 1,
@@ -7894,6 +7894,14 @@
     "decimals": 18,
     "symbol": "BNA",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/5792.png"
+  },
+  {
+    "chainId": 1,
+    "name": "InFi",
+    "address": "0x2091457430924515e23d7cd4e6a23d2c01fd446e",
+    "decimals": 18,
+    "symbol": "8FI",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/17249.png"
   },
   {
     "chainId": 1,
@@ -10089,11 +10097,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x29ffb2742a78d58a9966d2f229f34be5950e0c3e",
     "name": "ZEUS10000",
-    "symbol": "ZEUS10000",
+    "address": "0x29ffb2742a78d58a9966d2f229f34be5950e0c3e",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/22559/thumb/2022-01-11_22.10.11.jpg?1642056602"
+    "symbol": "ZEUS10000",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/17255.png"
   },
   {
     "chainId": 1,
@@ -13841,6 +13849,14 @@
   },
   {
     "chainId": 1,
+    "name": "Shikage",
+    "address": "0x3953aff0d69e8e9f3c06b1a468783c3f4b0f6f16",
+    "decimals": 9,
+    "symbol": "SHKG",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/17222.png"
+  },
+  {
+    "chainId": 1,
     "name": "RUSH",
     "address": "0x395768aeb16484e5785612a98e9408e4cc1269ec",
     "decimals": 18,
@@ -14942,6 +14958,14 @@
     "decimals": 18,
     "symbol": "SNFT",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/12398.png"
+  },
+  {
+    "chainId": 1,
+    "name": "GPEX",
+    "address": "0x3e7804c51a70ba26e904c2e0ab440c5623a8a83f",
+    "decimals": 8,
+    "symbol": "GPX",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/17241.png"
   },
   {
     "chainId": 1,
@@ -22428,7 +22452,7 @@
     "name": "IlliquidDAO",
     "address": "0x5ddafa0856f883a634051dcb4dd710863d85a0c1",
     "decimals": 18,
-    "symbol": "JPEG",
+    "symbol": "JPEGS",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/17170.png"
   },
   {
@@ -23299,7 +23323,7 @@
     "chainId": 1,
     "name": "Probably Nothing",
     "address": "0x61b5c3aee3a25f6f83531d548a4d2ee58450f5d9",
-    "decimals": 9,
+    "decimals": 18,
     "symbol": "PN",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/14356.png"
   },
@@ -34064,11 +34088,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x900db999074d9277c5da2a43f252d74366230da0",
     "name": "Giveth",
-    "symbol": "GIV",
+    "address": "0x900db999074d9277c5da2a43f252d74366230da0",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/21792/thumb/GIVToken_200x200.png?1640055088"
+    "symbol": "GIV",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/17207.png"
   },
   {
     "chainId": 1,
@@ -34248,7 +34272,7 @@
   },
   {
     "chainId": 1,
-    "name": "Parallel Protocol",
+    "name": "MIMO Parallel Governance Token",
     "address": "0x90b831fa3bebf58e9744a14d638e25b4ee06f9bc",
     "decimals": 18,
     "symbol": "MIMO",
@@ -36216,11 +36240,11 @@
   },
   {
     "chainId": 1,
-    "name": "Golfrochain",
     "address": "0x996652b6c5c4b1154b25515db21b7bbadd40ddfa",
-    "decimals": 18,
+    "name": "Golfrochain",
     "symbol": "GOLF",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/10053.png"
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/15956/thumb/golfro.PNG?1622517333"
   },
   {
     "chainId": 1,
@@ -40264,11 +40288,11 @@
   },
   {
     "chainId": 1,
-    "address": "0xaa61d5dec73971cd4a026ef2820bb87b4a4ed8d6",
     "name": "CRE8R DAO",
-    "symbol": "CRE8R",
+    "address": "0xaa61d5dec73971cd4a026ef2820bb87b4a4ed8d6",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/22568/thumb/cropped-FINALwithbrick-2-1-1.png?1642060468"
+    "symbol": "CRE8R",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/17234.png"
   },
   {
     "chainId": 1,
@@ -45559,11 +45583,11 @@
   },
   {
     "chainId": 1,
-    "address": "0xc23fa49b581fff9a3ea7e49d0504b06d07c6ff2a",
     "name": "Crazy Rich Coin",
-    "symbol": "CRC",
+    "address": "0xc23fa49b581fff9a3ea7e49d0504b06d07c6ff2a",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/22546/thumb/wu_EHyya_400x400.jpg?1642050700"
+    "symbol": "CRC",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/17217.png"
   },
   {
     "chainId": 1,
@@ -45735,11 +45759,11 @@
   },
   {
     "chainId": 1,
-    "address": "0xc2e8f7d9fc0cbc7e7e8a6bf6035b934981077bdf",
     "name": "UniqueMeta",
-    "symbol": "UNQM",
+    "address": "0xc2e8f7d9fc0cbc7e7e8a6bf6035b934981077bdf",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/22555/thumb/logo.jpg?1642055233"
+    "symbol": "UNQM",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/17254.png"
   },
   {
     "chainId": 1,
@@ -46011,7 +46035,7 @@
     "name": "CoinMerge  ERC20 ",
     "symbol": "CMERGE",
     "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/17146/thumb/coinmerge.PNG?1626660739"
+    "logoURI": "https://assets.coingecko.com/coins/images/17146/thumb/uzeNwmj.jpeg?1642084359"
   },
   {
     "chainId": 1,
@@ -48295,6 +48319,14 @@
   },
   {
     "chainId": 1,
+    "name": "Diabolo",
+    "address": "0xcf8f32e032f432b02393636b2092a6bef975fbf9",
+    "decimals": 18,
+    "symbol": "DCASH",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/17210.png"
+  },
+  {
+    "chainId": 1,
     "address": "0xcf8f9555d55ce45a3a33a81d6ef99a2a2e71dee2",
     "name": "CBI Index 7",
     "symbol": "CBIX7",
@@ -48500,6 +48532,14 @@
     "decimals": 18,
     "symbol": "ROT",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7164.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xd049206fb408a611e543791f2d8f102a8bc253dc",
+    "name": "NFTDAO",
+    "symbol": "NAO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/22576/thumb/NAO.png?1642083280"
   },
   {
     "chainId": 1,
@@ -51543,11 +51583,11 @@
   },
   {
     "chainId": 1,
-    "address": "0xde4ce5447ce0c67920a1371605a39187cb6847c8",
     "name": "Deesse",
-    "symbol": "LOVE",
+    "address": "0xde4ce5447ce0c67920a1371605a39187cb6847c8",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/22524/thumb/GaqpKHEP_400x400.jpg?1641975550"
+    "symbol": "LOVE",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/17203.png"
   },
   {
     "chainId": 1,
