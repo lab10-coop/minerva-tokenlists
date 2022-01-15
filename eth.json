@@ -8065,11 +8065,11 @@
   },
   {
     "chainId": 1,
-    "name": "GenomesDao",
     "address": "0x21413c119b0c11c5d96ae1bd328917bc5c8ed67e",
+    "name": "GenomesDAO",
+    "symbol": "GENE",
     "decimals": 18,
-    "symbol": "$GENE",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/15169.png"
+    "logoURI": "https://assets.coingecko.com/coins/images/20807/thumb/1637683704200x200.png?1637708934"
   },
   {
     "chainId": 1,
@@ -8878,6 +8878,14 @@
     "decimals": 18,
     "symbol": "SAFE2",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7194.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Roller Inu",
+    "address": "0x2518a75ebe37ddf882aa86e0e48b8d39fbfb69aa",
+    "decimals": 18,
+    "symbol": "ROI",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/17221.png"
   },
   {
     "chainId": 1,
@@ -10878,6 +10886,14 @@
     "decimals": 18,
     "symbol": "MANA",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/12712.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x2d7a3accbe5f0402a9dd9657dae8281ac30fa1d4",
+    "name": "Kitty Ninja",
+    "symbol": "KINJA",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/22605/thumb/200x200_%281%29.png?1642163221"
   },
   {
     "chainId": 1,
@@ -13851,7 +13867,7 @@
     "chainId": 1,
     "name": "Shikage",
     "address": "0x3953aff0d69e8e9f3c06b1a468783c3f4b0f6f16",
-    "decimals": 9,
+    "decimals": 18,
     "symbol": "SHKG",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/17222.png"
   },
@@ -17017,7 +17033,7 @@
   },
   {
     "chainId": 1,
-    "name": "Gem Exchange And Trading",
+    "name": "Gemma Extending Tech",
     "address": "0x4674672bcddda2ea5300f5207e1158185c944bc0",
     "decimals": 18,
     "symbol": "GXT",
@@ -23174,14 +23190,6 @@
     "decimals": 8,
     "symbol": "GAD",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/4037.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x610c67be018a5c5bdc70acd8dc19688a11421073",
-    "name": "Hype Finance",
-    "symbol": "HYPE",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/13193/thumb/hype_finance_logo.png?1606109896"
   },
   {
     "chainId": 1,
@@ -31802,7 +31810,7 @@
     "chainId": 1,
     "name": "HUH Token",
     "address": "0x86d49fbd3b6f989d641e700a15599d3b165002ab",
-    "decimals": 9,
+    "decimals": 18,
     "symbol": "HUH",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/16032.png"
   },
@@ -32901,14 +32909,6 @@
     "decimals": 18,
     "symbol": "AKRO",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/4134.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x8abf3a95862619a55fa00cb3e4eedbe113ff468c",
-    "name": "Money Printer Go Br",
-    "symbol": "BRRR",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/10904/thumb/ethbtc_adl_2h.png?1585731253"
   },
   {
     "chainId": 1,
@@ -39464,6 +39464,14 @@
   },
   {
     "chainId": 1,
+    "name": "WTF Token",
+    "address": "0xa68dd8cb83097765263adad881af6eed479c4a33",
+    "decimals": 18,
+    "symbol": "WTF",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/17279.png"
+  },
+  {
+    "chainId": 1,
     "address": "0xa693b19d2931d498c5b318df961919bb4aee87a5",
     "name": "TerraUSD  Wormhole ",
     "symbol": "UST",
@@ -41133,6 +41141,14 @@
     "decimals": 18,
     "symbol": "RIFT",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/5110.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xadf86e75d8f0f57e0288d0970e7407eaa49b3cab",
+    "name": "Apollo Inu",
+    "symbol": "APOLLO",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/22606/thumb/AI-Icon-200.png?1642163499"
   },
   {
     "chainId": 1,
@@ -48535,11 +48551,11 @@
   },
   {
     "chainId": 1,
-    "address": "0xd049206fb408a611e543791f2d8f102a8bc253dc",
     "name": "NFTDAO",
-    "symbol": "NAO",
+    "address": "0xd049206fb408a611e543791f2d8f102a8bc253dc",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/22576/thumb/NAO.png?1642083280"
+    "symbol": "NAO",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/17288.png"
   },
   {
     "chainId": 1,
@@ -50492,14 +50508,6 @@
     "decimals": 18,
     "symbol": "RZN",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7999.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xd8dae35b487e3453cffd998c6754713c81b0f200",
-    "name": "RapDoge",
-    "symbol": "RAPDOGE",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/16749/thumb/rapdoge.png?1624884614"
   },
   {
     "chainId": 1,
@@ -53188,14 +53196,6 @@
     "decimals": 18,
     "symbol": "TRXHEDGE",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/6340.png"
-  },
-  {
-    "chainId": 1,
-    "name": "GNOME",
-    "address": "0xe58eb0bb13a71d7b95c4c3cbe6cb3dbb08f9cbfb",
-    "decimals": 18,
-    "symbol": "GNOME",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/15176.png"
   },
   {
     "chainId": 1,
