@@ -921,6 +921,14 @@
   },
   {
     "chainId": 1,
+    "name": "Stable FOX",
+    "address": "0x03352d267951e96c6f7235037c5dfd2ab1466232",
+    "decimals": 18,
+    "symbol": "ONEFOX",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/17421.png"
+  },
+  {
+    "chainId": 1,
     "name": "Nitro League",
     "address": "0x0335a7610d817aeca1bebbefbd392ecc2ed587b8",
     "decimals": 18,
@@ -9017,7 +9025,7 @@
   },
   {
     "chainId": 1,
-    "name": "AXL INU",
+    "name": "Axl Inu",
     "address": "0x25b24b3c47918b7962b3e49c4f468367f73cc0e0",
     "decimals": 18,
     "symbol": "AXL",
@@ -10574,6 +10582,14 @@
     "decimals": 18,
     "symbol": "HSC",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2908.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x2bc4c9a279d0e1b2b2e1eb4f313cfe22a2e182d5",
+    "name": "Its Not Art",
+    "symbol": "NOTART",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/22712/thumb/itsnotart.PNG?1642471907"
   },
   {
     "chainId": 1,
@@ -13028,7 +13044,7 @@
     "name": "Gamers Yield",
     "address": "0x35fa0c1fe6a7b7a97490bcb9f0cb50742dbdb1b8",
     "decimals": 6,
-    "symbol": "$GY",
+    "symbol": "GY",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/17136.png"
   },
   {
@@ -19337,6 +19353,14 @@
   },
   {
     "chainId": 1,
+    "name": "Batmoon",
+    "address": "0x4f233ca7cedc14a5a8780d0bc4fbb70c8b3e381c",
+    "decimals": 18,
+    "symbol": "BATMOON",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/17414.png"
+  },
+  {
+    "chainId": 1,
     "name": "Thrive Token",
     "address": "0x4f27053f32eda8af84956437bc00e5ffa7003287",
     "decimals": 18,
@@ -21017,6 +21041,14 @@
   },
   {
     "chainId": 1,
+    "name": "Crypto Champ",
+    "address": "0x574d3f59f5788ee02bfb31c5c43be343ac56b688",
+    "decimals": 18,
+    "symbol": "CHMP",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/17416.png"
+  },
+  {
+    "chainId": 1,
     "name": "Robotina",
     "address": "0x574f84108a98c575794f75483d801d1d5dc861a5",
     "decimals": 18,
@@ -22225,14 +22257,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x5cbb89b03534d82692b183882c2a2a9ff7fdeb44",
-    "name": "BGT",
-    "symbol": "BGT",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/6666/thumb/bgt.jpg?1547042870"
-  },
-  {
-    "chainId": 1,
     "address": "0x5ce188b44266c7b4bbc67afa3d16b2eb24ed1065",
     "name": "UWU Vault  NFTX ",
     "symbol": "UWU",
@@ -22518,14 +22542,6 @@
     "symbol": "TEA",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/14426/thumb/teachain-logo.png?1616031044"
-  },
-  {
-    "chainId": 1,
-    "address": "0x5dd115eb39a0fc5da9022e4bbb8e8679ca066a74",
-    "name": "Unilord",
-    "symbol": "PEER",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/14730/thumb/KWP0UWn4_400x400.jpg?1617957728"
   },
   {
     "chainId": 1,
@@ -25040,11 +25056,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x686f2404e77ab0d9070a46cdfb0b7fecdd2318b0",
     "name": "LORDS",
-    "symbol": "LORDS",
+    "address": "0x686f2404e77ab0d9070a46cdfb0b7fecdd2318b0",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/22171/thumb/Frame_1.png?1642334107"
+    "symbol": "LORDS",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/17445.png"
   },
   {
     "chainId": 1,
@@ -28133,6 +28149,14 @@
     "decimals": 18,
     "symbol": "BUNNY",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3321.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Mariande Staked SOL",
+    "address": "0x756bfb452cfe36a5bc82e4f5f4261a89a18c242b",
+    "decimals": 9,
+    "symbol": "MSOL",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/11461.png"
   },
   {
     "chainId": 1,
@@ -36872,9 +36896,9 @@
   },
   {
     "chainId": 1,
-    "name": "CellETF",
+    "name": "Consensus Cell Network",
     "address": "0x9b62ec1453cea5dde760aaf662048ca6eeb66e7f",
-    "decimals": 2,
+    "decimals": 18,
     "symbol": "ECELL",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7212.png"
   },
@@ -37856,10 +37880,10 @@
   },
   {
     "chainId": 1,
-    "name": "KRAUSE",
+    "name": "Krause",
     "address": "0x9f6f91078a5072a8b54695dafa2374ab3ccd603b",
     "decimals": 18,
-    "symbol": "$KRAUSE",
+    "symbol": "KRAUSE",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/15310.png"
   },
   {
@@ -41314,7 +41338,7 @@
     "chainId": 1,
     "name": "InnovaMinex",
     "address": "0xae353daeed8dcc7a9a12027f7e070c0a50b7b6a4",
-    "decimals": 6,
+    "decimals": 18,
     "symbol": "MINX",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/4012.png"
   },
@@ -50327,6 +50351,14 @@
   },
   {
     "chainId": 1,
+    "name": "Abby Inu",
+    "address": "0xd796118d6545692206ca9da2007bba531c86fb5e",
+    "decimals": 9,
+    "symbol": "ABBY",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/17415.png"
+  },
+  {
+    "chainId": 1,
     "name": "Metaverse Exchange",
     "address": "0xd796b8eff23d5c4c71f43c99ffd7d8a3119f7475",
     "decimals": 18,
@@ -51047,7 +51079,7 @@
   },
   {
     "chainId": 1,
-    "name": "QUIDD",
+    "name": "Quidd",
     "address": "0xda9fdab21bc4a5811134a6e0ba6ca06624e67c07",
     "decimals": 18,
     "symbol": "QUIDD",
@@ -52132,6 +52164,14 @@
     "symbol": "HOODIE",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/17842/thumb/cryptopunk-hoodie.png?1629468579"
+  },
+  {
+    "chainId": 1,
+    "name": "Devour Token",
+    "address": "0xdffc63f92c939deb112d88735ade3b4d21b6d491",
+    "decimals": 18,
+    "symbol": "RESTAURANTS",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/17423.png"
   },
   {
     "chainId": 1,
@@ -64647,6 +64687,14 @@
     "chainId": 56,
     "decimals": 18,
     "logoURI": "https://tokens.pancakeswap.finance/images/0xe2604C9561D490624AA35e156e65e590eB749519.png"
+  },
+  {
+    "name": "Froyo",
+    "symbol": "FROYO",
+    "address": "0xe369fec23380f9f14ffd07a1dc4b7c1a9fdd81c9",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0xe369fec23380f9F14ffD07a1DC4b7c1a9fdD81c9.png"
   },
   {
     "name": "Tau DOGE",
