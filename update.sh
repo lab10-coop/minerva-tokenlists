@@ -64,6 +64,19 @@ deduplicate bsc0.json bsc.json
 rm -f bsc?.json
 echo "built bsc list with $(jq '.|length' bsc.json) elements"
 
+########### OKEX ############
+
+okexSource1="https://resources.jswap.finance/token-list/oec/extended.tokenlist.json"
+okexSource2="https://static.kswap.finance/tokenlist/kswap-hosted-list.json"
+
+curl -f -s $okexSource1 | jq '.tokens' > okex1.json
+curl -f -s $okexSource2 | jq '.tokens' > okex2.json
+# concat into one file
+jq -s '.|flatten' lab10_okex_overlay.json okex1.json okex2.json > okex0.json
+deduplicate okex0.json okex.json
+rm -f okex?.json
+echo "built okex list with $(jq '.|length' okex.json) elements"
+
 ########### ARTIS ############
 
 # the sigma1 list is static for now
@@ -72,6 +85,6 @@ echo "validated sigma1 list with $(jq '.|length' sigma1.json) elements"
 ########### merge all ###########
 
 # compile a multi-network list
-jq -s '.|flatten' eth.json xdai.json sigma1.json matic.json bsc.json > all.json
+jq -s '.|flatten' eth.json xdai.json sigma1.json matic.json bsc.json okex.json > all.json
 
 echo "built all list with $(jq '.|length' all.json) elements"

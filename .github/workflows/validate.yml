@@ -1,0 +1,14 @@
+name: Validate JSONs
+
+on: [push]
+
+jobs:
+  verify-json-validation-overlay:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v1
+      - name: Validate JSON Overlay
+        uses: docker://orrosenblatt/validate-json-action:latest
+        env:
+          INPUT_SCHEMA: /schema.json
+          INPUT_JSONS: /lab10_bsc_overlay.json,/lab10_eth_overlay.json,/lab10_matic_overlay.json,/lab10_okex_overlay.json,/lab10_xdai_overlay.json

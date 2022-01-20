@@ -1,0 +1,34 @@
+{
+  "type": "array",
+  "items": {
+    "type": "object",
+    "properties": {
+      "chainId": {
+        "type": "integer"
+      },
+      "address": {
+        "type": "string"
+      },
+      "name": {
+        "type": "string"
+      },
+      "symbol": {
+        "type": "string"
+      },
+      "decimals": {
+        "type": "integer"
+      },
+      "logoURI": {
+        "type": "string"
+      }
+    },
+    "required": [
+      "chainId",
+      "address",
+      "name",
+      "symbol",
+      "decimals",
+      "logoURI"
+    ]
+  }
+}
