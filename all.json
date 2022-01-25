@@ -9345,6 +9345,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x26b80fbfc01b71495f477d5237071242e0d959d7",
+    "name": "ROSE  Wormhole ",
+    "symbol": "ROSE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/22939/thumb/ezgif.com-gif-maker.png?1643007884"
+  },
+  {
+    "chainId": 1,
     "name": "Crowdvilla Point",
     "address": "0x26c0e6f69b18125f68ac55f439b1e10c2a2e5c03",
     "decimals": 8,
@@ -13137,11 +13145,11 @@
   },
   {
     "chainId": 1,
+    "name": "ProjectFeenix",
     "address": "0x3633f95e4d5900cb7525f5801639aeabc998c750",
-    "name": "ProjectFeenixv2",
-    "symbol": "FEENIXV2",
     "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/22768/thumb/Project-Feenix-Logo_32x32.png?1642575940"
+    "symbol": "FEENIXV2",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/17572.png"
   },
   {
     "chainId": 1,
@@ -15099,7 +15107,7 @@
     "chainId": 1,
     "name": "GPEX",
     "address": "0x3e7804c51a70ba26e904c2e0ab440c5623a8a83f",
-    "decimals": 8,
+    "decimals": 18,
     "symbol": "GPX",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/17241.png"
   },
@@ -15873,11 +15881,11 @@
   },
   {
     "chainId": 1,
+    "name": "Wrapped BNB",
     "address": "0x418d75f65a02b3d53b2418fb8e1fe493759c7605",
-    "name": "Binance Coin  Wormh",
-    "symbol": "BNB",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/22884/thumb/bnb_worm.png?1642762156"
+    "symbol": "WBNB",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7192.png"
   },
   {
     "chainId": 1,
@@ -16358,6 +16366,14 @@
     "decimals": 18,
     "symbol": "DF",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/4758.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x431f5382d4a59c8d05c462d40cf87e2b3df8b14e",
+    "name": "KunaiInu",
+    "symbol": "KUNAI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/22950/thumb/LyJdYNo.png?1643009740"
   },
   {
     "chainId": 1,
@@ -18742,14 +18758,6 @@
     "decimals": 18,
     "symbol": "FONT",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/8601.png"
-  },
-  {
-    "chainId": 1,
-    "name": "Wrapped Matic",
-    "address": "0x4c28f48448720e9000907bc2611f73022fdce1fa",
-    "decimals": 18,
-    "symbol": "WMATIC",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/8925.png"
   },
   {
     "chainId": 1,
@@ -29832,6 +29840,14 @@
   },
   {
     "chainId": 1,
+    "name": "PancakeSwap",
+    "address": "0x7c8161545717a334f3196e765d9713f8042ef338",
+    "decimals": 18,
+    "symbol": "CAKE",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7186.png"
+  },
+  {
+    "chainId": 1,
     "name": "Dobuy",
     "address": "0x7c82a76db0166b0e153a66b1a4c331970b2b0ee2",
     "decimals": 18,
@@ -33440,11 +33456,11 @@
   },
   {
     "chainId": 1,
-    "name": "Kaiba DeFi",
     "address": "0x8bb048845ee0d75be8e07954b2e1e5b51b64b442",
-    "decimals": 18,
+    "name": "Kaiba Inu",
     "symbol": "KAIBA",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/14077.png"
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/19990/thumb/kaiba.png?1640740626"
   },
   {
     "chainId": 1,
@@ -35928,7 +35944,7 @@
   },
   {
     "chainId": 1,
-    "name": "Filecoin Standard Full Hashrate Token",
+    "name": "Filecoin Standard Full Hashrate",
     "address": "0x965b85d4674f64422c4898c8f8083187f02b32c0",
     "decimals": 18,
     "symbol": "SFIL",
@@ -38037,14 +38053,6 @@
     "decimals": 18,
     "symbol": "DDD",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2428.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x9f64f42e9db2802c02fe8e6144a7972f4923fcc2",
-    "name": "MysticBets",
-    "symbol": "MBT",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/22403/thumb/MdQTOrzQMEgBzqE-z5j6U92CB25Ne0c-H3mQyG1b6do89sTxVEwqiw7WJW_0M2u7OFBekqax-07yVNAeacmEA8N0-KOmwzpdsrWZKOcppCGrSgT-7TQ8LW9oyfQo6fZOy6OYotWvOfrWeId4vh7wtqRYHv4VleDG6amyOJ8knY8qIO8MddMcR_qYsMMwIL9hgFPPpIgIVediBy.jpg?1641794392"
   },
   {
     "chainId": 1,
@@ -44751,6 +44759,14 @@
   },
   {
     "chainId": 1,
+    "name": "Terra",
+    "address": "0xbd31ea8212119f94a611fa969881cba3ea06fa3d",
+    "decimals": 6,
+    "symbol": "LUNA",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/4172.png"
+  },
+  {
+    "chainId": 1,
     "name": "WOM Protocol",
     "address": "0xbd356a39bff2cada8e9248532dd879147221cf76",
     "decimals": 18,
@@ -49735,7 +49751,7 @@
   },
   {
     "chainId": 1,
-    "name": "ArtWallet",
+    "name": "OneArt",
     "address": "0xd3c325848d7c6e29b574cb0789998b2ff901f17e",
     "decimals": 18,
     "symbol": "1ART",
@@ -54823,6 +54839,14 @@
   },
   {
     "chainId": 1,
+    "name": "Loomi",
+    "address": "0xeb57bf569ad976974c1f861a5923a59f40222451",
+    "decimals": 18,
+    "symbol": "LOOMI",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/17586.png"
+  },
+  {
+    "chainId": 1,
     "name": "Nimbus",
     "address": "0xeb58343b36c7528f23caae63a150240241310049",
     "decimals": 18,
@@ -55140,6 +55164,14 @@
     "symbol": "CUDL",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/17479/thumb/cudl.PNG?1627950486"
+  },
+  {
+    "chainId": 1,
+    "name": "Ripio Coin",
+    "address": "0xed025a9fe4b30bcd68460bca42583090c2266468",
+    "decimals": 18,
+    "symbol": "RPC",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/17573.png"
   },
   {
     "chainId": 1,
@@ -56396,6 +56428,14 @@
     "decimals": 18,
     "symbol": "RIO",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/4166.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Kaiba DeFi",
+    "address": "0xf2210f65235c2fb391ab8650520237e6378e5c5a",
+    "decimals": 18,
+    "symbol": "KAIBA",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/14077.png"
   },
   {
     "chainId": 1,
