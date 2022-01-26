@@ -2257,11 +2257,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x08d32b0da63e2c3bcf8019c9c5d849d7a9d791e6",
     "name": "Dentacoin",
+    "address": "0x08d32b0da63e2c3bcf8019c9c5d849d7a9d791e6",
+    "decimals": 18,
     "symbol": "DCN",
-    "decimals": 0,
-    "logoURI": "https://assets.coingecko.com/coins/images/850/thumb/dentacoin.png?1547034647"
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/1876.png"
   },
   {
     "chainId": 1,
@@ -2470,6 +2470,14 @@
     "decimals": 18,
     "symbol": "ETHPA",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/6141.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Engines of Fury",
+    "address": "0x09f33050a4f266e8908293199001a44fb5a7a1e7",
+    "decimals": 18,
+    "symbol": "FURY",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/17607.png"
   },
   {
     "chainId": 1,
@@ -4462,6 +4470,14 @@
     "decimals": 18,
     "symbol": "AYFI",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7070.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x12e56851ec22874520dc4c7fa0a8a8d7dba1bac8",
+    "name": "GENART",
+    "symbol": "GENART",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/23055/thumb/token_logo.jpeg?1643151315"
   },
   {
     "chainId": 1,
@@ -8505,6 +8521,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x232fb065d9d24c34708eedbf03724f2e95abe768",
+    "name": "Sheesha Finance  ER",
+    "symbol": "SHEESHA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/23053/thumb/MLBmh4z0.png?1643113057"
+  },
+  {
+    "chainId": 1,
     "name": "Friendz",
     "address": "0x23352036e911a22cfc692b5e2e196692658aded9",
     "decimals": 18,
@@ -8814,6 +8838,14 @@
     "symbol": "ESS",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/17481/thumb/photo_2021-08-03_03-26-29.png?1627953584"
+  },
+  {
+    "chainId": 1,
+    "name": "Medi Token",
+    "address": "0x24b20da7a2fa0d1d5afcd693e1c8afff20507efd",
+    "decimals": 9,
+    "symbol": "MEDI",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/17608.png"
   },
   {
     "chainId": 1,
@@ -9345,11 +9377,11 @@
   },
   {
     "chainId": 1,
+    "name": "Oasis Network",
     "address": "0x26b80fbfc01b71495f477d5237071242e0d959d7",
-    "name": "ROSE  Wormhole ",
-    "symbol": "ROSE",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/22939/thumb/ezgif.com-gif-maker.png?1643007884"
+    "symbol": "ROSE",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7653.png"
   },
   {
     "chainId": 1,
@@ -16609,14 +16641,6 @@
   },
   {
     "chainId": 1,
-    "name": "Floki Inu",
-    "address": "0x43f11c02439e2736800433b4594994bd43cd066d",
-    "decimals": 18,
-    "symbol": "FLOKI",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/10804.png"
-  },
-  {
-    "chainId": 1,
     "address": "0x43fed9f9bf7deedcb314b432a8e38219dd62ce9e",
     "name": "RealT Token   14825",
     "symbol": "REALTOKEN-S-14825-W",
@@ -19870,14 +19894,6 @@
     "decimals": 18,
     "symbol": "RAZOR",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/8409.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x50eb346fc29a80d97563a50146c3fcf9423b5538",
-    "name": "Skull Candy Shards",
-    "symbol": "CANDY",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12934/thumb/Skull_Candy.png?1603719579"
   },
   {
     "chainId": 1,
@@ -24331,7 +24347,7 @@
     "chainId": 1,
     "name": "Benzene",
     "address": "0x6524b87960c2d573ae514fd4181777e7842435d4",
-    "decimals": 921,
+    "decimals": 18,
     "symbol": "BZN",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/17099.png"
   },
@@ -27413,6 +27429,14 @@
     "symbol": "ES",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/6031/thumb/era_swap.PNG?1570920926"
+  },
+  {
+    "chainId": 1,
+    "name": "Lootex",
+    "address": "0x721a1b990699ee9d90b6327faad0a3e840ae8335",
+    "decimals": 18,
+    "symbol": "LOOT",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/17623.png"
   },
   {
     "chainId": 1,
@@ -33456,14 +33480,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x8bb048845ee0d75be8e07954b2e1e5b51b64b442",
-    "name": "Kaiba Inu",
-    "symbol": "KAIBA",
-    "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/19990/thumb/kaiba.png?1640740626"
-  },
-  {
-    "chainId": 1,
     "name": "Handy",
     "address": "0x8bbe1a2961b41340468d0548c2cd5b7dfa9b684c",
     "decimals": 18,
@@ -33816,11 +33832,11 @@
   },
   {
     "chainId": 1,
-    "name": "BitcoinVend",
     "address": "0x8d717ab5eac1016b64c2a7fd04720fd2d27d1b86",
-    "decimals": 18,
+    "name": "BitcoinVend",
     "symbol": "BCVT",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/8782.png"
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/14162/thumb/BCVT-200x200_transparent.png?1614724192"
   },
   {
     "chainId": 1,
@@ -34680,7 +34696,7 @@
   },
   {
     "chainId": 1,
-    "name": "JACY",
+    "name": "Jacy",
     "address": "0x916c5de09cf63f6602d1e1793fb41f6437814a62",
     "decimals": 18,
     "symbol": "JACY",
@@ -48647,6 +48663,14 @@
   },
   {
     "chainId": 1,
+    "name": "Floki Inu",
+    "address": "0xcf0c122c6b73ff809c693db761e7baebe62b6a2e",
+    "decimals": 18,
+    "symbol": "FLOKI",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/10804.png"
+  },
+  {
+    "chainId": 1,
     "address": "0xcf282ba0bc91d2aa6e775bcfd90da6b7912f1b1a",
     "name": "Yearn Ethereum Fina",
     "symbol": "YEFI",
@@ -54103,6 +54127,14 @@
   },
   {
     "chainId": 1,
+    "address": "0xe7c7ee8075857d24d4534491f638af6a99f524e2",
+    "name": "Wordl DeFi",
+    "symbol": "WORDL",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/23030/thumb/WORDL-DEFI.png?1643095795"
+  },
+  {
+    "chainId": 1,
     "name": "Basis Dollar Share",
     "address": "0xe7c9c188138f7d70945d420d75f8ca7d8ab9c700",
     "decimals": 18,
@@ -55239,6 +55271,14 @@
   },
   {
     "chainId": 1,
+    "address": "0xed35af169af46a02ee13b9d79eb57d6d68c1749e",
+    "name": "ECOMI",
+    "symbol": "OMI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/4428/thumb/ECOMI.png?1557928886"
+  },
+  {
+    "chainId": 1,
     "name": "HoldToWin",
     "address": "0xed36482c7f8e5850e91ac0cf6bf2130a1aa2df92",
     "decimals": 18,
@@ -55343,11 +55383,11 @@
   },
   {
     "chainId": 1,
-    "address": "0xedb171c18ce90b633db442f2a6f72874093b49ef",
     "name": "Wrapped Ampleforth",
-    "symbol": "WAMPL",
+    "address": "0xedb171c18ce90b633db442f2a6f72874093b49ef",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/20825/thumb/photo_2021-11-25_02-05-11.jpg?1637811951"
+    "symbol": "WAMPL",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/17610.png"
   },
   {
     "chainId": 1,
