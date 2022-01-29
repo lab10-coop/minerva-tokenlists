@@ -2113,11 +2113,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x081f67afa0ccf8c7b17540767bbe95df2ba8d97f",
     "name": "CoinEx Token",
-    "symbol": "CET",
+    "address": "0x081f67afa0ccf8c7b17540767bbe95df2ba8d97f",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/4817/thumb/coinex-token.png?1547040183"
+    "symbol": "CET",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2941.png"
   },
   {
     "chainId": 1,
@@ -3673,11 +3673,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x0f3adc247e91c3c50bc08721355a41037e89bc20",
     "name": "Anchor Protocol",
-    "symbol": "ANC",
+    "address": "0x0f3adc247e91c3c50bc08721355a41037e89bc20",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/14420/thumb/anchor_protocol_logo.jpg?1615965420"
+    "symbol": "ANC",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/8857.png"
   },
   {
     "chainId": 1,
@@ -8905,6 +8905,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x24e79e946dea5482212c38aab2d0782f04cdb0e0",
+    "name": "Paladin stkAAVE",
+    "symbol": "PALSTKAAVE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/23156/thumb/qog6q5Fj_400x400.jpg?1643352589"
+  },
+  {
+    "chainId": 1,
     "name": "Tiger King",
     "address": "0x24e89bdf2f65326b94e36978a7edeac63623dafa",
     "decimals": 18,
@@ -11329,7 +11337,7 @@
   },
   {
     "chainId": 1,
-    "name": "Safeswap Governance Token",
+    "name": "SafeSwap Governance Token",
     "address": "0x2ecc48ba346a73d7d55aa5a46b5e314d9daa6161",
     "decimals": 18,
     "symbol": "SSGT",
@@ -14073,6 +14081,14 @@
   },
   {
     "chainId": 1,
+    "name": "Yugen Finance",
+    "address": "0x397e10ee5e315f69b23cb6c8a913a589b5850c80",
+    "decimals": 18,
+    "symbol": "YGN",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/17211.png"
+  },
+  {
+    "chainId": 1,
     "name": "Valireum",
     "address": "0x3989f36540052668c340a53aaeacb46d6cf0dd6c",
     "decimals": 18,
@@ -14214,14 +14230,6 @@
     "decimals": 18,
     "symbol": "VYBE",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7025.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x3a3547d62e9f9e76f99d51d5ab4f07aae0db2dbb",
-    "name": "BITICA COIN",
-    "symbol": "BDCC",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/11857/thumb/bitica_400x400.png?1595168606"
   },
   {
     "chainId": 1,
@@ -21489,11 +21497,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x58b6a8a3302369daec383334672404ee733ab239",
     "name": "Livepeer",
-    "symbol": "LPT",
+    "address": "0x58b6a8a3302369daec383334672404ee733ab239",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/7137/thumb/logo-circle-green.png?1619593365"
+    "symbol": "LPT",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3640.png"
   },
   {
     "chainId": 1,
@@ -27128,14 +27136,6 @@
   },
   {
     "chainId": 1,
-    "name": "Electric Vehicle Direct Currency",
-    "address": "0x704eae6d452ca63ce479c59727177c5f3ba0d90c",
-    "decimals": 18,
-    "symbol": "EVDC",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/12121.png"
-  },
-  {
-    "chainId": 1,
     "name": "SAKECOIN",
     "address": "0x705051bbfd9f287869a412cba8bc7d112de48e69",
     "decimals": 8,
@@ -27309,6 +27309,14 @@
     "decimals": 18,
     "symbol": "RBD",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/5875.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x7118057ff0f4fd0994fb9d2d94de8231d5cca79e",
+    "name": "ReSource Protocol",
+    "symbol": "SOURCE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/20740/thumb/source.png?1637749215"
   },
   {
     "chainId": 1,
@@ -28760,6 +28768,14 @@
   },
   {
     "chainId": 1,
+    "name": "Metaverse DAO",
+    "address": "0x776f2453115f0d47aaab52c7095f14150d89069c",
+    "decimals": 18,
+    "symbol": "MDAO",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/17713.png"
+  },
+  {
+    "chainId": 1,
     "name": "Wisepass",
     "address": "0x77761e63c05aee6648fdaeaa9b94248351af9bcd",
     "decimals": 18,
@@ -29013,6 +29029,14 @@
     "decimals": 18,
     "symbol": "IMVR",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3375.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x7884f51dc1410387371ce61747cb6264e1daee0b",
+    "name": "Binance Wrapped DOT",
+    "symbol": "BDOT",
+    "decimals": 10,
+    "logoURI": "https://assets.coingecko.com/coins/images/23268/thumb/binance-dot_32.png?1643414783"
   },
   {
     "chainId": 1,
@@ -31280,6 +31304,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x82ca5fcd9ef2d6ceeb49a057bb11c3e091560979",
+    "name": "Kiki Finance",
+    "symbol": "KIKI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/23151/thumb/DLq9z6qp_400x400.jpg?1643351049"
+  },
+  {
+    "chainId": 1,
     "name": "InfinityDeFi",
     "address": "0x82dad985afd3708680bac660f4e527da4f0dcfa5",
     "decimals": 8,
@@ -33520,6 +33552,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x8bb3b09ba3dd66c619e672ba2e78430f47b2388d",
+    "name": "The King",
+    "symbol": "THEKING",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/23259/thumb/Logo_%286%29.png?1643361324"
+  },
+  {
+    "chainId": 1,
     "name": "Handy",
     "address": "0x8bbe1a2961b41340468d0548c2cd5b7dfa9b684c",
     "decimals": 18,
@@ -33981,6 +34021,14 @@
     "decimals": 18,
     "symbol": "PORTAL",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/6496.png"
+  },
+  {
+    "chainId": 1,
+    "name": "ShinjiRai",
+    "address": "0x8dcb5a827e3774a1a64b15d5509f628dc6ca9fdd",
+    "decimals": 18,
+    "symbol": "$SHINJI",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/17673.png"
   },
   {
     "chainId": 1,
@@ -38128,6 +38176,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x9f7fc686cfd64aa5ae15b351d03071e91533094b",
+    "name": "Trace Network Labs",
+    "symbol": "TRACE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/23266/thumb/93mryokp_400x400.png?1643413792"
+  },
+  {
+    "chainId": 1,
     "name": "VAIOT",
     "address": "0x9f801c1f02af03cc240546dadef8e56cd46ea2e9",
     "decimals": 18,
@@ -39733,14 +39789,6 @@
     "decimals": 18,
     "symbol": "DCA",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/5140.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xa6368d7df5731eae98ccc7e4e1bf458bb0855e9d",
-    "name": "Kirby Reloaded",
-    "symbol": "KIRBYRELOADED",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/17384/thumb/kirby.PNG?1627463276"
   },
   {
     "chainId": 1,
@@ -46850,7 +46898,7 @@
     "name": "Asuna",
     "address": "0xc656b2279b0fdf761e832133b06ce607fbbcbceb",
     "decimals": 18,
-    "symbol": "ASUNAINU",
+    "symbol": "ASUNA",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/12933.png"
   },
   {
@@ -55191,6 +55239,14 @@
   },
   {
     "chainId": 1,
+    "address": "0xec7d3e835da3f6118079fa9a236b267d044fd7ca",
+    "name": "Crypto Rewards Stud",
+    "symbol": "CRS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/13252/thumb/Circle_%28JPG%29.jpg?1612947294"
+  },
+  {
+    "chainId": 1,
     "name": "Super Game Chain",
     "address": "0xec985525f3f22c7fa9c9ff4a49e37589a76d86d4",
     "decimals": 18,
@@ -55839,11 +55895,11 @@
   },
   {
     "chainId": 1,
-    "address": "0xef40b859d21e4d566a3d713e756197c021bffaaa",
     "name": "APENFT",
-    "symbol": "NFT",
+    "address": "0xef40b859d21e4d566a3d713e756197c021bffaaa",
     "decimals": 6,
-    "logoURI": "https://assets.coingecko.com/coins/images/15687/thumb/apenft.jpg?1621562368"
+    "symbol": "NFT",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/9816.png"
   },
   {
     "chainId": 1,
@@ -63359,6 +63415,14 @@
     "chainId": 56,
     "decimals": 6,
     "logoURI": "https://tokens.pancakeswap.finance/images/0x1203355742e76875154C0D13eB81DCD7711dC7d9.png"
+  },
+  {
+    "name": "Radio Caca V2",
+    "symbol": "RACA",
+    "address": "0x12bb890508c125661e03b09ec06e404bc9289040",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x12BB890508c125661E03b09EC06E404bc9289040.png"
   },
   {
     "name": "True USD",
