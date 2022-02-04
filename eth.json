@@ -2825,6 +2825,14 @@
   },
   {
     "chainId": 1,
+    "name": "WardenSwap",
+    "address": "0x0b6f3c17e1626a7cbfa4302ce4e3c45522d23a83",
+    "decimals": 18,
+    "symbol": "WAD",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/8981.png"
+  },
+  {
+    "chainId": 1,
     "name": "Grimace Coin",
     "address": "0x0b92741315ce565849b440354a010ed346cf2fb7",
     "decimals": 18,
@@ -8665,14 +8673,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x24ae124c4cc33d6791f8e8b63520ed7107ac8b3e",
-    "name": "Empty Set Share",
-    "symbol": "ESS",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/17481/thumb/photo_2021-08-03_03-26-29.png?1627953584"
-  },
-  {
-    "chainId": 1,
     "name": "Medi Token",
     "address": "0x24b20da7a2fa0d1d5afcd693e1c8afff20507efd",
     "decimals": 9,
@@ -12033,6 +12033,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x3231cb76718cdef2155fc47b5286d82e6eda273f",
+    "name": "Monerium EUR emoney",
+    "symbol": "EURE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/23354/thumb/eur.png?1643926562"
+  },
+  {
+    "chainId": 1,
     "name": "Adventure Gold",
     "address": "0x32353a6c91143bfd6c7d363b546e62a9a2489a20",
     "decimals": 18,
@@ -14881,11 +14889,11 @@
   },
   {
     "chainId": 1,
+    "name": "Colony Network Token",
     "address": "0x3e828ac5c480069d4765654fb4b8733b910b13b2",
-    "name": "Colony Network Toke",
-    "symbol": "CLNY",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/23269/thumb/colony.png?1643441483"
+    "symbol": "CLNY",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/17817.png"
   },
   {
     "chainId": 1,
@@ -16510,6 +16518,14 @@
     "decimals": 18,
     "symbol": "INVOX",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/5851.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Talent Token",
+    "address": "0x448cf521608f9fbac30da7746603cba1b9efc46f",
+    "decimals": 18,
+    "symbol": "TTX",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7392.png"
   },
   {
     "chainId": 1,
@@ -18510,14 +18526,6 @@
     "symbol": "SNAP",
     "decimals": 9,
     "logoURI": "https://assets.coingecko.com/coins/images/18152/thumb/project-logo.jpeg?1630714168"
-  },
-  {
-    "chainId": 1,
-    "address": "0x4c6719bf85903d18c295da44216f862b01b36f43",
-    "name": "AlloHash",
-    "symbol": "ALH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/2897/thumb/Allohash-Logo-v03_2_%281%29.png?1616119279"
   },
   {
     "chainId": 1,
@@ -21137,6 +21145,14 @@
   },
   {
     "chainId": 1,
+    "name": "TTX Games",
+    "address": "0x591127253e40d4f63bf29ccf3d81fd062a149c8c",
+    "decimals": 18,
+    "symbol": "XMETA",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/17814.png"
+  },
+  {
+    "chainId": 1,
     "name": "BMJ Master Nodes",
     "address": "0x5913d0f34615923552ee913dbe809f9f348e706e",
     "decimals": 18,
@@ -22833,14 +22849,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x605d26fbd5be761089281d5cec2ce86eea667109",
-    "name": "Digital Standard Un",
-    "symbol": "DSU",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/17482/thumb/photo_2021-08-03_09-24-16.png?1627953917"
-  },
-  {
-    "chainId": 1,
     "address": "0x6069c9223e8a5da1ec49ac5525d4bb757af72cd8",
     "name": "MUSK Gold",
     "symbol": "MUSK",
@@ -24480,11 +24488,11 @@
   },
   {
     "chainId": 1,
+    "name": "Fubuki Token",
     "address": "0x67689fdb3028fb616f4d71a5b9e2dd53c82cc57b",
-    "name": "Fubuki",
-    "symbol": "FUBUKI",
     "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/23315/thumb/BIGtJoB.png?1643756047"
+    "symbol": "FUBUKI",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/17812.png"
   },
   {
     "chainId": 1,
@@ -37072,11 +37080,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x9dfad1b7102d46b1b197b90095b5c4e9f5845bba",
     "name": "Botto",
-    "symbol": "BOTTO",
+    "address": "0x9dfad1b7102d46b1b197b90095b5c4e9f5845bba",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/18892/thumb/bottos_logo.jpg?1633791571"
+    "symbol": "BOTTO",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/14345.png"
   },
   {
     "chainId": 1,
@@ -45947,7 +45955,7 @@
     "name": "BitTorrent",
     "symbol": "BTT",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/22457/thumb/btt11.png?1642737421"
+    "logoURI": "https://assets.coingecko.com/coins/images/22457/thumb/btt_logo.png?1643857231"
   },
   {
     "chainId": 1,
@@ -46639,11 +46647,11 @@
   },
   {
     "chainId": 1,
-    "address": "0xc9fe6e1c76210be83dc1b5b20ec7fd010b0b1d15",
     "name": "Fringe Finance",
-    "symbol": "FRIN",
+    "address": "0xc9fe6e1c76210be83dc1b5b20ec7fd010b0b1d15",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/13222/thumb/frin.png?1642932787"
+    "symbol": "FRIN",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/17456.png"
   },
   {
     "chainId": 1,
@@ -54727,11 +54735,11 @@
   },
   {
     "chainId": 1,
-    "name": "Talent Token",
     "address": "0xef2e239b21a81719abaabc6239e2e90859b44d9b",
-    "decimals": 18,
+    "name": "Talent Token",
     "symbol": "TTX",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7392.png"
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12770/thumb/ttx.png?1640758151"
   },
   {
     "chainId": 1,
@@ -55039,7 +55047,7 @@
   },
   {
     "chainId": 1,
-    "name": "DxSale Network",
+    "name": "Dx",
     "address": "0xf063fe1ab7a291c5d06a86e14730b00bf24cb589",
     "decimals": 18,
     "symbol": "SALE",
@@ -58415,7 +58423,7 @@
   },
   {
     "chainId": 1,
-    "name": "Cook Protocol",
+    "name": "Cook Finance",
     "address": "0xff75ced57419bcaebe5f05254983b013b0646ef5",
     "decimals": 18,
     "symbol": "COOK",
