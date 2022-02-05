@@ -145,6 +145,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x00281dfce4cfd72c0b6fda2aaaf077258743f9e8",
+    "name": "NuriFootBall",
+    "symbol": "NRFB",
+    "decimals": 0,
+    "logoURI": "https://assets.coingecko.com/coins/images/23360/thumb/pcMlP25e_400x400.jpg?1643945452"
+  },
+  {
+    "chainId": 1,
     "name": "ForesterX",
     "address": "0x002f2264aeec71041ae5739ecf0a2c80c5ea30fa",
     "decimals": 18,
@@ -2833,7 +2841,7 @@
   },
   {
     "chainId": 1,
-    "name": "Grimace Coin",
+    "name": "GrimaceCoinErc.com",
     "address": "0x0b92741315ce565849b440354a010ed346cf2fb7",
     "decimals": 18,
     "symbol": "GRIM",
@@ -7958,6 +7966,14 @@
     "decimals": 18,
     "symbol": "ANX",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/5571.png"
+  },
+  {
+    "chainId": 1,
+    "name": "MetaSpace REIT",
+    "address": "0x2132f6f5a45ab821e99dc1275da764776ceb2530",
+    "decimals": 18,
+    "symbol": "MREIT",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/17270.png"
   },
   {
     "chainId": 1,
@@ -14593,6 +14609,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x3ce523bbcf1b29904fcd88278973ba45e4262b9f",
+    "name": "MCPEPE",
+    "symbol": "MCPEPE",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/23377/thumb/McPepeLogo.png?1643960384"
+  },
+  {
+    "chainId": 1,
     "address": "0x3d0293f06daf4311b482564330d57c8db6c10893",
     "name": "Y Coin",
     "symbol": "YCO",
@@ -16257,11 +16281,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x43835ca7646c07b6933d0c1c16ddc41c4cb5600e",
     "name": "FanVerse",
-    "symbol": "FANV",
+    "address": "0x43835ca7646c07b6933d0c1c16ddc41c4cb5600e",
     "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/23317/thumb/xcz7ZN7r_400x400.jpg?1643756752"
+    "symbol": "FANV",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/17847.png"
   },
   {
     "chainId": 1,
@@ -21394,7 +21418,7 @@
   {
     "chainId": 1,
     "address": "0x5a35a6686db167b05e2eb74e1ede9fb5d9cdb3e0",
-    "name": "Cigarette Token",
+    "name": "Cigarette",
     "symbol": "CIG",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/22145/thumb/cig.png?1640929916"
@@ -22929,11 +22953,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x60be1e1fe41c1370adaf5d8e66f07cf1c2df2268",
     "name": "Perion",
-    "symbol": "PERC",
+    "address": "0x60be1e1fe41c1370adaf5d8e66f07cf1c2df2268",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/23302/thumb/1_-RAiJJhE0chp7GXabG0QMw.png?1643669553"
+    "symbol": "PERC",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/17837.png"
   },
   {
     "chainId": 1,
@@ -24161,11 +24185,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x6628606c321faf52b7230a57b26c01b19aa68e82",
     "name": "BitHash Token",
-    "symbol": "BT",
+    "address": "0x6628606c321faf52b7230a57b26c01b19aa68e82",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/13224/thumb/bt.png?1606358296"
+    "symbol": "BT",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/17834.png"
   },
   {
     "chainId": 1,
@@ -26605,6 +26629,14 @@
     "decimals": 18,
     "symbol": "SWAG",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/4321.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Pledge Finance",
+    "address": "0x7047dfa33a46eb597e662969d1fa1e5c717777f4",
+    "decimals": 18,
+    "symbol": "MPLGR",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/17843.png"
   },
   {
     "chainId": 1,
@@ -29136,7 +29168,7 @@
   },
   {
     "chainId": 1,
-    "name": "NFTLootBox",
+    "name": "LootBox.io",
     "address": "0x7b3d36eb606f873a75a6ab68f8c999848b04f935",
     "decimals": 18,
     "symbol": "LOOT",
@@ -30080,14 +30112,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x7fea8dda7462ac9f2ce62cf52ce9840e0e6a8c3b",
-    "name": "Reborn Dollar",
-    "symbol": "REBD",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/17505/thumb/reborn_token%28small_size%29.png?1628044455"
-  },
-  {
-    "chainId": 1,
     "name": "Tenset",
     "address": "0x7ff4169a6b5122b664c51c95727d87750ec07c84",
     "decimals": 18,
@@ -30109,6 +30133,14 @@
     "symbol": "P4C",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/20774/thumb/Artboard_1_copy_2x.png?1637660521"
+  },
+  {
+    "chainId": 1,
+    "address": "0x803e78269f7f013b7d13ba13243be10c66418a70",
+    "name": "Node Aggregator Cap",
+    "symbol": "NODAC",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/23368/thumb/NODAC_Logo_256_x_256.png?1643954083"
   },
   {
     "chainId": 1,
@@ -30693,6 +30725,14 @@
     "decimals": 18,
     "symbol": "SKT",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/4002.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x82c323740455925e15936f84c1d3f2b074d37af0",
+    "name": "UNIVE X",
+    "symbol": "UNVX",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/23366/thumb/q8lz.png?1643948363"
   },
   {
     "chainId": 1,
@@ -33541,6 +33581,14 @@
     "decimals": 18,
     "symbol": "HUB",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/9086.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Pochi Inu",
+    "address": "0x8eb1779a32678452eb273a22d413207299904d90",
+    "decimals": 18,
+    "symbol": "POCHI",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/17863.png"
   },
   {
     "chainId": 1,
@@ -38592,14 +38640,6 @@
   },
   {
     "chainId": 1,
-    "address": "0xa44f5ae99b5400360a37ddfa69aeeb5f91dc8679",
-    "name": "BabySatoshi",
-    "symbol": "BSATOSHI",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/17510/thumb/Babysats-logo.png?1628054935"
-  },
-  {
-    "chainId": 1,
     "name": "PITSTOP",
     "address": "0xa44fb3aa5c8465512b806145a8f9b60e74f3f851",
     "decimals": 18,
@@ -39349,6 +39389,14 @@
     "decimals": 18,
     "symbol": "HLT",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3838.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xa80f2c8f61c56546001f5fc2eb8d6e4e72c45d4c",
+    "name": "Unique Utility Toke",
+    "symbol": "UNQT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/23382/thumb/D31DBA6B-FB7E-4ACB-82B4-98E255C1C483.jpg?1643962784"
   },
   {
     "chainId": 1,
@@ -42408,6 +42456,14 @@
   },
   {
     "chainId": 1,
+    "address": "0xb624fde1a972b1c89ec1dad691442d5e8e891469",
+    "name": "SporkDAO",
+    "symbol": "SPORK",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/23358/thumb/sporkdao.PNG?1643942687"
+  },
+  {
+    "chainId": 1,
     "name": "RRCoin",
     "address": "0xb6259685685235c1ef4b8529e7105f00bd42b9f8",
     "decimals": 2,
@@ -43605,6 +43661,14 @@
     "decimals": 18,
     "symbol": "BORING",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/11218.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Shibtama",
+    "address": "0xbc276f51184ec085cd1437601ecb4bbc3d981896",
+    "decimals": 18,
+    "symbol": "SHIBTAMA",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/17854.png"
   },
   {
     "chainId": 1,
@@ -46028,6 +46092,14 @@
     "decimals": 8,
     "symbol": "TRET",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/8890.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xc6db556fd9ec09bab6dfea320e52d8476f61d424",
+    "name": "Cool Monke Banana",
+    "symbol": "CMB",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/23385/thumb/cmb-200x200.png?1643965383"
   },
   {
     "chainId": 1,
