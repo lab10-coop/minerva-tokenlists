@@ -1577,14 +1577,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x05edffbda103d90d5040829a105f687443e0ca3e",
-    "name": "Woyager",
-    "symbol": "WYX",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/7404/thumb/PNG-amblem.png?1547085374"
-  },
-  {
-    "chainId": 1,
     "name": "JOOS",
     "address": "0x05f9abf4b0c5661e83b92c056a8791d5ccd7ca52",
     "decimals": 18,
@@ -3019,7 +3011,7 @@
     "chainId": 1,
     "name": "PackagePortal",
     "address": "0x0c7c5b92893a522952eb4c939aa24b65ff910c48",
-    "decimals": 4,
+    "decimals": 18,
     "symbol": "PORT",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/11022.png"
   },
@@ -11937,6 +11929,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x31e92324ef7185c65dd4d154cfa4f6326b489c55",
+    "name": "Earn Network",
+    "symbol": "EARN",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/14727/thumb/earn.png?1644049018"
+  },
+  {
+    "chainId": 1,
     "address": "0x31ea0de8119307aa264bb4b38727aab4e36b074f",
     "name": "Bit Store",
     "symbol": "STORE",
@@ -12117,7 +12117,7 @@
     "name": "ParaInu",
     "symbol": "PARAINU",
     "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/22054/thumb/ptos6X27_400x400.png?1640682287"
+    "logoURI": "https://assets.coingecko.com/coins/images/22054/thumb/parainu.png?1644052098"
   },
   {
     "chainId": 1,
@@ -21169,7 +21169,7 @@
   },
   {
     "chainId": 1,
-    "name": "TTX Games",
+    "name": "TTX METAVERSE",
     "address": "0x591127253e40d4f63bf29ccf3d81fd062a149c8c",
     "decimals": 18,
     "symbol": "XMETA",
@@ -21414,14 +21414,6 @@
     "decimals": 18,
     "symbol": "OZP",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/5377.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x5a35a6686db167b05e2eb74e1ede9fb5d9cdb3e0",
-    "name": "Cigarette",
-    "symbol": "CIG",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/22145/thumb/cig.png?1640929916"
   },
   {
     "chainId": 1,
@@ -32016,11 +32008,11 @@
   },
   {
     "chainId": 1,
+    "name": "X-Consoles",
     "address": "0x882e5b370d595e50c24b2a0e7a94e87cc32adda1",
-    "name": "X Consoles",
-    "symbol": "GAME",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/21616/thumb/photo_2021-12-25_01-03-14.jpg?1640519963"
+    "symbol": "GAME",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/17872.png"
   },
   {
     "chainId": 1,
@@ -35240,14 +35232,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x95b4ef2869ebd94beb4eee400a99824bf5dc325b",
-    "name": "cMKR",
-    "symbol": "CMKR",
-    "decimals": 8,
-    "logoURI": "https://assets.coingecko.com/coins/images/17528/thumb/cmkr.PNG?1628122490"
-  },
-  {
-    "chainId": 1,
     "name": "DeCash",
     "address": "0x95ba34760ac3d7fbe98ee8b2ab33b4f1a6d18878",
     "decimals": 18,
@@ -35349,6 +35333,14 @@
     "symbol": "XLMBEAR",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/13335/thumb/assets_coingecko_com-ftt.jpg?1607567062"
+  },
+  {
+    "chainId": 1,
+    "name": "HUSH",
+    "address": "0x960fb2b6d4ae1fc3a5349d5b054ffefbae42fb8a",
+    "decimals": 18,
+    "symbol": "HUSH",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/17785.png"
   },
   {
     "chainId": 1,
@@ -36184,10 +36176,10 @@
   },
   {
     "chainId": 1,
-    "name": "MeDIA eYe",
+    "name": "MeDIA eYe NFT Portal",
     "address": "0x9a257c90fa239fba07771ef7da2d554d148c2e89",
     "decimals": 18,
-    "symbol": "EYE",
+    "symbol": "eYe",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/14996.png"
   },
   {
@@ -42824,7 +42816,7 @@
   },
   {
     "chainId": 1,
-    "name": "Bacon Protocol",
+    "name": "BaconCoin",
     "address": "0xb8919522331c59f5c16bdfaa6a121a6e03a91f62",
     "decimals": 18,
     "symbol": "BHOME",
@@ -47031,6 +47023,14 @@
   },
   {
     "chainId": 1,
+    "address": "0xcb56b52316041a62b6b5d0583dce4a8ae7a3c629",
+    "name": "Cigarette",
+    "symbol": "CIG",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/22145/thumb/cig.png?1640929916"
+  },
+  {
+    "chainId": 1,
     "address": "0xcb58418aa51ba525aef0fe474109c0354d844b7c",
     "name": "Laika Protocol",
     "symbol": "LAIKA",
@@ -48292,14 +48292,6 @@
     "decimals": 18,
     "symbol": "VNTW",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/9230.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xd0f57b427971ea60909a28648987141a81f8dc03",
-    "name": "Super Heavy Booster",
-    "symbol": "SHB4",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/17543/thumb/shb4.PNG?1628150507"
   },
   {
     "chainId": 1,
@@ -51035,7 +51027,7 @@
     "name": "DEI Token",
     "symbol": "DEI",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/18779/thumb/dei.png?1633403002"
+    "logoURI": "https://assets.coingecko.com/coins/images/18779/thumb/dei.png?1644053123"
   },
   {
     "chainId": 1,
@@ -56031,6 +56023,14 @@
   },
   {
     "chainId": 1,
+    "name": "inf4mation",
+    "address": "0xf4397ed1458824b7d4845731dd08d573926275cc",
+    "decimals": 18,
+    "symbol": "INF4",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/17869.png"
+  },
+  {
+    "chainId": 1,
     "name": "Ultimate Nft",
     "address": "0xf442a73d52431eb39f3fca49b4a495d9ae99b1a2",
     "decimals": 18,
@@ -57900,6 +57900,14 @@
     "decimals": 18,
     "symbol": "RARI",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/5877.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Cybershinu",
+    "address": "0xfcb03701e2af621f5bdced1a960459ba06938f1a",
+    "decimals": 18,
+    "symbol": "CYSHI",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/17853.png"
   },
   {
     "chainId": 1,
