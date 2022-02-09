@@ -12417,11 +12417,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x33d6064f0dfb62462a74049f30909ddd4f683ba2",
     "name": "Serenity",
-    "symbol": "SEREN",
+    "address": "0x33d6064f0dfb62462a74049f30909ddd4f683ba2",
     "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/23412/thumb/seren.png?1644151893"
+    "symbol": "SEREN",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/17950.png"
   },
   {
     "chainId": 1,
@@ -13238,6 +13238,14 @@
     "symbol": "KELON",
     "decimals": 9,
     "logoURI": "https://assets.coingecko.com/coins/images/21015/thumb/Kw2Rr28.png?1638191254"
+  },
+  {
+    "chainId": 1,
+    "address": "0x372c95ce229a7af37d141f627d09f6df1dbaa741",
+    "name": "ShibRobi",
+    "symbol": "SHIBORG",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/23505/thumb/_-5o_lop_400x400.jpg?1644297264"
   },
   {
     "chainId": 1,
@@ -22497,11 +22505,11 @@
   },
   {
     "chainId": 1,
+    "name": "SAITANOBI",
     "address": "0x5e9f35e8163c44cd7e606bdd716abed32ad2f1c6",
-    "name": "Saitanobi",
-    "symbol": "SAITANOBI",
     "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/23473/thumb/Image-03-02-22-08-26.png?1644218302"
+    "symbol": "SAITANOBI",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/17949.png"
   },
   {
     "chainId": 1,
@@ -32056,11 +32064,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x8848812bd31aeee33313c10a840ffc3169078c5b",
     "name": "CrossFi",
-    "symbol": "CRFI",
+    "address": "0x8848812bd31aeee33313c10a840ffc3169078c5b",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/15162/thumb/11901619752967_.pic_hd.png?1620006681"
+    "symbol": "CRFI",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/9535.png"
   },
   {
     "chainId": 1,
@@ -46535,6 +46543,14 @@
   },
   {
     "chainId": 1,
+    "address": "0xc8c6fc3c4f6342c5291e747268625f979a888ebf",
+    "name": "Green Money",
+    "symbol": "GRM",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/11098/thumb/GRM.png?1588342300"
+  },
+  {
+    "chainId": 1,
     "name": "LivenPay",
     "address": "0xc8cac7672f4669685817cf332a33eb249f085475",
     "decimals": 18,
@@ -46708,6 +46724,14 @@
     "decimals": 8,
     "symbol": "WILC",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/8447.png"
+  },
+  {
+    "chainId": 1,
+    "name": "RSS3",
+    "address": "0xc98d64da73a6616c42117b582e832812e7b8d57f",
+    "decimals": 18,
+    "symbol": "RSS3",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/17917.png"
   },
   {
     "chainId": 1,
@@ -48108,6 +48132,14 @@
     "symbol": "AETHB",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/18777/thumb/aETHb.png?1633402302"
+  },
+  {
+    "chainId": 1,
+    "address": "0xd0345d30fd918d7682398acbcdf139c808998709",
+    "name": "Lixir Finance",
+    "symbol": "LIX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/15333/thumb/SVxrN7DF_400x400.jpg?1637855435"
   },
   {
     "chainId": 1,
@@ -55313,7 +55345,7 @@
     "chainId": 1,
     "name": "NuNet",
     "address": "0xf0d33beda4d734c72684b5f9abbebf715d0a7935",
-    "decimals": 18,
+    "decimals": 6,
     "symbol": "NTX",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/13198.png"
   },
@@ -56199,7 +56231,7 @@
   },
   {
     "chainId": 1,
-    "name": "BlockBank",
+    "name": "blockbank",
     "address": "0xf4b5470523ccd314c6b9da041076e7d79e0df267",
     "decimals": 18,
     "symbol": "BBANK",
