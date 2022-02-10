@@ -3689,6 +3689,14 @@
   },
   {
     "chainId": 1,
+    "name": "EVE Token",
+    "address": "0x0f628641d0ea1ecab9341e58d4982c0018a51c6b",
+    "decimals": 18,
+    "symbol": "EVE",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/17212.png"
+  },
+  {
+    "chainId": 1,
     "address": "0x0f644658510c95cb46955e55d7ba9dda9e9fbec6",
     "name": "Ubiquity Algorithmi",
     "symbol": "UAD",
@@ -4158,6 +4166,14 @@
     "decimals": 2,
     "symbol": "CAPP",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2248.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Morie INU",
+    "address": "0x1181901298b7615234fcc2d0279c858a66230ce7",
+    "decimals": 18,
+    "symbol": "MORIE",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/17985.png"
   },
   {
     "chainId": 1,
@@ -16833,6 +16849,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x45c943973e65d069906b0dc33dc31d1d7d9d09dc",
+    "name": "MovieCash",
+    "symbol": "MVH",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/14550/thumb/LOGO-CINEMADROM-2.png?1616989406"
+  },
+  {
+    "chainId": 1,
     "name": "DOOS TOKEN",
     "address": "0x45cde5c8ae6e4a5568e488ef43a173eeeabfcc21",
     "decimals": 18,
@@ -18470,6 +18494,14 @@
     "symbol": "GW",
     "decimals": 9,
     "logoURI": "https://assets.coingecko.com/coins/images/20260/thumb/04CmcQR.jpeg?1636702913"
+  },
+  {
+    "chainId": 1,
+    "name": "JPEG",
+    "address": "0x4bfce5a1acc3b847afa9579ba91da33b08e66fb7",
+    "decimals": 18,
+    "symbol": "JPEG",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/14717.png"
   },
   {
     "chainId": 1,
@@ -21366,6 +21398,14 @@
     "decimals": 18,
     "symbol": "TCH",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/4560.png"
+  },
+  {
+    "chainId": 1,
+    "name": "AssangeDAO",
+    "address": "0x59d1e836f7b7210a978b25a855085cc46fd090b5",
+    "decimals": 18,
+    "symbol": "JUSTICE",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/17995.png"
   },
   {
     "chainId": 1,
@@ -24389,6 +24429,14 @@
     "decimals": 18,
     "symbol": "DXGM",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/15564.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x66f873e4776fa0adad5dbd0c6dc11afc40ab4c2c",
+    "name": "Shikage",
+    "symbol": "SHKG",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/22729/thumb/Shikage-Logo-Transparent-Back-copy.png?1642489877"
   },
   {
     "chainId": 1,
@@ -28048,11 +28096,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x7659ce147d0e714454073a5dd7003544234b6aa0",
     "name": "XCAD Network",
-    "symbol": "XCAD",
+    "address": "0x7659ce147d0e714454073a5dd7003544234b6aa0",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/15857/thumb/xcad.PNG?1622164789"
+    "symbol": "XCAD",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/9868.png"
   },
   {
     "chainId": 1,
@@ -31584,6 +31632,14 @@
   },
   {
     "chainId": 1,
+    "name": "Saitinja",
+    "address": "0x8697f6ccd4d9b209998a0bc05acc403f7c983f25",
+    "decimals": 18,
+    "symbol": "SAITINJA",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/17963.png"
+  },
+  {
+    "chainId": 1,
     "name": "Oxycoin",
     "address": "0x869b1f57380ae501d387b19262efd3c0eb7501b0",
     "decimals": 18,
@@ -32120,11 +32176,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x88800092ff476844f74dc2fc427974bbee2794ae",
     "name": "Ambire Wallet",
-    "symbol": "WALLET",
+    "address": "0x88800092ff476844f74dc2fc427974bbee2794ae",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/23154/thumb/wallet.PNG?1643352408"
+    "symbol": "WALLET",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/17722.png"
   },
   {
     "chainId": 1,
@@ -33280,7 +33336,7 @@
   },
   {
     "chainId": 1,
-    "name": "Bundles Finance",
+    "name": "BundlesBets",
     "address": "0x8d3e855f3f55109d473735ab76f753218400fe96",
     "decimals": 18,
     "symbol": "BUND",
@@ -33717,6 +33773,14 @@
     "decimals": 18,
     "symbol": "STUD",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/15583.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Together As One",
+    "address": "0x8f5604f7bda1ca043baa01147bcaf81e03f23042",
+    "decimals": 18,
+    "symbol": "TAO",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/17964.png"
   },
   {
     "chainId": 1,
@@ -35152,11 +35216,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x954b890704693af242613edef1b603825afcd708",
     "name": "Cardstack",
-    "symbol": "CARD",
+    "address": "0x954b890704693af242613edef1b603825afcd708",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/3247/thumb/cardstack.png?1547037769"
+    "symbol": "CARD",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2891.png"
   },
   {
     "chainId": 1,
@@ -37277,6 +37341,14 @@
     "decimals": 18,
     "symbol": "HALV",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/6506.png"
+  },
+  {
+    "chainId": 1,
+    "name": "EZDex",
+    "address": "0x9e8bfe46f9af27c5ea5c9c72b86d71bb86953a0c",
+    "decimals": 18,
+    "symbol": "EZX",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/17973.png"
   },
   {
     "chainId": 1,
@@ -45559,7 +45631,7 @@
   },
   {
     "chainId": 1,
-    "name": "Bifrost Finance",
+    "name": "Voucher Ethereum",
     "address": "0xc3d088842dcf02c13699f936bb83dfbbc6f721ab",
     "decimals": 18,
     "symbol": "vETH",
@@ -45756,6 +45828,14 @@
     "decimals": 9,
     "symbol": "GN",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/14384.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xc502002aeb1b9309fccb016adf50507987fc6c2b",
+    "name": "GNFT",
+    "symbol": "GNFT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/23532/thumb/gnft_200x200.png?1644386728"
   },
   {
     "chainId": 1,
@@ -46543,11 +46623,11 @@
   },
   {
     "chainId": 1,
-    "address": "0xc8c6fc3c4f6342c5291e747268625f979a888ebf",
     "name": "Green Money",
-    "symbol": "GRM",
+    "address": "0xc8c6fc3c4f6342c5291e747268625f979a888ebf",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/11098/thumb/GRM.png?1588342300"
+    "symbol": "GRM",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/17986.png"
   },
   {
     "chainId": 1,
@@ -49687,6 +49767,14 @@
   },
   {
     "chainId": 1,
+    "name": "METABEE",
+    "address": "0xd6f96a72458aef6d778f174d0b156bff357ed531",
+    "decimals": 9,
+    "symbol": "MBEE",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/17968.png"
+  },
+  {
+    "chainId": 1,
     "address": "0xd70240dd62f4ea9a6a2416e0073d72139489d2aa",
     "name": "GLYPH Vault  NFTX ",
     "symbol": "GLYPH",
@@ -50631,6 +50719,14 @@
   },
   {
     "chainId": 1,
+    "name": "Wing Finance",
+    "address": "0xdb0f18081b505a7de20b18ac41856bcb4ba86a1a",
+    "decimals": 18,
+    "symbol": "WING",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7048.png"
+  },
+  {
+    "chainId": 1,
     "name": "Nydronia",
     "address": "0xdb11f6fc8e16c02719e9c2eb3c4c762fee8f5c5b",
     "decimals": 18,
@@ -50959,11 +51055,11 @@
   },
   {
     "chainId": 1,
-    "name": "WELD",
     "address": "0xdd2a36ae937bc134ea694d77fc7e2e36f5d86de0",
-    "decimals": 18,
+    "name": "Weld",
     "symbol": "WELD",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/12269.png"
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/18544/thumb/weld.PNG?1632362171"
   },
   {
     "chainId": 1,
@@ -51196,6 +51292,14 @@
     "decimals": 18,
     "symbol": "DEUS",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/12972.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xde621989216a655f0fa604f077203323fa64788f",
+    "name": "Mozza",
+    "symbol": "MOZZA",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/23544/thumb/CGLogo.png?1644392231"
   },
   {
     "chainId": 1,
@@ -56287,11 +56391,11 @@
   },
   {
     "chainId": 1,
-    "name": "JPEGvault",
     "address": "0xf4d294931b7f22ba5a9f3ed932e6cafc21805e48",
-    "decimals": 18,
+    "name": "JPEGvaultDAO",
     "symbol": "JPEG",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/14717.png"
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/20533/thumb/2021-11-17-12_38_48-Window-modified-e1637149380672.png?1637202017"
   },
   {
     "chainId": 1,
