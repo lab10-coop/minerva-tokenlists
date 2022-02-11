@@ -90,5 +90,21 @@
     "symbol": "DXIN",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-tokenlists/master/images/DXIN.svg"
+  },
+  {
+    "chainId": 100,
+    "address": "0x722fc4daabfeaff81b97894fc623f91814a1bf68",
+    "name": "mGNO",
+    "symbol": "mGNO",
+    "decimals": 18,
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/1659.png"
+  },
+  {
+    "chainId": 100,
+    "address": "0xd4ca39f78bf14bfab75226ac833b1858db16f9a1",
+    "name": "Locked GNO",
+    "symbol": "LGNO",
+    "decimals": 18,
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/1659.png"
   }
 ]
