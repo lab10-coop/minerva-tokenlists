@@ -18,12 +18,14 @@ function deduplicate {
 ethSource1="http://tokens.1inch.eth.link/"
 ethSource2="https://api.coinmarketcap.com/data-api/v3/uniswap/all.json"
 ethSource3="https://tokens.coingecko.com/uniswap/all.json"
+ethSource4="https://t2crtokens.eth.link/"
 
 curl -f -s $ethSource1 | jq '.tokens' > eth1.json
 curl -f -s $ethSource2 | jq '.tokens' > eth2.json
 curl -f -s $ethSource3 | jq '.tokens' > eth3.json
+curl -f -s $ethSource4 | jq '.tokens' > eth4.json
 # concat into one file
-jq -s '.|flatten' lab10_eth_overlay.json eth1.json eth2.json eth3.json > eth0.json
+jq -s '.|flatten' lab10_eth_overlay.json eth1.json eth2.json eth3.json eth4.json > eth0.json
 deduplicate eth0.json eth.json
 # cleanup
 rm -f eth?.json
