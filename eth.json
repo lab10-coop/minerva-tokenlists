@@ -8327,14 +8327,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x212dd60d4bf0da8372fe8116474602d429e5735f",
-    "name": "Stobox Token",
-    "symbol": "STBU",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12637/thumb/exchange.png?1623764906"
-  },
-  {
-    "chainId": 1,
     "name": "Astra Network",
     "address": "0x212fa406fd28663ee6110d863a18e80960300e5c",
     "decimals": 18,
@@ -28876,7 +28868,7 @@
   },
   {
     "chainId": 1,
-    "name": "Mariande Staked SOL",
+    "name": "Marinade Staked SOL",
     "address": "0x756bfb452cfe36a5bc82e4f5f4261a89a18c242b",
     "decimals": 9,
     "symbol": "MSOL",
@@ -32787,11 +32779,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x86d1d12523b65203851c571fcc029bf90903fb6d",
     "name": "Bintex Futures",
-    "symbol": "BNTX",
+    "address": "0x86d1d12523b65203851c571fcc029bf90903fb6d",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12117/thumb/Bintexfutures_Icon_Logo.png?1597272672"
+    "symbol": "BNTX",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/6586.png"
   },
   {
     "chainId": 1,
@@ -34898,6 +34890,14 @@
   },
   {
     "chainId": 1,
+    "name": "DigiMetaverse",
+    "address": "0x8eedefe828a0f16c8fc80e46a87bc0f1de2d960c",
+    "decimals": 18,
+    "symbol": "DGMV",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/18169.png"
+  },
+  {
+    "chainId": 1,
     "name": "Tixl",
     "address": "0x8eef5a82e6aa222a60f009ac18c24ee12dbf4b41",
     "decimals": 18,
@@ -35849,6 +35849,14 @@
     "decimals": 18,
     "symbol": "SOLARITE",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/6996.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x9319820ad5447180d0cbb76c1c06c870562aef93",
+    "name": "Oceidon Blox",
+    "symbol": "OBLOX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/23708/thumb/Oceidon-Blox-Logo-Square-GC.png?1645083132"
   },
   {
     "chainId": 1,
@@ -40630,6 +40638,14 @@
   },
   {
     "chainId": 1,
+    "address": "0xa6610ed604047e7b76c1da288172d15bcda57596",
+    "name": "Sacks",
+    "symbol": "SACKS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/15876/thumb/mockup-a558c23f_1024x1024_2x.jpg?1622186229"
+  },
+  {
+    "chainId": 1,
     "name": "Huobi Pool Token",
     "address": "0xa66daa57432024023db65477ba87d4e7f5f95213",
     "decimals": 18,
@@ -43887,6 +43903,14 @@
   },
   {
     "chainId": 1,
+    "name": "Congruent",
+    "address": "0xb4dffa52fee44bd493f12d85829d775ec8017691",
+    "decimals": 9,
+    "symbol": "GAAS",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/18160.png"
+  },
+  {
+    "chainId": 1,
     "name": "Webercoin ",
     "address": "0xb4e3362ee28105cd6d99278424d2176c4f3d76ce",
     "decimals": 18,
@@ -45487,7 +45511,7 @@
   },
   {
     "chainId": 1,
-    "name": "SYN CITY",
+    "name": "MOB LAND",
     "address": "0xbc6e06778708177a18210181b073da747c88490a",
     "decimals": 18,
     "symbol": "SYNR",
@@ -52837,6 +52861,14 @@
   },
   {
     "chainId": 1,
+    "address": "0xdc6104b7993e997ca5f08acab7d3ae86e13d20a6",
+    "name": "ParaState",
+    "symbol": "STATE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/23707/thumb/vertical.png?1645082931"
+  },
+  {
+    "chainId": 1,
     "name": "RocketX",
     "address": "0xdc8af07a7861bedd104b8093ae3e9376fc8596d2",
     "decimals": 18,
@@ -54883,6 +54915,14 @@
   },
   {
     "chainId": 1,
+    "address": "0xe5c4a238c7c80c1c312e8f36e21d5f0aba40c5b7",
+    "name": "Amplify",
+    "symbol": "AMPT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/23695/thumb/ampt_pictogram_color_1920px_2.png?1645080512"
+  },
+  {
+    "chainId": 1,
     "name": "Ferrum Network",
     "address": "0xe5caef4af8780e59df925470b050fb23c43ca68c",
     "decimals": 18,
@@ -55237,14 +55277,6 @@
   },
   {
     "chainId": 1,
-    "address": "0xe71612d0a06d1fa03f581d601fea59710b467e51",
-    "name": "Serbian Cave Hermit",
-    "symbol": "SERBIANCAVEHERMIT",
-    "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/17735/thumb/Serbian-Cave-Hermitlogo.png?1629117465"
-  },
-  {
-    "chainId": 1,
     "name": "Beast Token",
     "address": "0xe72834590d7a339ead78e7fbd1d3c7f76f6eb430",
     "decimals": 18,
@@ -55418,6 +55450,14 @@
     "decimals": 18,
     "symbol": "ZEUS",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3414.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xe7eaec9bca79d537539c00c58ae93117fb7280b9",
+    "name": "Doge Protocol",
+    "symbol": "DOGEP",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/23689/thumb/LjhKBldd_400x400.png?1645079751"
   },
   {
     "chainId": 1,
@@ -58783,6 +58823,14 @@
   },
   {
     "chainId": 1,
+    "name": "Bismuth",
+    "address": "0xf5cb350b40726b5bcf170d12e162b6193b291b41",
+    "decimals": 18,
+    "symbol": "BIS",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2009.png"
+  },
+  {
+    "chainId": 1,
     "name": "Octopus Network",
     "address": "0xf5cfbc74057c610c8ef151a439252680ac68c6dc",
     "decimals": 18,
@@ -60610,6 +60658,14 @@
     "decimals": 18,
     "symbol": "MZG",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/4937.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xfe459828c90c0ba4bc8b42f5c5d44f316700b430",
+    "name": "BBS Network",
+    "symbol": "BBS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/23715/thumb/Ni13Pg1K_400x400.jpg?1645110585"
   },
   {
     "chainId": 1,
