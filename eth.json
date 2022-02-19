@@ -201,6 +201,14 @@
   },
   {
     "chainId": 1,
+    "name": "TCGCoin 2.0",
+    "address": "0x0060cc57e06c8f76957053e5d5bbcba3a88dc01a",
+    "decimals": 18,
+    "symbol": "TCG2",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/11492.png"
+  },
+  {
+    "chainId": 1,
     "name": "Zild Finance",
     "address": "0x006699d34aa3013605d468d2755a2fe59a16b12b",
     "decimals": 18,
@@ -8561,6 +8569,14 @@
   },
   {
     "chainId": 1,
+    "name": "QMALL TOKEN",
+    "address": "0x2217e5921b7edfb4bb193a6228459974010d2198",
+    "decimals": 18,
+    "symbol": "QMALL",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/18059.png"
+  },
+  {
+    "chainId": 1,
     "name": "Super Running Coin",
     "address": "0x221f7d0f2fa0bfbd5f8b0d0340425906f2f9968c",
     "decimals": 18,
@@ -14978,6 +14994,14 @@
   },
   {
     "chainId": 1,
+    "name": "xPAD",
+    "address": "0x3be5d86be59a9ccd990f054f234c02f6d0d48512",
+    "decimals": 18,
+    "symbol": "XPAD",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/18191.png"
+  },
+  {
+    "chainId": 1,
     "name": "Demeter Chain",
     "address": "0x3be6e7bf2cd8e1a0a95597e72ca6d3709bbeff76",
     "decimals": 18,
@@ -19552,6 +19576,14 @@
     "decimals": 8,
     "symbol": "PEC",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2115.png"
+  },
+  {
+    "chainId": 1,
+    "name": "ELYFI",
+    "address": "0x4da34f8264cb33a5c9f17081b9ef5ff6091116f4",
+    "decimals": 18,
+    "symbol": "ELFI",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/18186.png"
   },
   {
     "chainId": 1,
@@ -26366,7 +26398,7 @@
     "chainId": 1,
     "name": "ShibaDoge",
     "address": "0x6adb2e268de2aa1abf6578e4a8119b960e02928f",
-    "decimals": 9,
+    "decimals": 18,
     "symbol": "SHIBDOGE",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/16500.png"
   },
@@ -26626,14 +26658,6 @@
     "decimals": 18,
     "symbol": "LNC",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2677.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x6bebfbb1707267bfdd1a9a3923728aa6f98b3f74",
-    "name": "Floki Wife",
-    "symbol": "FLOFE",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/17793/thumb/logo_%2821%29.png?1629276893"
   },
   {
     "chainId": 1,
@@ -33991,6 +34015,14 @@
   },
   {
     "chainId": 1,
+    "name": "Shibtoro",
+    "address": "0x8aeb7c2d4758eb51080493e2cb290d62510659c7",
+    "decimals": 9,
+    "symbol": "SHIBTORO",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/18197.png"
+  },
+  {
+    "chainId": 1,
     "name": "3x Long Tezos Token",
     "address": "0x8af17a6396c8f315f6b6dbc6aa686c85f9b3e554",
     "decimals": 18,
@@ -40268,11 +40300,11 @@
   },
   {
     "chainId": 1,
-    "address": "0xa4c7963b98838e8f958cf7b87a039249044fe2db",
     "name": "LogiTron",
-    "symbol": "LTR",
+    "address": "0xa4c7963b98838e8f958cf7b87a039249044fe2db",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/23635/thumb/logo.png?1644906873"
+    "symbol": "LTR",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/18194.png"
   },
   {
     "chainId": 1,
@@ -45511,7 +45543,7 @@
   },
   {
     "chainId": 1,
-    "name": "MOB LAND",
+    "name": "MOBLAND",
     "address": "0xbc6e06778708177a18210181b073da747c88490a",
     "decimals": 18,
     "symbol": "SYNR",
@@ -51480,14 +51512,6 @@
     "decimals": 18,
     "symbol": "CUMINU",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/10061.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xd63a82eefbdc21ed0da37922d61178a05e026109",
-    "name": "AfterBurn",
-    "symbol": "AFTRBRN",
-    "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/17792/thumb/1zzpgnK.png?1629274941"
   },
   {
     "chainId": 1,
@@ -60661,11 +60685,11 @@
   },
   {
     "chainId": 1,
-    "address": "0xfe459828c90c0ba4bc8b42f5c5d44f316700b430",
     "name": "BBS Network",
-    "symbol": "BBS",
+    "address": "0xfe459828c90c0ba4bc8b42f5c5d44f316700b430",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/23715/thumb/Ni13Pg1K_400x400.jpg?1645110585"
+    "symbol": "BBS",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/18184.png"
   },
   {
     "chainId": 1,
