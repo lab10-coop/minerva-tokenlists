@@ -233,6 +233,14 @@
   },
   {
     "chainId": 1,
+    "name": "Terareum",
+    "address": "0x009668a9691e456972c8ec4cc84e99486308b84d",
+    "decimals": 18,
+    "symbol": "TERA",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/18290.png"
+  },
+  {
+    "chainId": 1,
     "name": "Bibox Token",
     "address": "0x009c43b42aefac590c719e971020575974122803",
     "decimals": 18,
@@ -1234,6 +1242,14 @@
   },
   {
     "chainId": 1,
+    "name": "Peercoin",
+    "address": "0x044d078f1c86508e13328842cc75ac021b272958",
+    "decimals": 6,
+    "symbol": "PPC",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/5.png"
+  },
+  {
+    "chainId": 1,
     "name": "BPOP",
     "address": "0x0452aed878805514e28fb5bd0b56bef92176e32a",
     "decimals": 8,
@@ -2188,11 +2204,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x083d41d6dd21ee938f0c055ca4fb12268df0efac",
     "name": "GogolCoin",
+    "address": "0x083d41d6dd21ee938f0c055ca4fb12268df0efac",
+    "decimals": 18,
     "symbol": "GOL",
-    "decimals": 4,
-    "logoURI": "https://assets.coingecko.com/coins/images/14824/thumb/GOL.png?1618559300"
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/9670.png"
   },
   {
     "chainId": 1,
@@ -6105,14 +6121,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x17f59dd7fefc2f276509eed2ad6b65271458177e",
-    "name": "Sovreign Governance",
-    "symbol": "REIGN",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/17868/thumb/REIGNcoin.png?1629692213"
-  },
-  {
-    "chainId": 1,
     "address": "0x17f8afb63dfcdcc90ebe6e84f060cc306a98257d",
     "name": "Nebula AI",
     "symbol": "NBAI",
@@ -6368,6 +6376,14 @@
     "decimals": 1,
     "symbol": "INFS",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/4903.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Creator Cabins",
+    "address": "0x1934e252f840aa98dfce2b6205b3e45c41aef830",
+    "decimals": 18,
+    "symbol": "CABIN",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/18317.png"
   },
   {
     "chainId": 1,
@@ -16859,6 +16875,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x433dfb5fd6ddb6996b57c07659942a30668236ca",
+    "name": "Eth Note",
+    "symbol": "ETHNOTE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/23873/thumb/5df76e_648a02d1a6e748ae9fe0f9c4658ccd40_mv2.png?1645600044"
+  },
+  {
+    "chainId": 1,
     "address": "0x433fce7dfbec729a79999eaf056cb073b2153eba",
     "name": "CoinWealth",
     "symbol": "CNW",
@@ -20670,14 +20694,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x525ef76138bf76118d786dbedeae5f87aabf4a81",
-    "name": "Scalara NFT Index",
-    "symbol": "NFTI",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/23647/thumb/NFTI-logo-white-bg.png?1644910969"
-  },
-  {
-    "chainId": 1,
     "name": "Tenshi",
     "address": "0x52662717e448be36cb54588499d5a8328bd95292",
     "decimals": 18,
@@ -22560,7 +22576,7 @@
     "address": "0x5b52b324fc10cb43b9eeadaf9bd15afb98867942",
     "name": "NYNJACoin",
     "symbol": "NYN",
-    "decimals": 0,
+    "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/4162/thumb/NYNcoinFinal.png?1640073590"
   },
   {
@@ -24133,14 +24149,6 @@
     "decimals": 18,
     "symbol": "PJM",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7269.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x61be6fac719f871a24d9bdcdf97b6c94772c7e28",
-    "name": "Meebits",
-    "symbol": "MEEBITS20",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/17855/thumb/unnamed_%282%29.png?1629681202"
   },
   {
     "chainId": 1,
@@ -39331,7 +39339,7 @@
   },
   {
     "chainId": 1,
-    "name": "Crypto.com Coin",
+    "name": "Cronos",
     "address": "0xa0b73e1ff0b80914ab6fe0444e65848c4c34450b",
     "decimals": 8,
     "symbol": "CRO",
@@ -45477,6 +45485,14 @@
     "decimals": 18,
     "symbol": "BBND",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/12552.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Candle",
+    "address": "0xbc138bd20c98186cc0342c8e380953af0cb48ba8",
+    "decimals": 18,
+    "symbol": "CNDL",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/18327.png"
   },
   {
     "chainId": 1,
