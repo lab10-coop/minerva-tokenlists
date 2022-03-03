@@ -192,6 +192,14 @@
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png"
   },
   {
+    "name": "Unbound Dollar",
+    "address": "0x1eba4b44c4f8cc2695347c6a78f0b7a002d26413",
+    "symbol": "UND",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/19932/small/und.PNG?1636325217"
+  },
+  {
     "name": "BLOK",
     "address": "0x229b1b6c23ff8953d663c4cbb519717e323a0a84",
     "symbol": "BLOK",
@@ -398,6 +406,14 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://i.imgur.com/ncleoTN.png"
+  },
+  {
+    "name": "ETH 2x Flexible Leverage Index",
+    "address": "0x3ad707da309f3845cd602059901e39c4dcd66473",
+    "symbol": "ETH2x-FLI-P",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/21183/small/ETH2x-FLO_token_logo.jpg?1638512434"
   },
   {
     "name": "Continuum",
@@ -816,14 +832,6 @@
     "logoURI": "https://etherscan.io/token/images/binance-wrx_32.png"
   },
   {
-    "name": "Wrapped LUNA Token",
-    "address": "0x74946a114ca2b26267983ef51ad8664cabde4034",
-    "symbol": "LUNA",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://assets.coingecko.com/coins/images/8284/small/luna1557227471663.png?1567147072"
-  },
-  {
     "chainId": 137,
     "address": "0x767058f11800fba6a682e73a6e79ec5eb74fac8c",
     "name": "Jarvis Synthetic British Pound",
@@ -886,6 +894,14 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://assets.coingecko.com/coins/images/12385/small/1619048513068.png?1622193581"
+  },
+  {
+    "name": "Fancy Games",
+    "address": "0x7f280dac515121dcda3eac69eb4c13a52392cace",
+    "symbol": "FNC",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/21367/small/fnc.png?1639025576"
   },
   {
     "name": "Unibright",
@@ -1102,6 +1118,14 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://assets.coingecko.com/coins/images/17675/small/phx_logo.png?1628832432"
+  },
+  {
+    "name": "LUNA (Wormhole)",
+    "address": "0x9cd6746665d9557e1b9a775819625711d0693439",
+    "symbol": "LUNA",
+    "decimals": 6,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/8284/small/luna1557227471663.png?1567147072"
   },
   {
     "name": "OpenOcean",
@@ -1670,6 +1694,14 @@
     "logoURI": "https://ipfs.io/ipfs/QmY1uqAaLvQ2cnax4P6ETQwHJmsigS6tLUQkomd4eZJMpM"
   },
   {
+    "name": "ARTH Valuecoin",
+    "address": "0xe52509181feb30eb4979e29ec70d50fd5c44d590",
+    "symbol": "ARTH",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/16876/small/ARTH_Token.png?1625651538"
+  },
+  {
     "name": "Gains Network",
     "address": "0xe5417af564e4bfda1c483642db72007871397896",
     "symbol": "GNS",
@@ -1820,6 +1852,14 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://assets.coingecko.com/coins/images/14209/small/blank.png?1614940842"
+  },
+  {
+    "name": "Fuse",
+    "address": "0xf915fdda4c882731c0456a4214548cd13a822886",
+    "symbol": "FUSE",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/10347/small/vUXKHEe.png?1601523640"
   },
   {
     "name": "beefy.finance",

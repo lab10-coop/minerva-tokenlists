@@ -2717,6 +2717,14 @@
   },
   {
     "chainId": 1,
+    "name": "Lamborghinu",
+    "address": "0x0ad73a548a0692f2261a25fee0100868ab0c4f4d",
+    "decimals": 9,
+    "symbol": "LAMBOINU",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/18484.png"
+  },
+  {
+    "chainId": 1,
     "name": "yAxis",
     "address": "0x0ada190c81b814548ddc2f6adc4a689ce7c1fe73",
     "decimals": 18,
@@ -4006,6 +4014,14 @@
     "decimals": 18,
     "symbol": "SKC",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/5533.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x0fe20e0fa9c78278702b05c333cc000034bb69e2",
+    "name": "ETH Max Yield Index",
+    "symbol": "ETHMAXY",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/24047/thumb/ethmaxy.png?1646194193"
   },
   {
     "chainId": 1,
@@ -7596,7 +7612,7 @@
   },
   {
     "chainId": 1,
-    "name": "Thunder Token",
+    "name": "ThunderCore",
     "address": "0x1e053d89e08c24aa2ce5c5b4206744dc2d7bd8f5",
     "decimals": 18,
     "symbol": "TT",
@@ -9100,9 +9116,9 @@
   },
   {
     "chainId": 1,
-    "name": "Shield Protocol Token",
+    "name": "Shield Protocol",
     "address": "0x24861414c8845b8115397302e9dcfaab3f239826",
-    "decimals": 9,
+    "decimals": 18,
     "symbol": "SHIELD",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/18425.png"
   },
@@ -9236,7 +9252,7 @@
   },
   {
     "chainId": 1,
-    "name": "Tiger King",
+    "name": "Tiger King Coin",
     "address": "0x24e89bdf2f65326b94e36978a7edeac63623dafa",
     "decimals": 18,
     "symbol": "TKING",
@@ -11473,11 +11489,11 @@
   },
   {
     "chainId": 1,
-    "name": "EYES Protocol",
     "address": "0x2dca19e944453e46d9130950ca135461b3bc0c30",
-    "decimals": 18,
+    "name": "EYES Protocol",
     "symbol": "EYES",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/5673.png"
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/9734/thumb/pTaAZUI6_400x400.jpg?1571308667"
   },
   {
     "chainId": 1,
@@ -20156,11 +20172,11 @@
   },
   {
     "chainId": 1,
-    "name": "Ki",
     "address": "0x4f6103bad230295bacf30f914fda7d4273b7f585",
-    "decimals": 6,
+    "name": "KI",
     "symbol": "XKI",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/9908.png"
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/15694/thumb/xki-color.png?1621569714"
   },
   {
     "chainId": 1,
@@ -21193,10 +21209,11 @@
   {
     "chainId": 1,
     "address": "0x546aed37d202d607f45cbd2b8c0cad0d25fbe339",
-    "name": "Kawakami",
     "symbol": "KAWA",
+    "name": "Kawakami",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/16369/thumb/kawainu.PNG?1623820805"
+    "logoURI": "ipfs://QmXo6zhA8WkvKGjUpTvVkoh9yX3zJAYafFcqsUXqRd6Rko",
+    "tags": []
   },
   {
     "chainId": 1,
@@ -22861,6 +22878,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x5c147e74d63b1d31aa3fd78eb229b65161983b2b",
+    "name": "Wrapped Flow",
+    "symbol": "WFLOW",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/24045/thumb/wrapped-flow.png?1646187143"
+  },
+  {
+    "chainId": 1,
     "name": "Changer",
     "address": "0x5c1d9aa868a30795f92fae903edc9eff269044bf",
     "decimals": 18,
@@ -23659,6 +23684,14 @@
     "symbol": "DFH",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/20270/thumb/dfh-d-ava-main-cgb.png?1636706501"
+  },
+  {
+    "chainId": 1,
+    "name": "Bobatama",
+    "address": "0x5f20f15d40f24dae50a72be3b5edddddfb5a5bd0",
+    "decimals": 18,
+    "symbol": "BOBA",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/18501.png"
   },
   {
     "chainId": 1,
@@ -35554,11 +35587,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x909e34d3f6124c324ac83dcca84b74398a6fa173",
     "name": "Panther Protocol",
-    "symbol": "ZKP",
+    "address": "0x909e34d3f6124c324ac83dcca84b74398a6fa173",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/18611/thumb/DvXVFEkp_400x400.png?1632669379"
+    "symbol": "ZKP",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/12087.png"
   },
   {
     "chainId": 1,
@@ -36052,7 +36085,7 @@
   },
   {
     "chainId": 1,
-    "name": "Idavoll Network",
+    "name": "Idavoll DAO",
     "address": "0x92ec47df1aa167806dfa4916d9cfb99da6953b8f",
     "decimals": 18,
     "symbol": "IDV",
@@ -37418,14 +37451,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x986303c398dbf3295fa4ad98274ad20cfcf80c08",
-    "name": "bitgrit",
-    "symbol": "BGR",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/18114/thumb/bitgrit_noname.png?1630551005"
-  },
-  {
-    "chainId": 1,
     "address": "0x986b4aff588a109c09b50a03f42e4110e29d353f",
     "symbol": "yvCurve-sETH",
     "name": "Curve sETH Pool yVault",
@@ -38363,6 +38388,14 @@
     "symbol": "QBZ",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/10772/thumb/1nIgm-Ut_400x400.jpg?1583377902"
+  },
+  {
+    "chainId": 1,
+    "name": "TWINU",
+    "address": "0x9bc72b6358379cd9f71c0b4827f9fc1a0f025eed",
+    "decimals": 9,
+    "symbol": "TWINU",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/18510.png"
   },
   {
     "chainId": 1,
@@ -39924,6 +39957,14 @@
   },
   {
     "chainId": 1,
+    "address": "0xa1ea9aa32cbba8c203ddc510a144ad1f439d436c",
+    "name": "MetaPortal Gaming I",
+    "symbol": "GAME",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/24071/thumb/GAME.Logo.png?1646216027"
+  },
+  {
+    "chainId": 1,
     "name": "Alpha Finance Lab",
     "address": "0xa1faa113cbe53436df28ff0aee54275c13b40975",
     "decimals": 18,
@@ -40707,6 +40748,14 @@
     "decimals": 18,
     "symbol": "NDC",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/1872.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xa5522d6137ece774e8084bbf9c34398192ccdca5",
+    "name": "Cyn C",
+    "symbol": "CYNC",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/24065/thumb/logo_disc.png?1646206132"
   },
   {
     "chainId": 1,
@@ -45311,7 +45360,7 @@
   },
   {
     "chainId": 1,
-    "name": "Hillstone",
+    "name": "Hillstone Finance",
     "address": "0xba6b0dbb2ba8daa8f5d6817946393aef8d3a4487",
     "decimals": 18,
     "symbol": "HSF",
@@ -51385,7 +51434,7 @@
   },
   {
     "chainId": 1,
-    "name": "Dtravel",
+    "name": "TRVL",
     "address": "0xd47bdf574b4f76210ed503e0efe81b58aa061f3d",
     "decimals": 18,
     "symbol": "TRVL",
@@ -51688,6 +51737,13 @@
     "decimals": 10,
     "symbol": "BUCC",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7210.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xd5a98e77d1feb091344096301ea336a5c07a6a41",
+    "name": "Alpha Brain Capital",
+    "symbol": "ACAP",
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -54836,6 +54892,14 @@
   },
   {
     "chainId": 1,
+    "name": "EYES Protocol",
+    "address": "0xe42b7a17336b343569c82f682a493a837b7e0755",
+    "decimals": 18,
+    "symbol": "EYES",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/5673.png"
+  },
+  {
+    "chainId": 1,
     "name": "eToro Swiss Franc",
     "address": "0xe435502c85a4e7e79cfab4167af566c27a7a0784",
     "decimals": 18,
@@ -54900,7 +54964,7 @@
   },
   {
     "chainId": 1,
-    "name": "ZKSwap",
+    "name": "ZKSpace",
     "address": "0xe4815ae53b124e7263f08dcdbbb757d41ed658c6",
     "decimals": 18,
     "symbol": "ZKS",
