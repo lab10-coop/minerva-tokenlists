@@ -193,6 +193,14 @@
   },
   {
     "chainId": 1,
+    "name": "Kiba Inu",
+    "address": "0x005d1123878fc55fbd56b54c73963b234a64af3c",
+    "decimals": 18,
+    "symbol": "KIBA",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/13437.png"
+  },
+  {
+    "chainId": 1,
     "name": "Lirasis TRY",
     "address": "0x005f977f633d1c23748294671b0e69f3512e6702",
     "decimals": 2,
@@ -2797,14 +2805,6 @@
   },
   {
     "chainId": 1,
-    "name": "Quarashi",
-    "address": "0x0aff88b4cf3015c9c17f1da1fccb88c632f3505e",
-    "decimals": 18,
-    "symbol": "QUA",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/12378.png"
-  },
-  {
-    "chainId": 1,
     "name": "Polybius",
     "address": "0x0affa06e7fbe5bc9a764c979aa66e8256a631f02",
     "decimals": 6,
@@ -3603,6 +3603,14 @@
     "decimals": 9,
     "symbol": "TCAT",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/13566.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Streamer Inu",
+    "address": "0x0e8d2eb7d6bdf28393c25a1966385ad32ff0259a",
+    "decimals": 18,
+    "symbol": "STREAMERINU",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/18616.png"
   },
   {
     "chainId": 1,
@@ -6532,6 +6540,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x1982b2f5814301d4e9a8b0201555376e62f82428",
+    "name": "Aave Interest Beari",
+    "symbol": "ASTETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/24163/thumb/steth.jpg?1646634315"
+  },
+  {
+    "chainId": 1,
     "name": "Augur",
     "address": "0x1985365e9f78359a9b6ad760e32412f4a445e862",
     "decimals": 18,
@@ -7488,7 +7504,7 @@
     "name": "Gotham",
     "symbol": "GOTHAM",
     "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/24138/thumb/CU9kI7O.png?1646547055"
+    "logoURI": "https://assets.coingecko.com/coins/images/24138/thumb/xI8sE96.png?1646663974"
   },
   {
     "chainId": 1,
@@ -14577,14 +14593,6 @@
   },
   {
     "chainId": 1,
-    "name": "nOFTEN",
-    "address": "0x393c3b83a68a13268d5b1ba00ead6b24ee0e6110",
-    "decimals": 18,
-    "symbol": "NOF",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/16276.png"
-  },
-  {
-    "chainId": 1,
     "name": "RAKSUR",
     "address": "0x393fac0773c765c80dc887451377d553c46f83b1",
     "decimals": 18,
@@ -19155,11 +19163,11 @@
   },
   {
     "chainId": 1,
-    "name": "Kiba Inu",
     "address": "0x4b2c54b80b77580dc02a0f6734d3bad733f50900",
-    "decimals": 18,
+    "name": "Kiba Inu",
     "symbol": "KIBA",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/13437.png"
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/19525/thumb/2021-11-13-18-11-18-removebg-preview.png?1636989110"
   },
   {
     "chainId": 1,
@@ -26449,14 +26457,6 @@
     "decimals": 18,
     "symbol": "ISLA",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/5389.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x698c6ac9ca5f16cabc5a636d3a619329c0958cba",
-    "name": "Saja",
-    "symbol": "SAJA",
-    "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/19332/thumb/4od7anFi_400x400.png?1635115499"
   },
   {
     "chainId": 1,
@@ -34632,6 +34632,14 @@
   },
   {
     "chainId": 1,
+    "name": "3space Art",
+    "address": "0x8bc2bcb1b1896291942c36f3cca3c1afa0aaa7fd",
+    "decimals": 18,
+    "symbol": "PACE",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/18586.png"
+  },
+  {
+    "chainId": 1,
     "name": "Yearn Finance Farm",
     "address": "0x8be6a6158f6b8a19fe60569c757d16e546c2296d",
     "decimals": 18,
@@ -39403,10 +39411,10 @@
   },
   {
     "chainId": 1,
-    "name": "Tapcoin",
+    "name": "DEPRECATED-Tapcoin",
     "address": "0x9f599410d207f3d2828a8712e5e543ac2e040382",
     "decimals": 18,
-    "symbol": "TTT",
+    "symbol": "deprecated-TTT",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/4098.png"
   },
   {
@@ -41547,11 +41555,11 @@
   },
   {
     "chainId": 1,
-    "address": "0xa83055eaa689e477e7b2173ed7e3b55654b3a1f0",
     "name": "Sheeba Inu",
-    "symbol": "SHEEB",
+    "address": "0xa83055eaa689e477e7b2173ed7e3b55654b3a1f0",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/24108/thumb/MzH66Ix.png?1646376605"
+    "symbol": "SHEEB",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/18612.png"
   },
   {
     "chainId": 1,
@@ -44693,7 +44701,7 @@
   {
     "chainId": 1,
     "address": "0xb622400807765e73107b7196f444866d7edf6f62",
-    "name": "Hero Inu",
+    "name": "Heros Token",
     "symbol": "HEROS",
     "decimals": 9,
     "logoURI": "https://assets.coingecko.com/coins/images/20381/thumb/HeroInuLogo.png?1636950887"
@@ -51345,6 +51353,14 @@
   },
   {
     "chainId": 1,
+    "name": "Quarashi",
+    "address": "0xd35c06a2781f648c75290976ecf71e71582188b7",
+    "decimals": 18,
+    "symbol": "QUA",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/12378.png"
+  },
+  {
+    "chainId": 1,
     "name": "Decentralized Finance Europe.",
     "address": "0xd35ce4fd815522ff52243eb587020d557617f4db",
     "decimals": 18,
@@ -51941,7 +51957,7 @@
   {
     "chainId": 1,
     "address": "0xd5a98e77d1feb091344096301ea336a5c07a6a41",
-    "name": "Alpha Brain Capital",
+    "name": "Alpha Capital",
     "symbol": "ACAP",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/24044/thumb/gfSKeO3.png?1646289796"
@@ -57958,6 +57974,14 @@
   },
   {
     "chainId": 1,
+    "name": "YuzuSwap",
+    "address": "0xf02b3e437304892105992512539f769423a515cb",
+    "decimals": 18,
+    "symbol": "YUZU",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/18595.png"
+  },
+  {
+    "chainId": 1,
     "name": "Pyrrhos Gold",
     "address": "0xf02dab52205aff6bb3d47cc7b21624a5064f9fba",
     "decimals": 4,
@@ -58807,11 +58831,11 @@
   },
   {
     "chainId": 1,
-    "name": "Decentralized Universal Basic Income",
     "address": "0xf3d6af45c6dfec43216cc3347ea91fefba0849d1",
-    "decimals": 18,
+    "name": "Decentralized Unive",
     "symbol": "DUBI",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2449.png"
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/2606/thumb/decentralized-universal-basic-income.png?1547036752"
   },
   {
     "chainId": 1,
