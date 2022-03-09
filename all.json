@@ -2,10 +2,10 @@
   {
     "chainId": 1,
     "address": "",
-    "name": "0 5X Long Cardano T",
-    "symbol": "ADAHALF",
+    "name": "3X Long DeFi Index ",
+    "symbol": "DEFIBULL",
     "decimals": 0,
-    "logoURI": "https://assets.coingecko.com/coins/images/12011/thumb/683JEXMN_400x400.png?1596692577"
+    "logoURI": "https://assets.coingecko.com/coins/images/12010/thumb/683JEXMN_400x400__1_.png?1596692484"
   },
   {
     "chainId": 1,
@@ -3029,11 +3029,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x0bf0d26a527384bcc4072a6e2bca3fc79e49fa2d",
     "name": "Mytrade",
-    "symbol": "MYT",
+    "address": "0x0bf0d26a527384bcc4072a6e2bca3fc79e49fa2d",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/24134/thumb/transparent_logo.png?1646543530"
+    "symbol": "MYT",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/18645.png"
   },
   {
     "chainId": 1,
@@ -7480,15 +7480,6 @@
     "decimals": 6,
     "symbol": "CAN",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2343.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x1d464ac5e046e5fe280c9588edf8eb681b07008f",
-    "symbol": "GMB",
-    "name": "GMB",
-    "decimals": 18,
-    "logoURI": "ipfs://Qmb3e8vawee57tFF9jHnzT1Yo318usx9qxbXWpVxpGUEbh",
-    "tags": []
   },
   {
     "chainId": 1,
@@ -12564,9 +12555,9 @@
   },
   {
     "chainId": 1,
-    "name": "MADworld",
+    "name": "MADworld UMAD",
     "address": "0x31c2415c946928e9fd1af83cdfa38d3edbd4326f",
-    "decimals": 8,
+    "decimals": 18,
     "symbol": "UMAD",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/15039.png"
   },
@@ -13163,6 +13154,14 @@
     "decimals": 18,
     "symbol": "PLAY",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/9820.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Green Candle Man",
+    "address": "0x33f128394af03db639107473e52d84ff1290499e",
+    "decimals": 9,
+    "symbol": "CANDLE",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/18629.png"
   },
   {
     "chainId": 1,
@@ -24657,6 +24656,13 @@
   },
   {
     "chainId": 1,
+    "address": "0x628ab8b061fea2af1239b68efa5e46135d186666",
+    "name": "xbullion silver",
+    "symbol": "SILV",
+    "decimals": 8
+  },
+  {
+    "chainId": 1,
     "name": "ARVO",
     "address": "0x629383e682fb83cac57e07bd2a5329ac6e4b48b1",
     "decimals": 18,
@@ -25075,11 +25081,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x646b4e6a53d0e46bed193e86eeb6ebb30d57d869",
     "name": "Hey Shiba",
-    "symbol": "HEYSHIB",
+    "address": "0x646b4e6a53d0e46bed193e86eeb6ebb30d57d869",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/24096/thumb/Photo-2022-03-03-00-38-53.jpg?1646371933"
+    "symbol": "HEYSHIB",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/18620.png"
   },
   {
     "chainId": 1,
@@ -28392,6 +28398,14 @@
     "decimals": 18,
     "symbol": "MGG",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/14888.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x723bd1f87a327e94ceabf68d8f022e0f54b9cc1a",
+    "name": "Philcoin",
+    "symbol": "PHL",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/24178/thumb/ncfhQ9Gw.png?1646749922"
   },
   {
     "chainId": 1,
@@ -32328,6 +32342,14 @@
   },
   {
     "chainId": 1,
+    "name": "BitCoke Token",
+    "address": "0x832c8b1bf8c89f1f827c2bdee2a951530a4e712f",
+    "decimals": 6,
+    "symbol": "COKE",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/18642.png"
+  },
+  {
+    "chainId": 1,
     "address": "0x833e4c02c47b7e38f5b9a80b26eb07d23d1961f4",
     "name": "The Bitcoin Family",
     "symbol": "FAMILY",
@@ -35094,6 +35116,14 @@
     "decimals": 18,
     "logoURI": "ipfs://QmYrFYKe8TbSmJMgU3XW73w59o1FPn1nd3PdoPkSqPydjN",
     "tags": []
+  },
+  {
+    "chainId": 1,
+    "name": "Wallstreetbets.com",
+    "address": "0x8df586aa346c3d9d1c99a21316a2735d71355ec8",
+    "decimals": 18,
+    "symbol": "WSB",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/18622.png"
   },
   {
     "chainId": 1,
@@ -40226,6 +40256,14 @@
     "decimals": 9,
     "symbol": "SCC",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/16054.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xa23c1194d421f252b4e6d5edcc3205f7650a4ebe",
+    "name": "LaunchBlock",
+    "symbol": "LBP",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/24181/thumb/S6z_-9GB_400x400.jpg?1646786017"
   },
   {
     "chainId": 1,
@@ -51032,6 +51070,14 @@
   },
   {
     "chainId": 1,
+    "address": "0xd2287a52287dd64ae2c690d74322e2e345dc8f69",
+    "name": "BabyWhale",
+    "symbol": "BBW",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/24168/thumb/babywhale_32.png?1646716918"
+  },
+  {
+    "chainId": 1,
     "name": "Dynamic Trading Rights",
     "address": "0xd234bf2410a0009df9c3c63b610c09738f18ccd7",
     "decimals": 8,
@@ -55927,7 +55973,7 @@
   },
   {
     "chainId": 1,
-    "name": "Acute Angle Cloud",
+    "name": "Double-A Chain",
     "address": "0xe75ad3aab14e4b0df8c5da4286608dabb21bd864",
     "decimals": 5,
     "symbol": "AAC",
@@ -59808,6 +59854,14 @@
     "decimals": 18,
     "symbol": "UPR",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/9694.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Ape In Records",
+    "address": "0xf725f73caee250ae384ec38bb2c77c38ef2cccea",
+    "decimals": 18,
+    "symbol": "AIR",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/18626.png"
   },
   {
     "chainId": 1,
