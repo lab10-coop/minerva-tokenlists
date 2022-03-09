@@ -122,5 +122,21 @@
     "symbol": "MPS",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-tokenlists/master/images/MPS.svg"
+  },
+  {
+    "chainId": 100,
+    "address": "0x9fB1d52596c44603198fB0aee434fac3a679f702",
+    "name": "Jarvis Synthetic Euro",
+    "symbol": "jEUR",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-tokenlists/master/images/jEUR.svg"
+  },
+  {
+    "chainId": 100,
+    "address": "0x2d5563da42b06FbBF9c67b7DC073cF6A7842239e",
+    "name": "Jarvis Synthetic Swiss Franc",
+    "symbol": "jCHF",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-tokenlists/master/images/jCHF.svg"
   }
 ]
