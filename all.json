@@ -8979,6 +8979,14 @@
   },
   {
     "chainId": 1,
+    "name": "CoinScan",
+    "address": "0x234d51ee02be808a0160b19b689660fb7bfa871b",
+    "decimals": 9,
+    "symbol": "SCAN",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/18740.png"
+  },
+  {
+    "chainId": 1,
     "address": "0x2365a4890ed8965e564b7e2d27c38ba67fec4c6f",
     "name": "Aave AMM UniWBTCUSD",
     "symbol": "AAMMUNIWBTCUSDC",
@@ -14047,11 +14055,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x374fb05c96c36348b92e38fb088b26b8511e3b3d",
     "name": "CROWD",
-    "symbol": "CWD",
+    "address": "0x374fb05c96c36348b92e38fb088b26b8511e3b3d",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/24125/thumb/cwd.png?1646463219"
+    "symbol": "CWD",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/18367.png"
   },
   {
     "chainId": 1,
@@ -15943,6 +15951,14 @@
     "decimals": 18,
     "symbol": "KSEED",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7135.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Amplify Protocol",
+    "address": "0x3f17cfad23c2014c5a32722557df87dff46819da",
+    "decimals": 18,
+    "symbol": "AMPT",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/18729.png"
   },
   {
     "chainId": 1,
@@ -20356,11 +20372,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x4fabf135bcf8111671870d4399af739683198f96",
     "name": "Xave Coin",
+    "address": "0x4fabf135bcf8111671870d4399af739683198f96",
+    "decimals": 4,
     "symbol": "XVC",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/24084/thumb/k8qjP9t9_400x400.jpg?1646292464"
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/18730.png"
   },
   {
     "chainId": 1,
@@ -41111,6 +41127,14 @@
   },
   {
     "chainId": 1,
+    "address": "0xa5c1940fa491e830a5a25bda04986f741f08fd26",
+    "name": "Decentralized ETF",
+    "symbol": "DETF",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/24232/thumb/sT64JylQ_400x400.png?1646981617"
+  },
+  {
+    "chainId": 1,
     "address": "0xa5ddfca8b837ccd0cf80fe6c24e2a9018fb50dba",
     "name": "3X Short BiLira Tok",
     "symbol": "TRYBBEAR",
@@ -45365,14 +45389,6 @@
   },
   {
     "chainId": 1,
-    "address": "0xb97faf860045483e0c7f08c56acb31333084a988",
-    "name": "Vanilla Network",
-    "symbol": "VNLA",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/13223/thumb/vanilla_network_logo.jpeg?1606352291"
-  },
-  {
-    "chainId": 1,
     "address": "0xb983e01458529665007ff7e0cddecdb74b967eb6",
     "symbol": "iETH",
     "name": "Fulcrum ETH iToken",
@@ -47425,10 +47441,10 @@
   {
     "chainId": 1,
     "address": "0xc17fbe1d709ddf6c0b6665dd0591046815ac7554",
-    "name": "Polars Governance T",
+    "name": "Polars",
     "symbol": "POL",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/16285/thumb/LOGO-CMC.png?1623655463"
+    "logoURI": "https://assets.coingecko.com/coins/images/24220/thumb/alpha_logo_polars.png?1646919342"
   },
   {
     "chainId": 1,
@@ -48883,6 +48899,14 @@
     "symbol": "MIDBEAR",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/10330/thumb/683JEXMN_400x400_%281%29.png?1578051961"
+  },
+  {
+    "chainId": 1,
+    "address": "0xc82e3db60a52cf7529253b4ec688f631aad9e7c2",
+    "name": "Arc",
+    "symbol": "ARC",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/24235/thumb/h58CAIx5_400x400.jpg?1646991082"
   },
   {
     "chainId": 1,
@@ -55660,10 +55684,10 @@
   },
   {
     "chainId": 1,
-    "name": "Amplify",
+    "name": "DEPRECATED-Amplify",
     "address": "0xe5c4a238c7c80c1c312e8f36e21d5f0aba40c5b7",
     "decimals": 18,
-    "symbol": "AMPT",
+    "symbol": "deprecated-AMPT",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/18675.png"
   },
   {
@@ -66934,6 +66958,14 @@
     "chainId": 56,
     "decimals": 18,
     "logoURI": "https://tokens.pancakeswap.finance/images/0x95a1199EBA84ac5f19546519e287d43D2F0E1b41.png"
+  },
+  {
+    "name": "Duet Governance Token",
+    "symbol": "DUET",
+    "address": "0x95ee03e1e2c5c4877f9a298f1c0d6c98698fab7b",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x95EE03e1e2C5c4877f9A298F1C0D6c98698FAB7B.png"
   },
   {
     "name": "Lympo Market Token",
