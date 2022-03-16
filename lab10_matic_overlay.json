@@ -47,7 +47,8 @@
     "name": "Ricochet",
     "symbol": "RIC",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-tokenlists/master/images/RIC-Token.svg"
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-tokenlists/master/images/RIC-Token.svg",
+    "tags": [ "SuperToken" ]
   },
   {
     "chainId": 137,
@@ -144,7 +145,7 @@
     "name": "Super WETH",
     "symbol": "ETHx",
     "decimals": 18,
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2396.png",
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
     "tags": [ "SuperToken", "WrapperToken" ]
   },
   {
@@ -174,7 +175,4 @@
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png",
     "tags": [ "SuperToken", "WrapperToken" ]
   }
-
-
-
 ]
