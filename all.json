@@ -2,10 +2,10 @@
   {
     "chainId": 1,
     "address": "",
-    "name": "1X Short Cardano To",
-    "symbol": "ADAHEDGE",
+    "name": "3X Long Theta Netwo",
+    "symbol": "THETABULL",
     "decimals": 0,
-    "logoURI": "https://assets.coingecko.com/coins/images/12053/thumb/683JEXMN_400x400.png?1596703208"
+    "logoURI": "https://assets.coingecko.com/coins/images/12050/thumb/683JEXMN_400x400__1_.png?1596702737"
   },
   {
     "chainId": 1,
@@ -8427,6 +8427,14 @@
     "decimals": 18,
     "symbol": "MOONEY",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/17569.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x20d60c6eb195868d4643f2c9b0809e4de6cc003d",
+    "name": "PlayNity",
+    "symbol": "PLY",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/21479/thumb/ply.png?1639651574"
   },
   {
     "chainId": 1,
@@ -18575,6 +18583,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x48af7b1c9dac8871c064f62fcec0d9d6f7c269f5",
+    "name": " Alpha",
+    "symbol": "ALPHA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/24340/thumb/alpha_icon.png?1647395407"
+  },
+  {
+    "chainId": 1,
     "address": "0x48b2dd9cefba73c60882478a16bc3428aceed2b9",
     "name": "Gengar Token",
     "symbol": "GENGAR",
@@ -27002,14 +27018,6 @@
     "decimals": 18,
     "symbol": "MM",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/10866.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x6b4d5e9ec2acea23d4110f4803da99e25443c5df",
-    "name": "AlphaKlima",
-    "symbol": "AKLIMA",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/18389/thumb/BSUSa5Gq_400x400.jpg?1631759526"
   },
   {
     "chainId": 1,
@@ -61502,14 +61510,6 @@
   },
   {
     "chainId": 1,
-    "address": "0xfdb9ef78aac9a6eb96fcf06e6a7602f4ec31991b",
-    "name": "First Ever NFT",
-    "symbol": "FEN",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/24336/thumb/FEN_TOKEN_COIN_edited.png?1647361805"
-  },
-  {
-    "chainId": 1,
     "name": "1World",
     "address": "0xfdbc1adc26f0f8f8606a5d63b7d3a3cd21c22b23",
     "decimals": 8,
@@ -63922,6 +63922,18 @@
     "logoURI": "https://assets.coingecko.com/coins/images/16360/small/thumbnail_1170823958_vertical_logo_lateral_radiance.png?1623810516"
   },
   {
+    "chainId": 137,
+    "address": "0x1305f6b6df9dc47159d12eb7ac2804d4a33173c2",
+    "name": "Super DAI",
+    "symbol": "DAIx",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png",
+    "tags": [
+      "SuperToken",
+      "WrapperToken"
+    ]
+  },
+  {
     "name": "kogecoin.io",
     "address": "0x13748d548d95d78a3c83fe3f32604b4796cffa23",
     "symbol": "KOGECOIN",
@@ -64074,6 +64086,18 @@
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
   },
   {
+    "chainId": 137,
+    "address": "0x27e1e4e6bc79d93032abef01025811b7e4727e85",
+    "name": "Super WETH",
+    "symbol": "ETHx",
+    "decimals": 18,
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2396.png",
+    "tags": [
+      "SuperToken",
+      "WrapperToken"
+    ]
+  },
+  {
     "name": "Ocean Token",
     "address": "0x282d8efce846a88b159800bd4130ad77443fa1a1",
     "symbol": "mOCEAN",
@@ -64210,6 +64234,18 @@
     "logoURI": "https://assets.coingecko.com/coins/images/21183/small/ETH2x-FLO_token_logo.jpg?1638512434"
   },
   {
+    "chainId": 137,
+    "address": "0x3ad736904e9e65189c3000c7dd2c8ac8bb7cd4e3",
+    "name": "Super MATIC",
+    "symbol": "MATICx",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0/logo.png",
+    "tags": [
+      "SuperToken",
+      "WrapperToken"
+    ]
+  },
+  {
     "name": "Continuum",
     "address": "0x3b1a0c9252ee7403093ff55b4a5886d49a3d837a",
     "symbol": "UM",
@@ -64264,6 +64300,18 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://assets.coingecko.com/coins/images/19584/small/game_station.PNG?1635471603"
+  },
+  {
+    "chainId": 137,
+    "address": "0x4086ebf75233e8492f1bcda41c7f2a8288c2fb92",
+    "name": "Super WBTC",
+    "symbol": "WBTCx",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png",
+    "tags": [
+      "SuperToken",
+      "WrapperToken"
+    ]
   },
   {
     "name": "Nexo",
@@ -65294,6 +65342,18 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://assets.coingecko.com/coins/images/18110/small/ice-poker.png?1630500966"
+  },
+  {
+    "chainId": 137,
+    "address": "0xcaa7349cea390f89641fe306d93591f87595dc1f",
+    "name": "Super USDC",
+    "symbol": "USDCx",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png",
+    "tags": [
+      "SuperToken",
+      "WrapperToken"
+    ]
   },
   {
     "name": "DinoX Coin",
