@@ -281,7 +281,10 @@
     "name": "Ricochet",
     "symbol": "RIC",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-tokenlists/master/images/RIC-Token.svg"
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-tokenlists/master/images/RIC-Token.svg",
+    "tags": [
+      "SuperToken"
+    ]
   },
   {
     "name": "USD Coin",
@@ -297,7 +300,7 @@
     "name": "Super WETH",
     "symbol": "ETHx",
     "decimals": 18,
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2396.png",
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
     "tags": [
       "SuperToken",
       "WrapperToken"
@@ -310,6 +313,14 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://oceanprotocol.com/static/4ad704a150d436a1f32d495413fc47cd/favicon-white.png"
+  },
+  {
+    "name": "PENT",
+    "address": "0x283366bb42ef49a994913baf22263c6562e588a4",
+    "symbol": "PENT",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/23493/small/small-logo.png?1644221697"
   },
   {
     "name": "THX Network",
@@ -1080,6 +1091,14 @@
     "logoURI": "https://assets.coingecko.com/coins/images/21294/small/brave_ZxsjzUc8xn.png?1638874098"
   },
   {
+    "name": "Sphere Finance",
+    "address": "0x8d546026012bf75073d8a586f24a5d5ff75b9716",
+    "symbol": "SPHERE",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://i.ibb.co/xKnbP10/logo-icon-onlight-whitebg.png"
+  },
+  {
     "name": "moonwolf.io",
     "address": "0x8f18dc399594b451eda8c5da02d0563c0b2d0f16",
     "symbol": "WOLF",
@@ -1440,6 +1459,14 @@
     "logoURI": "https://assets.coingecko.com/coins/images/12129/small/sandbox_logo.jpg?1597397942"
   },
   {
+    "name": "Banana",
+    "address": "0xbc91347e80886453f3f8bbd6d7ac07c122d87735",
+    "symbol": "BANANA",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/17521/small/banana-token-cg.png?1646285527"
+  },
+  {
     "chainId": 137,
     "address": "0xbd1463f02f61676d53fd183c2b19282bff93d099",
     "name": "Jarvis Synthetic Swiss Franc",
@@ -1728,6 +1755,14 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://assets.coingecko.com/coins/images/14962/small/6GxcPRo3_400x400.jpg?1619157413"
+  },
+  {
+    "name": "PlanetIX",
+    "address": "0xe06bd4f5aac8d0aa337d13ec88db6defc6eaeefe",
+    "symbol": "IXT",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/20927/small/IXT_SYMBOL_SVG_RGB_BLACK.png?1637934555"
   },
   {
     "name": "agEUR",
