@@ -858,6 +858,18 @@
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xf0Ee6b27b759C9893Ce4f094b49ad28fd15A23e4/logo.png"
   },
   {
+    "chainId": 100,
+    "address": "0x7aeca73f38f8f33ab7ff067fed1268384d12324d",
+    "name": "Super Bright",
+    "symbol": "Brightx",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/BrightDAO/logo.png",
+    "tags": [
+      "SuperToken",
+      "WrapperToken"
+    ]
+  },
+  {
     "name": "Davincij15 Token on xDai",
     "address": "0x7c16c63684d86bacc52e8793b08a5a1a3cb1ba1e",
     "symbol": "DJ15",
@@ -1224,6 +1236,18 @@
     "decimals": 18,
     "chainId": 100,
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e/logo.png"
+  },
+  {
+    "chainId": 100,
+    "address": "0xc0712524b39323eb2437e69226b261d928629dc8",
+    "name": "Super Honey",
+    "symbol": "HNYx",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12895/thumb/hnys.png?1614100588",
+    "tags": [
+      "SuperToken",
+      "WrapperToken"
+    ]
   },
   {
     "name": "SURF.Finance from Ethereum",
