@@ -138,5 +138,23 @@
     "symbol": "jCHF",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-tokenlists/master/images/jCHF.svg"
+  },
+  {
+    "chainId": 100,
+    "address": "0x7aeca73f38f8f33ab7ff067fed1268384d12324d",
+    "name": "Super Bright",
+    "symbol": "Brightx",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/BrightDAO/logo.png",
+    "tags": [ "SuperToken", "WrapperToken" ]
+  },
+  {
+    "chainId": 100,
+    "address": "0xc0712524b39323eb2437e69226b261d928629dc8",
+    "name": "Super Honey",
+    "symbol": "HNYx",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12895/thumb/hnys.png?1614100588",
+    "tags": [ "SuperToken", "WrapperToken" ]
   }
 ]
