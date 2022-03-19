@@ -626,7 +626,7 @@
   },
   {
     "chainId": 1,
-    "name": "GtonCapital",
+    "name": "GTONCapital",
     "address": "0x01e0e2e61f554ecaaec0cc933e739ad90f24a86d",
     "decimals": 18,
     "symbol": "GTON",
@@ -3087,7 +3087,7 @@
     "chainId": 1,
     "name": "Kava",
     "address": "0x0c356b7fd36a5357e5a017ef11887ba100c9ab76",
-    "decimals": 6,
+    "decimals": 18,
     "symbol": "KAVA",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/4846.png"
   },
@@ -3117,11 +3117,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x0c572544a4ee47904d54aaa6a970af96b6f00e1b",
     "name": "Wasder",
-    "symbol": "WAS",
+    "address": "0x0c572544a4ee47904d54aaa6a970af96b6f00e1b",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/15374/thumb/wasderlogo200x200.png?1620691729"
+    "symbol": "WAS",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/10781.png"
   },
   {
     "chainId": 1,
@@ -6889,7 +6889,7 @@
     "chainId": 1,
     "name": "Winry Inu",
     "address": "0x1a87077c4f834884691b8ba4fc808d2ec93a9f30",
-    "decimals": 9,
+    "decimals": 18,
     "symbol": "WINRY",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/13366.png"
   },
@@ -7147,7 +7147,7 @@
     "chainId": 1,
     "name": "ZINJA",
     "address": "0x1be56412c9606e7285280f76a105eba56996e491",
-    "decimals": 9,
+    "decimals": 18,
     "symbol": "Z",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/18830.png"
   },
@@ -10904,11 +10904,11 @@
   },
   {
     "chainId": 1,
-    "name": "BYTZ",
     "address": "0x2aad9dbc82611485a52325923e1187734e951b78",
-    "decimals": 18,
+    "name": "BYTZ",
     "symbol": "BYTZ",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/16043.png"
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/4017/thumb/bytz.png?1584519997"
   },
   {
     "chainId": 1,
@@ -18504,11 +18504,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x482b078486079d66334389b55ab974bc8282984b",
     "name": "No Limit Ape",
-    "symbol": "NLA",
+    "address": "0x482b078486079d66334389b55ab974bc8282984b",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/24299/thumb/nla200x200.png?1647268853"
+    "symbol": "NLA",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/18925.png"
   },
   {
     "chainId": 1,
@@ -19691,14 +19691,6 @@
   },
   {
     "chainId": 1,
-    "name": "CertiK",
-    "address": "0x4c67b8392fc17892338d590e5ae1ab7be485be50",
-    "decimals": 6,
-    "symbol": "CTK",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/4807.png"
-  },
-  {
-    "chainId": 1,
     "name": "FC Bitcoin",
     "address": "0x4c6e796bbfe5eb37f9e3e0f66c009c8bf2a5f428",
     "decimals": 8,
@@ -19755,7 +19747,7 @@
   },
   {
     "chainId": 1,
-    "name": "Selfkey",
+    "name": "SelfKey",
     "address": "0x4cc19356f2d37338b9802aa8e8fc58b0373296e7",
     "decimals": 18,
     "symbol": "KEY",
@@ -22909,11 +22901,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x5b0f6ad5875da96ac224ba797c6f362f4c3a2b3b",
     "name": "Nerdy Inu",
+    "address": "0x5b0f6ad5875da96ac224ba797c6f362f4c3a2b3b",
+    "decimals": 18,
     "symbol": "NERDY",
-    "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/19517/thumb/nerdy.jpeg?1635322382"
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/13392.png"
   },
   {
     "chainId": 1,
@@ -33164,7 +33156,7 @@
   },
   {
     "chainId": 1,
-    "name": "DEVITA Global",
+    "name": "DEVITA",
     "address": "0x8640353cdc9778deab0df45d12fb3013deac079c",
     "decimals": 18,
     "symbol": "LIFE",
@@ -35616,6 +35608,14 @@
     "decimals": 18,
     "symbol": "STUD",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/15583.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Rematic",
+    "address": "0x8f53af5d2ef322b4c4ed063738d5baa47edcd996",
+    "decimals": 18,
+    "symbol": "RMTX",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/15667.png"
   },
   {
     "chainId": 1,
@@ -41593,6 +41593,14 @@
   },
   {
     "chainId": 1,
+    "name": "Shiba Predator",
+    "address": "0xa71d0588eaf47f12b13cf8ec750430d21df04974",
+    "decimals": 18,
+    "symbol": "QOM",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/18919.png"
+  },
+  {
+    "chainId": 1,
     "name": "Daily Funds",
     "address": "0xa73862c5a66cf3be4bf86f60acf085bd927f83f8",
     "decimals": 8,
@@ -42821,6 +42829,14 @@
   },
   {
     "chainId": 1,
+    "name": "POPKON",
+    "address": "0xac12e8f6b0c17d7b736a800920b336d764b59973",
+    "decimals": 18,
+    "symbol": "POPK",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/18596.png"
+  },
+  {
+    "chainId": 1,
     "name": "BITWAY",
     "address": "0xac1a32e3aea383ba94f9e28e63a122277e4ccb18",
     "decimals": 18,
@@ -43543,11 +43559,11 @@
   },
   {
     "chainId": 1,
-    "address": "0xaf5191b0de278c7286d6c7cc6ab6bb8a73ba2cd6",
     "name": "Stargate Finance",
-    "symbol": "STG",
+    "address": "0xaf5191b0de278c7286d6c7cc6ab6bb8a73ba2cd6",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/24413/thumb/s9_nNOkD_400x400.jpg?1647562572"
+    "symbol": "STG",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/18934.png"
   },
   {
     "chainId": 1,
@@ -44793,6 +44809,14 @@
     "decimals": 8,
     "symbol": "EGAS",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2128.png"
+  },
+  {
+    "chainId": 1,
+    "name": "ZKCHAOS",
+    "address": "0xb53de031602cd825febe9f2eedf962cd8cc3805d",
+    "decimals": 18,
+    "symbol": "CHAOS",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/10401.png"
   },
   {
     "chainId": 1,
@@ -46603,7 +46627,7 @@
     "name": "GoldFinX",
     "address": "0xbd434a09191d401da3283a5545bb3515d033b8c4",
     "decimals": 18,
-    "symbol": "GIX",
+    "symbol": "G1X",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7624.png"
   },
   {
@@ -49017,7 +49041,7 @@
     "chainId": 1,
     "name": "Bankera",
     "address": "0xc80c5e40220172b36adee2c951f26f2a577810c5",
-    "decimals": 8,
+    "decimals": 18,
     "symbol": "BNK",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2842.png"
   },
@@ -51352,11 +51376,11 @@
   },
   {
     "chainId": 1,
-    "address": "0xd2287a52287dd64ae2c690d74322e2e345dc8f69",
     "name": "BabyWhale",
-    "symbol": "BBW",
+    "address": "0xd2287a52287dd64ae2c690d74322e2e345dc8f69",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/24168/thumb/babywhale_32.png?1646716918"
+    "symbol": "BBW",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/18690.png"
   },
   {
     "chainId": 1,
@@ -53599,11 +53623,11 @@
   },
   {
     "chainId": 1,
-    "address": "0xdb262c7d67fe7336574f005db47b7c8e1df41852",
     "name": "Naffiti",
-    "symbol": "NAFF",
+    "address": "0xdb262c7d67fe7336574f005db47b7c8e1df41852",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/24057/thumb/Naffiti_1200x1200.png?1646203375"
+    "symbol": "NAFF",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/18414.png"
   },
   {
     "chainId": 1,
@@ -56657,11 +56681,11 @@
   },
   {
     "chainId": 1,
-    "address": "0xe8a95475884e5f13adb1f9f10e84f7390bac1b5c",
     "name": "Coingress",
-    "symbol": "CGRESS",
+    "address": "0xe8a95475884e5f13adb1f9f10e84f7390bac1b5c",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/21861/thumb/cropped-Coingress-symbol-ostrich1.png?1640149625"
+    "symbol": "CGRESS",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/16324.png"
   },
   {
     "chainId": 1,
@@ -62247,6 +62271,14 @@
     "logoURI": "https://assets.coingecko.com/coins/images/11149/small/gnosis-owl_32.png"
   },
   {
+    "name": "VitaDAO from Mainnet",
+    "address": "0x0939a7c3f8d37c1ce67fada4963ae7e0bd112ff3",
+    "symbol": "VITA",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/VitaDAO/assets/master/vitadao-icon.png"
+  },
+  {
     "name": "Celsius on xDai",
     "address": "0x0acd91f92fe07606ab51ea97d8521e29d110fd09",
     "symbol": "CEL",
@@ -66191,6 +66223,14 @@
     "chainId": 56,
     "decimals": 18,
     "logoURI": "https://tokens.pancakeswap.finance/images/0x190b589cf9Fb8DDEabBFeae36a813FFb2A702454.png"
+  },
+  {
+    "name": "TemplarDAO",
+    "symbol": "TEM",
+    "address": "0x19e6bfc1a6e4b042fb20531244d47e252445df01",
+    "chainId": 56,
+    "decimals": 9,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x19e6BfC1A6e4B042Fb20531244D47E252445df01.png"
   },
   {
     "name": "Qian Governance Token",
