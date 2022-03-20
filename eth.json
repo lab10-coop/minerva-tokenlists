@@ -2,10 +2,10 @@
   {
     "chainId": 1,
     "address": "",
-    "name": "3X Long Theta Netwo",
-    "symbol": "THETABULL",
+    "name": "1X Short TomoChain ",
+    "symbol": "TOMOHEDGE",
     "decimals": 0,
-    "logoURI": "https://assets.coingecko.com/coins/images/12050/thumb/683JEXMN_400x400__1_.png?1596702737"
+    "logoURI": "https://assets.coingecko.com/coins/images/12049/thumb/683JEXMN_400x400.png?1596702543"
   },
   {
     "chainId": 1,
@@ -8848,11 +8848,11 @@
   },
   {
     "chainId": 1,
-    "name": "Fruits",
     "address": "0x229b239b7d00aa2a41c8b74b1db50a821f58d31a",
-    "decimals": 18,
+    "name": "Fruits",
     "symbol": "FRTS",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/12131.png"
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/16059/thumb/FruitsLogo3.png?1622709717"
   },
   {
     "chainId": 1,
@@ -12961,6 +12961,14 @@
     "decimals": 18,
     "symbol": "KRG",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7197.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x32a8e5c552e5cae231e33170d6495ab0af9e5a72",
+    "name": "Export Mortos Platf",
+    "symbol": "EMP",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/24422/thumb/emp_logo_200.png?1647654574"
   },
   {
     "chainId": 1,
@@ -22274,6 +22282,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x583673b49ee3ae9e59c0b2fa662115952e1d28fd",
+    "name": "MintStarter",
+    "symbol": "MINT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/24427/thumb/rsz-1mintstarter-logo.png?1647658622"
+  },
+  {
+    "chainId": 1,
     "name": "Distributed Energy Coin",
     "address": "0x58379bf685ea2e251ae63d3ee26269c7c3848a17",
     "decimals": 8,
@@ -27977,7 +27993,7 @@
     "chainId": 1,
     "name": "Saint Inu",
     "address": "0x6fc5af63990aa9e5c5543f5cd8ed148bfa6d9d19",
-    "decimals": 9,
+    "decimals": 18,
     "symbol": "SAINT",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/13687.png"
   },
@@ -38449,7 +38465,7 @@
     "chainId": 1,
     "name": "OIN Finance",
     "address": "0x9aeb50f542050172359a0e1a25a9933bc8c01259",
-    "decimals": 8,
+    "decimals": 18,
     "symbol": "OIN",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/6870.png"
   },
@@ -49091,7 +49107,7 @@
     "name": "Arc",
     "symbol": "ARC",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/24235/thumb/coin-gecko.png?1647507864"
+    "logoURI": "https://assets.coingecko.com/coins/images/24235/thumb/arc.png?1647694270"
   },
   {
     "chainId": 1,
@@ -51951,6 +51967,14 @@
     "symbol": "ZECBULL",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/16544/thumb/download_%2828%29.png?1624414707"
+  },
+  {
+    "chainId": 1,
+    "address": "0xd43be54c1aedf7ee4099104f2dae4ea88b18a249",
+    "name": "Traxx",
+    "symbol": "TRAXX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/24441/thumb/traxx.png?1647671236"
   },
   {
     "chainId": 1,
@@ -54833,6 +54857,14 @@
   },
   {
     "chainId": 1,
+    "address": "0xe0cca86b254005889ac3a81e737f56a14f4a38f5",
+    "name": "Alta Finance",
+    "symbol": "ALTA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/18713/thumb/AFN-token-Altafin-200.png?1633079552"
+  },
+  {
+    "chainId": 1,
     "address": "0xe0d2f5c883d5d470d16fa6dd73610bb4253577ff",
     "symbol": "MCM",
     "name": "MemeCoinUniverse",
@@ -55559,10 +55591,11 @@
   {
     "chainId": 1,
     "address": "0xe46f290cd59195a83e757891430d8d517d16b334",
-    "name": "AltaFin",
     "symbol": "AFN",
+    "name": "AltaFin",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/18713/thumb/AFN-token-Altafin-200.png?1633079552"
+    "logoURI": "ipfs://QmeB3kLUTYCTnSi5kqht9sj5r8TC9iMsx3vp1jk1cYVWdB",
+    "tags": []
   },
   {
     "chainId": 1,
