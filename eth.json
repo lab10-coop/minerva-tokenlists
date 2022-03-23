@@ -2,10 +2,10 @@
   {
     "chainId": 1,
     "address": "",
-    "name": "3X Short Kyber Netw",
-    "symbol": "KNCBEAR",
+    "name": "1X Short Swipe Toke",
+    "symbol": "SXPHEDGE",
     "decimals": 0,
-    "logoURI": "https://assets.coingecko.com/coins/images/12068/thumb/683JEXMN_400x400.png?1596709128"
+    "logoURI": "https://assets.coingecko.com/coins/images/12036/thumb/683JEXMN_400x400.png?1596700098"
   },
   {
     "chainId": 1,
@@ -1252,7 +1252,7 @@
     "chainId": 1,
     "name": "Peercoin",
     "address": "0x044d078f1c86508e13328842cc75ac021b272958",
-    "decimals": 6,
+    "decimals": 18,
     "symbol": "PPC",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/5.png"
   },
@@ -12058,6 +12058,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x2f9411088cef82fd9fb904eb8092f28eb485c8f6",
+    "name": "Athens",
+    "symbol": "ATH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/24514/thumb/ATH-logo-round.png?1647951491"
+  },
+  {
+    "chainId": 1,
     "name": "CrowdWiz",
     "address": "0x2f9b6779c37df5707249eeb3734bbfc94763fbe2",
     "decimals": 18,
@@ -20253,11 +20261,11 @@
   },
   {
     "chainId": 1,
+    "name": "The Rare Antiquities Token",
     "address": "0x4ea507bf90b2d206bff56999dc76e39e447d2587",
-    "name": "The Rare Antiquitie",
+    "decimals": 18,
     "symbol": "RAT",
-    "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/24485/thumb/Seov3eF6_400x400.jpg?1647843449"
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/11812.png"
   },
   {
     "chainId": 1,
@@ -25260,11 +25268,11 @@
   },
   {
     "chainId": 1,
-    "name": "The Rare Antiquities Token",
     "address": "0x6460b9954a05714a1a8d36bac6d8bc9b657352d7",
-    "decimals": 18,
+    "name": "The Rare Antiquitie",
     "symbol": "RAT",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/11812.png"
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/18256/thumb/0lIS95w.png?1631152207"
   },
   {
     "chainId": 1,
@@ -26834,14 +26842,6 @@
     "decimals": 18,
     "symbol": "ORDR",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/11724.png"
-  },
-  {
-    "chainId": 1,
-    "name": "Catoshi Nakamoto",
-    "address": "0x6a00b86e30167f73e38be086081b80213e8266aa",
-    "decimals": 18,
-    "symbol": "CATS",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/10663.png"
   },
   {
     "chainId": 1,
@@ -40150,6 +40150,14 @@
   },
   {
     "chainId": 1,
+    "name": "Catoshi",
+    "address": "0xa10989335f3ba92bd43e60fbe8d42fe739412ac4",
+    "decimals": 18,
+    "symbol": "CZATS",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/10663.png"
+  },
+  {
+    "chainId": 1,
     "address": "0xa10a210c27c86f8c63825096e34f671fd61041b1",
     "symbol": "JEFF",
     "name": "Jeff in Space",
@@ -41346,11 +41354,11 @@
   },
   {
     "chainId": 1,
-    "name": "DePo",
     "address": "0xa5def515cfd373d17830e7c1de1639cb3530a112",
-    "decimals": 18,
+    "name": "Depo",
     "symbol": "DEPO",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/13051.png"
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/19151/thumb/depo.PNG?1634535965"
   },
   {
     "chainId": 1,
@@ -48636,6 +48644,14 @@
   },
   {
     "chainId": 1,
+    "name": "MechaChain",
+    "address": "0xc5bcc8ba3f33ab0d64f3473e861bdc0685b19ef5",
+    "decimals": 18,
+    "symbol": "MECHA",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/16408.png"
+  },
+  {
+    "chainId": 1,
     "address": "0xc5bddf9843308380375a611c18b50fb9341f502a",
     "name": "veCRV DAO yVault",
     "symbol": "YVE-CRVDAO",
@@ -49166,11 +49182,11 @@
   },
   {
     "chainId": 1,
+    "name": "ARC",
     "address": "0xc82e3db60a52cf7529253b4ec688f631aad9e7c2",
-    "name": "Arc",
-    "symbol": "ARC",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/24235/thumb/arc.png?1647694270"
+    "symbol": "ARC",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/13051.png"
   },
   {
     "chainId": 1,
@@ -52003,7 +52019,7 @@
     "chainId": 1,
     "name": "FaceDAO",
     "address": "0xd432e8611377e307d3e5710132515be1e6aa6156",
-    "decimals": 9,
+    "decimals": 18,
     "symbol": "FACE",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/18827.png"
   },
@@ -52118,6 +52134,15 @@
     "decimals": 9,
     "symbol": "BISHUFI",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/13508.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xd4937682df3c8aef4fe912a96a74121c0829e664",
+    "symbol": "aFRAX",
+    "name": "Aave FRAX",
+    "decimals": 18,
+    "logoURI": "ipfs://QmUaK9mgxKFvevEpoCb9t5aoEbmiGpBTpgcqRuScCYdkzV",
+    "tags": []
   },
   {
     "chainId": 1,
@@ -56701,6 +56726,14 @@
     "decimals": 8,
     "symbol": "NEXM",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/17914.png"
+  },
+  {
+    "chainId": 1,
+    "name": "ABBC Coin",
+    "address": "0xe83ce6bfb580583bd6a62b4be7b34fc25f02910d",
+    "decimals": 18,
+    "symbol": "ABBC",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3437.png"
   },
   {
     "chainId": 1,
