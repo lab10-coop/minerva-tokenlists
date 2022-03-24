@@ -1,14 +1,6 @@
 [
   {
     "chainId": 1,
-    "address": "",
-    "name": "1X Short Swipe Toke",
-    "symbol": "SXPHEDGE",
-    "decimals": 0,
-    "logoURI": "https://assets.coingecko.com/coins/images/12036/thumb/683JEXMN_400x400.png?1596700098"
-  },
-  {
-    "chainId": 1,
     "name": "TopBidder",
     "address": "0x00000000000045166c45af0fc6e4cf31d9e14b9a",
     "decimals": 18,
@@ -537,6 +529,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x0173661769325565d4f011b2e5cda688689cc87c",
+    "name": "Quantland",
+    "symbol": "QLT",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/24536/thumb/8jYfKBTk_400x400.jpg?1648051247"
+  },
+  {
+    "chainId": 1,
     "address": "0x017b584acfd16d767541ae9e80cdc702f4527b0b",
     "name": "ASYAGRO",
     "symbol": "ASY",
@@ -699,7 +699,7 @@
   {
     "chainId": 1,
     "address": "0x021bb23a45e9fc824260435e670fc383b7b8cbbb",
-    "name": "RealT Token   16200",
+    "name": "RealT Token   16200 Fullerton Ave  Detr",
     "symbol": "REALTOKEN-S-16200-F",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/16704/thumb/16200-Fullerton-HERO.jpeg?1624644084"
@@ -843,7 +843,7 @@
   {
     "chainId": 1,
     "address": "0x02e88a689fdfb920e7aa6174fb7ab72add3c5694",
-    "name": "1X Short Bitcoin Ca",
+    "name": "1X Short Bitcoin Cash Token",
     "symbol": "BCHHEDGE",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/10332/thumb/683JEXMN_400x400.png?1596707014"
@@ -1267,7 +1267,7 @@
   {
     "chainId": 1,
     "address": "0x047686fb287e7263a23873dea66b4501015a2226",
-    "name": "Blockchain Cuties U",
+    "name": "Blockchain Cuties Universe",
     "symbol": "CUTE",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/8328/thumb/bnLvIEl1_400x400.jpg?1557533240"
@@ -1733,7 +1733,7 @@
   {
     "chainId": 1,
     "address": "0x06576eb3b212d605b797dc15523d9dc9f4f66db4",
-    "name": "The Crypto Propheci",
+    "name": "The Crypto Prophecies",
     "symbol": "TCP",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/15054/thumb/tcp.PNG?1619579195"
@@ -1837,7 +1837,7 @@
   {
     "chainId": 1,
     "address": "0x06d0e5aee443093ac5635b709c8a01342e59df19",
-    "name": "RealT Token   10617",
+    "name": "RealT Token   10617 Hathaway Ave  Cleve",
     "symbol": "REALTOKEN-S-10617-H",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/16709/thumb/10617-Hathaway-hero-1.jpeg?1624647056"
@@ -2293,7 +2293,7 @@
   {
     "chainId": 1,
     "address": "0x08ad1f3a48be1d23c723a6cc8486b247f5de935a",
-    "name": "RealT Token   13116",
+    "name": "RealT Token   13116 Kilbourne Ave  Detr",
     "symbol": "REALTOKEN-S-13116-K",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/16679/thumb/13116-Kilbourne-hero-1.jpeg?1624630007"
@@ -2822,7 +2822,7 @@
   {
     "chainId": 1,
     "address": "0x0afee744b6d9ff2b78f76fe10b3e0199c413fd34",
-    "name": "Store of Value Toke",
+    "name": "Store of Value Token",
     "symbol": "SOV",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/17870/thumb/SOVcoin.png?1629692413"
@@ -3238,7 +3238,7 @@
   {
     "chainId": 1,
     "address": "0x0cd6c8161f1638485a1a2f5bf1a0127e45913c2f",
-    "name": "3X Short Tether Tok",
+    "name": "3X Short Tether Token",
     "symbol": "USDTBEAR",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/10307/thumb/683JEXMN_400x400.png?1577743905"
@@ -3563,6 +3563,14 @@
     "decimals": 18,
     "symbol": "SGDX",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/5500.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x0e498afce58de8651b983f136256fa3b8d9703bc",
+    "name": "Dooropen",
+    "symbol": "DOC",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/24529/thumb/image.png?1648039452"
   },
   {
     "chainId": 1,
@@ -3904,7 +3912,7 @@
   {
     "chainId": 1,
     "address": "0x0f644658510c95cb46955e55d7ba9dda9e9fbec6",
-    "name": "Ubiquity Algorithmi",
+    "name": "Ubiquity Algorithmic Dollar",
     "symbol": "UAD",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/19264/thumb/Screenshot_2021-10-21_at_8.30.40_PM.png?1634819623"
@@ -3990,6 +3998,14 @@
     "decimals": 9,
     "logoURI": "ipfs://QmPJd1cBKDzZD3E7NWCpnqT6kkprkXqQ6N7dmjnMkeZUdT",
     "tags": []
+  },
+  {
+    "chainId": 1,
+    "address": "0x0f9a4ea78ba7c8a2b6284c97ba7895c7d2d0726d",
+    "name": "United Dao",
+    "symbol": "UTD",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/24537/thumb/XZUrkhqW_400x400.jpg?1648058275"
   },
   {
     "chainId": 1,
@@ -5342,7 +5358,7 @@
   {
     "chainId": 1,
     "address": "0x1505c95a707348c2bcc75698be258891387f008b",
-    "name": "Uncle Scrooge Finan",
+    "name": "Uncle Scrooge Finance",
     "symbol": "CROOGE",
     "decimals": 9,
     "logoURI": "https://assets.coingecko.com/coins/images/16304/thumb/logo200.png?1623718782"
@@ -5711,7 +5727,7 @@
   {
     "chainId": 1,
     "address": "0x1660f10b4d610cf482194356ece8efd65b15ba83",
-    "name": "Amun DeFi Momentum ",
+    "name": "Amun DeFi Momentum Index",
     "symbol": "DMX",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/16818/thumb/amun-dmx.png?1625176376"
@@ -6016,7 +6032,7 @@
   {
     "chainId": 1,
     "address": "0x175cbd54d38f58b530785e01471a2ec0d4596eb5",
-    "name": "RealT Token   15770",
+    "name": "RealT Token   15770 Prest St  Detroit  ",
     "symbol": "REALTOKEN-S-15770-P",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/16636/thumb/15770-Prest-hero-1.jpeg?1624557487"
@@ -6032,7 +6048,7 @@
   {
     "chainId": 1,
     "address": "0x175eaf4feb0a147b5a77549389392094bf38b198",
-    "name": "Art Blocks Curated ",
+    "name": "Art Blocks Curated Fidenza  855",
     "symbol": "FDNZA",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/18060/thumb/Fidenza-855.png?1630346397"
@@ -6388,7 +6404,7 @@
   {
     "chainId": 1,
     "address": "0x18aa7c90d3ae4c5bb219d0a2813f441704084625",
-    "name": "Decentralize Curren",
+    "name": "Decentralize Currency",
     "symbol": "DCA",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/7673/thumb/DCA.png?1573037394"
@@ -6581,7 +6597,7 @@
   {
     "chainId": 1,
     "address": "0x1982b2f5814301d4e9a8b0201555376e62f82428",
-    "name": "Aave Interest Beari",
+    "name": "Aave Interest Bearing STETH",
     "symbol": "ASTETH",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/24163/thumb/steth.jpg?1646634315"
@@ -6872,7 +6888,7 @@
   {
     "chainId": 1,
     "address": "0x1a7981d87e3b6a95c1516eb820e223fe979896b3",
-    "name": "Multi Chain Capital",
+    "name": "Multi Chain Capital  OLD ",
     "symbol": "MCC",
     "decimals": 9,
     "logoURI": "https://assets.coingecko.com/coins/images/20680/thumb/mchainicon-web.png?1637551161"
@@ -7436,7 +7452,7 @@
   {
     "chainId": 1,
     "address": "0x1cdd2eab61112697626f7b4bb0e23da4febf7b7c",
-    "name": "Tether USD  Wormhol",
+    "name": "Tether USD  Wormhole ",
     "symbol": "USDTSO",
     "decimals": 6,
     "logoURI": "https://assets.coingecko.com/coins/images/22881/thumb/USDTso_wh_small.png?1644223113"
@@ -7596,7 +7612,7 @@
   {
     "chainId": 1,
     "address": "0x1d9cd2180fd4e9771fca28681034d02390b14e4c",
-    "name": "1X Short Shitcoin I",
+    "name": "1X Short Shitcoin Index Token",
     "symbol": "HEDGESHIT",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/10450/thumb/683JEXMN_400x400.png?1579561773"
@@ -7684,7 +7700,7 @@
   {
     "chainId": 1,
     "address": "0x1e001730a23c7ebaff35bc8bc90da5a9b20804a4",
-    "name": "RealT Token   9481 ",
+    "name": "RealT Token   9481 Wayburn St  Detroit ",
     "symbol": "REALTOKEN-S-9481-WA",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/16609/thumb/9481-Wayburn-hero-1.jpg?1624545084"
@@ -7740,7 +7756,7 @@
   {
     "chainId": 1,
     "address": "0x1e23fb8bd851cc2a341428c0b10e65d49987d744",
-    "name": "Incooom Genesis Gol",
+    "name": "Incooom Genesis Gold",
     "symbol": "GCOOOM",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/18986/thumb/gcooom.png?1634111327"
@@ -7820,7 +7836,7 @@
   {
     "chainId": 1,
     "address": "0x1e6bb68acec8fefbd87d192be09bb274170a0548",
-    "name": "Aave interest beari",
+    "name": "Aave interest bearing AMPL",
     "symbol": "AAMPL",
     "decimals": 9,
     "logoURI": "https://assets.coingecko.com/coins/images/20145/thumb/image_from_ios.jpg?1636539343"
@@ -8020,7 +8036,7 @@
   {
     "chainId": 1,
     "address": "0x1f3f9d3068568f8040775be2e8c03c103c61f3af",
-    "name": "Archer DAO Governan",
+    "name": "Archer DAO Governance Token",
     "symbol": "ARCH",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/13188/thumb/archer_logo.png?1606097487"
@@ -8221,7 +8237,7 @@
   {
     "chainId": 1,
     "address": "0x1fdb4015fd5e031c5641752c1e03b973ad5ea168",
-    "name": "RealT Token   17500",
+    "name": "RealT Token   17500 Evergreen Rd  Detro",
     "symbol": "REALTOKEN-S-17500-E",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/16624/thumb/17500-Evergreen-hero-1.jpg?1624552051"
@@ -8487,7 +8503,7 @@
   {
     "chainId": 1,
     "address": "0x211618fa0934910666f2c2731101f5a3ac013fd8",
-    "name": "RealT Token   19200",
+    "name": "RealT Token   19200 Strasburg St  Detro",
     "symbol": "REALTOKEN-S-19200-S",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/16620/thumb/19200-Strasburg-hero-1.jpg?1624550918"
@@ -8689,7 +8705,7 @@
   {
     "chainId": 1,
     "address": "0x21f1af3e751317a2f7de7df31d5d092e6a907bde",
-    "name": "RealT Token   18276",
+    "name": "RealT Token   18276 Appoline St  Detroi",
     "symbol": "REALTOKEN-S-18276-A",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/16696/thumb/Appoline-18267_jpg__3760%C3%973754_.png?1624640149"
@@ -9003,7 +9019,7 @@
   {
     "chainId": 1,
     "address": "0x232fb065d9d24c34708eedbf03724f2e95abe768",
-    "name": "Sheesha Finance  ER",
+    "name": "Sheesha Finance  ERC20 ",
     "symbol": "SHEESHA",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/23053/thumb/MLBmh4z0.png?1643113057"
@@ -9060,7 +9076,7 @@
   {
     "chainId": 1,
     "address": "0x2365a4890ed8965e564b7e2d27c38ba67fec4c6f",
-    "name": "Aave AMM UniWBTCUSD",
+    "name": "Aave AMM UniWBTCUSDC",
     "symbol": "AAMMUNIWBTCUSDC",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/17255/thumb/aAmmUniWBTCUSDC.png?1626956709"
@@ -9068,7 +9084,7 @@
   {
     "chainId": 1,
     "address": "0x23684569c0636c9aea246551879d457d0a0e6f58",
-    "name": "RealT Token   9336 ",
+    "name": "RealT Token   9336 Patton St  Detroit  ",
     "symbol": "REALTOKEN-S-9336-PA",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/16701/thumb/9336-Patton-HERO-2.jpeg?1624642655"
@@ -9188,7 +9204,7 @@
   {
     "chainId": 1,
     "address": "0x24293ab20159cfc0f3d7c8727cd827fba63d4f64",
-    "name": "RealT Token   19333",
+    "name": "RealT Token   19333 Moenart St  Detroit",
     "symbol": "REALTOKEN-S-19333-M",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/16593/thumb/19333-Moenart-hero-1.jpg?1624539310"
@@ -9372,7 +9388,7 @@
   {
     "chainId": 1,
     "address": "0x24dcc881e7dd730546834452f21872d5cb4b5293",
-    "name": "Data Transaction To",
+    "name": "Data Transaction Token",
     "symbol": "XD",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/3460/thumb/xd_01.png?1560142295"
@@ -10039,7 +10055,7 @@
   {
     "chainId": 1,
     "address": "0x270719e21852e0e817c4663cc9f1567441d6eaac",
-    "name": "Big Brain Capital D",
+    "name": "Big Brain Capital DAO",
     "symbol": "BBCDAO",
     "decimals": 9,
     "logoURI": "https://assets.coingecko.com/coins/images/21107/thumb/O2fuFbO.png?1638329608"
@@ -10280,7 +10296,7 @@
   {
     "chainId": 1,
     "address": "0x280e9ed3b20c580a2f4219657bb9332d80bc01f1",
-    "name": "RealT Token   19020",
+    "name": "RealT Token   19020 Rosemont Ave  Detro",
     "symbol": "REALTOKEN-S-19020-R",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/16705/thumb/19020-Rosemont-hero-1.jpeg?1624644549"
@@ -10512,7 +10528,7 @@
   {
     "chainId": 1,
     "address": "0x28fac5334c9f7262b3a3fe707e250e01053e07b5",
-    "name": "IdleUSDT  Risk Adju",
+    "name": "IdleUSDT  Risk Adjusted ",
     "symbol": "IDLEUSDTSAFE",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/11931/thumb/idleusdt-safe.png?1596263270"
@@ -10961,7 +10977,7 @@
   {
     "chainId": 1,
     "address": "0x2adc1cfa726a45264a328d9d2e2c692ceac97458",
-    "name": "RealT Token   14494",
+    "name": "RealT Token   14494 Chelsea Ave  Detroi",
     "symbol": "REALTOKEN-S-14494-C",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/16618/thumb/14494-Chelsea-hero-1.jpg?1624550267"
@@ -11346,7 +11362,7 @@
   {
     "chainId": 1,
     "address": "0x2c6f00a020b613c9419bb6c1ac220036dbe9e622",
-    "name": "RealT Token   18776",
+    "name": "RealT Token   18776 Sunderland Rd  Detr",
     "symbol": "REALTOKEN-S-18776-S",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/16602/thumb/18776-Sunderland-hero-1.jpg?1624543588"
@@ -11851,7 +11867,7 @@
   {
     "chainId": 1,
     "address": "0x2e9c861713a8cbd4aca72a832f347b9520edbb90",
-    "name": "Crypto Application ",
+    "name": "Crypto Application Token",
     "symbol": "CAPP",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/11082/thumb/capp.PNG?1588048135"
@@ -12027,7 +12043,7 @@
   {
     "chainId": 1,
     "address": "0x2f7b618993cc3848d6c7ed9cdd5e835e4fe22b98",
-    "name": "Nami Corporation To",
+    "name": "Nami Corporation Token",
     "symbol": "NAMI",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/13729/thumb/nami_logo_256.png?1611224464"
@@ -12058,11 +12074,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x2f9411088cef82fd9fb904eb8092f28eb485c8f6",
     "name": "Athens",
-    "symbol": "ATH",
+    "address": "0x2f9411088cef82fd9fb904eb8092f28eb485c8f6",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/24514/thumb/ATH-logo-round.png?1647951491"
+    "symbol": "ATH",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/19005.png"
   },
   {
     "chainId": 1,
@@ -12509,7 +12525,7 @@
   {
     "chainId": 1,
     "address": "0x311fc485f1fea0c8cc9b5c783e79f4313ddfa720",
-    "name": "RealT Token   19996",
+    "name": "RealT Token   19996 Joann Ave  Detroit ",
     "symbol": "REALTOKEN-S-19996-J",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/16666/thumb/19996-Joanne-hero-1.jpg?1624626495"
@@ -12565,7 +12581,7 @@
   {
     "chainId": 1,
     "address": "0x3150f0ebc0efee280b5348b9c8c271ad44eb8b13",
-    "name": "RealT Token   19596",
+    "name": "RealT Token   19596 Goulburn Ave  Detro",
     "symbol": "REALTOKEN-S-19596-G",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/16608/thumb/19596-Goulburn-hero-1.jpg?1624544786"
@@ -12581,7 +12597,7 @@
   {
     "chainId": 1,
     "address": "0x315699f1ba88383cff2f2f30fcad187adb2e4d72",
-    "name": "RealT Token   14078",
+    "name": "RealT Token   14078 Carlisle St  Detroi",
     "symbol": "REALTOKEN-S-14078-C",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/16597/thumb/14078-Carlisle-hero-1-800x600.jpeg?1624541175"
@@ -12629,7 +12645,7 @@
   {
     "chainId": 1,
     "address": "0x31820af2d43c08bd82bd94b08974062482bd98d3",
-    "name": "RealT Token   11653",
+    "name": "RealT Token   11653 Nottingham Rd  Detr",
     "symbol": "REALTOKEN-S-11653-N",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/16622/thumb/11653-Nottingham-hero-1.jpg?1624551450"
@@ -12653,7 +12669,7 @@
   {
     "chainId": 1,
     "address": "0x31aa5fa895fd186fde12347a6fcaf540875b6434",
-    "name": "RealT Token   14882",
+    "name": "RealT Token   14882 Troester St  Detroi",
     "symbol": "REALTOKEN-S-14882-T",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/16600/thumb/14882-Troester-hero-1.jpg?1624542180"
@@ -13152,7 +13168,7 @@
   {
     "chainId": 1,
     "address": "0x33722ea778df197f1b7b1cf0b124d7a962181d65",
-    "name": "RealT Token   19136",
+    "name": "RealT Token   19136 Tracey St  Detroit ",
     "symbol": "REALTOKEN-S-19136-T",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/16706/thumb/19136-Tracey-hero-1.jpeg?1624644977"
@@ -13184,7 +13200,7 @@
   {
     "chainId": 1,
     "address": "0x3391bc034f2935ef0e1e41619445f998b2680d35",
-    "name": "IdleUSDC  Risk Adju",
+    "name": "IdleUSDC  Risk Adjusted ",
     "symbol": "IDLEUSDCSAFE",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/11930/thumb/idleusdc-safe.png?1596263257"
@@ -13520,7 +13536,7 @@
   {
     "chainId": 1,
     "address": "0x34ed9e71449529e034d0326cfbb3b5ccdca00cbc",
-    "name": "RealT Token   19317",
+    "name": "RealT Token   19317 Gable St  Detroit  ",
     "symbol": "REALTOKEN-S-19317-G",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/16638/thumb/19317-Gable-hero-1.jpeg?1624558479"
@@ -13696,7 +13712,7 @@
   {
     "chainId": 1,
     "address": "0x358bd0d980e031e23eba9aa793926857703783bd",
-    "name": "Aave AMM BptWBTCWET",
+    "name": "Aave AMM BptWBTCWETH",
     "symbol": "AAMMBPTWBTCWETH",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/17260/thumb/aAmmBptWBTCWETH.png?1626959325"
@@ -14258,7 +14274,7 @@
   {
     "chainId": 1,
     "address": "0x37d299ef5548bf19503cb72c085799e331f9097d",
-    "name": "VeganNation GreenCo",
+    "name": "VeganNation GreenCoin",
     "symbol": "GRNC",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/21581/thumb/logo-green_%281%29.png?1639532854"
@@ -14515,7 +14531,7 @@
   {
     "chainId": 1,
     "address": "0x387c291bc3274389054e82ce81dd318a0113caf5",
-    "name": "AirRaid Lottery Tok",
+    "name": "AirRaid Lottery Token",
     "symbol": "ARAID",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/16234/thumb/AHz3YHu.png?1623364561"
@@ -14603,7 +14619,7 @@
   {
     "chainId": 1,
     "address": "0x38c6a68304cdefb9bec48bbfaaba5c5b47818bb2",
-    "name": "High Performance Bl",
+    "name": "High Performance Blockchain",
     "symbol": "HPB",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/2363/thumb/HPB_Logo_2020_-_Colour.jpg?1596097580"
@@ -14723,7 +14739,7 @@
   {
     "chainId": 1,
     "address": "0x391e86e2c002c70dee155eaceb88f7a3c38f5976",
-    "name": "Aave AMM UniUSDCWET",
+    "name": "Aave AMM UniUSDCWETH",
     "symbol": "AAMMUNIUSDCWETH",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/17219/thumb/aAmmUniUSDCWETH.png?1626879118"
@@ -14972,7 +14988,7 @@
   {
     "chainId": 1,
     "address": "0x3a43a04d80f9881d88080bf9fa8bb720afb6c966",
-    "name": "3X Long Stellar Tok",
+    "name": "3X Long Stellar Token",
     "symbol": "XLMBULL",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/13334/thumb/assets_coingecko_com-ftt.jpg?1607566862"
@@ -15012,7 +15028,7 @@
   {
     "chainId": 1,
     "address": "0x3a707d56d538e85b783e8ce12b346e7fb6511f90",
-    "name": "Inverse Ethereum Vo",
+    "name": "Inverse Ethereum Volatility Index Token",
     "symbol": "IETHV",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/16715/thumb/logo_-_2021-06-28T085526.083.png?1624841740"
@@ -15156,7 +15172,7 @@
   {
     "chainId": 1,
     "address": "0x3ac7a71b97183e3db7722c75eaa8df2c1a0badfc",
-    "name": "Unicly Waifu Collec",
+    "name": "Unicly Waifu Collection",
     "symbol": "UWAIFU",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/15218/thumb/y1ano8ch_400x400.jpg?1620116826"
@@ -15204,7 +15220,7 @@
   {
     "chainId": 1,
     "address": "0x3af5ba94c29a8407785f5f6d90ef5d69a8eb2436",
-    "name": "Unagii Wrapped Bitc",
+    "name": "Unagii Wrapped Bitcoin",
     "symbol": "UWBTC",
     "decimals": 8,
     "logoURI": "https://assets.coingecko.com/coins/images/14625/thumb/uBTC.png?1617294190"
@@ -15444,7 +15460,7 @@
   {
     "chainId": 1,
     "address": "0x3c4a46f0c075a7f191a7459bb51eb1f81ac36f8a",
-    "name": "3X Short PAX Gold T",
+    "name": "3X Short PAX Gold Token",
     "symbol": "PAXGBEAR",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/10432/thumb/683JEXMN_400x400.png?1579276381"
@@ -15476,7 +15492,7 @@
   {
     "chainId": 1,
     "address": "0x3c56d5e887d8fa7ae1ba65bf7eccc25ec09eaf18",
-    "name": "RealT Token   9165 ",
+    "name": "RealT Token   9165 Kensington Ave  Detr",
     "symbol": "REALTOKEN-S-9165-KE",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/16687/thumb/9165-Kensington-hero-1.jpeg?1624634948"
@@ -16277,7 +16293,7 @@
   {
     "chainId": 1,
     "address": "0x3fe7940616e5bc47b0775a0dccf6237893353bb4",
-    "name": "IdleDAI  Best Yield",
+    "name": "IdleDAI  Best Yield ",
     "symbol": "IDLEDAIYIELD",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/11901/thumb/idledai_32.png?1595990312"
@@ -16317,7 +16333,7 @@
   {
     "chainId": 1,
     "address": "0x400b5716b0c23b6f1f0f2a5fdb038949962b803e",
-    "name": "RealT Token   3432 ",
+    "name": "RealT Token   3432 Harding Street  Detr",
     "symbol": "REALTOKEN-S-3432-HA",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/16694/thumb/Hardy_front.jpeg?1624639158"
@@ -16653,7 +16669,7 @@
   {
     "chainId": 1,
     "address": "0x41599149f1b52035392402f9e311b1edb0c9f699",
-    "name": "RealT Token   14319",
+    "name": "RealT Token   14319 Rosemary St  Detroi",
     "symbol": "REALTOKEN-S-14319-R",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/16592/thumb/14319-Rosemary-hero-1-800x600.jpeg?1624539171"
@@ -16765,7 +16781,7 @@
   {
     "chainId": 1,
     "address": "0x41a08648c3766f9f9d85598ff102a08f4ef84f84",
-    "name": "Aave Balancer Pool ",
+    "name": "Aave Balancer Pool Token",
     "symbol": "ABPT",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/16788/thumb/ABPT_2x.png?1625046056"
@@ -17462,7 +17478,7 @@
   {
     "chainId": 1,
     "address": "0x43fed9f9bf7deedcb314b432a8e38219dd62ce9e",
-    "name": "RealT Token   14825",
+    "name": "RealT Token   14825 Wilfred St  Detroit",
     "symbol": "REALTOKEN-S-14825-W",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/16598/thumb/14825-Wilfried-hero-1.jpg?1624541680"
@@ -17494,7 +17510,7 @@
   {
     "chainId": 1,
     "address": "0x44086035439e676c02d411880fccb9837ce37c57",
-    "name": "unified Stable Doll",
+    "name": "unified Stable Dollar",
     "symbol": "USD",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/12259/thumb/Uniswap_State_Dollar.png?1598550804"
@@ -17767,7 +17783,7 @@
   {
     "chainId": 1,
     "address": "0x4534492034a2cd3eab34c8f357cd139c95b09f52",
-    "name": "Marshal Lion Group ",
+    "name": "Marshal Lion Group Coin",
     "symbol": "MLGC",
     "decimals": 0,
     "logoURI": "https://assets.coingecko.com/coins/images/9873/thumb/UI_KObqV_400x400.jpg?1572908129"
@@ -18250,7 +18266,7 @@
   {
     "chainId": 1,
     "address": "0x46f8a600337dec5cab03aa9b8f67f1d5b788ce28",
-    "name": "RealT Token   18433",
+    "name": "RealT Token   18433 Faust Ave  Detroit ",
     "symbol": "REALTOKEN-S-18433-F",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/16684/thumb/Faust-1.jpeg?1624633417"
@@ -18770,7 +18786,7 @@
   {
     "chainId": 1,
     "address": "0x48fb253446873234f2febbf9bdeaa72d9d387f94",
-    "name": "Bancor Governance T",
+    "name": "Bancor Governance Token",
     "symbol": "VBNT",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/14053/thumb/bancorvbnt_32.png?1614048819"
@@ -18930,7 +18946,7 @@
   {
     "chainId": 1,
     "address": "0x499a6c19f5537dd6005e2b5c6e1263103f558ba4",
-    "name": "RealT Token   17813",
+    "name": "RealT Token   17813 Bradford St  Detroi",
     "symbol": "REALTOKEN-S-17813-B",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/16606/thumb/17813-Bradford-hero-1.jpeg?1624544519"
@@ -19189,7 +19205,7 @@
   {
     "chainId": 1,
     "address": "0x4a99cc509f7facf58d7b67e99236db5e0921ef81",
-    "name": "RealT Token   10639",
+    "name": "RealT Token   10639 Stratman St  Detroi",
     "symbol": "REALTOKEN-S-10639-S",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/16621/thumb/10639-Stratman-hero-1.jpg?1624551202"
@@ -19789,7 +19805,7 @@
   {
     "chainId": 1,
     "address": "0x4cc53ee5ef306a95d407321d4b4acc30814c04ee",
-    "name": "RealT Token   19163",
+    "name": "RealT Token   19163 Mitchell St  Detroi",
     "symbol": "REALTOKEN-S-19163-M",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/16614/thumb/19163-Mitchell-hero-1.jpeg?1624548736"
@@ -19885,7 +19901,7 @@
   {
     "chainId": 1,
     "address": "0x4d0da4e75d40bd7d9c4f7a292bf883bcdf38c45d",
-    "name": "RealT Token   15373",
+    "name": "RealT Token   15373 Parkside St  Detroi",
     "symbol": "REALTOKEN-S-15373-P",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/16562/thumb/15373-Parkside-hero-1.jpg?1624458568"
@@ -20238,7 +20254,7 @@
   {
     "chainId": 1,
     "address": "0x4e98493920b16dd6642e9d48497c8d0a49150f6f",
-    "name": "RealT Token  13991 ",
+    "name": "RealT Token  13991 Warwick St  Detroit ",
     "symbol": "REALTOKEN-S-13991-W",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/16662/thumb/Warwick-hero.jpeg?1624624485"
@@ -20470,7 +20486,7 @@
   {
     "chainId": 1,
     "address": "0x4f81c790581b240a5c948afd173620ecc8c71c8d",
-    "name": "Decentral Games Gov",
+    "name": "Decentral Games Governance",
     "symbol": "XDG",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/21176/thumb/xDG_Logo.png?1638508706"
@@ -21876,7 +21892,7 @@
   {
     "chainId": 1,
     "address": "0x5600e25b4f24c63afa655c3bd96e3c178b654fa1",
-    "name": "RealT Token   13045",
+    "name": "RealT Token   13045 Wade St  Detroit  M",
     "symbol": "REALTOKEN-S-13045-W",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/16617/thumb/13045-Wade-hero-1.jpg?1624549855"
@@ -22116,7 +22132,7 @@
   {
     "chainId": 1,
     "address": "0x573d2505a7ee69d136a8667b4cd915f039ac54e5",
-    "name": "xDollar Interverse ",
+    "name": "xDollar Interverse Money",
     "symbol": "XIM",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/22182/thumb/xim-200x200.png?1641179449"
@@ -22508,7 +22524,7 @@
   {
     "chainId": 1,
     "address": "0x592ef68c18f05a22c5890263dea5d952dd140d2a",
-    "name": "3X Long Exchange To",
+    "name": "3X Long Exchange Token Index Token",
     "symbol": "EXCHBULL",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/10436/thumb/683JEXMN_400x400.png?1579276837"
@@ -23032,7 +23048,7 @@
   {
     "chainId": 1,
     "address": "0x5b4e9a810321e168989802474f689269ec442681",
-    "name": "Alpha Brain Capital",
+    "name": "Alpha Brain Capital  OLD ",
     "symbol": "ABC",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/21327/thumb/ABC.png?1638946000"
@@ -23768,7 +23784,7 @@
   {
     "chainId": 1,
     "address": "0x5e2a09064b2dca8c44aad8a5b69a69bb1854fe72",
-    "name": "RealT Token   11201",
+    "name": "RealT Token   11201 College St  Detroit",
     "symbol": "REALTOKEN-S-11201-C",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/16594/thumb/11201-College-hero-1.jpg?1624540102"
@@ -24017,7 +24033,7 @@
   {
     "chainId": 1,
     "address": "0x5f2080542ab6ae7e0b06778f0b2d263006297840",
-    "name": "DeFiHelper Governan",
+    "name": "DeFiHelper Governance Token",
     "symbol": "DFH",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/20270/thumb/dfh-d-ava-main-cgb.png?1636706501"
@@ -24779,7 +24795,7 @@
   {
     "chainId": 1,
     "address": "0x62406995cafd18f57e7375e8e0060725acebce58",
-    "name": "Firulais Wallet Tok",
+    "name": "Firulais Wallet Token",
     "symbol": "FIWT",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/20716/thumb/FIWT-Logo.png?1637584712"
@@ -25141,7 +25157,7 @@
   {
     "chainId": 1,
     "address": "0x63a1849b47ef5913ccc5adb0e2708b11a4ba6972",
-    "name": "RealT Token   14918",
+    "name": "RealT Token   14918 Joy Rd  Detroit  MI",
     "symbol": "REALTOKEN-S-14918-J",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/16626/thumb/14918-Joy-hero-1.jpg?1624552732"
@@ -25229,7 +25245,7 @@
   {
     "chainId": 1,
     "address": "0x6400b5522f8d448c0803e6245436dd1c81df09ce",
-    "name": "Conscious Value Net",
+    "name": "Conscious Value Network",
     "symbol": "CVNT",
     "decimals": 8,
     "logoURI": "https://assets.coingecko.com/coins/images/5158/thumb/cvnt.png?1634711407"
@@ -25269,7 +25285,7 @@
   {
     "chainId": 1,
     "address": "0x6460b9954a05714a1a8d36bac6d8bc9b657352d7",
-    "name": "The Rare Antiquitie",
+    "name": "The Rare Antiquities Token  OLD ",
     "symbol": "RAT",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/18256/thumb/0lIS95w.png?1631152207"
@@ -26165,7 +26181,7 @@
   {
     "chainId": 1,
     "address": "0x67a83b28f6dd8c07301495ee2c6f83b73fd21092",
-    "name": "RealT Token   9309 ",
+    "name": "RealT Token   9309 Courville St  Detroi",
     "symbol": "REALTOKEN-S-9309-CO",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/16686/thumb/9309x-1.jpeg?1624634539"
@@ -26277,7 +26293,7 @@
   {
     "chainId": 1,
     "address": "0x683239a4cab49642c6e025cf81d283f9c87bc07d",
-    "name": "Unicly MoonCats Col",
+    "name": "Unicly MoonCats Collection",
     "symbol": "UMOON",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/15674/thumb/MoonCats.jpg?1621498102"
@@ -26701,6 +26717,14 @@
   },
   {
     "chainId": 1,
+    "name": "ShibaBurn",
+    "address": "0x698072ff23377f474d42483203eded5f49f9579c",
+    "decimals": 9,
+    "symbol": "SHIBURN",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/19014.png"
+  },
+  {
+    "chainId": 1,
     "name": "Aave REN",
     "address": "0x69948cc03f478b95283f7dbf1ce764d0fc7ec54c",
     "decimals": 18,
@@ -26758,7 +26782,7 @@
   {
     "chainId": 1,
     "address": "0x69d1b42b20f3ded07bec322253d0140b04cbb6f5",
-    "name": "RealT Token   1542 ",
+    "name": "RealT Token   1542 S Ridgeway Ave  Chic",
     "symbol": "REALTOKEN-S-1542-SR",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/16628/thumb/1542-S-Ridgeway-hero-2.5.jpg?1624553308"
@@ -27168,7 +27192,7 @@
   {
     "chainId": 1,
     "address": "0x6baa91cd8aa07431760ef2eedfedcef662a6b8b3",
-    "name": "3X Short Exchange T",
+    "name": "3X Short Exchange Token Index Token",
     "symbol": "EXCHBEAR",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/10331/thumb/683JEXMN_400x400_%281%29.png?1578052093"
@@ -27288,7 +27312,7 @@
   {
     "chainId": 1,
     "address": "0x6c22b815904165f3599f0a4a092d458966bd8024",
-    "name": "Bit Public Talent N",
+    "name": "Bit Public Talent Network",
     "symbol": "BPTN",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/8412/thumb/7f346702db390a289f5770f008563173.png?1558077057"
@@ -27593,7 +27617,7 @@
   {
     "chainId": 1,
     "address": "0x6db6d540f5614e6bab7475af3f430f46a0b083e2",
-    "name": "RealT Token   5942 ",
+    "name": "RealT Token   5942 Audubon Rd  Detroit ",
     "symbol": "REALTOKEN-S-5942-AU",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/16699/thumb/5942-Audubon-HERO-2.jpeg?1624641512"
@@ -27889,7 +27913,7 @@
   {
     "chainId": 1,
     "address": "0x6f442da588232dc57bf0096e8de48d6961d5cc83",
-    "name": "RealT Token   13895",
+    "name": "RealT Token   13895 Saratoga St  Detroi",
     "symbol": "REALTOKEN-S-13895-S",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/16599/thumb/13895-Saratoga-hero-1.jpeg?1624541955"
@@ -29053,7 +29077,7 @@
   {
     "chainId": 1,
     "address": "0x73bde888664df8ddfd156b52e6999eeabab57c94",
-    "name": "RealT Token   9717 ",
+    "name": "RealT Token   9717 Everts St  Detroit  ",
     "symbol": "REALTOKEN-S-9717-EV",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/16612/thumb/9717-Everts-hero-1.jpeg?1624546272"
@@ -29149,7 +29173,7 @@
   {
     "chainId": 1,
     "address": "0x741857c07b100c9c0c1272d95845dddc4f1b67cb",
-    "name": "RealT Token   8342 ",
+    "name": "RealT Token   8342 Schaefer Highway  De",
     "symbol": "REALTOKEN-S-8342-SC",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/16700/thumb/Schaefer-1.jpeg?1624642033"
@@ -29390,7 +29414,7 @@
   {
     "chainId": 1,
     "address": "0x750fa12ae51d1515c893c1aaabe2c135937a2c8b",
-    "name": "RealT Token   9465 ",
+    "name": "RealT Token   9465 Beaconsfield St  Det",
     "symbol": "REALTOKEN-S-9465-BE",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/16707/thumb/9465-Beaconsfield-hero-1c.jpeg?1624645510"
@@ -29576,7 +29600,7 @@
   {
     "chainId": 1,
     "address": "0x75f06b482adbfb04b877d8ee683e2fcdf18ad153",
-    "name": "RealT Token   18481",
+    "name": "RealT Token   18481 Westphalia St  Detr",
     "symbol": "REALTOKEN-S-18481-W",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/16633/thumb/18481-Westphalia-hero-1.jpeg?1624554981"
@@ -29776,7 +29800,7 @@
   {
     "chainId": 1,
     "address": "0x76dbeb740ecd1f3b052a9afa302abc7eb4fb5390",
-    "name": "RealT Token   9133 ",
+    "name": "RealT Token   9133 Devonshire Rd  Detro",
     "symbol": "REALTOKEN-S-9133-DE",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/16683/thumb/9133-Devonshire-hero.jpeg?1624632898"
@@ -30443,7 +30467,7 @@
   {
     "chainId": 1,
     "address": "0x79c5a1ae586322a07bfb60be36e1b31ce8c84a1e",
-    "name": "Freight Trust Netwo",
+    "name": "Freight Trust Network",
     "symbol": "EDI",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/11074/thumb/e6YLf6kD_400x400.jpg?1587970897"
@@ -30972,7 +30996,7 @@
   {
     "chainId": 1,
     "address": "0x7c07f7abe10ce8e33dc6c5ad68fe033085256a84",
-    "name": "Interest Compoundin",
+    "name": "Interest Compounding ETH Index",
     "symbol": "ICETH",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/24483/thumb/icETH-token-logo.png?1647826356"
@@ -31132,7 +31156,7 @@
   {
     "chainId": 1,
     "address": "0x7ca62545a380e7d71f8f5cfa14b9211002075930",
-    "name": "GivingToServices SV",
+    "name": "GivingToServices SVS",
     "symbol": "SVS",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/16436/thumb/SVS.png?1624081687"
@@ -31541,7 +31565,7 @@
   {
     "chainId": 1,
     "address": "0x7e95b310724334ff74537dc08bfd3377d25e65ce",
-    "name": "RealT Token   15039",
+    "name": "RealT Token   15039 Ward Ave  Detroit  ",
     "symbol": "REALTOKEN-S-15039-W",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/16632/thumb/15039-Ward-hero-1.jpeg?1624554456"
@@ -31751,7 +31775,7 @@
   {
     "chainId": 1,
     "address": "0x7f940b5509a22e81d29167581bdeea3fa5a0abee",
-    "name": "RealT Token   15784",
+    "name": "RealT Token   15784 Monte Vista St  Det",
     "symbol": "REALTOKEN-S-15784-M",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/16673/thumb/15784-monte-vista-hero-1.jpeg?1624628466"
@@ -31873,7 +31897,7 @@
   {
     "chainId": 1,
     "address": "0x803e78269f7f013b7d13ba13243be10c66418a70",
-    "name": "Node Aggregator Cap",
+    "name": "Node Aggregator Capital",
     "symbol": "NODAC",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/23368/thumb/NODAC_Logo_256_x_256.png?1643954083"
@@ -31897,7 +31921,7 @@
   {
     "chainId": 1,
     "address": "0x804f6baa10615c85e4b4a5bc4efe516d9f7a4365",
-    "name": "RealT Token   13606",
+    "name": "RealT Token   13606 Winthrop St  Detroi",
     "symbol": "REALTOKEN-S-13606-W",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/16667/thumb/13606-Winthrop-hero-1.jpg?1624626772"
@@ -31937,7 +31961,7 @@
   {
     "chainId": 1,
     "address": "0x806690b7a093d2cf6419a515abedb7f28595bc5e",
-    "name": "RealT Token   9169 ",
+    "name": "RealT Token   9169 Boleyn St  Detroit  ",
     "symbol": "REALTOKEN-S-9169-BO",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/16691/thumb/Boleyn-hero.jpeg?1624637832"
@@ -32259,7 +32283,7 @@
   {
     "chainId": 1,
     "address": "0x81f09ed4b98b1c8e99b1fa838b72acb842afe94c",
-    "name": "3X Long PAX Gold To",
+    "name": "3X Long PAX Gold Token",
     "symbol": "PAXGBULL",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/10435/thumb/683JEXMN_400x400.png?1579276663"
@@ -32539,7 +32563,7 @@
   {
     "chainId": 1,
     "address": "0x830b0e9a5ecf36d0a886d21e1c20043cd2d16515",
-    "name": "RealT Token   19201",
+    "name": "RealT Token   19201 Westphalia St  Detr",
     "symbol": "REALTOKEN-S-19201-W",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/16613/thumb/19201-Westphalia-hero-1.jpeg?1624547689"
@@ -33191,7 +33215,7 @@
   {
     "chainId": 1,
     "address": "0x8626b38267e4fc0d8c92e0bb86f97acab3f6aa05",
-    "name": "RealT Token   10604",
+    "name": "RealT Token   10604 Somerset Ave  Detro",
     "symbol": "REALTOKEN-S-10604-S",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/16682/thumb/10604-Somerset-hero-1.jpeg?1624632454"
@@ -33488,7 +33512,7 @@
   {
     "chainId": 1,
     "address": "0x86eb791495be777db763142a2c547d1112554fb8",
-    "name": "3X Short Huobi Toke",
+    "name": "3X Short Huobi Token Token",
     "symbol": "HTBEAR",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/10430/thumb/683JEXMN_400x400.png?1579276187"
@@ -33689,7 +33713,7 @@
   {
     "chainId": 1,
     "address": "0x87a92428bbc876d463c21c8e51b903f127d9a9f4",
-    "name": "Advanced United Con",
+    "name": "Advanced United Continent",
     "symbol": "AUC",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/24369/thumb/200x200.png?1647441606"
@@ -34587,7 +34611,7 @@
   {
     "chainId": 1,
     "address": "0x8a9f904b4ead6a97f3ab304d0d2196f5c602c807",
-    "name": "RealT Token   19311",
+    "name": "RealT Token   19311 Keystone St  Detroi",
     "symbol": "REALTOKEN-S-19311-K",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/16631/thumb/19311-Keystone-hero-1.jpeg?1624554016"
@@ -35036,7 +35060,7 @@
   {
     "chainId": 1,
     "address": "0x8c81121b15197fa0eeaee1dc75533419dcfd3151",
-    "name": "IdleWBTC  Best Yiel",
+    "name": "IdleWBTC  Best Yield ",
     "symbol": "IDLEWBTCYIELD",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/11936/thumb/idlewbtcv3maxyield_32.png?1596263736"
@@ -35084,7 +35108,7 @@
   {
     "chainId": 1,
     "address": "0x8cce19943a01e78b7c277794fb081816f6151bab",
-    "name": "3X Long Tether Toke",
+    "name": "3X Long Tether Token",
     "symbol": "USDTBULL",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/10207/thumb/683JEXMN_400x400_%281%29.png?1576535011"
@@ -35140,7 +35164,7 @@
   {
     "chainId": 1,
     "address": "0x8d1090df790ffafdaccda03015c05df3b4cc9c21",
-    "name": "RealT Token   15753",
+    "name": "RealT Token   15753 Hartwell St  Detroi",
     "symbol": "REALTOKEN-S-15753-H",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/16623/thumb/15753-Hartwell-hero-2.jpg?1624551749"
@@ -35446,7 +35470,7 @@
   {
     "chainId": 1,
     "address": "0x8e45115181f8a01acca317a9af83707649cebfe0",
-    "name": "Incooom Genesis Psy",
+    "name": "Incooom Genesis Psychedelic",
     "symbol": "PCOOOM",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/18987/thumb/pcooom.png?1634111922"
@@ -35806,7 +35830,7 @@
   {
     "chainId": 1,
     "address": "0x8fcb39a25e639c8fbd28e8a018227d6570e02352",
-    "name": "RealT Token   1815 ",
+    "name": "RealT Token   1815 S Avers Ave  Chicago",
     "symbol": "REALTOKEN-S-1815-SA",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/16674/thumb/1815-S-Avers-hero-1.5.jpg?1624628519"
@@ -35822,7 +35846,7 @@
   {
     "chainId": 1,
     "address": "0x8ff72300f6603fd9bb116f2d3206d687eb4b4ea6",
-    "name": "Dragon Land Metaver",
+    "name": "Dragon Land Metaverse",
     "symbol": "DRAGONLAND",
     "decimals": 9,
     "logoURI": "https://assets.coingecko.com/coins/images/21579/thumb/Screenshot-2021-12-14-at-16-25-58.png?1639530736"
@@ -36006,7 +36030,7 @@
   {
     "chainId": 1,
     "address": "0x9077f9e1efe0ea72867ac89046b2a6264cbcaef5",
-    "name": "WhaleStreet  hrimp ",
+    "name": "WhaleStreet  hrimp Token",
     "symbol": "HRIMP",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/17646/thumb/logo_-_2021-08-12T134059.988.png?1628746866"
@@ -36312,7 +36336,7 @@
   {
     "chainId": 1,
     "address": "0x92161385c9de8798ad5fb01c0be99ffcbc84dfd8",
-    "name": "RealT Token   10084",
+    "name": "RealT Token   10084 Grayton St  Detroit",
     "symbol": "REALTOKEN-S-10084-G",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/16693/thumb/Grayton_84_side1x.jpeg?1624638633"
@@ -36488,7 +36512,7 @@
   {
     "chainId": 1,
     "address": "0x92d31e19f88597f368825ba16410f263a844527a",
-    "name": "RealT Token   8181 ",
+    "name": "RealT Token   8181 Bliss St  Detroit  M",
     "symbol": "REALTOKEN-S-8181-BL",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/16566/thumb/8181-Bliss-hero-1.jpg?1624461101"
@@ -37056,11 +37080,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x94e496474f1725f1c1824cb5bdb92d7691a4f03a",
     "name": "Banana",
-    "symbol": "BANANA",
+    "address": "0x94e496474f1725f1c1824cb5bdb92d7691a4f03a",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/17521/thumb/banana-token-cg.png?1646285527"
+    "symbol": "BANANA",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/18998.png"
   },
   {
     "chainId": 1,
@@ -37089,7 +37113,7 @@
   {
     "chainId": 1,
     "address": "0x94fa7f8cb8453ad57cd133363b3012044647078c",
-    "name": "RealT Token   1244 ",
+    "name": "RealT Token   1244 S  Avers St  Chicago",
     "symbol": "REALTOKEN-S-1244-SA",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/16634/thumb/1244-S-Avers-hero-3.jpeg?1624555551"
@@ -37153,7 +37177,7 @@
   {
     "chainId": 1,
     "address": "0x9528a7402c0fe85b817aa6e106eafa03a02924c4",
-    "name": "RealT Token   14231",
+    "name": "RealT Token   14231 Strathmoor St  Detr",
     "symbol": "REALTOKEN-S-14231-S",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/16563/thumb/14231-Strathmoor-hero-1.jpg?1624459471"
@@ -37445,7 +37469,7 @@
   {
     "chainId": 1,
     "address": "0x960efd63ae895f165d874e6cc62501fd0e7dc50a",
-    "name": "3X Short Stellar To",
+    "name": "3X Short Stellar Token",
     "symbol": "XLMBEAR",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/13335/thumb/assets_coingecko_com-ftt.jpg?1607567062"
@@ -37533,7 +37557,7 @@
   {
     "chainId": 1,
     "address": "0x96700ffae33c651bc329c3f3fbfe56e1f291f117",
-    "name": "RealT Token   4380 ",
+    "name": "RealT Token   4380 Beaconsfield St  Det",
     "symbol": "REALTOKEN-S-4380-BE",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/16603/thumb/4380-Beaconsfield-hero-1.jpeg?1624543909"
@@ -37565,7 +37589,7 @@
   {
     "chainId": 1,
     "address": "0x969d42ad7008e6651e1fd52742153f8743225d98",
-    "name": "RealT Token   12409",
+    "name": "RealT Token   12409 Whitehill St  Detro",
     "symbol": "REALTOKEN-S-12409-W",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/16668/thumb/12409-Whitehill-hero-1.jpg?1624627067"
@@ -37886,7 +37910,7 @@
   {
     "chainId": 1,
     "address": "0x9856c5ca15a4ac9c65aac090c38a9f39eb3b5eec",
-    "name": "RealT Token   18273",
+    "name": "RealT Token   18273 Monte Vista St  Det",
     "symbol": "REALTOKEN-S-18273-M",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/16665/thumb/18273-Monte-Vista-hero-1b.jpeg?1624626435"
@@ -37919,7 +37943,7 @@
   {
     "chainId": 1,
     "address": "0x988158213b7d0efce56d4f93fbb501cb7e068e3b",
-    "name": "Spirit Orb Pets Car",
+    "name": "Spirit Orb Pets Care Token",
     "symbol": "CARE",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/19500/thumb/careTokenLogo.png?1635305676"
@@ -37935,7 +37959,7 @@
   {
     "chainId": 1,
     "address": "0x98968f0747e0a261532cacc0be296375f5c08398",
-    "name": "MOONCAT Vault  NFTX",
+    "name": "MOONCAT Vault  NFTX ",
     "symbol": "MOONCAT",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/17055/thumb/Mooncats.png?1626149563"
@@ -37983,7 +38007,7 @@
   {
     "chainId": 1,
     "address": "0x98c36c0e953463bd5146c8783ce081ce1d187acf",
-    "name": "Polyient Games Unit",
+    "name": "Polyient Games Unity",
     "symbol": "PGU",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/13777/thumb/gap1KZNe_400x400.jpg?1611716610"
@@ -38401,7 +38425,7 @@
   {
     "chainId": 1,
     "address": "0x9a99f283e1f6c3b7f24901995624ef7b78e94471",
-    "name": "RealT Token  18466 ",
+    "name": "RealT Token  18466 Fielding St  Detroit",
     "symbol": "REALTOKEN-S-18466-F",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/16663/thumb/18466-Fielding-hero-1.jpeg?1624625063"
@@ -38449,7 +38473,7 @@
   {
     "chainId": 1,
     "address": "0x9ac07635ddbde5db18648c360defb00f5f22537e",
-    "name": "Museum of Crypto Ar",
+    "name": "Museum of Crypto Art",
     "symbol": "MOCA",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/15829/thumb/photo_2021-06-04_09.36.16.jpeg?1622770606"
@@ -38674,7 +38698,7 @@
   {
     "chainId": 1,
     "address": "0x9b5b4886033b4abc5eb0552fff7c15a67c3c47c7",
-    "name": "RealT Token   11300",
+    "name": "RealT Token   11300 Roxbury St  Detroit",
     "symbol": "REALTOKEN-S-11300-R",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/16610/thumb/11300-Roxbury-hero-1.jpg?1624545386"
@@ -39155,7 +39179,7 @@
   {
     "chainId": 1,
     "address": "0x9d409a0a012cfba9b15f6d4b36ac57a46966ab9a",
-    "name": "Yearn Compounding v",
+    "name": "Yearn Compounding veCRV yVault",
     "symbol": "YVBOOST",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/15152/thumb/yvBOOST.png?1619978216"
@@ -39283,7 +39307,7 @@
   {
     "chainId": 1,
     "address": "0x9d918ee39a356be8ef99734599c7e70160db4db6",
-    "name": "RealT Token   12405",
+    "name": "RealT Token   12405 Santa Rosa Dr  Detr",
     "symbol": "REALTOKEN-S-12405-S",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/16671/thumb/12405-Santa-Rosa-hero-1.jpg?1624627801"
@@ -39516,7 +39540,7 @@
   {
     "chainId": 1,
     "address": "0x9eb90ec3faafc22092c9b91559fddde538042093",
-    "name": "RealT Token   18900",
+    "name": "RealT Token   18900 Mansfield St  Detro",
     "symbol": "REALTOKEN-S-18900-M",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/16697/thumb/18900-Mansfield-flowers.jpeg?1624640555"
@@ -39791,7 +39815,7 @@
   {
     "chainId": 1,
     "address": "0x9f923653a19537b5a1b003854a1920fe67a8ffeb",
-    "name": "RealT Token   13114",
+    "name": "RealT Token   13114 Glenfield Ave  Detr",
     "symbol": "REALTOKEN-S-13114-G",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/16678/thumb/13114-Glenfield-Ave.jpeg?1624629523"
@@ -39879,7 +39903,7 @@
   {
     "chainId": 1,
     "address": "0x9fef44fc4c571010bccd5b63e1cdc807d3b347bf",
-    "name": "RealT Token  15095 ",
+    "name": "RealT Token  15095 Hartwell St  Detroit",
     "symbol": "REALTOKEN-S-15095-H",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/16664/thumb/15095-Hartwell-hero-1.jpeg?1624625590"
@@ -40184,7 +40208,7 @@
   {
     "chainId": 1,
     "address": "0xa1116930326d21fb917d5a27f1e9943a9595fb47",
-    "name": "Staked Aave Balance",
+    "name": "Staked Aave Balancer Pool Token",
     "symbol": "STKABPT",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/16789/thumb/StkABPT_2x.png?1625046066"
@@ -40256,7 +40280,7 @@
   {
     "chainId": 1,
     "address": "0xa137d82197ea4cdfd5f008a91ba816b8324f59e1",
-    "name": "RealT Token   5601 ",
+    "name": "RealT Token   5601 S Wood St  Chicago  ",
     "symbol": "REALTOKEN-S-5601-SW",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/16605/thumb/5601-S-Wood-hero-1.jpg?1624544382"
@@ -40288,7 +40312,7 @@
   {
     "chainId": 1,
     "address": "0xa14ea0e11121e6e951e87c66afe460a00bcd6a16",
-    "name": "IdleDAI  Risk Adjus",
+    "name": "IdleDAI  Risk Adjusted ",
     "symbol": "IDLEDAISAFE",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/11929/thumb/idledai-safe.png?1596263241"
@@ -40448,7 +40472,7 @@
   {
     "chainId": 1,
     "address": "0xa1ea9aa32cbba8c203ddc510a144ad1f439d436c",
-    "name": "MetaPortal Gaming I",
+    "name": "MetaPortal Gaming Index",
     "symbol": "GAME",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/24071/thumb/GAME.Logo.png?1646216027"
@@ -40632,7 +40656,7 @@
   {
     "chainId": 1,
     "address": "0xa29ae272bc89e5f315b2793925f700045f845d82",
-    "name": "RealT Token   581 5",
+    "name": "RealT Token   581 587 Jefferson Ave  Ro",
     "symbol": "REALTOKEN-S-581-587",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/16637/thumb/571-jefferson-corner-1.1.jpg?1624557964"
@@ -40664,7 +40688,7 @@
   {
     "chainId": 1,
     "address": "0xa2b2ae397492c7ed8a4c1e751ac72d2b59947e6b",
-    "name": "RealT Token   9920 ",
+    "name": "RealT Token   9920 Bishop St  Detroit  ",
     "symbol": "REALTOKEN-S-9920-BI",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/16615/thumb/9920-Bishop-hero-1.jpg?1624549554"
@@ -40857,7 +40881,7 @@
   {
     "chainId": 1,
     "address": "0xa3bed4e1c75d00fa6f4e5e6922db7261b5e9acd2",
-    "name": "mStable Governance ",
+    "name": "mStable Governance Token  Meta",
     "symbol": "MTA",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/11846/thumb/mStable.png?1594950533"
@@ -41347,7 +41371,7 @@
   {
     "chainId": 1,
     "address": "0xa5ddfca8b837ccd0cf80fe6c24e2a9018fb50dba",
-    "name": "3X Short BiLira Tok",
+    "name": "3X Short BiLira Token",
     "symbol": "TRYBBEAR",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/10451/thumb/683JEXMN_400x400.png?1579561868"
@@ -41540,7 +41564,7 @@
   {
     "chainId": 1,
     "address": "0xa68b7779504b0ae372ddcc109f8786db9b91e93e",
-    "name": "RealT Token   4340 ",
+    "name": "RealT Token   4340 East 71  Cleveland  ",
     "symbol": "REALTOKEN-S-4340-EA",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/16681/thumb/4340-East-71-front.jpeg?1624631910"
@@ -41564,7 +41588,7 @@
   {
     "chainId": 1,
     "address": "0xa69d7d4ddf397f3d1e7ebaf108555d1107b3b117",
-    "name": "RealT Token   9166 ",
+    "name": "RealT Token   9166 Devonshire Rd  Detro",
     "symbol": "REALTOKEN-S-9166-DE",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/16690/thumb/Devonshire-3x.jpeg?1624636640"
@@ -41838,7 +41862,7 @@
   {
     "chainId": 1,
     "address": "0xa80f2c8f61c56546001f5fc2eb8d6e4e72c45d4c",
-    "name": "Unique Utility Toke",
+    "name": "Unique Utility Token",
     "symbol": "UNQT",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/23382/thumb/D31DBA6B-FB7E-4ACB-82B4-98E255C1C483.jpg?1643962784"
@@ -41846,7 +41870,7 @@
   {
     "chainId": 1,
     "address": "0xa81f77e8988b28fb74243b907ace3c83353dc80a",
-    "name": "RealT Token   15634",
+    "name": "RealT Token   15634 Liberal St  Detroit",
     "symbol": "REALTOKEN-S-15634-L",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/16703/thumb/Liberal-1.png?1624643634"
@@ -42318,7 +42342,7 @@
   {
     "chainId": 1,
     "address": "0xa9f30c907321718e655b74463ca665b690b78894",
-    "name": "RealT Token   15860",
+    "name": "RealT Token   15860 Hartwell St  Detroi",
     "symbol": "REALTOKEN-S-15860-H",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/16595/thumb/15860-Hartwell-hero-1.jpg?1624540454"
@@ -42671,11 +42695,11 @@
   },
   {
     "chainId": 1,
-    "address": "0xab2a7b5876d707e0126b3a75ef7781c77c8877ee",
     "name": "Quadency",
-    "symbol": "QUAD",
+    "address": "0xab2a7b5876d707e0126b3a75ef7781c77c8877ee",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/21364/thumb/GkMXE_7A_400x400.png?1639014399"
+    "symbol": "QUAD",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/18997.png"
   },
   {
     "chainId": 1,
@@ -43225,7 +43249,7 @@
   {
     "chainId": 1,
     "address": "0xad91999f534f4075b00ba4231c018e57bdebb342",
-    "name": "RealT Token   18983",
+    "name": "RealT Token   18983 Alcoy Ave  Detroit ",
     "symbol": "REALTOKEN-S-18983-A",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/16619/thumb/18983-Alcoy-hero-1.jpg?1624550570"
@@ -43328,6 +43352,14 @@
   },
   {
     "chainId": 1,
+    "name": "Adalend",
+    "address": "0xae1107fc7cef1294f09185ac475c9886527dcd8a",
+    "decimals": 18,
+    "symbol": "ADAL",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/19012.png"
+  },
+  {
+    "chainId": 1,
     "name": "MY Ceremonial Event",
     "address": "0xae11b5be5f732ca8e402fac3613930d7f1778202",
     "decimals": 18,
@@ -43353,7 +43385,7 @@
   {
     "chainId": 1,
     "address": "0xae1eaae3f627aaca434127644371b67b18444051",
-    "name": "Yield Optimization ",
+    "name": "Yield Optimization Platform   Protocol",
     "symbol": "YOP",
     "decimals": 8,
     "logoURI": "https://assets.coingecko.com/coins/images/13678/thumb/J7zykPx.jpg?1610802162"
@@ -43882,7 +43914,7 @@
   {
     "chainId": 1,
     "address": "0xb09850e2b93aa3aaa1476bf0c007cfc960e2de79",
-    "name": "RealT Token   14229",
+    "name": "RealT Token   14229 Wilshire Dr  Detroi",
     "symbol": "REALTOKEN-S-14229-W",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/16604/thumb/14229-Wilshire-hero-1.jpg?1624543967"
@@ -44555,7 +44587,7 @@
   {
     "chainId": 1,
     "address": "0xb3d3c1bbcef737204aadb4fa6d90e974bc262197",
-    "name": "RealT Token   15796",
+    "name": "RealT Token   15796 Hartwell St  Detroi",
     "symbol": "REALTOKEN-S-15796-H",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/16607/thumb/15796-Hartwell-hero-1.jpeg?1624545151"
@@ -45012,7 +45044,7 @@
   {
     "chainId": 1,
     "address": "0xb5d30c28f87acf675ed5b9f343e5fff39ec9942c",
-    "name": "RealT Token  10024 ",
+    "name": "RealT Token  10024 10028 Appoline St  D",
     "symbol": "REALTOKEN-S-10024-1",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/16639/thumb/appoline-hero.jpeg?1624559019"
@@ -45028,7 +45060,7 @@
   {
     "chainId": 1,
     "address": "0xb5dd2b6e0a0422e069e1d2cc3ed16533488a05e3",
-    "name": "RealT Token   12866",
+    "name": "RealT Token   12866 Lauder St  Detroit ",
     "symbol": "REALTOKEN-S-12866-L",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/16565/thumb/12866-Lauder-hero-1.jpg?1624460677"
@@ -45420,7 +45452,7 @@
   {
     "chainId": 1,
     "address": "0xb8403b7730368942a5bfe5aac04a31b44015b1cc",
-    "name": "RealT Token   11078",
+    "name": "RealT Token   11078 Wayburn St  Detroit",
     "symbol": "REALTOKEN-S-11078-W",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/16596/thumb/11078-Wayburn-hero-1.jpg?1624541135"
@@ -45518,7 +45550,7 @@
   {
     "chainId": 1,
     "address": "0xb8db81b84d30e2387de0ff330420a4aaa6688134",
-    "name": "Aave AMM UniLINKWET",
+    "name": "Aave AMM UniLINKWETH",
     "symbol": "AAMMUNILINKWETH",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/17221/thumb/aAmmUniLINKWETH.png?1626879669"
@@ -45578,6 +45610,14 @@
     "decimals": 18,
     "symbol": "SNIPE",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/18711.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xb90cb79b72eb10c39cbdf86e50b1c89f6a235f2e",
+    "name": "Auditchain",
+    "symbol": "AUDT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/6398/thumb/auditchain.png?1547042519"
   },
   {
     "chainId": 1,
@@ -45775,7 +45815,7 @@
   {
     "chainId": 1,
     "address": "0xb9ffe0b8ee2d1af94202ffed366520300748a4d8",
-    "name": "ETH BTC EMA Ratio T",
+    "name": "ETH BTC EMA Ratio Trading Set",
     "symbol": "ETHBTCEMACO",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/10607/thumb/ethbtc-ema-ratio-set.png?1580970846"
@@ -45791,7 +45831,7 @@
   {
     "chainId": 1,
     "address": "0xba07997f594a52df179620284b52b50a4e66227d",
-    "name": "RealT Token   17809",
+    "name": "RealT Token   17809 Charest St  Detroit",
     "symbol": "REALTOKEN-S-17809-C",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/16601/thumb/17809-Charest-hero-1.jpg?1624543227"
@@ -47922,7 +47962,7 @@
   {
     "chainId": 1,
     "address": "0xc278041fdd8249fe4c1aad1193876857eea3d68c",
-    "name": "IdleTUSD  Best Yiel",
+    "name": "IdleTUSD  Best Yield ",
     "symbol": "IDLETUSDYIELD",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/11935/thumb/idletusdv3mMaxyield_32.png?1596263719"
@@ -48348,7 +48388,7 @@
   {
     "chainId": 1,
     "address": "0xc4bb7277a74678f053259cb1f96140347efbfd46",
-    "name": "Coin of the champio",
+    "name": "Coin of the champions",
     "symbol": "COC",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/18478/thumb/COC-Yellow-Transparent-1.png?1632148454"
@@ -48404,7 +48444,7 @@
   {
     "chainId": 1,
     "address": "0xc4e15973e6ff2a35cc804c2cf9d2a1b817a8b40f",
-    "name": "Interest Bearing Bi",
+    "name": "Interest Bearing Bitcoin",
     "symbol": "IBBTC",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/15500/thumb/ibbtc.png?1621077589"
@@ -48476,7 +48516,7 @@
   {
     "chainId": 1,
     "address": "0xc53342fd7575f572b0ff4569e31941a5b821ac76",
-    "name": "Ethereum Volatility",
+    "name": "Ethereum Volatility Index Token",
     "symbol": "ETHV",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/16716/thumb/logo_-_2021-06-28T092549.772.png?1624843558"
@@ -48605,7 +48645,7 @@
   {
     "chainId": 1,
     "address": "0xc58f53a8adff2fb4eb16ed56635772075e2ee123",
-    "name": "Aave AMM UniWBTCWET",
+    "name": "Aave AMM UniWBTCWETH",
     "symbol": "AAMMUNIWBTCWETH",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/17231/thumb/aAmmUniWBTCWETH.png?1626921113"
@@ -48902,7 +48942,7 @@
   {
     "chainId": 1,
     "address": "0xc7038ccf60e48c5b7119e55566a6ad9f2d66c7c2",
-    "name": "3X Long BiLira Toke",
+    "name": "3X Long BiLira Token",
     "symbol": "TRYBBULL",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/10449/thumb/683JEXMN_400x400.png?1579561683"
@@ -48966,7 +49006,7 @@
   {
     "chainId": 1,
     "address": "0xc731eca970979cd2da2a1094a808f49894070d35",
-    "name": "RealT Token   19218",
+    "name": "RealT Token   19218 Houghton St  Detroi",
     "symbol": "REALTOKEN-S-19218-H",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/16708/thumb/19218-Houghton-hero-1.jpeg?1624646592"
@@ -49175,7 +49215,7 @@
   {
     "chainId": 1,
     "address": "0xc82abb524257c8ee4790bfdefb452b2d6a395e21",
-    "name": "3X Short Midcap Ind",
+    "name": "3X Short Midcap Index Token",
     "symbol": "MIDBEAR",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/10330/thumb/683JEXMN_400x400_%281%29.png?1578051961"
@@ -49582,6 +49622,14 @@
   },
   {
     "chainId": 1,
+    "name": "Hackerlabs DAO",
+    "address": "0xca1308e38340c69e848061aa2c3880daeb958187",
+    "decimals": 9,
+    "symbol": "HLD",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/18988.png"
+  },
+  {
+    "chainId": 1,
     "name": "YGGDRASH",
     "address": "0xca2796f9f61dc7b238aab043971e49c6164df375",
     "decimals": 18,
@@ -49591,7 +49639,7 @@
   {
     "chainId": 1,
     "address": "0xca3dacd350818d6a93df4adb4517db5b4ab791bb",
-    "name": "Enhanced Liquidity ",
+    "name": "Enhanced Liquidity Konstrukt",
     "symbol": "ELK",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/22780/thumb/Untitled-design-p-500.png?1642578931"
@@ -50115,7 +50163,7 @@
   {
     "chainId": 1,
     "address": "0xcc394f10545aeef24483d2347b32a34a44f20e6f",
-    "name": "Vault Guardian Toke",
+    "name": "Vault Guardian Token",
     "symbol": "VGT",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/4652/thumb/Vault12.jpg?1547039918"
@@ -50243,7 +50291,7 @@
   {
     "chainId": 1,
     "address": "0xcccf837f40d334f8602f031e64b52ad4cd2b6601",
-    "name": "Unicly Fewocious Co",
+    "name": "Unicly Fewocious Collection",
     "symbol": "UFEWO",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/16387/thumb/uFEWO.png?1623894677"
@@ -50556,7 +50604,7 @@
   {
     "chainId": 1,
     "address": "0xce111a198eb04f388aceb78c40ced6daf1b0514a",
-    "name": "RealT Token   272 N",
+    "name": "RealT Token   272 N E  42nd Court  Deer",
     "symbol": "REALTOKEN-S-272-NE-",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/16635/thumb/272-Court-1.jpeg?1624556789"
@@ -50621,7 +50669,7 @@
   {
     "chainId": 1,
     "address": "0xce4a410b06fc6f6728994a43789ca1b5e288d21c",
-    "name": "Platform for Underp",
+    "name": "Platform for Underpaid Female Athletes",
     "symbol": "PUFA",
     "decimals": 9,
     "logoURI": "https://assets.coingecko.com/coins/images/23991/thumb/pufa.png?1645950004"
@@ -50767,7 +50815,7 @@
   {
     "chainId": 1,
     "address": "0xcf282ba0bc91d2aa6e775bcfd90da6b7912f1b1a",
-    "name": "Yearn Ethereum Fina",
+    "name": "Yearn Ethereum Finance",
     "symbol": "YEFI",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/13501/thumb/yefi-logo.png?1609195663"
@@ -50990,6 +51038,14 @@
   },
   {
     "chainId": 1,
+    "name": "Confetti",
+    "address": "0xcfef8857e9c80e3440a823971420f7fa5f62f020",
+    "decimals": 18,
+    "symbol": "CFTI",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/19010.png"
+  },
+  {
+    "chainId": 1,
     "address": "0xcff20ce22e71ecf2ea89c86ecbd4a3cf513768c7",
     "name": "Makes",
     "symbol": "MKS",
@@ -51071,7 +51127,7 @@
   {
     "chainId": 1,
     "address": "0xd059c8a4c7f53c4352d933b059349ba492294ac9",
-    "name": "Apple Protocol Toke",
+    "name": "Apple Protocol Token",
     "symbol": "AAPL",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/13208/thumb/aapl.png?1606200126"
@@ -51144,7 +51200,7 @@
   {
     "chainId": 1,
     "address": "0xd08d2b199e9e5df407427d4085877d1fdff3b1d6",
-    "name": "RealT Token   6923 ",
+    "name": "RealT Token   6923 Greenview Ave  Detro",
     "symbol": "REALTOKEN-S-6923-GR",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/16676/thumb/6923-Greenview.jpeg?1624629085"
@@ -51200,7 +51256,7 @@
   {
     "chainId": 1,
     "address": "0xd0c64d6c0e9aa53fffd8b80313e035f7b83083f3",
-    "name": "1X Short Litecoin T",
+    "name": "1X Short Litecoin Token",
     "symbol": "LTCHEDGE",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/10230/thumb/683JEXMN_400x400_%281%29.png?1576618594"
@@ -51368,7 +51424,7 @@
   {
     "chainId": 1,
     "address": "0xd1b85220d8b31c6d57a551f68bda54d8957b6b53",
-    "name": "Bengals   Super Bow",
+    "name": "Bengals   Super Bowl",
     "symbol": "PBENGALS",
     "decimals": 6,
     "logoURI": "https://assets.coingecko.com/coins/images/23580/thumb/bengals.PNG?1644545211"
@@ -51384,7 +51440,7 @@
   {
     "chainId": 1,
     "address": "0xd1c15cebfdcd16f00d91666bf64c8b66cbf5e9b5",
-    "name": "RealT Token   10612",
+    "name": "RealT Token   10612 Somerset Ave  Detro",
     "symbol": "REALTOKEN-S-10612-S",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/16680/thumb/Somerset-3.jpeg?1624630432"
@@ -52453,7 +52509,7 @@
   {
     "chainId": 1,
     "address": "0xd5d1adf54fbf73a00b197ddcfdad7cc27d93002f",
-    "name": "RealT Token   10629",
+    "name": "RealT Token   10629 McKinney St  Detroi",
     "symbol": "REALTOKEN-S-10629-M",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/16611/thumb/10629-McKinney-hero-1.jpg?1624545790"
@@ -52509,7 +52565,7 @@
   {
     "chainId": 1,
     "address": "0xd5fc0c4c4c5ff316e1e91494d963ff1d52ba25ff",
-    "name": "RealT Token   11078",
+    "name": "RealT Token   11078 Longview St  Detroi",
     "symbol": "REALTOKEN-S-11078-L",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/16630/thumb/11078-Longview-hero-2.5.jpg?1624553559"
@@ -53392,7 +53448,7 @@
   {
     "chainId": 1,
     "address": "0xd9e89bfebae447b42c1fa85c590716ec8820f737",
-    "name": "RealT Token   4061 ",
+    "name": "RealT Token   4061 Grand St  Detroit  M",
     "symbol": "REALTOKEN-S-4061-GR",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/16616/thumb/4061-Grand-hero-1.jpeg?1624551866"
@@ -53496,7 +53552,7 @@
   {
     "chainId": 1,
     "address": "0xda47bd33e8f5d17bb81b8752784bfb46c1c44b2a",
-    "name": "RealT Token   15350",
+    "name": "RealT Token   15350 Greydale St  Detroi",
     "symbol": "REALTOKEN-S-15350-G",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/16564/thumb/15350-Greydale-hero-1.jpg?1624460101"
@@ -54138,7 +54194,7 @@
   {
     "chainId": 1,
     "address": "0xdd833d0eef6d5d7cec781b03c19f3b425f3039df",
-    "name": "RealT Token   11957",
+    "name": "RealT Token   11957 Olga St  Detroit  M",
     "symbol": "REALTOKEN-S-11957-O",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/16672/thumb/11957-Olga-hero-1.jpg?1624628071"
@@ -55334,7 +55390,7 @@
   {
     "chainId": 1,
     "address": "0xe255caf8893382465368b8e1cd4ef8436acf0ade",
-    "name": "RealT Token   402 S",
+    "name": "RealT Token   402 S Kostner Ave  Chicag",
     "symbol": "REALTOKEN-S-402-SKO",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/16627/thumb/402-S-Kostner-hero-1.jpg?1624553033"
@@ -55430,7 +55486,7 @@
   {
     "chainId": 1,
     "address": "0xe2d8f9557fd46ad134c8fb5eabf6f4da3e0d3f68",
-    "name": "ETHBTC 2x Long Toke",
+    "name": "ETHBTC 2x Long Token",
     "symbol": "ETHBTCMOON",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/20046/thumb/beverage-ethbtc.png?1636426369"
@@ -55679,7 +55735,7 @@
   {
     "chainId": 1,
     "address": "0xe45fc4290fd3159588f532058592ea327d2e97d4",
-    "name": "Alliance Cargo Dire",
+    "name": "Alliance Cargo Direct",
     "symbol": "ACD",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/7694/thumb/1620803690979049473.png?1549612872"
@@ -55784,7 +55840,7 @@
   {
     "chainId": 1,
     "address": "0xe4b5936dce1820f84509c89cce0f28c87988bad8",
-    "name": "Universe Finance To",
+    "name": "Universe Finance Token",
     "symbol": "UNT",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/22676/thumb/1_hMcINXnC7TdqS0TI8_FLmg.png?1642406474"
@@ -56008,7 +56064,7 @@
   {
     "chainId": 1,
     "address": "0xe5867608b51a2c9c78b9587355cc093140a49b0a",
-    "name": "Speed Mining Servic",
+    "name": "Speed Mining Service",
     "symbol": "SMS",
     "decimals": 3,
     "logoURI": "https://assets.coingecko.com/coins/images/1807/thumb/speed-mining-service.png?1548610827"
@@ -56024,7 +56080,7 @@
   {
     "chainId": 1,
     "address": "0xe59d2ff6995a926a574390824a657eed36801e55",
-    "name": "Aave AMM UniAAVEWET",
+    "name": "Aave AMM UniAAVEWETH",
     "symbol": "AAMMUNIAAVEWETH",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/17232/thumb/aAmmUniAAVEWETH.png?1626921301"
@@ -56096,7 +56152,7 @@
   {
     "chainId": 1,
     "address": "0xe5ce63ac9a08c1eb160889151cd84855f16c94d2",
-    "name": "RealT Token   10616",
+    "name": "RealT Token   10616 McKinney St  Detroi",
     "symbol": "REALTOKEN-S-10616-M",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/16685/thumb/Mkinney-hero.jpeg?1624634131"
@@ -56546,7 +56602,7 @@
   {
     "chainId": 1,
     "address": "0xe7b6de709ffc3bd237c2f2c800e1002f97a760f3",
-    "name": "RealT Token   4852 ",
+    "name": "RealT Token   4852 4854 W Cortez St  Ch",
     "symbol": "REALTOKEN-S-4852-48",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/16670/thumb/Cortez-facade-1.jpg?1624627398"
@@ -56714,7 +56770,7 @@
   {
     "chainId": 1,
     "address": "0xe82cbb7c29d00a4296ee505d12a473c26cd9c423",
-    "name": "RealT Token   10700",
+    "name": "RealT Token   10700 Whittier Ave  Detro",
     "symbol": "REALTOKEN-S-10700-W",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/16625/thumb/10700-Whittier-hero-2.jpg?1624552489"
@@ -56786,7 +56842,7 @@
   {
     "chainId": 1,
     "address": "0xe887dc4fcb5240c0c080aeab8870421d3ebd0b28",
-    "name": "RealT Token   14066",
+    "name": "RealT Token   14066 Santa Rosa Dr  Detr",
     "symbol": "REALTOKEN-S-14066-S",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/16677/thumb/14066-Santa-Rosa-hero-1.5.jpg?1624629250"
@@ -56898,10 +56954,10 @@
   },
   {
     "chainId": 1,
-    "name": "KnoxEdge Market",
+    "name": "KnoxDAO",
     "address": "0xe93a27d4ed64f44a2b356d78c06115e5c9d97da0",
     "decimals": 18,
-    "symbol": "KNX",
+    "symbol": "KNOX",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/13197.png"
   },
   {
@@ -57011,7 +57067,7 @@
   {
     "chainId": 1,
     "address": "0xe9da9abf3e6fa6a5d3b2bb05a8d17907c1c4a0c3",
-    "name": "Fear Uncertainty Do",
+    "name": "Fear Uncertainty Doubt",
     "symbol": "FUD",
     "decimals": 9,
     "logoURI": "https://assets.coingecko.com/coins/images/20261/thumb/vMT2nGU.png?1636702977"
@@ -57639,7 +57695,7 @@
   {
     "chainId": 1,
     "address": "0xec7d3e835da3f6118079fa9a236b267d044fd7ca",
-    "name": "Crypto Rewards Stud",
+    "name": "Crypto Rewards Studio",
     "symbol": "CRS",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/13252/thumb/Circle_%28JPG%29.jpg?1612947294"
@@ -57959,7 +58015,7 @@
   {
     "chainId": 1,
     "address": "0xee06a81a695750e71a662b51066f2c74cf4478a0",
-    "name": "Decentral Games  Ol",
+    "name": "Decentral Games  Old ",
     "symbol": "DG",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/13267/thumb/%28Old%29_DG.png?1639209538"
@@ -57991,7 +58047,7 @@
   {
     "chainId": 1,
     "address": "0xee2f2212a64ec3f6bc0f7580e10c53cb38b57508",
-    "name": "RealT Token   12334",
+    "name": "RealT Token   12334 Lansdowne Street  D",
     "symbol": "REALTOKEN-S-12334-L",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/16692/thumb/Landsdowne-hero.jpeg?1624638212"
@@ -58167,7 +58223,7 @@
   {
     "chainId": 1,
     "address": "0xeedc2f5f4d1226759b1acf9efa23a99661de6663",
-    "name": "RealT Token   20200",
+    "name": "RealT Token   20200 Lesure St  Detroit ",
     "symbol": "REALTOKEN-S-20200-L",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/16702/thumb/20200-Lesure-003.jpeg?1624643190"
@@ -58472,7 +58528,7 @@
   {
     "chainId": 1,
     "address": "0xefe82d6baf0db71f92889eb9d00721bd49121316",
-    "name": "RealT Token   4680 ",
+    "name": "RealT Token   4680 Buckingham Ave  Detr",
     "symbol": "REALTOKEN-S-4680-BU",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/16629/thumb/4680-Buckingham-hero-1.jpeg?1624553513"
@@ -58913,7 +58969,7 @@
   {
     "chainId": 1,
     "address": "0xf18cffb528eca0ea31d1d6b28bc80d2eca34d14d",
-    "name": "RealT Token   25097",
+    "name": "RealT Token   25097 Andover Dr  Dearbor",
     "symbol": "REALTOKEN-S-25097-A",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/16698/thumb/Andover-25097.jpeg?1624641026"
@@ -59065,7 +59121,7 @@
   {
     "chainId": 1,
     "address": "0xf23b80216a10e6f0c0d3b5ad5c9349e9425cad40",
-    "name": "RealT Token   15778",
+    "name": "RealT Token   15778 Manor St  Detroit  ",
     "symbol": "REALTOKEN-S-15778-M",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/16689/thumb/15778-manor-hero-2.jpeg?1624636173"
@@ -59270,6 +59326,14 @@
     "decimals": 18,
     "symbol": "INU",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/10900.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xf32f8dba0d248168351bbcb7df53e881441d084b",
+    "name": "Gamepad",
+    "symbol": "GPAD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/24540/thumb/GP-logo-whitebg.png?1648073843"
   },
   {
     "chainId": 1,
@@ -59603,7 +59667,7 @@
   {
     "chainId": 1,
     "address": "0xf4657ab08681214bcb1893aa8e9c7613459250ec",
-    "name": "RealT Token   1617 ",
+    "name": "RealT Token   1617 S Avers Ave  Chicago",
     "symbol": "REALTOKEN-S-1617-SA",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/16675/thumb/1617-S-Avers-hero-1.jpg?1624628860"
@@ -61024,7 +61088,7 @@
   {
     "chainId": 1,
     "address": "0xfa18cbc7e4a18cf42887b078cede36ed75c20946",
-    "name": "Kentucky Farm Capit",
+    "name": "Kentucky Farm Capital",
     "symbol": "KFC",
     "decimals": 9,
     "logoURI": "https://assets.coingecko.com/coins/images/20891/thumb/kfclogo.jpg?1637845829"
@@ -61858,7 +61922,7 @@
   {
     "chainId": 1,
     "address": "0xfe17c3c0b6f38cf3bd8ba872bee7a18ab16b43fb",
-    "name": "RealT Token   15777",
+    "name": "RealT Token   15777 Ardmore St  Detroit",
     "symbol": "REALTOKEN-S-15777-A",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/16542/thumb/15777-Ardmore-hero-2.jpg?1624371814"
@@ -61882,7 +61946,7 @@
   {
     "chainId": 1,
     "address": "0xfe2a5b942083d92135c7fe364bb75218e547cc62",
-    "name": "BAYC History  The G",
+    "name": "BAYC History  The Great Floor Sweep",
     "symbol": "SWEEP",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/18017/thumb/bayc.png?1630251628"
