@@ -1450,6 +1450,15 @@
   },
   {
     "chainId": 1,
+    "address": "0x054b7ed3f45714d3091e82aad64a1588dc4096ed",
+    "symbol": "crHBTC",
+    "name": "Cream Huobi BTC",
+    "decimals": 8,
+    "logoURI": "ipfs://QmP8LinT9zSNyDRb8moKUjmrcE1UKjTdC8tZQfjZvyyq3h",
+    "tags": []
+  },
+  {
+    "chainId": 1,
     "name": "FUTURECOIN",
     "address": "0x054c27360406e1ab6ba9ee991f044db8916699e3",
     "decimals": 18,
@@ -2733,6 +2742,14 @@
   },
   {
     "chainId": 1,
+    "name": "Damex Token",
+    "address": "0x0ac7b3733cbee5d87a80fbf331f4a0bd01f17386",
+    "decimals": 18,
+    "symbol": "DAMEX",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/19069.png"
+  },
+  {
+    "chainId": 1,
     "name": "Invest Like Stakeborg Index",
     "address": "0x0acc0fee1d86d2cd5af372615bf59b298d50cd69",
     "decimals": 18,
@@ -4002,7 +4019,7 @@
   {
     "chainId": 1,
     "address": "0x0f9a4ea78ba7c8a2b6284c97ba7895c7d2d0726d",
-    "name": "United Dao",
+    "name": "United DAO",
     "symbol": "UTD",
     "decimals": 9,
     "logoURI": "https://assets.coingecko.com/coins/images/24537/thumb/XZUrkhqW_400x400.jpg?1648058275"
@@ -4748,7 +4765,7 @@
   },
   {
     "chainId": 1,
-    "name": "Howdoo",
+    "name": "Hyprr",
     "address": "0x12f649a9e821f90bb143089a6e56846945892ffb",
     "decimals": 18,
     "symbol": "UDOO",
@@ -15523,6 +15540,15 @@
   },
   {
     "chainId": 1,
+    "address": "0x3c5df3077bcf800640b5dae8c91106575a4826e6",
+    "symbol": "yvCurve-pBTC",
+    "name": "Curve pBTC Pool yVault",
+    "decimals": 18,
+    "logoURI": "ipfs://QmViSaNPnjKnGxQtbdv1vqj2MZThR8MxU3NZJHMucSr5GX",
+    "tags": []
+  },
+  {
+    "chainId": 1,
     "name": "Cajutel",
     "address": "0x3c6a7ab47b5f058be0e7c7fe1a4b7925b8aca40e",
     "decimals": 18,
@@ -24048,11 +24074,11 @@
   },
   {
     "chainId": 1,
+    "name": "DeFiHelper",
     "address": "0x5f2080542ab6ae7e0b06778f0b2d263006297840",
-    "name": "DeFiHelper Governance Token",
-    "symbol": "DFH",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/20270/thumb/dfh-d-ava-main-cgb.png?1636706501"
+    "symbol": "DFH",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/19057.png"
   },
   {
     "chainId": 1,
@@ -25545,6 +25571,14 @@
     "decimals": 18,
     "symbol": "EFI",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/8985.png"
+  },
+  {
+    "chainId": 1,
+    "name": "UNIUM",
+    "address": "0x6570ffe19da7e2b425329b157d9109b87f18304b",
+    "decimals": 18,
+    "symbol": "UNM",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/19062.png"
   },
   {
     "chainId": 1,
@@ -41177,6 +41211,14 @@
   },
   {
     "chainId": 1,
+    "address": "0xa4e27ea37d18bb0f483779f9e75a6024efa5e73e",
+    "name": "Monastery Finance",
+    "symbol": "MONK",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/24563/thumb/s0vLTcH.png?1648189796"
+  },
+  {
+    "chainId": 1,
     "name": "THIS",
     "address": "0xa4e3aec813451a9b06b1cb8eb2a9f6100a68e950",
     "decimals": 9,
@@ -42824,6 +42866,14 @@
   },
   {
     "chainId": 1,
+    "name": "Paladin",
+    "address": "0xab846fb6c81370327e784ae7cbb6d6a6af6ff4bf",
+    "decimals": 18,
+    "symbol": "PAL",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/19072.png"
+  },
+  {
+    "chainId": 1,
     "name": "Delta Exchange Token",
     "address": "0xab93df617f51e1e415b5b4f8111f122d6b48e55c",
     "decimals": 18,
@@ -43310,6 +43360,14 @@
     "decimals": 3,
     "symbol": "FOPAY",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/5235.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Shirtum",
+    "address": "0xad996a45fd2373ed0b10efa4a8ecb9de445a4302",
+    "decimals": 18,
+    "symbol": "SHI",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/12066.png"
   },
   {
     "chainId": 1,
@@ -44523,11 +44581,11 @@
   },
   {
     "chainId": 1,
-    "name": "Sins Finance",
     "address": "0xb33440566865f4433e28f90f61f0a8ec334b761e",
-    "decimals": 9,
+    "name": "Sins Finance",
     "symbol": "SIN",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/18271.png"
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/23825/thumb/0CFC8OG.png?1645515026"
   },
   {
     "chainId": 1,
@@ -44632,6 +44690,14 @@
     "decimals": 18,
     "symbol": "GMT",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2098.png"
+  },
+  {
+    "chainId": 1,
+    "name": "MEVerse",
+    "address": "0xb3cb8d5aeff0f4d1f432f353309f47b885e404e3",
+    "decimals": 18,
+    "symbol": "MEV",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/19063.png"
   },
   {
     "chainId": 1,
@@ -45662,11 +45728,11 @@
   },
   {
     "chainId": 1,
-    "address": "0xb90cb79b72eb10c39cbdf86e50b1c89f6a235f2e",
     "name": "Auditchain",
-    "symbol": "AUDT",
+    "address": "0xb90cb79b72eb10c39cbdf86e50b1c89f6a235f2e",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/6398/thumb/auditchain.png?1547042519"
+    "symbol": "AUDT",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/19058.png"
   },
   {
     "chainId": 1,
@@ -48524,11 +48590,11 @@
   },
   {
     "chainId": 1,
-    "address": "0xc502002aeb1b9309fccb016adf50507987fc6c2b",
     "name": "GNFT",
-    "symbol": "GNFT",
+    "address": "0xc502002aeb1b9309fccb016adf50507987fc6c2b",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/23532/thumb/gnft_200x200.png?1644386728"
+    "symbol": "GNFT",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/19066.png"
   },
   {
     "chainId": 1,
@@ -52368,6 +52434,15 @@
     "name": "Synthetic Inverse Ethereum Classic",
     "decimals": 18,
     "logoURI": "ipfs://QmPdWKWBrubdJdRbq939nHbXn1bkRqpFnJ3bbeTubPqYPu",
+    "tags": []
+  },
+  {
+    "chainId": 1,
+    "address": "0xd5103afcd0b3fa865997ef2984c66742c51b2a8b",
+    "symbol": "crHFIL",
+    "name": "Cream Huobi FIL",
+    "decimals": 8,
+    "logoURI": "ipfs://QmapBeAZe61HLrAF6aNjcPcYLD6wZjMpBLCqk3HbRLBGRF",
     "tags": []
   },
   {
@@ -57091,6 +57166,14 @@
   },
   {
     "chainId": 1,
+    "name": "YouMinter",
+    "address": "0xe99de844ef3ef72806cf006224ef3b813e82662f",
+    "decimals": 18,
+    "symbol": "UMINT",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/19060.png"
+  },
+  {
+    "chainId": 1,
     "name": "ChangeNOW Token",
     "address": "0xe9a95d175a5f4c9369f3b74222402eb1b837693b",
     "decimals": 8,
@@ -57128,6 +57211,15 @@
     "symbol": "FUD",
     "decimals": 9,
     "logoURI": "https://assets.coingecko.com/coins/images/20261/thumb/vMT2nGU.png?1636702977"
+  },
+  {
+    "chainId": 1,
+    "address": "0xe9dc63083c464d6edccff23444ff3cfc6886f6fb",
+    "symbol": "yvCurve-oBTC",
+    "name": "Curve oBTC Pool yVault",
+    "decimals": 18,
+    "logoURI": "ipfs://QmWvcARiFntmdeDFS29QHUBiuq9i4HYPdpsdkNFdGxEMTa",
+    "tags": []
   },
   {
     "chainId": 1,
@@ -57895,11 +57987,11 @@
   },
   {
     "chainId": 1,
-    "address": "0xed35af169af46a02ee13b9d79eb57d6d68c1749e",
     "name": "ECOMI",
-    "symbol": "OMI",
+    "address": "0xed35af169af46a02ee13b9d79eb57d6d68c1749e",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/4428/thumb/ECOMI.png?1557928886"
+    "symbol": "OMI",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/19075.png"
   },
   {
     "chainId": 1,
