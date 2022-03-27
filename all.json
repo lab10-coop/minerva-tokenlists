@@ -17294,14 +17294,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x43326fa9dff053963bd21182ad381c6c42dfd5ab",
-    "name": "Baby Floki Pup",
-    "symbol": "BABYFLOKIPUP",
-    "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/18433/thumb/bRXShcg.png?1631944502"
-  },
-  {
-    "chainId": 1,
     "address": "0x433dfb5fd6ddb6996b57c07659942a30668236ca",
     "name": "Eth Note",
     "symbol": "ETHNOTE",
@@ -19427,6 +19419,14 @@
     "symbol": "ZHT",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/18692/thumb/LOGO1_%287%29.png?1635230502"
+  },
+  {
+    "chainId": 1,
+    "address": "0x4b1d0b9f081468d780ca1d5d79132b64301085d1",
+    "name": "Lumerin",
+    "symbol": "LMR",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/24593/thumb/lmr.png?1648310174"
   },
   {
     "chainId": 1,
@@ -34612,6 +34612,15 @@
   },
   {
     "chainId": 1,
+    "address": "0x8a83a0de55c003a970070a8a0fa7cb24203fc13d",
+    "symbol": "PAST",
+    "name": "Past Project",
+    "decimals": 9,
+    "logoURI": "ipfs://QmUrwwtxr9nXf3u24mqRsjuNoq96czjaEJN4wvYxb4HtQW",
+    "tags": []
+  },
+  {
+    "chainId": 1,
     "address": "0x8a845fc339ceb022a695281554890429a34df120",
     "name": "MangoChain",
     "symbol": "MGP",
@@ -41211,11 +41220,11 @@
   },
   {
     "chainId": 1,
-    "address": "0xa4e27ea37d18bb0f483779f9e75a6024efa5e73e",
     "name": "Monastery Finance",
-    "symbol": "MONK",
+    "address": "0xa4e27ea37d18bb0f483779f9e75a6024efa5e73e",
     "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/24563/thumb/s0vLTcH.png?1648189796"
+    "symbol": "MONK",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/19087.png"
   },
   {
     "chainId": 1,
@@ -51238,6 +51247,14 @@
     "decimals": 9,
     "symbol": "ARTY",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/10790.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xd057b63f5e69cf1b929b356b579cba08d7688048",
+    "name": "CoW Protocol Virtual Token",
+    "symbol": "vCOW",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-tokenlists/master/images/vCOW.svg"
   },
   {
     "chainId": 1,
@@ -62732,6 +62749,14 @@
     "decimals": 18,
     "chainId": 100,
     "logoURI": "https://etherscan.io/token/images/testa_32.png"
+  },
+  {
+    "chainId": 100,
+    "address": "0x177127622c4a00f3d409b75571e12cb3c8973d3c",
+    "name": "CoW Protocol Token",
+    "symbol": "COW",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-tokenlists/master/images/vCOW.svg"
   },
   {
     "name": "Raid Guild Token from Ethereum",
