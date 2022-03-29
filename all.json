@@ -8237,14 +8237,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x1fd7e8c718c153fa97a5525c227a098007dcfdda",
-    "name": "Kirby Inu",
-    "symbol": "KIRBY",
-    "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/17241/thumb/logo.png?1628337273"
-  },
-  {
-    "chainId": 1,
     "name": "SPICE",
     "address": "0x1fdab294eda5112b7d066ed8f2e4e562d5bcc664",
     "decimals": 18,
@@ -14984,7 +14976,7 @@
     "name": "Wrapped XRP",
     "symbol": "WXRP",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/19952/thumb/6JFdmlQ.png?1636338682"
+    "logoURI": "https://assets.coingecko.com/coins/images/19952/thumb/WXRP_revision-256px.png?1648530664"
   },
   {
     "chainId": 1,
@@ -24234,6 +24226,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x5fa54fddf1870c344dbfabb37dfab8700ec0def1",
+    "name": "FrogeX",
+    "symbol": "FROGEX",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/14775/thumb/-p8cz7Bk_400x400.png?1618371907"
+  },
+  {
+    "chainId": 1,
     "name": "Unicly Chris McCann Collection",
     "address": "0x5fb99a3593d7088e44377a1beb27739bd928f269",
     "decimals": 18,
@@ -30986,6 +30986,14 @@
     "decimals": 2,
     "symbol": "WIX",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3404.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x7ba9caa5d19002618f1d93e691490377361d5e60",
+    "name": "BXTB Foundation",
+    "symbol": "BXTB",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/24663/thumb/bxtb.png?1648532386"
   },
   {
     "chainId": 1,
@@ -60001,7 +60009,7 @@
   {
     "chainId": 1,
     "address": "0xf4d294931b7f22ba5a9f3ed932e6cafc21805e48",
-    "name": "JPEGvaultDAO",
+    "name": "JPEGvaultDAO  OLD ",
     "symbol": "JPEG",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/20533/thumb/2021-11-17-12_38_48-Window-modified-e1637149380672.png?1637202017"
@@ -61548,6 +61556,14 @@
     "decimals": 18,
     "symbol": "DOGEGF",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/12229.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xfb13dfc9f8f3eeddd7c9b581d0d7cf367513ff7c",
+    "name": "ParaToken",
+    "symbol": "PARA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/24652/thumb/POeToB1__400x400.png?1648515926"
   },
   {
     "chainId": 1,
@@ -63393,6 +63409,14 @@
     "logoURI": "https://etherscan.io/token/images/energywebtokenbridged_32.png"
   },
   {
+    "chainId": 100,
+    "address": "0x6ac78efae880282396a335ca2f79863a1e6831d4",
+    "name": "StakeWise Reward GNO",
+    "symbol": "rGNO",
+    "decimals": 18,
+    "logoURI": "https://app.stakewise.io/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Frgno.be398f43.png&w=640&q=75"
+  },
+  {
     "name": "xdai dao",
     "address": "0x6b0f8a3fb7cb257ad7c72ada469ba1d3c19c5094",
     "symbol": "RXDAI",
@@ -63779,6 +63803,14 @@
     "decimals": 18,
     "chainId": 100,
     "logoURI": "https://etherscan.io/token/images/yieldapp_32.png"
+  },
+  {
+    "chainId": 100,
+    "address": "0xa4ef9da5ba71cc0d2e5e877a910a37ec43420445",
+    "name": "StakeWise Staked GNO",
+    "symbol": "sGNO",
+    "decimals": 18,
+    "logoURI": "https://app.stakewise.io/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fsgno.d2ee923a.png&w=640&q=75"
   },
   {
     "name": "prophet.finance on xDai",
