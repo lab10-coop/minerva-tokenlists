@@ -164,5 +164,21 @@
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/12895/thumb/hnys.png?1614100588",
     "tags": [ "SuperToken", "WrapperToken" ]
+  },
+  {
+    "chainId": 100,
+    "address": "0xA4eF9Da5BA71Cc0D2e5E877a910A37eC43420445",
+    "name": "StakeWise Staked GNO",
+    "symbol": "sGNO",
+    "decimals": 18,
+    "logoURI": "https://app.stakewise.io/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fsgno.d2ee923a.png&w=640&q=75"
+  },
+  {
+    "chainId": 100,
+    "address": "0x6aC78efae880282396a335CA2F79863A1e6831D4",
+    "name": "StakeWise Reward GNO",
+    "symbol": "rGNO",
+    "decimals": 18,
+    "logoURI": "https://app.stakewise.io/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Frgno.be398f43.png&w=640&q=75"
   }
 ]
