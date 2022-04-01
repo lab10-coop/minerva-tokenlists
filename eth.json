@@ -1814,10 +1814,13 @@
   {
     "chainId": 1,
     "address": "0x06af07097c9eeb7fd685c692751d5c66db49c215",
-    "name": "Chai",
     "symbol": "CHAI",
+    "name": "Chai",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/10147/thumb/CHAI.png?1576467289"
+    "logoURI": "ipfs://QmUZkQwz3DFx9sQzU56bwUyBpauxhmTJbi3FcqQjZkguCb",
+    "tags": [
+      "erc20"
+    ]
   },
   {
     "chainId": 1,
@@ -5704,14 +5707,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x15f5f5f29a819bf7b4b80bf55352e1e42707c94e",
-    "name": "Die",
-    "symbol": "DIE",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/13136/thumb/gR-removebg-preview.png?1605580337"
-  },
-  {
-    "chainId": 1,
     "name": "Megacosm",
     "address": "0x15fc9f4efdd40f0f8a62f2a2ee7bbc79679540e8",
     "decimals": 9,
@@ -7741,6 +7736,14 @@
   },
   {
     "chainId": 1,
+    "name": "ThunderCore",
+    "address": "0x1e053d89e08c24aa2ce5c5b4206744dc2d7bd8f5",
+    "decimals": 18,
+    "symbol": "TT",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3930.png"
+  },
+  {
+    "chainId": 1,
     "name": "Picipo",
     "address": "0x1e05f68b29b286fb3bbad3c688d7e2abda549b80",
     "decimals": 18,
@@ -7792,7 +7795,7 @@
     "name": "Shiryo",
     "address": "0x1e2f15302b90edde696593607b6bd444b64e8f02",
     "decimals": 18,
-    "symbol": "SHIRYO-INU",
+    "symbol": "SHIRYO",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/13727.png"
   },
   {
@@ -8464,7 +8467,7 @@
   },
   {
     "chainId": 1,
-    "name": "Mooney",
+    "name": "MoonDAO",
     "address": "0x20d4db1946859e2adb0e5acc2eac58047ad41395",
     "decimals": 18,
     "symbol": "MOONEY",
@@ -13530,7 +13533,7 @@
   },
   {
     "chainId": 1,
-    "name": "EFFORCE",
+    "name": "Efforce",
     "address": "0x34950ff2b487d9e5282c5ab342d08a2f712eb79f",
     "decimals": 18,
     "symbol": "WOZX",
@@ -18258,14 +18261,6 @@
     "decimals": 18,
     "symbol": "UMI",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/9632.png"
-  },
-  {
-    "chainId": 1,
-    "name": "SpacePenguin",
-    "address": "0x469a8ea7683c27d31cd9b0de769151d8a8b66c5a",
-    "decimals": 9,
-    "symbol": "PNGN",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/9404.png"
   },
   {
     "chainId": 1,
@@ -26497,7 +26492,7 @@
   },
   {
     "chainId": 1,
-    "name": "Capital Aggregator Token V2",
+    "name": "Capital Aggregator Token",
     "address": "0x686c77609afe6a2fac50421888530288b441fbd6",
     "decimals": 18,
     "symbol": "CAT+",
@@ -26852,7 +26847,7 @@
     "chainId": 1,
     "name": "ShibaBurn",
     "address": "0x698072ff23377f474d42483203eded5f49f9579c",
-    "decimals": 9,
+    "decimals": 18,
     "symbol": "SHIBURN",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/19014.png"
   },
@@ -34050,6 +34045,14 @@
     "decimals": 18,
     "symbol": "GAME",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/17872.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Ziktalk",
+    "address": "0x88303fed02b31db9c7a9eafb711da9ef4a03e5d3",
+    "decimals": 18,
+    "symbol": "ZIK",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/6249.png"
   },
   {
     "chainId": 1,
@@ -44690,14 +44693,6 @@
   },
   {
     "chainId": 1,
-    "address": "0xb33440566865f4433e28f90f61f0a8ec334b761e",
-    "name": "Sins Finance",
-    "symbol": "SIN",
-    "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/23825/thumb/0CFC8OG.png?1645515026"
-  },
-  {
-    "chainId": 1,
     "name": "Aludra Network",
     "address": "0xb339fca531367067e98d7c4f9303ffeadff7b881",
     "decimals": 18,
@@ -46463,7 +46458,7 @@
   },
   {
     "chainId": 1,
-    "name": "Ethernity Chain",
+    "name": "Ethernity",
     "address": "0xbbc2ae13b23d715c30720f079fcd9b4a74093505",
     "decimals": 18,
     "symbol": "ERN",
@@ -48169,6 +48164,14 @@
   },
   {
     "chainId": 1,
+    "name": "Rango exchange",
+    "address": "0xc2702fbd7208f53d1a7fd1dd96b9e685aef12d4e",
+    "decimals": 18,
+    "symbol": "RANGO",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/17046.png"
+  },
+  {
+    "chainId": 1,
     "name": "Waves Ducks",
     "address": "0xc2708a3a4ba7f64bddc1a49f92f941bc77cad23a",
     "decimals": 18,
@@ -49519,7 +49522,7 @@
   {
     "chainId": 1,
     "address": "0xc88f47067db2e25851317a2fdae73a22c0777c37",
-    "name": "oneBTC",
+    "name": "Legacy oneBTC",
     "symbol": "ONEBTC",
     "decimals": 9,
     "logoURI": "https://assets.coingecko.com/coins/images/15082/thumb/G9oJy1-R.png?1619660359"
@@ -50383,14 +50386,6 @@
     "decimals": 18,
     "symbol": "BON",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2256.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xcc394f10545aeef24483d2347b32a34a44f20e6f",
-    "name": "Vault Guardian Token",
-    "symbol": "VGT",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/4652/thumb/Vault12.jpg?1547039918"
   },
   {
     "chainId": 1,
@@ -54835,14 +54830,6 @@
   },
   {
     "chainId": 1,
-    "address": "0xdf276a2442ccbbdf0707427668434d6d130b75eb",
-    "name": "DeFini",
-    "symbol": "DFNI",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/14616/thumb/logo_-_2021-04-01T133425.308.png?1617255308"
-  },
-  {
-    "chainId": 1,
     "name": "Beyond Protocol",
     "address": "0xdf290b162a7d3e0a328cf198308d421954f08b94",
     "decimals": 18,
@@ -56680,14 +56667,6 @@
     "symbol": "KUKY",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/7465/thumb/images_%283%29.jpeg?1547622295"
-  },
-  {
-    "chainId": 1,
-    "address": "0xe6be436df1ff96956dfe0b2b77fab84ede30236f",
-    "name": "Revelation coin",
-    "symbol": "REV",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/7855/thumb/Db7wCd0.jpg?1551171100"
   },
   {
     "chainId": 1,
@@ -59147,11 +59126,11 @@
   },
   {
     "chainId": 1,
-    "address": "0xf0dc76c22139ab22618ddfb498be1283254612b1",
     "name": "Wrapped Star",
-    "symbol": "WSTR",
+    "address": "0xf0dc76c22139ab22618ddfb498be1283254612b1",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/23972/thumb/wstr.png?1645870711"
+    "symbol": "WSTR",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/19226.png"
   },
   {
     "chainId": 1,
@@ -60897,6 +60876,14 @@
   },
   {
     "chainId": 1,
+    "name": "Treasure Token Finance",
+    "address": "0xf7ae26f1bf3c2312a4cf42246f947a4be25eef92",
+    "decimals": 18,
+    "symbol": "TREASURE",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/19234.png"
+  },
+  {
+    "chainId": 1,
     "name": "Matchpool",
     "address": "0xf7b098298f7c69fc14610bf71d5e02c60792894c",
     "decimals": 3,
@@ -61857,6 +61844,14 @@
     "decimals": 18,
     "symbol": "NTVRK",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/9954.png"
+  },
+  {
+    "chainId": 1,
+    "name": "EdenLoop",
+    "address": "0xfc1cb4920dc1110fd61afab75cf085c1f871b8c6",
+    "decimals": 18,
+    "symbol": "ELT",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/19238.png"
   },
   {
     "chainId": 1,
