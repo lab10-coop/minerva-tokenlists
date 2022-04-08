@@ -2985,11 +2985,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x0b8057c3cc676c329c25c1d0cd27776efa73762d",
     "name": "Megaweapon",
-    "symbol": "WEAPON",
+    "address": "0x0b8057c3cc676c329c25c1d0cd27776efa73762d",
     "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/20833/thumb/megaweapon.jpg?1649152531"
+    "symbol": "$WEAPON",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/15110.png"
   },
   {
     "chainId": 1,
@@ -4077,7 +4077,7 @@
   },
   {
     "chainId": 1,
-    "name": "META NOA",
+    "name": "METANOA",
     "address": "0x0fd3822072ad001aac1c90a09d9506f097f24458",
     "decimals": 18,
     "symbol": "NOA",
@@ -9660,7 +9660,7 @@
     "name": "Faith Tribe",
     "address": "0x2596825a84888e8f24b747df29e11b5dd03c81d7",
     "decimals": 18,
-    "symbol": "$FTRB",
+    "symbol": "FTRB",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/18386.png"
   },
   {
@@ -12362,14 +12362,6 @@
   },
   {
     "chainId": 1,
-    "name": "Megaweapon",
-    "address": "0x3063c77c4ef5c1de185321ae2bc5675e17344f7f",
-    "decimals": 9,
-    "symbol": "$WEAPON",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/15110.png"
-  },
-  {
-    "chainId": 1,
     "name": "ARAW",
     "address": "0x30680ac0a8a993088223925265fd7a76beb87e7f",
     "decimals": 18,
@@ -13193,6 +13185,14 @@
     "decimals": 18,
     "symbol": "BTBS",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/11085.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x32ea3dc70e2962334864a9665254d2433e4ddbfd",
+    "name": "Sportzchain",
+    "symbol": "SPN",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/24915/thumb/Copy_of_Sportzchain_-_Final_logo_guide_SPORTZCHAIN_-_HORIZONTAL_VERTICAL_-_OB.png?1649342763"
   },
   {
     "chainId": 1,
@@ -16172,7 +16172,7 @@
   },
   {
     "chainId": 1,
-    "name": "Linear",
+    "name": "Linear Finance",
     "address": "0x3e9bc21c9b189c09df3ef1b824798658d5011937",
     "decimals": 18,
     "symbol": "LINA",
@@ -16662,7 +16662,7 @@
     "chainId": 1,
     "name": "Blockchain Brawlers",
     "address": "0x4086e77c5e993fdb90a406285d00111a974f877a",
-    "decimals": 4,
+    "decimals": 18,
     "symbol": "BRWL",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/19216.png"
   },
@@ -18646,6 +18646,14 @@
     "decimals": 18,
     "symbol": "CLBR",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7539.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Reltime",
+    "address": "0x47a85fe1ce3ce83d1a9184d42880cc71dfc7a494",
+    "decimals": 18,
+    "symbol": "RTC",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/18892.png"
   },
   {
     "chainId": 1,
@@ -22475,11 +22483,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x579e5eafabae696aad762ad36e77a16ae9f0ef91",
     "name": "Apex Predator",
-    "symbol": "APEX",
+    "address": "0x579e5eafabae696aad762ad36e77a16ae9f0ef91",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/24837/thumb/apex.jpg?1649066165"
+    "symbol": "APEX",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/19396.png"
   },
   {
     "chainId": 1,
@@ -32666,6 +32674,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x823556202e86763853b40e9cde725f412e294689",
+    "name": "Altered State Token",
+    "symbol": "ASTO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/24893/thumb/ASTO.png?1649303806"
+  },
+  {
+    "chainId": 1,
     "name": "TIA",
     "address": "0x824e35f7a75324f99300afac75ecf7354e17ea26",
     "decimals": 9,
@@ -32924,7 +32940,7 @@
     "chainId": 1,
     "name": "BitCoke Token",
     "address": "0x832c8b1bf8c89f1f827c2bdee2a951530a4e712f",
-    "decimals": 6,
+    "decimals": 18,
     "symbol": "COKE",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/18642.png"
   },
@@ -38055,7 +38071,7 @@
   },
   {
     "chainId": 1,
-    "name": "PoorQUACK",
+    "name": "PoorQuack",
     "address": "0x96f29330bace95ea569928a8d74e6b1b49283edb",
     "decimals": 18,
     "symbol": "POOR",
@@ -41483,6 +41499,14 @@
   },
   {
     "chainId": 1,
+    "address": "0xa4b032895bcb6b11ec7d21380f557919d448fd04",
+    "name": "Bright Risk Index",
+    "symbol": "BRI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/24920/thumb/BRI_Token.png?1649376367"
+  },
+  {
+    "chainId": 1,
     "name": "Enoki Finance",
     "address": "0xa4bad5d040d4464ec5ce130987731f2f428c9307",
     "decimals": 18,
@@ -43135,6 +43159,14 @@
     "decimals": 9,
     "symbol": "SGE",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/10735.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Fayre",
+    "address": "0xab4c44973befba9294f47e21e6beb79a3c1d7d9f",
+    "decimals": 18,
+    "symbol": "FAYRE",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/19389.png"
   },
   {
     "chainId": 1,
@@ -45534,11 +45566,11 @@
   },
   {
     "chainId": 1,
+    "name": "Lend Flare",
     "address": "0xb620be8a1949aa9532e6a3510132864ef9bc3f82",
-    "name": "Lend Flare Dao Token",
-    "symbol": "LFT",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/24846/thumb/e5x55-kU_400x400.jpg?1649116244"
+    "symbol": "LFT",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/19189.png"
   },
   {
     "chainId": 1,
@@ -48393,14 +48425,6 @@
     "symbol": "LEOBULL",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/10231/thumb/683JEXMN_400x400_%281%29.png?1576618672"
-  },
-  {
-    "chainId": 1,
-    "name": "Rango exchange",
-    "address": "0xc2702fbd7208f53d1a7fd1dd96b9e685aef12d4e",
-    "decimals": 18,
-    "symbol": "RANGO",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/17046.png"
   },
   {
     "chainId": 1,
@@ -52532,11 +52556,10 @@
   {
     "chainId": 1,
     "address": "0xd42debe4edc92bd5a3fbb4243e1eccf6d63a4a5d",
-    "symbol": "C8",
     "name": "Carboneum",
+    "symbol": "C8",
     "decimals": 18,
-    "logoURI": "ipfs://QmbKGQA3xa57GFRYpQLZMJoMBY9xBGd21DfYGem94kbEtd",
-    "tags": []
+    "logoURI": "https://assets.coingecko.com/coins/images/3127/thumb/c8.png?1547037525"
   },
   {
     "chainId": 1,
@@ -66888,6 +66911,14 @@
     "chainId": 56,
     "decimals": 18,
     "logoURI": "https://tokens.pancakeswap.finance/images/0x04BAf95Fd4C52fd09a56D840bAEe0AB8D7357bf0.png"
+  },
+  {
+    "name": "Tiny Coin",
+    "symbol": "TINC",
+    "address": "0x05ad6e30a855be07afa57e08a4f30d00810a402e",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x05aD6E30A855BE07AfA57e08a4f30d00810a402e.png"
   },
   {
     "name": "rUSD",
