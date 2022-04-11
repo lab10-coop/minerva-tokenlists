@@ -2833,14 +2833,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x0afee744b6d9ff2b78f76fe10b3e0199c413fd34",
-    "name": "Store of Value Token",
-    "symbol": "SOV",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/17870/thumb/SOVcoin.png?1629692413"
-  },
-  {
-    "chainId": 1,
     "name": "Polybius",
     "address": "0x0affa06e7fbe5bc9a764c979aa66e8256a631f02",
     "decimals": 6,
@@ -5295,6 +5287,14 @@
     "decimals": 18,
     "symbol": "DPI",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7055.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x14a32f050facf226ec60882398a9bf36d91dbac2",
+    "name": "Kyoko",
+    "symbol": "KYOKO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/24454/thumb/kyoko.png?1649576935"
   },
   {
     "chainId": 1,
@@ -12867,10 +12867,11 @@
   {
     "chainId": 1,
     "address": "0x31d4eb09a216e181ec8a43ce79226a487d6f0ba9",
-    "name": "USDM",
     "symbol": "USDM",
+    "name": "USDM",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/18898/thumb/USDM.png?1633817090"
+    "logoURI": "ipfs://QmQ7NFtPB9SRTPNwFdC8f9U4qJqosQBUiEv29QKJzqv4Jz",
+    "tags": []
   },
   {
     "chainId": 1,
@@ -13043,6 +13044,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x32462ba310e447ef34ff0d15bce8613aa8c4a244",
+    "name": "Dohrnii",
+    "symbol": "DHN",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/24966/thumb/dhn.png?1649586405"
+  },
+  {
+    "chainId": 1,
     "name": "Oracle System",
     "address": "0x324af2d5353f2dd138e234b359d30d67c64b1b20",
     "decimals": 18,
@@ -13196,11 +13205,11 @@
   },
   {
     "chainId": 1,
+    "name": "SPORTZCHAIN",
     "address": "0x32ea3dc70e2962334864a9665254d2433e4ddbfd",
-    "name": "Sportzchain",
-    "symbol": "SPN",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/24915/thumb/Copy_of_Sportzchain_-_Final_logo_guide_SPORTZCHAIN_-_HORIZONTAL_VERTICAL_-_OB.png?1649342763"
+    "symbol": "SPN",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/14007.png"
   },
   {
     "chainId": 1,
@@ -13365,11 +13374,11 @@
   },
   {
     "chainId": 1,
+    "name": "Honey",
     "address": "0x33b4fe5e40e4903a0849ca97b3292eac3eb0aa36",
-    "name": "Honey  Fancy Bears Metaverse ",
-    "symbol": "HONEY",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/24949/thumb/Gold.png?1649504050"
+    "symbol": "$HONEY",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/19415.png"
   },
   {
     "chainId": 1,
@@ -13434,6 +13443,14 @@
     "decimals": 18,
     "symbol": "RAMP",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7463.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x33d203fa03bb30b133de0fe2d6533c268ba286b6",
+    "name": "MandoX",
+    "symbol": "MANDOX",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/24968/thumb/mandox.png?1649592612"
   },
   {
     "chainId": 1,
@@ -20337,7 +20354,7 @@
     "name": "PicoGo",
     "symbol": "PICO",
     "decimals": 6,
-    "logoURI": "https://assets.coingecko.com/coins/images/23091/thumb/4TbgjVDHWKLnMFs.png?1643181994"
+    "logoURI": "https://assets.coingecko.com/coins/images/23091/thumb/pico.png?1649573468"
   },
   {
     "chainId": 1,
@@ -45966,11 +45983,11 @@
   },
   {
     "chainId": 1,
-    "address": "0xb840d10d840ef47c233fec1fd040f5b145a6dfa5",
     "name": "STREETH",
-    "symbol": "STREETH",
+    "address": "0xb840d10d840ef47c233fec1fd040f5b145a6dfa5",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/24954/thumb/streeth.png?1649507723"
+    "symbol": "STREETH",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/19188.png"
   },
   {
     "chainId": 1,
@@ -52828,9 +52845,9 @@
   },
   {
     "chainId": 1,
-    "name": "T.OS",
+    "name": "TiOS",
     "address": "0xd50649aab1d39d68bc965e0f6d1cfe0010e4908b",
-    "decimals": 8,
+    "decimals": 18,
     "symbol": "TOSC",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3707.png"
   },
