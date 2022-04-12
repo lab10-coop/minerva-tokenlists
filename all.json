@@ -545,14 +545,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x017b584acfd16d767541ae9e80cdc702f4527b0b",
-    "name": "ASYAGRO",
-    "symbol": "ASY",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/10632/thumb/c0Q4z8HJ_400x400.jpg?1581203764"
-  },
-  {
-    "chainId": 1,
     "name": "INMAX",
     "address": "0x018d7d179350f1bb9853d04982820e37cce13a92",
     "decimals": 8,
@@ -3671,6 +3663,14 @@
     "decimals": 18,
     "symbol": "ABYSS",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2847.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Spume",
+    "address": "0x0e9776bef2b9ad81759e6d304d22d3c1b1f26087",
+    "decimals": 18,
+    "symbol": "SPUME",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/19460.png"
   },
   {
     "chainId": 1,
@@ -10757,6 +10757,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x296233e84c1d7bff11121bf6d60f0ffa39c3f0cf",
+    "name": "No One",
+    "symbol": "NOONE",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/19393/thumb/logo-200x200_%289%29.png?1635150101"
+  },
+  {
+    "chainId": 1,
     "name": "Scaltinof",
     "address": "0x296ec7b2b224ea122f8f8f9be2a824df092fc82c",
     "decimals": 8,
@@ -10810,6 +10818,14 @@
     "decimals": 18,
     "symbol": "ARGP",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/6117.png"
+  },
+  {
+    "chainId": 1,
+    "name": "New Frontier Presents",
+    "address": "0x299698b4b44bd6d023981a7317798dee12860834",
+    "decimals": 9,
+    "symbol": "NFP",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/19444.png"
   },
   {
     "chainId": 1,
@@ -22268,11 +22284,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x56694577564fdd577a0abb20fe95c1e2756c2a11",
     "name": "AdaSwap",
-    "symbol": "ASW",
+    "address": "0x56694577564fdd577a0abb20fe95c1e2756c2a11",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/24453/thumb/rA5cmPtX_400x400.jpg?1647677878"
+    "symbol": "ASW",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/15634.png"
   },
   {
     "chainId": 1,
@@ -23688,11 +23704,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x5ca135cb8527d76e932f34b5145575f9d8cbe08e",
     "name": "Frax Price Index",
-    "symbol": "FPI",
+    "address": "0x5ca135cb8527d76e932f34b5145575f9d8cbe08e",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/24945/thumb/fpi.png?1649485834"
+    "symbol": "FPI",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/19425.png"
   },
   {
     "chainId": 1,
@@ -38563,10 +38579,10 @@
   },
   {
     "chainId": 1,
-    "name": "Ankr",
+    "name": "Ankr Reward Earning Staked MATIC",
     "address": "0x99534ef705df1fff4e4bd7bbaaf9b0dff038ebfe",
     "decimals": 18,
-    "symbol": "AMATICB",
+    "symbol": "aMATICb",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/18915.png"
   },
   {
@@ -44028,6 +44044,14 @@
   },
   {
     "chainId": 1,
+    "name": "The Commission",
+    "address": "0xaeb813653bb20d5fa4798dc4fc63af9cad4f3f67",
+    "decimals": 18,
+    "symbol": "CMSN",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/19471.png"
+  },
+  {
+    "chainId": 1,
     "address": "0xaec2e87e0a235266d9c5adc9deb4b2e29b54d009",
     "name": "SingularDTV",
     "symbol": "SNGLS",
@@ -44309,11 +44333,11 @@
   },
   {
     "chainId": 1,
-    "address": "0xb009bfaaf85e53f55d8657781eb69feaaed83672",
     "name": "EdgeSwap",
-    "symbol": "EGS",
+    "address": "0xb009bfaaf85e53f55d8657781eb69feaaed83672",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/24878/thumb/egs.png?1649218020"
+    "symbol": "EGS",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/19422.png"
   },
   {
     "chainId": 1,
@@ -45255,11 +45279,11 @@
   },
   {
     "chainId": 1,
-    "address": "0xb487d0328b109e302b9d817b6f46cbd738ea08c2",
     "name": "TattooMoney",
-    "symbol": "TAT2",
+    "address": "0xb487d0328b109e302b9d817b6f46cbd738ea08c2",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/24772/thumb/TAT2.jpg?1648821223"
+    "symbol": "TAT2",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/19463.png"
   },
   {
     "chainId": 1,
@@ -48469,11 +48493,11 @@
   },
   {
     "chainId": 1,
-    "address": "0xc2544a32872a91f4a553b404c6950e89de901fdb",
     "name": "Frax Price Index Share",
-    "symbol": "FPIS",
+    "address": "0xc2544a32872a91f4a553b404c6950e89de901fdb",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/24944/thumb/fpis.png?1649485832"
+    "symbol": "FPIS",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/19424.png"
   },
   {
     "chainId": 1,
@@ -51602,10 +51626,10 @@
   },
   {
     "chainId": 1,
-    "name": "Ankr Reward-Earning Staked ETH",
+    "name": "Ankr Reward Earning Staked ETH",
     "address": "0xd01ef7c0a5d8c432fc2d1a85c66cf2327362e5c6",
     "decimals": 18,
-    "symbol": "AETHB",
+    "symbol": "aETHb",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/18854.png"
   },
   {
@@ -54541,11 +54565,11 @@
   },
   {
     "chainId": 1,
-    "address": "0xdc0327d50e6c73db2f8117760592c8bbf1cdcf38",
     "name": "Stronger",
-    "symbol": "STRNGR",
+    "address": "0xdc0327d50e6c73db2f8117760592c8bbf1cdcf38",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/24922/thumb/spJQ8BU3_400x400.png?1649384187"
+    "symbol": "STRNGR",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/19423.png"
   },
   {
     "chainId": 1,
@@ -56436,11 +56460,11 @@
   },
   {
     "chainId": 1,
+    "name": "Universe Finance",
     "address": "0xe4b5936dce1820f84509c89cce0f28c87988bad8",
-    "name": "Universe Finance Token",
-    "symbol": "UNT",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/22676/thumb/1_hMcINXnC7TdqS0TI8_FLmg.png?1642406474"
+    "symbol": "UNT",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/19448.png"
   },
   {
     "chainId": 1,
@@ -57599,10 +57623,10 @@
   },
   {
     "chainId": 1,
-    "name": "ankrETH",
+    "name": "Ankr Reward Bearing Staked ETH",
     "address": "0xe95a203b1a91a908f9b9ce46459d101078c2c3cb",
     "decimals": 18,
-    "symbol": "aEth",
+    "symbol": "aETHc",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/8100.png"
   },
   {
