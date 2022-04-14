@@ -2905,7 +2905,7 @@
   },
   {
     "chainId": 1,
-    "name": "Index Coop",
+    "name": "BTC 2x Flexible Leverage Index",
     "address": "0x0b498ff89709d3838a063f1dfa463091f9801c2b",
     "decimals": 18,
     "symbol": "BTC2X-FLI",
@@ -6665,6 +6665,14 @@
   },
   {
     "chainId": 1,
+    "name": "APENFT",
+    "address": "0x198d14f2ad9ce69e76ea330b374de4957c3f850a",
+    "decimals": 18,
+    "symbol": "NFT",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/9816.png"
+  },
+  {
+    "chainId": 1,
     "name": "Newinu",
     "address": "0x1997830b5beb723f5089bb8fc38766d419a0444d",
     "decimals": 9,
@@ -8957,11 +8965,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x229b239b7d00aa2a41c8b74b1db50a821f58d31a",
-    "name": "Fruits",
-    "symbol": "FRTS",
-    "decimals": 8,
-    "logoURI": "https://assets.coingecko.com/coins/images/16059/thumb/FruitsLogo3.png?1622709717"
+    "address": "0x22987407fd1fc5a971e3fda3b3e74c88666cda91",
+    "name": "Smart Reward Token",
+    "symbol": "SRT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/25035/thumb/me-44EyS_400x400.jpg?1649852504"
   },
   {
     "chainId": 1,
@@ -10831,7 +10839,7 @@
     "chainId": 1,
     "name": "New Frontier Presents",
     "address": "0x299698b4b44bd6d023981a7317798dee12860834",
-    "decimals": 9,
+    "decimals": 18,
     "symbol": "NFP",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/19444.png"
   },
@@ -23125,14 +23133,6 @@
   },
   {
     "chainId": 1,
-    "name": "Step.app",
-    "address": "0x5a73762ea8593f3f61d93638f8a1697df37bf689",
-    "decimals": 18,
-    "symbol": "KCAL",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/19484.png"
-  },
-  {
-    "chainId": 1,
     "name": "EmiSwap",
     "address": "0x5a75a093747b72a0e14056352751edf03518031d",
     "decimals": 18,
@@ -25509,7 +25509,7 @@
   },
   {
     "chainId": 1,
-    "name": "SquishiVerse",
+    "name": "Squishiverse",
     "address": "0x638f24096ff33e047e05e59fabc76325207090dc",
     "decimals": 18,
     "symbol": "SLIME",
@@ -27347,6 +27347,14 @@
     "decimals": 18,
     "symbol": "PFARM",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7550.png"
+  },
+  {
+    "chainId": 1,
+    "name": "PDX Coin",
+    "address": "0x6a8fee0e33cb65a7e8d21badca62e87639ef74b3",
+    "decimals": 18,
+    "symbol": "PDX",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/19511.png"
   },
   {
     "chainId": 1,
@@ -36039,11 +36047,11 @@
   },
   {
     "chainId": 1,
+    "name": "Minter HUB",
     "address": "0x8e9a29e7ed21db7c5b2e1cd75e676da0236dfb45",
-    "name": "Minter Hub",
-    "symbol": "HUB",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/14639/thumb/Nvoj_6Mu_400x400_%281%29.jpg?1617484760"
+    "symbol": "HUB",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/9086.png"
   },
   {
     "chainId": 1,
@@ -39643,6 +39651,14 @@
     "decimals": 8,
     "symbol": "sWBTC",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/11095.png"
+  },
+  {
+    "chainId": 1,
+    "name": "VIRAL",
+    "address": "0x9d37f31a4e8c6af7f64f1ce6241d24f5cacd391c",
+    "decimals": 18,
+    "symbol": "VIRAL",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/19506.png"
   },
   {
     "chainId": 1,
@@ -48935,6 +48951,14 @@
   },
   {
     "chainId": 1,
+    "address": "0xc43420dbaf53b1a6c607c6a561ac60afb16b05fd",
+    "name": "Shinjiro",
+    "symbol": "SHINJIRO",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/25018/thumb/Shinjiro_200x200.png?1649830769"
+  },
+  {
+    "chainId": 1,
     "name": "Savix",
     "address": "0xc434b27736a6882d33094d34792999702860a13c",
     "decimals": 9,
@@ -49357,6 +49381,14 @@
     "symbol": "GLDX",
     "decimals": 8,
     "logoURI": "https://assets.coingecko.com/coins/images/17814/thumb/gldx-logo-200x200.png?1629337485"
+  },
+  {
+    "chainId": 1,
+    "name": "Banana Task Force Ape",
+    "address": "0xc631be100f6cf9a7012c23de5a6ccb990eafc133",
+    "decimals": 9,
+    "symbol": "BTFA",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/19496.png"
   },
   {
     "chainId": 1,
@@ -59057,14 +59089,6 @@
     "decimals": 18,
     "symbol": "FIS",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/5882.png"
-  },
-  {
-    "chainId": 1,
-    "name": "APENFT",
-    "address": "0xef40b859d21e4d566a3d713e756197c021bffaaa",
-    "decimals": 6,
-    "symbol": "NFT",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/9816.png"
   },
   {
     "chainId": 1,
