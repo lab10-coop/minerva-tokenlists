@@ -8965,11 +8965,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x22987407fd1fc5a971e3fda3b3e74c88666cda91",
     "name": "Smart Reward Token",
-    "symbol": "SRT",
+    "address": "0x22987407fd1fc5a971e3fda3b3e74c88666cda91",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/25035/thumb/me-44EyS_400x400.jpg?1649852504"
+    "symbol": "SRT",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/19517.png"
   },
   {
     "chainId": 1,
@@ -9442,7 +9442,7 @@
     "chainId": 1,
     "name": "Medi Token",
     "address": "0x24b20da7a2fa0d1d5afcd693e1c8afff20507efd",
-    "decimals": 9,
+    "decimals": 18,
     "symbol": "MEDI",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/17608.png"
   },
@@ -13482,7 +13482,7 @@
     "name": "MandoX",
     "symbol": "MANDOX",
     "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/24968/thumb/mandox.png?1649592612"
+    "logoURI": "https://assets.coingecko.com/coins/images/24968/thumb/NmqN8g7.png?1649917431"
   },
   {
     "chainId": 1,
@@ -17910,6 +17910,14 @@
   },
   {
     "chainId": 1,
+    "name": "NanoByte Token",
+    "address": "0x446f2a8a39cc730ef378be759a3c57f1a3fe824c",
+    "decimals": 18,
+    "symbol": "NBT",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/18101.png"
+  },
+  {
+    "chainId": 1,
     "name": "DappRadar",
     "address": "0x44709a920fccf795fbc57baa433cc3dd53c44dbe",
     "decimals": 18,
@@ -19882,14 +19890,6 @@
     "decimals": 18,
     "symbol": "WAB",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2980.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x4bc831111b480f07b7f74dbe90726f3b11201033",
-    "name": "WENWEN USDN",
-    "symbol": "USDN",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/19017/thumb/Ezbu7Ld.png?1634183069"
   },
   {
     "chainId": 1,
@@ -23728,6 +23728,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x5ca5a5efb57dbaf4462edbd15da889448b1919ed",
+    "name": "RocketToken",
+    "symbol": "RKTN",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/25052/thumb/5F8FyJDt_400x400.jpg?1649925450"
+  },
+  {
+    "chainId": 1,
     "address": "0x5ca9a71b1d01849c0a95490cc00559717fcf0d1d",
     "name": "Aeternity",
     "symbol": "AE",
@@ -26517,11 +26525,11 @@
   },
   {
     "chainId": 1,
-    "name": "BOHR",
     "address": "0x677ad66762c009aab99509c2f903e68a57bc1f80",
-    "decimals": 18,
+    "name": "BoHr",
     "symbol": "BR",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/11395.png"
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/21636/thumb/br.png?1639628226"
   },
   {
     "chainId": 1,
@@ -34867,6 +34875,14 @@
   },
   {
     "chainId": 1,
+    "name": "HighPoint Finance",
+    "address": "0x8a0271333150deaa50371ddbfe5404a9ef7dace5",
+    "decimals": 18,
+    "symbol": "HPT",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/19543.png"
+  },
+  {
+    "chainId": 1,
     "name": "Spherium",
     "address": "0x8a0cdfab62ed35b836dc0633482798421c81b3ec",
     "decimals": 18,
@@ -39029,6 +39045,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x9ae380f0272e2162340a5bb646c354271c0f5cfc",
+    "name": "Conic",
+    "symbol": "CNC",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/24747/thumb/MJEDO-OY_400x400.png?1648785199"
+  },
+  {
+    "chainId": 1,
     "name": "OIN Finance",
     "address": "0x9aeb50f542050172359a0e1a25a9933bc8c01259",
     "decimals": 18,
@@ -42753,7 +42777,7 @@
   },
   {
     "chainId": 1,
-    "name": "Marketing Samurai RBXS",
+    "name": "RBXS Marketing Samurai",
     "address": "0xa9639160481b625ba43677be753e0a70bf58c647",
     "decimals": 18,
     "symbol": "RBXSamurai",
@@ -43905,6 +43929,14 @@
     "decimals": 18,
     "symbol": "SWC",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3760.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Parex",
+    "address": "0xadfb28426864c0ff169f5dcead2efdd09e0deec9",
+    "decimals": 18,
+    "symbol": "PRX",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/18094.png"
   },
   {
     "chainId": 1,
@@ -45270,11 +45302,11 @@
   },
   {
     "chainId": 1,
+    "name": "BullionFx",
     "address": "0xb439b8731ee047799019ef0b745a51d256b116af",
-    "name": "BullionFX",
-    "symbol": "BULL",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/19251/thumb/237813872_101246862292596_7969491648103245595_n.png?1634797631"
+    "symbol": "BULL",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/12961.png"
   },
   {
     "chainId": 1,
@@ -45604,6 +45636,14 @@
     "symbol": "BCASH",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/7692/thumb/bcash.png?1549865564"
+  },
+  {
+    "chainId": 1,
+    "name": "POLYSPORTS",
+    "address": "0xb5be7557fe8f69a2b5707d25fa0aee80dfda512e",
+    "decimals": 18,
+    "symbol": "PS1",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/19472.png"
   },
   {
     "chainId": 1,
@@ -47812,6 +47852,14 @@
   },
   {
     "chainId": 1,
+    "name": "LLEIDA ESPORTIU DAO",
+    "address": "0xbf61348aa2e35dd798c4bc63bd58f30e184342ac",
+    "decimals": 18,
+    "symbol": "LLE",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/19523.png"
+  },
+  {
+    "chainId": 1,
     "address": "0xbf682bd31a615123d28d611b38b0ae3d2b675c2c",
     "name": "OT PENDLE ETH",
     "symbol": "OT-PE-29DEC2022",
@@ -48951,11 +48999,11 @@
   },
   {
     "chainId": 1,
+    "name": "SHINJIRO",
     "address": "0xc43420dbaf53b1a6c607c6a561ac60afb16b05fd",
-    "name": "Shinjiro",
-    "symbol": "SHINJIRO",
     "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/25018/thumb/Shinjiro_200x200.png?1649830769"
+    "symbol": "SHINJIRO",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/19535.png"
   },
   {
     "chainId": 1,
@@ -55494,6 +55542,14 @@
   },
   {
     "chainId": 1,
+    "address": "0xe00639a1f59b52773b7d39d9f9bef07f6248dbae",
+    "name": "The DAOX Index",
+    "symbol": "DAOX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/25042/thumb/200px-DAOx.png?1649911875"
+  },
+  {
+    "chainId": 1,
     "address": "0xe04491d64eaa464ec8fdf53c7a4c92bf5b2278cd",
     "name": "WORLDPET",
     "symbol": "WPT",
@@ -59178,6 +59234,14 @@
     "decimals": 18,
     "symbol": "SRCOIN",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2672.png"
+  },
+  {
+    "chainId": 1,
+    "name": "LynKey",
+    "address": "0xef952363c1d990a2fa58f8b379a9fa33bad1dfd1",
+    "decimals": 8,
+    "symbol": "LYNK",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/19536.png"
   },
   {
     "chainId": 1,
@@ -69082,6 +69146,14 @@
     "logoURI": "https://tokens.pancakeswap.finance/images/0xE0e514c71282b6f4e823703a39374Cf58dc3eA4f.png"
   },
   {
+    "name": "CEEK",
+    "symbol": "CEEK",
+    "address": "0xe0f94ac5462997d2bc57287ac3a3ae4c31345d66",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0xe0F94Ac5462997D2BC57287Ac3a3aE4C31345D66.png"
+  },
+  {
     "name": "Hoo",
     "symbol": "HOO",
     "address": "0xe1d1f66215998786110ba0102ef558b22224c016",
@@ -69266,6 +69338,14 @@
     "logoURI": "https://tokens.pancakeswap.finance/images/0xf307910A4c7bbc79691fD374889b36d8531B08e3.png"
   },
   {
+    "name": "HappyFans",
+    "symbol": "HAPPY",
+    "address": "0xf5d8a096cccb31b9d7bce5afe812be23e3d4690d",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0xF5d8A096CcCb31b9D7bcE5afE812BE23e3D4690d.png"
+  },
+  {
     "name": "HARD",
     "symbol": "HARD",
     "address": "0xf79037f6f6be66832de4e7516be52826bc3cbcc4",
@@ -69296,6 +69376,14 @@
     "chainId": 56,
     "decimals": 6,
     "logoURI": "https://tokens.pancakeswap.finance/images/0xf9CeC8d50f6c8ad3Fb6dcCEC577e05aA32B224FE.png"
+  },
+  {
+    "name": "Wizardia Coin",
+    "symbol": "WZRD",
+    "address": "0xfa40d8fc324bcdd6bbae0e086de886c571c225d4",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0xFa40d8FC324bcdD6Bbae0e086De886c571C225d4.png"
   },
   {
     "name": "renBTC",
