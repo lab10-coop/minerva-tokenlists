@@ -6689,14 +6689,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x19a4a9eff50ddafd9faefd0b8d1f2d79ac8183f4",
-    "name": "Usopp Inu",
-    "symbol": "USOPP",
-    "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/19058/thumb/usopp.jpg?1634265926"
-  },
-  {
-    "chainId": 1,
     "name": "Covenant",
     "address": "0x19ac2659599fd01c853de846919544276ad26f50",
     "decimals": 18,
@@ -6945,6 +6937,14 @@
     "decimals": 18,
     "symbol": "PSM",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2926.png"
+  },
+  {
+    "chainId": 1,
+    "name": "MoonRock V2",
+    "address": "0x1a6921f7b92113c79306f1a9e148d83445ac42bc",
+    "decimals": 9,
+    "symbol": "ROCK",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/19557.png"
   },
   {
     "chainId": 1,
@@ -7888,11 +7888,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x1e5193ccc53f25638aa22a940af899b692e10b09",
     "name": "Alluo",
-    "symbol": "ALLUO",
+    "address": "0x1e5193ccc53f25638aa22a940af899b692e10b09",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/21484/thumb/6168135b36da4560d493f4d3_Group_242.png?1639362680"
+    "symbol": "ALLUO",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/19551.png"
   },
   {
     "chainId": 1,
@@ -8995,6 +8995,14 @@
     "decimals": 8,
     "logoURI": "ipfs://Qme1hgBM2rsKfhhZSGsFynn7BgA9z982GMASc92GBg2kbw",
     "tags": []
+  },
+  {
+    "chainId": 1,
+    "address": "0x22b59a7387f7d25fe2b1c692ee825e1802e6e3d5",
+    "name": "CoinViewCap",
+    "symbol": "CVC",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/25044/thumb/coinviewcap1.png?1649918021"
   },
   {
     "chainId": 1,
@@ -47420,6 +47428,14 @@
   },
   {
     "chainId": 1,
+    "name": "O-MEE",
+    "address": "0xbd89b8d708809e7022135313683663911826977e",
+    "decimals": 18,
+    "symbol": "OME",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/19546.png"
+  },
+  {
+    "chainId": 1,
     "name": "DAOSquare",
     "address": "0xbd9908b0cdd50386f92efcc8e1d71766c2782df0",
     "decimals": 18,
@@ -47855,7 +47871,7 @@
     "name": "LLEIDA ESPORTIU DAO",
     "address": "0xbf61348aa2e35dd798c4bc63bd58f30e184342ac",
     "decimals": 18,
-    "symbol": "LLE",
+    "symbol": "LL",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/19523.png"
   },
   {
