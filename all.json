@@ -23560,11 +23560,11 @@
   },
   {
     "chainId": 1,
+    "name": "Flow",
     "address": "0x5c147e74d63b1d31aa3fd78eb229b65161983b2b",
-    "name": "Wrapped Flow",
-    "symbol": "WFLOW",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/24045/thumb/wrapped-flow.png?1646187143"
+    "symbol": "FLOW",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/4558.png"
   },
   {
     "chainId": 1,
@@ -58561,6 +58561,15 @@
     "symbol": "CUDL",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/17479/thumb/cudl.PNG?1627950486"
+  },
+  {
+    "chainId": 1,
+    "address": "0xece8531550fc599ccb2c7734494fbc358d0a9483",
+    "symbol": "PP",
+    "name": "PP",
+    "decimals": 18,
+    "logoURI": "ipfs://QmY5WmifP6BfEgpxbwMPaTEkT773dtq366kfuTrpyfxdnK",
+    "tags": []
   },
   {
     "chainId": 1,
