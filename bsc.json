@@ -312,14 +312,6 @@
     "logoURI": "https://tokens.pancakeswap.finance/images/0x1F7216fdB338247512Ec99715587bb97BBf96eae.png"
   },
   {
-    "name": "APENFT",
-    "symbol": "NFT",
-    "address": "0x1fc9004ec7e5722891f5f38bae7678efcb11d34d",
-    "chainId": 56,
-    "decimals": 6,
-    "logoURI": "https://tokens.pancakeswap.finance/images/0x1fC9004eC7E5722891f5f38baE7678efCB11d34D.png"
-  },
-  {
     "name": "Tixl",
     "symbol": "TXL",
     "address": "0x1ffd0b47127fdd4097e54521c9e2c7f0d66aafc5",
@@ -342,6 +334,14 @@
     "chainId": 56,
     "decimals": 18,
     "logoURI": "https://tokens.pancakeswap.finance/images/0x20de22029ab63cf9A7Cf5fEB2b737Ca1eE4c82A6.png"
+  },
+  {
+    "name": "APENFT",
+    "symbol": "NFT",
+    "address": "0x20ee7b720f4e4c4ffcb00c4065cdae55271aecca",
+    "chainId": 56,
+    "decimals": 6,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x20eE7B720f4E4c4FFcB00C4065cdae55271aECCa.png"
   },
   {
     "name": "BUX",
