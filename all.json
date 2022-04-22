@@ -13758,7 +13758,7 @@
   },
   {
     "chainId": 1,
-    "name": "SENATE DAO",
+    "name": "SENATE",
     "address": "0x34be5b8c30ee4fde069dc878989686abe9884470",
     "decimals": 18,
     "symbol": "SENATE",
@@ -17119,7 +17119,7 @@
     "chainId": 1,
     "name": "FUNToken",
     "address": "0x419d0d8bdd9af5e606ae2232ed285aff190e711b",
-    "decimals": 8,
+    "decimals": 18,
     "symbol": "FUN",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/1757.png"
   },
@@ -18172,6 +18172,14 @@
     "decimals": 18,
     "symbol": "YLAB",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7357.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Kaizen Finance",
+    "address": "0x4550003152f12014558e5ce025707e4dd841100f",
+    "decimals": 18,
+    "symbol": "KZEN",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/19670.png"
   },
   {
     "chainId": 1,
@@ -21931,7 +21939,7 @@
   },
   {
     "chainId": 1,
-    "name": "SIDUS HEROES",
+    "name": "SIDUS",
     "address": "0x549020a9cb845220d66d3e9c6d9f9ef61c981102",
     "decimals": 18,
     "symbol": "SIDUS",
@@ -23808,7 +23816,7 @@
   },
   {
     "chainId": 1,
-    "name": "Coplay Token",
+    "name": "Cosplay Token",
     "address": "0x5cac718a3ae330d361e39244bf9e67ab17514ce8",
     "decimals": 18,
     "symbol": "COT",
@@ -25044,7 +25052,7 @@
     "chainId": 1,
     "name": "Kounotori",
     "address": "0x616ef40d55c0d2c506f4d6873bda8090b79bf8fc",
-    "decimals": 9,
+    "decimals": 18,
     "symbol": "KTO",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/15641.png"
   },
@@ -27044,6 +27052,14 @@
     "decimals": 18,
     "symbol": "BNFI",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7987.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x68e9c0d9aa450254aed2cd102503d4dff6b3c37c",
+    "name": "CrownSterling",
+    "symbol": "WCSOV",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/25179/thumb/9kL0liy4_400x400.jpg?1650541820"
   },
   {
     "chainId": 1,
@@ -29582,11 +29598,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x73b708e84837ffccde2933e3a1531fe61d5e80ef",
     "name": "Betero",
-    "symbol": "BET",
+    "address": "0x73b708e84837ffccde2933e3a1531fe61d5e80ef",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/25153/thumb/B_green200.png?1650461529"
+    "symbol": "BET",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/19675.png"
   },
   {
     "chainId": 1,
@@ -35293,11 +35309,11 @@
   },
   {
     "chainId": 1,
-    "name": "LABS Group",
     "address": "0x8b0e42f366ba502d787bb134478adfae966c8798",
-    "decimals": 18,
+    "name": "LABS Group",
     "symbol": "LABS",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/8813.png"
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/14401/thumb/LABS_logo_icon_COLOR-8.png?1615890483"
   },
   {
     "chainId": 1,
@@ -40699,14 +40715,6 @@
   },
   {
     "chainId": 1,
-    "name": "Abitshadow Token",
-    "address": "0xa0b207103f764a920b4af9e691f5bd956de14ded",
-    "decimals": 8,
-    "symbol": "ABST",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/4518.png"
-  },
-  {
-    "chainId": 1,
     "name": "Cronos",
     "address": "0xa0b73e1ff0b80914ab6fe0444e65848c4c34450b",
     "decimals": 8,
@@ -41910,6 +41918,14 @@
   },
   {
     "chainId": 1,
+    "address": "0xa54d2ebfd977ad836203c85f18db2f0a0cf88854",
+    "name": "Bacon Coin",
+    "symbol": "BACON",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/25173/thumb/bacon-200.png?1650526720"
+  },
+  {
+    "chainId": 1,
     "name": "NEVERDIE",
     "address": "0xa54ddc7b3cce7fc8b1e3fa0256d0db80d2c10970",
     "decimals": 18,
@@ -42373,6 +42389,14 @@
     "symbol": "FLEXUSD",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/13323/thumb/flexUSD_2x.png?1607480702"
+  },
+  {
+    "chainId": 1,
+    "name": "VIKTAMA",
+    "address": "0xa791dbc054ece11bf241ecb8602a4dd9bfe7710c",
+    "decimals": 9,
+    "symbol": "VIK",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/19667.png"
   },
   {
     "chainId": 1,
@@ -48598,14 +48622,6 @@
   },
   {
     "chainId": 1,
-    "address": "0xc1d204d77861def49b6e769347a883b15ec397ff",
-    "name": "PayperEx",
-    "symbol": "PAX",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/1601/thumb/pax.png?1547035800"
-  },
-  {
-    "chainId": 1,
     "name": "GridZone.io",
     "address": "0xc1d9b5a0776d7c8b98b8a838e5a0dd1bc5fdd53c",
     "decimals": 18,
@@ -50384,6 +50400,14 @@
     "decimals": 9,
     "symbol": "KEVIN",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/18564.png"
+  },
+  {
+    "chainId": 1,
+    "name": "XMANNA",
+    "address": "0xc9fc056010d41f6d19b1aca8450b152ce2c3ca8a",
+    "decimals": 18,
+    "symbol": "XMAN",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/19669.png"
   },
   {
     "chainId": 1,
