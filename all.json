@@ -3947,14 +3947,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x0f644658510c95cb46955e55d7ba9dda9e9fbec6",
-    "name": "Ubiquity Algorithmic Dollar",
-    "symbol": "UAD",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/19264/thumb/Screenshot_2021-10-21_at_8.30.40_PM.png?1634819623"
-  },
-  {
-    "chainId": 1,
     "name": "Arcona",
     "address": "0x0f71b8de197a1c84d31de0f1fa7926c365f052b3",
     "decimals": 18,
@@ -6744,14 +6736,6 @@
     "decimals": 18,
     "logoURI": "ipfs://Qmc2tin2LTo5Q5CLnZAdwsoLqaqy4dwtebD9nyS3b5VpD5",
     "tags": []
-  },
-  {
-    "chainId": 1,
-    "address": "0x19d6c93f2d298362045d63c6e32f741954379a6f",
-    "name": "Bitacium",
-    "symbol": "XBOND",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/19271/thumb/1b9c708b57a55eb2827bd148f8dfcb4d_197x197_0x1_197x198.png?1634868464"
   },
   {
     "chainId": 1,
@@ -14408,6 +14392,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x3703f712945f8111fe2c5f9ae155a52560e2065c",
+    "name": "Bamboonium",
+    "symbol": "BAMB",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/25193/thumb/bamb_logo.png?1650608279"
+  },
+  {
+    "chainId": 1,
     "name": "Blue Eyes White Doge",
     "address": "0x37092dbf8c26da9cc805683b4cc0b942e92de2fd",
     "decimals": 9,
@@ -16578,6 +16570,14 @@
     "decimals": 9,
     "symbol": "RISE",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/8460.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Castello Coin",
+    "address": "0x3fab0bbaa03bceaf7c49e2b12877db0142be65fc",
+    "decimals": 8,
+    "symbol": "CAST",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/19705.png"
   },
   {
     "chainId": 1,
@@ -22169,6 +22169,14 @@
     "decimals": 18,
     "symbol": "JUL",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/6937.png"
+  },
+  {
+    "chainId": 1,
+    "name": "VIIIDA Gold",
+    "address": "0x558c7ebb10514a6786d83a26c322d0b53e39d603",
+    "decimals": 18,
+    "symbol": "AUV",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/19719.png"
   },
   {
     "chainId": 1,
@@ -30342,6 +30350,14 @@
     "decimals": 18,
     "symbol": "CRX",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/5639.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x7707aada3ce7722ac63b91727daf1999849f6835",
+    "name": "Bankera",
+    "symbol": "BNK",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/1949/thumb/bnk.png?1547036236"
   },
   {
     "chainId": 1,
@@ -49072,6 +49088,14 @@
   },
   {
     "chainId": 1,
+    "name": "Linear Finance",
+    "address": "0xc3c6cf6bbca7b759d23a2586e80f795c57a32bef",
+    "decimals": 18,
+    "symbol": "lUSD",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/19714.png"
+  },
+  {
+    "chainId": 1,
     "name": "Voucher Ethereum",
     "address": "0xc3d088842dcf02c13699f936bb83dfbbc6f721ab",
     "decimals": 18,
@@ -53238,6 +53262,15 @@
     "decimals": 18,
     "symbol": "ACU",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/4260.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xd54f76a4f66d6016a7ff169face62c14746e25b7",
+    "symbol": "EWOM",
+    "name": "EWOM",
+    "decimals": 18,
+    "logoURI": "ipfs://QmULXNnV6pz1LRfisQ9CQLPQnLyqqdCGdVPa4T9wiqHeBH",
+    "tags": []
   },
   {
     "chainId": 1,
@@ -69453,6 +69486,14 @@
     "chainId": 56,
     "decimals": 18,
     "logoURI": "https://tokens.pancakeswap.finance/images/0xE8176d414560cFE1Bf82Fd73B986823B89E4F545.png"
+  },
+  {
+    "name": "Ankr BNB Reward Bearing Certificate",
+    "symbol": "aBNBc",
+    "address": "0xe85afccdafbe7f2b096f268e31cce3da8da2990a",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0xE85aFCcDaFBE7F2B096f268e31ccE3da8dA2990A.png"
   },
   {
     "name": "TitanSwap",
