@@ -19551,7 +19551,7 @@
     "chainId": 1,
     "name": "Internxt",
     "address": "0x4a8f5f96d5436e43112c2fbc6a9f70da9e4e16d4",
-    "decimals": 18,
+    "decimals": 8,
     "symbol": "INXT",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2022.png"
   },
@@ -24895,14 +24895,6 @@
     "decimals": 18,
     "symbol": "GXT",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/4693.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x60e46a4dd91d10506d8efa2caa266e7191fe7ea8",
-    "name": "Fewmans Gold",
-    "symbol": "FEWGO",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/18417/thumb/few.png?1631872113"
   },
   {
     "chainId": 1,
@@ -35367,7 +35359,7 @@
     "chainId": 1,
     "name": "Saitama",
     "address": "0x8b3192f5eebd8579568a2ed41e6feb402f93f73f",
-    "decimals": 18,
+    "decimals": 9,
     "symbol": "SAITAMA",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/10498.png"
   },
@@ -43398,7 +43390,7 @@
     "chainId": 1,
     "name": "Shibnobi",
     "address": "0xab167e816e4d76089119900e941befdfa37d6b32",
-    "decimals": 18,
+    "decimals": 9,
     "symbol": "SHINJA",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/14774.png"
   },
@@ -44312,7 +44304,7 @@
     "chainId": 1,
     "name": "Pawthereum",
     "address": "0xaecc217a749c2405b5ebc9857a16d58bdc1c367f",
-    "decimals": 18,
+    "decimals": 9,
     "symbol": "PAWTH",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/12983.png"
   },
@@ -48624,7 +48616,7 @@
     "chainId": 1,
     "name": "Luffy",
     "address": "0xc1bfccd4c29813ede019d00d2179eea838a67703",
-    "decimals": 18,
+    "decimals": 9,
     "symbol": "LUFFY",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/11856.png"
   },
@@ -54574,11 +54566,11 @@
   },
   {
     "chainId": 1,
-    "name": "Atari Token",
     "address": "0xdacd69347de42babfaecd09dc88958378780fb62",
-    "decimals": 18,
+    "name": "Atari",
     "symbol": "ATRI",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7395.png"
+    "decimals": 0,
+    "logoURI": "https://assets.coingecko.com/coins/images/12992/thumb/AtariLogoPS_200x200_%281%29.png?1643189483"
   },
   {
     "chainId": 1,
