@@ -842,6 +842,14 @@
   },
   {
     "chainId": 1,
+    "name": "Akt.io",
+    "address": "0x02e64ded0c7acb0eb0fd495d957fb4c0bc25a24b",
+    "decimals": 18,
+    "symbol": "AKTIO",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/13141.png"
+  },
+  {
+    "chainId": 1,
     "name": "JPG NFT Index",
     "address": "0x02e7ac540409d32c90bfb51114003a9e1ff0249c",
     "decimals": 18,
@@ -1071,14 +1079,6 @@
     "symbol": "TSL",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/1222/thumb/energo.png?1547035249"
-  },
-  {
-    "chainId": 1,
-    "address": "0x03829f5675f3b51d0f8c2a74417a757625acf22f",
-    "name": "YFIBALANCER FINANCE",
-    "symbol": "YFIB",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12411/thumb/LogoYFIB_200px.png?1599640942"
   },
   {
     "chainId": 1,
@@ -4458,10 +4458,10 @@
   {
     "chainId": 1,
     "address": "0x1122b6a0e00dce0563082b6e2953f3a943855c1f",
-    "name": "Centrality",
+    "name": "CENNZnet",
     "symbol": "CENNZ",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/3408/thumb/logo.PNG?1547038083"
+    "logoURI": "https://assets.coingecko.com/coins/images/3408/thumb/CENNZ_ticker.png?1650943548"
   },
   {
     "chainId": 1,
@@ -6025,6 +6025,14 @@
     "decimals": 18,
     "symbol": "URQA",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/9053.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Shido Inu",
+    "address": "0x173e552bf97bbd50b455514ac52991ef639ba703",
+    "decimals": 9,
+    "symbol": "SHIDO",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/19520.png"
   },
   {
     "chainId": 1,
@@ -9002,7 +9010,7 @@
     "name": "CoinViewCap",
     "symbol": "CVC",
     "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/25044/thumb/cvc_logo.JPG?1650450449"
+    "logoURI": "https://assets.coingecko.com/coins/images/25044/thumb/coinviewcap_new.jpeg?1650952848"
   },
   {
     "chainId": 1,
@@ -9176,11 +9184,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x23581767a106ae21c074b2276d25e5c3e136a68b",
     "name": "Moonbirds",
+    "address": "0x23581767a106ae21c074b2276d25e5c3e136a68b",
+    "decimals": 18,
     "symbol": "MOONBIRD",
-    "decimals": 0,
-    "logoURI": "https://assets.coingecko.com/coins/images/25209/thumb/8nZJL9eQ_400x400_%281%29.jpg?1650788143"
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/19765.png"
   },
   {
     "chainId": 1,
@@ -14769,14 +14777,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x3850b506d082ecc25e14c0ac0e60db06a725b87f",
-    "name": "Yu Gi Eth ",
-    "symbol": "YGE",
-    "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/19417/thumb/logo_200200-01.png?1635213021"
-  },
-  {
-    "chainId": 1,
     "name": "xETH-G",
     "address": "0x3863ea7577fc91bfbaeae6a6a3e403524afcf787",
     "decimals": 18,
@@ -16885,11 +16885,11 @@
   },
   {
     "chainId": 1,
-    "name": "United Emirate Coin",
     "address": "0x40cf9f8b652efe6bfb9d5cfcdb12e3a8a8b4c2c3",
-    "decimals": 9,
+    "name": "United Emirate",
     "symbol": "UEC",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/19365.png"
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/24977/thumb/zcbFg-Az_400x400.jpg?1649654476"
   },
   {
     "chainId": 1,
@@ -18135,11 +18135,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x4521c9ad6a3d4230803ab752ed238be11f8b342f",
     "name": "Sanin Inu",
-    "symbol": "SANI",
+    "address": "0x4521c9ad6a3d4230803ab752ed238be11f8b342f",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/25222/thumb/B7r0ocfQ_400x400.jpg?1650892157"
+    "symbol": "SANI",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/19762.png"
   },
   {
     "chainId": 1,
@@ -18647,6 +18647,14 @@
     "symbol": "XBX",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/18341/thumb/200x200.png?1631601808"
+  },
+  {
+    "chainId": 1,
+    "name": "Primate",
+    "address": "0x46e98ffe40e408ba6412beb670507e083c8b95ff",
+    "decimals": 18,
+    "symbol": "PRIMATE",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/19229.png"
   },
   {
     "chainId": 1,
@@ -20967,14 +20975,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x4fb0dda89df6d2fd3d291d83e30322c38e830faa",
-    "name": "Pakkun Inu",
-    "symbol": "PAKK",
-    "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/19418/thumb/photo-2021-10-25-11-44-09.jpeg?1635213239"
-  },
-  {
-    "chainId": 1,
     "name": "Tokenplace",
     "address": "0x4fb721ef3bf99e0f2c193847afa296b9257d3c30",
     "decimals": 8,
@@ -21640,6 +21640,14 @@
   },
   {
     "chainId": 1,
+    "name": "United Emirate Coin",
+    "address": "0x52d04a0a7f3d79880a89cc3ca5de294862f6a0d9",
+    "decimals": 9,
+    "symbol": "UEC",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/19365.png"
+  },
+  {
+    "chainId": 1,
     "address": "0x52d87f22192131636f93c5ab18d0127ea52cb641",
     "symbol": "renLUNA",
     "name": "renLUNA",
@@ -22244,11 +22252,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x559ebc30b0e58a45cc9ff573f77ef1e5eb1b3e18",
     "name": "Volt Protocol",
-    "symbol": "VOLT",
+    "address": "0x559ebc30b0e58a45cc9ff573f77ef1e5eb1b3e18",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/25218/thumb/200x200_Volt_logo.png?1650869138"
+    "symbol": "VOLT",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/19769.png"
   },
   {
     "chainId": 1,
@@ -22796,6 +22804,14 @@
   },
   {
     "chainId": 1,
+    "name": "XRUN",
+    "address": "0x5833dbb0749887174b254ba4a5df747ff523a905",
+    "decimals": 18,
+    "symbol": "XRUN",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/19787.png"
+  },
+  {
+    "chainId": 1,
     "name": "MintStarter",
     "address": "0x583673b49ee3ae9e59c0b2fa662115952e1d28fd",
     "decimals": 18,
@@ -23226,6 +23242,14 @@
     "decimals": 18,
     "symbol": "HP",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/5156.png"
+  },
+  {
+    "chainId": 1,
+    "name": "CortexDAO",
+    "address": "0x5a56da75c50aa2733f5fa9a2442aaefcbc60b2e6",
+    "decimals": 18,
+    "symbol": "CXD",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/19770.png"
   },
   {
     "chainId": 1,
@@ -29635,6 +29659,14 @@
     "decimals": 18,
     "symbol": "NDR",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7993.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Stone",
+    "address": "0x73a83269b9bbafc427e76be0a2c1a1db2a26f4c2",
+    "decimals": 18,
+    "symbol": "0NE",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/19773.png"
   },
   {
     "chainId": 1,
@@ -49730,6 +49762,14 @@
   },
   {
     "chainId": 1,
+    "name": "GrimaceCoinCrypto",
+    "address": "0xc6759a4fc56b3ce9734035a56b36e8637c45b77e",
+    "decimals": 18,
+    "symbol": "GRIMACE",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/17767.png"
+  },
+  {
+    "chainId": 1,
     "name": "Globe Derivative Exchange",
     "address": "0xc67b12049c2d0cf6e476bc64c7f82fc6c63cffc5",
     "decimals": 18,
@@ -62777,6 +62817,14 @@
     "decimals": 18,
     "symbol": "LYD",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/16573.png"
+  },
+  {
+    "chainId": 1,
+    "name": "MAIN",
+    "address": "0xfceb206e1a80527908521121358b5e26caabaa75",
+    "decimals": 18,
+    "symbol": "MAIN",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/19764.png"
   },
   {
     "chainId": 1,
