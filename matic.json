@@ -1,5 +1,13 @@
 [
   {
+    "name": "Arable Protocol",
+    "address": "0x011734f6ed20e8d011d85cf7894814b897420acf",
+    "symbol": "ACRE",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/23659/small/acre_token-02.png?1644989289"
+  },
+  {
     "name": "Exchange Genesis Ethlas Medium",
     "address": "0x02649c1ff4296038de4b9ba8f491b42b940a8252",
     "symbol": "XGEM",
@@ -22,14 +30,6 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://s3-us-west-2.amazonaws.com/acf-uploads/apyvisionlogo200circle.png"
-  },
-  {
-    "name": "X-Cash",
-    "address": "0x03678f2c2c762dc63c2bb738c3a837d366eda560",
-    "symbol": "XCash",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://assets.coingecko.com/coins/images/6331/small/5fbb9e5b8f27d74dd8bcb912_xcash_coingecko_logo.png?1606133752"
   },
   {
     "name": "Safle",
@@ -228,6 +228,14 @@
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png"
   },
   {
+    "name": "Stader",
+    "address": "0x1d734a02ef1e1f5886e66b0673b71af5b53ffa94",
+    "symbol": "SD",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/20658/small/sd.png?1642927667"
+  },
+  {
     "name": "Unbound Dollar",
     "address": "0x1eba4b44c4f8cc2695347c6a78f0b7a002d26413",
     "symbol": "UND",
@@ -266,14 +274,6 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://assets.coingecko.com/coins/images/20505/small/welt.PNG?1637143324"
-  },
-  {
-    "name": "AurusSILVER",
-    "address": "0x24ad14a4f0bb79a9dcf201514cb0e651c79db76b",
-    "symbol": "AWS",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://assets.coingecko.com/coins/images/14965/small/2021-12-06-Aurus-tokens-for-coingecko-AWS-flat-color-v1-r1-AS.png?1640223368"
   },
   {
     "name": "TETU Reward Token",
@@ -411,6 +411,14 @@
     "logoURI": "https://raw.githubusercontent.com/iotexproject/iotex-token-metadata/master/images/io1nxetpma4de3wx6tqcgxdtj5wc64a24t64dc76s.png"
   },
   {
+    "name": "PDSHARE",
+    "address": "0x3068382885602fc0089aec774944b5ad6123ae60",
+    "symbol": "PDSHARE",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/24963/small/pdshare.png?1649574782"
+  },
+  {
     "name": "Morpheus Infrastructure Token",
     "address": "0x31042a4e66eda0d12143ffc8cc1552d611da4cba",
     "symbol": "MITx",
@@ -509,14 +517,6 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://i.imgur.com/BDibHLm.png"
-  },
-  {
-    "name": "PureFi Token",
-    "address": "0x3c205c8b3e02421da82064646788c82f7bd753b9",
-    "symbol": "UFI",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://assets.coingecko.com/coins/images/17341/small/purefi.PNG?1627362147"
   },
   {
     "name": "UnirisToken",
@@ -915,20 +915,20 @@
     "logoURI": "https://assets.coingecko.com/coins/images/17277/small/WoZ8rruL_400x400.png?1627016492"
   },
   {
-    "name": "BSCstarter",
-    "address": "0x6ccf12b480a99c54b23647c995f4525d544a7e72",
-    "symbol": "START",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://assets.coingecko.com/coins/images/14301/small/logo_poly_sym.png?1624893386"
-  },
-  {
     "name": "Furucombo",
     "address": "0x6ddb31002abc64e1479fc439692f7ea061e78165",
     "symbol": "COMBO",
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://assets.coingecko.com/coins/images/13629/small/COMBO_token_ol.png?1610701537"
+  },
+  {
+    "name": "Goo",
+    "address": "0x6f3cc27e17a0f2e52d8e7693ff0d892cea1854bf",
+    "symbol": "GOO",
+    "decimals": 9,
+    "chainId": 137,
+    "logoURI": "https://playgooeys.com/GOO-200x200.png"
   },
   {
     "name": "SHIBA INU",
@@ -1091,14 +1091,6 @@
     "logoURI": "https://modefi.io/images/modefi256.png"
   },
   {
-    "name": "SportX",
-    "address": "0x840195888db4d6a99ed9f73fcd3b225bb3cb1a79",
-    "symbol": "SX",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://raw.githubusercontent.com/sameepsi/quickswap-default-token-list/master/assets/sx.jpg"
-  },
-  {
     "name": "Compound",
     "address": "0x8505b9d2254a7ae468c0e9dd10ccea3a837aef5c",
     "symbol": "COMP",
@@ -1179,6 +1171,14 @@
     "logoURI": "https://i.ibb.co/xKnbP10/logo-icon-onlight-whitebg.png"
   },
   {
+    "name": "Pleasure Coin",
+    "address": "0x8f006d1e1d9dc6c98996f50a4c810f17a47fbf19",
+    "symbol": "NSFW",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/15315/small/pleasurecoin-icon.png?1648724879"
+  },
+  {
     "name": "moonwolf.io",
     "address": "0x8f18dc399594b451eda8c5da02d0563c0b2d0f16",
     "symbol": "WOLF",
@@ -1251,14 +1251,6 @@
     "logoURI": "https://i.ibb.co/FH1GMYX/cx-DOGE-128x128.png"
   },
   {
-    "name": "Darwinia",
-    "address": "0x9c1c23e60b72bc88a043bf64afdb16a02540ae8f",
-    "symbol": "Ring",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://assets.coingecko.com/coins/images/9443/small/RING.png?1615271827"
-  },
-  {
     "name": "Phoenix Token",
     "address": "0x9c6bfedc14b5c23e3900889436edca7805170f01",
     "symbol": "PHX",
@@ -1297,14 +1289,6 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://storage.googleapis.com/stacktical-public/dsla.png"
-  },
-  {
-    "name": "SuperFarm",
-    "address": "0xa1428174f516f527fafdd146b883bb4428682737",
-    "symbol": "SUPER",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://assets.coingecko.com/coins/images/14040/small/6YPdWn6.png?1613975899"
   },
   {
     "name": "Decentraland MANA",
@@ -1401,6 +1385,14 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://assets.coingecko.com/coins/images/19270/small/amun-peco.png?1634868167"
+  },
+  {
+    "name": "AurusSILVER",
+    "address": "0xa96d47c621a8316d4f9539e3b38180c7067e84ca",
+    "symbol": "AWS",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/14965/small/2021-12-06-Aurus-tokens-for-coingecko-AWS-flat-color-v1-r1-AS.png?1640223368"
   },
   {
     "name": "Moss Carbon Credit",
@@ -1797,14 +1789,6 @@
     "logoURI": "https://assets.coingecko.com/coins/images/3263/small/CEL_logo.png?1609598753"
   },
   {
-    "name": "yearn.finance",
-    "address": "0xda537104d6a5edd53c6fbba9a898708e465260b6",
-    "symbol": "YFI",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e/logo.png"
-  },
-  {
     "name": "Centaur Token",
     "address": "0xdae89da41a96956e9e70320ac9c0dd077070d3a5",
     "symbol": "CNTR",
@@ -1997,6 +1981,14 @@
     "logoURI": "https://polygonscan.com/token/images/decentralgame_32.png?v=5"
   },
   {
+    "name": "TryHards",
+    "address": "0xefee2de82343be622dcb4e545f75a3b9f50c272d",
+    "symbol": "TRY",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/12225.png"
+  },
+  {
     "name": "PolyPug",
     "address": "0xf13bfc42bfcc421db1fd471ec49bb865cede7270",
     "symbol": "PolyPug",
@@ -2051,6 +2043,14 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://assets.coingecko.com/coins/images/10347/small/vUXKHEe.png?1601523640"
+  },
+  {
+    "name": "Liquid Staking Matic",
+    "address": "0xfa68fb4628dff1028cfec22b4162fccd0d45efb6",
+    "symbol": "MaticX",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://i.ibb.co/9bHbFsB/2022-04-26-11-53-13.jpg"
   },
   {
     "name": "beefy.finance",
