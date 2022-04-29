@@ -826,14 +826,6 @@
   },
   {
     "chainId": 1,
-    "name": "Akt.io",
-    "address": "0x02e64ded0c7acb0eb0fd495d957fb4c0bc25a24b",
-    "decimals": 18,
-    "symbol": "AKTIO",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/13141.png"
-  },
-  {
-    "chainId": 1,
     "name": "JPG NFT Index",
     "address": "0x02e7ac540409d32c90bfb51114003a9e1ff0249c",
     "decimals": 18,
@@ -3369,11 +3361,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x0d86eb9f43c57f6ff3bc9e23d8f9d82503f0e84b",
     "name": "Maximus Token",
-    "symbol": "MAXI",
+    "address": "0x0d86eb9f43c57f6ff3bc9e23d8f9d82503f0e84b",
     "decimals": 8,
-    "logoURI": "https://assets.coingecko.com/coins/images/25126/thumb/maxilogo200.png?1650372648"
+    "symbol": "MAXI",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/19837.png"
   },
   {
     "chainId": 1,
@@ -8934,11 +8926,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x22b59a7387f7d25fe2b1c692ee825e1802e6e3d5",
     "name": "CoinViewCap",
-    "symbol": "CVC",
+    "address": "0x22b59a7387f7d25fe2b1c692ee825e1802e6e3d5",
     "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/25044/thumb/coinviewcap_new.jpeg?1650952848"
+    "symbol": "CVC",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/19832.png"
   },
   {
     "chainId": 1,
@@ -9923,7 +9915,7 @@
     "chainId": 1,
     "name": "BitcoinSoV",
     "address": "0x26946ada5ecb57f3a1f91605050ce45c482c9eb1",
-    "decimals": 8,
+    "decimals": 18,
     "symbol": "BSOV",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/4306.png"
   },
@@ -14610,10 +14602,11 @@
   {
     "chainId": 1,
     "address": "0x382f0160c24f5c515a19f155bac14d479433a407",
-    "name": "KleeKai",
     "symbol": "KLEE",
+    "name": "KleeKai",
     "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/15548/thumb/Klee-Kai-Logo.png?1628258448"
+    "logoURI": "ipfs://QmdtnQuCbna5YjrFNa6E9R57mNXuWQHg9Fm6JQzydbR5Xv",
+    "tags": []
   },
   {
     "chainId": 1,
@@ -15140,7 +15133,7 @@
     "chainId": 1,
     "name": "Piccolo Inu",
     "address": "0x3a1311b8c404629e38f61d566cefefed083b9670",
-    "decimals": 9,
+    "decimals": 18,
     "symbol": "PINU",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/13047.png"
   },
@@ -18401,11 +18394,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x469084939d1c20fae3c73704fe963941c51be863",
     "name": "Envision",
-    "symbol": "VIS",
+    "address": "0x469084939d1c20fae3c73704fe963941c51be863",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/23907/thumb/J3JCKVq2.png?1645681725"
+    "symbol": "VIS",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/18348.png"
   },
   {
     "chainId": 1,
@@ -20109,14 +20102,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x4cdb72fa315a7224c8da92449a4951f3daa1d362",
-    "name": "L inu",
-    "symbol": "L",
-    "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/19565/thumb/cbRZHKR.png?1635411465"
-  },
-  {
-    "chainId": 1,
     "name": "NPER",
     "address": "0x4ce6b362bc77a24966dda9078f9cef81b3b886a7",
     "decimals": 18,
@@ -20339,14 +20324,6 @@
     "decimals": 18,
     "symbol": "CON",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3866.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x4dd981f0f2e7934b6b50c9d1beda2b5456924df6",
-    "name": "PicoGo",
-    "symbol": "PICO",
-    "decimals": 6,
-    "logoURI": "https://assets.coingecko.com/coins/images/23091/thumb/pico.png?1649573468"
   },
   {
     "chainId": 1,
@@ -20967,11 +20944,11 @@
   },
   {
     "chainId": 1,
-    "name": "Mylivn Coin",
     "address": "0x5054ed21d6f50b8bcc374c9ef86c9ad832e52140",
-    "decimals": 18,
+    "name": "Mylivn Coin",
     "symbol": "MLVC",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/14788.png"
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/20595/thumb/mlvc.png?1639200271"
   },
   {
     "chainId": 1,
@@ -21279,14 +21256,6 @@
   },
   {
     "chainId": 1,
-    "name": "Envision",
-    "address": "0x51bb44d7a49d1e5165794e6b54461e1cf87f773b",
-    "decimals": 18,
-    "symbol": "VIS",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/18348.png"
-  },
-  {
-    "chainId": 1,
     "name": "RAKUN",
     "address": "0x51bc0deaf7bbe82bc9006b0c3531668a4206d27f",
     "decimals": 18,
@@ -21473,7 +21442,7 @@
   {
     "chainId": 1,
     "address": "0x52a8845df664d76c69d2eea607cd793565af42b8",
-    "name": "ApeX Token",
+    "name": "ApeX",
     "symbol": "APEX",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/25266/thumb/CxpMECpk_400x400_%281%29.png?1651067984"
@@ -21993,14 +21962,6 @@
     "decimals": 18,
     "symbol": "KAWA",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/10640.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x555d051538c7a13712f1f590fa6b4c176ca4529f",
-    "name": "iOWN Token",
-    "symbol": "IOWN",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/8270/thumb/iOWN-Lion-Face.png?1585695262"
   },
   {
     "chainId": 1,
@@ -24591,6 +24552,14 @@
     "decimals": 18,
     "logoURI": "ipfs://QmUy1wh6J8qsycKuZXyPdYBgtFfAFTYHwHnoWpDWD4jgnU",
     "tags": []
+  },
+  {
+    "chainId": 1,
+    "address": "0x5fce9fc9b5d62af082a59d0823a062f7529efa5a",
+    "name": "Shaman",
+    "symbol": "SHAMAN",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/25292/thumb/0v-V3FPz_400x400.jpg?1651139525"
   },
   {
     "chainId": 1,
@@ -29366,14 +29335,6 @@
   },
   {
     "chainId": 1,
-    "name": "Ex Sports",
-    "address": "0x7331355e2dad3b55f9ce0fd460d082558952099e",
-    "decimals": 18,
-    "symbol": "EXS",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/12923.png"
-  },
-  {
-    "chainId": 1,
     "name": "Digies Coin",
     "address": "0x7333cbf5b0b843b4129e234f791b0058347f671a",
     "decimals": 9,
@@ -33434,7 +33395,7 @@
     "name": "JustCarbon Removal",
     "symbol": "JCR",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/25251/thumb/1_OBXddPoNaYTzIHChFOwmtA.png?1651039423"
+    "logoURI": "https://assets.coingecko.com/coins/images/25251/thumb/Just-Carbon-JCR-2.png?1651132559"
   },
   {
     "chainId": 1,
@@ -41783,7 +41744,7 @@
   },
   {
     "chainId": 1,
-    "name": "Bacon Coin",
+    "name": "BaconCoin",
     "address": "0xa54d2ebfd977ad836203c85f18db2f0a0cf88854",
     "decimals": 18,
     "symbol": "BACON",
@@ -42077,6 +42038,14 @@
     "decimals": 5,
     "symbol": "PC",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3061.png"
+  },
+  {
+    "chainId": 1,
+    "name": "KleeKai",
+    "address": "0xa67e9f021b9d208f7e3365b2a155e3c55b27de71",
+    "decimals": 18,
+    "symbol": "KLEE",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/10262.png"
   },
   {
     "chainId": 1,
@@ -43255,7 +43224,7 @@
     "chainId": 1,
     "name": "Shibnobi",
     "address": "0xab167e816e4d76089119900e941befdfa37d6b32",
-    "decimals": 9,
+    "decimals": 18,
     "symbol": "SHINJA",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/14774.png"
   },
@@ -45344,6 +45313,14 @@
   },
   {
     "chainId": 1,
+    "address": "0xb45ff0d00882e1cc12d5a9acc183e59b600dc54f",
+    "name": "Robo Step",
+    "symbol": "ROST",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/25298/thumb/itemslider.png?1651148842"
+  },
+  {
+    "chainId": 1,
     "name": "EANTO",
     "address": "0xb4742e2013f96850a5cef850a3bb74cf63b9a5d5",
     "decimals": 18,
@@ -47423,11 +47400,11 @@
   },
   {
     "chainId": 1,
-    "name": "O-MEE",
     "address": "0xbd89b8d708809e7022135313683663911826977e",
-    "decimals": 18,
+    "name": "O Mee",
     "symbol": "OME",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/19546.png"
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/25099/thumb/logo-mark-full-colour-cmyk-693px_300ppi.jpg?1650283806"
   },
   {
     "chainId": 1,
@@ -49435,11 +49412,11 @@
   },
   {
     "chainId": 1,
-    "address": "0xc631120155621ee625835ec810b9885cdd764cd6",
     "name": "Goldex Token",
+    "address": "0xc631120155621ee625835ec810b9885cdd764cd6",
+    "decimals": 18,
     "symbol": "GLDX",
-    "decimals": 8,
-    "logoURI": "https://assets.coingecko.com/coins/images/17814/thumb/gldx-logo-200x200.png?1629337485"
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/11318.png"
   },
   {
     "chainId": 1,
@@ -49764,11 +49741,11 @@
   },
   {
     "chainId": 1,
-    "name": "Pastel",
     "address": "0xc775c0c30840cb9f51e21061b054ebf1a00acc29",
-    "decimals": 5,
+    "name": "Pastel",
     "symbol": "PSL",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/8738.png"
+    "decimals": 5,
+    "logoURI": "https://assets.coingecko.com/coins/images/14293/thumb/A4qGwEij_400x400.jpg?1615290394"
   },
   {
     "chainId": 1,
@@ -59748,6 +59725,14 @@
   },
   {
     "chainId": 1,
+    "name": "APEBORG",
+    "address": "0xf168d4f47a973a65f61bfb46f924fe7489c74576",
+    "decimals": 9,
+    "symbol": "APEBORG",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/19844.png"
+  },
+  {
+    "chainId": 1,
     "address": "0xf16cd087e1c2c747b2bdf6f9a5498aa400d99c24",
     "name": "iBG Finance  ETH ",
     "symbol": "IBG",
@@ -59841,14 +59826,6 @@
     "decimals": 18,
     "symbol": "OSQTH",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/17500.png"
-  },
-  {
-    "chainId": 1,
-    "name": "KleeKai",
-    "address": "0xf1c77e6f9c1ac3a67e79855a2cd0728a9127bbe7",
-    "decimals": 18,
-    "symbol": "KLEE",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/10262.png"
   },
   {
     "chainId": 1,
@@ -62615,14 +62592,6 @@
   },
   {
     "chainId": 1,
-    "address": "0xfd3e8aa6551d90d3de0b5ec2526bbc54eface2c4",
-    "name": "Mulierum",
-    "symbol": "DIVA",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/19553/thumb/photo_2021-10-28_14-22-03.jpg?1635402269"
-  },
-  {
-    "chainId": 1,
     "name": "The APIS",
     "address": "0xfd4168e642ebd04c3684a6cdb3a5e86de85d3908",
     "decimals": 18,
@@ -63094,6 +63063,14 @@
     "decimals": 18,
     "symbol": "BITX",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3011.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xff3417dd60a87bce3a6d7d4a62dcd3e9d2ea59c4",
+    "name": "Landverse",
+    "symbol": "LVMH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/25283/thumb/avatar-1548654970-0-1.jpg?1651128083"
   },
   {
     "chainId": 1,
