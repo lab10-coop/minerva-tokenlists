@@ -1067,9 +1067,9 @@
     "logoURI": "https://bookie.farm/logoether/bookie200.png"
   },
   {
-    "name": "Quickswap",
+    "name": "QuickSwap(OLD)",
     "address": "0x831753dd7087cac61ab5644b308642cc1c33dc13",
-    "symbol": "QUICK",
+    "symbol": "QUICK(OLD)",
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://raw.githubusercontent.com/sameepsi/quickswap-interface/master/public/favicon.jpeg"
@@ -1473,6 +1473,14 @@
     "decimals": 6,
     "chainId": 137,
     "logoURI": "https://assets.coingecko.com/coins/images/14582/small/512_Light.png?1617149658"
+  },
+  {
+    "name": "QuickSwap(NEW)",
+    "address": "0xb5c064f955d8e7f38fe0460c556a72987494ee17",
+    "symbol": "QUICK(NEW)",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://raw.githubusercontent.com/sameepsi/quickswap-default-token-list/master/assets/QUICK_NEW.svg"
   },
   {
     "name": "pTokens PNT",
