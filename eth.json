@@ -1234,11 +1234,11 @@
   },
   {
     "chainId": 1,
+    "name": "B.watch Box",
     "address": "0x045414e728067ab3da4bceafc0d992d59183463a",
-    "name": "B watch Box",
-    "symbol": "BOX",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/25324/thumb/Screenshot_from_2022-04-29_17-04-42.png?1651223108"
+    "symbol": "BOX",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/19888.png"
   },
   {
     "chainId": 1,
@@ -1424,14 +1424,6 @@
     "decimals": 8,
     "logoURI": "ipfs://QmP8LinT9zSNyDRb8moKUjmrcE1UKjTdC8tZQfjZvyyq3h",
     "tags": []
-  },
-  {
-    "chainId": 1,
-    "name": "FUTURECOIN",
-    "address": "0x054c27360406e1ab6ba9ee991f044db8916699e3",
-    "decimals": 18,
-    "symbol": "FUTURE",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/18006.png"
   },
   {
     "chainId": 1,
@@ -3094,6 +3086,14 @@
     "decimals": 18,
     "symbol": "UND",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7848.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x0c10bf8fcb7bf5412187a595ab97a3609160b5c6",
+    "name": "USDD",
+    "symbol": "USDD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/25380/thumb/usdd.png?1651455491"
   },
   {
     "chainId": 1,
@@ -6324,6 +6324,14 @@
     "decimals": 18,
     "symbol": "PRL",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2202.png"
+  },
+  {
+    "chainId": 1,
+    "name": "5KM",
+    "address": "0x184b6f31aeaa6a19eb207dfea01f4289629e0f0f",
+    "decimals": 18,
+    "symbol": "KMT",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/19897.png"
   },
   {
     "chainId": 1,
@@ -12610,6 +12618,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x310c8f00b9de3c31ab95ea68feb6c877538f7947",
+    "name": "Undead Blocks",
+    "symbol": "UNDEAD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/25382/thumb/AB0Uemhlw6jR.png?1651488079"
+  },
+  {
+    "chainId": 1,
     "name": "1irstcoin",
     "address": "0x310c93dfc1c5e34cdf51678103f63c41762089cd",
     "decimals": 6,
@@ -14622,15 +14638,6 @@
     "decimals": 18,
     "symbol": "RUSH",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/9920.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x382f0160c24f5c515a19f155bac14d479433a407",
-    "symbol": "KLEE",
-    "name": "KleeKai",
-    "decimals": 9,
-    "logoURI": "ipfs://QmdtnQuCbna5YjrFNa6E9R57mNXuWQHg9Fm6JQzydbR5Xv",
-    "tags": []
   },
   {
     "chainId": 1,
@@ -24554,6 +24561,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x5faa989af96af85384b8a938c2ede4a7378d9875",
+    "name": "Project Galaxy",
+    "symbol": "GAL",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/24530/thumb/GAL-Token-Icon.png?1651483533"
+  },
+  {
+    "chainId": 1,
     "name": "Unicly Chris McCann Collection",
     "address": "0x5fb99a3593d7088e44377a1beb27739bd928f269",
     "decimals": 18,
@@ -29980,7 +29995,7 @@
     "chainId": 1,
     "name": "Phantasma",
     "address": "0x75858677e27c930fb622759feaffee2b754af07f",
-    "decimals": 8,
+    "decimals": 18,
     "symbol": "SOUL",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2827.png"
   },
