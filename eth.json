@@ -2448,11 +2448,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x095cf7f3e82a1dcadbf0fbc59023f419883ea296",
     "name": "Pocket Arena",
-    "symbol": "POC",
+    "address": "0x095cf7f3e82a1dcadbf0fbc59023f419883ea296",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/8731/thumb/poc.png?1638521756"
+    "symbol": "POC",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/13520.png"
   },
   {
     "chainId": 1,
@@ -2700,7 +2700,7 @@
     "name": "Keeps Coin",
     "address": "0x0ab39ac604f992aaec3c36de337c3cd3917a7d26",
     "decimals": 18,
-    "symbol": "KPC",
+    "symbol": "KVERSE",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/13531.png"
   },
   {
@@ -9248,6 +9248,14 @@
   },
   {
     "chainId": 1,
+    "name": "Sumati World",
+    "address": "0x24196b54b6400049f69fa7f92c3634dfa44689f0",
+    "decimals": 18,
+    "symbol": "BOSO",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/19926.png"
+  },
+  {
+    "chainId": 1,
     "name": "4NEW",
     "address": "0x241ba672574a78a3a604cdd0a94429a73a84a324",
     "decimals": 18,
@@ -10963,14 +10971,6 @@
     "decimals": 8,
     "logoURI": "ipfs://QmWbLojcfxzKnR2pUJKD3umm3GCzsuz7pggVuWrs24sULN",
     "tags": []
-  },
-  {
-    "chainId": 1,
-    "name": "LUXOCHAIN",
-    "address": "0x2a704cff8450a864f44aef35399c8d925470618a",
-    "decimals": 18,
-    "symbol": "LUXO",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/8443.png"
   },
   {
     "chainId": 1,
@@ -14718,14 +14718,6 @@
     "symbol": "ARAID",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/16234/thumb/AHz3YHu.png?1623364561"
-  },
-  {
-    "chainId": 1,
-    "address": "0x388226dafee360055d725003d8ca2e7b09b0a955",
-    "name": "Litherium",
-    "symbol": "LITH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/20080/thumb/rHeGfsvH_400x400.jpg?1636453426"
   },
   {
     "chainId": 1,
@@ -20205,11 +20197,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x4d4f3715050571a447fffa2cd4cf091c7014ca5c",
     "name": "Summer",
-    "symbol": "SUMMER",
+    "address": "0x4d4f3715050571a447fffa2cd4cf091c7014ca5c",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/25365/thumb/summer.png?1651317403"
+    "symbol": "SUMMER",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/19936.png"
   },
   {
     "chainId": 1,
@@ -22785,6 +22777,14 @@
     "decimals": 9,
     "symbol": "HLC",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2480.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x58f46f627c88a3b217abc80563b9a726abb873ba",
+    "name": "Bubbles",
+    "symbol": "BUBBLE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/25392/thumb/Icon_BubblesToken_w200px.png?1651665214"
   },
   {
     "chainId": 1,
@@ -26386,6 +26386,14 @@
     "decimals": 18,
     "symbol": "WOWS",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/8496.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Empower",
+    "address": "0x6731827cb6879a2091ce3ab3423f7bf20539b579",
+    "decimals": 18,
+    "symbol": "MPWR",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/15798.png"
   },
   {
     "chainId": 1,
@@ -34415,6 +34423,14 @@
     "decimals": 18,
     "symbol": "JBX",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/6704.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Universal Store of Value",
+    "address": "0x88536c9b2c4701b8db824e6a16829d5b5eb84440",
+    "decimals": 9,
+    "symbol": "USV",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/19951.png"
   },
   {
     "chainId": 1,
@@ -49066,6 +49082,14 @@
   },
   {
     "chainId": 1,
+    "name": "VINCI",
+    "address": "0xc4398e483b178ac559b4fe665c6bce70a179f80f",
+    "decimals": 18,
+    "symbol": "VINCI",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/19927.png"
+  },
+  {
+    "chainId": 1,
     "name": "BitNautic Token",
     "address": "0xc45dbdf28844fdb1482c502897d433ac08d6ccd0",
     "decimals": 18,
@@ -57482,6 +57506,14 @@
   },
   {
     "chainId": 1,
+    "name": "MEV Repellent",
+    "address": "0xe7de43cd09b9e50ebc5fcc4f3c9ec563bae25bd9",
+    "decimals": 18,
+    "symbol": "MEVREPEL",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/19953.png"
+  },
+  {
+    "chainId": 1,
     "name": "ZeusNetwork",
     "address": "0xe7e4279b80d319ede2889855135a22021baf0907",
     "decimals": 18,
@@ -57596,7 +57628,7 @@
     "chainId": 1,
     "name": "Nexum",
     "address": "0xe831f96a7a1dce1aa2eb760b1e296c6a74caa9d5",
-    "decimals": 8,
+    "decimals": 18,
     "symbol": "NEXM",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/17914.png"
   },
@@ -58549,14 +58581,6 @@
     "symbol": "SPIDEYXMAS",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/21925/thumb/XoS54P.jpg?1640277442"
-  },
-  {
-    "chainId": 1,
-    "name": "GM Holding",
-    "address": "0xec73a0f098073c4f43e393b9b2f36073a0484401",
-    "decimals": 18,
-    "symbol": "GM",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/5698.png"
   },
   {
     "chainId": 1,
@@ -59524,11 +59548,11 @@
   },
   {
     "chainId": 1,
-    "address": "0xf03a7eb46d01d9ecaa104558c732cf82f6b6b645",
     "name": "Stader MaticX",
-    "symbol": "MATICX",
+    "address": "0xf03a7eb46d01d9ecaa104558c732cf82f6b6b645",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/25383/thumb/6GWyFVHD_400x400.jpg?1651615396"
+    "symbol": "MATICX",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/19923.png"
   },
   {
     "chainId": 1,
@@ -59564,11 +59588,11 @@
   },
   {
     "chainId": 1,
-    "address": "0xf04af3f4e4929f7cd25a751e6149a3318373d4fe",
     "name": "Spring",
-    "symbol": "SPRING",
+    "address": "0xf04af3f4e4929f7cd25a751e6149a3318373d4fe",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/25364/thumb/spring.png?1651317225"
+    "symbol": "SPRING",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/19935.png"
   },
   {
     "chainId": 1,
@@ -61062,6 +61086,14 @@
     "decimals": 8,
     "symbol": "CSAI",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/5264.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Jelly",
+    "address": "0xf5f06ffa53ad7f5914f493f16e57b56c8dd2ea80",
+    "decimals": 18,
+    "symbol": "JELLY",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/19934.png"
   },
   {
     "chainId": 1,
