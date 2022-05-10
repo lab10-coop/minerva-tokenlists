@@ -369,14 +369,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x0110ad3cf10a6d04993bec37bdccba6ee2c48a27",
-    "name": "Tether 3x Short",
-    "symbol": "TETHERDOOM",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/20056/thumb/beverage-usdcusdt.png?1636444824"
-  },
-  {
-    "chainId": 1,
     "name": "Zerogoki",
     "address": "0x011864d37035439e078d64630777ec518138af05",
     "decimals": 18,
@@ -895,14 +887,6 @@
     "symbol": "AWETH",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/17238/thumb/aWETH_2x.png?1626940782"
-  },
-  {
-    "chainId": 1,
-    "address": "0x030ed557a0775e110394c1a543f3eb181aeea05f",
-    "name": "MKRETH 1x Short",
-    "symbol": "MKRETHDOOM",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/20055/thumb/beverage-ethmkr.png?1636444713"
   },
   {
     "chainId": 1,
@@ -2873,11 +2857,11 @@
   },
   {
     "chainId": 1,
-    "name": "DATACHAIN FOUNDATION",
     "address": "0x0b44547be0a0df5dcd5327de8ea73680517c5a54",
-    "decimals": 18,
+    "name": "DATACHAIN FOUNDATION",
     "symbol": "DC",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/10357.png"
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/24783/thumb/dc.png?1648903780"
   },
   {
     "chainId": 1,
@@ -8274,7 +8258,7 @@
   {
     "chainId": 1,
     "address": "0x1fee5588cb1de19c70b6ad5399152d8c643fae7b",
-    "name": "Phuntoken",
+    "name": "Phun",
     "symbol": "PHTK",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/24773/thumb/2q6YoWkb_400x400.jpg?1648822416"
@@ -9978,14 +9962,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x26ab7c9ec873633d03c8f3a828f657878245a2dd",
-    "name": "ETHBTC 1x Short",
-    "symbol": "RATIODOOM",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/20047/thumb/beverage-btceth.png?1636426485"
-  },
-  {
-    "chainId": 1,
     "name": "Yield Farming Token",
     "address": "0x26b3038a7fc10b36c426846a9086ef87328da702",
     "decimals": 18,
@@ -10260,7 +10236,7 @@
   {
     "chainId": 1,
     "address": "0x27ad8e47c48063b209fa5ca14c8c46ece49b82d2",
-    "name": "Active World Rewards Token",
+    "name": "Active World Rewards",
     "symbol": "AWRT",
     "decimals": 9,
     "logoURI": "https://assets.coingecko.com/coins/images/24800/thumb/awrt.png?1648982991"
@@ -19010,14 +18986,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x48b2dd9cefba73c60882478a16bc3428aceed2b9",
-    "name": "Gengar Token",
-    "symbol": "GENGAR",
-    "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/20060/thumb/gengar-logo-transparent-96x96.png?1636445640"
-  },
-  {
-    "chainId": 1,
     "name": "MyReality",
     "address": "0x48b5d197b63a35943b832bdc7652616e55492d44",
     "decimals": 18,
@@ -20803,6 +20771,14 @@
     "decimals": 18,
     "symbol": "ORE",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/12743.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x4f7aff8f0c78b51c0e30f02f27a67b5a6a11552b",
+    "name": "Decentralized Business Systems",
+    "symbol": "DBS",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/25489/thumb/dbstoken2_32.png?1652072861"
   },
   {
     "chainId": 1,
@@ -25260,7 +25236,7 @@
   {
     "chainId": 1,
     "address": "0x62406995cafd18f57e7375e8e0060725acebce58",
-    "name": "Firulais Wallet Token",
+    "name": "Firulais Wallet",
     "symbol": "FIWT",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/20716/thumb/FIWT-Logo.png?1637584712"
@@ -28852,14 +28828,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x70cdd88638cb569f1ae1d4bd3529cc7fb331cbab",
-    "name": "LINKETH 2x Token",
-    "symbol": "LINKETHMOON",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/20039/thumb/beverage-linketh.png?1636424995"
-  },
-  {
-    "chainId": 1,
     "name": "Pawtocol",
     "address": "0x70d2b7c19352bb76e4409858ff5746e500f2b67c",
     "decimals": 18,
@@ -29928,7 +29896,7 @@
   {
     "chainId": 1,
     "address": "0x74edaf28fc4b9e6a1618d613839daaf6a9d075db",
-    "name": "G O A T Token",
+    "name": "G O A T",
     "symbol": "GOAT",
     "decimals": 9,
     "logoURI": "https://assets.coingecko.com/coins/images/21537/thumb/IMG_1871.JPG?1639401972"
@@ -31237,7 +31205,7 @@
   {
     "chainId": 1,
     "address": "0x7ab018b6bba681a0d3555797ea36afcdbe1f53c6",
-    "name": "STORKS TOKEN",
+    "name": "Storks",
     "symbol": "STORKS",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/22782/thumb/FINAL-STORKS-LOGO-200-200.png?1642578838"
@@ -40837,11 +40805,11 @@
   },
   {
     "chainId": 1,
-    "name": "Ducato Protocol Token",
     "address": "0xa117ea1c0c85cef648df2b6f40e50bb5475c228d",
-    "decimals": 18,
+    "name": "Ducato Protocol Token",
     "symbol": "DUCATO",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7133.png"
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12550/thumb/70691538.png?1600680832"
   },
   {
     "chainId": 1,
@@ -41575,7 +41543,7 @@
   {
     "chainId": 1,
     "address": "0xa415e9e13820cb373e40b6994d8a10e97356f917",
-    "name": "Leven Token",
+    "name": "Leven",
     "symbol": "LEVEN",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/22689/thumb/ll4dvTeu_400x400.png?1642409199"
@@ -44973,14 +44941,6 @@
     "decimals": 8,
     "symbol": "ALTX",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3176.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xb1f5d869323e50d1981c88e3e5a2b720a0e4bc02",
-    "name": "Joker Token",
-    "symbol": "JOKER",
-    "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/20058/thumb/joker.png?1636445471"
   },
   {
     "chainId": 1,
@@ -50102,7 +50062,7 @@
   {
     "chainId": 1,
     "address": "0xc84d8d03aa41ef941721a4d77b24bb44d7c7ac55",
-    "name": "Empire Capital Token",
+    "name": "Empire Capital",
     "symbol": "ECC",
     "decimals": 9,
     "logoURI": "https://assets.coingecko.com/coins/images/21221/thumb/61a6125865cccc3140d0bdd9_Logo.png?1638675170"
@@ -54167,6 +54127,14 @@
   },
   {
     "chainId": 1,
+    "name": "Arenum",
+    "address": "0xd9063a24630f24cd4dc99a9c7abe73f82fc6b722",
+    "decimals": 6,
+    "symbol": "ARN",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/16476.png"
+  },
+  {
+    "chainId": 1,
     "name": "One Cash",
     "address": "0xd90e69f67203ebe02c917b5128629e77b4cd92dc",
     "decimals": 18,
@@ -57306,6 +57274,14 @@
   },
   {
     "chainId": 1,
+    "name": "Akt.io",
+    "address": "0xe65d37f18a770643cb14c8611aca7a67244ba480",
+    "decimals": 18,
+    "symbol": "AKTIO",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/13141.png"
+  },
+  {
+    "chainId": 1,
     "address": "0xe65ee7c03bbb3c950cfd4895c24989afa233ef01",
     "name": "Zynecoin",
     "symbol": "ZYN",
@@ -59657,14 +59633,6 @@
     "decimals": 18,
     "symbol": "UNV",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/11571.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xf017df6d543904687cc17e7aec043ccbe9d85ba1",
-    "name": "Baby Shark Inu",
-    "symbol": "DODODO",
-    "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/20064/thumb/dododo.png?1636446333"
   },
   {
     "chainId": 1,
