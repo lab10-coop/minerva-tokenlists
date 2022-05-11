@@ -3185,14 +3185,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x0c9ef4d58b12041779b8d2165f42a00cb362db81",
-    "name": "Super Saiyan Blue",
-    "symbol": "SSB",
-    "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/20087/thumb/ssb1.png?1636459316"
-  },
-  {
-    "chainId": 1,
     "name": "Mirrored Amazon",
     "address": "0x0cae9e4d663793c2a2a0b211c1cf4bbca2b9caa7",
     "decimals": 18,
@@ -3473,11 +3465,11 @@
   },
   {
     "chainId": 1,
-    "name": "artèQ",
     "address": "0x0debaeb1ba41900148f625bd6dbae22b576d620b",
-    "decimals": 18,
+    "name": "art Q NFT Investment Fund",
     "symbol": "ARTEQ",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/17715.png"
+    "decimals": 0,
+    "logoURI": "https://assets.coingecko.com/coins/images/23407/thumb/arteq.png?1644146442"
   },
   {
     "chainId": 1,
@@ -6700,7 +6692,7 @@
   {
     "chainId": 1,
     "address": "0x19e2a43fbbc643c3b2d9667d858d49cad17bc2b5",
-    "name": "BNS Token",
+    "name": "BNS",
     "symbol": "BNS",
     "decimals": 8,
     "logoURI": "https://assets.coingecko.com/coins/images/25150/thumb/bitbns_logo.png?1650450366"
@@ -7009,6 +7001,14 @@
     "symbol": "DFC",
     "decimals": 8,
     "logoURI": "https://assets.coingecko.com/coins/images/14974/thumb/logo200x200-2.png?1619214186"
+  },
+  {
+    "chainId": 1,
+    "name": "ROBBY",
+    "address": "0x1b37392207512f5fa8812a3991cc0308107e6995",
+    "decimals": 9,
+    "symbol": "ROBBY",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/20052.png"
   },
   {
     "chainId": 1,
@@ -8214,6 +8214,14 @@
     "decimals": 18,
     "symbol": "SWD",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/14127.png"
+  },
+  {
+    "chainId": 1,
+    "name": "THEORY",
+    "address": "0x1fd19dbdc459422d88cf83ccbe9d8142bd8b7a53",
+    "decimals": 18,
+    "symbol": "THRY",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/20027.png"
   },
   {
     "chainId": 1,
@@ -22749,7 +22757,7 @@
   {
     "chainId": 1,
     "address": "0x586aa273f262909eef8fa02d90ab65f5015e0516",
-    "name": "Fixed Income Asset Token",
+    "name": "Fixed Income Asset",
     "symbol": "FIAT",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/25477/thumb/fiat.png?1652007537"
@@ -25533,11 +25541,11 @@
   },
   {
     "chainId": 1,
+    "name": "Probably Nothing V2",
     "address": "0x6361f338ab8def2af3f2a1be7bd8a7db3156f7e7",
-    "name": "Probably Nothing",
-    "symbol": "PRBLY",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/20193/thumb/pn.png?1645338665"
+    "symbol": "PRBLY",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/20067.png"
   },
   {
     "chainId": 1,
@@ -32466,6 +32474,14 @@
   },
   {
     "chainId": 1,
+    "name": "artèQ",
+    "address": "0x805c2077f3ab224d889f9c3992b41b2f4722c787",
+    "decimals": 18,
+    "symbol": "ARTEQ",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/17715.png"
+  },
+  {
+    "chainId": 1,
     "name": "Transient",
     "address": "0x805ea9c07b49dd23ce11ec66dc6d8a2957385035",
     "decimals": 18,
@@ -37613,6 +37629,14 @@
   },
   {
     "chainId": 1,
+    "name": "StreamCoin",
+    "address": "0x94a7f270cd12545a277e656266aef5e27df3eb28",
+    "decimals": 18,
+    "symbol": "STRM",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/17464.png"
+  },
+  {
+    "chainId": 1,
     "name": "newstokens",
     "address": "0x94b593002a327f2a3f1b190c50d3bcc8b869b5f5",
     "decimals": 18,
@@ -40802,14 +40826,6 @@
     "decimals": 18,
     "symbol": "ANT",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/1680.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xa117ea1c0c85cef648df2b6f40e50bb5475c228d",
-    "name": "Ducato Protocol Token",
-    "symbol": "DUCATO",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12550/thumb/70691538.png?1600680832"
   },
   {
     "chainId": 1,
@@ -48295,6 +48311,14 @@
   },
   {
     "chainId": 1,
+    "address": "0xc0b182b2e06164568a3310ca1086e9bf19209e6c",
+    "name": "Pumptopia",
+    "symbol": "PTPA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/24262/thumb/pinksale-200x200-1.jpg?1647171185"
+  },
+  {
+    "chainId": 1,
     "address": "0xc0ba369c8db6eb3924965e5c4fd0b4c1b91e305f",
     "name": "DLP Duck Token",
     "symbol": "DUCK",
@@ -55642,7 +55666,7 @@
   },
   {
     "chainId": 1,
-    "name": "PRCY Coin",
+    "name": "PRivaCY Coin",
     "address": "0xdfc3829b127761a3218bfcee7fc92e1232c9d116",
     "decimals": 18,
     "symbol": "PRCY",
@@ -59106,6 +59130,14 @@
   },
   {
     "chainId": 1,
+    "name": "Kyuubi",
+    "address": "0xee3d92710d912450fbf066d6f55a57ae0f81129d",
+    "decimals": 18,
+    "symbol": "$KYUB",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/19772.png"
+  },
+  {
+    "chainId": 1,
     "name": "Blockpass",
     "address": "0xee4458e052b533b1aabd493b5f8c4d85d7b263dc",
     "decimals": 6,
@@ -59448,14 +59480,6 @@
     "decimals": 18,
     "symbol": "XT",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/5186.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xef66f8c4224b423888a64f0157e56756459c2cf8",
-    "name": "Shibelon Mars",
-    "symbol": "SHIBELON",
-    "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/20133/thumb/shibelon.jpeg?1636530113"
   },
   {
     "chainId": 1,
