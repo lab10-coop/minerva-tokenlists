@@ -9898,14 +9898,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x2681576aee6486e2f891763a960b71c89bd2806d",
-    "name": "Have Fun",
-    "symbol": "HF",
-    "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/20488/thumb/New_Project-1-2.png?1637119363"
-  },
-  {
-    "chainId": 1,
     "name": "FUD.finance",
     "address": "0x2688213fedd489762a281a67ae4f2295d8e17ecc",
     "decimals": 18,
@@ -15276,7 +15268,7 @@
   {
     "chainId": 1,
     "address": "0x3a856d4effa670c54585a5d523e96513e148e95d",
-    "name": "Trias Token",
+    "name": "TriasLab",
     "symbol": "TRIAS",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/13963/thumb/5ELqtwp__400x400_%281%29.jpg?1613527958"
@@ -18627,6 +18619,14 @@
   },
   {
     "chainId": 1,
+    "name": "RMRK",
+    "address": "0x471ea49dd8e60e697f4cac262b5fafcc307506e4",
+    "decimals": 18,
+    "symbol": "RMRK",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/12140.png"
+  },
+  {
+    "chainId": 1,
     "name": "Nil DAO",
     "address": "0x47252a63c723889814aebcac0683e615624cec64",
     "decimals": 18,
@@ -19092,7 +19092,7 @@
   {
     "chainId": 1,
     "address": "0x48fb253446873234f2febbf9bdeaa72d9d387f94",
-    "name": "Bancor Governance Token",
+    "name": "Bancor Governance",
     "symbol": "VBNT",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/14053/thumb/bancorvbnt_32.png?1614048819"
@@ -20206,6 +20206,14 @@
   },
   {
     "chainId": 1,
+    "name": "AggregatedFinance",
+    "address": "0x4d0f56d728c5232ab07faa0bdcba23670a35451f",
+    "decimals": 9,
+    "symbol": "AGFI",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/15370.png"
+  },
+  {
+    "chainId": 1,
     "name": "ApeCoin",
     "address": "0x4d224452801aced8b2f0aebe155379bb5d594381",
     "decimals": 18,
@@ -20985,7 +20993,7 @@
   {
     "chainId": 1,
     "address": "0x501e8726d06cdef66f3e0cb67f54924cca1cc894",
-    "name": "BRMV Token",
+    "name": "BRMV",
     "symbol": "BRMV",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/14389/thumb/brmv-logo-256px.png?1615856173"
@@ -22266,14 +22274,6 @@
     "decimals": 9,
     "symbol": "SMHDOGE",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/15545.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x5645a66aa7594e0b5ca69c37323f1aa8a1baf37c",
-    "name": "Exodia Inu",
-    "symbol": "EXODIA",
-    "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/20489/thumb/exodia_inu.png?1637134125"
   },
   {
     "chainId": 1,
@@ -24130,7 +24130,7 @@
   {
     "chainId": 1,
     "address": "0x5dced3c2fab61e21b25177c6050d3f166f696110",
-    "name": "Tea Token",
+    "name": "Tea",
     "symbol": "TEA",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/14426/thumb/teachain-logo.png?1616031044"
@@ -24651,11 +24651,11 @@
   },
   {
     "chainId": 1,
+    "name": "Shaman King Inu",
     "address": "0x5fce9fc9b5d62af082a59d0823a062f7529efa5a",
-    "name": "Shaman",
-    "symbol": "SHAMAN",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/25292/thumb/0v-V3FPz_400x400.jpg?1651139525"
+    "symbol": "SHAMAN",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/15005.png"
   },
   {
     "chainId": 1,
@@ -25912,7 +25912,7 @@
   {
     "chainId": 1,
     "address": "0x65032604dab202aff9adf89300cdb4bd0d059f55",
-    "name": "SOBA Token",
+    "name": "SOBA",
     "symbol": "SOBA",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/14673/thumb/soba-logo-black.png?1617680379"
@@ -26228,6 +26228,14 @@
     "decimals": 18,
     "symbol": "EFK",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/6761.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x6668e032698cc5810b9cca1090a5a079772b417f",
+    "name": "Beau Cat",
+    "symbol": "BUC",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/25603/thumb/%EB%B7%B0%EC%BA%A3_%EA%B8%B0%EC%82%AC_%284%29.png?1652776378"
   },
   {
     "chainId": 1,
@@ -29496,7 +29504,7 @@
   {
     "chainId": 1,
     "address": "0x73484a262730d1d422610729e828346f9b2ff480",
-    "name": "BRCP Token",
+    "name": "BRCP",
     "symbol": "BRCP",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/14388/thumb/brcp-500x500-verde.png?1615855378"
@@ -30095,6 +30103,14 @@
     "symbol": "SEC",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/15344/thumb/smile_coin.PNG?1620617696"
+  },
+  {
+    "chainId": 1,
+    "address": "0x75ecb52e403c617679fbd3e77a50f9d10a842387",
+    "name": "CSR",
+    "symbol": "CSR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/25585/thumb/CSR-LOGO-200x200-1.png?1652767956"
   },
   {
     "chainId": 1,
@@ -32539,11 +32555,11 @@
   },
   {
     "chainId": 1,
-    "name": "AggregatedFinance",
     "address": "0x80c24111d3f9e1ffecf3b41b9ca68e60a890866b",
-    "decimals": 9,
+    "name": "AggregatedFinance",
     "symbol": "AGFI",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/15370.png"
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/25256/thumb/79LDzdib_400x400.png?1651041943"
   },
   {
     "chainId": 1,
@@ -34243,6 +34259,14 @@
   },
   {
     "chainId": 1,
+    "name": "Aspen",
+    "address": "0x87946dc43c7881c1c16081afeb4474e224450add",
+    "decimals": 18,
+    "symbol": "ASPEN",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/20150.png"
+  },
+  {
+    "chainId": 1,
     "name": "xSUSHI",
     "address": "0x8798249c2e607446efb7ad49ec89dd1865ff4272",
     "decimals": 18,
@@ -35279,7 +35303,7 @@
   {
     "chainId": 1,
     "address": "0x8b0e42f366ba502d787bb134478adfae966c8798",
-    "name": "LABS Group",
+    "name": "LABS Group  OLD ",
     "symbol": "LABS",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/14401/thumb/LABS_logo_icon_COLOR-8.png?1615890483"
@@ -35396,14 +35420,6 @@
     "decimals": 18,
     "symbol": "DXIOT",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7443.png"
-  },
-  {
-    "chainId": 1,
-    "name": "HyperRun",
-    "address": "0x8b76cd7938e036adf4fd6ad80c98b7934c35091b",
-    "decimals": 18,
-    "symbol": "HYPERR",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/20108.png"
   },
   {
     "chainId": 1,
@@ -38782,7 +38798,7 @@
   {
     "chainId": 1,
     "address": "0x997507cc49fbf0cd6ce5e1ee543218556fafdebc",
-    "name": "Bitenium Token",
+    "name": "Bitenium",
     "symbol": "BT",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/14618/thumb/BT-token-logo-200.png?1617262055"
@@ -38959,7 +38975,7 @@
   {
     "chainId": 1,
     "address": "0x9a24b8e8a6d4563c575a707b1275381119298e60",
-    "name": "EVNY Token",
+    "name": "EVNY",
     "symbol": "EVNY",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/14555/thumb/envy.jpg?1616999935"
@@ -46136,6 +46152,14 @@
     "decimals": 18,
     "symbol": "WLT",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7546.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xb7c2fcd6d7922eddd2a7a9b0524074a60d5b472c",
+    "name": "VentiSwap",
+    "symbol": "VST",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/25591/thumb/ventiswap-Icon.png?1652769680"
   },
   {
     "chainId": 1,
@@ -56465,7 +56489,7 @@
   {
     "chainId": 1,
     "address": "0xe2d8f9557fd46ad134c8fb5eabf6f4da3e0d3f68",
-    "name": "ETHBTC 2x Long Token",
+    "name": "ETHBTC 2x Long",
     "symbol": "ETHBTCMOON",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/20046/thumb/beverage-ethbtc.png?1636426369"
@@ -60135,14 +60159,6 @@
   },
   {
     "chainId": 1,
-    "address": "0xf1dc500fde233a4055e25e5bbf516372bc4f6871",
-    "name": "Saddle Finance",
-    "symbol": "SDL",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/20476/thumb/saddle.PNG?1637113393"
-  },
-  {
-    "chainId": 1,
     "name": "Telefy",
     "address": "0xf1e345ea7c33fd6c05f5512a780eb5839ee31674",
     "decimals": 18,
@@ -62112,11 +62128,11 @@
   },
   {
     "chainId": 1,
-    "name": "Shaman King Inu",
     "address": "0xf98e38c3f287304a1f2d4879e741d2bf55474e84",
-    "decimals": 9,
+    "name": "Shaman King Inu  OLD ",
     "symbol": "SHAMAN",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/15005.png"
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/20189/thumb/shamna.png?1636611907"
   },
   {
     "chainId": 1,
