@@ -1574,7 +1574,7 @@
   {
     "chainId": 1,
     "address": "0x05bbe7240de66f6480c9aeda77c1376b13393f83",
-    "name": "Xeno Token",
+    "name": "Xeno",
     "symbol": "XNO",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/13830/thumb/XNO_logo_200x200.png?1612168285"
@@ -6155,14 +6155,6 @@
     "decimals": 18,
     "symbol": "DNS",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/8194.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x17cd80aa8f4aed7c403e4c6b9c2cd3fabef09d99",
-    "name": "Meta Pets",
-    "symbol": "MP",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/20603/thumb/LnUYRKR.png?1637288317"
   },
   {
     "chainId": 1,
@@ -15204,7 +15196,7 @@
   {
     "chainId": 1,
     "address": "0x3a43a04d80f9881d88080bf9fa8bb720afb6c966",
-    "name": "3X Long Stellar Token",
+    "name": "3X Long Stellar",
     "symbol": "XLMBULL",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/13334/thumb/assets_coingecko_com-ftt.jpg?1607566862"
@@ -21037,14 +21029,6 @@
     "decimals": 18,
     "symbol": "CENX",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/12975.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x5054ed21d6f50b8bcc374c9ef86c9ad832e52140",
-    "name": "Mylivn Coin",
-    "symbol": "MLVC",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/20595/thumb/mlvc.png?1639200271"
   },
   {
     "chainId": 1,
@@ -30732,6 +30716,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x786e995a975c2ab7c1dd252a9019fb0c91c9ca83",
+    "name": "Landworld",
+    "symbol": "LWD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/25642/thumb/v-MhJXeSQuKSjz5gJRpptF5E5v95862DXJhkSeVabQcVsbBxzryaaQQ-eqwp0hvjrXQQmQRUKYW3gFfzUi3zVjhWoZKg79rmFF5dL6igKT0iWWpDtfNRcr6XA1mL9WiLgg6EOqwfmuLNu1-qan38OQJve32FKgJ7FL_fAyZRHvSuuIwO4qmcLPVqWo08oYELCC5ParMmS7FfNsHtu38u6j0gxw.jpg?1652949037"
+  },
+  {
+    "chainId": 1,
     "name": "IdleDAI Yield",
     "address": "0x78751b12da02728f467a44eac40f5cbc16bd7934",
     "decimals": 18,
@@ -34683,11 +34675,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x88aa4a6c5050b9a1b2aa7e34d0582025ca6ab745",
     "name": "Dexpools",
-    "symbol": "DXP",
+    "address": "0x88aa4a6c5050b9a1b2aa7e34d0582025ca6ab745",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/25114/thumb/1_0w4P8R5heRFwRomJ4vPCWQ.png?1650348942"
+    "symbol": "DXP",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/20187.png"
   },
   {
     "chainId": 1,
@@ -35342,14 +35334,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x8b0e42f366ba502d787bb134478adfae966c8798",
-    "name": "LABS Group  OLD ",
-    "symbol": "LABS",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/14401/thumb/LABS_logo_icon_COLOR-8.png?1615890483"
-  },
-  {
-    "chainId": 1,
     "name": "Dream",
     "address": "0x8b17fea54d85f61e71bdf161e920762898ac53da",
     "decimals": 9,
@@ -35911,14 +35895,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x8d77b51f3026f8e3eae5c352f8ae810c9e2a0923",
-    "name": "PokemonSpace",
-    "symbol": "POS",
-    "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/20574/thumb/logo.png?1637243927"
-  },
-  {
-    "chainId": 1,
     "name": "SSS Finance",
     "address": "0x8d7db6a562764b437f3248031f886359b4183cc4",
     "decimals": 18,
@@ -36426,7 +36402,7 @@
   {
     "chainId": 1,
     "address": "0x8fb6c8a44a4e23fd1f5a936818b39083b4cdc865",
-    "name": "BitOnyx Token",
+    "name": "BitOnyx",
     "symbol": "BTNYX",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/13684/thumb/token-logo-200px.png?1610860892"
@@ -38123,7 +38099,7 @@
   {
     "chainId": 1,
     "address": "0x960efd63ae895f165d874e6cc62501fd0e7dc50a",
-    "name": "3X Short Stellar Token",
+    "name": "3X Short Stellar",
     "symbol": "XLMBEAR",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/13335/thumb/assets_coingecko_com-ftt.jpg?1607567062"
@@ -40763,14 +40739,6 @@
     "decimals": 6,
     "symbol": "USDC",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3408.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xa0b93b9e90ab887e53f9fb8728c009746e989b53",
-    "name": "Standard",
-    "symbol": "TST",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/20598/thumb/tst.png?1638251569"
   },
   {
     "chainId": 1,
@@ -46195,11 +46163,11 @@
   },
   {
     "chainId": 1,
+    "name": "VentiSwap Token",
     "address": "0xb7c2fcd6d7922eddd2a7a9b0524074a60d5b472c",
-    "name": "VentiSwap",
-    "symbol": "VST",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/25591/thumb/output-onlinepngtools-2_2.png?1652862384"
+    "symbol": "VST",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/20192.png"
   },
   {
     "chainId": 1,
@@ -48386,7 +48354,7 @@
   {
     "chainId": 1,
     "address": "0xc0ba369c8db6eb3924965e5c4fd0b4c1b91e305f",
-    "name": "DLP Duck Token",
+    "name": "DLP Duck",
     "symbol": "DUCK",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/13440/thumb/DLP_Duck_Token.png?1612840740"
@@ -50926,6 +50894,14 @@
     "decimals": 18,
     "symbol": "NFT",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/6650.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xcb8fb2438a805664cd8c3e640b85ac473da5be87",
+    "name": "ClinTex CTi",
+    "symbol": "CTI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/13266/thumb/CTI.png?1606817542"
   },
   {
     "chainId": 1,
@@ -54787,7 +54763,7 @@
   {
     "chainId": 1,
     "address": "0xdb13fb60d3fddabc41743d9d603ce3f42c17d057",
-    "name": "Baby Token",
+    "name": "Baby",
     "symbol": "BABY",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/13294/thumb/logo_%2828%29.png?1607067692"
@@ -56099,6 +56075,14 @@
     "decimals": 18,
     "symbol": "ANN",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/4433.png"
+  },
+  {
+    "chainId": 1,
+    "name": "GRN",
+    "address": "0xe1005bfbbc9a17d5d844c7a4371cbf6b2b387380",
+    "decimals": 8,
+    "symbol": "G",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/20195.png"
   },
   {
     "chainId": 1,
