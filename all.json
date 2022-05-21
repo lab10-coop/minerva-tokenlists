@@ -34323,14 +34323,6 @@
   },
   {
     "chainId": 1,
-    "name": "GLOBALTRUSTFUND TOKEN",
-    "address": "0x87befc1d367190f2b9cbe9b689e0e5ca658e3b71",
-    "decimals": 8,
-    "symbol": "GTF",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/6457.png"
-  },
-  {
-    "chainId": 1,
     "name": "Yoink",
     "address": "0x87c00817abe35ed4c093e59043fae488238d2f74",
     "decimals": 18,
@@ -36350,6 +36342,14 @@
     "decimals": 18,
     "symbol": "DATA",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2143.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x8f6e8cdfa6cee7080864dcbb6b973d17d8d80a8f",
+    "name": "NFCore",
+    "symbol": "NFCR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/25655/thumb/nfcr.png?1653048464"
   },
   {
     "chainId": 1,
@@ -56565,6 +56565,14 @@
     "decimals": 2,
     "symbol": "BM",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/4739.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xe304283c3e60cefaf7ea514007cf4e8fdc3d869d",
+    "name": "Gecoin",
+    "symbol": "GEC",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/25646/thumb/62162f0d583e5a047dc02e7e_gecoin_200x200.png?1653019356"
   },
   {
     "chainId": 1,
