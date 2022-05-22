@@ -7561,6 +7561,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x1d72e76e38c815b9f91661c340949e8673e897b3",
+    "name": "Global Gold Token",
+    "symbol": "GGT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/6513/thumb/global_gold_token.png?1547042737"
+  },
+  {
+    "chainId": 1,
     "name": "Starter",
     "address": "0x1d7ca62f6af49ec66f6680b8606e634e55ef22c1",
     "decimals": 18,
@@ -8960,11 +8968,10 @@
   {
     "chainId": 1,
     "address": "0x22de9912cd3d74953b1cd1f250b825133cc2c1b3",
+    "name": "Drep",
     "symbol": "DREP",
-    "name": "DREP",
     "decimals": 18,
-    "logoURI": "ipfs://QmdPTfhM3x8TvqHesZpqqsWUym2GgD5hLHgh1HNZZYRVHd",
-    "tags": []
+    "logoURI": "https://assets.coingecko.com/coins/images/4486/thumb/DREP-logo.jpg?1547039799"
   },
   {
     "chainId": 1,
@@ -13117,6 +13124,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x32b666599411f4721de6724c968ed9b3d1cabd79",
+    "name": "Yaapoo",
+    "symbol": "YAP",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/10565/thumb/logo-alt.png?1580939556"
+  },
+  {
+    "chainId": 1,
     "name": "Molecule",
     "address": "0x32b7a3018e4b832dea848786348164667ec030f3",
     "decimals": 18,
@@ -16002,14 +16017,6 @@
     "decimals": 9,
     "symbol": "TAILS",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/12789.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x3d875a26d9afcbf4f58c920509c876b594499c87",
-    "name": "K Chain",
-    "symbol": "KCT",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/25531/thumb/IMG_3487.PNG?1652250658"
   },
   {
     "chainId": 1,
@@ -19510,6 +19517,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x4a8f44be523580a11cdb20e2c7c470adf44ec9bb",
+    "name": "Bit Miner Chain",
+    "symbol": "BTMC",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/6177/thumb/9ecCxf_s_400x400.jpg?1547042203"
+  },
+  {
+    "chainId": 1,
     "name": "Internxt",
     "address": "0x4a8f5f96d5436e43112c2fbc6a9f70da9e4e16d4",
     "decimals": 8,
@@ -22453,6 +22468,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x56ee175fe37cd461486ce3c3166e0cafccd9843f",
+    "name": "Wrapped Wit",
+    "symbol": "EWIT",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/17435/thumb/ewit.PNG?1627630891"
+  },
+  {
+    "chainId": 1,
     "name": "Solareum",
     "address": "0x56ee8c9bd1d445a3324ad83e86d8be309db8f85d",
     "decimals": 18,
@@ -23838,6 +23861,14 @@
     "decimals": 2,
     "symbol": "HONEY",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/11511.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x5cbb89b03534d82692b183882c2a2a9ff7fdeb44",
+    "name": "BGT",
+    "symbol": "BGT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/6666/thumb/bgt.jpg?1547042870"
   },
   {
     "chainId": 1,
@@ -29002,6 +29033,14 @@
     "decimals": 9,
     "symbol": "BULLETH",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/17499.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x716523231368d43bdfe1f06afe1c62930731ab13",
+    "name": "Wrapped 0xEthereum Token",
+    "symbol": "W0XETH",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/10486/thumb/logo200_%281%29.png?1580163129"
   },
   {
     "chainId": 1,
@@ -35302,6 +35341,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x8aedb297fed4b6884b808ee61faf0837713670d0",
+    "name": "Wrapped MarbleCards",
+    "symbol": "WMC",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/9769/thumb/android-icon-192x192.png?1571609129"
+  },
+  {
+    "chainId": 1,
     "name": "3x Long Tezos Token",
     "address": "0x8af17a6396c8f315f6b6dbc6aa686c85f9b3e554",
     "decimals": 18,
@@ -36884,11 +36931,11 @@
   },
   {
     "chainId": 1,
-    "name": "Bondly",
     "address": "0x91dfbee3965baaee32784c2d546b7a0c62f268c9",
-    "decimals": 18,
+    "name": "Forj",
     "symbol": "BONDLY",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7931.png"
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/13322/thumb/FORJ_twitter_twitter-linked_in_profile_%281%29.png?1653026729"
   },
   {
     "chainId": 1,
@@ -59735,6 +59782,14 @@
   },
   {
     "chainId": 1,
+    "name": "Camel Coin",
+    "address": "0xf026d795a7f28e0197bf9ae6fbe8c8f8a25277bc",
+    "decimals": 18,
+    "symbol": "CMLCOIN",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/20202.png"
+  },
+  {
+    "chainId": 1,
     "address": "0xf028adee51533b1b47beaa890feb54a457f51e89",
     "name": "BMCHAIN token",
     "symbol": "BMT",
@@ -61458,6 +61513,14 @@
     "decimals": 9,
     "symbol": "THUNDER",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/16717.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xf6a9baef8c66e9b24152014222871c8e02d0ee97",
+    "name": "CelsiusX Wrapped BTC",
+    "symbol": "CXBTC",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/25535/thumb/cxBTC.png?1652252129"
   },
   {
     "chainId": 1,
