@@ -8026,7 +8026,7 @@
   {
     "chainId": 1,
     "address": "0x1f3f9d3068568f8040775be2e8c03c103c61f3af",
-    "name": "Archer DAO Governance Token",
+    "name": "Archer DAO Governance",
     "symbol": "ARCH",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/13188/thumb/archer_logo.png?1606097487"
@@ -19162,6 +19162,14 @@
   },
   {
     "chainId": 1,
+    "name": "Signata DAO",
+    "address": "0x49428f057dd9d20a8e4c6873e98afd8cd7146e3b",
+    "decimals": 18,
+    "symbol": "DSATA",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/20226.png"
+  },
+  {
+    "chainId": 1,
     "name": "PTON",
     "address": "0x4946583c5b86e01ccd30c71a05617d06e3e73060",
     "decimals": 18,
@@ -22916,14 +22924,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x592f77f18893c8657cbf7cfc93e3f7cf7b02662d",
-    "name": "Team Clean Seas",
-    "symbol": "TCS",
-    "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/20714/thumb/top-logo-300x146.png?1637577379"
-  },
-  {
-    "chainId": 1,
     "name": "BidiPass",
     "address": "0x593114f03a0a575aece9ed675e52ed68d2172b8c",
     "decimals": 18,
@@ -22953,6 +22953,14 @@
     "decimals": 18,
     "symbol": "GLDY",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/5538.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x594d3d44a040de44dc9c505b0a12fcd1da237ea3",
+    "name": "Reucoin",
+    "symbol": "REU",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/25662/thumb/Image.jpeg?1653284763"
   },
   {
     "chainId": 1,
@@ -25440,6 +25448,14 @@
     "decimals": 9,
     "symbol": "GucciV2",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/14234.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Akihiko Inu",
+    "address": "0x62cc7d1790e5a9470be22ae9f14065cbfe44bf10",
+    "decimals": 18,
+    "symbol": "AKIHIKO",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/20247.png"
   },
   {
     "chainId": 1,
@@ -39943,10 +39959,10 @@
   },
   {
     "chainId": 1,
-    "name": "XANALIA",
+    "name": "deprecated-XANALIA",
     "address": "0x9d5dc3cc15e5618434a2737dbf76158c59ca1e65",
     "decimals": 18,
-    "symbol": "ALIA",
+    "symbol": "deprecated-ALIA",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/9099.png"
   },
   {
@@ -41295,7 +41311,7 @@
   {
     "chainId": 1,
     "address": "0xa287fd349d80dfd2a8aee1c0d90f17281f24c061",
-    "name": "REUCOIN",
+    "name": "REUCOIN  OLD ",
     "symbol": "REU",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/20691/thumb/3Npgxehf_400x400.jpg?1637562059"
@@ -47175,14 +47191,6 @@
   },
   {
     "chainId": 1,
-    "address": "0xbc138bd20c98186cc0342c8e380953af0cb48ba8",
-    "name": "Candle",
-    "symbol": "CNDL",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/23958/thumb/18327.png?1645777988"
-  },
-  {
-    "chainId": 1,
     "address": "0xbc16da9df0a22f01a16bc0620a27e7d6d6488550",
     "symbol": "PCT",
     "name": "Percent",
@@ -48285,14 +48293,6 @@
     "symbol": "WCX",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/14497/thumb/WCX-Token-Logo.png?1616555141"
-  },
-  {
-    "chainId": 1,
-    "address": "0xc0142666e595e54c9bf54655b91c36da573e7b91",
-    "name": "Bunny Farm",
-    "symbol": "BNF",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/20723/thumb/1212121212.png?1637593411"
   },
   {
     "chainId": 1,
@@ -59509,7 +59509,7 @@
   {
     "chainId": 1,
     "address": "0xef2e239b21a81719abaabc6239e2e90859b44d9b",
-    "name": "Talent Token",
+    "name": "Talent TTX",
     "symbol": "TTX",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/12770/thumb/ttx.png?1640758151"
