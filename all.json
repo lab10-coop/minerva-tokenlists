@@ -1841,6 +1841,14 @@
   },
   {
     "chainId": 1,
+    "name": "Coinage Finance",
+    "address": "0x06ebc9c542357e2129d16717cd02c02fbc835d33",
+    "decimals": 18,
+    "symbol": "CAGE",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/16926.png"
+  },
+  {
+    "chainId": 1,
     "name": "Akira",
     "address": "0x06ef980d0423c096da3d3884c071372f2206306d",
     "decimals": 9,
@@ -8817,7 +8825,7 @@
     "name": "Omlira",
     "address": "0x224db5e6180761df4c3d8936585f6b8b83879770",
     "decimals": 18,
-    "symbol": "OML",
+    "symbol": "OMC",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/10228.png"
   },
   {
@@ -9533,6 +9541,14 @@
     "decimals": 18,
     "symbol": "SAFE2",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7194.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x251457b7c5d85251ca1ab384361c821330be2520",
+    "name": "Hati",
+    "symbol": "HATI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/25736/thumb/hati-logo.png?1653461606"
   },
   {
     "chainId": 1,
@@ -20077,6 +20093,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x4c601dc69affb0d4fc8de1ac303705e432a4a27e",
+    "name": "Konnect",
+    "symbol": "KCT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/25756/thumb/EAO_5JhW_400x400.jpg?1653516279"
+  },
+  {
+    "chainId": 1,
     "name": "FC Bitcoin",
     "address": "0x4c6e796bbfe5eb37f9e3e0f66c009c8bf2a5f428",
     "decimals": 8,
@@ -27592,9 +27616,9 @@
   },
   {
     "chainId": 1,
-    "name": "Rogue West",
+    "name": "Rogue Coin",
     "address": "0x6ac665c0de9a6ca72b85757b141aa9c428828aca",
-    "decimals": 8,
+    "decimals": 18,
     "symbol": "ROGUE",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/12430.png"
   },
@@ -29726,7 +29750,7 @@
   },
   {
     "chainId": 1,
-    "name": "IDCM Token",
+    "name": "Klickl",
     "address": "0x73d7e1dcfac94282dfda16c8f369b488580f7408",
     "decimals": 18,
     "symbol": "IT",
@@ -40103,14 +40127,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x9dcb90ac6e5ef95797233a49a7da903cc27aaf39",
-    "name": "Santa Capital",
-    "symbol": "SC",
-    "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/20851/thumb/xiJbUqT.png?1637761503"
-  },
-  {
-    "chainId": 1,
     "address": "0x9de1f279fc38ab86358e999957e6cc76ce961b29",
     "name": "Mewn Inu",
     "symbol": "MEWN",
@@ -41600,7 +41616,7 @@
   {
     "chainId": 1,
     "address": "0xa3bed4e1c75d00fa6f4e5e6922db7261b5e9acd2",
-    "name": "mStable Governance Token  Meta",
+    "name": "mStable Governance  Meta",
     "symbol": "MTA",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/11846/thumb/mStable.png?1594950533"
@@ -43838,11 +43854,11 @@
   },
   {
     "chainId": 1,
-    "name": "Baby Doge Coin",
     "address": "0xac57de9c1a09fec648e93eb98875b212db0d460b",
-    "decimals": 18,
-    "symbol": "BabyDoge",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/10407.png"
+    "name": "Baby Doge Coin",
+    "symbol": "BABYDOGE",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/16125/thumb/Baby_Doge.png?1623044048"
   },
   {
     "chainId": 1,
@@ -45081,6 +45097,14 @@
   },
   {
     "chainId": 1,
+    "address": "0xb1f233835de2440620332267ba729bfe74fa2cfd",
+    "name": "SoloxCoin",
+    "symbol": "SL",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/25704/thumb/22223333333.png?1653460112"
+  },
+  {
+    "chainId": 1,
     "name": "LuaSwap",
     "address": "0xb1f66997a5760428d3a87d68b90bfe0ae64121cc",
     "decimals": 18,
@@ -45791,6 +45815,13 @@
     "decimals": 18,
     "symbol": "PIXBY",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/6568.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xb53ecf1345cabee6ea1a65100ebb153cebcac40f",
+    "name": "Childhoods End",
+    "symbol": "O",
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -47869,6 +47900,14 @@
     "decimals": 18,
     "symbol": "BNC",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/5675.png"
+  },
+  {
+    "chainId": 1,
+    "name": "JustCarbon",
+    "address": "0xbe601dd49da9ee1d2f64d422c4aecf8eb83c119f",
+    "decimals": 18,
+    "symbol": "JCG",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/20288.png"
   },
   {
     "chainId": 1,
@@ -66706,6 +66745,14 @@
     "logoURI": "https://assets.coingecko.com/coins/images/21061/small/biconomy_logo.jpg?1638269749"
   },
   {
+    "name": "BetSwirl Token",
+    "address": "0x9246a5f10a79a5a939b0c2a75a3ad196aafdb43b",
+    "symbol": "BETS",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/23693/small/lcd-icon-color-200px.png?1645450706"
+  },
+  {
     "name": "NSHARE",
     "address": "0x948d0a28b600bdbd77af4ea30e6f338167034181",
     "symbol": "NSHARE",
@@ -66744,6 +66791,14 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://assets.coingecko.com/coins/images/17675/small/phx_logo.png?1628832432"
+  },
+  {
+    "name": "Crypto Volatility Token",
+    "address": "0x9cd552551ec130b50c1421649c8d11e76ac821e1",
+    "symbol": "CVOL",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/24008/small/govi-dao.03ef3083.png?1646029661"
   },
   {
     "name": "LUNA (Wormhole)",
@@ -67242,6 +67297,14 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/8561.png"
+  },
+  {
+    "name": "CelsiusX Wrapped BTC",
+    "address": "0xd30dc92b8ec0fa8de625768d208f51a93c10aff2",
+    "symbol": "cxBTC",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://i.ibb.co/3fQ0Vx9/Group-66.png"
   },
   {
     "name": "YEL Token",
