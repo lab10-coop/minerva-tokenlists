@@ -4499,7 +4499,7 @@
   {
     "chainId": 1,
     "address": "0x11afe7fa792589dd1236257f99ba09f510460ad9",
-    "name": "LNKO Token",
+    "name": "LNKO",
     "symbol": "LNKO",
     "decimals": 8,
     "logoURI": "https://assets.coingecko.com/coins/images/9199/thumb/logo_%289%29.png?1565077907"
@@ -9721,14 +9721,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x25bd12ae9bbac47dc730e2559feb5dbe8e226894",
-    "name": "TOPDOG",
-    "symbol": "TOPDOG",
-    "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/21026/thumb/logo-1-4.jpg?1638196912"
-  },
-  {
-    "chainId": 1,
     "name": "Wrapped Virgin Gen-0 CryptoKitties",
     "address": "0x25c7b64a93eb1261e130ec21a3e9918caa38b611",
     "decimals": 18,
@@ -11439,6 +11431,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x2c5bcad9ade17428874855913def0a02d8be2324",
+    "name": "pSTAKE Staked ETH",
+    "symbol": "STKETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/25798/thumb/Ethereum.png?1653921854"
+  },
+  {
+    "chainId": 1,
     "address": "0x2c6f00a020b613c9419bb6c1ac220036dbe9e622",
     "name": "RealT   18776 Sunderland Rd  Detroit  M",
     "symbol": "REALT-S-18776-SUNDE",
@@ -13036,11 +13036,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x32462ba310e447ef34ff0d15bce8613aa8c4a244",
     "name": "Dohrnii",
-    "symbol": "DHN",
+    "address": "0x32462ba310e447ef34ff0d15bce8613aa8c4a244",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/24966/thumb/dhn.png?1649586405"
+    "symbol": "DHN",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/20279.png"
   },
   {
     "chainId": 1,
@@ -14389,14 +14389,6 @@
     "symbol": "AAMMUNIMKRWETH",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/17222/thumb/aAmmUniMKRWETH.png?1626880292"
-  },
-  {
-    "chainId": 1,
-    "address": "0x372a912b1bdf243aa4eb8a5697c7e97036f422be",
-    "name": "Kishuelon",
-    "symbol": "KELON",
-    "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/21015/thumb/Kw2Rr28.png?1638191254"
   },
   {
     "chainId": 1,
@@ -16686,7 +16678,7 @@
   {
     "chainId": 1,
     "address": "0x406ae253fb0aa898f9912fb192c1e6deb9623a07",
-    "name": "TOROCUS Token",
+    "name": "TOROCUS",
     "symbol": "TOROCUS",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/9912/thumb/j_bHDge7_400x400.png?1573454465"
@@ -18014,7 +18006,7 @@
   },
   {
     "chainId": 1,
-    "name": "Project Inverse",
+    "name": "Planet Inverse",
     "address": "0x44f262622248027f8e2a8fb1090c4cf85072392c",
     "decimals": 18,
     "symbol": "XIV",
@@ -20975,6 +20967,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x4fd0b42d14ad7ffd18d2d1d7ea6b4b45f3d56463",
+    "name": "Goya Giant",
+    "symbol": "ARTG",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/16752/thumb/ARTG-logo-e1619211414299.png?1624925976"
+  },
+  {
+    "chainId": 1,
     "name": "NERVE",
     "address": "0x4fd414c5ac6f8a17834d704ab431921ee93a4f2d",
     "decimals": 18,
@@ -21496,6 +21496,15 @@
   },
   {
     "chainId": 1,
+    "address": "0x524ebc93beef838f70b4ae54b675d3e971d5884e",
+    "symbol": "HERO",
+    "name": "Challenge Coin",
+    "decimals": 9,
+    "logoURI": "ipfs://QmXTRp514XARyuwJKFZ2eAPKknqWTvEtGTd8NmkEbEn2dQ",
+    "tags": []
+  },
+  {
+    "chainId": 1,
     "name": "12Ships",
     "address": "0x525794473f7ab5715c81d06d10f52d11cc052804",
     "decimals": 18,
@@ -21506,7 +21515,7 @@
     "chainId": 1,
     "name": "NYM",
     "address": "0x525a8f6f3ba4752868cde25164382bfbae3990e1",
-    "decimals": 18,
+    "decimals": 6,
     "symbol": "NYM",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/17591.png"
   },
@@ -24489,7 +24498,7 @@
   {
     "chainId": 1,
     "address": "0x5ef227f7ce4e96c9ce90e32d4850545a6c5d099b",
-    "name": "BLUECHIPS Token",
+    "name": "BLUECHIPS",
     "symbol": "BCHIP",
     "decimals": 8,
     "logoURI": "https://assets.coingecko.com/coins/images/7119/thumb/xIh2PBdp_400x400.jpg?1547043616"
@@ -26054,6 +26063,14 @@
   },
   {
     "chainId": 1,
+    "name": "Staked ETH Harbour",
+    "address": "0x65077fa7df8e38e135bd4052ac243f603729892d",
+    "decimals": 18,
+    "symbol": "SETH-H",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/20354.png"
+  },
+  {
+    "chainId": 1,
     "name": "Meowshi",
     "address": "0x650f44ed6f1fe0e1417cb4b3115d52494b4d9b6d",
     "decimals": 18,
@@ -26352,7 +26369,7 @@
     "chainId": 1,
     "name": "Urfaspor Token",
     "address": "0x6641b8df62e4b0e00d3b61f8eca63b2052404fd9",
-    "decimals": 2,
+    "decimals": 18,
     "symbol": "URFA",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/18435.png"
   },
@@ -31405,7 +31422,7 @@
   {
     "chainId": 1,
     "address": "0x7acb51e690301b114a2a65b2e557cc1b7e644ba8",
-    "name": "Expo Token",
+    "name": "Expo",
     "symbol": "EXPO",
     "decimals": 8,
     "logoURI": "https://assets.coingecko.com/coins/images/6548/thumb/t4GE48eH_400x400.png?1547042762"
@@ -37107,11 +37124,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x9210f1204b5a24742eba12f710636d76240df3d0",
     "name": "Balancer Boosted Aave USDC",
-    "symbol": "BB-A-USDC",
+    "address": "0x9210f1204b5a24742eba12f710636d76240df3d0",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/25780/thumb/bb-a-usdc.png?1653735108"
+    "symbol": "BB-A-USDC",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/20365.png"
   },
   {
     "chainId": 1,
@@ -48585,7 +48602,7 @@
   {
     "chainId": 1,
     "address": "0xc0e6737a29de7a00e2f6011924eb257106cb082f",
-    "name": "Glosfer Token",
+    "name": "Glosfer",
     "symbol": "GLO",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/9237/thumb/ItBMqQKt_400x400.jpg?1565336364"
@@ -50030,7 +50047,7 @@
   {
     "chainId": 1,
     "address": "0xc71e20e54adfc415f79bf0a8f11122917920050e",
-    "name": "Storichain Token",
+    "name": "Storichain",
     "symbol": "TORI",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/9551/thumb/Tcp1SO9L_400x400.jpg?1568836675"
@@ -50960,7 +50977,7 @@
   {
     "chainId": 1,
     "address": "0xcafe27178308351a12fffffdeb161d9d730da082",
-    "name": "HotDollars Token",
+    "name": "HotDollars",
     "symbol": "HDS",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/8505/thumb/pvGh4E0b_400x400.jpg?1559026304"
@@ -51175,6 +51192,14 @@
     "decimals": 18,
     "symbol": "ASTRO",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/6894.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Rewards ETH Harbour",
+    "address": "0xcbe26dbc91b05c160050167107154780f36ceaab",
+    "decimals": 18,
+    "symbol": "RETH-H",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/20355.png"
   },
   {
     "chainId": 1,
@@ -52255,7 +52280,7 @@
   {
     "chainId": 1,
     "address": "0xd059c8a4c7f53c4352d933b059349ba492294ac9",
-    "name": "Apple Protocol Token",
+    "name": "Apple Protocol",
     "symbol": "AAPL",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/13208/thumb/aapl.png?1606200126"
@@ -58922,6 +58947,14 @@
   },
   {
     "chainId": 1,
+    "address": "0xec363faa5c4dd0e51f3d9b5d0101263760e7cdeb",
+    "name": "Instadapp WBTC",
+    "symbol": "IWBTC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/25784/thumb/instadapp_32.png?1653880918"
+  },
+  {
+    "chainId": 1,
     "name": "ICHI's oneBTC token",
     "address": "0xec4325f0518584f0774b483c215f65474eabd27f",
     "decimals": 18,
@@ -59935,7 +59968,7 @@
   {
     "chainId": 1,
     "address": "0xf028adee51533b1b47beaa890feb54a457f51e89",
-    "name": "BMCHAIN token",
+    "name": "BMCHAIN",
     "symbol": "BMT",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/7419/thumb/bchain_logo.jpg?1547199925"
