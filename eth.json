@@ -1043,7 +1043,7 @@
   {
     "chainId": 1,
     "address": "0x03806ce5ef69bd9780edfb04c29da1f23db96294",
-    "name": "Tesla Token",
+    "name": "Tesla TSL",
     "symbol": "TSL",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/1222/thumb/energo.png?1547035249"
@@ -2342,6 +2342,14 @@
     "symbol": "TNT",
     "decimals": 8,
     "logoURI": "https://assets.coingecko.com/coins/images/923/thumb/tierion.png?1547034767"
+  },
+  {
+    "chainId": 1,
+    "address": "0x08f7be99ed83369541501d60f4e66f8e34c3f736",
+    "name": "Cryptoku",
+    "symbol": "CKU",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/25813/thumb/Cryptoku.png?1653988443"
   },
   {
     "chainId": 1,
@@ -7873,6 +7881,14 @@
   },
   {
     "chainId": 1,
+    "name": "Asia Pacific Electronic Coin",
+    "address": "0x1e7fde66acc959fe02fbe7f830d6dcf4567cfd40",
+    "decimals": 18,
+    "symbol": "APECOIN",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/13248.png"
+  },
+  {
+    "chainId": 1,
     "name": "Ethereum Eagle",
     "address": "0x1e83916ea2ef2d7a6064775662e163b2d4c330a7",
     "decimals": 18,
@@ -8134,6 +8150,14 @@
     "decimals": 18,
     "symbol": "UTO",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/6603.png"
+  },
+  {
+    "chainId": 1,
+    "name": "omChain",
+    "address": "0x1f926b439fae4595e5951029d47616feca401b77",
+    "decimals": 18,
+    "symbol": "OMC",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/10228.png"
   },
   {
     "chainId": 1,
@@ -8838,11 +8862,11 @@
   },
   {
     "chainId": 1,
-    "name": "Omlira",
     "address": "0x224db5e6180761df4c3d8936585f6b8b83879770",
+    "name": "Omlira",
+    "symbol": "OML",
     "decimals": 18,
-    "symbol": "OMC",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/10228.png"
+    "logoURI": "https://assets.coingecko.com/coins/images/17780/thumb/omlira.PNG?1629247142"
   },
   {
     "chainId": 1,
@@ -11559,7 +11583,7 @@
   },
   {
     "chainId": 1,
-    "name": "Shiba Titian",
+    "name": "Colossal Token",
     "address": "0x2cf47457a1e9c7bff57fc24fbd3046a72d64f328",
     "decimals": 9,
     "symbol": "CLSL",
@@ -17270,7 +17294,7 @@
   {
     "chainId": 1,
     "address": "0x426567f78e74577f8a6233b635970eb729631e05",
-    "name": "Staker Token",
+    "name": "Staker",
     "symbol": "STR",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/5122/thumb/staker-logo.png?1547040513"
@@ -18730,6 +18754,14 @@
   },
   {
     "chainId": 1,
+    "name": "VNDT",
+    "address": "0x475d02372705c18a10b518d36b2135263e0045dc",
+    "decimals": 8,
+    "symbol": "VNDT",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/20384.png"
+  },
+  {
+    "chainId": 1,
     "name": "Crowd One",
     "address": "0x4760e7a401558aa59639161454bb2a41a3c5a90b",
     "decimals": 18,
@@ -19994,6 +20026,14 @@
     "symbol": "GW",
     "decimals": 9,
     "logoURI": "https://assets.coingecko.com/coins/images/20260/thumb/04CmcQR.jpeg?1636702913"
+  },
+  {
+    "chainId": 1,
+    "name": "Orbit",
+    "address": "0x4bf5cd1ac6fff12e88aedd3c70eb4148f90f8894",
+    "decimals": 18,
+    "symbol": "ORBIT",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/20037.png"
   },
   {
     "chainId": 1,
@@ -29173,6 +29213,14 @@
   },
   {
     "chainId": 1,
+    "name": "LunchDAO",
+    "address": "0x71a28feaee902966dc8d355e7b8aa427d421e7e0",
+    "decimals": 18,
+    "symbol": "LUNCH",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/20388.png"
+  },
+  {
+    "chainId": 1,
     "name": "Highstreet",
     "address": "0x71ab77b7dbb4fa7e017bc15090b2163221420282",
     "decimals": 18,
@@ -29280,7 +29328,7 @@
   {
     "chainId": 1,
     "address": "0x72108a8cc3254813c6be2f1b77be53e185abfdd9",
-    "name": "Era Swap Token",
+    "name": "Era Swap",
     "symbol": "ES",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/6031/thumb/era_swap.PNG?1570920926"
@@ -29296,7 +29344,7 @@
   {
     "chainId": 1,
     "address": "0x7220e92d418e2eb59d0c25d195fa004bfd3afc42",
-    "name": "Ad Flex Token",
+    "name": "Ad Flex",
     "symbol": "ADF",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/5620/thumb/ad-flex-token.png?1547041485"
@@ -30792,7 +30840,7 @@
     "name": "Luna Inu",
     "symbol": "LINU",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/25623/thumb/6rG1s5Dx_400x400.jpeg?1652857836"
+    "logoURI": "https://assets.coingecko.com/coins/images/25623/thumb/output-onlinepngtools.png?1653983337"
   },
   {
     "chainId": 1,
@@ -33550,7 +33598,7 @@
   {
     "chainId": 1,
     "address": "0x84119cb33e8f590d75c2d6ea4e6b0741a7494eda",
-    "name": "Giga Watt Token",
+    "name": "Giga Watt",
     "symbol": "WTT",
     "decimals": 0,
     "logoURI": "https://assets.coingecko.com/coins/images/907/thumb/wtt.png?1547034739"
@@ -37457,7 +37505,7 @@
     "name": "Evmos",
     "symbol": "EVMOS",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/24023/thumb/logo-orange.png?1651223278"
+    "logoURI": "https://assets.coingecko.com/coins/images/24023/thumb/evmos.png?1653958927"
   },
   {
     "chainId": 1,
@@ -38506,11 +38554,11 @@
   },
   {
     "chainId": 1,
-    "name": "PoorQuack",
     "address": "0x96f29330bace95ea569928a8d74e6b1b49283edb",
-    "decimals": 18,
+    "name": "Poor Quack",
     "symbol": "POOR",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/16932.png"
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/22525/thumb/16932.png?1641980086"
   },
   {
     "chainId": 1,
@@ -41712,11 +41760,11 @@
   },
   {
     "chainId": 1,
-    "name": "Stratis",
     "address": "0xa3c22370de5f9544f0c4de126b1e46ceadf0a51b",
-    "decimals": 18,
+    "name": "Stratis",
     "symbol": "STRAX",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/1343.png"
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/531/thumb/stratis.png?1547034209"
   },
   {
     "chainId": 1,
@@ -48486,6 +48534,14 @@
     "decimals": 18,
     "symbol": "MCN",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7482.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Qfora",
+    "address": "0xc05a4ed46ef5b0678d56fff5a877b4b6b32077bb",
+    "decimals": 18,
+    "symbol": "QUROZ",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/20386.png"
   },
   {
     "chainId": 1,
@@ -55291,6 +55347,14 @@
   },
   {
     "chainId": 1,
+    "address": "0xdcb5645eda1ed34c5641d81b927d33ebae9cf2a4",
+    "name": "PayB",
+    "symbol": "PAYB",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/25805/thumb/logo_payb_200_x_200.png?1653978259"
+  },
+  {
+    "chainId": 1,
     "name": "TOP",
     "address": "0xdcd85914b8ae28c1e62f1c488e1d968d5aaffe2b",
     "decimals": 18,
@@ -59229,7 +59293,7 @@
   {
     "chainId": 1,
     "address": "0xed64142f7d0a4d94ce0e7fe45d12f712fe360bd0",
-    "name": "Cosplay Token  OLD ",
+    "name": "Cosplay  OLD ",
     "symbol": "COT",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/2821/thumb/cot.PNG?1563431427"
@@ -62898,7 +62962,7 @@
   {
     "chainId": 1,
     "address": "0xfbe878ced08132bd8396988671b450793c44bc12",
-    "name": "Fox Trading Token",
+    "name": "Fox Trading",
     "symbol": "FOXT",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/5182/thumb/foxtrading-logo.png?1547040619"
