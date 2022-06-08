@@ -56,14 +56,6 @@
     "logoURI": "https://assets.coingecko.com/coins/images/14186/small/WATCH1.png?1614825718"
   },
   {
-    "name": "QuickChart",
-    "address": "0x0af77b096cbdf53b5c39c2fcff8f14c5e3a36356",
-    "symbol": "QuickChart",
-    "decimals": 9,
-    "chainId": 137,
-    "logoURI": "https://i.imgur.com/jv5A0eX.png"
-  },
-  {
     "name": "Atlantis",
     "address": "0x0b68782eff3177f1f9240b64a7e2f8e0497e2454",
     "symbol": "ATLX",
@@ -118,14 +110,6 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://assets.coingecko.com/coins/images/16133/small/tomb_icon_noBG.png?1623055476"
-  },
-  {
-    "name": "Frax",
-    "address": "0x104592a158490a9228070e0a8e5343b499e125d0",
-    "symbol": "FRAX",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://avatars.githubusercontent.com/u/56005256?s=200&v=4"
   },
   {
     "name": "ScaleSwapToken",
@@ -467,6 +451,14 @@
     "logoURI": "https://assets.coingecko.com/coins/images/18036/small/TQzTNi5.png?1630312183"
   },
   {
+    "name": "GAX Liquidity Token Reward",
+    "address": "0x3801c3b3b5c98f88a9c9005966aa96aa440b9afc",
+    "symbol": "GLTR",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://i.ibb.co/qMMwsK7/gltr-token.png"
+  },
+  {
     "name": "TrustSwap Token",
     "address": "0x3809dcdd5dde24b37abe64a5a339784c3323c44f",
     "symbol": "SWAP",
@@ -649,6 +641,14 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://assets.coingecko.com/coins/images/24737/small/fomo.png?1648769659"
+  },
+  {
+    "name": "Frax",
+    "address": "0x45c32fa6df82ead1e2ef74d17b76547eddfaff89",
+    "symbol": "FRAX",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://polygonscan.com/token/images/frax_32.png"
   },
   {
     "chainId": 137,
@@ -872,7 +872,7 @@
     "symbol": "TECH",
     "decimals": 18,
     "chainId": 137,
-    "logoURI": "https://assets.coingecko.com/coins/images/17983/small/Profile_picture_white.jpg?1630149169"
+    "logoURI": "https://i.imgur.com/71B4h8s.png"
   },
   {
     "name": "CelsiusX Wrapped ADA",
@@ -1019,14 +1019,6 @@
     "logoURI": "https://augury.finance/_nuxt/img/omen.b433161.png"
   },
   {
-    "name": "ZigCoin",
-    "address": "0x7bebd226154e865954a87650faefa8f485d36081",
-    "symbol": "ZIG",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://assets.coingecko.com/coins/images/14796/small/zignaly.jpg?1618496339"
-  },
-  {
     "name": "Rai.Finance",
     "address": "0x7cb810ecbfd6125e65f451cfbd8ae657dffdd6b4",
     "symbol": "SOFI",
@@ -1073,6 +1065,14 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://assets.coingecko.com/coins/images/21367/small/fnc.png?1639025576"
+  },
+  {
+    "name": "Ripae",
+    "address": "0x8063037ea50e4a066bf1430ea1e3e609cd5cef6b",
+    "symbol": "PAE",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/23420/small/logo192_%282%29.png?1644194954"
   },
   {
     "name": "Wrapped ONE",
@@ -1139,14 +1139,6 @@
     "logoURI": "https://assets.coingecko.com/coins/images/12465/small/defi_pulse_index_set.png?1600051053"
   },
   {
-    "name": "YAMP.FINANCE",
-    "address": "0x87f654c4b347230c60cad8d7ea9cf0d7238bcc79",
-    "symbol": "YAMP",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://yamp.finance/img/yamp_logo.svg"
-  },
-  {
     "name": "SHEESHA POLYGON",
     "address": "0x88c949b4eb85a90071f2c0bef861bddee1a7479d",
     "symbol": "mSHEESHA",
@@ -1185,14 +1177,6 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://assets.coingecko.com/coins/images/21294/small/brave_ZxsjzUc8xn.png?1638874098"
-  },
-  {
-    "name": "Sphere Finance",
-    "address": "0x8d546026012bf75073d8a586f24a5d5ff75b9716",
-    "symbol": "SPHERE",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://i.ibb.co/xKnbP10/logo-icon-onlight-whitebg.png"
   },
   {
     "name": "Pleasure Coin",
@@ -1321,6 +1305,14 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://i.imgur.com/rb4P2E3.jpg"
+  },
+  {
+    "name": "pMATIC",
+    "address": "0xa0df47432d9d88bcc040e9ee66ddc7e17a882715",
+    "symbol": "pMATIC",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://matic.ripae.finance/static/media/ripae_pftm.1a3fe2b4.svg"
   },
   {
     "name": "DSLA",
@@ -1545,14 +1537,6 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://assets.coingecko.com/coins/images/4001/small/Fantom.png?1558015016"
-  },
-  {
-    "name": "Zerogoki Token",
-    "address": "0xb9f9e37c2cdbaff928c3da730b02f06fe09ae70e",
-    "symbol": "REI",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://assets.coingecko.com/coins/images/17015/small/iconZerogoki.png?1626618921"
   },
   {
     "name": "MacaronSwap Token",
@@ -2067,14 +2051,6 @@
     "decimals": 6,
     "chainId": 137,
     "logoURI": "https://assets.coingecko.com/coins/images/12785/small/akash-logo.png?1615447676"
-  },
-  {
-    "name": "UniArts Network Token",
-    "address": "0xf244e91a46a9cdd48da295ca5d0b27894f8032b1",
-    "symbol": "UART",
-    "decimals": 12,
-    "chainId": 137,
-    "logoURI": "https://assets.coingecko.com/coins/images/22092/small/3Rx82r_w_400x400.png?1640823145"
   },
   {
     "name": "Wrapped CRO",

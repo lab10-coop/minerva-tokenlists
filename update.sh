@@ -79,6 +79,33 @@ deduplicate okex0.json okex.json
 rm -f okex?.json
 echo "built okex list with $(jq '.|length' okex.json) elements"
 
+########### ARBITRUM ############
+
+arbitrumSource1="https://raw.githubusercontent.com/sushiswap/list/master/lists/token-lists/default-token-list/tokens/arbitrum.json"
+arbitrumSource2="https://bridge.arbitrum.io/token-list-42161.json"
+
+curl -f -s $arbitrumSource1 | jq '.' > arbitrum1.json
+curl -f -s $arbitrumSource2 | jq '.tokens' > arbitrum2.json
+# concat into one file
+jq -s '.|flatten' lab10_arbitrum_overlay.json arbitrum1.json arbitrum2.json > arbitrum0.json
+deduplicate arbitrum0.json arbitrum.json
+rm -f arbitrum?.json
+echo "built arbitrum list with $(jq '.|length' arbitrum.json) elements"
+
+########### OPTIMISM ############
+
+optimismSource1="https://raw.githubusercontent.com/sushiswap/list/master/lists/token-lists/default-token-list/tokens/optimism.json"
+optimismSource2="https://static.optimism.io/optimism.tokenlist.json"
+
+
+curl -f -s $optimismSource1 | jq '.' > optimism1.json
+curl -f -s $optimismSource2 | jq '.tokens' > optimism2.json
+# concat into one file
+jq -s '.|flatten' lab10_optimism_overlay.json optimism1.json optimism2.json > optimism0.json
+deduplicate optimism0.json optimism.json
+rm -f optimism?.json
+echo "built optimism list with $(jq '.|length' optimism.json) elements"
+
 ########### ARTIS ############
 
 # the sigma1 list is static for now
