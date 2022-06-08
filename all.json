@@ -8331,7 +8331,7 @@
   {
     "chainId": 1,
     "address": "0x1fee5588cb1de19c70b6ad5399152d8c643fae7b",
-    "name": "Phun",
+    "name": "Phun Token",
     "symbol": "PHTK",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/24773/thumb/2q6YoWkb_400x400.jpg?1648822416"
@@ -15618,6 +15618,14 @@
   },
   {
     "chainId": 1,
+    "name": "WAGMI Game",
+    "address": "0x3b604747ad1720c01ded0455728b62c0d2f100f0",
+    "decimals": 18,
+    "symbol": "WAGMIGAMES",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/20497.png"
+  },
+  {
+    "chainId": 1,
     "name": "DEUS Finance",
     "address": "0x3b62f3820e0b035cc4ad602dece6d796bc325325",
     "decimals": 18,
@@ -20581,6 +20589,14 @@
   },
   {
     "chainId": 1,
+    "name": "Stable ICHI",
+    "address": "0x4db2c02831c9ac305ff9311eb661f80f1df61e07",
+    "decimals": 18,
+    "symbol": "ONEICHI",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/20496.png"
+  },
+  {
+    "chainId": 1,
     "address": "0x4dc3643dbc642b72c158e7f3d2ff232df61cb6ce",
     "symbol": "AMB",
     "name": "Ambrosus",
@@ -22113,6 +22129,14 @@
     "decimals": 18,
     "symbol": "TOC",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3965.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x549e4d92285ff5a16c9484ff79211e4358b1f202",
+    "name": "Infinite Arcade TIC",
+    "symbol": "TIC",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/25919/thumb/VNReVzc5Sg6NqHONgxEQ_4BI9yq3820sYQx0R.jpg?1654593140"
   },
   {
     "chainId": 1,
@@ -24198,6 +24222,14 @@
     "decimals": 8,
     "symbol": "BULK",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/5241.png"
+  },
+  {
+    "chainId": 1,
+    "name": "ROGin AI",
+    "address": "0x5d43b66da68706d39f6c97f7f1415615672b446b",
+    "decimals": 18,
+    "symbol": "ROG",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/20490.png"
   },
   {
     "chainId": 1,
@@ -52006,11 +52038,10 @@
   {
     "chainId": 1,
     "address": "0xce3f08e664693ca792cace4af1364d5e220827b2",
+    "name": "Saitama Inu",
     "symbol": "SAITAMA",
-    "name": "SAITAMA",
     "decimals": 9,
-    "logoURI": "ipfs://QmPgP74h3isweX3xnhrnLyNbFeRdddxShhG8oiDDpF55TS",
-    "tags": []
+    "logoURI": "https://assets.coingecko.com/coins/images/16353/thumb/Capture.PNG?1632126703"
   },
   {
     "chainId": 1,
@@ -54085,14 +54116,6 @@
     "decimals": 9,
     "symbol": "WALLSTREETINU",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/14672.png"
-  },
-  {
-    "chainId": 1,
-    "name": "WingStep",
-    "address": "0xd68f9f6769f68cb30505aa3f175f9e81e58503c8",
-    "decimals": 18,
-    "symbol": "WST",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/20430.png"
   },
   {
     "chainId": 1,
@@ -61996,6 +62019,14 @@
     "decimals": 18,
     "symbol": "DGPT",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2207.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xf6e06b54855eff198a2d9a8686113665499a6134",
+    "name": "Celestial",
+    "symbol": "CELT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/18683/thumb/celt.png?1632966755"
   },
   {
     "chainId": 1,
