@@ -9217,7 +9217,7 @@
   },
   {
     "chainId": 1,
-    "name": "JPYC",
+    "name": "JPY Coin v1",
     "address": "0x2370f9d504c7a6e775bf6e14b3f12846b594cd53",
     "decimals": 18,
     "symbol": "JPYC",
@@ -22109,11 +22109,11 @@
   },
   {
     "chainId": 1,
+    "name": "Infinite Arcade",
     "address": "0x549e4d92285ff5a16c9484ff79211e4358b1f202",
-    "name": "Infinite Arcade TIC",
-    "symbol": "TIC",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/25919/thumb/VNReVzc5Sg6NqHONgxEQ_4BI9yq3820sYQx0R.jpg?1654593140"
+    "symbol": "TIC",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/20503.png"
   },
   {
     "chainId": 1,
@@ -26203,7 +26203,7 @@
     "name": "Staked ETH Harbour",
     "address": "0x65077fa7df8e38e135bd4052ac243f603729892d",
     "decimals": 18,
-    "symbol": "SETH-H",
+    "symbol": "sETH-h",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/20354.png"
   },
   {
@@ -40466,6 +40466,14 @@
   },
   {
     "chainId": 1,
+    "name": "StrongHands Finance",
+    "address": "0x9e6b19874e97fe8e8cad77f2c0ab5e7a693e5dbf",
+    "decimals": 18,
+    "symbol": "ISHND",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/14222.png"
+  },
+  {
+    "chainId": 1,
     "name": "Mindcell",
     "address": "0x9e6c59321ceb205d5d3bc6c539c017af6159b16c",
     "decimals": 18,
@@ -41839,14 +41847,6 @@
     "decimals": 18,
     "symbol": "COKE",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/8900.png"
-  },
-  {
-    "chainId": 1,
-    "name": "4xBit",
-    "address": "0xa3ac41fde5f3a569fa79e81ffe6734ee8097ce9d",
-    "decimals": 18,
-    "symbol": "4XB",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/4813.png"
   },
   {
     "chainId": 1,
@@ -47345,6 +47345,14 @@
   },
   {
     "chainId": 1,
+    "name": "Choise.com",
+    "address": "0xbba39fd2935d5769116ce38d46a71bde9cf03099",
+    "decimals": 18,
+    "symbol": "CHO",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/19018.png"
+  },
+  {
+    "chainId": 1,
     "name": "Lepasa",
     "address": "0xbba6c7c7d673c48d90069ad2e9d2fe587fcb6bc3",
     "decimals": 18,
@@ -49156,6 +49164,14 @@
   },
   {
     "chainId": 1,
+    "name": "Rango exchange",
+    "address": "0xc2702fbd7208f53d1a7fd1dd96b9e685aef12d4e",
+    "decimals": 18,
+    "symbol": "RANGO",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/17046.png"
+  },
+  {
+    "chainId": 1,
     "name": "Waves Ducks",
     "address": "0xc2708a3a4ba7f64bddc1a49f92f941bc77cad23a",
     "decimals": 18,
@@ -50497,11 +50513,11 @@
   },
   {
     "chainId": 1,
+    "name": "Empire Capital Token",
     "address": "0xc84d8d03aa41ef941721a4d77b24bb44d7c7ac55",
-    "name": "Empire Capital",
-    "symbol": "ECC",
     "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/21221/thumb/61a6125865cccc3140d0bdd9_Logo.png?1638675170"
+    "symbol": "ECC",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/15684.png"
   },
   {
     "chainId": 1,
@@ -51376,7 +51392,7 @@
     "name": "Rewards ETH Harbour",
     "address": "0xcbe26dbc91b05c160050167107154780f36ceaab",
     "decimals": 18,
-    "symbol": "RETH-H",
+    "symbol": "rETH-h",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/20355.png"
   },
   {
@@ -53467,11 +53483,11 @@
   },
   {
     "chainId": 1,
-    "address": "0xd43be54c1aedf7ee4099104f2dae4ea88b18a249",
     "name": "Traxx",
-    "symbol": "TRAXX",
+    "address": "0xd43be54c1aedf7ee4099104f2dae4ea88b18a249",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/24441/thumb/traxx.png?1647671236"
+    "symbol": "TRAXX",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/20502.png"
   },
   {
     "chainId": 1,
@@ -61952,11 +61968,11 @@
   },
   {
     "chainId": 1,
-    "address": "0xf6e06b54855eff198a2d9a8686113665499a6134",
     "name": "Celestial",
-    "symbol": "CELT",
+    "address": "0xf6e06b54855eff198a2d9a8686113665499a6134",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/18683/thumb/celt.png?1632966755"
+    "symbol": "CELT",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/12118.png"
   },
   {
     "chainId": 1,
