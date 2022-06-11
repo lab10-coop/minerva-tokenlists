@@ -123,11 +123,13 @@ echo "built celo list with $(jq '.|length' celo.json) elements"
 
 avalancheSource1="https://raw.githubusercontent.com/sushiswap/list/master/lists/token-lists/default-token-list/tokens/avalanche.json"
 avalancheSource2="https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/joe.tokenlist.json"
+avalancheSource3="https://raw.githubusercontent.com/pangolindex/tokenlists/main/pangolin.tokenlist.json"
 
 curl -f -s $avalancheSource1 | jq '.' > avalanche1.json
 curl -f -s $avalancheSource2 | jq '.tokens' > avalanche2.json
+curl -f -s $avalancheSource3 | jq '.tokens' > avalanche3.json
 # concat into one file
-jq -s '.|flatten' lab10_avalanche_overlay.json avalanche1.json avalanche2.json > avalanche0.json
+jq -s '.|flatten' lab10_avalanche_overlay.json avalanche1.json avalanche2.json avalanche3.json > avalanche0.json
 deduplicate avalanche0.json avalanche.json
 rm -f avalanche?.json
 echo "built avalanche list with $(jq '.|length' avalanche.json) elements"
