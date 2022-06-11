@@ -106,6 +106,32 @@ deduplicate optimism0.json optimism.json
 rm -f optimism?.json
 echo "built optimism list with $(jq '.|length' optimism.json) elements"
 
+########### CELO ############
+
+celoSource1="https://raw.githubusercontent.com/sushiswap/list/master/lists/token-lists/default-token-list/tokens/celo.json"
+celoSource2="https://raw.githubusercontent.com/Ubeswap/default-token-list/master/ubeswap.token-list.json"
+
+curl -f -s $celoSource1 | jq '.' > celo1.json
+curl -f -s $celoSource2 | jq '.tokens' > celo2.json
+# concat into one file
+jq -s '.|flatten' lab10_celo_overlay.json celo1.json celo2.json > celo0.json
+deduplicate celo0.json celo.json
+rm -f celo?.json
+echo "built celo list with $(jq '.|length' celo.json) elements"
+
+########### AVALANCHE ############
+
+avalancheSource1="https://raw.githubusercontent.com/sushiswap/list/master/lists/token-lists/default-token-list/tokens/avalanche.json"
+avalancheSource2="https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/joe.tokenlist.json"
+
+curl -f -s $avalancheSource1 | jq '.' > avalanche1.json
+curl -f -s $avalancheSource2 | jq '.tokens' > avalanche2.json
+# concat into one file
+jq -s '.|flatten' lab10_avalanche_overlay.json avalanche1.json avalanche2.json > avalanche0.json
+deduplicate avalanche0.json avalanche.json
+rm -f avalanche?.json
+echo "built avalanche list with $(jq '.|length' avalanche.json) elements"
+
 ########### ARTIS ############
 
 # the sigma1 list is static for now
@@ -114,6 +140,6 @@ echo "validated sigma1 list with $(jq '.|length' sigma1.json) elements"
 ########### merge all ###########
 
 # compile a multi-network list
-jq -s '.|flatten' eth.json xdai.json sigma1.json matic.json bsc.json okex.json > all.json
+jq -s '.|flatten' eth.json xdai.json sigma1.json matic.json bsc.json okex.json arbitrum.json optimism.json celo.json avalanche.json > all.json
 
 echo "built all list with $(jq '.|length' all.json) elements"
