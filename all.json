@@ -8500,6 +8500,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x20b2d0a368d34adc544720c841281fa8a99f5a2e",
+    "name": "CoinGhost",
+    "symbol": "GST",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/25978/thumb/20568.png?1655112863"
+  },
+  {
+    "chainId": 1,
     "name": "StakeWise",
     "address": "0x20bc832ca081b91433ff6c17f85701b6e92486c5",
     "decimals": 18,
@@ -14173,6 +14181,14 @@
     "decimals": 8,
     "symbol": "ARTI",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/16283.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x362bc4b0b2a8134d87ace9143d284a2eced3fd2a",
+    "name": "Dar   afaka Sports Club",
+    "symbol": "DSK",
+    "decimals": 2,
+    "logoURI": "https://assets.coingecko.com/coins/images/25980/thumb/20572.png?1655113316"
   },
   {
     "chainId": 1,
@@ -23083,6 +23099,14 @@
     "decimals": 4,
     "symbol": "KAIJU",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7485.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x58aab16f5ba19827505bb4fe0a867fa0b7977e72",
+    "name": "Icel Idman Yurdu",
+    "symbol": "MIY",
+    "decimals": 2,
+    "logoURI": "https://assets.coingecko.com/coins/images/25981/thumb/20570.png?1655113476"
   },
   {
     "chainId": 1,
@@ -51950,6 +51974,14 @@
   },
   {
     "chainId": 1,
+    "address": "0xcdd2fa4c2b36a1a14edc41da1c9f9b2cb9f981aa",
+    "name": "Duzce",
+    "symbol": "DUZCE",
+    "decimals": 2,
+    "logoURI": "https://assets.coingecko.com/coins/images/25979/thumb/20569.png?1655113117"
+  },
+  {
+    "chainId": 1,
     "name": "Lucy Inu",
     "address": "0xcdd6c793c13d9c769df55adb069179b3e2459d8d",
     "decimals": 18,
@@ -72269,6 +72301,14 @@
     "symbol": "GMX"
   },
   {
+    "address": "0x641441c631e2f909700d2f41fd87f0aa6a6b4edb",
+    "chainId": 42161,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x641441c631e2F909700d2f41FD87F0aA6A6b4EDb.jpg",
+    "name": "dForce USD",
+    "symbol": "USX"
+  },
+  {
     "address": "0x662d0f9ff837a51cf89a1fe7e0882a906dac08a3",
     "chainId": 42161,
     "decimals": 18,
@@ -73174,6 +73214,18 @@
     }
   },
   {
+    "chainId": 42161,
+    "address": "0xe6c8d111337d0052b9d88bf5d7d55b7f8385acd3",
+    "name": "Super ETH",
+    "symbol": "ETHx",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
+    "tags": [
+      "SuperToken",
+      "WrapperToken"
+    ]
+  },
+  {
     "logoURI": "https://assets.coingecko.com/coins/images/2165/thumb/Auc_Discord_Avatar1.png?1618983355",
     "chainId": 42161,
     "address": "0xea986d33ef8a20a96120ecc44dbdd49830192043",
@@ -73950,6 +74002,18 @@
   },
   {
     "chainId": 10,
+    "address": "0x4ac8bd1bdae47beef2d1c6aa62229509b962aa0d",
+    "name": "Super ETH",
+    "symbol": "ETHx",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
+    "tags": [
+      "SuperToken",
+      "WrapperToken"
+    ]
+  },
+  {
+    "chainId": 10,
     "address": "0x5029c236320b8f15ef0a657054b84d90bfbeded3",
     "name": "BitANT",
     "symbol": "BitANT",
@@ -74035,6 +74099,18 @@
     "extensions": {
       "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
     }
+  },
+  {
+    "chainId": 10,
+    "address": "0x7d342726b69c28d942ad8bfe6ac81b972349d524",
+    "name": "Super Dai Stablecoin",
+    "symbol": "DAIx",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png",
+    "tags": [
+      "SuperToken",
+      "WrapperToken"
+    ]
   },
   {
     "address": "0x7f5c764cbc14f9669b88837ca1490cca17c31607",
@@ -75706,6 +75782,18 @@
   },
   {
     "chainId": 43114,
+    "address": "0x288398f314d472b82c44855f3f6ff20b633c2a97",
+    "name": "Super USD Coin",
+    "symbol": "USDCx",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png",
+    "tags": [
+      "SuperToken",
+      "WrapperToken"
+    ]
+  },
+  {
+    "chainId": 43114,
     "address": "0x2b2c81e08f1af8835a78bb2a90ae924ace0ea4be",
     "decimals": 18,
     "name": "Staked AVAX",
@@ -76234,6 +76322,18 @@
   },
   {
     "chainId": 43114,
+    "address": "0x7cd00c2b9a78f270b897457ab070274e4a17de83",
+    "name": "Super Dai Stablecoin",
+    "symbol": "DAI.ex",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png",
+    "tags": [
+      "SuperToken",
+      "WrapperToken"
+    ]
+  },
+  {
+    "chainId": 43114,
     "address": "0x7f041ce89a2079873693207653b24c15b5e6a293",
     "decimals": 18,
     "name": "LOOT",
@@ -76489,6 +76589,18 @@
     "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xa5E59761eBD4436fa4d20E1A27cBa29FB2471Fc6/logo.png"
   },
   {
+    "chainId": 43114,
+    "address": "0xa60c5bebccdb9738f63891bbdd7fec3e762f9098",
+    "name": "Super JoeToken",
+    "symbol": "JOEx",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x23fc76B53882d8dcaB1900f0D3C1C0c504Ffb8E3/logo.png",
+    "tags": [
+      "SuperToken",
+      "WrapperToken"
+    ]
+  },
+  {
     "address": "0xa7d7079b0fead91f3e65f86e8915cb59c1a4c664",
     "chainId": 43114,
     "decimals": 6,
@@ -76655,6 +76767,18 @@
     "name": "iDeFiYieldProtocol",
     "symbol": "iDYP",
     "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xBD100d061E120b2c67A24453CF6368E63f1Be056/logo.png"
+  },
+  {
+    "chainId": 43114,
+    "address": "0xbe916845d8678b5d2f7ad79525a62d7c08abba7e",
+    "name": "Super AVAX",
+    "symbol": "AVAXx",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/avalanche/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7.jpg",
+    "tags": [
+      "SuperToken",
+      "WrapperToken"
+    ]
   },
   {
     "chainId": 43114,
@@ -76855,6 +76979,18 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xdef1fac7Bf08f173D286BbBDcBeeADe695129840/logo.png",
     "name": "Cerby Token",
     "symbol": "CERBY"
+  },
+  {
+    "chainId": 43114,
+    "address": "0xdf37ee57b2efd215a6a8329d6b8b72064f09bbd0",
+    "name": "Super TetherToken",
+    "symbol": "USDTx",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x9702230A8Ea53601f5cD2dc00fDBc13d4dF4A8c7/logo.png",
+    "tags": [
+      "SuperToken",
+      "WrapperToken"
+    ]
   },
   {
     "chainId": 43114,
