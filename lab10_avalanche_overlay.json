@@ -1,3 +1,47 @@
 [
-
+  {
+    "chainId": 43114,
+    "address": "0x288398f314d472b82c44855f3f6ff20b633c2a97",
+    "name": "Super USD Coin",
+    "symbol": "USDCx",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png",
+    "tags": [ "SuperToken", "WrapperToken" ]
+  },
+  {
+    "chainId": 43114,
+    "address": "0x7cd00c2b9a78f270b897457ab070274e4a17de83",
+    "name": "Super Dai Stablecoin",
+    "symbol": "DAI.ex",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png",
+    "tags": [ "SuperToken", "WrapperToken" ]
+  },
+  {
+    "chainId": 43114,
+    "address": "0xbe916845d8678b5d2f7ad79525a62d7c08abba7e",
+    "name": "Super AVAX",
+    "symbol": "AVAXx",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/avalanche/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7.jpg",
+    "tags": [ "SuperToken", "WrapperToken" ]
+  },
+  {
+    "chainId": 43114,
+    "address": "0xdf37ee57b2efd215a6a8329d6b8b72064f09bbd0",
+    "name": "Super TetherToken",
+    "symbol": "USDTx",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x9702230A8Ea53601f5cD2dc00fDBc13d4dF4A8c7/logo.png",
+    "tags": [ "SuperToken", "WrapperToken" ]
+  },
+  {
+    "chainId": 43114,
+    "address": "0xa60c5bebccdb9738f63891bbdd7fec3e762f9098",
+    "name": "Super JoeToken",
+    "symbol": "JOEx",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x23fc76B53882d8dcaB1900f0D3C1C0c504Ffb8E3/logo.png",
+    "tags": [ "SuperToken", "WrapperToken" ]
+  }
 ]

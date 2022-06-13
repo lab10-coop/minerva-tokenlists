@@ -1,3 +1,20 @@
 [
-
+  {
+    "chainId": 10,
+    "address": "0x4ac8bd1bdae47beef2d1c6aa62229509b962aa0d",
+    "name": "Super ETH",
+    "symbol": "ETHx",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
+    "tags": [ "SuperToken", "WrapperToken" ]
+  },
+  {
+    "chainId": 10,
+    "address": "0x7d342726b69c28d942ad8bfe6ac81b972349d524",
+    "name": "Super Dai Stablecoin",
+    "symbol": "DAIx",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png",
+    "tags": [ "SuperToken", "WrapperToken" ]
+  }
 ]
