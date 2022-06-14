@@ -3683,14 +3683,6 @@
   },
   {
     "chainId": 1,
-    "name": "Spume",
-    "address": "0x0e9776bef2b9ad81759e6d304d22d3c1b1f26087",
-    "decimals": 18,
-    "symbol": "SPUME",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/19460.png"
-  },
-  {
-    "chainId": 1,
     "name": "Mirrored Facebook Inc",
     "address": "0x0e99cc0535bb6251f6679fa6e65d6d3b430e840b",
     "decimals": 18,
@@ -8500,11 +8492,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x20b2d0a368d34adc544720c841281fa8a99f5a2e",
     "name": "CoinGhost",
-    "symbol": "GST",
+    "address": "0x20b2d0a368d34adc544720c841281fa8a99f5a2e",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/25978/thumb/20568.png?1655112863"
+    "symbol": "GST",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/20568.png"
   },
   {
     "chainId": 1,
@@ -23102,11 +23094,11 @@
   },
   {
     "chainId": 1,
+    "name": "Icel Idman Yurdu Token",
     "address": "0x58aab16f5ba19827505bb4fe0a867fa0b7977e72",
-    "name": "Icel Idman Yurdu",
-    "symbol": "MIY",
     "decimals": 2,
-    "logoURI": "https://assets.coingecko.com/coins/images/25981/thumb/20570.png?1655113476"
+    "symbol": "MIY",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/20570.png"
   },
   {
     "chainId": 1,
@@ -25892,6 +25884,14 @@
     "decimals": 18,
     "symbol": "MPH",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7217.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Spume",
+    "address": "0x637b1c41e3e34a2b0c77beb57bcfee3c88cc50fc",
+    "decimals": 18,
+    "symbol": "SPUME",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/19460.png"
   },
   {
     "chainId": 1,
@@ -32626,7 +32626,7 @@
   },
   {
     "chainId": 1,
-    "name": "Decentralized Non-Standard Asset Pledge ",
+    "name": "DNP",
     "address": "0x7f100f58e4cec7b56c113ea0295239051d5e6402",
     "decimals": 18,
     "symbol": "DNP",
@@ -43351,6 +43351,15 @@
   },
   {
     "chainId": 1,
+    "address": "0xa967dd943b336680540011536e7d8c3d33333515",
+    "symbol": "EURL",
+    "name": "Lugh",
+    "decimals": 6,
+    "logoURI": "ipfs://QmaT499Xv3zmw3EtHxbfPoWHi1QFKyz1nL2ypVVvTKJtBR",
+    "tags": []
+  },
+  {
+    "chainId": 1,
     "name": "Ethereum Gold Project",
     "address": "0xa96f31f1c187c28980176c3a27ba7069f48abde4",
     "decimals": 8,
@@ -51974,11 +51983,11 @@
   },
   {
     "chainId": 1,
+    "name": "Duzce Token",
     "address": "0xcdd2fa4c2b36a1a14edc41da1c9f9b2cb9f981aa",
-    "name": "Duzce",
-    "symbol": "DUZCE",
     "decimals": 2,
-    "logoURI": "https://assets.coingecko.com/coins/images/25979/thumb/20569.png?1655113117"
+    "symbol": "DUZCE",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/20569.png"
   },
   {
     "chainId": 1,
@@ -54105,11 +54114,11 @@
   },
   {
     "chainId": 1,
-    "address": "0xd64126835cecaca345c8f137bda68e975f5ab790",
     "name": "Yeni Malatyaspor Token",
-    "symbol": "YMS",
+    "address": "0xd64126835cecaca345c8f137bda68e975f5ab790",
     "decimals": 2,
-    "logoURI": "https://assets.coingecko.com/coins/images/24815/thumb/Yeni_Malatyaspor_logo.svg.png?1649029086"
+    "symbol": "YMS",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/20573.png"
   },
   {
     "chainId": 1,
@@ -57425,6 +57434,14 @@
     "decimals": 18,
     "symbol": "XEND",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/8519.png"
+  },
+  {
+    "chainId": 1,
+    "name": "bitcci Cash",
+    "address": "0xe4d75e9b493458d032a5c3cc1ee9b0712c1ece06",
+    "decimals": 2,
+    "symbol": "BITCCA",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/20574.png"
   },
   {
     "chainId": 1,
