@@ -6860,6 +6860,14 @@
   },
   {
     "chainId": 1,
+    "name": "Saltmarble",
+    "address": "0x1a403e1c96792dfedb8232cf56400eb72ab95acb",
+    "decimals": 18,
+    "symbol": "SML",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/20594.png"
+  },
+  {
+    "chainId": 1,
     "address": "0x1a434a4c16223fb48f8f835e2e277bf72b4b5d1a",
     "symbol": "NETHER",
     "name": "Netherworld",
@@ -7486,6 +7494,14 @@
     "decimals": 18,
     "symbol": "FACE",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2775.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Mind Music",
+    "address": "0x1cd2528522a17b6be63012fb63ae81f3e3e29d97",
+    "decimals": 18,
+    "symbol": "MND",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/12812.png"
   },
   {
     "chainId": 1,
@@ -13202,6 +13218,14 @@
     "decimals": 18,
     "symbol": "TTN",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/8396.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x329c6e459ffa7475718838145e5e85802db2a303",
+    "name": "MaidSafeCoin",
+    "symbol": "EMAID",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/80/thumb/maidsafecoin.png?1547033750"
   },
   {
     "chainId": 1,
@@ -22726,6 +22750,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x5718af2dd07cd76ab0606f66565275f6c29f132f",
+    "name": "Pixul",
+    "symbol": "PIXUL",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/25992/thumb/jHyoPis.png?1655192889"
+  },
+  {
+    "chainId": 1,
     "name": "Bluzelle",
     "address": "0x5732046a883704404f284ce41ffadd5b007fd668",
     "decimals": 18,
@@ -27866,14 +27898,6 @@
   },
   {
     "chainId": 1,
-    "name": "Rogue Coin",
-    "address": "0x6ac665c0de9a6ca72b85757b141aa9c428828aca",
-    "decimals": 18,
-    "symbol": "ROGUE",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/12430.png"
-  },
-  {
-    "chainId": 1,
     "name": "ShibaDoge",
     "address": "0x6adb2e268de2aa1abf6578e4a8119b960e02928f",
     "decimals": 18,
@@ -32092,7 +32116,7 @@
     "name": "GivingToServices SVS",
     "symbol": "SVS",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/16436/thumb/SVS.png?1624081687"
+    "logoURI": "https://assets.coingecko.com/coins/images/16436/thumb/9UbufKC.png?1655180835"
   },
   {
     "chainId": 1,
@@ -32861,11 +32885,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x804cdb9116a10bb78768d3252355a1b18067bf8f",
     "name": "Balancer Boosted Aave DAI",
-    "symbol": "BB-A-DAI",
+    "address": "0x804cdb9116a10bb78768d3252355a1b18067bf8f",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/25883/thumb/bb-a-dai.png?1654347111"
+    "symbol": "BB-A-DAI",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/20597.png"
   },
   {
     "chainId": 1,
@@ -49784,7 +49808,7 @@
   {
     "chainId": 1,
     "address": "0xc4e15973e6ff2a35cc804c2cf9d2a1b817a8b40f",
-    "name": "Interest Bearing Bitcoin",
+    "name": "Badger Interest Bearing Bitcoin",
     "symbol": "IBBTC",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/15500/thumb/ibbtc.png?1621077589"
@@ -57530,6 +57554,14 @@
     "decimals": 18,
     "symbol": "BSP",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/8566.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Three Kingdoms",
+    "address": "0xe529b502fec3ff0ea86fe63da505ec62fdf4f387",
+    "decimals": 18,
+    "symbol": "RTK",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/20593.png"
   },
   {
     "chainId": 1,
@@ -75526,6 +75558,94 @@
     "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x23fc76B53882d8dcaB1900f0D3C1C0c504Ffb8E3/logo.png"
   },
   {
+    "chainId": 16,
+    "address": "0x8c0c6b6e31a8b57d6eab31391950bfad4f8eb229",
+    "decimals": 18,
+    "name": "Pangolin",
+    "symbol": "costonPNG",
+    "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/16/0x8C0c6B6e31A8b57D6eAB31391950bFaD4f8eb229/logo.png"
+  },
+  {
+    "chainId": 11111,
+    "address": "0x21cf0eb2e3ab483a67c900b27da8f34185991982",
+    "decimals": 18,
+    "name": "Wrapped AVAX",
+    "symbol": "WAVAX",
+    "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/11111/0x21cf0eB2E3Ab483a67C900b27dA8F34185991982/logo.png"
+  },
+  {
+    "chainId": 11111,
+    "address": "0x3ee7094dadda15810f191dd6acf7e4ffa37571e4",
+    "decimals": 18,
+    "name": "Wrapped WAGMI",
+    "symbol": "wWAGMI",
+    "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/11111/0x3Ee7094DADda15810F191DD6AcF7E4FFa37571e4/logo.png"
+  },
+  {
+    "chainId": 11111,
+    "address": "0x4eaa03a9c9c9ce745517538d262653b9e43c51f2",
+    "decimals": 18,
+    "name": "staySAFU",
+    "symbol": "staySAFU",
+    "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/11111/0x4eaA03A9C9c9CE745517538d262653B9e43c51f2/logo.png"
+  },
+  {
+    "chainId": 11111,
+    "address": "0xbdf33c7128fbb220fc0e4be277697ceeef8bdff5",
+    "decimals": 18,
+    "name": "Pangolin",
+    "symbol": "wagmiPNG",
+    "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/11111/0xbdf33c7128fBB220fc0e4Be277697cEeef8BdfF5/logo.png"
+  },
+  {
+    "chainId": 11111,
+    "address": "0xf1db872e6454d553686b088c1ea3889cf2fe3abe",
+    "decimals": 18,
+    "name": "OG",
+    "symbol": "OG",
+    "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/11111/0xf1db872E6454D553686b088c1Ea3889cF2FE3ABe/logo.png"
+  },
+  {
+    "chainId": 43113,
+    "address": "0x2058ec2791dd28b6f67db836ddf87534f4bbdf22",
+    "name": "The Fuji stablecoin",
+    "symbol": "FUJISTABLE",
+    "decimals": 6,
+    "logoURI": "https://i.imgur.com/LPZDXoT.png"
+  },
+  {
+    "chainId": 43113,
+    "address": "0x224695ba2a98e4a096a519b503336e06d9116e48",
+    "name": "The Crypt",
+    "symbol": "RIP",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/antiyro/WagmiTokenList/master/wagmi.png"
+  },
+  {
+    "chainId": 43113,
+    "address": "0x97132c109c6816525f7f338dcb7435e1412a7668",
+    "name": "To the Moon",
+    "symbol": "FUJIMOON",
+    "decimals": 9,
+    "logoURI": "https://i.imgur.com/jNTqyQA.png"
+  },
+  {
+    "chainId": 43113,
+    "address": "0xaf5d473b3f8f96a5b21c6bbb97e09b491335acb9",
+    "name": "Fuji PNG",
+    "symbol": "fujiPNG",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43113/0xAF5D473b3f8F96A5B21c6bbB97e09b491335acb9/logo.png"
+  },
+  {
+    "chainId": 43113,
+    "address": "0xf561800ededf4ce146ed427cacf1fb8ab3b2d452",
+    "name": "Wrapped WAGMI",
+    "symbol": "WWAGMI",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43113/0xF561800EdedF4CE146ED427Cacf1Fb8aB3B2D452/logo.png"
+  },
+  {
     "chainId": 43114,
     "address": "0x00ee200df31b869a321b10400da10b561f3ee60d",
     "decimals": 18,
@@ -77208,5 +77328,13 @@
     "name": "FIRE",
     "symbol": "FIRE",
     "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xfcc6ce74f4cd7edef0c5429bb99d38a3608043a5/logo.png"
+  },
+  {
+    "chainId": 80001,
+    "address": "0x4828a3d98e428e73184374845f23c40eb76ba695",
+    "decimals": 18,
+    "name": "Pangolin",
+    "symbol": "mumbaiPNG",
+    "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/80001/0x4828a3D98E428e73184374845f23C40eB76bA695/logo.png"
   }
 ]
