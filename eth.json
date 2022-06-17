@@ -3202,11 +3202,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x0c7d5ae016f806603cb1782bea29ac69471cab9c",
     "name": "Bifrost",
-    "symbol": "BFC",
+    "address": "0x0c7d5ae016f806603cb1782bea29ac69471cab9c",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/4639/thumb/bifrost_32.png?1608520677"
+    "symbol": "BFC",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7817.png"
   },
   {
     "chainId": 1,
@@ -4410,11 +4410,11 @@
   },
   {
     "chainId": 1,
+    "name": "ICHI",
     "address": "0x111111517e4929d3dcbdfa7cce55d30d4b6bc4d6",
-    "name": "Ichi",
-    "symbol": "ICHI",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/13119/thumb/ICHI_%28Round%29.jpg?1614308761"
+    "symbol": "ICHI",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7726.png"
   },
   {
     "chainId": 1,
@@ -6978,6 +6978,14 @@
     "decimals": 18,
     "symbol": "PLY",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/19268.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x1abaea1f7c830bd89acc67ec4af516284b1bc33c",
+    "name": "Euro Coin",
+    "symbol": "EUROC",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/26045/thumb/euro-coin.png?1655394420"
   },
   {
     "chainId": 1,
@@ -15082,11 +15090,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x39207d2e2feef178fbda8083914554c59d9f8c00",
     "name": "MultiPlanetary Inus",
-    "symbol": "INUS",
+    "address": "0x39207d2e2feef178fbda8083914554c59d9f8c00",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/22648/thumb/logo.png?1644479310"
+    "symbol": "INUS",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/17317.png"
   },
   {
     "chainId": 1,
@@ -21979,14 +21987,6 @@
   },
   {
     "chainId": 1,
-    "name": "MultiPlanetary Inus",
-    "address": "0x53821b9ef069cb6eb360b09480953bf737e2e013",
-    "decimals": 9,
-    "symbol": "INUS",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/17317.png"
-  },
-  {
-    "chainId": 1,
     "name": "MONNOS",
     "address": "0x53884b61963351c283118a8e1fc05ba464a11959",
     "decimals": 18,
@@ -24098,7 +24098,7 @@
   },
   {
     "chainId": 1,
-    "name": "Meta X Connect",
+    "name": "MXC",
     "address": "0x5ca381bbfb58f0092df149bd3d243b08b9a8386e",
     "decimals": 18,
     "symbol": "MXC",
@@ -24175,6 +24175,14 @@
     "symbol": "BGT",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/6666/thumb/bgt.jpg?1547042870"
+  },
+  {
+    "chainId": 1,
+    "address": "0x5cc56c266143f29a5054b9ae07f3ac3513a7965e",
+    "name": "ANKR Reward Earning DOT",
+    "symbol": "ADOTB",
+    "decimals": 10,
+    "logoURI": "https://assets.coingecko.com/coins/images/26029/thumb/a-dot-b-d58ca40f7b15ef03310fa1faa974a3b0.png?1655349902"
   },
   {
     "chainId": 1,
@@ -24735,6 +24743,14 @@
     "symbol": "BCHIP",
     "decimals": 8,
     "logoURI": "https://assets.coingecko.com/coins/images/7119/thumb/xIh2PBdp_400x400.jpg?1547043616"
+  },
+  {
+    "chainId": 1,
+    "name": "Shack Token",
+    "address": "0x5f018e73c185ab23647c82bd039e762813877f0e",
+    "decimals": 18,
+    "symbol": "SHACK",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/19952.png"
   },
   {
     "chainId": 1,
@@ -26969,7 +26985,7 @@
     "chainId": 1,
     "name": "KoaCombat",
     "address": "0x6769d86f9c430f5ac6d9c861a0173613f1c5544c",
-    "decimals": 9,
+    "decimals": 18,
     "symbol": "KOACOMBAT",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/18266.png"
   },
@@ -27005,14 +27021,6 @@
     "decimals": 18,
     "symbol": "KOC",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/6108.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x677ad66762c009aab99509c2f903e68a57bc1f80",
-    "name": "BoHr  OLD ",
-    "symbol": "BR",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/21636/thumb/br.png?1639628226"
   },
   {
     "chainId": 1,
@@ -28586,6 +28594,14 @@
     "decimals": 18,
     "symbol": "LQTY",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7429.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Cube Network",
+    "address": "0x6df241103f89983b1fb86244c8601e44ea55368c",
+    "decimals": 18,
+    "symbol": "CUBE",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/20519.png"
   },
   {
     "chainId": 1,
@@ -33559,11 +33575,11 @@
   },
   {
     "chainId": 1,
+    "name": "KiKi.finance",
     "address": "0x82ca5fcd9ef2d6ceeb49a057bb11c3e091560979",
-    "name": "Kiki Finance",
-    "symbol": "KIKI",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/23151/thumb/DLq9z6qp_400x400.jpg?1643351049"
+    "symbol": "KIKI",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/20635.png"
   },
   {
     "chainId": 1,
@@ -34006,6 +34022,14 @@
     "decimals": 18,
     "symbol": "BNPL",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/13005.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x84da8e731172827fcb233b911678e2a82e27baf2",
+    "name": "ANKR Reward Earning KSM",
+    "symbol": "AKSMB",
+    "decimals": 12,
+    "logoURI": "https://assets.coingecko.com/coins/images/26028/thumb/a-ksm-b-99bb6bfd6eddad0ce2a44dac4667ec34.png?1655349825"
   },
   {
     "chainId": 1,
@@ -36129,6 +36153,14 @@
   },
   {
     "chainId": 1,
+    "name": "MyOwnItem",
+    "address": "0x8c76155f890e268882c8fd91d3350332b18d3a0b",
+    "decimals": 18,
+    "symbol": "MOI",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/20633.png"
+  },
+  {
+    "chainId": 1,
     "name": "GreenTek",
     "address": "0x8c7e3b5e720b7a9bbcf15c38be5b657bb2b71dba",
     "decimals": 18,
@@ -37004,11 +37036,11 @@
   },
   {
     "chainId": 1,
-    "name": "ICHI",
+    "name": "Legacy ICHI",
     "address": "0x903bef1736cddf2a537176cf3c64579c3867a881",
     "decimals": 9,
     "symbol": "ICHI",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7726.png"
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/20631.png"
   },
   {
     "chainId": 1,
@@ -44365,7 +44397,7 @@
     "chainId": 1,
     "name": "Atomic Wallet Coin",
     "address": "0xad22f63404f7305e4713ccbd4f296f34770513f4",
-    "decimals": 8,
+    "decimals": 18,
     "symbol": "AWC",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3667.png"
   },
@@ -52033,7 +52065,7 @@
     "chainId": 1,
     "name": "Duzce Token",
     "address": "0xcdd2fa4c2b36a1a14edc41da1c9f9b2cb9f981aa",
-    "decimals": 2,
+    "decimals": 18,
     "symbol": "DUZCE",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/20569.png"
   },
@@ -56575,6 +56607,14 @@
   },
   {
     "chainId": 1,
+    "address": "0xe0c05ec44775e4ad62cdc2eecdf337aa7a143363",
+    "name": "Mancium",
+    "symbol": "MANC",
+    "decimals": 2,
+    "logoURI": "https://assets.coingecko.com/coins/images/25084/thumb/IKpuMYuGaMHEE0nrDUwpf6DqLQ5zTfZ1sak6ZqeIe2snV4GqQbh4Eic6hHcPl_OpBmlhcrRJ5kqoGzwB1CezMiDYnwR6rDT08_l8zb3-y3aPhTv7_0x5g4IO9JpQXDViEIqTZ7gYzTXqkcP6MH_uCFxQF-l-ohR0-FdT8O-ZTmNUKm--OuqEf9DVa-miAFp4t2pN-kcJ5Jv8woPj51yk-zna8c.jpg?1650265130"
+  },
+  {
+    "chainId": 1,
     "name": "BuschCoin",
     "address": "0xe0c3223ae0cb8b5a47ff7f4994f5fbcde58496f8",
     "decimals": 6,
@@ -57722,14 +57762,6 @@
     "symbol": "SMS",
     "decimals": 3,
     "logoURI": "https://assets.coingecko.com/coins/images/1807/thumb/speed-mining-service.png?1548610827"
-  },
-  {
-    "chainId": 1,
-    "name": "Mancium",
-    "address": "0xe58a9243e5708ec0ee01deedc47fd76d1b608797",
-    "decimals": 18,
-    "symbol": "MANC",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/19624.png"
   },
   {
     "chainId": 1,
