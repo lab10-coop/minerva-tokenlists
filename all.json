@@ -5997,9 +5997,9 @@
   },
   {
     "chainId": 1,
-    "name": "Shido Inu",
+    "name": "Shido",
     "address": "0x173e552bf97bbd50b455514ac52991ef639ba703",
-    "decimals": 9,
+    "decimals": 18,
     "symbol": "SHIDO",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/19520.png"
   },
@@ -6981,11 +6981,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x1abaea1f7c830bd89acc67ec4af516284b1bc33c",
     "name": "Euro Coin",
-    "symbol": "EUROC",
+    "address": "0x1abaea1f7c830bd89acc67ec4af516284b1bc33c",
     "decimals": 6,
-    "logoURI": "https://assets.coingecko.com/coins/images/26045/thumb/euro-coin.png?1655394420"
+    "symbol": "EUROC",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/20641.png"
   },
   {
     "chainId": 1,
@@ -10121,6 +10121,14 @@
     "decimals": 18,
     "symbol": "CBC",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2855.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x26dcfbfa8bc267b250432c01c982eaf81cc5480c",
+    "name": "Ankr Reward Earning MATIC",
+    "symbol": "AMATICC",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/25742/thumb/a-matic-c-da4ec10dc9723e695700e25dbf8c8edf.png?1653462321"
   },
   {
     "chainId": 1,
@@ -16296,7 +16304,7 @@
     "chainId": 1,
     "name": "CatCoin",
     "address": "0x3e362283b86c1b45097cc3fb02213b79cf6211df",
-    "decimals": 9,
+    "decimals": 18,
     "symbol": "CATCOIN",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/19856.png"
   },
@@ -30556,11 +30564,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x75ecb52e403c617679fbd3e77a50f9d10a842387",
     "name": "CSR",
-    "symbol": "CSR",
+    "address": "0x75ecb52e403c617679fbd3e77a50f9d10a842387",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/25585/thumb/CSR-LOGO-200x200-1.png?1652767956"
+    "symbol": "CSR",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/20642.png"
   },
   {
     "chainId": 1,
@@ -45164,6 +45172,14 @@
   },
   {
     "chainId": 1,
+    "name": "SIGN",
+    "address": "0xb06b8186cc008a79fd6722b1eefad07c14e97da0",
+    "decimals": 18,
+    "symbol": "SIGN",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/13740.png"
+  },
+  {
+    "chainId": 1,
     "name": "NoFakeCoin",
     "address": "0xb0866289e870d2efc282406cf4123df6e5bcb652",
     "decimals": 18,
@@ -45224,7 +45240,7 @@
     "name": "Magic",
     "symbol": "MAGIC",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/18623/thumb/Magic.png?1635755672"
+    "logoURI": "https://assets.coingecko.com/coins/images/18623/thumb/magic.png?1655449387"
   },
   {
     "chainId": 1,
@@ -54667,6 +54683,14 @@
   },
   {
     "chainId": 1,
+    "address": "0xd8446236fa95b9b5f9fd0f8e7df1a944823c683d",
+    "name": "NEEO",
+    "symbol": "NEEO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/26060/thumb/ZbD8a9pz_400x400.jpg?1655455842"
+  },
+  {
+    "chainId": 1,
     "address": "0xd850942ef8811f2a866692a623011bde52a462c1",
     "symbol": "VEN",
     "name": "VeChain",
@@ -56607,11 +56631,11 @@
   },
   {
     "chainId": 1,
-    "address": "0xe0c05ec44775e4ad62cdc2eecdf337aa7a143363",
     "name": "Mancium",
+    "address": "0xe0c05ec44775e4ad62cdc2eecdf337aa7a143363",
+    "decimals": 18,
     "symbol": "MANC",
-    "decimals": 2,
-    "logoURI": "https://assets.coingecko.com/coins/images/25084/thumb/IKpuMYuGaMHEE0nrDUwpf6DqLQ5zTfZ1sak6ZqeIe2snV4GqQbh4Eic6hHcPl_OpBmlhcrRJ5kqoGzwB1CezMiDYnwR6rDT08_l8zb3-y3aPhTv7_0x5g4IO9JpQXDViEIqTZ7gYzTXqkcP6MH_uCFxQF-l-ohR0-FdT8O-ZTmNUKm--OuqEf9DVa-miAFp4t2pN-kcJ5Jv8woPj51yk-zna8c.jpg?1650265130"
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/19624.png"
   },
   {
     "chainId": 1,
@@ -64151,11 +64175,11 @@
   },
   {
     "chainId": 1,
+    "name": "AMDG Token",
     "address": "0xff743a38efcf6f46fc0768b46a5bdc264f7e92b3",
-    "name": "AMDG",
-    "symbol": "AMDG",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/24545/thumb/amdg-logo.png?1648127822"
+    "symbol": "AMDG",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/20645.png"
   },
   {
     "chainId": 1,
