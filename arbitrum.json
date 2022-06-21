@@ -2204,12 +2204,24 @@
     "symbol": "ICE"
   },
   {
-    "address": "0xcd14c3a2ba27819b352aae73414a26e2b366dc50",
+    "logoURI": "https://etherscan.io/token/images/dforceusd_32.png",
     "chainId": 42161,
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/usx.jpg",
+    "address": "0xcd14c3a2ba27819b352aae73414a26e2b366dc50",
     "name": "dForce USD",
-    "symbol": "USX"
+    "symbol": "USX",
+    "decimals": 18,
+    "extensions": {
+      "bridgeInfo": {
+        "1": {
+          "tokenAddress": "0x0a5e677a6a24b2f1a2bf4f3bffc443231d2fdec8",
+          "originBridgeAddress": "0x09e9222e96e7b4ae2a407b98d48e330053351eee",
+          "destBridgeAddress": "0xa3A7B6F88361F48403514059F1F16C8E78d60EeC"
+        }
+      },
+      "l1Address": "0x0a5e677a6a24b2f1a2bf4f3bffc443231d2fdec8",
+      "l2GatewayAddress": "0x09e9222e96e7b4ae2a407b98d48e330053351eee",
+      "l1GatewayAddress": "0xa3A7B6F88361F48403514059F1F16C8E78d60EeC"
+    }
   },
   {
     "logoURI": "https://assets.coingecko.com/coins/images/17481/thumb/photo_2021-08-03_03-26-29.png?1627953584",

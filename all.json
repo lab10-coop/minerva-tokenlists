@@ -9545,6 +9545,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x24ccedebf841544c9e6a62af4e8c2fa6e5a46fde",
+    "name": "BlueSparrow",
+    "symbol": "BLUESPARROW",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/26085/thumb/bluesparrow.?1655766000"
+  },
+  {
+    "chainId": 1,
     "name": "BITFXT COIN",
     "address": "0x24d77c210a014b1e123a0878f6c903df74a2317b",
     "decimals": 8,
@@ -20550,11 +20558,11 @@
   },
   {
     "chainId": 1,
-    "name": "BlueSparrow Token",
     "address": "0x4d67edef87a5ff910954899f4e5a0aaf107afd42",
-    "decimals": 18,
+    "name": "BlueSparrow  OLD ",
     "symbol": "BLUESPARROW",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/14046.png"
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/19995/thumb/bluesparrow.png?1636361716"
   },
   {
     "chainId": 1,
@@ -23403,6 +23411,14 @@
     "decimals": 18,
     "symbol": "TCH",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/4560.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x59c6900949ad1835f07a04321f4d9934a054e114",
+    "name": "TroveDAO",
+    "symbol": "TROVE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/24764/thumb/coin.png?1655723800"
   },
   {
     "chainId": 1,
@@ -38668,6 +38684,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x9631be8566fc71d91970b10acfdee29f21da6c27",
+    "name": "Intelligent Monsters",
+    "symbol": "IMON",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/26077/thumb/imonToken.png?1655690407"
+  },
+  {
+    "chainId": 1,
     "name": "Intelligent Mining",
     "address": "0x964291d2d0a7e3477a8a06ee745f3cd8e3d0b375",
     "decimals": 18,
@@ -51758,6 +51782,14 @@
   },
   {
     "chainId": 1,
+    "address": "0xcc802c45b55581713cecd1eb17be9ab7fccb0844",
+    "name": "SBU Honey",
+    "symbol": "BHNY",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/26079/thumb/honey.png?1655694712"
+  },
+  {
+    "chainId": 1,
     "name": "Nectar",
     "address": "0xcc80c051057b774cd75067dc48f8987c4eb97a5e",
     "decimals": 18,
@@ -62771,6 +62803,14 @@
   },
   {
     "chainId": 1,
+    "address": "0xf920e4f3fbef5b3ad0a25017514b769bdc4ac135",
+    "name": "BABB",
+    "symbol": "BAX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/2168/thumb/babb.png?1547036466"
+  },
+  {
+    "chainId": 1,
     "name": "Fire Protocol",
     "address": "0xf921ae2dac5fa128dc0f6168bf153ea0943d2d43",
     "decimals": 8,
@@ -73196,12 +73236,24 @@
     "symbol": "ICE"
   },
   {
-    "address": "0xcd14c3a2ba27819b352aae73414a26e2b366dc50",
+    "logoURI": "https://etherscan.io/token/images/dforceusd_32.png",
     "chainId": 42161,
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/usx.jpg",
+    "address": "0xcd14c3a2ba27819b352aae73414a26e2b366dc50",
     "name": "dForce USD",
-    "symbol": "USX"
+    "symbol": "USX",
+    "decimals": 18,
+    "extensions": {
+      "bridgeInfo": {
+        "1": {
+          "tokenAddress": "0x0a5e677a6a24b2f1a2bf4f3bffc443231d2fdec8",
+          "originBridgeAddress": "0x09e9222e96e7b4ae2a407b98d48e330053351eee",
+          "destBridgeAddress": "0xa3A7B6F88361F48403514059F1F16C8E78d60EeC"
+        }
+      },
+      "l1Address": "0x0a5e677a6a24b2f1a2bf4f3bffc443231d2fdec8",
+      "l2GatewayAddress": "0x09e9222e96e7b4ae2a407b98d48e330053351eee",
+      "l1GatewayAddress": "0xa3A7B6F88361F48403514059F1F16C8E78d60EeC"
+    }
   },
   {
     "logoURI": "https://assets.coingecko.com/coins/images/17481/thumb/photo_2021-08-03_03-26-29.png?1627953584",
