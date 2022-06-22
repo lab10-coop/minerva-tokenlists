@@ -54,5 +54,14 @@
     "symbol": "jNGN",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-tokenlists/master/images/jNGN.svg"
+  },
+  {
+    "chainId": 56,
+    "address": "0xbD80CFA9d93A87D1bb895f810ea348E496611cD4",
+    "name": "Own a fraction",
+    "symbol": "FRACTION",
+    "decimals": 18,
+    "logoURI": "https://fraction.fyi/static/Fraction-Token_MC-WB_BSC.svg",
+    "tags": [ "SuperToken" ]
   }
 ]

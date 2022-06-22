@@ -16,5 +16,14 @@
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png",
     "tags": [ "SuperToken", "WrapperToken" ]
+  },
+  {
+    "chainId": 10,
+    "address": "0xbD80CFA9d93A87D1bb895f810ea348E496611cD4",
+    "name": "Own a fraction",
+    "symbol": "FRACTION",
+    "decimals": 18,
+    "logoURI": "https://fraction.fyi/static/Fraction-Token_MC-WB_Optimism.svg",
+    "tags": [ "SuperToken" ]
   }
 ]
