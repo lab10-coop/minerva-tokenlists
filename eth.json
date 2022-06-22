@@ -15821,7 +15821,7 @@
     "chainId": 1,
     "name": "Paycoin",
     "address": "0x3c2a309d9005433c1bc2c92ef1be06489e5bf258",
-    "decimals": 8,
+    "decimals": 18,
     "symbol": "PCI",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/5275.png"
   },
@@ -27039,14 +27039,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x676a32b50e58924effad343f1d4d3c8dd0128889",
-    "name": "7Plus Coin",
-    "symbol": "SV7",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/14922/thumb/K-s1DLEA_400x400.jpg?1619059570"
-  },
-  {
-    "chainId": 1,
     "address": "0x676ad1b33ae6423c6618c1aecf53baa29cf39ee5",
     "symbol": "SDT",
     "name": "Wrapped SDT",
@@ -30295,6 +30287,14 @@
     "decimals": 18,
     "symbol": "ETGF",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7454.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Mammoth",
+    "address": "0x746053c640481c27ffe70682e5d5b6b807e97004",
+    "decimals": 18,
+    "symbol": "MMT",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/20688.png"
   },
   {
     "chainId": 1,
@@ -37668,6 +37668,14 @@
     "decimals": 9,
     "symbol": "HODO",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/11514.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x92cfbec26c206c90aee3b7c66a9ae673754fab7e",
+    "name": "OpenLeverage",
+    "symbol": "OLE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/26098/thumb/256x256_OLE_Token_Logo.png?1655859035"
   },
   {
     "chainId": 1,
@@ -45105,6 +45113,14 @@
     "decimals": 8,
     "symbol": "EBCH",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2187.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xafcdd4f666c84fed1d8bd825aa762e3714f652c9",
+    "name": "Vita Inu",
+    "symbol": "VINU",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/20594/thumb/vita-inu-head-wallet-icon-transparent.png?1637286122"
   },
   {
     "chainId": 1,
@@ -59612,6 +59628,14 @@
     "decimals": 18,
     "symbol": "RPC",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/17573.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Mexican Peso Tether",
+    "address": "0xed03ed872159e199065401b6d0d487d78d9464aa",
+    "decimals": 6,
+    "symbol": "MXNT",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/20322.png"
   },
   {
     "chainId": 1,
