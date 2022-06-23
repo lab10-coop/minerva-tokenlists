@@ -24,22 +24,6 @@
     "logoURI": "https://static.kswap.finance/tokenlist/logos/0x0a3c69b510ea47624ee4d4c5b630ae06cd33eb73.jpg"
   },
   {
-    "name": "Hash Token",
-    "address": "0x0b1a14f160dadb3899dc1cf9ba7675267c143fe5",
-    "symbol": "JHT",
-    "chainId": 66,
-    "decimals": 18,
-    "logoURI": "https://resources.jswap.finance/blockchains/okex-mainnet/assets/0x0b1A14f160daDb3899Dc1cf9Ba7675267C143FE5/logo.png"
-  },
-  {
-    "name": "SIL Finance Token",
-    "address": "0x133bb423d9248a336d2b3086b8f44a7dbff3a13c",
-    "symbol": "SIL",
-    "chainId": 66,
-    "decimals": 18,
-    "logoURI": "https://resources.jswap.finance/blockchains/okex-mainnet/assets/0x133Bb423d9248a336D2b3086b8F44A7DbFF3a13C/logo.png"
-  },
-  {
     "chainId": 66,
     "address": "0x18d103b7066aeedb6005b78a462ef9027329b1ea",
     "name": "BCHK",
@@ -72,12 +56,12 @@
     "logoURI": "https://static.kswap.finance/tokenlist/logos/0x2218e0d5e0173769f5b4939a3ae423f7e5e4eab7.png"
   },
   {
-    "name": "TokenPocket Token",
-    "address": "0x2cec1c3f71db54c99d6df687d8ac968cce80cc85",
-    "symbol": "TPT",
     "chainId": 66,
+    "address": "0x2cec1c3f71db54c99d6df687d8ac968cce80cc85",
+    "name": "TokenPocket Token",
+    "symbol": "TPT",
     "decimals": 4,
-    "logoURI": "https://resources.jswap.finance/blockchains/okex-mainnet/assets/0x2ceC1C3f71Db54C99D6df687d8AC968cCe80CC85/logo.png"
+    "logoURI": "https://static.kswap.finance/tokenlist/logos/0x2cec1c3f71db54c99d6df687d8ac968cce80cc85.png"
   },
   {
     "chainId": 66,
@@ -86,14 +70,6 @@
     "symbol": "pDAIK",
     "decimals": 8,
     "logoURI": "https://static.kswap.finance/tokenlist/logos/0x311aea58ca127b955890647413846e351df32554.png"
-  },
-  {
-    "name": "Bunny Army Carrot",
-    "address": "0x32b382a094711da8481c42f5ed36faacb4ac869c",
-    "symbol": "BAC",
-    "chainId": 66,
-    "decimals": 18,
-    "logoURI": "https://resources.jswap.finance/blockchains/okex-mainnet/assets/0x32B382A094711Da8481C42F5Ed36faAcB4ac869C/logo.png"
   },
   {
     "chainId": 66,
@@ -128,20 +104,12 @@
     "logoURI": "https://static.kswap.finance/tokenlist/logos/0x79b627bc95fa5b36eca53eb39c3cdf43aafdd10f.png"
   },
   {
-    "name": "Wing Token",
+    "chainId": 66,
     "address": "0x7a47ab305b8a2a3f4020d13fa9ef73cddcc0e7d4",
+    "name": "Wing Finance",
     "symbol": "WING",
-    "chainId": 66,
     "decimals": 9,
-    "logoURI": "https://resources.jswap.finance/blockchains/okex-mainnet/assets/0x7A47ab305b8a2A3F4020d13FA9EF73cDdCc0e7D4/logo.png"
-  },
-  {
-    "name": "JswapDAO",
-    "address": "0x7ac8fd3b804d70596e326641e184f864f55f2430",
-    "symbol": "JDAO",
-    "chainId": 66,
-    "decimals": 18,
-    "logoURI": "https://resources.jswap.finance/blockchains/okex-mainnet/assets/0x7AC8fD3B804D70596e326641e184f864F55f2430/logo.png"
+    "logoURI": "https://static.kswap.finance/tokenlist/logos/0x7a47ab305b8a2a3f4020d13fa9ef73cddcc0e7d4.png"
   },
   {
     "name": "CherrySwapToken",
@@ -190,14 +158,6 @@
     "symbol": "BabyDoge",
     "decimals": 9,
     "logoURI": "https://static.kswap.finance/tokenlist/logos/0x97513e975a7fa9072c72c92d8000b0db90b163c5.png"
-  },
-  {
-    "name": "Carrot Token",
-    "address": "0xa63d16d424e769087dc9f6e464522ee446ff60ee",
-    "symbol": "CAR",
-    "chainId": 66,
-    "decimals": 18,
-    "logoURI": "https://resources.jswap.finance/blockchains/okex-mainnet/assets/0xA63D16d424e769087Dc9f6E464522EE446FF60EE/logo.png"
   },
   {
     "chainId": 66,
@@ -254,14 +214,6 @@
     "symbol": "USDK",
     "decimals": 18,
     "logoURI": "https://static.kswap.finance/tokenlist/logos/0xdcac52e001f5bd413aa6ea83956438f29098166b.png"
-  },
-  {
-    "name": "O3 SwapToken",
-    "address": "0xee9801669c6138e84bd50deb500827b776777d28",
-    "symbol": "O3",
-    "chainId": 66,
-    "decimals": 18,
-    "logoURI": "https://resources.jswap.finance/blockchains/okex-mainnet/assets/0xEe9801669C6138E84bD50dEB500827b776777d28/logo.png"
   },
   {
     "chainId": 66,

@@ -40,14 +40,6 @@
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/12691.png"
   },
   {
-    "name": "Elementeum",
-    "address": "0x07738eb4ce8932ca961c815cb12c9d4ab5bd0da4",
-    "symbol": "ELET",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://etherlegends.com/ELET.png"
-  },
-  {
     "name": "yieldwatch",
     "address": "0x09211dc67f9fe98fb7bbb91be0ef05f4a12fa2b2",
     "symbol": "WATCH",
@@ -62,14 +54,6 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://assets.coingecko.com/coins/images/19362/small/atl.png?1635209629"
-  },
-  {
-    "name": "Angel",
-    "address": "0x0b6afe834dab840335f87d99b45c2a4bd81a93c7",
-    "symbol": "ANGEL",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://assets.coingecko.com/coins/images/17739/small/Polylauncher_-_200_x_200.png?1629121147"
   },
   {
     "name": "Wrapped Matic",
@@ -242,6 +226,14 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://assets.coingecko.com/coins/images/17359/small/Logo_black_%282%29.png?1634095075"
+  },
+  {
+    "name": "USD+",
+    "address": "0x236eec6359fb44cce8f97e99387aa7f8cd5cde1f",
+    "symbol": "USD+",
+    "decimals": 6,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/25757/small/USD__logo.png?1653519267"
   },
   {
     "name": "HEXX",
@@ -592,7 +584,7 @@
     "symbol": "TRACE",
     "decimals": 18,
     "chainId": 137,
-    "logoURI": "https://assets.coingecko.com/coins/images/23266/small/93mryokp_400x400.png?1643413792"
+    "logoURI": "https://assets.coingecko.com/coins/images/23266/small/Token_Icon_02.png?1655797843"
   },
   {
     "name": "ParaSwap",
@@ -1299,14 +1291,6 @@
     "logoURI": "https://cloudstorage.openocean.finance/image/ooe_log.png"
   },
   {
-    "name": "DeSpace Protocol",
-    "address": "0xa062fc09ca6bdeb2f6e3b77e1d4e09c42c964742",
-    "symbol": "DES",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://i.imgur.com/rb4P2E3.jpg"
-  },
-  {
     "name": "pMATIC",
     "address": "0xa0df47432d9d88bcc040e9ee66ddc7e17a882715",
     "symbol": "pMATIC",
@@ -1393,14 +1377,6 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://assets.coingecko.com/coins/images/15595/small/metis.PNG?1621298076"
-  },
-  {
-    "name": "Aluna",
-    "address": "0xa8fcee762642f156b5d757b6fabc36e06b6d4a1a",
-    "symbol": "ALN",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://assets.coingecko.com/coins/images/14379/small/uaLoLU8c_400x400_%281%29.png?1627873106"
   },
   {
     "chainId": 137,
@@ -1633,14 +1609,6 @@
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
   },
   {
-    "name": "Otter Clam",
-    "address": "0xc250e9987a032acac293d838726c511e6e1c029d",
-    "symbol": "CLAM",
-    "decimals": 9,
-    "chainId": 137,
-    "logoURI": "https://assets.coingecko.com/coins/images/20670/small/clam.png?1637548092"
-  },
-  {
     "name": "Lucidao",
     "address": "0xc2a45fe7d40bcac8369371b08419ddafd3131b4a",
     "symbol": "LCD",
@@ -1695,6 +1663,14 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://assets.coingecko.com/coins/images/18110/small/ice-poker.png?1630500966"
+  },
+  {
+    "name": "LunaFi",
+    "address": "0xca7bf3c514d412ac12d10eff302301a81153f557",
+    "symbol": "LFI",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/24594/small/lfi.png?1648310927"
   },
   {
     "chainId": 137,
@@ -1907,14 +1883,6 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://ipfs.io/ipfs/QmY1uqAaLvQ2cnax4P6ETQwHJmsigS6tLUQkomd4eZJMpM"
-  },
-  {
-    "name": "ARTH Valuecoin",
-    "address": "0xe52509181feb30eb4979e29ec70d50fd5c44d590",
-    "symbol": "ARTH",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://assets.coingecko.com/coins/images/16876/small/ARTH_Token.png?1625651538"
   },
   {
     "name": "Gains Network",

@@ -9545,11 +9545,11 @@
   },
   {
     "chainId": 1,
+    "name": "BlueSparrow Token",
     "address": "0x24ccedebf841544c9e6a62af4e8c2fa6e5a46fde",
-    "name": "BlueSparrow",
-    "symbol": "BLUESPARROW",
-    "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/26085/thumb/bluesparrow.?1655766000"
+    "decimals": 18,
+    "symbol": "BlueSparrow",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/20686.png"
   },
   {
     "chainId": 1,
@@ -18949,7 +18949,7 @@
     "chainId": 1,
     "name": "VNDT",
     "address": "0x475d02372705c18a10b518d36b2135263e0045dc",
-    "decimals": 8,
+    "decimals": 18,
     "symbol": "VNDT",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/20384.png"
   },
@@ -21732,7 +21732,7 @@
     "name": "pTokens BTC",
     "address": "0x5228a22e72ccc52d415ecfd199f99d0665e7733b",
     "decimals": 18,
-    "symbol": "PBTC",
+    "symbol": "pBTC",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/5434.png"
   },
   {
@@ -24891,11 +24891,11 @@
   },
   {
     "chainId": 1,
+    "name": "5KM Run",
     "address": "0x5f4c148d17effd165c2e2d46b46d2bd6e3ebdc3e",
-    "name": "5KM RUN",
-    "symbol": "RUN",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/26072/thumb/logo-200.png?1655621986"
+    "symbol": "RUN",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/20708.png"
   },
   {
     "chainId": 1,
@@ -32694,7 +32694,7 @@
     "name": "Ecoreal Estate",
     "symbol": "ECOREAL",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/6431/thumb/ecoreal-estate.png?1547224672"
+    "logoURI": "https://assets.coingecko.com/coins/images/6431/thumb/golden_leave_in_200_x_200.png?1655886676"
   },
   {
     "chainId": 1,
@@ -38389,6 +38389,14 @@
     "symbol": "REALT-S-14231-STRAT",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/16563/thumb/14231-Strathmoor-hero-1.jpg?1624459471"
+  },
+  {
+    "chainId": 1,
+    "name": "GoCryptoMe",
+    "address": "0x9528cceb678b90daf02ca5ca45622d5cbaf58a30",
+    "decimals": 18,
+    "symbol": "GCME",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/18363.png"
   },
   {
     "chainId": 1,
@@ -45116,11 +45124,11 @@
   },
   {
     "chainId": 1,
-    "address": "0xafcdd4f666c84fed1d8bd825aa762e3714f652c9",
     "name": "Vita Inu",
-    "symbol": "VINU",
+    "address": "0xafcdd4f666c84fed1d8bd825aa762e3714f652c9",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/20594/thumb/vita-inu-head-wallet-icon-transparent.png?1637286122"
+    "symbol": "VINU",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/15270.png"
   },
   {
     "chainId": 1,
@@ -52423,6 +52431,14 @@
     "decimals": 18,
     "symbol": "YFFI",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/6145.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Got Guaranteed",
+    "address": "0xceeb07dd26b36287b6d109f0b06d7e8202ce8c1d",
+    "decimals": 18,
+    "symbol": "GOTG",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/20712.png"
   },
   {
     "chainId": 1,
@@ -66211,14 +66227,6 @@
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/12691.png"
   },
   {
-    "name": "Elementeum",
-    "address": "0x07738eb4ce8932ca961c815cb12c9d4ab5bd0da4",
-    "symbol": "ELET",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://etherlegends.com/ELET.png"
-  },
-  {
     "name": "yieldwatch",
     "address": "0x09211dc67f9fe98fb7bbb91be0ef05f4a12fa2b2",
     "symbol": "WATCH",
@@ -66233,14 +66241,6 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://assets.coingecko.com/coins/images/19362/small/atl.png?1635209629"
-  },
-  {
-    "name": "Angel",
-    "address": "0x0b6afe834dab840335f87d99b45c2a4bd81a93c7",
-    "symbol": "ANGEL",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://assets.coingecko.com/coins/images/17739/small/Polylauncher_-_200_x_200.png?1629121147"
   },
   {
     "name": "Wrapped Matic",
@@ -66413,6 +66413,14 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://assets.coingecko.com/coins/images/17359/small/Logo_black_%282%29.png?1634095075"
+  },
+  {
+    "name": "USD+",
+    "address": "0x236eec6359fb44cce8f97e99387aa7f8cd5cde1f",
+    "symbol": "USD+",
+    "decimals": 6,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/25757/small/USD__logo.png?1653519267"
   },
   {
     "name": "HEXX",
@@ -66763,7 +66771,7 @@
     "symbol": "TRACE",
     "decimals": 18,
     "chainId": 137,
-    "logoURI": "https://assets.coingecko.com/coins/images/23266/small/93mryokp_400x400.png?1643413792"
+    "logoURI": "https://assets.coingecko.com/coins/images/23266/small/Token_Icon_02.png?1655797843"
   },
   {
     "name": "ParaSwap",
@@ -67470,14 +67478,6 @@
     "logoURI": "https://cloudstorage.openocean.finance/image/ooe_log.png"
   },
   {
-    "name": "DeSpace Protocol",
-    "address": "0xa062fc09ca6bdeb2f6e3b77e1d4e09c42c964742",
-    "symbol": "DES",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://i.imgur.com/rb4P2E3.jpg"
-  },
-  {
     "name": "pMATIC",
     "address": "0xa0df47432d9d88bcc040e9ee66ddc7e17a882715",
     "symbol": "pMATIC",
@@ -67564,14 +67564,6 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://assets.coingecko.com/coins/images/15595/small/metis.PNG?1621298076"
-  },
-  {
-    "name": "Aluna",
-    "address": "0xa8fcee762642f156b5d757b6fabc36e06b6d4a1a",
-    "symbol": "ALN",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://assets.coingecko.com/coins/images/14379/small/uaLoLU8c_400x400_%281%29.png?1627873106"
   },
   {
     "chainId": 137,
@@ -67804,14 +67796,6 @@
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
   },
   {
-    "name": "Otter Clam",
-    "address": "0xc250e9987a032acac293d838726c511e6e1c029d",
-    "symbol": "CLAM",
-    "decimals": 9,
-    "chainId": 137,
-    "logoURI": "https://assets.coingecko.com/coins/images/20670/small/clam.png?1637548092"
-  },
-  {
     "name": "Lucidao",
     "address": "0xc2a45fe7d40bcac8369371b08419ddafd3131b4a",
     "symbol": "LCD",
@@ -67866,6 +67850,14 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://assets.coingecko.com/coins/images/18110/small/ice-poker.png?1630500966"
+  },
+  {
+    "name": "LunaFi",
+    "address": "0xca7bf3c514d412ac12d10eff302301a81153f557",
+    "symbol": "LFI",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/24594/small/lfi.png?1648310927"
   },
   {
     "chainId": 137,
@@ -68078,14 +68070,6 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://ipfs.io/ipfs/QmY1uqAaLvQ2cnax4P6ETQwHJmsigS6tLUQkomd4eZJMpM"
-  },
-  {
-    "name": "ARTH Valuecoin",
-    "address": "0xe52509181feb30eb4979e29ec70d50fd5c44d590",
-    "symbol": "ARTH",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://assets.coingecko.com/coins/images/16876/small/ARTH_Token.png?1625651538"
   },
   {
     "name": "Gains Network",
@@ -70224,6 +70208,17 @@
     "logoURI": "https://tokens.pancakeswap.finance/images/0xBd2949F67DcdC549c6Ebe98696449Fa79D988A9F.png"
   },
   {
+    "chainId": 56,
+    "address": "0xbd80cfa9d93a87d1bb895f810ea348e496611cd4",
+    "name": "Own a fraction",
+    "symbol": "FRACTION",
+    "decimals": 18,
+    "logoURI": "https://fraction.fyi/static/Fraction-Token_MC-WB_BSC.svg",
+    "tags": [
+      "SuperToken"
+    ]
+  },
+  {
     "name": "Beta Finance",
     "symbol": "BETA",
     "address": "0xbe1a001fe942f96eea22ba08783140b9dcc09d28",
@@ -70792,22 +70787,6 @@
     "logoURI": "https://static.kswap.finance/tokenlist/logos/0x0a3c69b510ea47624ee4d4c5b630ae06cd33eb73.jpg"
   },
   {
-    "name": "Hash Token",
-    "address": "0x0b1a14f160dadb3899dc1cf9ba7675267c143fe5",
-    "symbol": "JHT",
-    "chainId": 66,
-    "decimals": 18,
-    "logoURI": "https://resources.jswap.finance/blockchains/okex-mainnet/assets/0x0b1A14f160daDb3899Dc1cf9Ba7675267C143FE5/logo.png"
-  },
-  {
-    "name": "SIL Finance Token",
-    "address": "0x133bb423d9248a336d2b3086b8f44a7dbff3a13c",
-    "symbol": "SIL",
-    "chainId": 66,
-    "decimals": 18,
-    "logoURI": "https://resources.jswap.finance/blockchains/okex-mainnet/assets/0x133Bb423d9248a336D2b3086b8F44A7DbFF3a13C/logo.png"
-  },
-  {
     "chainId": 66,
     "address": "0x18d103b7066aeedb6005b78a462ef9027329b1ea",
     "name": "BCHK",
@@ -70840,12 +70819,12 @@
     "logoURI": "https://static.kswap.finance/tokenlist/logos/0x2218e0d5e0173769f5b4939a3ae423f7e5e4eab7.png"
   },
   {
-    "name": "TokenPocket Token",
-    "address": "0x2cec1c3f71db54c99d6df687d8ac968cce80cc85",
-    "symbol": "TPT",
     "chainId": 66,
+    "address": "0x2cec1c3f71db54c99d6df687d8ac968cce80cc85",
+    "name": "TokenPocket Token",
+    "symbol": "TPT",
     "decimals": 4,
-    "logoURI": "https://resources.jswap.finance/blockchains/okex-mainnet/assets/0x2ceC1C3f71Db54C99D6df687d8AC968cCe80CC85/logo.png"
+    "logoURI": "https://static.kswap.finance/tokenlist/logos/0x2cec1c3f71db54c99d6df687d8ac968cce80cc85.png"
   },
   {
     "chainId": 66,
@@ -70854,14 +70833,6 @@
     "symbol": "pDAIK",
     "decimals": 8,
     "logoURI": "https://static.kswap.finance/tokenlist/logos/0x311aea58ca127b955890647413846e351df32554.png"
-  },
-  {
-    "name": "Bunny Army Carrot",
-    "address": "0x32b382a094711da8481c42f5ed36faacb4ac869c",
-    "symbol": "BAC",
-    "chainId": 66,
-    "decimals": 18,
-    "logoURI": "https://resources.jswap.finance/blockchains/okex-mainnet/assets/0x32B382A094711Da8481C42F5Ed36faAcB4ac869C/logo.png"
   },
   {
     "chainId": 66,
@@ -70896,20 +70867,12 @@
     "logoURI": "https://static.kswap.finance/tokenlist/logos/0x79b627bc95fa5b36eca53eb39c3cdf43aafdd10f.png"
   },
   {
-    "name": "Wing Token",
+    "chainId": 66,
     "address": "0x7a47ab305b8a2a3f4020d13fa9ef73cddcc0e7d4",
+    "name": "Wing Finance",
     "symbol": "WING",
-    "chainId": 66,
     "decimals": 9,
-    "logoURI": "https://resources.jswap.finance/blockchains/okex-mainnet/assets/0x7A47ab305b8a2A3F4020d13FA9EF73cDdCc0e7D4/logo.png"
-  },
-  {
-    "name": "JswapDAO",
-    "address": "0x7ac8fd3b804d70596e326641e184f864f55f2430",
-    "symbol": "JDAO",
-    "chainId": 66,
-    "decimals": 18,
-    "logoURI": "https://resources.jswap.finance/blockchains/okex-mainnet/assets/0x7AC8fD3B804D70596e326641e184f864F55f2430/logo.png"
+    "logoURI": "https://static.kswap.finance/tokenlist/logos/0x7a47ab305b8a2a3f4020d13fa9ef73cddcc0e7d4.png"
   },
   {
     "name": "CherrySwapToken",
@@ -70958,14 +70921,6 @@
     "symbol": "BabyDoge",
     "decimals": 9,
     "logoURI": "https://static.kswap.finance/tokenlist/logos/0x97513e975a7fa9072c72c92d8000b0db90b163c5.png"
-  },
-  {
-    "name": "Carrot Token",
-    "address": "0xa63d16d424e769087dc9f6e464522ee446ff60ee",
-    "symbol": "CAR",
-    "chainId": 66,
-    "decimals": 18,
-    "logoURI": "https://resources.jswap.finance/blockchains/okex-mainnet/assets/0xA63D16d424e769087Dc9f6E464522EE446FF60EE/logo.png"
   },
   {
     "chainId": 66,
@@ -71022,14 +70977,6 @@
     "symbol": "USDK",
     "decimals": 18,
     "logoURI": "https://static.kswap.finance/tokenlist/logos/0xdcac52e001f5bd413aa6ea83956438f29098166b.png"
-  },
-  {
-    "name": "O3 SwapToken",
-    "address": "0xee9801669c6138e84bd50deb500827b776777d28",
-    "symbol": "O3",
-    "chainId": 66,
-    "decimals": 18,
-    "logoURI": "https://resources.jswap.finance/blockchains/okex-mainnet/assets/0xEe9801669C6138E84bD50dEB500827b776777d28/logo.png"
   },
   {
     "chainId": 66,
@@ -72138,6 +72085,17 @@
       "l2GatewayAddress": "0x09e9222e96e7b4ae2a407b98d48e330053351eee",
       "l1GatewayAddress": "0xa3A7B6F88361F48403514059F1F16C8E78d60EeC"
     }
+  },
+  {
+    "chainId": 42161,
+    "address": "0x2bf2ba13735160624a0feae98f6ac8f70885ea61",
+    "name": "Own a fraction",
+    "symbol": "FRACTION",
+    "decimals": 18,
+    "logoURI": "https://fraction.fyi/static/Fraction-Token_MC-WB_Arbitrum.svg",
+    "tags": [
+      "SuperToken"
+    ]
   },
   {
     "address": "0x2e9a6df78e42a30712c10a9dc4b1c8656f8f2879",
@@ -74483,6 +74441,17 @@
   },
   {
     "chainId": 10,
+    "address": "0xbd80cfa9d93a87d1bb895f810ea348e496611cd4",
+    "name": "Own a fraction",
+    "symbol": "FRACTION",
+    "decimals": 18,
+    "logoURI": "https://fraction.fyi/static/Fraction-Token_MC-WB_Optimism.svg",
+    "tags": [
+      "SuperToken"
+    ]
+  },
+  {
+    "chainId": 10,
     "address": "0xbfd291da8a403daaf7e5e9dc1ec0aceacd4848b9",
     "name": "dForce USD",
     "symbol": "USX",
@@ -75979,6 +75948,14 @@
   },
   {
     "chainId": 43114,
+    "address": "0x152b9d0fdc40c096757f570a51e494bd4b943e50",
+    "decimals": 8,
+    "name": "Bitcoin",
+    "symbol": "BTC.b",
+    "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x152b9d0FdC40C096757F570A51E494bd4b943E50/logo.png"
+  },
+  {
+    "chainId": 43114,
     "address": "0x15c841043e13ffaa9a99fabea236d40f45615623",
     "decimals": 18,
     "name": "BUSINESSES",
@@ -76008,14 +75985,6 @@
     "name": "Zoo Token",
     "symbol": "ZOO",
     "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x1B88D7aD51626044Ec62eF9803EA264DA4442F32/logo.png"
-  },
-  {
-    "chainId": 43114,
-    "address": "0x1d60109178c48e4a937d8ab71699d8ebb6f7c5de",
-    "decimals": 9,
-    "name": "Magnet",
-    "symbol": "MAG",
-    "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x1d60109178C48E4A937D8AB71699D8eBb6F7c5dE/logo.png"
   },
   {
     "chainId": 43114,
@@ -76735,7 +76704,7 @@
     "decimals": 18,
     "name": "CRAFT",
     "symbol": "CRAFT",
-    "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x8aE8be25C23833e0A01Aa200403e826F611f9CD2/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x8aE8be25C23833e0A01Aa200403e826F611f9CD2/logo.png"
   },
   {
     "chainId": 43114,
@@ -77092,6 +77061,17 @@
     "name": "iDeFiYieldProtocol",
     "symbol": "iDYP",
     "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xBD100d061E120b2c67A24453CF6368E63f1Be056/logo.png"
+  },
+  {
+    "chainId": 43114,
+    "address": "0xbd80cfa9d93a87d1bb895f810ea348e496611cd4",
+    "name": "Own a fraction",
+    "symbol": "FRACTION",
+    "decimals": 18,
+    "logoURI": "https://fraction.fyi/static/Fraction-Token_MC-WB_Avalanche.svg",
+    "tags": [
+      "SuperToken"
+    ]
   },
   {
     "chainId": 43114,

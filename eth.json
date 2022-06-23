@@ -9545,11 +9545,11 @@
   },
   {
     "chainId": 1,
+    "name": "BlueSparrow Token",
     "address": "0x24ccedebf841544c9e6a62af4e8c2fa6e5a46fde",
-    "name": "BlueSparrow",
-    "symbol": "BLUESPARROW",
-    "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/26085/thumb/bluesparrow.?1655766000"
+    "decimals": 18,
+    "symbol": "BlueSparrow",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/20686.png"
   },
   {
     "chainId": 1,
@@ -18949,7 +18949,7 @@
     "chainId": 1,
     "name": "VNDT",
     "address": "0x475d02372705c18a10b518d36b2135263e0045dc",
-    "decimals": 8,
+    "decimals": 18,
     "symbol": "VNDT",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/20384.png"
   },
@@ -21732,7 +21732,7 @@
     "name": "pTokens BTC",
     "address": "0x5228a22e72ccc52d415ecfd199f99d0665e7733b",
     "decimals": 18,
-    "symbol": "PBTC",
+    "symbol": "pBTC",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/5434.png"
   },
   {
@@ -24891,11 +24891,11 @@
   },
   {
     "chainId": 1,
+    "name": "5KM Run",
     "address": "0x5f4c148d17effd165c2e2d46b46d2bd6e3ebdc3e",
-    "name": "5KM RUN",
-    "symbol": "RUN",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/26072/thumb/logo-200.png?1655621986"
+    "symbol": "RUN",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/20708.png"
   },
   {
     "chainId": 1,
@@ -32694,7 +32694,7 @@
     "name": "Ecoreal Estate",
     "symbol": "ECOREAL",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/6431/thumb/ecoreal-estate.png?1547224672"
+    "logoURI": "https://assets.coingecko.com/coins/images/6431/thumb/golden_leave_in_200_x_200.png?1655886676"
   },
   {
     "chainId": 1,
@@ -38389,6 +38389,14 @@
     "symbol": "REALT-S-14231-STRAT",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/16563/thumb/14231-Strathmoor-hero-1.jpg?1624459471"
+  },
+  {
+    "chainId": 1,
+    "name": "GoCryptoMe",
+    "address": "0x9528cceb678b90daf02ca5ca45622d5cbaf58a30",
+    "decimals": 18,
+    "symbol": "GCME",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/18363.png"
   },
   {
     "chainId": 1,
@@ -45116,11 +45124,11 @@
   },
   {
     "chainId": 1,
-    "address": "0xafcdd4f666c84fed1d8bd825aa762e3714f652c9",
     "name": "Vita Inu",
-    "symbol": "VINU",
+    "address": "0xafcdd4f666c84fed1d8bd825aa762e3714f652c9",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/20594/thumb/vita-inu-head-wallet-icon-transparent.png?1637286122"
+    "symbol": "VINU",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/15270.png"
   },
   {
     "chainId": 1,
@@ -52423,6 +52431,14 @@
     "decimals": 18,
     "symbol": "YFFI",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/6145.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Got Guaranteed",
+    "address": "0xceeb07dd26b36287b6d109f0b06d7e8202ce8c1d",
+    "decimals": 18,
+    "symbol": "GOTG",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/20712.png"
   },
   {
     "chainId": 1,
