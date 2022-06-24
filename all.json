@@ -1882,7 +1882,7 @@
   {
     "chainId": 1,
     "address": "0x06fcbf38e823efc1e609b9491aab546334c6ee69",
-    "name": "Stilton Musk",
+    "name": "Stilton Musk  OLD ",
     "symbol": "STILTON",
     "decimals": 0,
     "logoURI": "https://assets.coingecko.com/coins/images/23572/thumb/2022-02-09_11.32.27-removebg-preview.png?1644475684"
@@ -26464,6 +26464,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x65801d6c8c4f742bfb323d55b38d7cc24e6b6992",
+    "name": "PONY Index",
+    "symbol": "PONY",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/26131/thumb/pfemoji.png?1655964722"
+  },
+  {
+    "chainId": 1,
     "name": "Grain",
     "address": "0x6589fe1271a0f29346796c6baf0cdf619e25e58e",
     "decimals": 18,
@@ -29348,6 +29356,14 @@
     "decimals": 8,
     "symbol": "CCOMP",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7445.png"
+  },
+  {
+    "chainId": 1,
+    "name": "ICC",
+    "address": "0x70e67ec0939ec87c3a77b089ca08e0443ea4a177",
+    "decimals": 18,
+    "symbol": "ICC",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/20737.png"
   },
   {
     "chainId": 1,
@@ -32690,11 +32706,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x7ecbb21346c501fd07eb165e406120fa32381c16",
     "name": "Ecoreal Estate",
-    "symbol": "ECOREAL",
+    "address": "0x7ecbb21346c501fd07eb165e406120fa32381c16",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/6431/thumb/golden_leave_in_200_x_200.png?1655886676"
+    "symbol": "ECOREAL",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3344.png"
   },
   {
     "chainId": 1,
@@ -36688,6 +36704,14 @@
     "decimals": 18,
     "symbol": "UCF",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/14946.png"
+  },
+  {
+    "chainId": 1,
+    "name": "KonPay",
+    "address": "0x8e83a9ebc6954cc8182d9b9abc711c601905ac2d",
+    "decimals": 18,
+    "symbol": "KON",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/20729.png"
   },
   {
     "chainId": 1,
@@ -45220,11 +45244,12 @@
   },
   {
     "chainId": 1,
-    "name": "Ecoreal Estate",
     "address": "0xb052f8a33d8bb068414eade06af6955199f9f010",
-    "decimals": 18,
     "symbol": "ECOREAL",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3344.png"
+    "name": "Ecoreal Estate ",
+    "decimals": 18,
+    "logoURI": "ipfs://QmUj9UZYjJHGgapoPjX7B7MCnuzTUKpieqXzuSDcv7KgBM",
+    "tags": []
   },
   {
     "chainId": 1,
@@ -46454,6 +46479,14 @@
   },
   {
     "chainId": 1,
+    "name": "Stilton Musk",
+    "address": "0xb5f1457d6fba1956fb8d31b0b7caca14bde0be4b",
+    "decimals": 9,
+    "symbol": "STILTON",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/18058.png"
+  },
+  {
+    "chainId": 1,
     "name": "FNK wallet",
     "address": "0xb5fe099475d3030dde498c3bb6f3854f762a48ad",
     "decimals": 18,
@@ -47126,14 +47159,6 @@
     "decimals": 18,
     "symbol": "SMAC",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/17101.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xb9a6644bef37286fc08e703ecd15e9dedf78d3eb",
-    "name": "Attlas",
-    "symbol": "ATS",
-    "decimals": 8,
-    "logoURI": "https://assets.coingecko.com/coins/images/17309/thumb/logo-ats.png?1627275209"
   },
   {
     "chainId": 1,
@@ -55549,6 +55574,14 @@
   },
   {
     "chainId": 1,
+    "name": "JoyStick Games",
+    "address": "0xdb4d1099d53e92593430e33483db41c63525f55f",
+    "decimals": 18,
+    "symbol": "JOY",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/20731.png"
+  },
+  {
+    "chainId": 1,
     "address": "0xdb5c3c46e28b53a39c255aa39a411dd64e5fed9c",
     "name": "Neos Credits",
     "symbol": "NCR",
@@ -57754,6 +57787,14 @@
     "decimals": 18,
     "symbol": "YIELDX",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7495.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xe52e8876fbe83d6091df4ac3e9adc13be6533849",
+    "name": "ArtCoin",
+    "symbol": "AC",
+    "decimals": 3,
+    "logoURI": "https://assets.coingecko.com/coins/images/26127/thumb/ngiBSUT7_400x400.png?1655954442"
   },
   {
     "chainId": 1,
@@ -63733,6 +63774,14 @@
   },
   {
     "chainId": 1,
+    "address": "0xfd5f65a7e4fae82778be1085ffd2f1de5b2de92c",
+    "name": "DCAP",
+    "symbol": "DCAP",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/25478/thumb/dcap.png?1652007843"
+  },
+  {
+    "chainId": 1,
     "address": "0xfd609a03b393f1a1cfcacedabf068cad09a924e2",
     "symbol": "crCRETH2",
     "name": "Cream Cream ETH 2",
@@ -68654,6 +68703,14 @@
     "chainId": 56,
     "decimals": 18,
     "logoURI": "https://tokens.pancakeswap.finance/images/0x1D2F0da169ceB9fC7B3144628dB156f3F6c60dBE.png"
+  },
+  {
+    "name": "NanoByte Token",
+    "symbol": "NBT",
+    "address": "0x1d3437e570e93581bd94b2fd8fbf202d4a65654a",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x1D3437E570e93581Bd94b2fd8Fbf202d4a65654A.png"
   },
   {
     "name": "bBADGER",
@@ -74212,6 +74269,14 @@
     "extensions": {
       "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
     }
+  },
+  {
+    "chainId": 10,
+    "address": "0x61baadcf22d2565b0f471b291c475db5555e0b76",
+    "name": "Aelin Protocol",
+    "symbol": "AELIN",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/logos/AELIN.png"
   },
   {
     "chainId": 10,
