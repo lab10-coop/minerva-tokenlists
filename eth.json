@@ -6459,7 +6459,7 @@
     "chainId": 1,
     "name": "Swarm",
     "address": "0x19062190b1925b5b6689d7073fdfc8c2976ef8cb",
-    "decimals": 18,
+    "decimals": 16,
     "symbol": "BZZ",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/10293.png"
   },
@@ -8177,7 +8177,7 @@
   },
   {
     "chainId": 1,
-    "name": "omChain",
+    "name": "omchain",
     "address": "0x1f926b439fae4595e5951029d47616feca401b77",
     "decimals": 18,
     "symbol": "OMC",
@@ -19524,14 +19524,6 @@
   },
   {
     "chainId": 1,
-    "name": "Tangible",
-    "address": "0x49e6a20f1bbdfeec2a8222e052000bbb14ee6007",
-    "decimals": 18,
-    "symbol": "TNGBL",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/20271.png"
-  },
-  {
-    "chainId": 1,
     "name": "Value Liquidity",
     "address": "0x49e833337ece7afe375e44f4e3e8481029218e5c",
     "decimals": 18,
@@ -20270,11 +20262,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x4c3a8eceb656ec63eae80a4ebd565e4887db6160",
     "name": "SokuSwap",
-    "symbol": "SOKU",
+    "address": "0x4c3a8eceb656ec63eae80a4ebd565e4887db6160",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/18378/thumb/VCIEHaG.png?1653547690"
+    "symbol": "SOKU",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/11910.png"
   },
   {
     "chainId": 1,
@@ -33551,6 +33543,14 @@
   },
   {
     "chainId": 1,
+    "name": "7Pixels",
+    "address": "0x82bec5483dbab4305f32b191d76dc6cb020ae76d",
+    "decimals": 18,
+    "symbol": "7PXS",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/20758.png"
+  },
+  {
+    "chainId": 1,
     "name": "UNIVE X",
     "address": "0x82c323740455925e15936f84c1d3f2b074d37af0",
     "decimals": 8,
@@ -36651,6 +36651,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x8e964e35a76103af4c7d7318e1b1a82c682ae296",
+    "name": "Fellaz",
+    "symbol": "FLZ",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/26169/thumb/NUERy1Wy_400x400.png?1656336115"
+  },
+  {
+    "chainId": 1,
     "name": "Minter HUB",
     "address": "0x8e9a29e7ed21db7c5b2e1cd75e676da0236dfb45",
     "decimals": 18,
@@ -38625,6 +38633,14 @@
     "decimals": 18,
     "symbol": "DYP",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/8080.png"
+  },
+  {
+    "chainId": 1,
+    "name": "USD Freedom",
+    "address": "0x963035453633f6f7433032c958f82eb3043d8cd2",
+    "decimals": 18,
+    "symbol": "USDF",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/20764.png"
   },
   {
     "chainId": 1,
@@ -51372,6 +51388,14 @@
   },
   {
     "chainId": 1,
+    "name": "Kripto koin",
+    "address": "0xcb2263b182131dbb9824bf406c8f8acb65b54808",
+    "decimals": 4,
+    "symbol": "KRIPTO",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/20783.png"
+  },
+  {
+    "chainId": 1,
     "name": "Storeum",
     "address": "0xcb39c3502415152b2ec90ff07ee18cc94f681a72",
     "decimals": 18,
@@ -63013,7 +63037,7 @@
   },
   {
     "chainId": 1,
-    "name": "KeeperDAO",
+    "name": "Rook",
     "address": "0xfa5047c9c78b8877af97bdcb85db743fd7313d4a",
     "decimals": 18,
     "symbol": "ROOK",
