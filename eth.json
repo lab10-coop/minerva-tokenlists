@@ -10160,7 +10160,7 @@
     "name": "BORA",
     "symbol": "BORA",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/7646/thumb/LDqRyofe_400x400.jpg?1548926877"
+    "logoURI": "https://assets.coingecko.com/coins/images/7646/thumb/mqFw8hxm_400x400.jpeg?1656657343"
   },
   {
     "chainId": 1,
@@ -21681,11 +21681,11 @@
   },
   {
     "chainId": 1,
-    "name": "pTokens BTC",
     "address": "0x5228a22e72ccc52d415ecfd199f99d0665e7733b",
+    "name": "pTokens BTC  OLD ",
+    "symbol": "PBTC",
     "decimals": 18,
-    "symbol": "pBTC",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/5434.png"
+    "logoURI": "https://assets.coingecko.com/coins/images/10805/thumb/J51iIea.png?1583891599"
   },
   {
     "chainId": 1,
@@ -23713,14 +23713,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x5b26c5d0772e5bbac8b3182ae9a13f9bb2d03765",
-    "name": "Education Ecosystem",
-    "symbol": "LEDU",
-    "decimals": 8,
-    "logoURI": "https://assets.coingecko.com/coins/images/3451/thumb/LEDU-education-ecosystem.png?1547038165"
-  },
-  {
-    "chainId": 1,
     "address": "0x5b2e4a700dfbc560061e957edec8f6eeeb74a320",
     "symbol": "INS",
     "name": "Insolar",
@@ -25557,11 +25549,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x62199b909fb8b8cf870f97bef2ce6783493c4908",
     "name": "pTokens BTC",
-    "symbol": "PBTC",
+    "address": "0x62199b909fb8b8cf870f97bef2ce6783493c4908",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/25861/thumb/wMTpRljt_400x400.png?1654228097"
+    "symbol": "pBTC",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/5434.png"
   },
   {
     "chainId": 1,
@@ -36153,6 +36145,14 @@
   },
   {
     "chainId": 1,
+    "name": "Galaxy Heroes",
+    "address": "0x8c77057c3343b7dcc97ca21da274730396162a98",
+    "decimals": 18,
+    "symbol": "GHC",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/19651.png"
+  },
+  {
+    "chainId": 1,
     "name": "GreenTek",
     "address": "0x8c7e3b5e720b7a9bbcf15c38be5b657bb2b71dba",
     "decimals": 18,
@@ -39469,14 +39469,6 @@
     "decimals": 18,
     "symbol": "STAC",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2565.png"
-  },
-  {
-    "chainId": 1,
-    "name": "BABB",
-    "address": "0x9a0242b7a33dacbe40edb927834f96eb39f8fbcb",
-    "decimals": 18,
-    "symbol": "BAX",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2572.png"
   },
   {
     "chainId": 1,
@@ -44960,7 +44952,7 @@
     "chainId": 1,
     "name": "Monetha",
     "address": "0xaf4dce16da2877f8c9e00544c93b62ac40631f16",
-    "decimals": 5,
+    "decimals": 18,
     "symbol": "MTH",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/1947.png"
   },
@@ -45885,6 +45877,14 @@
     "decimals": 18,
     "symbol": "MEV",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/19063.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xb3cc3d7e656893f22d2372b0ae57106f6b155cbe",
+    "name": "Dogger",
+    "symbol": "DOGGER",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/25460/thumb/GC94Zwub_400x400.jpg?1651822625"
   },
   {
     "chainId": 1,
@@ -48080,7 +48080,7 @@
     "chainId": 1,
     "name": "Terra Classic",
     "address": "0xbd31ea8212119f94a611fa969881cba3ea06fa3d",
-    "decimals": 6,
+    "decimals": 18,
     "symbol": "LUNC",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/4172.png"
   },
@@ -50173,7 +50173,7 @@
     "chainId": 1,
     "name": "Dejitaru Tsuka",
     "address": "0xc5fb36dd2fb59d3b98deff88425a3f425ee469ed",
-    "decimals": 9,
+    "decimals": 18,
     "symbol": "TSUKA",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/20789.png"
   },
@@ -52329,14 +52329,6 @@
     "decimals": 18,
     "symbol": "GG",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/14337.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xceaaf939438fa3b93479962d519227aed65a5eb2",
-    "name": "Shiba Mongoose",
-    "symbol": "SHIBMONG",
-    "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/22149/thumb/p34d979.jpeg?1640931306"
   },
   {
     "chainId": 1,
@@ -58610,6 +58602,14 @@
   },
   {
     "chainId": 1,
+    "name": "Koi Network",
+    "address": "0xe84d9e32dc8ce819b8d6c83e50edafd46c6354db",
+    "decimals": 18,
+    "symbol": "KOI",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/20836.png"
+  },
+  {
+    "chainId": 1,
     "name": "Duet Protocol",
     "address": "0xe8521b61f64fc45a0bc3db36d2a524fe61a69b52",
     "decimals": 18,
@@ -61013,6 +61013,14 @@
   },
   {
     "chainId": 1,
+    "address": "0xf24d8651578a55b0c119b9910759a351a3458895",
+    "name": "Stake DAO Balancer",
+    "symbol": "SDBAL",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/26224/thumb/6uqFPXny_400x400.jpg?1656642803"
+  },
+  {
+    "chainId": 1,
     "address": "0xf256cc7847e919fac9b808cc216cac87ccf2f47a",
     "name": "Aave XSUSHI",
     "symbol": "AXSUSHI",
@@ -62806,11 +62814,11 @@
   },
   {
     "chainId": 1,
-    "address": "0xf920e4f3fbef5b3ad0a25017514b769bdc4ac135",
     "name": "BABB",
-    "symbol": "BAX",
+    "address": "0xf920e4f3fbef5b3ad0a25017514b769bdc4ac135",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/2168/thumb/babb.png?1547036466"
+    "symbol": "BAX",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2572.png"
   },
   {
     "chainId": 1,
