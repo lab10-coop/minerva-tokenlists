@@ -63,5 +63,14 @@
     "decimals": 18,
     "logoURI": "https://fraction.fyi/static/Fraction-Token_MC-WB_BSC.svg",
     "tags": [ "SuperToken" ]
+  },
+  {
+    "chainId": 56,
+    "address": "0x529A4116F160c833c61311569D6B33dFF41fD657",
+    "name": "Super BNB",
+    "symbol": "BNBx",
+    "decimals": 18,
+    "logoURI": "https://assets.superfluid.finance/tokens/bnb/icon.svg",
+    "tags": [ "SuperToken", "WrapperToken" ]
   }
 ]
