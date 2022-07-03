@@ -808,6 +808,18 @@
     "logoURI": "https://tokens.pancakeswap.finance/images/0x4FA7163E153419E0E1064e418dd7A99314Ed27b6.png"
   },
   {
+    "chainId": 56,
+    "address": "0x529a4116f160c833c61311569d6b33dff41fd657",
+    "name": "Super BNB",
+    "symbol": "BNBx",
+    "decimals": 18,
+    "logoURI": "https://assets.superfluid.finance/tokens/bnb/icon.svg",
+    "tags": [
+      "SuperToken",
+      "WrapperToken"
+    ]
+  },
+  {
     "name": "Compound Finance",
     "symbol": "COMP",
     "address": "0x52ce071bd9b1c4b00a0b92d298c512478cad67e8",
