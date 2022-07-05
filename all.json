@@ -1379,6 +1379,14 @@
   },
   {
     "chainId": 1,
+    "name": "INU",
+    "address": "0x050d94685c6b0477e1fc555888af6e2bb8dfbda5",
+    "decimals": 18,
+    "symbol": "INU",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/20860.png"
+  },
+  {
+    "chainId": 1,
     "name": "Epstein Token",
     "address": "0x051cf5178f60e9def5d5a39b2a988a9f914107cb",
     "decimals": 18,
@@ -3844,6 +3852,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x0f3a02baec9607f2b52b3ab629cbcea2047e1124",
+    "name": "XPOP",
+    "symbol": "XPOP",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/26251/thumb/%EC%9E%90%EC%82%B0_1.png?1656936169"
+  },
+  {
+    "chainId": 1,
     "name": "Anchor Protocol",
     "address": "0x0f3adc247e91c3c50bc08721355a41037e89bc20",
     "decimals": 18,
@@ -5243,11 +5259,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x14a32f050facf226ec60882398a9bf36d91dbac2",
     "name": "Kyoko",
-    "symbol": "KYOKO",
+    "address": "0x14a32f050facf226ec60882398a9bf36d91dbac2",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/24454/thumb/kyoko.png?1649576935"
+    "symbol": "KYOKO",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/18981.png"
   },
   {
     "chainId": 1,
@@ -10493,11 +10509,11 @@
   },
   {
     "chainId": 1,
-    "name": "Silent Notary",
     "address": "0x2859021ee7f2cb10162e67f33af2d22764b31aff",
-    "decimals": 4,
+    "name": "Silent Notary",
     "symbol": "UBSN",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2764.png"
+    "decimals": 4,
+    "logoURI": "https://assets.coingecko.com/coins/images/1599/thumb/silent-notary.png?1548609544"
   },
   {
     "chainId": 1,
@@ -10714,6 +10730,14 @@
     "symbol": "PCPI",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/7526/thumb/30741876_10155423455681220_6256622449429839872_n.jpg?1548224693"
+  },
+  {
+    "chainId": 1,
+    "address": "0x2932624ff57f5920ce498bb343385c0332ec6e40",
+    "name": "Slay To Earn",
+    "symbol": "SLAY2EARN",
+    "decimals": 16,
+    "logoURI": "https://assets.coingecko.com/coins/images/26257/thumb/cmc-logo.png?1656940665"
   },
   {
     "chainId": 1,
@@ -20807,6 +20831,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x4e808f2b01e42b7fd01428bc49a0a0a61666e760",
+    "name": "     Four Emperors",
+    "symbol": "YONK",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/26256/thumb/yonko-200.png?1656939206"
+  },
+  {
+    "chainId": 1,
     "name": "Pandroyty",
     "address": "0x4e8e8eb5a4ed17170b646d33b8ef3e7352585607",
     "decimals": 18,
@@ -22491,14 +22523,6 @@
     "symbol": "I7",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/14514/thumb/Impulseven.png?1631092895"
-  },
-  {
-    "chainId": 1,
-    "name": "Dogger Token",
-    "address": "0x56143e2736c1b7f8a7d8c74707777850b46ac9af",
-    "decimals": 9,
-    "symbol": "DOGGER",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/19320.png"
   },
   {
     "chainId": 1,
@@ -24776,14 +24800,6 @@
     "decimals": 18,
     "symbol": "CAN",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2358.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x5f435cd858f71e42a3db4282231d1ed25ba07aed",
-    "name": "Star Shib",
-    "symbol": "STARSB",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/15419/thumb/100-1.png?1620775159"
   },
   {
     "chainId": 1,
@@ -36081,6 +36097,14 @@
   },
   {
     "chainId": 1,
+    "name": "Delio DSP",
+    "address": "0x8c661806f716652b637728355cc4e2620d428f99",
+    "decimals": 18,
+    "symbol": "DSP",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/20864.png"
+  },
+  {
+    "chainId": 1,
     "name": "Moon Rabbit",
     "address": "0x8c6bf16c273636523c29db7db04396143770f6a0",
     "decimals": 18,
@@ -45840,11 +45864,11 @@
   },
   {
     "chainId": 1,
+    "name": "Dogger Token",
     "address": "0xb3cc3d7e656893f22d2372b0ae57106f6b155cbe",
-    "name": "Dogger",
+    "decimals": 9,
     "symbol": "DOGGER",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/25460/thumb/GC94Zwub_400x400.jpg?1651822625"
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/19320.png"
   },
   {
     "chainId": 1,
@@ -48658,7 +48682,7 @@
     "address": "0xbf9e72eeb5adb8b558334c8672950b7a379d4266",
     "name": "CubToken",
     "symbol": "CUBT",
-    "decimals": 8,
+    "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/26197/thumb/photo-2022-04-20-13-35-28.jpg?1656471496"
   },
   {
