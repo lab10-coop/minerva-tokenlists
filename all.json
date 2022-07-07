@@ -12065,6 +12065,14 @@
   },
   {
     "chainId": 1,
+    "name": "ThreeOh DAO",
+    "address": "0x2e922f84ec5bb9cedfbb1a99543b143aa43d94b6",
+    "decimals": 9,
+    "symbol": "3OH",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/20900.png"
+  },
+  {
+    "chainId": 1,
     "name": "Beer Inu",
     "address": "0x2e92864240819e2286d440b0c477077dd660b340",
     "decimals": 18,
@@ -24330,11 +24338,11 @@
   },
   {
     "chainId": 1,
-    "name": "GAMETREE",
     "address": "0x5d5e244660ca05c42073c9a526616d99f2c99516",
-    "decimals": 18,
+    "name": "Game Tree",
     "symbol": "GTCOIN",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/19182.png"
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/24719/thumb/hUEmunGU_400x400.jpg?1648696738"
   },
   {
     "chainId": 1,
@@ -64972,6 +64980,14 @@
     "logoURI": "https://affinityharmonics.s3.ca-central-1.amazonaws.com/Cloud/rare-logo.png"
   },
   {
+    "name": "Alvin",
+    "address": "0x59715d8d206b3d4748cec55e7c2de26f23af45d5",
+    "symbol": "ALVIN",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/xdai/0x59715D8d206b3D4748Cec55E7c2DE26F23AF45D5/logo.png"
+  },
+  {
     "chainId": 100,
     "address": "0x59988e47a3503aafaa0368b9def095c818fdca01",
     "name": "Super xDAI",
@@ -66158,6 +66174,14 @@
     "logoURI": "https://assets.coingecko.com/coins/images/23659/small/acre_token-02.png?1644989289"
   },
   {
+    "name": "Algebra",
+    "address": "0x0169ec1f8f639b32eec6d923e24c2a2ff45b9dd6",
+    "symbol": "ALGB",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/19580/small/13211.png?1635469023"
+  },
+  {
     "name": "Exchange Genesis Ethlas Medium",
     "address": "0x02649c1ff4296038de4b9ba8f491b42b940a8252",
     "symbol": "XGEM",
@@ -66871,6 +66895,14 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x514910771AF9Ca656af840dff83E8264EcF986CA/logo.png"
+  },
+  {
+    "name": "Paxos Gold",
+    "address": "0x553d3d295e0f695b9228246232edf400ed3560b5",
+    "symbol": "PAXG",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/9519/small/paxg.PNG?1568542565"
   },
   {
     "name": "AnRKey X",
@@ -67905,6 +67937,14 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/8561.png"
+  },
+  {
+    "name": "Sunflower Land",
+    "address": "0xd1f9c58e33933a993a3891f8acfe05a68e1afc05",
+    "symbol": "SFL",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/25514/small/download.png?1652164203"
   },
   {
     "name": "CelsiusX Wrapped BTC",
