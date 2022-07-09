@@ -121,6 +121,14 @@
   },
   {
     "chainId": 1,
+    "name": "Incube Chain",
+    "address": "0x00166a5b93fd4f87eca1c267d31d82df3f133a7f",
+    "decimals": 18,
+    "symbol": "ICB",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/20924.png"
+  },
+  {
+    "chainId": 1,
     "name": "Polker",
     "address": "0x001a8ffcb0f03e99141652ebcdecdb0384e3bd6c",
     "decimals": 18,
@@ -3039,14 +3047,6 @@
     "decimals": 8,
     "symbol": "KOI",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/4700.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x0be4447860ddf283884bbaa3702749706750b09e",
-    "name": "AggregatedFinance  OLD ",
-    "symbol": "AGFI",
-    "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/21039/thumb/logo.200.png?1638253539"
   },
   {
     "chainId": 1,
@@ -10752,7 +10752,7 @@
     "address": "0x2932624ff57f5920ce498bb343385c0332ec6e40",
     "name": "Slay To Earn",
     "symbol": "SLAY2EARN",
-    "decimals": 16,
+    "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/26257/thumb/cmc-logo.png?1656940665"
   },
   {
@@ -20035,6 +20035,14 @@
     "decimals": 18,
     "symbol": "SMT",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/4627.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x4b48068864f77261838c7849a12853fb94c77a91",
+    "name": "Lith",
+    "symbol": "LITH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/26327/thumb/KW3kwGRb_400x400.jpg?1657251168"
   },
   {
     "chainId": 1,
@@ -33062,7 +33070,7 @@
   {
     "chainId": 1,
     "address": "0x80c24111d3f9e1ffecf3b41b9ca68e60a890866b",
-    "name": "AggregatedFinance",
+    "name": "AggregatedFinance  OLD ",
     "symbol": "AGFI",
     "decimals": 9,
     "logoURI": "https://assets.coingecko.com/coins/images/25256/thumb/79LDzdib_400x400.png?1651041943"
@@ -37668,6 +37676,14 @@
     "decimals": 18,
     "symbol": "YFS",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/9181.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x92df60c51c710a1b1c20e42d85e221f3a1bfc7f2",
+    "name": "ApeSwap",
+    "symbol": "BANANA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/14870/thumb/banana.png?1648887183"
   },
   {
     "chainId": 1,
@@ -42416,6 +42432,14 @@
     "symbol": "ARCADE",
     "decimals": 9,
     "logoURI": "https://assets.coingecko.com/coins/images/23849/thumb/IMG-20220213-223238-307.png?1645522581"
+  },
+  {
+    "chainId": 1,
+    "name": "Duckereum",
+    "address": "0xa52bffad02b1fe3f86a543a4e81962d3b3bb01a7",
+    "decimals": 18,
+    "symbol": "DUCKER",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/20923.png"
   },
   {
     "chainId": 1,
@@ -54478,6 +54502,14 @@
   },
   {
     "chainId": 1,
+    "address": "0xd75f1f81b69bdd4df8efbb70e9c6f4609009d753",
+    "name": "Yasha Dao",
+    "symbol": "YASHA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/24040/thumb/oX9E7Q7.png?1646119331"
+  },
+  {
+    "chainId": 1,
     "name": "Sociall",
     "address": "0xd7631787b4dcc87b1254cfd1e5ce48e96823dee8",
     "decimals": 8,
@@ -60096,6 +60128,14 @@
     "decimals": 12,
     "symbol": "EVY",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3754.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xeed4d7316a04ee59de3d301a384262ffbdbd589a",
+    "name": "Page Network",
+    "symbol": "PGX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/26319/thumb/ICfb5Z0c_400x400.jpg?1657244779"
   },
   {
     "chainId": 1,
@@ -70055,6 +70095,14 @@
     "logoURI": "https://tokens.pancakeswap.finance/images/0xA7f552078dcC247C2684336020c03648500C6d9F.png"
   },
   {
+    "name": "OpenLeverage",
+    "symbol": "OLE",
+    "address": "0xa865197a84e780957422237b5d152772654341f3",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0xa865197A84E780957422237B5D152772654341F3.png"
+  },
+  {
     "name": "CertiK Token",
     "symbol": "CTK",
     "address": "0xa8c2b8eec3d368c0253ad3dae65a5f2bbb89c929",
@@ -73653,6 +73701,17 @@
   },
   {
     "chainId": 1,
+    "address": "0x0000000000085d4780b73119b644ae5ecd22b376",
+    "name": "TrueUSD",
+    "symbol": "TUSD",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/logos/TUSD.png",
+    "extensions": {
+      "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
+    }
+  },
+  {
+    "chainId": 1,
     "address": "0x01ba67aac7f75f647d94220cc98fb30fcc5105bf",
     "name": "Lyra",
     "symbol": "LYRA",
@@ -74580,6 +74639,17 @@
   },
   {
     "chainId": 10,
+    "address": "0xcb59a0a753fdb7491d5f3d794316f1ade197b21e",
+    "name": "TrueUSD",
+    "symbol": "TUSD",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/logos/TUSD.png",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+    }
+  },
+  {
+    "chainId": 10,
     "address": "0xcfd1d50ce23c46d3cf6407487b2f8934e96dc8f9",
     "name": "SPANK",
     "symbol": "SPANK",
@@ -74714,6 +74784,17 @@
     "symbol": "KROM",
     "decimals": 18,
     "logoURI": "https://ethereum-optimism.github.io/logos/KROM.png",
+    "extensions": {
+      "optimismBridgeAddress": "0x22F24361D548e5FaAfb36d1437839f080363982B"
+    }
+  },
+  {
+    "chainId": 42,
+    "address": "0x1794230abe1995fcfe6b14865d4b6928121ab9d9",
+    "name": "TrueUSD",
+    "symbol": "TUSD",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/logos/TUSD.png",
     "extensions": {
       "optimismBridgeAddress": "0x22F24361D548e5FaAfb36d1437839f080363982B"
     }
@@ -75285,6 +75366,17 @@
     "logoURI": "https://cryptologos.cc/logos/multi-collateral-dai-dai-logo.svg?v=010",
     "extensions": {
       "optimismBridgeAddress": "0x467194771dAe2967Aef3ECbEDD3Bf9a310C76C65"
+    }
+  },
+  {
+    "chainId": 69,
+    "address": "0xfa956eb0c4b3e692ad5a6b2f08170ade55999aca",
+    "name": "TrueUSD",
+    "symbol": "TUSD",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/logos/TUSD.png",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
     }
   },
   {

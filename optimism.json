@@ -1,6 +1,17 @@
 [
   {
     "chainId": 1,
+    "address": "0x0000000000085d4780b73119b644ae5ecd22b376",
+    "name": "TrueUSD",
+    "symbol": "TUSD",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/logos/TUSD.png",
+    "extensions": {
+      "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
+    }
+  },
+  {
+    "chainId": 1,
     "address": "0x01ba67aac7f75f647d94220cc98fb30fcc5105bf",
     "name": "Lyra",
     "symbol": "LYRA",
@@ -928,6 +939,17 @@
   },
   {
     "chainId": 10,
+    "address": "0xcb59a0a753fdb7491d5f3d794316f1ade197b21e",
+    "name": "TrueUSD",
+    "symbol": "TUSD",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/logos/TUSD.png",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+    }
+  },
+  {
+    "chainId": 10,
     "address": "0xcfd1d50ce23c46d3cf6407487b2f8934e96dc8f9",
     "name": "SPANK",
     "symbol": "SPANK",
@@ -1062,6 +1084,17 @@
     "symbol": "KROM",
     "decimals": 18,
     "logoURI": "https://ethereum-optimism.github.io/logos/KROM.png",
+    "extensions": {
+      "optimismBridgeAddress": "0x22F24361D548e5FaAfb36d1437839f080363982B"
+    }
+  },
+  {
+    "chainId": 42,
+    "address": "0x1794230abe1995fcfe6b14865d4b6928121ab9d9",
+    "name": "TrueUSD",
+    "symbol": "TUSD",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/logos/TUSD.png",
     "extensions": {
       "optimismBridgeAddress": "0x22F24361D548e5FaAfb36d1437839f080363982B"
     }
@@ -1633,6 +1666,17 @@
     "logoURI": "https://cryptologos.cc/logos/multi-collateral-dai-dai-logo.svg?v=010",
     "extensions": {
       "optimismBridgeAddress": "0x467194771dAe2967Aef3ECbEDD3Bf9a310C76C65"
+    }
+  },
+  {
+    "chainId": 69,
+    "address": "0xfa956eb0c4b3e692ad5a6b2f08170ade55999aca",
+    "name": "TrueUSD",
+    "symbol": "TUSD",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/logos/TUSD.png",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
     }
   },
   {
