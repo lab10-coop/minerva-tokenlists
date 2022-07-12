@@ -10061,7 +10061,7 @@
     "chainId": 1,
     "name": "CorionX",
     "address": "0x26a604dffe3ddab3bee816097f81d3c4a2a4cf97",
-    "decimals": 8,
+    "decimals": 18,
     "symbol": "CORX",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7698.png"
   },
@@ -34612,6 +34612,14 @@
   },
   {
     "chainId": 1,
+    "name": "Silent Notary",
+    "address": "0x86efc496dca70bcfd92d19194290e8457a375773",
+    "decimals": 18,
+    "symbol": "UBSN",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2764.png"
+  },
+  {
+    "chainId": 1,
     "name": "EURBASE",
     "address": "0x86fadb80d8d2cff3c3680819e4da99c10232ba0f",
     "decimals": 18,
@@ -37671,11 +37679,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x92df60c51c710a1b1c20e42d85e221f3a1bfc7f2",
     "name": "ApeSwap",
-    "symbol": "BANANA",
+    "address": "0x92df60c51c710a1b1c20e42d85e221f3a1bfc7f2",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/14870/thumb/banana.png?1648887183"
+    "symbol": "BANANA",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/8497.png"
   },
   {
     "chainId": 1,
@@ -38793,6 +38801,14 @@
     "decimals": 18,
     "symbol": "ETHBN",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/5826.png"
+  },
+  {
+    "chainId": 1,
+    "name": "KlayUniverse",
+    "address": "0x96c065a7283d6c358356298bd63e22bafade0327",
+    "decimals": 18,
+    "symbol": "KUT",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/20703.png"
   },
   {
     "chainId": 1,
@@ -49970,7 +49986,7 @@
   },
   {
     "chainId": 1,
-    "name": "Hop Exchange",
+    "name": "Hop Protocol",
     "address": "0xc5102fe9359fd9a28f877a67e36b0f050d81a3cc",
     "decimals": 18,
     "symbol": "HOP",
@@ -63591,7 +63607,7 @@
   },
   {
     "chainId": 1,
-    "name": "Prometeus",
+    "name": "Prom",
     "address": "0xfc82bb4ba86045af6f327323a46e80412b91b27d",
     "decimals": 18,
     "symbol": "PROM",
@@ -63676,6 +63692,14 @@
     "decimals": 18,
     "symbol": "DELTA-RLP",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/9056.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Golden Goal",
+    "address": "0xfd020998a1bb316dfe7b136fe59ae4b365d79978",
+    "decimals": 8,
+    "symbol": "GDG",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/20937.png"
   },
   {
     "chainId": 1,
