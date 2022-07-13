@@ -9081,7 +9081,7 @@
   {
     "chainId": 1,
     "address": "0x22de9912cd3d74953b1cd1f250b825133cc2c1b3",
-    "name": "Drep",
+    "name": "Drep  OLD ",
     "symbol": "DREP",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/4486/thumb/DREP-logo.jpg?1547039799"
@@ -9425,7 +9425,7 @@
   },
   {
     "chainId": 1,
-    "name": "qiibee",
+    "name": "qiibee foundation",
     "address": "0x2467aa6b5a2351416fd4c3def8462d841feeecec",
     "decimals": 18,
     "symbol": "QBX",
@@ -10525,14 +10525,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x2859021ee7f2cb10162e67f33af2d22764b31aff",
-    "name": "Silent Notary",
-    "symbol": "UBSN",
-    "decimals": 4,
-    "logoURI": "https://assets.coingecko.com/coins/images/1599/thumb/silent-notary.png?1548609544"
-  },
-  {
-    "chainId": 1,
     "name": "JungleToken",
     "address": "0x285ce65705d26c28f7a720cf3bfe8b868c82a48f",
     "decimals": 18,
@@ -10741,19 +10733,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x2925c2a312a4934fd695fab72b1e425cc41978f2",
-    "name": "Precharge",
-    "symbol": "PCPI",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/7526/thumb/30741876_10155423455681220_6256622449429839872_n.jpg?1548224693"
-  },
-  {
-    "chainId": 1,
     "address": "0x2932624ff57f5920ce498bb343385c0332ec6e40",
     "name": "Slay To Earn",
     "symbol": "SLAY2EARN",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/26257/thumb/cmc-logo.png?1656940665"
+    "logoURI": "https://assets.coingecko.com/coins/images/26257/thumb/cmc-logo.png?1657600932"
   },
   {
     "chainId": 1,
@@ -14505,7 +14489,7 @@
   },
   {
     "chainId": 1,
-    "name": "Infinity PAD Launchpad",
+    "name": "Infinity PAD",
     "address": "0x36ed7baad9a571b5dad55d096c0ed902188d6d3c",
     "decimals": 18,
     "symbol": "IPAD",
@@ -15516,7 +15500,7 @@
   {
     "chainId": 1,
     "address": "0x3ab6ed69ef663bd986ee59205ccad8a20f98b4c2",
-    "name": "Drep  new ",
+    "name": "Drep",
     "symbol": "DREP",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/14578/thumb/KotgsCgS_400x400.jpg?1617094445"
@@ -16226,6 +16210,14 @@
     "decimals": 18,
     "symbol": "BMB",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/13928.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Dego Finance",
+    "address": "0x3da932456d082cba208feb0b096d49b202bf89c8",
+    "decimals": 18,
+    "symbol": "DEGO",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7087.png"
   },
   {
     "chainId": 1,
@@ -21245,6 +21237,14 @@
     "decimals": 18,
     "symbol": "NRV",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/5209.png"
+  },
+  {
+    "chainId": 1,
+    "name": "WPT Investing Corp",
+    "address": "0x4fd51cb87ffefdf1711112b5bd8ab682e54988ea",
+    "decimals": 18,
+    "symbol": "WPT",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/20946.png"
   },
   {
     "chainId": 1,
@@ -27932,7 +27932,7 @@
     "chainId": 1,
     "name": "ShibaDoge",
     "address": "0x6adb2e268de2aa1abf6578e4a8119b960e02928f",
-    "decimals": 18,
+    "decimals": 9,
     "symbol": "SHIBDOGE",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/16500.png"
   },
@@ -29007,7 +29007,7 @@
     "chainId": 1,
     "name": "Saint Inu",
     "address": "0x6fc5af63990aa9e5c5543f5cd8ed148bfa6d9d19",
-    "decimals": 18,
+    "decimals": 9,
     "symbol": "SAINT",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/13687.png"
   },
@@ -30804,11 +30804,11 @@
   },
   {
     "chainId": 1,
+    "name": "Bankera V2",
     "address": "0x7707aada3ce7722ac63b91727daf1999849f6835",
-    "name": "Bankera",
-    "symbol": "BNK",
     "decimals": 8,
-    "logoURI": "https://assets.coingecko.com/coins/images/1949/thumb/bankera.png?1650883375"
+    "symbol": "BNK",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/20966.png"
   },
   {
     "chainId": 1,
@@ -35245,11 +35245,12 @@
   },
   {
     "chainId": 1,
-    "name": "Dego Finance",
     "address": "0x88ef27e69108b2633f8e1c184cc37940a075cc02",
-    "decimals": 18,
     "symbol": "DEGO",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7087.png"
+    "name": "Dego Finance",
+    "decimals": 18,
+    "logoURI": "ipfs://QmZbTQFKURCxZ3zL6qi61hfy5xdjFqkTKHJFxFZFo1z2nb",
+    "tags": []
   },
   {
     "chainId": 1,
@@ -37355,6 +37356,14 @@
     "decimals": 18,
     "symbol": "GFUN",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3776.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Hulk Inu",
+    "address": "0x91a5de30e57831529a3c1af636a78a7e4e83f3aa",
+    "decimals": 18,
+    "symbol": "HULK",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/20956.png"
   },
   {
     "chainId": 1,
@@ -40183,6 +40192,14 @@
     "decimals": 8,
     "symbol": "BTCPX",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/17330.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Origin Dollar Governance",
+    "address": "0x9c354503c38481a7a7a51629142963f98ecc12d0",
+    "decimals": 18,
+    "symbol": "OGV",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/20949.png"
   },
   {
     "chainId": 1,
@@ -43966,7 +43983,7 @@
     "chainId": 1,
     "name": "Shibnobi",
     "address": "0xab167e816e4d76089119900e941befdfa37d6b32",
-    "decimals": 18,
+    "decimals": 9,
     "symbol": "SHINJA",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/14774.png"
   },
@@ -45896,6 +45913,14 @@
   },
   {
     "chainId": 1,
+    "address": "0xb3ad645db386d7f6d753b2b9c3f4b853da6890b8",
+    "name": "Concentrator",
+    "symbol": "CTR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/26364/thumb/%E6%9C%AA%E5%91%BD%E5%90%8D%E7%9A%84%E8%AE%BE%E8%AE%A1.jpg?1657596066"
+  },
+  {
+    "chainId": 1,
     "name": "Wallet Plus X",
     "address": "0xb3bace433288645114fe8e8aa91f87659cbf665b",
     "decimals": 18,
@@ -47297,6 +47322,14 @@
     "decimals": 18,
     "symbol": "VSF",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3365.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xba485b556399123261a5f9c95d413b4f93107407",
+    "name": "Gravitationally Bound AURA",
+    "symbol": "GRAVIAURA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/26368/thumb/graviaura.png?1657606852"
   },
   {
     "chainId": 1,
@@ -49887,6 +49920,14 @@
     "decimals": 18,
     "symbol": "CHAIN",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/6744.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xc4c75f2a0cb1a9acc33929512dc9733ea1fd6fde",
+    "name": "Martin Shkreli Inu",
+    "symbol": "MSI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/26365/thumb/jEYEUxUI_400x400.jpeg?1657600080"
   },
   {
     "chainId": 1,
@@ -52838,7 +52879,7 @@
   },
   {
     "chainId": 1,
-    "name": "Terra Virtua Kolect",
+    "name": "Virtua",
     "address": "0xd084b83c305dafd76ae3e1b4e1f1fe2ecccb3988",
     "decimals": 18,
     "symbol": "TVK",
@@ -60139,11 +60180,11 @@
   },
   {
     "chainId": 1,
-    "address": "0xeed4d7316a04ee59de3d301a384262ffbdbd589a",
     "name": "Page Network",
-    "symbol": "PGX",
+    "address": "0xeed4d7316a04ee59de3d301a384262ffbdbd589a",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/26319/thumb/ICfb5Z0c_400x400.jpg?1657244779"
+    "symbol": "PGX",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/20952.png"
   },
   {
     "chainId": 1,
