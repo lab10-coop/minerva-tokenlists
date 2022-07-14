@@ -9081,10 +9081,11 @@
   {
     "chainId": 1,
     "address": "0x22de9912cd3d74953b1cd1f250b825133cc2c1b3",
-    "name": "Drep  OLD ",
     "symbol": "DREP",
+    "name": "DREP",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/4486/thumb/DREP-logo.jpg?1547039799"
+    "logoURI": "ipfs://QmdPTfhM3x8TvqHesZpqqsWUym2GgD5hLHgh1HNZZYRVHd",
+    "tags": []
   },
   {
     "chainId": 1,
@@ -10878,7 +10879,7 @@
   },
   {
     "chainId": 1,
-    "name": "Hector Finance",
+    "name": "Hector Network",
     "address": "0x29b3d220f0f1e37b342cf7c48c1164bf5bf79efa",
     "decimals": 18,
     "symbol": "HEC",
@@ -11316,6 +11317,14 @@
     "decimals": 18,
     "symbol": "WT",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/4921.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Lucky Block",
+    "address": "0x2b867efd2de4ad2b583ca0cb3df9c4040ef4d329",
+    "decimals": 9,
+    "symbol": "LBLOCK",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/17698.png"
   },
   {
     "chainId": 1,
@@ -13636,6 +13645,14 @@
     "decimals": 18,
     "symbol": "PLAY",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/9820.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x33e2c129ea670031659ac8852c01d0fe4b297954",
+    "name": "Sky",
+    "symbol": "SKY",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/26389/thumb/skytoken-logo-250.png?1657751762"
   },
   {
     "chainId": 1,
@@ -30161,14 +30178,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x741857c07b100c9c0c1272d95845dddc4f1b67cb",
-    "name": "RealT   8342 Schaefer Highway  Detroit ",
-    "symbol": "REALT-S-8342-SCHAEF",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/16700/thumb/Schaefer-1.jpeg?1624642033"
-  },
-  {
-    "chainId": 1,
     "name": "ARTX Trading",
     "address": "0x741b0428efdf4372a8df6fb54b018db5e5ab7710",
     "decimals": 18,
@@ -30705,6 +30714,14 @@
     "decimals": 18,
     "symbol": "DTX",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2913.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Bolide",
+    "address": "0x766afcf83fd5eaf884b3d529b432ca27a6d84617",
+    "decimals": 18,
+    "symbol": "BLID",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/20765.png"
   },
   {
     "chainId": 1,
@@ -36418,6 +36435,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x8d96b4ab6c741a4c8679ae323a100d74f085ba8f",
+    "name": "Bazaars",
+    "symbol": "BZR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/26392/thumb/bazaars_logo-color-black-icon.png?1657753265"
+  },
+  {
+    "chainId": 1,
     "name": "Cosmos",
     "address": "0x8d983cb9388eac77af0474fa441c4815500cb7bb",
     "decimals": 6,
@@ -37436,6 +37461,14 @@
     "decimals": 18,
     "symbol": "LMCH",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/5418.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x920b73e4a8d27b9291efc762e88b3b676fcddaec",
+    "name": "Raise Finance",
+    "symbol": "RFI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/26393/thumb/RFI_Token_Logo.png?1657753383"
   },
   {
     "chainId": 1,
@@ -41799,6 +41832,14 @@
     "decimals": 8,
     "symbol": "IGF",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/4610.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xa26cbb76156090f4b40a1799a220fc4c946afb3c",
+    "name": "Young",
+    "symbol": "YNG",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/26390/thumb/YNG.png?1657752304"
   },
   {
     "chainId": 1,
@@ -50437,6 +50478,14 @@
   },
   {
     "chainId": 1,
+    "address": "0xc6bdb96e29c38dc43f014eed44de4106a6a8eb5f",
+    "name": "Inu Inu",
+    "symbol": "INUINU",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/26391/thumb/logo_square_200.png?1657752596"
+  },
+  {
+    "chainId": 1,
     "name": "UnityDAO",
     "address": "0xc6bf2a2a43ca360bb0ec6770f57f77cdde64bb3f",
     "decimals": 8,
@@ -56224,6 +56273,14 @@
     "decimals": 18,
     "symbol": "YNI",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/8725.png"
+  },
+  {
+    "chainId": 1,
+    "name": "ALTAVA",
+    "address": "0xdebe620609674f21b1089042527f420372ea98a5",
+    "decimals": 18,
+    "symbol": "TAVA",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/19786.png"
   },
   {
     "chainId": 1,
