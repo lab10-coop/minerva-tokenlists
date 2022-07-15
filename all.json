@@ -14104,14 +14104,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x35a735b7d1d811887966656855f870c05fd0a86d",
-    "name": "Thorncoin",
-    "symbol": "THRN",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/6300/thumb/_VaSXQpe_400x400.jpg?1547042348"
-  },
-  {
-    "chainId": 1,
     "name": "Eminer",
     "address": "0x35b08722aa26be119c1608029ccbc976ac5c1082",
     "decimals": 18,
@@ -20049,9 +20041,9 @@
     "chainId": 1,
     "address": "0x4b48068864f77261838c7849a12853fb94c77a91",
     "name": "Lith",
-    "symbol": "LITH",
+    "symbol": "LITHX",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/26327/thumb/KW3kwGRb_400x400.jpg?1657251168"
+    "logoURI": "https://assets.coingecko.com/coins/images/26327/thumb/200x200px_LOGO.jpeg?1657768654"
   },
   {
     "chainId": 1,
@@ -25346,14 +25338,6 @@
     "decimals": 8,
     "symbol": "GAD",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/4037.png"
-  },
-  {
-    "chainId": 1,
-    "name": "Yasha Dao",
-    "address": "0x6107f4901476c3449403a1d908e19148950c2bc5",
-    "decimals": 18,
-    "symbol": "YASHA",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/18474.png"
   },
   {
     "chainId": 1,
@@ -44727,6 +44711,14 @@
   },
   {
     "chainId": 1,
+    "name": "RLDX",
+    "address": "0xadffd831285d0ce26fbe98d2a26c0c9f65693c0a",
+    "decimals": 9,
+    "symbol": "RLDX",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/20999.png"
+  },
+  {
+    "chainId": 1,
     "name": "Adalend",
     "address": "0xae1107fc7cef1294f09185ac475c9886527dcd8a",
     "decimals": 18,
@@ -45722,7 +45714,7 @@
   },
   {
     "chainId": 1,
-    "name": "Follow Token",
+    "name": "Alpha Impact",
     "address": "0xb2a63a5dd36c91ec2da59b188ff047f66fac122a",
     "decimals": 18,
     "symbol": "FOLO",
@@ -47366,11 +47358,11 @@
   },
   {
     "chainId": 1,
-    "address": "0xba485b556399123261a5f9c95d413b4f93107407",
     "name": "Gravitationally Bound AURA",
-    "symbol": "GRAVIAURA",
+    "address": "0xba485b556399123261a5f9c95d413b4f93107407",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/26368/thumb/graviaura.png?1657606852"
+    "symbol": "GRAVIAURA",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/20993.png"
   },
   {
     "chainId": 1,
@@ -49964,11 +49956,11 @@
   },
   {
     "chainId": 1,
-    "address": "0xc4c75f2a0cb1a9acc33929512dc9733ea1fd6fde",
     "name": "Martin Shkreli Inu",
-    "symbol": "MSI",
+    "address": "0xc4c75f2a0cb1a9acc33929512dc9733ea1fd6fde",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/26365/thumb/jEYEUxUI_400x400.jpeg?1657600080"
+    "symbol": "MSI",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/20990.png"
   },
   {
     "chainId": 1,
@@ -50351,7 +50343,7 @@
     "chainId": 1,
     "name": "Banana Task Force Ape",
     "address": "0xc631be100f6cf9a7012c23de5a6ccb990eafc133",
-    "decimals": 9,
+    "decimals": 18,
     "symbol": "BTFA",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/19496.png"
   },
@@ -50478,11 +50470,11 @@
   },
   {
     "chainId": 1,
-    "address": "0xc6bdb96e29c38dc43f014eed44de4106a6a8eb5f",
     "name": "Inu Inu",
-    "symbol": "INUINU",
+    "address": "0xc6bdb96e29c38dc43f014eed44de4106a6a8eb5f",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/26391/thumb/logo_square_200.png?1657752596"
+    "symbol": "INUINU",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/20989.png"
   },
   {
     "chainId": 1,
@@ -52089,14 +52081,6 @@
     "decimals": 18,
     "logoURI": "ipfs://QmeJMrzQPkrB5cp7o2KGq8yuutyobFWudbjeZS1SxQKQ7q",
     "tags": []
-  },
-  {
-    "chainId": 1,
-    "address": "0xcd46d92c46be1dbbd5ccc497e95611abe9d507bc",
-    "name": "FACE Vault  NFTX ",
-    "symbol": "FACE",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/17039/thumb/FACE.png?1626146356"
   },
   {
     "chainId": 1,
@@ -53826,10 +53810,11 @@
   {
     "chainId": 1,
     "address": "0xd42debe4edc92bd5a3fbb4243e1eccf6d63a4a5d",
-    "name": "Carboneum",
     "symbol": "C8",
+    "name": "Carboneum",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/3127/thumb/c8.png?1547037525"
+    "logoURI": "ipfs://QmbKGQA3xa57GFRYpQLZMJoMBY9xBGd21DfYGem94kbEtd",
+    "tags": []
   },
   {
     "chainId": 1,
@@ -54600,11 +54585,11 @@
   },
   {
     "chainId": 1,
+    "name": "YASHA",
     "address": "0xd75f1f81b69bdd4df8efbb70e9c6f4609009d753",
-    "name": "Yasha Dao",
-    "symbol": "YASHA",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/24040/thumb/oX9E7Q7.png?1646119331"
+    "symbol": "YASHA",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/18474.png"
   },
   {
     "chainId": 1,
