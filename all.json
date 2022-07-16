@@ -4482,6 +4482,14 @@
   },
   {
     "chainId": 1,
+    "name": "BMAX",
+    "address": "0x116c4b65e14449947bc6fa1bbe844cb16a162d53",
+    "decimals": 18,
+    "symbol": "BMAX",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/21007.png"
+  },
+  {
+    "chainId": 1,
     "name": "Morie INU",
     "address": "0x1181901298b7615234fcc2d0279c858a66230ce7",
     "decimals": 18,
@@ -5513,6 +5521,14 @@
     "decimals": 8,
     "symbol": "CREP",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/5746.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Alium Finance",
+    "address": "0x1581929770be3275a82068c1135b6dd59c5334ed",
+    "decimals": 18,
+    "symbol": "ALM",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/10428.png"
   },
   {
     "chainId": 1,
@@ -11825,14 +11841,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x2d7a3accbe5f0402a9dd9657dae8281ac30fa1d4",
-    "name": "Kitty Ninja",
-    "symbol": "KINJA",
-    "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/22605/thumb/200x200_%281%29.png?1642163221"
-  },
-  {
-    "chainId": 1,
     "name": "iLINK",
     "address": "0x2d7ac061fc3db53c39fe1607fb8cec1b2c162b01",
     "decimals": 18,
@@ -12282,11 +12290,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x2f6ad7743924b1901a0771746152dde44c5f11de",
     "name": "SCARDust",
-    "symbol": "SCARD",
+    "address": "0x2f6ad7743924b1901a0771746152dde44c5f11de",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/22098/thumb/SCARDust-token-icon-full-color-transparent-bg.png?1640796874"
+    "symbol": "SCARD",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/16700.png"
   },
   {
     "chainId": 1,
@@ -20881,7 +20889,7 @@
   {
     "chainId": 1,
     "address": "0x4e808f2b01e42b7fd01428bc49a0a0a61666e760",
-    "name": "     Four Emperors",
+    "name": "Four Emperors",
     "symbol": "YONK",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/26256/thumb/yonko-200.png?1656939206"
@@ -31183,6 +31191,14 @@
   },
   {
     "chainId": 1,
+    "name": "Metavault",
+    "address": "0x788b6d2b37aa51d916f2837ae25b05f0e61339d1",
+    "decimals": 18,
+    "symbol": "MVD",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/18702.png"
+  },
+  {
+    "chainId": 1,
     "name": "EZOOW",
     "address": "0x78a2a1029e3168b49d3a276c787050ff5106dcf2",
     "decimals": 18,
@@ -37450,7 +37466,7 @@
     "chainId": 1,
     "address": "0x920b73e4a8d27b9291efc762e88b3b676fcddaec",
     "name": "Raise Finance",
-    "symbol": "RFI",
+    "symbol": "RAISE",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/26393/thumb/RFI_Token_Logo.png?1657753383"
   },
@@ -46843,6 +46859,14 @@
   },
   {
     "chainId": 1,
+    "name": "SpaceMine",
+    "address": "0xb7de92be975ccb27e7352a1d47512acbdb0bac32",
+    "decimals": 18,
+    "symbol": "MINE",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/19533.png"
+  },
+  {
+    "chainId": 1,
     "name": "Strike Compound",
     "address": "0xb7e11002228d599f2a64b0c44d2299c9c644ff26",
     "decimals": 8,
@@ -49118,14 +49142,6 @@
     "decimals": 18,
     "symbol": "DONUT",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/6156.png"
-  },
-  {
-    "chainId": 1,
-    "name": "SCARDust",
-    "address": "0xc10b30820f793e24733dc80da12c798dfbff0fff",
-    "decimals": 9,
-    "symbol": "SCARD",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/16700.png"
   },
   {
     "chainId": 1,
@@ -56077,7 +56093,7 @@
   },
   {
     "chainId": 1,
-    "name": "DeversiFi",
+    "name": "rhino.fi",
     "address": "0xdddddd4301a082e62e84e43f474f044423921918",
     "decimals": 18,
     "symbol": "DVF",
