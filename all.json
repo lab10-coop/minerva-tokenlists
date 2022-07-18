@@ -10414,14 +10414,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x27d9f34a4b6b4566c91c319b6626e8dcdf962818",
-    "name": "PooPay",
-    "symbol": "POO",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/22008/thumb/PPLogo-200x200.png?1640589912"
-  },
-  {
-    "chainId": 1,
     "name": "AirToken",
     "address": "0x27dce1ec4d3f72c3e457cc50354f1f975ddef488",
     "decimals": 8,
@@ -24536,6 +24528,15 @@
     "decimals": 18,
     "symbol": "XBE",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/9092.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x5de83a4b2ca7d85476bb5ca5435e1bf1bbfde9a2",
+    "symbol": "NUTRA",
+    "name": "Nutraceutical Finance",
+    "decimals": 9,
+    "logoURI": "ipfs://QmXo1iXsGqtnXJA1w1Eo14Bi53FpGPV834aJYAKhEXrEDo",
+    "tags": []
   },
   {
     "chainId": 1,
