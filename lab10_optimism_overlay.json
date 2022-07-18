@@ -25,5 +25,17 @@
     "decimals": 18,
     "logoURI": "https://fraction.fyi/static/Fraction-Token_MC-WB_Optimism.svg",
     "tags": [ "SuperToken" ]
-  }
+  },
+  {
+    "chainId": 10,
+    "address": "0x8430F084B939208E2eDEd1584889C9A66B90562f",
+    "name": "Super USDC",
+    "symbol": "USDCx",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png",
+    "tags": [
+      "SuperToken",
+      "WrapperToken"
+    ]
+  },
 ]
