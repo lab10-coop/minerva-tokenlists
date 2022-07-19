@@ -180,5 +180,18 @@
     "symbol": "rGNO",
     "decimals": 18,
     "logoURI": "https://app.stakewise.io/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Frgno.be398f43.png&w=640&q=75"
+  },
+  ,
+  {
+    "chainId": 100,
+    "address": "0x1234756ccf0660E866305289267211823Ae86eEc",
+    "name": "Super USDC",
+    "symbol": "USDCx",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png",
+    "tags": [
+      "SuperToken",
+      "WrapperToken"
+    ]
   }
 ]
