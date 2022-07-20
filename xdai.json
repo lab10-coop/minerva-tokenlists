@@ -96,6 +96,18 @@
     "logoURI": "https://etherscan.io/token/images/pillar_32.png"
   },
   {
+    "chainId": 100,
+    "address": "0x1234756ccf0660e866305289267211823ae86eec",
+    "name": "Super USDC",
+    "symbol": "USDCx",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png",
+    "tags": [
+      "SuperToken",
+      "WrapperToken"
+    ]
+  },
+  {
     "name": "DAOstack on xDai",
     "address": "0x12dabe79cffc1fde82fcd3b96dbe09fa4d8cd599",
     "symbol": "GEN",
