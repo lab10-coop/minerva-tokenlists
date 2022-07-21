@@ -148,14 +148,6 @@
     "logoURI": "https://assets.coingecko.com/coins/images/757/small/mysterium.png?1547034503"
   },
   {
-    "name": "pddollar",
-    "address": "0x146e58d34eab0bff7e0a63cfe9332908d680c667",
-    "symbol": "PDDOLLAR",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://assets.coingecko.com/coins/images/24962/small/pddollar.png?1649574672"
-  },
-  {
     "name": "Milk",
     "address": "0x1599fe55cda767b1f631ee7d414b41f5d6de393d",
     "symbol": "MILK",
@@ -371,14 +363,6 @@
     "logoURI": "https://assets.coingecko.com/coins/images/21467/small/n1fqEYRI_400x400.png?1639345175"
   },
   {
-    "name": "Mobius Token",
-    "address": "0x2db0db271a10661e7090b6758350e18f6798a49d",
-    "symbol": "MOT",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://assets.coingecko.com/coins/images/18144/small/11322.png?1630668459"
-  },
-  {
     "name": "TrueUSD",
     "address": "0x2e1ad108ff1d8c782fcbbb89aad783ac49586756",
     "symbol": "TUSD",
@@ -401,14 +385,6 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://raw.githubusercontent.com/iotexproject/iotex-token-metadata/master/images/io1nxetpma4de3wx6tqcgxdtj5wc64a24t64dc76s.png"
-  },
-  {
-    "name": "PDSHARE",
-    "address": "0x3068382885602fc0089aec774944b5ad6123ae60",
-    "symbol": "PDSHARE",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://assets.coingecko.com/coins/images/24963/small/pdshare.png?1649574782"
   },
   {
     "name": "Morpheus Infrastructure Token",
@@ -441,14 +417,6 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://etherscan.io/token/images/easyfi_32.png?v=2"
-  },
-  {
-    "name": "MaticLaunch",
-    "address": "0x3642c3c8ebe0b36a29e37809e1c9a7de06bc0b26",
-    "symbol": "MTCL",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://assets.coingecko.com/coins/images/18036/small/TQzTNi5.png?1630312183"
   },
   {
     "name": "GAX Liquidity Token Reward",
@@ -859,6 +827,14 @@
     "logoURI": "https://polygon.impermax.finance/build/assets/icons/0x60bb3d364b765c497c8ce50ae0ae3f0882c5bd05.png"
   },
   {
+    "name": "Prosper",
+    "address": "0x6109cb051c5c64093830121ed76272ab04bbdd7c",
+    "symbol": "PROS",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/13668/small/heD6cg22l3sF5VgPh4G1xC6lnKEWXJif-jbaqUpv8CDP6jbWaqn9UjBdkXWNrw1CewaQOxb8zXRdNeNJWWiUDjfsEl_d7E3bPLg4cFoilQF5TGKHfWyJlnpm3UYc9ytvRvOjxOevMuiu8-lusnNoOcwgsJpMkYWHqe322GAxLt0_30kFMVAcjEDUrOlkK6hUYi0m9P433mvNlOm.jpg?1610671732"
+  },
+  {
     "name": "Render Token",
     "address": "0x61299774020da444af134c82fa83e3810b309991",
     "symbol": "RNDR",
@@ -969,14 +945,6 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://assets.coingecko.com/coins/images/11939/small/shiba.png?1622619446"
-  },
-  {
-    "name": "Hanu Yokia",
-    "address": "0x709a4b6217584188ddb93c82f5d716d969acce1c",
-    "symbol": "HANU",
-    "decimals": 12,
-    "chainId": 137,
-    "logoURI": "https://assets.coingecko.com/coins/images/17161/small/Goji_Hanu_Logo_200x200.png?1627127472"
   },
   {
     "name": "REVV",
@@ -1240,7 +1208,7 @@
     "symbol": "BETS",
     "decimals": 18,
     "chainId": 137,
-    "logoURI": "https://assets.coingecko.com/coins/images/23693/small/lcd-icon-color-200px.png?1645450706"
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/18453.png"
   },
   {
     "name": "NSHARE",
@@ -1580,14 +1548,6 @@
     "tags": [
       "SuperToken"
     ]
-  },
-  {
-    "name": "GemBites",
-    "address": "0xbe9512e2754cb938dd69bbb96c8a09cb28a02d6d",
-    "symbol": "GBTS",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://i.ibb.co/D7nDtJK/Gem-Bites32x32.png"
   },
   {
     "name": "Kommunitas",
@@ -1979,14 +1939,6 @@
     "decimals": 6,
     "chainId": 137,
     "logoURI": "https://assets.coingecko.com/coins/images/16733/small/REGEN.png?1624861317"
-  },
-  {
-    "name": "Starchi Liquid Luck",
-    "address": "0xed0bb69f9f96e8c5fffdf16c468ecec385134ea5",
-    "symbol": "ELIXIR",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://assets.coingecko.com/coins/images/18941/small/starchi.jpg?1633961292"
   },
   {
     "name": "MCHCoin",
