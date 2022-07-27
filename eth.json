@@ -5395,14 +5395,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x14eb60f5f270b059b0c788de0ddc51da86f8a06d",
-    "name": "Phantasma Energy  OLD ",
-    "symbol": "KCAL",
-    "decimals": 10,
-    "logoURI": "https://assets.coingecko.com/coins/images/12678/thumb/kcal-logo-coingecko.png?1602063865"
-  },
-  {
-    "chainId": 1,
     "name": "VINX COIN",
     "address": "0x14f0a12a43c36c49d4b403dd6e1a9b8222be456c",
     "decimals": 18,
@@ -10213,7 +10205,7 @@
   },
   {
     "chainId": 1,
-    "name": "ANKR Reward Earning MATIC",
+    "name": "ANKR Reward Bearing MATIC",
     "address": "0x26dcfbfa8bc267b250432c01c982eaf81cc5480c",
     "decimals": 18,
     "symbol": "AMATICC",
@@ -12520,6 +12512,14 @@
     "decimals": 18,
     "symbol": "SOX",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/9397.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Ankr Reward Earning Staked AVAX",
+    "address": "0x30176cecb6dbf0869d59493142925a0287b12216",
+    "decimals": 18,
+    "symbol": "aAVAXb",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/18898.png"
   },
   {
     "chainId": 1,
@@ -21803,11 +21803,10 @@
   {
     "chainId": 1,
     "address": "0x524ebc93beef838f70b4ae54b675d3e971d5884e",
-    "symbol": "HERO",
     "name": "Challenge Coin",
+    "symbol": "HERO",
     "decimals": 9,
-    "logoURI": "ipfs://QmXTRp514XARyuwJKFZ2eAPKknqWTvEtGTd8NmkEbEn2dQ",
-    "tags": []
+    "logoURI": "https://assets.coingecko.com/coins/images/26567/thumb/bug-CC-200.png?1658812509"
   },
   {
     "chainId": 1,
@@ -22339,14 +22338,6 @@
     "decimals": 18,
     "symbol": "ETHEMAAPY",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/6133.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x54ee01beb60e745329e6a8711ad2d6cb213e38d7",
-    "name": "DFSocial  Old ",
-    "symbol": "DFSOCIAL",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/13538/thumb/DEPI.png?1617093782"
   },
   {
     "chainId": 1,
@@ -34806,6 +34797,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x874cb28a655e0ef827d810e211ae4b9cbcbaf614",
+    "name": "Gain DAO",
+    "symbol": "GAIN",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/26570/thumb/GAIN_listing_200.png?1658816125"
+  },
+  {
+    "chainId": 1,
     "name": "Guider",
     "address": "0x874d4c9b980f1a13dd44cbcdb912e24ef0671ed0",
     "decimals": 18,
@@ -36345,6 +36344,14 @@
     "decimals": 18,
     "symbol": "SWAPP",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/10783.png"
+  },
+  {
+    "chainId": 1,
+    "name": "ARTH Valuecoin",
+    "address": "0x8cc0f052fff7ead7f2edcccac895502e884a8a71",
+    "decimals": 18,
+    "symbol": "ARTH",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/10865.png"
   },
   {
     "chainId": 1,
@@ -45506,11 +45513,11 @@
   },
   {
     "chainId": 1,
+    "name": "iCommunity Labs",
     "address": "0xb131f337c45d386ceec234e194b2663d5c3d9dcf",
-    "name": "iCommunity",
-    "symbol": "ICOM",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/23667/thumb/logo-icommunity.png?1644993652"
+    "symbol": "ICOM",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/16427.png"
   },
   {
     "chainId": 1,
@@ -46181,7 +46188,7 @@
     "chainId": 1,
     "name": "Dream",
     "address": "0xb44377b74ef1773639b663d0754cb8410a847d02",
-    "decimals": 9,
+    "decimals": 18,
     "symbol": "DREAM",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/17157.png"
   },
@@ -48602,14 +48609,6 @@
   },
   {
     "chainId": 1,
-    "address": "0xbea76c71929788ab20e17759eac115798f9aef27",
-    "name": "Wrapped Injeolmi",
-    "symbol": "WIJM",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/22773/thumb/injeolmi.png?1642576522"
-  },
-  {
-    "chainId": 1,
     "name": "GYSR",
     "address": "0xbea98c05eeae2f3bc8c3565db7551eb738c8ccab",
     "decimals": 18,
@@ -48647,6 +48646,14 @@
     "decimals": 18,
     "symbol": "MRCH",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/8971.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Meta MVRS",
+    "address": "0xbede1f59fa4412556fef69f1b9969f2003e3f8c1",
+    "decimals": 18,
+    "symbol": "MVRS",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/16706.png"
   },
   {
     "chainId": 1,
@@ -50700,14 +50707,6 @@
     "decimals": 18,
     "symbol": "MLC",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3340.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xc731eca970979cd2da2a1094a808f49894070d35",
-    "name": "RealT   19218 Houghton St  Detroit  MI ",
-    "symbol": "REALT-S-19218-HOUGH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/16708/thumb/19218-Houghton-hero-1.jpeg?1624646592"
   },
   {
     "chainId": 1,
@@ -56319,7 +56318,7 @@
   },
   {
     "chainId": 1,
-    "name": "Standard Tokenization Protocol",
+    "name": "STP",
     "address": "0xde7d85157d9714eadf595045cc12ca4a5f3e2adb",
     "decimals": 18,
     "symbol": "STPT",
@@ -56740,14 +56739,6 @@
     "symbol": "WPT",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/11707/thumb/worldpet3.png?1592986614"
-  },
-  {
-    "chainId": 1,
-    "address": "0xe047705117eb07e712c3d684f5b18e74577e83ac",
-    "name": "BitcashPay  Old ",
-    "symbol": "BCP",
-    "decimals": 8,
-    "logoURI": "https://assets.coingecko.com/coins/images/14353/thumb/BCP-200x200.png?1616468499"
   },
   {
     "chainId": 1,
@@ -57619,11 +57610,11 @@
   },
   {
     "chainId": 1,
-    "address": "0xe3c408bd53c31c085a1746af401a4042954ff740",
     "name": "STEPN",
+    "address": "0xe3c408bd53c31c085a1746af401a4042954ff740",
+    "decimals": 18,
     "symbol": "GMT",
-    "decimals": 8,
-    "logoURI": "https://assets.coingecko.com/coins/images/23597/thumb/gmt.png?1644658792"
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/18069.png"
   },
   {
     "chainId": 1,
@@ -57697,14 +57688,6 @@
     "decimals": 18,
     "symbol": "CHFX",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/5495.png"
-  },
-  {
-    "chainId": 1,
-    "name": "MyConstant",
-    "address": "0xe43b00b078463ca246d285be1254767da0003cc8",
-    "decimals": 18,
-    "symbol": "MCT",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/20906.png"
   },
   {
     "chainId": 1,
@@ -58495,6 +58478,14 @@
   },
   {
     "chainId": 1,
+    "name": "USACOIN",
+    "address": "0xe70ea90718fd21471db240f3bae343daece65f53",
+    "decimals": 18,
+    "symbol": "USACOIN",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/21130.png"
+  },
+  {
+    "chainId": 1,
     "name": "Mew Inu",
     "address": "0xe71221fbfcc55d49363c4a2286424b6dbecc368f",
     "decimals": 18,
@@ -58969,11 +58960,10 @@
   {
     "chainId": 1,
     "address": "0xe8e8486228753e01dbc222da262aa706bd67e601",
-    "symbol": "WEB3",
     "name": "Arch Ethereum Web3",
+    "symbol": "WEB3",
     "decimals": 18,
-    "logoURI": "ipfs://QmWdn41uTVBCmtcEeMGNJLchL2NsZEWH8WvXM2ZEHdJ2qy",
-    "tags": []
+    "logoURI": "https://assets.coingecko.com/coins/images/26562/thumb/WEB3-TOKEN.png?1658798344"
   },
   {
     "chainId": 1,
@@ -63203,11 +63193,11 @@
   },
   {
     "chainId": 1,
-    "address": "0xf9d4daae1300cff251979722c4a3c45857973079",
     "name": "BitCastle",
-    "symbol": "CASTLE",
+    "address": "0xf9d4daae1300cff251979722c4a3c45857973079",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/26551/thumb/blue_logo03.png?1658753049"
+    "symbol": "CASTLE",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/21125.png"
   },
   {
     "chainId": 1,

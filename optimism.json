@@ -78,6 +78,17 @@
   },
   {
     "chainId": 1,
+    "address": "0x0c10bf8fcb7bf5412187a595ab97a3609160b5c6",
+    "name": "Decentralized USD",
+    "symbol": "USDD",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/logos/USDD.png",
+    "extensions": {
+      "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
+    }
+  },
+  {
+    "chainId": 1,
     "address": "0x102e941b77bcaa7e35d368cafe51ef8f79c8d1ef",
     "name": "Theranos Coin",
     "symbol": "LIZ",
@@ -694,6 +705,17 @@
   },
   {
     "chainId": 10,
+    "address": "0x7113370218f31764c1b6353bdf6004d86ff6b9cc",
+    "name": "Decentralized USD",
+    "symbol": "USDD",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/logos/USDD.png",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+    }
+  },
+  {
+    "chainId": 10,
     "address": "0x76fb31fb4af56892a25e32cfc43de717950c9278",
     "name": "Aave Token",
     "symbol": "AAVE",
@@ -1300,6 +1322,17 @@
   },
   {
     "chainId": 42,
+    "address": "0xae73ddeafc00bc5ad03a96c2b268c3f5325c8d49",
+    "name": "Decentralized USD",
+    "symbol": "USDD",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/logos/USDD.png",
+    "extensions": {
+      "optimismBridgeAddress": "0x22F24361D548e5FaAfb36d1437839f080363982B"
+    }
+  },
+  {
+    "chainId": 42,
     "address": "0xb7e230f904971724c600ad5217b88d219ddd1525",
     "name": "Gitcoin",
     "symbol": "GTC",
@@ -1318,6 +1351,17 @@
     "logoURI": "https://ethereum-optimism.github.io/logos/SNX.svg",
     "extensions": {
       "optimismBridgeAddress": "0xc00E7C2Bd7B0Fb95DbBF10d2d336399A939099ee"
+    }
+  },
+  {
+    "chainId": 42,
+    "address": "0xc13dd39606d4c2489ce5d9806d060fed9a7d063d",
+    "name": "Land",
+    "symbol": "LAND",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/logos/LAND.png",
+    "extensions": {
+      "optimismBridgeAddress": "0x22F24361D548e5FaAfb36d1437839f080363982B"
     }
   },
   {
@@ -1421,11 +1465,33 @@
   },
   {
     "chainId": 69,
+    "address": "0x1f9bd96ddb4bd07d6061f8933e9ba9ede9967550",
+    "name": "Decentralized USD",
+    "symbol": "USDD",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/logos/USDD.png",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+    }
+  },
+  {
+    "chainId": 69,
     "address": "0x2382a8f65b9120e554d1836a504808ac864e169d",
     "name": "Wrapped Bitcoin",
     "symbol": "WBTC",
     "decimals": 8,
     "logoURI": "https://ethereum-optimism.github.io/logos/WBTC.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+    }
+  },
+  {
+    "chainId": 69,
+    "address": "0x2e2015aa4ac40b083189a03a75ad229dfb10172c",
+    "name": "Land",
+    "symbol": "LAND",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/logos/LAND.png",
     "extensions": {
       "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
     }
