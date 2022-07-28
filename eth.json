@@ -1074,14 +1074,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x038cd9219171053328c7c229b923ba754d5c216f",
-    "name": "KingDoge Token",
-    "symbol": "KINGDOGE",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/23121/thumb/a8QYPX8.png?1643267184"
-  },
-  {
-    "chainId": 1,
     "name": "BarnBridge",
     "address": "0x0391d2021f89dc339f60fff84546ea23e337750f",
     "decimals": 18,
@@ -1497,14 +1489,6 @@
     "decimals": 2,
     "symbol": "GUSD",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3306.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x05732b6d78591e75b31022d71e55aa810498a5a4",
-    "name": "SHiBGOTCHi",
-    "symbol": "SHIBGOTCHI",
-    "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/25097/thumb/IMG_1881.png?1650279461"
   },
   {
     "chainId": 1,
@@ -2687,14 +2671,6 @@
     "decimals": 18,
     "symbol": "DOS",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3809.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x0a9d68886a0d7db83a30ec00d62512483e5ad437",
-    "name": "Treecle",
-    "symbol": "TRCL",
-    "decimals": 0,
-    "logoURI": "https://assets.coingecko.com/coins/images/11670/thumb/Mj4nZSD9_400x400.jpg?1592532649"
   },
   {
     "chainId": 1,
@@ -12540,10 +12516,11 @@
   {
     "chainId": 1,
     "address": "0x30365ed4ca8173013ad948b9842f34ac71d01f7c",
-    "name": "Dirham Crypto",
     "symbol": "DHS",
+    "name": "Dirham Crypto",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/15974/thumb/dirham_200.png?1622524968"
+    "logoURI": "ipfs://QmbXv8Fs95TvpKfT4zFFg52ST3kG53dQxfNm8GTHbhjfEu",
+    "tags": []
   },
   {
     "chainId": 1,
@@ -17028,14 +17005,6 @@
     "decimals": 18,
     "symbol": "NOTRUMP",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7417.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x40cf9f8b652efe6bfb9d5cfcdb12e3a8a8b4c2c3",
-    "name": "United Emirate",
-    "symbol": "UEC",
-    "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/24977/thumb/zcbFg-Az_400x400.jpg?1649654476"
   },
   {
     "chainId": 1,
@@ -22169,6 +22138,14 @@
     "decimals": 18,
     "symbol": "NICE",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7444.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Anarchy",
+    "address": "0x53fd2342b43ecd24aef1535bc3797f509616ce8c",
+    "decimals": 9,
+    "symbol": "ANARCHY",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/21137.png"
   },
   {
     "chainId": 1,
@@ -34612,6 +34589,14 @@
   },
   {
     "chainId": 1,
+    "name": "poundtoken",
+    "address": "0x86b4dbe5d203e634a12364c0e428fa242a3fba98",
+    "decimals": 18,
+    "symbol": "GBPT",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/21145.png"
+  },
+  {
+    "chainId": 1,
     "name": "ChowDAO",
     "address": "0x86bf411df08e82e7cbdf4308e89dfb862ecd71e9",
     "decimals": 18,
@@ -43862,14 +43847,6 @@
   },
   {
     "chainId": 1,
-    "address": "0xaa6b5430235d7939780d00b9365cbfe227df4d05",
-    "name": "Capital System",
-    "symbol": "CAPSYS",
-    "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/23111/thumb/200x200.png?1643262680"
-  },
-  {
-    "chainId": 1,
     "name": "ETH 2x Flexible Leverage Index",
     "address": "0xaa6e8127831c9de45ae56bb1b0d4d4da6e5665bd",
     "decimals": 18,
@@ -48609,6 +48586,14 @@
   },
   {
     "chainId": 1,
+    "name": "TomTomCoin",
+    "address": "0xbe9ab37a414c517b2be2bfa5945665bb07379054",
+    "decimals": 18,
+    "symbol": "TOMS",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/17523.png"
+  },
+  {
+    "chainId": 1,
     "name": "GYSR",
     "address": "0xbea98c05eeae2f3bc8c3565db7551eb738c8ccab",
     "decimals": 18,
@@ -48982,14 +48967,6 @@
     "decimals": 8,
     "symbol": "TRM",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/4509.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xc005204856ee7035a13d8d7cdbbdc13027afff90",
-    "name": "MoneySwap",
-    "symbol": "MSWAP",
-    "decimals": 0,
-    "logoURI": "https://assets.coingecko.com/coins/images/13576/thumb/logo_%281%29.png?1609888424"
   },
   {
     "chainId": 1,
@@ -54602,14 +54579,6 @@
   },
   {
     "chainId": 1,
-    "name": "AmericanHorror.Finance",
-    "address": "0xd6d3608f2d770d0a8d0da62d7afe21ea1da86d9c",
-    "decimals": 18,
-    "symbol": "AHF",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7241.png"
-  },
-  {
-    "chainId": 1,
     "name": "eToro Russian Ruble",
     "address": "0xd6d69a3d5e51dbc2636dc332338765fcca71d5d5",
     "decimals": 18,
@@ -56059,14 +56028,6 @@
     "decimals": 18,
     "symbol": "FOHO",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/13026.png"
-  },
-  {
-    "chainId": 1,
-    "name": "TrustUSD",
-    "address": "0xdd436a0dce9244b36599ae7b22f0373b4e33992d",
-    "decimals": 18,
-    "symbol": "TRUSD",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/5605.png"
   },
   {
     "chainId": 1,
@@ -58959,11 +58920,11 @@
   },
   {
     "chainId": 1,
-    "address": "0xe8e8486228753e01dbc222da262aa706bd67e601",
     "name": "Arch Ethereum Web3",
-    "symbol": "WEB3",
+    "address": "0xe8e8486228753e01dbc222da262aa706bd67e601",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/26562/thumb/WEB3-TOKEN.png?1658798344"
+    "symbol": "WEB3",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/21146.png"
   },
   {
     "chainId": 1,
@@ -63423,6 +63384,14 @@
     "decimals": 18,
     "symbol": "DOTX",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/6796.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xfaba6f8e4a5e8ab82f62fe7c39859fa577269be3",
+    "name": "Ondo Finance",
+    "symbol": "ONDO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/26580/thumb/YUBxfjcj_400x400.jpg?1658888594"
   },
   {
     "chainId": 1,
