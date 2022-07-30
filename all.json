@@ -8718,7 +8718,7 @@
     "chainId": 1,
     "name": "Wrapped Conceal",
     "address": "0x21686f8ce003a95c99acd297e302faacf742f7d4",
-    "decimals": 6,
+    "decimals": 18,
     "symbol": "WCCX",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7600.png"
   },
@@ -15413,11 +15413,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x3a529a8d4f2ea64d206339fa12a3af4d431f53c3",
     "name": "Vendetta Finance",
-    "symbol": "VEN",
+    "address": "0x3a529a8d4f2ea64d206339fa12a3af4d431f53c3",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/26601/thumb/Initials.png?1658978710"
+    "symbol": "VEN",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/21171.png"
   },
   {
     "chainId": 1,
@@ -22972,6 +22972,14 @@
     "decimals": 18,
     "symbol": "SUSD",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2927.png"
+  },
+  {
+    "chainId": 1,
+    "name": "BUILD",
+    "address": "0x57b59f981730c6257df57cf6f0d98283749a9eeb",
+    "decimals": 18,
+    "symbol": "BUILD",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/21113.png"
   },
   {
     "chainId": 1,
@@ -30782,14 +30790,6 @@
   },
   {
     "chainId": 1,
-    "name": "Bolide",
-    "address": "0x766afcf83fd5eaf884b3d529b432ca27a6d84617",
-    "decimals": 18,
-    "symbol": "BLID",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/20765.png"
-  },
-  {
-    "chainId": 1,
     "name": "Bitberry Token",
     "address": "0x7671904eed7f10808b664fc30bb8693fd7237abf",
     "decimals": 18,
@@ -35529,14 +35529,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x8994c21d588106ba289e014331a1d74491894cee",
-    "name": "Chain Flowers",
-    "symbol": "CFLO",
-    "decimals": 8,
-    "logoURI": "https://assets.coingecko.com/coins/images/17237/thumb/cflo200.png?1626931651"
-  },
-  {
-    "chainId": 1,
     "address": "0x89a64014d429509cffda1aebc7eb36b9435794bd",
     "name": "LULZ",
     "symbol": "LULZ",
@@ -35762,11 +35754,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x8a7adc1b690e81c758f1bd0f72dfe27ae6ec56a5",
     "name": "Bolide",
-    "symbol": "BLID",
+    "address": "0x8a7adc1b690e81c758f1bd0f72dfe27ae6ec56a5",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/25548/thumb/BLID_token_logo_200x200.png?1652334831"
+    "symbol": "BLID",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/20765.png"
   },
   {
     "chainId": 1,
@@ -51216,6 +51208,14 @@
   },
   {
     "chainId": 1,
+    "address": "0xc94f3e2ade5e92389af7e543657211ecccaff11e",
+    "name": "Up Spiral",
+    "symbol": "SPIRAL",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/26615/thumb/spiral.png?1659072838"
+  },
+  {
+    "chainId": 1,
     "name": "IFX24",
     "address": "0xc962ad021a69d457564e985738c719ae3f79b707",
     "decimals": 18,
@@ -58464,6 +58464,14 @@
   },
   {
     "chainId": 1,
+    "name": "SHINU",
+    "address": "0xe6fe0258d182a88931b7fe32d6f80042f122d066",
+    "decimals": 9,
+    "symbol": "SHINU",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/21164.png"
+  },
+  {
+    "chainId": 1,
     "name": "10M Token",
     "address": "0xe701cd3329057aea9d54300ddd05e41b8d74727a",
     "decimals": 10,
@@ -63428,11 +63436,11 @@
   },
   {
     "chainId": 1,
-    "address": "0xfaba6f8e4a5e8ab82f62fe7c39859fa577269be3",
     "name": "Ondo Finance",
-    "symbol": "ONDO",
+    "address": "0xfaba6f8e4a5e8ab82f62fe7c39859fa577269be3",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/26580/thumb/YUBxfjcj_400x400.jpg?1658888594"
+    "symbol": "ONDO",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/21159.png"
   },
   {
     "chainId": 1,
@@ -69752,6 +69760,14 @@
     "logoURI": "https://tokens.pancakeswap.finance/images/0x7324c7C0d95CEBC73eEa7E85CbAac0dBdf88a05b.png"
   },
   {
+    "name": "Meta Apes Peel",
+    "symbol": "PEEL",
+    "address": "0x734548a9e43d2d564600b1b2ed5be9c2b911c6ab",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x734548a9e43d2D564600b1B2ed5bE9C2b911c6aB.png"
+  },
+  {
     "name": "Nabox Token",
     "symbol": "NABOX",
     "address": "0x755f34709e369d37c6fa52808ae84a32007d1155",
@@ -70136,7 +70152,7 @@
     "logoURI": "https://tokens.pancakeswap.finance/images/0x9899a98b222fCb2f3dbee7dF45d943093a4ff9ff.png"
   },
   {
-    "name": "Thunder Token",
+    "name": "ThunderCore",
     "symbol": "TT",
     "address": "0x990e7154bb999faa9b2fa5ed29e822703311ea85",
     "chainId": 56,
