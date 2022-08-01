@@ -16,5 +16,26 @@
     "decimals": 18,
     "logoURI": "https://fraction.fyi/static/Fraction-Token_MC-WB_Arbitrum.svg",
     "tags": [ "SuperToken" ]
+  },
+  {
+    "chainId": 42161,
+    "address": "0x521677A61D101A80cE0fB903b13cb485232774ee",
+    "name": "Super Dai Stablecoin",
+    "symbol": "DAIx",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-tokenlists/master/images/WXDAI.svg",
+    "tags": [ "SuperToken", "WrapperToken" ]
+  },
+  {
+    "chainId": 42161,
+    "address": "0x1Dbc1809486460DcD189b8a15990bCa3272Ee04e",
+    "name": "Super USDC",
+    "symbol": "USDCx",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png",
+    "tags": [
+      "SuperToken",
+      "WrapperToken"
+    ]
   }
 ]
