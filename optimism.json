@@ -1322,6 +1322,17 @@
   },
   {
     "chainId": 42,
+    "address": "0xa88751c0a08623e11ff38c6b70f2bbee7865c17c",
+    "name": "Wrapped liquid staked Ether 2.0",
+    "symbol": "wstETH",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/logos/wstETH.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x65321bf24210b81500230dCEce14Faa70a9f50a7"
+    }
+  },
+  {
+    "chainId": 42,
     "address": "0xae73ddeafc00bc5ad03a96c2b268c3f5325c8d49",
     "name": "Decentralized USD",
     "symbol": "USDD",
@@ -1744,6 +1755,17 @@
     "logoURI": "https://cryptologos.cc/logos/multi-collateral-dai-dai-logo.svg?v=010",
     "extensions": {
       "optimismBridgeAddress": "0x467194771dAe2967Aef3ECbEDD3Bf9a310C76C65"
+    }
+  },
+  {
+    "chainId": 69,
+    "address": "0xf9c842de4381a70eb265d10cf8d43dceff5ba935",
+    "name": "Wrapped liquid staked Ether 2.0",
+    "symbol": "wstETH",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/logos/wstETH.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x2E34e7d705AfaC3C4665b6feF31Aa394A1c81c92"
     }
   },
   {

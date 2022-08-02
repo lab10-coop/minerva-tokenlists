@@ -1016,6 +1016,18 @@
     }
   },
   {
+    "chainId": 42161,
+    "address": "0x1dbc1809486460dcd189b8a15990bca3272ee04e",
+    "name": "Super USDC",
+    "symbol": "USDCx",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png",
+    "tags": [
+      "SuperToken",
+      "WrapperToken"
+    ]
+  },
+  {
     "address": "0x1f6fa7a58701b3773b08a1a16d06b656b0eccb23",
     "chainId": 42161,
     "decimals": 18,
@@ -1336,6 +1348,18 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/premia.jpg",
     "name": "Premia",
     "symbol": "PREMIA"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x521677a61d101a80ce0fb903b13cb485232774ee",
+    "name": "Super Dai Stablecoin",
+    "symbol": "DAIx",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-tokenlists/master/images/WXDAI.svg",
+    "tags": [
+      "SuperToken",
+      "WrapperToken"
+    ]
   },
   {
     "logoURI": "https://assets.coingecko.com/coins/images/13709/thumb/route_token_200x200-19.png?1611057698",
