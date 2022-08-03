@@ -1,5 +1,17 @@
 [
   {
+    "chainId": 10,
+    "address": "0x9757d68a4273635c69d93b84ee3cdac2304dd467",
+    "name": "Super ETH",
+    "symbol": "ETHx",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
+    "tags": [
+      "SuperToken",
+      "WrapperToken"
+    ]
+  },
+  {
     "name": "UniCrypt on xDai",
     "address": "0x0116e28b43a358162b96f70b4de14c98a4465f25",
     "symbol": "UNCX",

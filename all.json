@@ -12765,11 +12765,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x30df7d7ee52c1b03cd009e656f00ab875adceed2",
     "name": "MetaReset",
-    "symbol": "RESET",
+    "address": "0x30df7d7ee52c1b03cd009e656f00ab875adceed2",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/26631/thumb/logo.png?1659325867"
+    "symbol": "RESET",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/21197.png"
   },
   {
     "chainId": 1,
@@ -23479,11 +23479,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x59c6900949ad1835f07a04321f4d9934a054e114",
     "name": "TroveDAO",
-    "symbol": "TROVE",
+    "address": "0x59c6900949ad1835f07a04321f4d9934a054e114",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/24764/thumb/coin.png?1655723800"
+    "symbol": "TROVE",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/19234.png"
   },
   {
     "chainId": 1,
@@ -50061,6 +50061,14 @@
   },
   {
     "chainId": 1,
+    "name": "StarBlock",
+    "address": "0xc481a850aead5002598b7ed355cbb3349c148072",
+    "decimals": 18,
+    "symbol": "STB",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/21194.png"
+  },
+  {
+    "chainId": 1,
     "address": "0xc48b4814faed1ccc885dd6fde62a6474aecbb19a",
     "name": "CoinMerge  ERC20 ",
     "symbol": "CMERGE",
@@ -62777,14 +62785,6 @@
   },
   {
     "chainId": 1,
-    "name": "Treasure Token Finance",
-    "address": "0xf7ae26f1bf3c2312a4cf42246f947a4be25eef92",
-    "decimals": 18,
-    "symbol": "TREASURE",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/19234.png"
-  },
-  {
-    "chainId": 1,
     "name": "Matchpool",
     "address": "0xf7b098298f7c69fc14610bf71d5e02c60792894c",
     "decimals": 3,
@@ -64692,6 +64692,18 @@
     "decimals": 18,
     "symbol": "FSW",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/6743.png"
+  },
+  {
+    "chainId": 10,
+    "address": "0x9757d68a4273635c69d93b84ee3cdac2304dd467",
+    "name": "Super ETH",
+    "symbol": "ETHx",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
+    "tags": [
+      "SuperToken",
+      "WrapperToken"
+    ]
   },
   {
     "name": "UniCrypt on xDai",
