@@ -2994,9 +2994,9 @@
   },
   {
     "chainId": 1,
-    "name": "Megaweapon",
+    "name": "MEGAWEAPON",
     "address": "0x0b8057c3cc676c329c25c1d0cd27776efa73762d",
-    "decimals": 9,
+    "decimals": 18,
     "symbol": "$WEAPON",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/15110.png"
   },
@@ -12789,6 +12789,14 @@
   },
   {
     "chainId": 1,
+    "name": "Yieldification",
+    "address": "0x30dcba0405004cf124045793e1933c798af9e66a",
+    "decimals": 18,
+    "symbol": "YDF",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/21229.png"
+  },
+  {
+    "chainId": 1,
     "name": "MetaReset",
     "address": "0x30df7d7ee52c1b03cd009e656f00ab875adceed2",
     "decimals": 18,
@@ -14046,6 +14054,14 @@
     "decimals": 9,
     "symbol": "GSONIC",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/13194.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x3540abe4f288b280a0740ad5121aec337c404d15",
+    "name": "TPRO",
+    "symbol": "TPRO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/26694/thumb/tpro-logo-200x200.png?1659607453"
   },
   {
     "chainId": 1,
@@ -16092,14 +16108,6 @@
     "decimals": 18,
     "symbol": "METRA",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/18144.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x3ce523bbcf1b29904fcd88278973ba45e4262b9f",
-    "name": "MCPEPE",
-    "symbol": "MCPEPE",
-    "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/23377/thumb/McPepeLogo.png?1643960384"
   },
   {
     "chainId": 1,
@@ -35561,11 +35569,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x89568569da9c83cb35e59f92f5df2f6ca829eeee",
     "name": "PYROMATIC",
-    "symbol": "PYRO",
+    "address": "0x89568569da9c83cb35e59f92f5df2f6ca829eeee",
     "decimals": 6,
-    "logoURI": "https://assets.coingecko.com/coins/images/26662/thumb/PYRO200.jpg?1659448765"
+    "symbol": "PYRO",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/21224.png"
   },
   {
     "chainId": 1,
@@ -38724,6 +38732,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x9590d8c06ba451bbad0893f2ef0d2a8b5acc67d3",
+    "name": "SCORCHER",
+    "symbol": "SCOR",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/26683/thumb/SCORCHER_LOGO_-_200.png?1659594039"
+  },
+  {
+    "chainId": 1,
     "name": "Official Crypto Cowboy Token",
     "address": "0x95a1796437bad6502d1c1cce165cd76e522409a9",
     "decimals": 18,
@@ -40289,14 +40305,6 @@
     "symbol": "YLA",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/14447/thumb/yla.png?1616128042"
-  },
-  {
-    "chainId": 1,
-    "address": "0x9bbc9286cdf6eefebf21df19bac71c6bdd7759d4",
-    "name": "QUEENBEE",
-    "symbol": "QBZ",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/10772/thumb/1nIgm-Ut_400x400.jpg?1583377902"
   },
   {
     "chainId": 1,
@@ -44447,14 +44455,6 @@
   },
   {
     "chainId": 1,
-    "name": "POPKON",
-    "address": "0xac12e8f6b0c17d7b736a800920b336d764b59973",
-    "decimals": 18,
-    "symbol": "POPK",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/18596.png"
-  },
-  {
-    "chainId": 1,
     "name": "BITWAY",
     "address": "0xac1a32e3aea383ba94f9e28e63a122277e4ccb18",
     "decimals": 18,
@@ -46745,14 +46745,6 @@
     "decimals": 18,
     "symbol": "HEROS",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/14685.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xb624fde1a972b1c89ec1dad691442d5e8e891469",
-    "name": "SporkDAO",
-    "symbol": "SPORK",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/23358/thumb/sporkdao.PNG?1643942687"
   },
   {
     "chainId": 1,
@@ -56316,6 +56308,14 @@
     "symbol": "DEI",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/18779/thumb/DEI-logo-round-white-3.png?1646300101"
+  },
+  {
+    "chainId": 1,
+    "name": "MagicCraft",
+    "address": "0xde16ce60804a881e9f8c4ebb3824646edecd478d",
+    "decimals": 18,
+    "symbol": "MCRT",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/15721.png"
   },
   {
     "chainId": 1,
