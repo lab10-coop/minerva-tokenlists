@@ -89,6 +89,17 @@
   },
   {
     "chainId": 1,
+    "address": "0x0cec1a9154ff802e7934fc916ed7ca50bde6844e",
+    "name": "PoolTogether",
+    "symbol": "POOL",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/logos/pool.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
+    }
+  },
+  {
+    "chainId": 1,
     "address": "0x102e941b77bcaa7e35d368cafe51ef8f79c8d1ef",
     "name": "Theranos Coin",
     "symbol": "LIZ",
@@ -495,6 +506,28 @@
     }
   },
   {
+    "chainId": 1,
+    "address": "0xe41d2489571d322189246dafa5ebde1f4699f498",
+    "name": "0x Protocol Token",
+    "symbol": "ZRX",
+    "decimals": 18,
+    "logoURI": "https://github.com/0xProject/branding/blob/master/0x%20Icons/Circle/0x-Icon-Circle-White.png",
+    "extensions": {
+      "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
+    }
+  },
+  {
+    "chainId": 5,
+    "address": "0x51f44ca59b867e005e48fa573cb8df83fc7f7597",
+    "name": "Synthetix",
+    "symbol": "SNX",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/logos/SNX.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x1427Bc44755d9Aa317535B1feE38922760Aa4e65"
+    }
+  },
+  {
     "chainId": 10,
     "address": "0x00f932f0fe257456b32deda4758922e56a4f4b42",
     "name": "Paper",
@@ -586,6 +619,17 @@
     "symbol": "LINK",
     "decimals": 18,
     "logoURI": "https://ethereum-optimism.github.io/logos/LINK.png",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0x395ae52bb17aef68c2888d941736a71dc6d4e125",
+    "name": "PoolTogether",
+    "symbol": "POOL",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/logos/pool.svg",
     "extensions": {
       "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
     }
@@ -989,6 +1033,17 @@
     "symbol": "SPANK",
     "decimals": 18,
     "logoURI": "https://ethereum-optimism.github.io/logos/spank.png",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0xd1917629b3e6a72e6772aab5dbe58eb7fa3c2f33",
+    "name": "0x Protocol Token",
+    "symbol": "ZRX",
+    "decimals": 18,
+    "logoURI": "https://github.com/0xProject/branding/blob/master/0x%20Icons/Circle/0x-Icon-Circle-White.png",
     "extensions": {
       "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
     }
@@ -1788,6 +1843,17 @@
     "logoURI": "https://ethereum-optimism.github.io/logos/dcn.svg",
     "extensions": {
       "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+    }
+  },
+  {
+    "chainId": 420,
+    "address": "0x2e5ed97596a8368eb9e44b1f3f25b2e813845303",
+    "name": "Synthetix",
+    "symbol": "SNX",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/logos/SNX.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0xD2b3F0Ea40dB68088415412b0043F37B3088836D"
     }
   }
 ]

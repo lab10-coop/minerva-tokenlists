@@ -1122,6 +1122,13 @@
   },
   {
     "chainId": 1,
+    "address": "0x03c7a08451ed5c820958d64116d74de1f7b285d8",
+    "name": "BlackSwan Nodes",
+    "symbol": "SWAN",
+    "decimals": 9
+  },
+  {
+    "chainId": 1,
     "name": "Nabox",
     "address": "0x03d1e72765545729a035e909edd9371a405f77fb",
     "decimals": 18,
@@ -5288,6 +5295,14 @@
     "decimals": 18,
     "symbol": "KYOKO",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/18981.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x14b40ad2eba6c1b31db2ba817b07578afb414415",
+    "name": "colR Coin",
+    "symbol": "COLR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/26701/thumb/colverse.jpeg?1659662193"
   },
   {
     "chainId": 1,
@@ -31220,6 +31235,14 @@
     "decimals": 18,
     "symbol": "$CITIZEN",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/11641.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Laika",
+    "address": "0x77f9cf0bd8c500cffdf420e72343893aecc2ec0b",
+    "decimals": 18,
+    "symbol": "LAIKA",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/21267.png"
   },
   {
     "chainId": 1,
@@ -73954,6 +73977,17 @@
   },
   {
     "chainId": 1,
+    "address": "0x0cec1a9154ff802e7934fc916ed7ca50bde6844e",
+    "name": "PoolTogether",
+    "symbol": "POOL",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/logos/pool.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
+    }
+  },
+  {
+    "chainId": 1,
     "address": "0x102e941b77bcaa7e35d368cafe51ef8f79c8d1ef",
     "name": "Theranos Coin",
     "symbol": "LIZ",
@@ -74360,6 +74394,28 @@
     }
   },
   {
+    "chainId": 1,
+    "address": "0xe41d2489571d322189246dafa5ebde1f4699f498",
+    "name": "0x Protocol Token",
+    "symbol": "ZRX",
+    "decimals": 18,
+    "logoURI": "https://github.com/0xProject/branding/blob/master/0x%20Icons/Circle/0x-Icon-Circle-White.png",
+    "extensions": {
+      "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
+    }
+  },
+  {
+    "chainId": 5,
+    "address": "0x51f44ca59b867e005e48fa573cb8df83fc7f7597",
+    "name": "Synthetix",
+    "symbol": "SNX",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/logos/SNX.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x1427Bc44755d9Aa317535B1feE38922760Aa4e65"
+    }
+  },
+  {
     "chainId": 10,
     "address": "0x00f932f0fe257456b32deda4758922e56a4f4b42",
     "name": "Paper",
@@ -74451,6 +74507,17 @@
     "symbol": "LINK",
     "decimals": 18,
     "logoURI": "https://ethereum-optimism.github.io/logos/LINK.png",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0x395ae52bb17aef68c2888d941736a71dc6d4e125",
+    "name": "PoolTogether",
+    "symbol": "POOL",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/logos/pool.svg",
     "extensions": {
       "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
     }
@@ -74854,6 +74921,17 @@
     "symbol": "SPANK",
     "decimals": 18,
     "logoURI": "https://ethereum-optimism.github.io/logos/spank.png",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0xd1917629b3e6a72e6772aab5dbe58eb7fa3c2f33",
+    "name": "0x Protocol Token",
+    "symbol": "ZRX",
+    "decimals": 18,
+    "logoURI": "https://github.com/0xProject/branding/blob/master/0x%20Icons/Circle/0x-Icon-Circle-White.png",
     "extensions": {
       "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
     }
@@ -75656,6 +75734,17 @@
     }
   },
   {
+    "chainId": 420,
+    "address": "0x2e5ed97596a8368eb9e44b1f3f25b2e813845303",
+    "name": "Synthetix",
+    "symbol": "SNX",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/logos/SNX.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0xD2b3F0Ea40dB68088415412b0043F37B3088836D"
+    }
+  },
+  {
     "address": "0x00400fcbf0816bebb94654259de7273f4a05c762",
     "name": "Poof",
     "symbol": "POOF",
@@ -76241,14 +76330,6 @@
   },
   {
     "chainId": 43113,
-    "address": "0x250bdca7d1845cd543bb55e7d82dca24d48e9f0f",
-    "decimals": 18,
-    "name": "Dragon Crypto Argenti",
-    "symbol": "DCAR",
-    "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x250bdca7D1845cd543BB55E7D82dcA24D48E9f0F/logo.png"
-  },
-  {
-    "chainId": 43113,
     "address": "0x73b4c0c45bfb90fc44d9013fa213ef2c2d908d0a",
     "decimals": 18,
     "name": "ChainLink Token",
@@ -76550,6 +76631,14 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/avalanche/0x237917E8a998b37759c8EE2fAa529D60c66c2927.jpg",
     "name": "Sifu",
     "symbol": "sifu"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x250bdca7d1845cd543bb55e7d82dca24d48e9f0f",
+    "decimals": 18,
+    "name": "Dragon Crypto Argenti",
+    "symbol": "DCAR",
+    "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x250bdca7D1845cd543BB55E7D82dcA24D48E9f0F/logo.png"
   },
   {
     "chainId": 43114,
