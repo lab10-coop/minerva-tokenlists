@@ -14008,11 +14008,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x350d3f0f41b5b21f0e252fe2645ae9d55562150a",
     "name": "BananaClubToken",
-    "symbol": "BCT",
+    "address": "0x350d3f0f41b5b21f0e252fe2645ae9d55562150a",
     "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/26634/thumb/IMG_20220729_203534_044.jpg?1659327556"
+    "symbol": "BCT",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/21325.png"
   },
   {
     "chainId": 1,
@@ -14109,6 +14109,14 @@
     "decimals": 18,
     "symbol": "SCC",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2618.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Metanept",
+    "address": "0x355a824bea1adc22733978a3748271e1bbb34130",
+    "decimals": 18,
+    "symbol": "NEPT",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/21319.png"
   },
   {
     "chainId": 1,
@@ -19911,14 +19919,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x4a9f00de5d8a244944313faee23849ff725e680d",
-    "name": "Science Chain",
-    "symbol": "SCC",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/10053/thumb/Science_Chain.png?1575354140"
-  },
-  {
-    "chainId": 1,
     "name": "XFai",
     "address": "0x4aa41bc1649c9c3177ed16caaa11482295fc7441",
     "decimals": 18,
@@ -22326,14 +22326,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x54735d716995071585a4f6ba341a6ded79756f09",
-    "name": "FLUXchain",
-    "symbol": "FLX",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/17019/thumb/flx.png?1639112673"
-  },
-  {
-    "chainId": 1,
     "name": "Taxa Token",
     "address": "0x547b2f82cecfab9c2b1d36fdda96ef9f58c63b8c",
     "decimals": 18,
@@ -23637,6 +23629,14 @@
     "decimals": 18,
     "symbol": "WOONK",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/5283.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Game Federation",
+    "address": "0x5a41290104b8f65ece9ed9d67a4d82f8080b7310",
+    "decimals": 18,
+    "symbol": "GFT",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/21335.png"
   },
   {
     "chainId": 1,
@@ -39055,6 +39055,14 @@
   },
   {
     "chainId": 1,
+    "name": "Thrupenny",
+    "address": "0x968cbe62c830a0ccf4381614662398505657a2a9",
+    "decimals": 8,
+    "symbol": "TPY",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/21320.png"
+  },
+  {
+    "chainId": 1,
     "name": "Newscrypto",
     "address": "0x968f6f898a6df937fc1859b323ac2f14643e3fed",
     "decimals": 18,
@@ -39397,6 +39405,14 @@
     "decimals": 18,
     "logoURI": "ipfs://QmVsio7dEozWzUvHKUNCMKb4uZ1b4HJNjr8pakxj9Xyk1L",
     "tags": []
+  },
+  {
+    "chainId": 1,
+    "address": "0x97fef38b79640ee95eaef250aaf8733c70007a58",
+    "name": "MemeNFT Official",
+    "symbol": "MNFT",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/26773/thumb/MNFT-ICON-NO-BAKGROUND.png?1660048771"
   },
   {
     "chainId": 1,
@@ -40490,6 +40506,14 @@
     "decimals": 18,
     "symbol": "TCR",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/12341.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x9c5673002d854de18e9f6feb7f9825f88c5bf1e4",
+    "name": "Terraform DAO",
+    "symbol": "TERRAFORM",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/26742/thumb/tf-logo-200x200.png?1660005166"
   },
   {
     "chainId": 1,
@@ -48842,6 +48866,14 @@
   },
   {
     "chainId": 1,
+    "name": "BuyMORE",
+    "address": "0xbeef3bb9da340ebdf0f5bae2e85368140d7d85d0",
+    "decimals": 18,
+    "symbol": "MORE",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/21339.png"
+  },
+  {
+    "chainId": 1,
     "name": "SPRINK",
     "address": "0xbef7cb91fe9cd57f0c60811b83ab5f8e0dab8795",
     "decimals": 8,
@@ -50370,6 +50402,14 @@
     "decimals": 18,
     "symbol": "CIT",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3292.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Redacted",
+    "address": "0xc55126051b22ebb829d00368f4b12bde432de5da",
+    "decimals": 18,
+    "symbol": "BTRFLY",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/21324.png"
   },
   {
     "chainId": 1,
@@ -52121,6 +52161,14 @@
     "decimals": 18,
     "symbol": "WEC",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/9247.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xcc1c0fbaecf0fe1c4703d77ec284cdf8a06253c5",
+    "name": "Catcher DAO",
+    "symbol": "CDAO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/26747/thumb/logo200.png?1660014948"
   },
   {
     "chainId": 1,
@@ -55266,6 +55314,14 @@
     "decimals": 9,
     "symbol": "ZORA",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7826.png"
+  },
+  {
+    "chainId": 1,
+    "name": "BulleX",
+    "address": "0xd8f78f74ebeef253c05ed2910b4863722849e95a",
+    "decimals": 18,
+    "symbol": "BLX",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/10939.png"
   },
   {
     "chainId": 1,
@@ -61950,14 +62006,6 @@
   },
   {
     "chainId": 1,
-    "address": "0xf434fc315977143c321a07406452a87ec62cb2d9",
-    "name": "CITIES Vault  NFTX ",
-    "symbol": "CITIES",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/18348/thumb/cities.png?1631603737"
-  },
-  {
-    "chainId": 1,
     "name": "inf4mation",
     "address": "0xf4397ed1458824b7d4845731dd08d573926275cc",
     "decimals": 18,
@@ -64645,6 +64693,14 @@
     "decimals": 16,
     "symbol": "KNT",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3086.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Kishiburbo",
+    "address": "0xff5c69e8edc6446a1898698adcf9b1149d5e0306",
+    "decimals": 6,
+    "symbol": "KISHIBURNO",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/21322.png"
   },
   {
     "chainId": 1,

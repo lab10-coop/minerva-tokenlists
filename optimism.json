@@ -232,6 +232,17 @@
   },
   {
     "chainId": 1,
+    "address": "0x6399c842dd2be3de30bf99bc7d1bbf6fa3650e70",
+    "name": "Premia",
+    "symbol": "PREMIA",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/logos/PREMIA.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x99c9fc46f92e8a1c0dec1b1747d010903e884be1"
+    }
+  },
+  {
+    "chainId": 1,
     "address": "0x69af81e73a73b40adf4f3d4223cd9b1ece623074",
     "name": "Mask Network",
     "symbol": "MASK",
@@ -619,6 +630,17 @@
     "symbol": "LINK",
     "decimals": 18,
     "logoURI": "https://ethereum-optimism.github.io/logos/LINK.png",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0x374ad0f47f4ca39c78e5cc54f1c9e426ff8f231a",
+    "name": "Premia",
+    "symbol": "PREMIA",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/logos/PREMIA.svg",
     "extensions": {
       "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
     }
