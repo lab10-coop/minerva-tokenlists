@@ -2488,6 +2488,14 @@
   },
   {
     "chainId": 1,
+    "name": "Crossing the Yellow Blocks",
+    "address": "0x097b9959bfcf715513ecd30c4b1fb469ef32b743",
+    "decimals": 18,
+    "symbol": "CBK",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/10733.png"
+  },
+  {
+    "chainId": 1,
     "name": "YFI3.money",
     "address": "0x09843b9137fc5935b7f3832152f9074db5d2d1ee",
     "decimals": 18,
@@ -2902,6 +2910,14 @@
     "symbol": "DC",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/24783/thumb/dc.png?1648903780"
+  },
+  {
+    "chainId": 1,
+    "name": "Shita-kiri Suzume",
+    "address": "0x0b452278223d3954f4ac050949d7998e373e7e43",
+    "decimals": 18,
+    "symbol": "SUZUME",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/21342.png"
   },
   {
     "chainId": 1,
@@ -8482,11 +8498,12 @@
   },
   {
     "chainId": 1,
-    "name": "Flashstake",
     "address": "0x20398ad62bb2d930646d45a6d4292baa0b860c1f",
-    "decimals": 18,
     "symbol": "FLASH",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/8627.png"
+    "name": "Flashstake",
+    "decimals": 18,
+    "logoURI": "ipfs://QmPJjT9B7nYXzNLFj4P3p8Yb8foevzKTKZ1qYpEVr9kwze",
+    "tags": []
   },
   {
     "chainId": 1,
@@ -9710,6 +9727,14 @@
     "decimals": 5,
     "symbol": "HNT",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/5422.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x250050acd30e382a39b00f2d172058160050a9e4",
+    "name": "The  k0de",
+    "symbol": "K0DE",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/26788/thumb/logo200x200.png?1660103280"
   },
   {
     "chainId": 1,
@@ -13733,6 +13758,15 @@
     "symbol": "SKY",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/26389/thumb/skytoken-logo-250.png?1657751762"
+  },
+  {
+    "chainId": 1,
+    "address": "0x33ebd390d986eb21fb91a5b72ee5ad8a1f40e43e",
+    "symbol": "CLIFFC",
+    "name": "Clifford Classic",
+    "decimals": 18,
+    "logoURI": "ipfs://QmatucWavYTY53PaSGg2wDPwBdMkBoddWxskakWwyK4NgP",
+    "tags": []
   },
   {
     "chainId": 1,
@@ -22860,14 +22894,6 @@
     "decimals": 18,
     "symbol": "DDTG",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/6671.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x56ce91f6e11d6319275f3a4abd2eb2b3df853fdd",
-    "name": "Flix",
-    "symbol": "FLIX",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/23561/thumb/kwlIFAJ.png?1644474208"
   },
   {
     "chainId": 1,
@@ -35023,11 +35049,11 @@
   },
   {
     "chainId": 1,
-    "name": "Crossing the Yellow Blocks",
     "address": "0x87761e886399ef8e1624cb0db3230b075a322c88",
-    "decimals": 18,
+    "name": "Crossing the Yellow Blocks",
     "symbol": "CBK",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/10733.png"
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/16809/thumb/78275134.png?1625138551"
   },
   {
     "chainId": 1,
@@ -41407,6 +41433,14 @@
     "decimals": 18,
     "symbol": "FEVR",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/10803.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x9fb9ec13a18eff7072ee8ca7ee7a2b295649e00d",
+    "name": "JAM Token",
+    "symbol": "JAM",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/26787/thumb/296706797_1760425707628456_5310396823145359110_n.jpg?1660102688"
   },
   {
     "chainId": 1,
@@ -48311,6 +48345,15 @@
     "decimals": 18,
     "symbol": "ALA",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/5384.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xbcc8ebabfd6ab52caa883ed8ebc45b7973700a29",
+    "symbol": "YBI",
+    "name": "Yubiai",
+    "decimals": 18,
+    "logoURI": "ipfs://QmWuNCbFG2vK21ikKYjUrFSXiysMxyaT9RNmQYyRrJSxMM",
+    "tags": []
   },
   {
     "chainId": 1,
@@ -57999,14 +58042,6 @@
   },
   {
     "chainId": 1,
-    "address": "0xe478d4f4a87d4d641af97ca0b5cc3db61e266357",
-    "name": "LUCKY",
-    "symbol": "LUCKY",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/11127/thumb/title-bg.png?1588737239"
-  },
-  {
-    "chainId": 1,
     "name": "ZKSpace",
     "address": "0xe4815ae53b124e7263f08dcdbbb757d41ed658c6",
     "decimals": 18,
@@ -59943,14 +59978,6 @@
   },
   {
     "chainId": 1,
-    "address": "0xec1b7eb3d3cfac7027fa60b5376e5eadef4f1300",
-    "name": "HZM Coin",
-    "symbol": "HZM",
-    "decimals": 8,
-    "logoURI": "https://assets.coingecko.com/coins/images/18032/thumb/hzm.PNG?1630296878"
-  },
-  {
-    "chainId": 1,
     "name": "Presearch",
     "address": "0xec213f83defb583af3a000b1c0ada660b1902a0f",
     "decimals": 18,
@@ -60734,6 +60761,14 @@
     "decimals": 18,
     "symbol": "FIS",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/5882.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xef497b970f50286a9805b91809b8615e6d0ef19b",
+    "name": "HARU",
+    "symbol": "HARU",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/26786/thumb/harulogo200px.png?1660101982"
   },
   {
     "chainId": 1,
