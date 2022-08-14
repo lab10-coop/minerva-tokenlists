@@ -289,6 +289,14 @@
   },
   {
     "chainId": 1,
+    "name": "CLOUT",
+    "address": "0x00c0831d5ad16a64024816ceecce03fdd1203dc0",
+    "decimals": 18,
+    "symbol": "CLOUT",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/9724.png"
+  },
+  {
+    "chainId": 1,
     "name": "Eximchain",
     "address": "0x00c4b398500645eb5da00a1a379a88b11683ba01",
     "decimals": 18,
@@ -4392,7 +4400,7 @@
   },
   {
     "chainId": 1,
-    "name": "DRAC Network",
+    "name": "Teddy Doge",
     "address": "0x10f6f2b97f3ab29583d9d38babf2994df7220c21",
     "decimals": 18,
     "symbol": "TEDDY",
@@ -6250,6 +6258,14 @@
     "decimals": 6,
     "symbol": "AAMMUSDT",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/10996.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Funex",
+    "address": "0x17aa074f0532a9faa19d3751dbf377247595a8ff",
+    "decimals": 18,
+    "symbol": "FUNEX",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/21349.png"
   },
   {
     "chainId": 1,
@@ -18596,11 +18612,11 @@
   },
   {
     "chainId": 1,
-    "name": "Supreme Finance",
     "address": "0x460b77e7ca31b73478fb1b9005a9a9a01f72fca3",
-    "decimals": 18,
+    "name": "Supreme Finance",
     "symbol": "HYPE",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/8130.png"
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/24675/thumb/8130.png?1648547739"
   },
   {
     "chainId": 1,
@@ -19007,7 +19023,7 @@
   {
     "chainId": 1,
     "address": "0x473037de59cf9484632f4a27b509cfe8d4a31404",
-    "name": "Green Satoshi Token on ETH",
+    "name": "STEPN Green Satoshi Token on ETH",
     "symbol": "GST-ETH",
     "decimals": 8,
     "logoURI": "https://assets.coingecko.com/coins/images/26528/thumb/gst_eth.png?1658487279"
@@ -26139,14 +26155,6 @@
   },
   {
     "chainId": 1,
-    "name": "Spume",
-    "address": "0x637b1c41e3e34a2b0c77beb57bcfee3c88cc50fc",
-    "decimals": 18,
-    "symbol": "SPUME",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/19460.png"
-  },
-  {
-    "chainId": 1,
     "address": "0x638155f4bd8f85d401da32498d8866ee39a150b8",
     "name": "Jurasaur",
     "symbol": "JREX",
@@ -29648,6 +29656,14 @@
     "decimals": 18,
     "symbol": "1PECO",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/16927.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x71921c08586295b0b68e44a78a2dca1e3f259721",
+    "name": "PonyDAO",
+    "symbol": "PNYD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/26843/thumb/ponydao.png?1660389977"
   },
   {
     "chainId": 1,
@@ -41910,6 +41926,14 @@
   },
   {
     "chainId": 1,
+    "name": "Spume",
+    "address": "0xa16a609ff4e1a15b6ccb469e7a5dd14e89305283",
+    "decimals": 18,
+    "symbol": "SPUME",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/19460.png"
+  },
+  {
+    "chainId": 1,
     "name": "DefiKing",
     "address": "0xa17de0ab0a97bc5e56fa8b39ebfc81cc3f1f349e",
     "decimals": 18,
@@ -45930,6 +45954,14 @@
     "decimals": 18,
     "symbol": "HIPUNKS",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/21308.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Flashstake",
+    "address": "0xb1f1f47061a7be15c69f378cb3f69423bd58f2f8",
+    "decimals": 18,
+    "symbol": "FLASH",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/8627.png"
   },
   {
     "chainId": 1,
@@ -53542,6 +53574,14 @@
   },
   {
     "chainId": 1,
+    "address": "0xd1be6c91352e5afca7c0db69eaa390dbcbfca762",
+    "name": "Liquinity",
+    "symbol": "LQNTY",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/26844/thumb/photo_5161276562430077559_x.jpg?1660391137"
+  },
+  {
+    "chainId": 1,
     "address": "0xd1c15cebfdcd16f00d91666bf64c8b66cbf5e9b5",
     "name": "RealT   10612 Somerset Ave  Detroit  MI",
     "symbol": "REALT-S-10612-SOMER",
@@ -60541,11 +60581,11 @@
   },
   {
     "chainId": 1,
-    "address": "0xeea509c221c5c6979e974f4501b4829be0ab2f8c",
     "name": "ENO",
-    "symbol": "ENO",
+    "address": "0xeea509c221c5c6979e974f4501b4829be0ab2f8c",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/26501/thumb/Eno_logo.png?1658364451"
+    "symbol": "ENO",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/21118.png"
   },
   {
     "chainId": 1,
@@ -63755,7 +63795,7 @@
     "chainId": 1,
     "name": "Hoge Finance",
     "address": "0xfad45e47083e4607302aa43c65fb3106f1cd7607",
-    "decimals": 9,
+    "decimals": 18,
     "symbol": "HOGE",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/8438.png"
   },
@@ -64732,7 +64772,7 @@
   },
   {
     "chainId": 1,
-    "name": "Kishiburbo",
+    "name": "Kishiburno",
     "address": "0xff5c69e8edc6446a1898698adcf9b1149d5e0306",
     "decimals": 6,
     "symbol": "KISHIBURNO",
