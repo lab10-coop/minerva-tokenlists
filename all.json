@@ -265,6 +265,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x00a7ec2f2b451cb0233e8adbf4c9a951027c2b02",
+    "name": "hiENS4",
+    "symbol": "HIENS4",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/26921/thumb/62f9ec6fd1c44e000102051d_MicrosoftTeams-image.png?1660817481"
+  },
+  {
+    "chainId": 1,
     "name": "AllianceBlock",
     "address": "0x00a8b738e453ffd858a7edf03bccfe20412f0eb0",
     "decimals": 18,
@@ -33939,6 +33947,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x83249c6794bca5a77eb8c0af9f1a86e055459cea",
+    "name": "GigaSwap",
+    "symbol": "GIGA",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/26919/thumb/final_62fcaacdbcc9640975d3fb7c_822256.png?1660815521"
+  },
+  {
+    "chainId": 1,
     "name": "OptiToken",
     "address": "0x832904863978b94802123106e6eb491bdf0df928",
     "decimals": 18,
@@ -56597,14 +56613,6 @@
   },
   {
     "chainId": 1,
-    "address": "0xde12c7959e1a72bbe8a5f7a1dc8f8eef9ab011b3",
-    "name": "DEI",
-    "symbol": "DEI",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/18779/thumb/DEI-logo-round-white-3.png?1646300101"
-  },
-  {
-    "chainId": 1,
     "name": "MagicCraft",
     "address": "0xde16ce60804a881e9f8c4ebb3824646edecd478d",
     "decimals": 18,
@@ -65067,18 +65075,6 @@
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/6743.png"
   },
   {
-    "chainId": 10,
-    "address": "0x9757d68a4273635c69d93b84ee3cdac2304dd467",
-    "name": "Super ETH",
-    "symbol": "ETHx",
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
-    "tags": [
-      "SuperToken",
-      "WrapperToken"
-    ]
-  },
-  {
     "name": "UniCrypt on xDai",
     "address": "0x0116e28b43a358162b96f70b4de14c98a4465f25",
     "symbol": "UNCX",
@@ -66143,6 +66139,18 @@
     "decimals": 18,
     "chainId": 100,
     "logoURI": "https://etherscan.io/token/images/unilayer_32.png"
+  },
+  {
+    "chainId": 100,
+    "address": "0x9757d68a4273635c69d93b84ee3cdac2304dd467",
+    "name": "Super ETH",
+    "symbol": "ETHx",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
+    "tags": [
+      "SuperToken",
+      "WrapperToken"
+    ]
   },
   {
     "name": "HiveShares from Ethereum",
