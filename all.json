@@ -11384,11 +11384,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x2b645a57e82123796c3ea7d78de27c3e3ff7f016",
     "name": "Meta Miner",
-    "symbol": "MINER",
+    "address": "0x2b645a57e82123796c3ea7d78de27c3e3ff7f016",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/26876/thumb/200x200.png?1660620947"
+    "symbol": "MINER",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/21421.png"
   },
   {
     "chainId": 1,
@@ -11432,11 +11432,11 @@
   },
   {
     "chainId": 1,
-    "name": "Lucky Block",
     "address": "0x2b867efd2de4ad2b583ca0cb3df9c4040ef4d329",
-    "decimals": 9,
+    "name": "Lucky Block",
     "symbol": "LBLOCK",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/17698.png"
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/23126/thumb/logo-200x200-LB-09.png?1643268144"
   },
   {
     "chainId": 1,
@@ -13276,14 +13276,6 @@
     "decimals": 8,
     "logoURI": "ipfs://QmfLMezwako33Jxx16wXf6ajNhUH71eEAaXZBcko7PbqFk",
     "tags": []
-  },
-  {
-    "chainId": 1,
-    "address": "0x3231cb76718cdef2155fc47b5286d82e6eda273f",
-    "name": "Monerium EUR emoney",
-    "symbol": "EURE",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/23354/thumb/eur.png?1643926562"
   },
   {
     "chainId": 1,
@@ -25296,6 +25288,14 @@
   },
   {
     "chainId": 1,
+    "name": "Mops",
+    "address": "0x602f65bb8b8098ad804e99db6760fd36208cd967",
+    "decimals": 18,
+    "symbol": "MOPS",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/21424.png"
+  },
+  {
+    "chainId": 1,
     "name": "eXciting Japan Coin",
     "address": "0x604026696fdb3c6720ae3049c46d59ac604dea0a",
     "decimals": 18,
@@ -36157,6 +36157,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x8af38d3530bbd802ff2d132ae361897aca004ec1",
+    "name": "PulseApeCoin",
+    "symbol": "PLSA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/26891/thumb/2022-08-15_16.40.06.jpg?1660706016"
+  },
+  {
+    "chainId": 1,
     "name": "MESSIER",
     "address": "0x8af5fedc0f263841c18f31d9dbcc97a47e1ab462",
     "decimals": 18,
@@ -36499,14 +36507,6 @@
     "decimals": 18,
     "symbol": "MOI",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/20633.png"
-  },
-  {
-    "chainId": 1,
-    "name": "Galaxy Heroes",
-    "address": "0x8c77057c3343b7dcc97ca21da274730396162a98",
-    "decimals": 18,
-    "symbol": "GHC",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/19651.png"
   },
   {
     "chainId": 1,
@@ -44031,6 +44031,14 @@
   },
   {
     "chainId": 1,
+    "address": "0xa9f9acb92e4e2f16410511d56839a5bd1d630a60",
+    "name": "BLOCK E",
+    "symbol": "BLOCK-E",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/26905/thumb/2022-08-16_19.15.08-removebg-preview.png?1660729886"
+  },
+  {
+    "chainId": 1,
     "name": "3x Short Bitcoin Cash Token",
     "address": "0xa9fc65da36064ce545e87690e06f5de10c52c690",
     "decimals": 18,
@@ -46066,6 +46074,14 @@
     "symbol": "MINDS",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/11517/thumb/Minds.png?1590580465"
+  },
+  {
+    "chainId": 1,
+    "name": "Sakura Planet",
+    "address": "0xb269ab3b20e09e6fd17c3ed5b4cecf3dea1a5141",
+    "decimals": 18,
+    "symbol": "SAK",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/21433.png"
   },
   {
     "chainId": 1,
@@ -48609,6 +48625,14 @@
     "decimals": 18,
     "symbol": "SAR",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/9250.png"
+  },
+  {
+    "chainId": 1,
+    "name": "STEED",
+    "address": "0xbd4b2dd8fbcecb2af5904ff5f218037b0f693275",
+    "decimals": 18,
+    "symbol": "STD",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/21431.png"
   },
   {
     "chainId": 1,
@@ -59584,6 +59608,14 @@
   },
   {
     "chainId": 1,
+    "name": "Fief Guild",
+    "address": "0xea068fba19ce95f12d252ad8cb2939225c4ea02d",
+    "decimals": 18,
+    "symbol": "FIEF",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/19000.png"
+  },
+  {
+    "chainId": 1,
     "name": "Upfiring",
     "address": "0xea097a2b1db00627b2fa17460ad260c016016977",
     "decimals": 18,
@@ -60216,7 +60248,7 @@
     "name": "Phoenix Protocol",
     "symbol": "PP",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/26883/thumb/photo_2022-05-03_11-27-19.jpg?1660647442"
+    "logoURI": "https://assets.coingecko.com/coins/images/26883/thumb/NEW-PHOENIX-LOGO-200x200.png?1660708389"
   },
   {
     "chainId": 1,
@@ -74167,11 +74199,22 @@
   },
   {
     "chainId": 1,
+    "address": "0x0000000000000000000000000000000000000000",
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/ETH/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
+    }
+  },
+  {
+    "chainId": 1,
     "address": "0x0000000000085d4780b73119b644ae5ecd22b376",
     "name": "TrueUSD",
     "symbol": "TUSD",
     "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/logos/TUSD.png",
+    "logoURI": "https://ethereum-optimism.github.io/data/TUSD/logo.png",
     "extensions": {
       "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
     }
@@ -74182,7 +74225,7 @@
     "name": "Lyra",
     "symbol": "LYRA",
     "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/logos/LYRA.png",
+    "logoURI": "https://ethereum-optimism.github.io/data/LYRA/logo.png",
     "extensions": {
       "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
     }
@@ -74193,7 +74236,7 @@
     "name": "BarnBridge Governance Token",
     "symbol": "BOND",
     "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/logos/BOND.svg",
+    "logoURI": "https://ethereum-optimism.github.io/data/BOND/logo.svg",
     "extensions": {
       "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
     }
@@ -74204,7 +74247,7 @@
     "name": "Rai Reflex Index",
     "symbol": "RAI",
     "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/logos/RAI.svg",
+    "logoURI": "https://ethereum-optimism.github.io/data/RAI/logo.svg",
     "extensions": {
       "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
     }
@@ -74215,7 +74258,7 @@
     "name": "UMA Voting Token v1",
     "symbol": "UMA",
     "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/logos/UMA.png",
+    "logoURI": "https://ethereum-optimism.github.io/data/UMA/logo.png",
     "extensions": {
       "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
     }
@@ -74226,7 +74269,7 @@
     "name": "Dentacoin",
     "symbol": "DCN",
     "decimals": 0,
-    "logoURI": "https://ethereum-optimism.github.io/logos/dcn.svg",
+    "logoURI": "https://ethereum-optimism.github.io/data/DCN/logo.svg",
     "extensions": {
       "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
     }
@@ -74237,7 +74280,7 @@
     "name": "dForce USD",
     "symbol": "USX",
     "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/logos/USX.svg",
+    "logoURI": "https://ethereum-optimism.github.io/data/USX/logo.svg",
     "extensions": {
       "optimismBridgeAddress": "0xC5b1EC605738eF73a4EFc562274c1c0b6609cF59"
     }
@@ -74248,7 +74291,7 @@
     "name": "Decentralized USD",
     "symbol": "USDD",
     "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/logos/USDD.png",
+    "logoURI": "https://ethereum-optimism.github.io/data/USDD/logo.png",
     "extensions": {
       "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
     }
@@ -74259,7 +74302,7 @@
     "name": "PoolTogether",
     "symbol": "POOL",
     "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/logos/pool.svg",
+    "logoURI": "https://ethereum-optimism.github.io/data/POOL/logo.svg",
     "extensions": {
       "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
     }
@@ -74270,7 +74313,7 @@
     "name": "Theranos Coin",
     "symbol": "LIZ",
     "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/logos/LIZ.png",
+    "logoURI": "https://ethereum-optimism.github.io/data/LIZ/logo.png",
     "extensions": {
       "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
     }
@@ -74281,7 +74324,7 @@
     "name": "BitANT",
     "symbol": "BitANT",
     "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/logos/BitANT.png",
+    "logoURI": "https://ethereum-optimism.github.io/data/BitANT/logo.png",
     "extensions": {
       "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
     }
@@ -74292,7 +74335,7 @@
     "name": "Equalizer",
     "symbol": "EQZ",
     "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/logos/EQZ.png",
+    "logoURI": "https://ethereum-optimism.github.io/data/EQZ/logo.png",
     "extensions": {
       "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
     }
@@ -74303,7 +74346,7 @@
     "name": "Uniswap",
     "symbol": "UNI",
     "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/logos/UNI.png",
+    "logoURI": "https://ethereum-optimism.github.io/data/UNI/logo.png",
     "extensions": {
       "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
     }
@@ -74314,7 +74357,7 @@
     "name": "Wrapped Bitcoin",
     "symbol": "WBTC",
     "decimals": 8,
-    "logoURI": "https://ethereum-optimism.github.io/logos/WBTC.svg",
+    "logoURI": "https://ethereum-optimism.github.io/data/WBTC/logo.svg",
     "extensions": {
       "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
     }
@@ -74325,7 +74368,7 @@
     "name": "Erica Social Token",
     "symbol": "EST",
     "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/logos/EST.png",
+    "logoURI": "https://ethereum-optimism.github.io/data/EST/logo.png",
     "extensions": {
       "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
     }
@@ -74336,7 +74379,7 @@
     "name": "Kromatika",
     "symbol": "KROM",
     "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/logos/KROM.png",
+    "logoURI": "https://ethereum-optimism.github.io/data/KROM/logo.png",
     "extensions": {
       "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
     }
@@ -74347,7 +74390,7 @@
     "name": "BitBTC",
     "symbol": "BitBTC",
     "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/logos/BitBTC.png",
+    "logoURI": "https://ethereum-optimism.github.io/data/BitBTC/logo.png",
     "extensions": {
       "optimismBridgeAddress": "0xaBA2c5F108F7E820C049D5Af70B16ac266c8f128"
     }
@@ -74358,7 +74401,7 @@
     "name": "SPANK",
     "symbol": "SPANK",
     "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/logos/spank.png",
+    "logoURI": "https://ethereum-optimism.github.io/data/SPANK/logo.png",
     "extensions": {
       "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
     }
@@ -74369,7 +74412,7 @@
     "name": "dForce",
     "symbol": "DF",
     "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/logos/DF.svg",
+    "logoURI": "https://ethereum-optimism.github.io/data/DF/logo.svg",
     "extensions": {
       "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
     }
@@ -74380,7 +74423,7 @@
     "name": "Chainlink",
     "symbol": "LINK",
     "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/logos/LINK.png",
+    "logoURI": "https://ethereum-optimism.github.io/data/LINK/logo.png",
     "extensions": {
       "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
     }
@@ -74391,7 +74434,7 @@
     "name": "LUSD Stablecoin",
     "symbol": "LUSD",
     "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/logos/LUSD.svg",
+    "logoURI": "https://ethereum-optimism.github.io/data/LUSD/logo.svg",
     "extensions": {
       "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
     }
@@ -74402,9 +74445,9 @@
     "name": "Premia",
     "symbol": "PREMIA",
     "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/logos/PREMIA.svg",
+    "logoURI": "https://ethereum-optimism.github.io/data/PREMIA/logo.svg",
     "extensions": {
-      "optimismBridgeAddress": "0x99c9fc46f92e8a1c0dec1b1747d010903e884be1"
+      "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
     }
   },
   {
@@ -74413,7 +74456,7 @@
     "name": "Mask Network",
     "symbol": "MASK",
     "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/logos/MASK.svg",
+    "logoURI": "https://ethereum-optimism.github.io/data/MASK/logo.svg",
     "extensions": {
       "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
     }
@@ -74424,7 +74467,7 @@
     "name": "Dai stable coin",
     "symbol": "DAI",
     "decimals": 18,
-    "logoURI": "https://cryptologos.cc/logos/multi-collateral-dai-dai-logo.svg?v=010",
+    "logoURI": "https://ethereum-optimism.github.io/data/DAI/logo.svg",
     "extensions": {
       "optimismBridgeAddress": "0x10E6593CDda8c58a1d0f14C5164B376352a55f2F"
     }
@@ -74435,7 +74478,7 @@
     "name": "Sarcophagus",
     "symbol": "SARCO",
     "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/logos/sarcophagus.png",
+    "logoURI": "https://ethereum-optimism.github.io/data/SARCO/logo.png",
     "extensions": {
       "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
     }
@@ -74446,7 +74489,7 @@
     "name": "Paper",
     "symbol": "PAPER",
     "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/logos/PAPER.svg",
+    "logoURI": "https://ethereum-optimism.github.io/data/PAPER/logo.svg",
     "extensions": {
       "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
     }
@@ -74457,7 +74500,7 @@
     "name": "Aave Token",
     "symbol": "AAVE",
     "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/logos/AAVE.svg",
+    "logoURI": "https://ethereum-optimism.github.io/data/AAVE/logo.svg",
     "extensions": {
       "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
     }
@@ -74468,7 +74511,7 @@
     "name": "Dola USD Stablecoin",
     "symbol": "DOLA",
     "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/logos/DOLA.png",
+    "logoURI": "https://ethereum-optimism.github.io/data/DOLA/logo.png",
     "extensions": {
       "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
     }
@@ -74479,7 +74522,7 @@
     "name": "Optimistic Thales Token",
     "symbol": "THALES",
     "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/logos/THALES.png",
+    "logoURI": "https://ethereum-optimism.github.io/data/THALES/logo.png",
     "extensions": {
       "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
     }
@@ -74490,7 +74533,7 @@
     "name": "Maker",
     "symbol": "MKR",
     "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/logos/MKR.png",
+    "logoURI": "https://ethereum-optimism.github.io/data/MKR/logo.png",
     "extensions": {
       "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
     }
@@ -74501,7 +74544,7 @@
     "name": "USD Coin",
     "symbol": "USDC",
     "decimals": 6,
-    "logoURI": "https://ethereum-optimism.github.io/logos/USDC.png",
+    "logoURI": "https://ethereum-optimism.github.io/data/USDC/logo.png",
     "extensions": {
       "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
     }
@@ -74512,7 +74555,7 @@
     "name": "UST (Wormhole)",
     "symbol": "UST",
     "decimals": 6,
-    "logoURI": "https://ethereum-optimism.github.io/logos/UST.png",
+    "logoURI": "https://ethereum-optimism.github.io/data/UST/logo.png",
     "extensions": {
       "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
     }
@@ -74523,7 +74566,7 @@
     "name": "Rocket Pool ETH",
     "symbol": "rETH",
     "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/logos/rETH.png",
+    "logoURI": "https://ethereum-optimism.github.io/data/rETH/logo.png",
     "extensions": {
       "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
     }
@@ -74534,7 +74577,7 @@
     "name": "CryptoFranc",
     "symbol": "XCHF",
     "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/logos/XCHF.png",
+    "logoURI": "https://ethereum-optimism.github.io/data/XCHF/logo.png",
     "extensions": {
       "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
     }
@@ -74545,7 +74588,7 @@
     "name": "0xBitcoin",
     "symbol": "0xBTC",
     "decimals": 8,
-    "logoURI": "https://ethereum-optimism.github.io/logos/0xBTC.png",
+    "logoURI": "https://ethereum-optimism.github.io/data/0xBTC/logo.png",
     "extensions": {
       "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
     }
@@ -74556,7 +74599,7 @@
     "name": "Balancer",
     "symbol": "BAL",
     "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/logos/BAL.png",
+    "logoURI": "https://ethereum-optimism.github.io/data/BAL/logo.png",
     "extensions": {
       "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
     }
@@ -74567,7 +74610,7 @@
     "name": "TheDAO",
     "symbol": "TheDAO",
     "decimals": 16,
-    "logoURI": "https://ethereum-optimism.github.io/logos/theDAO.svg",
+    "logoURI": "https://ethereum-optimism.github.io/data/TheDAO/logo.svg",
     "extensions": {
       "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
     }
@@ -74578,7 +74621,7 @@
     "name": "LoopringCoin V2",
     "symbol": "LRC",
     "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/logos/LRC.png",
+    "logoURI": "https://ethereum-optimism.github.io/data/LRC/logo.png",
     "extensions": {
       "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
     }
@@ -74589,7 +74632,7 @@
     "name": "Perpetual",
     "symbol": "PERP",
     "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/logos/PERP.png",
+    "logoURI": "https://ethereum-optimism.github.io/data/PERP/logo.png",
     "extensions": {
       "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
     }
@@ -74600,7 +74643,7 @@
     "name": "Geyser",
     "symbol": "GYSR",
     "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/logos/GYSR.png",
+    "logoURI": "https://ethereum-optimism.github.io/data/GYSR/logo.png",
     "extensions": {
       "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
     }
@@ -74611,7 +74654,7 @@
     "name": "Synthetix",
     "symbol": "SNX",
     "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/logos/SNX.svg",
+    "logoURI": "https://ethereum-optimism.github.io/data/SNX/logo.svg",
     "extensions": {
       "optimismBridgeAddress": "0x39Ea01a0298C315d149a490E34B59Dbf2EC7e48F"
     }
@@ -74622,7 +74665,7 @@
     "name": "Ethereum Name Service",
     "symbol": "ENS",
     "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/logos/ENS.png",
+    "logoURI": "https://ethereum-optimism.github.io/data/ENS/logo.png",
     "extensions": {
       "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
     }
@@ -74633,7 +74676,7 @@
     "name": "dHEDGE DAO Token",
     "symbol": "DHT",
     "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/logos/DHT.svg",
+    "logoURI": "https://ethereum-optimism.github.io/data/DHT/logo.svg",
     "extensions": {
       "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
     }
@@ -74644,7 +74687,7 @@
     "name": "Rari Governance Token",
     "symbol": "RGT",
     "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/logos/RGT.png",
+    "logoURI": "https://ethereum-optimism.github.io/data/RGT/logo.png",
     "extensions": {
       "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
     }
@@ -74655,7 +74698,7 @@
     "name": "Curve DAO Token",
     "symbol": "CRV",
     "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/logos/CRV.png",
+    "logoURI": "https://ethereum-optimism.github.io/data/CRV/logo.png",
     "extensions": {
       "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
     }
@@ -74666,7 +74709,7 @@
     "name": "Tether USD",
     "symbol": "USDT",
     "decimals": 6,
-    "logoURI": "https://ethereum-optimism.github.io/logos/USDT.png",
+    "logoURI": "https://ethereum-optimism.github.io/data/USDT/logo.png",
     "extensions": {
       "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
     }
@@ -74677,7 +74720,7 @@
     "name": "Gitcoin",
     "symbol": "GTC",
     "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/logos/GTC.svg",
+    "logoURI": "https://ethereum-optimism.github.io/data/GTC/logo.svg",
     "extensions": {
       "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
     }
@@ -74688,7 +74731,7 @@
     "name": "0x Protocol Token",
     "symbol": "ZRX",
     "decimals": 18,
-    "logoURI": "https://github.com/0xProject/branding/blob/master/0x%20Icons/Circle/0x-Icon-Circle-White.png",
+    "logoURI": "https://ethereum-optimism.github.io/data/ZRX/logo.png",
     "extensions": {
       "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
     }
@@ -74699,7 +74742,7 @@
     "name": "Synthetix",
     "symbol": "SNX",
     "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/logos/SNX.svg",
+    "logoURI": "https://ethereum-optimism.github.io/data/SNX/logo.svg",
     "extensions": {
       "optimismBridgeAddress": "0x1427Bc44755d9Aa317535B1feE38922760Aa4e65"
     }
@@ -74710,7 +74753,7 @@
     "name": "Paper",
     "symbol": "PAPER",
     "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/logos/PAPER.svg",
+    "logoURI": "https://ethereum-optimism.github.io/data/PAPER/logo.svg",
     "extensions": {
       "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
     }
@@ -74721,7 +74764,7 @@
     "name": "Curve DAO Token",
     "symbol": "CRV",
     "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/logos/CRV.png",
+    "logoURI": "https://ethereum-optimism.github.io/data/CRV/logo.png",
     "extensions": {
       "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
     }
@@ -74732,7 +74775,7 @@
     "name": "Geyser",
     "symbol": "GYSR",
     "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/logos/GYSR.png",
+    "logoURI": "https://ethereum-optimism.github.io/data/GYSR/logo.png",
     "extensions": {
       "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
     }
@@ -74743,7 +74786,7 @@
     "name": "Dentacoin",
     "symbol": "DCN",
     "decimals": 0,
-    "logoURI": "https://ethereum-optimism.github.io/logos/dcn.svg",
+    "logoURI": "https://ethereum-optimism.github.io/data/DCN/logo.svg",
     "extensions": {
       "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
     }
@@ -74754,7 +74797,7 @@
     "name": "Gitcoin",
     "symbol": "GTC",
     "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/logos/GTC.svg",
+    "logoURI": "https://ethereum-optimism.github.io/data/GTC/logo.svg",
     "extensions": {
       "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
     }
@@ -74765,7 +74808,7 @@
     "name": "Optimistic Thales Token",
     "symbol": "THALES",
     "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/logos/THALES.png",
+    "logoURI": "https://ethereum-optimism.github.io/data/THALES/logo.png",
     "extensions": {
       "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
     }
@@ -74776,7 +74819,10 @@
     "name": "Synthetic Bitcoin",
     "symbol": "sBTC",
     "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/logos/sBTC.svg"
+    "logoURI": "https://ethereum-optimism.github.io/data/sBTC/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+    }
   },
   {
     "chainId": 10,
@@ -74784,7 +74830,7 @@
     "name": "Mask Network",
     "symbol": "MASK",
     "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/logos/MASK.svg",
+    "logoURI": "https://ethereum-optimism.github.io/data/MASK/logo.svg",
     "extensions": {
       "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
     }
@@ -74795,7 +74841,7 @@
     "name": "Chainlink",
     "symbol": "LINK",
     "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/logos/LINK.png",
+    "logoURI": "https://ethereum-optimism.github.io/data/LINK/logo.png",
     "extensions": {
       "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
     }
@@ -74806,7 +74852,7 @@
     "name": "Premia",
     "symbol": "PREMIA",
     "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/logos/PREMIA.svg",
+    "logoURI": "https://ethereum-optimism.github.io/data/PREMIA/logo.svg",
     "extensions": {
       "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
     }
@@ -74817,7 +74863,7 @@
     "name": "PoolTogether",
     "symbol": "POOL",
     "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/logos/pool.svg",
+    "logoURI": "https://ethereum-optimism.github.io/data/POOL/logo.svg",
     "extensions": {
       "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
     }
@@ -74828,7 +74874,7 @@
     "name": "Theranos Coin",
     "symbol": "LIZ",
     "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/logos/LIZ.png",
+    "logoURI": "https://ethereum-optimism.github.io/data/LIZ/logo.png",
     "extensions": {
       "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
     }
@@ -74839,7 +74885,7 @@
     "name": "BarnBridge Governance Token",
     "symbol": "BOND",
     "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/logos/BOND.svg",
+    "logoURI": "https://ethereum-optimism.github.io/data/BOND/logo.svg",
     "extensions": {
       "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
     }
@@ -74858,7 +74904,10 @@
     "name": "Optimism",
     "symbol": "OP",
     "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/logos/OP.png"
+    "logoURI": "https://ethereum-optimism.github.io/data/OP/logo.png",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+    }
   },
   {
     "chainId": 10,
@@ -74878,7 +74927,7 @@
     "name": "BitANT",
     "symbol": "BitANT",
     "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/logos/BitANT.png",
+    "logoURI": "https://ethereum-optimism.github.io/data/BitANT/logo.png",
     "extensions": {
       "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
     }
@@ -74889,7 +74938,7 @@
     "name": "Lyra",
     "symbol": "LYRA",
     "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/logos/LYRA.png",
+    "logoURI": "https://ethereum-optimism.github.io/data/LYRA/logo.png",
     "extensions": {
       "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
     }
@@ -74900,7 +74949,10 @@
     "name": "Aelin Protocol",
     "symbol": "AELIN",
     "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/logos/AELIN.png"
+    "logoURI": "https://ethereum-optimism.github.io/data/AELIN/logo.png",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+    }
   },
   {
     "chainId": 10,
@@ -74908,7 +74960,7 @@
     "name": "Ethereum Name Service",
     "symbol": "ENS",
     "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/logos/ENS.png",
+    "logoURI": "https://ethereum-optimism.github.io/data/ENS/logo.png",
     "extensions": {
       "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
     }
@@ -74919,7 +74971,7 @@
     "name": "Wrapped Bitcoin",
     "symbol": "WBTC",
     "decimals": 8,
-    "logoURI": "https://ethereum-optimism.github.io/logos/WBTC.svg",
+    "logoURI": "https://ethereum-optimism.github.io/data/WBTC/logo.svg",
     "extensions": {
       "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
     }
@@ -74930,7 +74982,7 @@
     "name": "Uniswap",
     "symbol": "UNI",
     "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/logos/UNI.png",
+    "logoURI": "https://ethereum-optimism.github.io/data/UNI/logo.png",
     "extensions": {
       "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
     }
@@ -74941,7 +74993,7 @@
     "name": "Decentralized USD",
     "symbol": "USDD",
     "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/logos/USDD.png",
+    "logoURI": "https://ethereum-optimism.github.io/data/USDD/logo.png",
     "extensions": {
       "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
     }
@@ -74952,7 +75004,7 @@
     "name": "Aave Token",
     "symbol": "AAVE",
     "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/logos/AAVE.svg",
+    "logoURI": "https://ethereum-optimism.github.io/data/AAVE/logo.svg",
     "extensions": {
       "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
     }
@@ -74963,7 +75015,7 @@
     "name": "Erica Social Token",
     "symbol": "EST",
     "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/logos/EST.png",
+    "logoURI": "https://ethereum-optimism.github.io/data/EST/logo.png",
     "extensions": {
       "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
     }
@@ -74974,7 +75026,7 @@
     "name": "Sarcophagus",
     "symbol": "SARCO",
     "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/logos/sarcophagus.png",
+    "logoURI": "https://ethereum-optimism.github.io/data/SARCO/logo.png",
     "extensions": {
       "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
     }
@@ -75005,7 +75057,7 @@
     "name": "Rai Reflex Index",
     "symbol": "RAI",
     "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/logos/RAI.svg",
+    "logoURI": "https://ethereum-optimism.github.io/data/RAI/logo.svg",
     "extensions": {
       "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
     }
@@ -75016,7 +75068,7 @@
     "name": "Equalizer",
     "symbol": "EQZ",
     "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/logos/EQZ.png",
+    "logoURI": "https://ethereum-optimism.github.io/data/EQZ/logo.png",
     "extensions": {
       "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
     }
@@ -75039,7 +75091,7 @@
     "name": "Synthetix",
     "symbol": "SNX",
     "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/logos/SNX.svg",
+    "logoURI": "https://ethereum-optimism.github.io/data/SNX/logo.svg",
     "extensions": {
       "optimismBridgeAddress": "0x136b1EC699c62b0606854056f02dC7Bb80482d63"
     }
@@ -75050,7 +75102,7 @@
     "name": "Dola USD Stablecoin",
     "symbol": "DOLA",
     "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/logos/DOLA.png",
+    "logoURI": "https://ethereum-optimism.github.io/data/DOLA/logo.png",
     "extensions": {
       "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
     }
@@ -75061,7 +75113,10 @@
     "name": "Synthetix USD",
     "symbol": "sUSD",
     "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/logos/sUSD.svg"
+    "logoURI": "https://ethereum-optimism.github.io/data/sUSD/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+    }
   },
   {
     "chainId": 10,
@@ -75069,7 +75124,7 @@
     "name": "Tether USD",
     "symbol": "USDT",
     "decimals": 6,
-    "logoURI": "https://ethereum-optimism.github.io/logos/USDT.png",
+    "logoURI": "https://ethereum-optimism.github.io/data/USDT/logo.png",
     "extensions": {
       "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
     }
@@ -75080,7 +75135,7 @@
     "name": "Rocket Pool ETH",
     "symbol": "rETH",
     "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/logos/rETH.png",
+    "logoURI": "https://ethereum-optimism.github.io/data/rETH/logo.png",
     "extensions": {
       "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
     }
@@ -75091,7 +75146,7 @@
     "name": "Perpetual",
     "symbol": "PERP",
     "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/logos/PERP.png",
+    "logoURI": "https://ethereum-optimism.github.io/data/PERP/logo.png",
     "extensions": {
       "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
     }
@@ -75102,7 +75157,7 @@
     "name": "dForce",
     "symbol": "DF",
     "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/logos/DF.svg",
+    "logoURI": "https://ethereum-optimism.github.io/data/DF/logo.svg",
     "extensions": {
       "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
     }
@@ -75113,7 +75168,7 @@
     "name": "Maker",
     "symbol": "MKR",
     "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/logos/MKR.png",
+    "logoURI": "https://ethereum-optimism.github.io/data/MKR/logo.png",
     "extensions": {
       "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
     }
@@ -75124,7 +75179,7 @@
     "name": "dHEDGE DAO Token",
     "symbol": "DHT",
     "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/logos/DHT.svg",
+    "logoURI": "https://ethereum-optimism.github.io/data/DHT/logo.svg",
     "extensions": {
       "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
     }
@@ -75135,7 +75190,7 @@
     "name": "Rari Governance Token",
     "symbol": "RGT",
     "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/logos/RGT.png",
+    "logoURI": "https://ethereum-optimism.github.io/data/RGT/logo.png",
     "extensions": {
       "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
     }
@@ -75146,7 +75201,7 @@
     "name": "UST (Wormhole)",
     "symbol": "UST",
     "decimals": 6,
-    "logoURI": "https://ethereum-optimism.github.io/logos/UST.png",
+    "logoURI": "https://ethereum-optimism.github.io/data/UST/logo.png",
     "extensions": {
       "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
     }
@@ -75168,7 +75223,7 @@
     "name": "dForce USD",
     "symbol": "USX",
     "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/logos/USX.svg",
+    "logoURI": "https://ethereum-optimism.github.io/data/USX/logo.svg",
     "extensions": {
       "optimismBridgeAddress": "0xc76cbFbAfD41761279E3EDb23Fd831Ccb74D5D67"
     }
@@ -75179,7 +75234,7 @@
     "name": "LUSD Stablecoin",
     "symbol": "LUSD",
     "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/logos/LUSD.svg",
+    "logoURI": "https://ethereum-optimism.github.io/data/LUSD/logo.svg",
     "extensions": {
       "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
     }
@@ -75190,7 +75245,10 @@
     "name": "Synthetic Chainlink",
     "symbol": "sLINK",
     "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/logos/sLINK.svg"
+    "logoURI": "https://ethereum-optimism.github.io/data/sLINK/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+    }
   },
   {
     "chainId": 10,
@@ -75198,7 +75256,7 @@
     "name": "BitBTC",
     "symbol": "BitBTC",
     "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/logos/BitBTC.png",
+    "logoURI": "https://ethereum-optimism.github.io/data/BitBTC/logo.png",
     "extensions": {
       "optimismBridgeAddress": "0x158F513096923fF2d3aab2BcF4478536de6725e2"
     }
@@ -75209,7 +75267,7 @@
     "name": "TrueUSD",
     "symbol": "TUSD",
     "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/logos/TUSD.png",
+    "logoURI": "https://ethereum-optimism.github.io/data/TUSD/logo.png",
     "extensions": {
       "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
     }
@@ -75220,7 +75278,7 @@
     "name": "SPANK",
     "symbol": "SPANK",
     "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/logos/spank.png",
+    "logoURI": "https://ethereum-optimism.github.io/data/SPANK/logo.png",
     "extensions": {
       "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
     }
@@ -75231,7 +75289,7 @@
     "name": "0x Protocol Token",
     "symbol": "ZRX",
     "decimals": 18,
-    "logoURI": "https://github.com/0xProject/branding/blob/master/0x%20Icons/Circle/0x-Icon-Circle-White.png",
+    "logoURI": "https://ethereum-optimism.github.io/data/ZRX/logo.png",
     "extensions": {
       "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
     }
@@ -75242,7 +75300,7 @@
     "name": "TheDAO",
     "symbol": "TheDAO",
     "decimals": 16,
-    "logoURI": "https://ethereum-optimism.github.io/logos/theDAO.svg",
+    "logoURI": "https://ethereum-optimism.github.io/data/TheDAO/logo.svg",
     "extensions": {
       "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
     }
@@ -75253,9 +75311,20 @@
     "name": "Dai stable coin",
     "symbol": "DAI",
     "decimals": 18,
-    "logoURI": "https://cryptologos.cc/logos/multi-collateral-dai-dai-logo.svg?v=010",
+    "logoURI": "https://ethereum-optimism.github.io/data/DAI/logo.svg",
     "extensions": {
       "optimismBridgeAddress": "0x467194771dAe2967Aef3ECbEDD3Bf9a310C76C65"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0xdeaddeaddeaddeaddeaddeaddeaddeaddead0000",
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/ETH/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
     }
   },
   {
@@ -75264,7 +75333,7 @@
     "name": "0xBitcoin",
     "symbol": "0xBTC",
     "decimals": 8,
-    "logoURI": "https://ethereum-optimism.github.io/logos/0xBTC.png",
+    "logoURI": "https://ethereum-optimism.github.io/data/0xBTC/logo.png",
     "extensions": {
       "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
     }
@@ -75275,7 +75344,10 @@
     "name": "Synthetic Ether",
     "symbol": "sETH",
     "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/logos/sETH.svg"
+    "logoURI": "https://ethereum-optimism.github.io/data/sETH/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+    }
   },
   {
     "chainId": 10,
@@ -75283,7 +75355,7 @@
     "name": "CryptoFranc",
     "symbol": "XCHF",
     "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/logos/XCHF.png",
+    "logoURI": "https://ethereum-optimism.github.io/data/XCHF/logo.png",
     "extensions": {
       "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
     }
@@ -75294,7 +75366,7 @@
     "name": "UMA Voting Token v1",
     "symbol": "UMA",
     "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/logos/UMA.png",
+    "logoURI": "https://ethereum-optimism.github.io/data/UMA/logo.png",
     "extensions": {
       "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
     }
@@ -75305,7 +75377,7 @@
     "name": "Kromatika",
     "symbol": "KROM",
     "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/logos/KROM.png",
+    "logoURI": "https://ethereum-optimism.github.io/data/KROM/logo.png",
     "extensions": {
       "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
     }
@@ -75316,7 +75388,7 @@
     "name": "Balancer",
     "symbol": "BAL",
     "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/logos/BAL.png",
+    "logoURI": "https://ethereum-optimism.github.io/data/BAL/logo.png",
     "extensions": {
       "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
     }
@@ -75327,9 +75399,20 @@
     "name": "LoopringCoin V2",
     "symbol": "LRC",
     "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/logos/LRC.png",
+    "logoURI": "https://ethereum-optimism.github.io/data/LRC/logo.png",
     "extensions": {
       "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+    }
+  },
+  {
+    "chainId": 42,
+    "address": "0x0000000000000000000000000000000000000000",
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/ETH/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x22F24361D548e5FaAfb36d1437839f080363982B"
     }
   },
   {
@@ -75338,7 +75421,7 @@
     "name": "Dentacoin",
     "symbol": "DCN",
     "decimals": 0,
-    "logoURI": "https://ethereum-optimism.github.io/logos/dcn.svg",
+    "logoURI": "https://ethereum-optimism.github.io/data/DCN/logo.svg",
     "extensions": {
       "optimismBridgeAddress": "0x22F24361D548e5FaAfb36d1437839f080363982B"
     }
@@ -75349,7 +75432,7 @@
     "name": "Perpetual",
     "symbol": "PERP",
     "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/logos/PERP.png",
+    "logoURI": "https://ethereum-optimism.github.io/data/PERP/logo.png",
     "extensions": {
       "optimismBridgeAddress": "0x22F24361D548e5FaAfb36d1437839f080363982B"
     }
@@ -75360,7 +75443,7 @@
     "name": "Kromatika",
     "symbol": "KROM",
     "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/logos/KROM.png",
+    "logoURI": "https://ethereum-optimism.github.io/data/KROM/logo.png",
     "extensions": {
       "optimismBridgeAddress": "0x22F24361D548e5FaAfb36d1437839f080363982B"
     }
@@ -75371,7 +75454,7 @@
     "name": "TrueUSD",
     "symbol": "TUSD",
     "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/logos/TUSD.png",
+    "logoURI": "https://ethereum-optimism.github.io/data/TUSD/logo.png",
     "extensions": {
       "optimismBridgeAddress": "0x22F24361D548e5FaAfb36d1437839f080363982B"
     }
@@ -75382,7 +75465,7 @@
     "name": "Uniswap",
     "symbol": "UNI",
     "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/logos/UNI.png",
+    "logoURI": "https://ethereum-optimism.github.io/data/UNI/logo.png",
     "extensions": {
       "optimismBridgeAddress": "0x22F24361D548e5FaAfb36d1437839f080363982B"
     }
@@ -75393,7 +75476,7 @@
     "name": "0xBitcoin",
     "symbol": "0xBTC",
     "decimals": 8,
-    "logoURI": "https://ethereum-optimism.github.io/logos/0xBTC.png",
+    "logoURI": "https://ethereum-optimism.github.io/data/0xBTC/logo.png",
     "extensions": {
       "optimismBridgeAddress": "0x22F24361D548e5FaAfb36d1437839f080363982B"
     }
@@ -75404,7 +75487,7 @@
     "name": "SPANK",
     "symbol": "SPANK",
     "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/logos/spank.png",
+    "logoURI": "https://ethereum-optimism.github.io/data/SPANK/logo.png",
     "extensions": {
       "optimismBridgeAddress": "0x22F24361D548e5FaAfb36d1437839f080363982B"
     }
@@ -75415,7 +75498,7 @@
     "name": "Dola USD Stablecoin",
     "symbol": "DOLA",
     "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/logos/DOLA.png",
+    "logoURI": "https://ethereum-optimism.github.io/data/DOLA/logo.png",
     "extensions": {
       "optimismBridgeAddress": "0x22F24361D548e5FaAfb36d1437839f080363982B"
     }
@@ -75426,7 +75509,7 @@
     "name": "BitANT",
     "symbol": "BitANT",
     "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/logos/BitANT.png",
+    "logoURI": "https://ethereum-optimism.github.io/data/BitANT/logo.png",
     "extensions": {
       "optimismBridgeAddress": "0x22F24361D548e5FaAfb36d1437839f080363982B"
     }
@@ -75437,7 +75520,7 @@
     "name": "Balancer",
     "symbol": "BAL",
     "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/logos/BAL.png",
+    "logoURI": "https://ethereum-optimism.github.io/data/BAL/logo.png",
     "extensions": {
       "optimismBridgeAddress": "0x22F24361D548e5FaAfb36d1437839f080363982B"
     }
@@ -75448,7 +75531,7 @@
     "name": "Theranos Coin",
     "symbol": "LIZ",
     "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/logos/LIZ.png",
+    "logoURI": "https://ethereum-optimism.github.io/data/LIZ/logo.png",
     "extensions": {
       "optimismBridgeAddress": "0x22F24361D548e5FaAfb36d1437839f080363982B"
     }
@@ -75459,7 +75542,7 @@
     "name": "Dai stable coin",
     "symbol": "DAI",
     "decimals": 18,
-    "logoURI": "https://cryptologos.cc/logos/multi-collateral-dai-dai-logo.svg?v=010",
+    "logoURI": "https://ethereum-optimism.github.io/data/DAI/logo.svg",
     "extensions": {
       "optimismBridgeAddress": "0xb415e822C4983ecD6B1c1596e8a5f976cf6CD9e3"
     }
@@ -75470,7 +75553,7 @@
     "name": "USD Coin",
     "symbol": "USDC",
     "decimals": 6,
-    "logoURI": "https://ethereum-optimism.github.io/logos/USDC.svg",
+    "logoURI": "https://ethereum-optimism.github.io/data/USDC/logo.png",
     "extensions": {
       "optimismBridgeAddress": "0x22F24361D548e5FaAfb36d1437839f080363982B"
     }
@@ -75481,7 +75564,7 @@
     "name": "Tether EUR",
     "symbol": "EURT",
     "decimals": 6,
-    "logoURI": "https://ethereum-optimism.github.io/logos/USDT.png",
+    "logoURI": "https://ethereum-optimism.github.io/data/EURT/logo.png",
     "extensions": {
       "optimismBridgeAddress": "0x22F24361D548e5FaAfb36d1437839f080363982B"
     }
@@ -75492,7 +75575,7 @@
     "name": "BarnBridge Governance Token",
     "symbol": "BOND",
     "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/logos/BOND.svg",
+    "logoURI": "https://ethereum-optimism.github.io/data/BOND/logo.svg",
     "extensions": {
       "optimismBridgeAddress": "0x22F24361D548e5FaAfb36d1437839f080363982B"
     }
@@ -75503,7 +75586,7 @@
     "name": "Wrapped Bitcoin",
     "symbol": "WBTC",
     "decimals": 8,
-    "logoURI": "https://ethereum-optimism.github.io/logos/WBTC.svg",
+    "logoURI": "https://ethereum-optimism.github.io/data/WBTC/logo.svg",
     "extensions": {
       "optimismBridgeAddress": "0x22F24361D548e5FaAfb36d1437839f080363982B"
     }
@@ -75514,7 +75597,7 @@
     "name": "Rai Reflex Index",
     "symbol": "RAI",
     "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/logos/RAI.svg",
+    "logoURI": "https://ethereum-optimism.github.io/data/RAI/logo.svg",
     "extensions": {
       "optimismBridgeAddress": "0x22F24361D548e5FaAfb36d1437839f080363982B"
     }
@@ -75525,7 +75608,7 @@
     "name": "dForce",
     "symbol": "DF",
     "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/logos/DF.svg",
+    "logoURI": "https://ethereum-optimism.github.io/data/DF/logo.svg",
     "extensions": {
       "optimismBridgeAddress": "0x22F24361D548e5FaAfb36d1437839f080363982B"
     }
@@ -75536,7 +75619,7 @@
     "name": "TheDAO",
     "symbol": "TheDAO",
     "decimals": 16,
-    "logoURI": "https://ethereum-optimism.github.io/logos/theDAO.svg",
+    "logoURI": "https://ethereum-optimism.github.io/data/TheDAO/logo.svg",
     "extensions": {
       "optimismBridgeAddress": "0x22F24361D548e5FaAfb36d1437839f080363982B"
     }
@@ -75547,7 +75630,7 @@
     "name": "Aave Token",
     "symbol": "AAVE",
     "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/logos/AAVE.svg",
+    "logoURI": "https://ethereum-optimism.github.io/data/AAVE/logo.svg",
     "extensions": {
       "optimismBridgeAddress": "0x22F24361D548e5FaAfb36d1437839f080363982B"
     }
@@ -75558,7 +75641,7 @@
     "name": "Chainlink",
     "symbol": "LINK",
     "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/logos/LINK.png",
+    "logoURI": "https://ethereum-optimism.github.io/data/LINK/logo.png",
     "extensions": {
       "optimismBridgeAddress": "0x22F24361D548e5FaAfb36d1437839f080363982B"
     }
@@ -75569,7 +75652,7 @@
     "name": "Wrapped liquid staked Ether 2.0",
     "symbol": "wstETH",
     "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/logos/wstETH.svg",
+    "logoURI": "https://ethereum-optimism.github.io/data/wstETH/logo.svg",
     "extensions": {
       "optimismBridgeAddress": "0x65321bf24210b81500230dCEce14Faa70a9f50a7"
     }
@@ -75580,7 +75663,7 @@
     "name": "Decentralized USD",
     "symbol": "USDD",
     "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/logos/USDD.png",
+    "logoURI": "https://ethereum-optimism.github.io/data/USDD/logo.png",
     "extensions": {
       "optimismBridgeAddress": "0x22F24361D548e5FaAfb36d1437839f080363982B"
     }
@@ -75591,7 +75674,7 @@
     "name": "Gitcoin",
     "symbol": "GTC",
     "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/logos/GTC.svg",
+    "logoURI": "https://ethereum-optimism.github.io/data/GTC/logo.svg",
     "extensions": {
       "optimismBridgeAddress": "0x22F24361D548e5FaAfb36d1437839f080363982B"
     }
@@ -75602,7 +75685,7 @@
     "name": "Synthetix",
     "symbol": "SNX",
     "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/logos/SNX.svg",
+    "logoURI": "https://ethereum-optimism.github.io/data/SNX/logo.svg",
     "extensions": {
       "optimismBridgeAddress": "0xc00E7C2Bd7B0Fb95DbBF10d2d336399A939099ee"
     }
@@ -75613,7 +75696,7 @@
     "name": "Land",
     "symbol": "LAND",
     "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/logos/LAND.png",
+    "logoURI": "https://ethereum-optimism.github.io/data/LAND/logo.png",
     "extensions": {
       "optimismBridgeAddress": "0x22F24361D548e5FaAfb36d1437839f080363982B"
     }
@@ -75624,7 +75707,7 @@
     "name": "Geyser",
     "symbol": "GYSR",
     "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/logos/GYSR.png",
+    "logoURI": "https://ethereum-optimism.github.io/data/GYSR/logo.png",
     "extensions": {
       "optimismBridgeAddress": "0x22F24361D548e5FaAfb36d1437839f080363982B"
     }
@@ -75635,7 +75718,7 @@
     "name": "Tether USD",
     "symbol": "USDT",
     "decimals": 6,
-    "logoURI": "https://ethereum-optimism.github.io/logos/USDT.png",
+    "logoURI": "https://ethereum-optimism.github.io/data/USDT/logo.png",
     "extensions": {
       "optimismBridgeAddress": "0x22F24361D548e5FaAfb36d1437839f080363982B"
     }
@@ -75646,7 +75729,7 @@
     "name": "Equalizer",
     "symbol": "EQZ",
     "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/logos/EQZ.png",
+    "logoURI": "https://ethereum-optimism.github.io/data/EQZ/logo.png",
     "extensions": {
       "optimismBridgeAddress": "0x22F24361D548e5FaAfb36d1437839f080363982B"
     }
@@ -75657,7 +75740,7 @@
     "name": "BitBTC",
     "symbol": "BitBTC",
     "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/logos/BitBTC.png",
+    "logoURI": "https://ethereum-optimism.github.io/data/BitBTC/logo.png",
     "extensions": {
       "optimismBridgeAddress": "0x0b651A42F32069d62d5ECf4f2a7e5Bd3E9438746"
     }
@@ -75668,7 +75751,7 @@
     "name": "dForce USD",
     "symbol": "USX",
     "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/logos/USX.svg",
+    "logoURI": "https://ethereum-optimism.github.io/data/USX/logo.svg",
     "extensions": {
       "optimismBridgeAddress": "0x40E862341b2416345F02c41Ac70df08525150dC7"
     }
@@ -75679,7 +75762,7 @@
     "name": "Synthetix",
     "symbol": "SNX",
     "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/logos/SNX.svg",
+    "logoURI": "https://ethereum-optimism.github.io/data/SNX/logo.svg",
     "extensions": {
       "optimismBridgeAddress": "0x5b643DFC67f9701929A0b55f23e0Af61df50E75D"
     }
@@ -75690,7 +75773,7 @@
     "name": "Dola USD Stablecoin",
     "symbol": "DOLA",
     "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/logos/DOLA.png",
+    "logoURI": "https://ethereum-optimism.github.io/data/DOLA/logo.png",
     "extensions": {
       "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
     }
@@ -75701,7 +75784,7 @@
     "name": "Geyser",
     "symbol": "GYSR",
     "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/logos/GYSR.png",
+    "logoURI": "https://ethereum-optimism.github.io/data/GYSR/logo.png",
     "extensions": {
       "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
     }
@@ -75712,7 +75795,7 @@
     "name": "BitANT",
     "symbol": "BitANT",
     "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/logos/BitANT.png",
+    "logoURI": "https://ethereum-optimism.github.io/data/BitANT/logo.png",
     "extensions": {
       "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
     }
@@ -75723,7 +75806,7 @@
     "name": "Decentralized USD",
     "symbol": "USDD",
     "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/logos/USDD.png",
+    "logoURI": "https://ethereum-optimism.github.io/data/USDD/logo.png",
     "extensions": {
       "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
     }
@@ -75734,7 +75817,7 @@
     "name": "Wrapped Bitcoin",
     "symbol": "WBTC",
     "decimals": 8,
-    "logoURI": "https://ethereum-optimism.github.io/logos/WBTC.svg",
+    "logoURI": "https://ethereum-optimism.github.io/data/WBTC/logo.svg",
     "extensions": {
       "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
     }
@@ -75745,7 +75828,7 @@
     "name": "Land",
     "symbol": "LAND",
     "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/logos/LAND.png",
+    "logoURI": "https://ethereum-optimism.github.io/data/LAND/logo.png",
     "extensions": {
       "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
     }
@@ -75756,7 +75839,7 @@
     "name": "TheDAO",
     "symbol": "TheDAO",
     "decimals": 16,
-    "logoURI": "https://ethereum-optimism.github.io/logos/theDAO.svg",
+    "logoURI": "https://ethereum-optimism.github.io/data/TheDAO/logo.svg",
     "extensions": {
       "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
     }
@@ -75767,7 +75850,7 @@
     "name": "Theranos Coin",
     "symbol": "LIZ",
     "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/logos/LIZ.png",
+    "logoURI": "https://ethereum-optimism.github.io/data/LIZ/logo.png",
     "extensions": {
       "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
     }
@@ -75778,7 +75861,7 @@
     "name": "dForce",
     "symbol": "DF",
     "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/logos/DF.svg",
+    "logoURI": "https://ethereum-optimism.github.io/data/DF/logo.svg",
     "extensions": {
       "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
     }
@@ -75789,7 +75872,7 @@
     "name": "Optimism",
     "symbol": "OP",
     "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/logos/OP.png",
+    "logoURI": "https://ethereum-optimism.github.io/data/OP/logo.png",
     "extensions": {
       "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
     }
@@ -75800,7 +75883,7 @@
     "name": "Chainlink",
     "symbol": "LINK",
     "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/logos/LINK.png",
+    "logoURI": "https://ethereum-optimism.github.io/data/LINK/logo.png",
     "extensions": {
       "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
     }
@@ -75811,7 +75894,7 @@
     "name": "USD Coin",
     "symbol": "USDC",
     "decimals": 6,
-    "logoURI": "https://ethereum-optimism.github.io/logos/USDC.png",
+    "logoURI": "https://ethereum-optimism.github.io/data/USDC/logo.png",
     "extensions": {
       "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
     }
@@ -75822,7 +75905,7 @@
     "name": "Perpetual",
     "symbol": "PERP",
     "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/logos/PERP.png",
+    "logoURI": "https://ethereum-optimism.github.io/data/PERP/logo.png",
     "extensions": {
       "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
     }
@@ -75833,7 +75916,7 @@
     "name": "0xBitcoin",
     "symbol": "0xBTC",
     "decimals": 8,
-    "logoURI": "https://ethereum-optimism.github.io/logos/0xBTC.png",
+    "logoURI": "https://ethereum-optimism.github.io/data/0xBTC/logo.png",
     "extensions": {
       "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
     }
@@ -75844,7 +75927,7 @@
     "name": "Uniswap",
     "symbol": "UNI",
     "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/logos/UNI.png",
+    "logoURI": "https://ethereum-optimism.github.io/data/UNI/logo.png",
     "extensions": {
       "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
     }
@@ -75855,7 +75938,7 @@
     "name": "Tether EUR",
     "symbol": "EURT",
     "decimals": 6,
-    "logoURI": "https://ethereum-optimism.github.io/logos/USDT.png",
+    "logoURI": "https://ethereum-optimism.github.io/data/EURT/logo.png",
     "extensions": {
       "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
     }
@@ -75866,7 +75949,7 @@
     "name": "Rai Reflex Index",
     "symbol": "RAI",
     "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/logos/RAI.svg",
+    "logoURI": "https://ethereum-optimism.github.io/data/RAI/logo.svg",
     "extensions": {
       "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
     }
@@ -75877,7 +75960,7 @@
     "name": "Aave Token",
     "symbol": "AAVE",
     "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/logos/AAVE.svg",
+    "logoURI": "https://ethereum-optimism.github.io/data/AAVE/logo.svg",
     "extensions": {
       "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
     }
@@ -75888,7 +75971,7 @@
     "name": "Tether USD",
     "symbol": "USDT",
     "decimals": 6,
-    "logoURI": "https://ethereum-optimism.github.io/logos/USDT.png",
+    "logoURI": "https://ethereum-optimism.github.io/data/USDT/logo.png",
     "extensions": {
       "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
     }
@@ -75899,7 +75982,7 @@
     "name": "BitBTC",
     "symbol": "BitBTC",
     "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/logos/BitBTC.png",
+    "logoURI": "https://ethereum-optimism.github.io/data/BitBTC/logo.png",
     "extensions": {
       "optimismBridgeAddress": "0x0CFb46528a7002a7D8877a5F7a69b9AaF1A9058e"
     }
@@ -75910,7 +75993,7 @@
     "name": "Equalizer",
     "symbol": "EQZ",
     "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/logos/EQZ.png",
+    "logoURI": "https://ethereum-optimism.github.io/data/EQZ/logo.png",
     "extensions": {
       "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
     }
@@ -75921,7 +76004,7 @@
     "name": "Kromatika",
     "symbol": "KROM",
     "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/logos/KROM.png",
+    "logoURI": "https://ethereum-optimism.github.io/data/KROM/logo.png",
     "extensions": {
       "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
     }
@@ -75932,7 +76015,7 @@
     "name": "BarnBridge Governance Token",
     "symbol": "BOND",
     "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/logos/BOND.svg",
+    "logoURI": "https://ethereum-optimism.github.io/data/BOND/logo.svg",
     "extensions": {
       "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
     }
@@ -75943,7 +76026,10 @@
     "name": "Synthetix USD",
     "symbol": "sUSD",
     "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/logos/sUSD.svg"
+    "logoURI": "https://ethereum-optimism.github.io/data/sUSD/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+    }
   },
   {
     "chainId": 69,
@@ -75951,7 +76037,7 @@
     "name": "dForce USD",
     "symbol": "USX",
     "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/logos/USX.svg",
+    "logoURI": "https://ethereum-optimism.github.io/data/USX/logo.svg",
     "extensions": {
       "optimismBridgeAddress": "0xB4d37826b14Cd3CB7257A2A5094507d701fe715f"
     }
@@ -75962,7 +76048,7 @@
     "name": "Gitcoin",
     "symbol": "GTC",
     "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/logos/GTC.svg",
+    "logoURI": "https://ethereum-optimism.github.io/data/GTC/logo.svg",
     "extensions": {
       "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
     }
@@ -75973,7 +76059,7 @@
     "name": "Balancer",
     "symbol": "BAL",
     "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/logos/BAL.png",
+    "logoURI": "https://ethereum-optimism.github.io/data/BAL/logo.png",
     "extensions": {
       "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
     }
@@ -75984,7 +76070,7 @@
     "name": "SPANK",
     "symbol": "SPANK",
     "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/logos/spank.png",
+    "logoURI": "https://ethereum-optimism.github.io/data/SPANK/logo.png",
     "extensions": {
       "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
     }
@@ -75995,9 +76081,20 @@
     "name": "Dai stable coin",
     "symbol": "DAI",
     "decimals": 18,
-    "logoURI": "https://cryptologos.cc/logos/multi-collateral-dai-dai-logo.svg?v=010",
+    "logoURI": "https://ethereum-optimism.github.io/data/DAI/logo.svg",
     "extensions": {
       "optimismBridgeAddress": "0x467194771dAe2967Aef3ECbEDD3Bf9a310C76C65"
+    }
+  },
+  {
+    "chainId": 69,
+    "address": "0xdeaddeaddeaddeaddeaddeaddeaddeaddead0000",
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/ETH/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
     }
   },
   {
@@ -76006,7 +76103,7 @@
     "name": "Wrapped liquid staked Ether 2.0",
     "symbol": "wstETH",
     "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/logos/wstETH.svg",
+    "logoURI": "https://ethereum-optimism.github.io/data/wstETH/logo.svg",
     "extensions": {
       "optimismBridgeAddress": "0x2E34e7d705AfaC3C4665b6feF31Aa394A1c81c92"
     }
@@ -76017,7 +76114,7 @@
     "name": "TrueUSD",
     "symbol": "TUSD",
     "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/logos/TUSD.png",
+    "logoURI": "https://ethereum-optimism.github.io/data/TUSD/logo.png",
     "extensions": {
       "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
     }
@@ -76028,7 +76125,7 @@
     "name": "Dentacoin",
     "symbol": "DCN",
     "decimals": 0,
-    "logoURI": "https://ethereum-optimism.github.io/logos/dcn.svg",
+    "logoURI": "https://ethereum-optimism.github.io/data/DCN/logo.svg",
     "extensions": {
       "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
     }
@@ -76039,7 +76136,7 @@
     "name": "Synthetix",
     "symbol": "SNX",
     "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/logos/SNX.svg",
+    "logoURI": "https://ethereum-optimism.github.io/data/SNX/logo.svg",
     "extensions": {
       "optimismBridgeAddress": "0xD2b3F0Ea40dB68088415412b0043F37B3088836D"
     }
