@@ -67,6 +67,17 @@
   },
   {
     "chainId": 1,
+    "address": "0x0763fdccf1ae541a5961815c0872a8c5bc6de4d7",
+    "name": "SUKU",
+    "symbol": "SUKU",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/SUKU/logo.png",
+    "extensions": {
+      "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
+    }
+  },
+  {
+    "chainId": 1,
     "address": "0x08d32b0da63e2c3bcf8019c9c5d849d7a9d791e6",
     "name": "Dentacoin",
     "symbol": "DCN",
@@ -536,6 +547,28 @@
     "logoURI": "https://ethereum-optimism.github.io/data/ZRX/logo.png",
     "extensions": {
       "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
+    }
+  },
+  {
+    "chainId": 5,
+    "address": "0x11fe4b6ae13d2a6055c8d9cf65c55bac32b5d844",
+    "name": "Dai stable coin",
+    "symbol": "DAI",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/DAI/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x05a388Db09C2D44ec0b00Ee188cD42365c42Df23"
+    }
+  },
+  {
+    "chainId": 5,
+    "address": "0x326c977e6efc84e512bb9c30f76e30c160ed06fb",
+    "name": "Chainlink",
+    "symbol": "LINK",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/LINK/logo.png",
+    "extensions": {
+      "optimismBridgeAddress": "0x636Af16bf2f682dD3109e60102b8E1A089FedAa8"
     }
   },
   {
@@ -1175,6 +1208,17 @@
   },
   {
     "chainId": 10,
+    "address": "0xef6301da234fc7b0545c6e877d3359fe0b9e50a4",
+    "name": "SUKU",
+    "symbol": "SUKU",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/SUKU/logo.png",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+    }
+  },
+  {
+    "chainId": 10,
     "address": "0xf98dcd95217e15e05d8638da4c91125e59590b07",
     "name": "Kromatika",
     "symbol": "KROM",
@@ -1505,6 +1549,17 @@
   },
   {
     "chainId": 42,
+    "address": "0xd35f5965b4b84382ca27072ff3b6b42e7053e672",
+    "name": "SUKU",
+    "symbol": "SUKU",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/SUKU/logo.png",
+    "extensions": {
+      "optimismBridgeAddress": "0x22F24361D548e5FaAfb36d1437839f080363982B"
+    }
+  },
+  {
+    "chainId": 42,
     "address": "0xda9b55de6e04404f6c77673d4b243142a4efc6b8",
     "name": "Geyser",
     "symbol": "GYSR",
@@ -1791,6 +1846,17 @@
   },
   {
     "chainId": 69,
+    "address": "0x871f2f2ff935fd1ed867842ff2a7bfd051a5e527",
+    "name": "SUKU",
+    "symbol": "SUKU",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/SUKU/logo.png",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+    }
+  },
+  {
+    "chainId": 69,
     "address": "0x8ee73c484a26e0a5df2ee2a4960b789967dd0415",
     "name": "Equalizer",
     "symbol": "EQZ",
@@ -1941,6 +2007,39 @@
     "logoURI": "https://ethereum-optimism.github.io/data/SNX/logo.svg",
     "extensions": {
       "optimismBridgeAddress": "0xD2b3F0Ea40dB68088415412b0043F37B3088836D"
+    }
+  },
+  {
+    "chainId": 420,
+    "address": "0xda10009cbd5d07dd0cecc66161fc93d7c9000da1",
+    "name": "Dai stable coin",
+    "symbol": "DAI",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/DAI/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x467194771dAe2967Aef3ECbEDD3Bf9a310C76C65"
+    }
+  },
+  {
+    "chainId": 420,
+    "address": "0xdc2cc710e42857672e7907cf474a69b63b93089f",
+    "name": "Chainlink",
+    "symbol": "LINK",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/LINK/logo.png",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+    }
+  },
+  {
+    "chainId": 420,
+    "address": "0xebaeaad9236615542844adc5c149f86c36ad1136",
+    "name": "Synthetix USD",
+    "symbol": "sUSD",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/sUSD/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
     }
   }
 ]
