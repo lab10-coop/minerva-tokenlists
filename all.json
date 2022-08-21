@@ -4993,11 +4993,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x1370e3b7aa261dcbe19ee24c456e56ff186aec85",
     "name": "Max Bidding",
-    "symbol": "MAX",
+    "address": "0x1370e3b7aa261dcbe19ee24c456e56ff186aec85",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/26936/thumb/BPIJ7HUN_400x400.jpg?1660901132"
+    "symbol": "$MAX",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/21497.png"
   },
   {
     "chainId": 1,
@@ -33274,14 +33274,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x804f6baa10615c85e4b4a5bc4efe516d9f7a4365",
-    "name": "RealT   13606 Winthrop St  Detroit  MI ",
-    "symbol": "REALT-S-13606-WINTH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/16667/thumb/13606-Winthrop-hero-1.jpg?1624626772"
-  },
-  {
-    "chainId": 1,
     "address": "0x8052327f1baf94a9dc8b26b9100f211ee3774f54",
     "name": "A2DAO",
     "symbol": "ATD",
@@ -33972,11 +33964,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x83249c6794bca5a77eb8c0af9f1a86e055459cea",
     "name": "GigaSwap",
-    "symbol": "GIGA",
+    "address": "0x83249c6794bca5a77eb8c0af9f1a86e055459cea",
     "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/26919/thumb/final_62fcaacdbcc9640975d3fb7c_822256.png?1660815521"
+    "symbol": "GIGA",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/21493.png"
   },
   {
     "chainId": 1,
@@ -34629,6 +34621,14 @@
     "decimals": 18,
     "symbol": "FCR",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7707.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x8616e8ea83f048ab9a5ec513c9412dd2993bce3f",
+    "name": "handleUSD",
+    "symbol": "FXUSD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/26954/thumb/fxUSDLogo_200px-200px.png?1660988882"
   },
   {
     "chainId": 1,
@@ -50916,6 +50916,14 @@
   },
   {
     "chainId": 1,
+    "name": "CDbio",
+    "address": "0xc66cdac744916afb6811c71c277d88de90ce8d5b",
+    "decimals": 18,
+    "symbol": "MCD",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/21488.png"
+  },
+  {
+    "chainId": 1,
     "name": "GrimaceCoinCrypto",
     "address": "0xc6759a4fc56b3ce9734035a56b36e8637c45b77e",
     "decimals": 18,
@@ -52238,6 +52246,14 @@
     "decimals": 8,
     "symbol": "HMQ",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/1669.png"
+  },
+  {
+    "chainId": 1,
+    "name": "The Tale of Osaku",
+    "address": "0xcbccbb06f572df174a7da47684cdc28121fec421",
+    "decimals": 9,
+    "symbol": "OSAKU",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/21490.png"
   },
   {
     "chainId": 1,
@@ -54419,10 +54435,11 @@
   {
     "chainId": 1,
     "address": "0xd45740ab9ec920bedbd9bab2e863519e59731941",
-    "name": "Schnoodle",
     "symbol": "SNOOD",
+    "name": "Schnoodle",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/17458/thumb/rc8zDq3.png?1654497345"
+    "logoURI": "ipfs://QmNiowBE634KdmRY5D2gyjQcJB5GuLq2Ku9rDcmniRX9in",
+    "tags": []
   },
   {
     "chainId": 1,
@@ -60031,6 +60048,14 @@
     "decimals": 8,
     "symbol": "EBTC",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2127.png"
+  },
+  {
+    "chainId": 1,
+    "name": "RimsofLegend",
+    "address": "0xeb837ece90fd2d85ddd3ed129481c7333419f38b",
+    "decimals": 18,
+    "symbol": "ROL",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/21483.png"
   },
   {
     "chainId": 1,
