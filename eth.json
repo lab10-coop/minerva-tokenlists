@@ -394,7 +394,7 @@
   {
     "chainId": 1,
     "address": "0x0107c4aaa31940ef88760acb1f32424ca8d8bd80",
-    "name": "Authencity ",
+    "name": "Authencity",
     "symbol": "AUTH",
     "decimals": 8,
     "logoURI": "https://assets.coingecko.com/coins/images/26960/thumb/1.png?1661062419"
@@ -1150,6 +1150,14 @@
     "name": "BlackSwan Nodes",
     "symbol": "SWAN",
     "decimals": 9
+  },
+  {
+    "chainId": 1,
+    "address": "0x03cf23efdb2a6cf6cf6eb8b5a3383966f5c6b6d5",
+    "name": "YAKUSHIMA",
+    "symbol": "FOREST",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/26984/thumb/photo_2022-08-20_23-40-23.jpg?1661181326"
   },
   {
     "chainId": 1,
@@ -4758,6 +4766,14 @@
     "decimals": 18,
     "symbol": "STOGE",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/9381.png"
+  },
+  {
+    "chainId": 1,
+    "name": "hiSAND33",
+    "address": "0x12aef5c60c2c86c8ecd3079f22f285f326371340",
+    "decimals": 18,
+    "symbol": "HISAND33",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/21515.png"
   },
   {
     "chainId": 1,
@@ -9328,6 +9344,14 @@
     "decimals": 18,
     "symbol": "FDZ",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2626.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x2336c10a1d3100343fa9911a2c57b77c333599a3",
+    "name": "tMATIC",
+    "symbol": "TMATIC",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/26971/thumb/tenderMATIC.png?1661152567"
   },
   {
     "chainId": 1,
@@ -14235,7 +14259,7 @@
   },
   {
     "chainId": 1,
-    "name": "MANTRA DAO",
+    "name": "MANTRA",
     "address": "0x3593d125a4f7849a1b059e64f4517a86dd60c95d",
     "decimals": 18,
     "symbol": "OM",
@@ -15564,14 +15588,6 @@
     "decimals": 18,
     "symbol": "VEN",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/21171.png"
-  },
-  {
-    "chainId": 1,
-    "name": "Pumptopia",
-    "address": "0x3a67430aee293a216f9963e3f19c06ae15824bf0",
-    "decimals": 9,
-    "symbol": "PTPA",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/18764.png"
   },
   {
     "chainId": 1,
@@ -36254,7 +36270,7 @@
   },
   {
     "chainId": 1,
-    "name": "Saitama",
+    "name": "Saitama V1",
     "address": "0x8b3192f5eebd8579568a2ed41e6feb402f93f73f",
     "decimals": 18,
     "symbol": "SAITAMA",
@@ -37972,11 +37988,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x92925acf2771bc59143228499f9610fe5176eb9c",
     "name": "SYLTARE",
-    "symbol": "SYL",
+    "address": "0x92925acf2771bc59143228499f9610fe5176eb9c",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/26962/thumb/syl_tokenlogo.png?1661078949"
+    "symbol": "SYL",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/21511.png"
   },
   {
     "chainId": 1,
@@ -41082,7 +41098,7 @@
     "chainId": 1,
     "name": "Dinger Token",
     "address": "0x9e5bd9d9fad182ff0a93ba8085b664bcab00fa68",
-    "decimals": 9,
+    "decimals": 18,
     "symbol": "DINGER",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/13352.png"
   },
@@ -41991,7 +42007,7 @@
   },
   {
     "chainId": 1,
-    "name": "Spume",
+    "name": "Spume Protocol",
     "address": "0xa16a609ff4e1a15b6ccb469e7a5dd14e89305283",
     "decimals": 18,
     "symbol": "SPUME",
@@ -47415,9 +47431,9 @@
   },
   {
     "chainId": 1,
-    "name": "BaconCoin",
+    "name": "HOME Coin",
     "address": "0xb8919522331c59f5c16bdfaa6a121a6e03a91f62",
-    "decimals": 6,
+    "decimals": 18,
     "symbol": "HOME",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/20520.png"
   },
@@ -47984,14 +48000,6 @@
     "decimals": 18,
     "symbol": "DOG",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/11557.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xbab165df9455aa0f2aed1f2565520b91ddadb4c8",
-    "name": "EDUCare",
-    "symbol": "EKT",
-    "decimals": 8,
-    "logoURI": "https://assets.coingecko.com/coins/images/2643/thumb/educare.png?1547036820"
   },
   {
     "chainId": 1,
@@ -49518,11 +49526,11 @@
   },
   {
     "chainId": 1,
-    "address": "0xc0b182b2e06164568a3310ca1086e9bf19209e6c",
     "name": "Pumptopia",
-    "symbol": "PTPA",
+    "address": "0xc0b182b2e06164568a3310ca1086e9bf19209e6c",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/24262/thumb/pinksale-200x200-1.jpg?1647171185"
+    "symbol": "PTPA",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/18764.png"
   },
   {
     "chainId": 1,
@@ -52918,7 +52926,7 @@
     "chainId": 1,
     "name": "Saitama V2",
     "address": "0xce3f08e664693ca792cace4af1364d5e220827b2",
-    "decimals": 9,
+    "decimals": 18,
     "symbol": "SAITAMA",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/20513.png"
   },
@@ -63193,6 +63201,14 @@
   },
   {
     "chainId": 1,
+    "address": "0xf774dbf3144fc8ade7043c7f6634c88cf83140f3",
+    "name": "void cash",
+    "symbol": "VCASH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/26976/thumb/Avatar_v2.png?1661168692"
+  },
+  {
+    "chainId": 1,
     "address": "0xf77f4810e7521298a6e2a04f82a6c3492706d74f",
     "name": "CoinMeet",
     "symbol": "MEET",
@@ -63996,6 +64012,14 @@
   },
   {
     "chainId": 1,
+    "name": "GoMeat",
+    "address": "0xfb1172b050bcc798e37ae8abf620cc528e771162",
+    "decimals": 18,
+    "symbol": "GOMT",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/20201.png"
+  },
+  {
+    "chainId": 1,
     "name": "DogeGF",
     "address": "0xfb130d93e49dca13264344966a611dc79a456bc5",
     "decimals": 18,
@@ -64707,6 +64731,14 @@
     "decimals": 18,
     "symbol": "BBS",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/18184.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xfe4beb9217cddf2422d4bd65449b76d807b30fe1",
+    "name": "White Ethereum",
+    "symbol": "WHITE",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/26667/thumb/IMG_2923.PNG?1659500526"
   },
   {
     "chainId": 1,
