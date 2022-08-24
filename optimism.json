@@ -540,6 +540,17 @@
   },
   {
     "chainId": 1,
+    "address": "0xdefa4e8a7bcba345f687a2f1456f5edd9ce97202",
+    "name": "Kyber Network Crystal v2",
+    "symbol": "KNC",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/KNC/logo.png",
+    "extensions": {
+      "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
+    }
+  },
+  {
+    "chainId": 1,
     "address": "0xe41d2489571d322189246dafa5ebde1f4699f498",
     "name": "0x Protocol Token",
     "symbol": "ZRX",
@@ -999,6 +1010,17 @@
   },
   {
     "chainId": 10,
+    "address": "0xa00e3a3511aac35ca78530c85007afcd31753819",
+    "name": "Kyber Network Crystal v2",
+    "symbol": "KNC",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/KNC/logo.png",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+    }
+  },
+  {
+    "chainId": 10,
     "address": "0xab7badef82e9fe11f6f33f87bc9bc2aa27f2fcb5",
     "name": "Maker",
     "symbol": "MKR",
@@ -1378,6 +1400,17 @@
     "symbol": "LIZ",
     "decimals": 18,
     "logoURI": "https://ethereum-optimism.github.io/data/LIZ/logo.png",
+    "extensions": {
+      "optimismBridgeAddress": "0x22F24361D548e5FaAfb36d1437839f080363982B"
+    }
+  },
+  {
+    "chainId": 42,
+    "address": "0x4bc18ae212f798fd7b0eae94dfca18c0333157c4",
+    "name": "Kyber Network Crystal v2",
+    "symbol": "KNC",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/KNC/logo.png",
     "extensions": {
       "optimismBridgeAddress": "0x22F24361D548e5FaAfb36d1437839f080363982B"
     }
@@ -1829,6 +1862,17 @@
     "symbol": "USDT",
     "decimals": 6,
     "logoURI": "https://ethereum-optimism.github.io/data/USDT/logo.png",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+    }
+  },
+  {
+    "chainId": 69,
+    "address": "0x83251bd7ebb55f9ced617030107ce32ef06f54f8",
+    "name": "Kyber Network Crystal v2",
+    "symbol": "KNC",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/KNC/logo.png",
     "extensions": {
       "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
     }

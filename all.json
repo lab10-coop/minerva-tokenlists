@@ -4432,14 +4432,6 @@
   },
   {
     "chainId": 1,
-    "name": "Teddy Doge",
-    "address": "0x10f6f2b97f3ab29583d9d38babf2994df7220c21",
-    "decimals": 18,
-    "symbol": "TEDDY",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/17859.png"
-  },
-  {
-    "chainId": 1,
     "name": "Potter Inu",
     "address": "0x10f9ea5180816d26e28d4e8e12278001b752c455",
     "decimals": 9,
@@ -17914,14 +17906,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x433dfb5fd6ddb6996b57c07659942a30668236ca",
-    "name": "Eth Note",
-    "symbol": "ETHNOTE",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/23873/thumb/5df76e_648a02d1a6e748ae9fe0f9c4658ccd40_mv2.png?1645600044"
-  },
-  {
-    "chainId": 1,
     "address": "0x433fce7dfbec729a79999eaf056cb073b2153eba",
     "name": "CoinWealth",
     "symbol": "CNW",
@@ -28177,7 +28161,7 @@
     "chainId": 1,
     "name": "ShibaDoge",
     "address": "0x6adb2e268de2aa1abf6578e4a8119b960e02928f",
-    "decimals": 9,
+    "decimals": 18,
     "symbol": "SHIBDOGE",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/16500.png"
   },
@@ -33951,7 +33935,7 @@
     "name": "hiBAYC",
     "address": "0x83031984b45553070a088273f341bff7fb4f2f46",
     "decimals": 18,
-    "symbol": "HIBAYC",
+    "symbol": "hiBAYC",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/21177.png"
   },
   {
@@ -46142,6 +46126,14 @@
   },
   {
     "chainId": 1,
+    "name": "CODE",
+    "address": "0xb24cd494fae4c180a89975f1328eab2a7d5d8f11",
+    "decimals": 18,
+    "symbol": "CODE",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/21522.png"
+  },
+  {
+    "chainId": 1,
     "name": "Zigcoin",
     "address": "0xb2617246d0c6c0087f18703d576831899ca94f01",
     "decimals": 18,
@@ -48990,6 +48982,14 @@
   },
   {
     "chainId": 1,
+    "name": "Coinbase Wrapped Staked ETH",
+    "address": "0xbe9895146f7af43049ca1c1ae358b0541ea49704",
+    "decimals": 18,
+    "symbol": "CBETH",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/21535.png"
+  },
+  {
+    "chainId": 1,
     "name": "TomTomCoin",
     "address": "0xbe9ab37a414c517b2be2bfa5945665bb07379054",
     "decimals": 18,
@@ -49542,11 +49542,11 @@
   },
   {
     "chainId": 1,
-    "address": "0xc0c293ce456ff0ed870add98a0828dd4d2903dbf",
     "name": "Aura Finance",
-    "symbol": "AURA",
+    "address": "0xc0c293ce456ff0ed870add98a0828dd4d2903dbf",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/25942/thumb/logo.png?1654784187"
+    "symbol": "AURA",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/21532.png"
   },
   {
     "chainId": 1,
@@ -50117,14 +50117,6 @@
     "symbol": "CURRY",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/13656/thumb/curry_logo.jpg?1610581982"
-  },
-  {
-    "chainId": 1,
-    "address": "0xc2e343118f937f88ee1fc3150cdc0d6f3d11bba7",
-    "name": "Supertron",
-    "symbol": "STRO",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/9326/thumb/LQOVF5S.png?1566267616"
   },
   {
     "chainId": 1,
@@ -63201,11 +63193,11 @@
   },
   {
     "chainId": 1,
+    "name": "void.cash",
     "address": "0xf774dbf3144fc8ade7043c7f6634c88cf83140f3",
-    "name": "void cash",
-    "symbol": "VCASH",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/26976/thumb/Avatar_v2.png?1661168692"
+    "symbol": "VCASH",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/21530.png"
   },
   {
     "chainId": 1,
@@ -70724,6 +70716,14 @@
     "logoURI": "https://tokens.pancakeswap.finance/images/0xACB8f52DC63BB752a51186D1c55868ADbFfEe9C1.png"
   },
   {
+    "name": "Wombat Token",
+    "symbol": "WOM",
+    "address": "0xad6742a35fb341a9cc6ad674738dd8da98b94fb1",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0xAD6742A35fB341A9Cc6ad674738Dd8da98b94Fb1.png"
+  },
+  {
     "name": "BAND Protocol Token",
     "symbol": "BAND",
     "address": "0xad6caeb32cd2c308980a548bd0bc5aa4306c6c18",
@@ -74861,6 +74861,17 @@
   },
   {
     "chainId": 1,
+    "address": "0xdefa4e8a7bcba345f687a2f1456f5edd9ce97202",
+    "name": "Kyber Network Crystal v2",
+    "symbol": "KNC",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/KNC/logo.png",
+    "extensions": {
+      "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
+    }
+  },
+  {
+    "chainId": 1,
     "address": "0xe41d2489571d322189246dafa5ebde1f4699f498",
     "name": "0x Protocol Token",
     "symbol": "ZRX",
@@ -75320,6 +75331,17 @@
   },
   {
     "chainId": 10,
+    "address": "0xa00e3a3511aac35ca78530c85007afcd31753819",
+    "name": "Kyber Network Crystal v2",
+    "symbol": "KNC",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/KNC/logo.png",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+    }
+  },
+  {
+    "chainId": 10,
     "address": "0xab7badef82e9fe11f6f33f87bc9bc2aa27f2fcb5",
     "name": "Maker",
     "symbol": "MKR",
@@ -75699,6 +75721,17 @@
     "symbol": "LIZ",
     "decimals": 18,
     "logoURI": "https://ethereum-optimism.github.io/data/LIZ/logo.png",
+    "extensions": {
+      "optimismBridgeAddress": "0x22F24361D548e5FaAfb36d1437839f080363982B"
+    }
+  },
+  {
+    "chainId": 42,
+    "address": "0x4bc18ae212f798fd7b0eae94dfca18c0333157c4",
+    "name": "Kyber Network Crystal v2",
+    "symbol": "KNC",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/KNC/logo.png",
     "extensions": {
       "optimismBridgeAddress": "0x22F24361D548e5FaAfb36d1437839f080363982B"
     }
@@ -76150,6 +76183,17 @@
     "symbol": "USDT",
     "decimals": 6,
     "logoURI": "https://ethereum-optimism.github.io/data/USDT/logo.png",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+    }
+  },
+  {
+    "chainId": 69,
+    "address": "0x83251bd7ebb55f9ced617030107ce32ef06f54f8",
+    "name": "Kyber Network Crystal v2",
+    "symbol": "KNC",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/KNC/logo.png",
     "extensions": {
       "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
     }
