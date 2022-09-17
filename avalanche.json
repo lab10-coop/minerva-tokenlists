@@ -1,11 +1,67 @@
 [
   {
     "chainId": 16,
-    "address": "0x8c0c6b6e31a8b57d6eab31391950bfad4f8eb229",
+    "address": "0x0a8744c2a48b0e09a3e4c3a381a8e0d8d900bafe",
     "decimals": 18,
     "name": "Pangolin",
-    "symbol": "costonPNG",
-    "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/16/0x8C0c6B6e31A8b57D6eAB31391950bFaD4f8eb229/logo.png"
+    "symbol": "PCT",
+    "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/16/0x0A8744c2a48b0e09a3e4C3A381A8E0d8d900bAFe/logo.png"
+  },
+  {
+    "chainId": 19,
+    "address": "0x02f0826ef6ad107cfc861152b32b52fd11bab9ed",
+    "decimals": 18,
+    "name": "Wrapped Songbird",
+    "symbol": "WSGB",
+    "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/19/0x02f0826ef6aD107Cfc861152B32B52fD11BaB9ED/logo.png"
+  },
+  {
+    "chainId": 19,
+    "address": "0x697bb3b5e1ecf4febe6016321b0648d3d6c270b6",
+    "decimals": 18,
+    "name": "sDOOD Token",
+    "symbol": "sDOOD",
+    "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/19/0x697bb3B5E1eCf4fEbE6016321b0648d3d6C270B6/logo.png"
+  },
+  {
+    "chainId": 19,
+    "address": "0x8d32e20d119d936998575b4aaff66b9999011d27",
+    "decimals": 18,
+    "name": "CanaryX",
+    "symbol": "CNYX",
+    "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/19/0x8d32E20d119d936998575B4AAff66B9999011D27/logo.png"
+  },
+  {
+    "chainId": 19,
+    "address": "0x9e2e6c16803878c18e54ed74f05aeafcce464626",
+    "decimals": 18,
+    "name": "sFortuna",
+    "symbol": "SFORT",
+    "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/19/0x9E2E6c16803878C18E54Ed74F05AeafCCe464626/logo.png"
+  },
+  {
+    "chainId": 19,
+    "address": "0xb2987753d1561570f726aa373f48e77e27aa5ff4",
+    "decimals": 18,
+    "name": "Pangolin Songbird",
+    "symbol": "PSB",
+    "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/19/0xb2987753D1561570f726Aa373F48E77e27aa5FF4/logo.png"
+  },
+  {
+    "chainId": 19,
+    "address": "0xc348f894d0e939fe72c467156e6d7dcbd6f16e21",
+    "decimals": 18,
+    "name": "Experimental Finance Token",
+    "symbol": "EXFI",
+    "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/19/0xC348F894d0E939FE72c467156E6d7DcbD6f16e21/logo.png"
+  },
+  {
+    "chainId": 19,
+    "address": "0xd7565b16b65376e2ddb6c71e7971c7185a7ff3ff",
+    "decimals": 18,
+    "name": "OracleSwap",
+    "symbol": "ORACLE",
+    "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/19/0xD7565b16b65376e2Ddb6c71E7971c7185A7Ff3Ff/logo.png"
   },
   {
     "chainId": 11111,
@@ -589,6 +645,14 @@
   },
   {
     "chainId": 43114,
+    "address": "0x48f88a3fe843ccb0b5003e70b4192c1d7448bef0",
+    "decimals": 18,
+    "name": "Colony Avalanche Index",
+    "symbol": "CAI",
+    "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x48f88A3fE843ccb0b5003e70B4192c1d7448bEf0/logo.png"
+  },
+  {
+    "chainId": 43114,
     "address": "0x490bf3abcab1fb5c88533d850f2a8d6d38298465",
     "decimals": 18,
     "name": "Playmates",
@@ -674,6 +738,14 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/avalanche/0x50b7545627a5162F82A992c33b87aDc75187B218.jpg",
     "name": "Wrapped BTC",
     "symbol": "WBTC"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x51e48670098173025c477d9aa3f0eff7bf9f7812",
+    "decimals": 18,
+    "name": "DegenX",
+    "symbol": "DGNX",
+    "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0x51e48670098173025C477D9AA3f0efF7BF9f7812/logo.png"
   },
   {
     "chainId": 43114,
@@ -1545,6 +1617,14 @@
     "name": "BRIBE",
     "symbol": "BRIBE",
     "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xCe2fbed816E320258161CeD52c2d0CEBcdFd8136/logo.png"
+  },
+  {
+    "chainId": 43114,
+    "address": "0xcf799767d366d789e8b446981c2d578e241fa25c",
+    "decimals": 18,
+    "name": "Decentralized USD",
+    "symbol": "USDD",
+    "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0xcf799767d366d789e8B446981C2D578E241fa25c/logo.png"
   },
   {
     "chainId": 43114,

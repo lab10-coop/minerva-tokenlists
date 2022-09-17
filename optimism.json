@@ -100,6 +100,17 @@
   },
   {
     "chainId": 1,
+    "address": "0x0b6f3c17e1626a7cbfa4302ce4e3c45522d23a83",
+    "name": "WardenSwap",
+    "symbol": "WAD",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/WAD/logo.png",
+    "extensions": {
+      "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
+    }
+  },
+  {
+    "chainId": 1,
     "address": "0x0c10bf8fcb7bf5412187a595ab97a3609160b5c6",
     "name": "Decentralized USD",
     "symbol": "USDD",
@@ -167,7 +178,7 @@
   {
     "chainId": 1,
     "address": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
-    "name": "Wrapped Bitcoin",
+    "name": "Wrapped BTC",
     "symbol": "WBTC",
     "decimals": 8,
     "logoURI": "https://ethereum-optimism.github.io/data/WBTC/logo.svg",
@@ -305,6 +316,17 @@
     "logoURI": "https://ethereum-optimism.github.io/data/PAPER/logo.svg",
     "extensions": {
       "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
+    }
+  },
+  {
+    "chainId": 1,
+    "address": "0x7f39c581f595b53c5cb19bd0b3f8da6c935e2ca0",
+    "name": "Wrapped liquid staked Ether 2.0",
+    "symbol": "wstETH",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/wstETH/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x76943C0D61395d8F2edF9060e1533529cAe05dE6"
     }
   },
   {
@@ -584,6 +606,17 @@
   },
   {
     "chainId": 5,
+    "address": "0x32b3b2281717da83463414af4e8cfb1970e56287",
+    "name": "OptimismUselessToken-Bridged",
+    "symbol": "OUTb",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/OUTb/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x636Af16bf2f682dD3109e60102b8E1A089FedAa8"
+    }
+  },
+  {
+    "chainId": 5,
     "address": "0x51f44ca59b867e005e48fa573cb8df83fc7f7597",
     "name": "Synthetix",
     "symbol": "SNX",
@@ -591,6 +624,17 @@
     "logoURI": "https://ethereum-optimism.github.io/data/SNX/logo.svg",
     "extensions": {
       "optimismBridgeAddress": "0x1427Bc44755d9Aa317535B1feE38922760Aa4e65"
+    }
+  },
+  {
+    "chainId": 5,
+    "address": "0xc04b0d3107736c32e19f1c62b2af67be61d63a05",
+    "name": "Wrapped BTC",
+    "symbol": "WBTC",
+    "decimals": 8,
+    "logoURI": "https://ethereum-optimism.github.io/data/WBTC/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x636Af16bf2f682dD3109e60102b8E1A089FedAa8"
     }
   },
   {
@@ -646,6 +690,17 @@
     "logoURI": "https://ethereum-optimism.github.io/data/GTC/logo.svg",
     "extensions": {
       "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0x1f32b1c2345538c0c6f582fcb022739c4a194ebb",
+    "name": "Wrapped liquid staked Ether 2.0",
+    "symbol": "wstETH",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/wstETH/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x8E01013243a96601a86eb3153F0d9Fa4fbFb6957"
     }
   },
   {
@@ -814,7 +869,7 @@
   {
     "chainId": 10,
     "address": "0x68f180fcce6836688e9084f035309e29bf0a2095",
-    "name": "Wrapped Bitcoin",
+    "name": "Wrapped BTC",
     "symbol": "WBTC",
     "decimals": 8,
     "logoURI": "https://ethereum-optimism.github.io/data/WBTC/logo.svg",
@@ -829,6 +884,17 @@
     "symbol": "UNI",
     "decimals": 18,
     "logoURI": "https://ethereum-optimism.github.io/data/UNI/logo.png",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0x703d57164ca270b0b330a87fd159cfef1490c0a5",
+    "name": "WardenSwap",
+    "symbol": "WAD",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/WAD/logo.png",
     "extensions": {
       "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
     }
@@ -1351,6 +1417,17 @@
   },
   {
     "chainId": 42,
+    "address": "0x2c7a8122a1b512adc848024ce72e837001ecb586",
+    "name": "WardenSwap",
+    "symbol": "WAD",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/WAD/logo.png",
+    "extensions": {
+      "optimismBridgeAddress": "0x22F24361D548e5FaAfb36d1437839f080363982B"
+    }
+  },
+  {
+    "chainId": 42,
     "address": "0x2ea8f9b29ac1d70e01ae9d23d0451d2242e8d609",
     "name": "SPANK",
     "symbol": "SPANK",
@@ -1462,7 +1539,7 @@
   {
     "chainId": 42,
     "address": "0x68f180fcce6836688e9084f035309e29bf0a2095",
-    "name": "Wrapped Bitcoin",
+    "name": "Wrapped BTC",
     "symbol": "WBTC",
     "decimals": 8,
     "logoURI": "https://ethereum-optimism.github.io/data/WBTC/logo.svg",
@@ -1704,7 +1781,7 @@
   {
     "chainId": 69,
     "address": "0x2382a8f65b9120e554d1836a504808ac864e169d",
-    "name": "Wrapped Bitcoin",
+    "name": "Wrapped BTC L2",
     "symbol": "WBTC",
     "decimals": 8,
     "logoURI": "https://ethereum-optimism.github.io/data/WBTC/logo.svg",
@@ -1989,6 +2066,17 @@
   },
   {
     "chainId": 69,
+    "address": "0xd1917629b3e6a72e6772aab5dbe58eb7fa3c2f33",
+    "name": "WardenSwap",
+    "symbol": "WAD",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/WAD/logo.png",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+    }
+  },
+  {
+    "chainId": 69,
     "address": "0xda10009cbd5d07dd0cecc66161fc93d7c9000da1",
     "name": "Dai stable coin",
     "symbol": "DAI",
@@ -2055,6 +2143,17 @@
   },
   {
     "chainId": 420,
+    "address": "0x3e7ef8f50246f725885102e8238cbba33f276747",
+    "name": "OptimismUselessToken-Bridged",
+    "symbol": "OUTb",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/OUTb/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+    }
+  },
+  {
+    "chainId": 420,
     "address": "0xda10009cbd5d07dd0cecc66161fc93d7c9000da1",
     "name": "Dai stable coin",
     "symbol": "DAI",
@@ -2071,6 +2170,17 @@
     "symbol": "LINK",
     "decimals": 18,
     "logoURI": "https://ethereum-optimism.github.io/data/LINK/logo.png",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+    }
+  },
+  {
+    "chainId": 420,
+    "address": "0xe0a592353e81a94db6e3226fd4a99f881751776a",
+    "name": "Wrapped BTC L2",
+    "symbol": "WBTC",
+    "decimals": 8,
+    "logoURI": "https://ethereum-optimism.github.io/data/WBTC/logo.svg",
     "extensions": {
       "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
     }
