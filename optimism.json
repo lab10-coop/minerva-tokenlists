@@ -254,6 +254,17 @@
   },
   {
     "chainId": 1,
+    "address": "0x5a98fcbea516cf06857215779fd812ca3bef1b32",
+    "name": "Lido DAO Token",
+    "symbol": "LDO",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/LDO/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
+    }
+  },
+  {
+    "chainId": 1,
     "address": "0x5f98805a4e8be255a32880fdec7f6728c6568ba0",
     "name": "LUSD Stablecoin",
     "symbol": "LUSD",
@@ -584,6 +595,17 @@
   },
   {
     "chainId": 5,
+    "address": "0x07865c6e87b9f70255377e024ace6630c1eaa37f",
+    "name": "USD Coin",
+    "symbol": "USDC",
+    "decimals": 6,
+    "logoURI": "https://ethereum-optimism.github.io/data/USDC/logo.png",
+    "extensions": {
+      "optimismBridgeAddress": "0x636Af16bf2f682dD3109e60102b8E1A089FedAa8"
+    }
+  },
+  {
+    "chainId": 5,
     "address": "0x11fe4b6ae13d2a6055c8d9cf65c55bac32b5d844",
     "name": "Dai stable coin",
     "symbol": "DAI",
@@ -628,11 +650,33 @@
   },
   {
     "chainId": 5,
+    "address": "0x56340274fb5a72af1a3c6609061c451de7961bd4",
+    "name": "TEST Lido DAO Token",
+    "symbol": "TESTLDO",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/LDO/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x636Af16bf2f682dD3109e60102b8E1A089FedAa8"
+    }
+  },
+  {
+    "chainId": 5,
     "address": "0xc04b0d3107736c32e19f1c62b2af67be61d63a05",
     "name": "Wrapped BTC",
     "symbol": "WBTC",
     "decimals": 8,
     "logoURI": "https://ethereum-optimism.github.io/data/WBTC/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x636Af16bf2f682dD3109e60102b8E1A089FedAa8"
+    }
+  },
+  {
+    "chainId": 5,
+    "address": "0xc2c527c0cacf457746bd31b2a698fe89de2b6d49",
+    "name": "Tether USD",
+    "symbol": "USDT",
+    "decimals": 6,
+    "logoURI": "https://ethereum-optimism.github.io/data/USDT/logo.png",
     "extensions": {
       "optimismBridgeAddress": "0x636Af16bf2f682dD3109e60102b8E1A089FedAa8"
     }
@@ -795,7 +839,7 @@
     "address": "0x4200000000000000000000000000000000000006",
     "chainId": 10,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/eth.jpg",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/eth.jpg",
     "name": "Wrapped Ether",
     "symbol": "WETH"
   },
@@ -959,7 +1003,7 @@
     "address": "0x7f5c764cbc14f9669b88837ca1490cca17c31607",
     "chainId": 10,
     "decimals": 6,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/usdc.jpg",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdc.jpg",
     "name": "USD Coin",
     "symbol": "USDC"
   },
@@ -1312,6 +1356,17 @@
     "symbol": "KROM",
     "decimals": 18,
     "logoURI": "https://ethereum-optimism.github.io/data/KROM/logo.png",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0xfdb794692724153d1488ccdbe0c56c252596735f",
+    "name": "Lido DAO Token",
+    "symbol": "LDO",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/LDO/logo.svg",
     "extensions": {
       "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
     }
@@ -2154,6 +2209,28 @@
   },
   {
     "chainId": 420,
+    "address": "0x7e07e15d2a87a24492740d16f5bdf58c16db0c4e",
+    "name": "USD Coin",
+    "symbol": "USDC",
+    "decimals": 6,
+    "logoURI": "https://ethereum-optimism.github.io/data/USDC/logo.png",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+    }
+  },
+  {
+    "chainId": 420,
+    "address": "0x853eb4ba5d0ba2b77a0a5329fd2110d5ce149ece",
+    "name": "Tether USD",
+    "symbol": "USDT",
+    "decimals": 6,
+    "logoURI": "https://ethereum-optimism.github.io/data/USDT/logo.png",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+    }
+  },
+  {
+    "chainId": 420,
     "address": "0xda10009cbd5d07dd0cecc66161fc93d7c9000da1",
     "name": "Dai stable coin",
     "symbol": "DAI",
@@ -2176,11 +2253,33 @@
   },
   {
     "chainId": 420,
+    "address": "0xdeaddeaddeaddeaddeaddeaddeaddeaddead0000",
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/ETH/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+    }
+  },
+  {
+    "chainId": 420,
     "address": "0xe0a592353e81a94db6e3226fd4a99f881751776a",
     "name": "Wrapped BTC L2",
     "symbol": "WBTC",
     "decimals": 8,
     "logoURI": "https://ethereum-optimism.github.io/data/WBTC/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+    }
+  },
+  {
+    "chainId": 420,
+    "address": "0xe265fc71d45fd791c9ebf3ee0a53fbb220eb8f75",
+    "name": "TEST Lido DAO Token",
+    "symbol": "TESTLDO",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/LDO/logo.svg",
     "extensions": {
       "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
     }
