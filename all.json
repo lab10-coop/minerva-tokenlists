@@ -1620,14 +1620,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x05a78ffea2b35aa1af438c21cf06668cf118df0a",
-    "name": "Migranet",
-    "symbol": "MIG",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/9033/thumb/ymZOjgz5_400x400.jpg?1563790723"
-  },
-  {
-    "chainId": 1,
     "name": "Sp8de",
     "address": "0x05aaaa829afa407d83315cded1d45eb16025910c",
     "decimals": 18,
@@ -3313,6 +3305,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x0c90c57aaf95a3a87eadda6ec3974c99d786511f",
+    "name": "HanChain",
+    "symbol": "HAN",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/27374/thumb/logo_200.png?1663732819"
+  },
+  {
+    "chainId": 1,
     "name": "HollyGold",
     "address": "0x0c93b616933b0cd03b201b29cd8a22681dd9e0d9",
     "decimals": 8,
@@ -4302,11 +4302,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x104f3152d8ebfc3f679392977356962ff36566ac",
     "name": "ChainPort",
-    "symbol": "PORTX",
+    "address": "0x104f3152d8ebfc3f679392977356962ff36566ac",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/24490/thumb/VE-tUL-q_400x400.png?1647855096"
+    "symbol": "PORTX",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/17480.png"
   },
   {
     "chainId": 1,
@@ -19832,6 +19832,14 @@
   },
   {
     "chainId": 1,
+    "name": "JoJos Adventure",
+    "address": "0x49b4f92431c5b8cf260f983c4d3ed28e1fd0b991",
+    "decimals": 18,
+    "symbol": "JOJO",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/21886.png"
+  },
+  {
+    "chainId": 1,
     "name": "Vixco",
     "address": "0x49bf0220c9ce17e52dcca3d217231746d676085b",
     "decimals": 18,
@@ -28368,6 +28376,14 @@
   },
   {
     "chainId": 1,
+    "name": "Up Spiral",
+    "address": "0x6aedb157b9ca86e32200857aa2579d47098ace39",
+    "decimals": 9,
+    "symbol": "SPIRAL",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/21904.png"
+  },
+  {
+    "chainId": 1,
     "name": "PolkaPets",
     "address": "0x6afcff9189e8ed3fcc1cffa184feb1276f6a82a5",
     "decimals": 18,
@@ -28850,7 +28866,7 @@
   },
   {
     "chainId": 1,
-    "name": "MIDA",
+    "name": "MIDA Token",
     "address": "0x6cd13e1856286de773a435c8ba93a7c73a04f82d",
     "decimals": 18,
     "symbol": "MIDA",
@@ -36757,6 +36773,14 @@
     "decimals": 18,
     "symbol": "CTI",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7860.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x8c1bee08bdcb69e68fd23f1d02495a2d59f2a01a",
+    "name": "Safuchain",
+    "symbol": "SAFU",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/27381/thumb/QmZh4N7mpwJv9wRUffy9P4bc35k4DuzCRkmLD1fSYUKzpA.png?1663743589"
   },
   {
     "chainId": 1,
@@ -71790,6 +71814,14 @@
     "chainId": 56,
     "decimals": 8,
     "logoURI": "https://tokens.pancakeswap.finance/images/0xf0E406c49C63AbF358030A299C0E00118C4C6BA5.png"
+  },
+  {
+    "name": "Chibi Dinos",
+    "symbol": "HOOP",
+    "address": "0xf19cfb40b3774df6eed83169ad5ab0aaf6865f25",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0xF19cfb40B3774dF6Eed83169Ad5aB0Aaf6865F25.png"
   },
   {
     "name": "Mirror TSLA Token",
