@@ -6447,6 +6447,14 @@
   },
   {
     "chainId": 1,
+    "name": "ISKRA Token",
+    "address": "0x17d2628d30f8e9e966c9ba831c9b9b01ea8ea75c",
+    "decimals": 18,
+    "symbol": "ISK",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/21916.png"
+  },
+  {
+    "chainId": 1,
     "name": "Unicly Bored Ape Yacht Club Collection",
     "address": "0x17e347aad89b30b96557bcbfbff8a14e75cc88a1",
     "decimals": 18,
@@ -12483,6 +12491,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x2f32b39023da7d6a6486a85d12b346eb9c2a0d19",
+    "name": "Ferro",
+    "symbol": "FER",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/26111/thumb/FER_Token.png?1655887206"
+  },
+  {
+    "chainId": 1,
     "name": "UNCL",
     "address": "0x2f4eb47a1b1f4488c71fc10e39a4aa56af33dd49",
     "decimals": 18,
@@ -14826,6 +14842,14 @@
     "decimals": 18,
     "symbol": "ESD",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7033.png"
+  },
+  {
+    "chainId": 1,
+    "name": "hiDOODLES",
+    "address": "0x3700adfd26d5bc062cb8b8a77e68fbd43f58ecab",
+    "decimals": 18,
+    "symbol": "HIDOODLES",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/21927.png"
   },
   {
     "chainId": 1,
@@ -17762,11 +17786,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x425c5b7b55f9c981c71935418ed044e79d8080e2",
     "name": "Mad Hatter Society",
-    "symbol": "MADHAT",
+    "address": "0x425c5b7b55f9c981c71935418ed044e79d8080e2",
     "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/27407/thumb/MADHAT_TOKEN_CROP.png?1663842237"
+    "symbol": "MADHAT",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/21924.png"
   },
   {
     "chainId": 1,
@@ -18939,6 +18963,14 @@
     "decimals": 18,
     "symbol": "BRKL",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/10893.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x467719ad09025fcc6cf6f8311755809d45a5e5f3",
+    "name": "Axelar",
+    "symbol": "AXL",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/27277/thumb/V-65_xQ1_400x400.jpeg?1663121730"
   },
   {
     "chainId": 1,
@@ -20822,7 +20854,7 @@
     "chainId": 1,
     "name": "Decanect",
     "address": "0x4ce4c025692b3142dbde1cd432ef55b9a8d18701",
-    "decimals": 9,
+    "decimals": 18,
     "symbol": "DCNT",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/21858.png"
   },
@@ -22915,11 +22947,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x55c08ca52497e2f1534b59e2917bf524d4765257",
     "name": "UwU Lend",
-    "symbol": "UWU",
+    "address": "0x55c08ca52497e2f1534b59e2917bf524d4765257",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/27408/thumb/uwu_logo_no-bg_1024.png?1663842922"
+    "symbol": "UWU",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/21920.png"
   },
   {
     "chainId": 1,
@@ -30220,6 +30252,14 @@
     "decimals": 18,
     "symbol": "AVAK",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/11906.png"
+  },
+  {
+    "chainId": 1,
+    "name": "MondayClub",
+    "address": "0x7252d57ae4ec9af61db3b82a6eedab74eec5d1dc",
+    "decimals": 18,
+    "symbol": "MONDAY",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/19282.png"
   },
   {
     "chainId": 1,
@@ -38455,10 +38495,11 @@
   {
     "chainId": 1,
     "address": "0x92ef4ffbfe0df030837b65d7fccfe1abd6549579",
+    "symbol": "SWG",
     "name": "Swirge",
-    "symbol": "SWGB",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12879/thumb/swirge_logo.png?1603250039"
+    "logoURI": "ipfs://QmV9JhVeGKFwdDTWX1kZNg8rqVGxzorRCPCuHtDLCkf8Pj",
+    "tags": []
   },
   {
     "chainId": 1,
@@ -41611,11 +41652,11 @@
   },
   {
     "chainId": 1,
-    "name": "Maincoin",
     "address": "0x9f0f1be08591ab7d990faf910b38ed5d60e4d5bf",
-    "decimals": 18,
+    "name": "MainCoin",
     "symbol": "MNC",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3774.png"
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/7717/thumb/40946782_468400523662047_8336515617272102912_n.png?1549955793"
   },
   {
     "chainId": 1,
@@ -44055,11 +44096,11 @@
   },
   {
     "chainId": 1,
-    "address": "0xa888d9616c2222788fa19f05f77221a290eef704",
     "name": "Daruma",
-    "symbol": "DARUMA",
+    "address": "0xa888d9616c2222788fa19f05f77221a290eef704",
     "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/27357/thumb/CGlogo.png?1663661942"
+    "symbol": "DARUMA",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/21931.png"
   },
   {
     "chainId": 1,
@@ -51245,7 +51286,7 @@
   },
   {
     "chainId": 1,
-    "name": "MechaChain",
+    "name": "Mechanium",
     "address": "0xc5bcc8ba3f33ab0d64f3473e861bdc0685b19ef5",
     "decimals": 18,
     "symbol": "MECHA",
@@ -57209,11 +57250,11 @@
   },
   {
     "chainId": 1,
-    "address": "0xde2f7766c8bf14ca67193128535e5c7454f8387c",
     "name": "Metadium",
-    "symbol": "META",
+    "address": "0xde2f7766c8bf14ca67193128535e5c7454f8387c",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/5247/thumb/META_Logo_black.png?1548833790"
+    "symbol": "META",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3418.png"
   },
   {
     "chainId": 1,
@@ -58753,7 +58794,7 @@
   {
     "chainId": 1,
     "address": "0xe49214e4c92dc9bcb3b56c1309afe0d626dd730e",
-    "name": "SynchroLife",
+    "name": "SynchroCoin",
     "symbol": "SYC",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/1469/thumb/ud643DVg.png?1621828021"
@@ -62976,11 +63017,11 @@
   },
   {
     "chainId": 1,
-    "address": "0xf51ccb15d3f2d304ae6c409303e8b3a3e397a80b",
     "name": "Open Proprietary Protocol",
-    "symbol": "OPP",
+    "address": "0xf51ccb15d3f2d304ae6c409303e8b3a3e397a80b",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/27417/thumb/1_YTzF4KXNbEMRykWKGgKpwg.jpeg?1663858531"
+    "symbol": "OPP",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/21925.png"
   },
   {
     "chainId": 1,
@@ -63483,11 +63524,11 @@
   },
   {
     "chainId": 1,
-    "address": "0xf6c2a37acc8ba45874808837486110dc0afc63c8",
     "name": "MetaX",
-    "symbol": "X1",
+    "address": "0xf6c2a37acc8ba45874808837486110dc0afc63c8",
     "decimals": 2,
-    "logoURI": "https://assets.coingecko.com/coins/images/27411/thumb/pNi9ej83_400x400.png?1663853065"
+    "symbol": "X1",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/21921.png"
   },
   {
     "chainId": 1,
@@ -69447,6 +69488,38 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://assets.coingecko.com/coins/images/25380/small/UUSD.jpg?1651823371"
+  },
+  {
+    "name": "USD Coin",
+    "address": "0x765277eebeca2e31912c9946eae1021199b39c61",
+    "symbol": "USDC",
+    "decimals": 6,
+    "chainId": 2000,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+  },
+  {
+    "name": "Ether",
+    "address": "0xb44a9b6905af7c801311e8f4e76932ee959c663c",
+    "symbol": "ETH",
+    "decimals": 18,
+    "chainId": 2000,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+  },
+  {
+    "name": "Tether USD",
+    "address": "0xe3f5a90f9cb311505cd691a46596599aa1a0ad7d",
+    "symbol": "USDT",
+    "decimals": 6,
+    "chainId": 2000,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+  },
+  {
+    "name": "Wrapped Bitcoin",
+    "address": "0xfa9343c3897324496a05fc75abed6bac29f8a40f",
+    "symbol": "WBTC",
+    "decimals": 6,
+    "chainId": 2000,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png"
   },
   {
     "name": "Tether USD",
