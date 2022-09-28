@@ -105,14 +105,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x0000a1c00009a619684135b824ba02f7fbf3a572",
-    "name": "AlchemyDAO",
-    "symbol": "ALCH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/14719/thumb/sbEW5W8.png?1617939648"
-  },
-  {
-    "chainId": 1,
     "name": "AmonD",
     "address": "0x00059ae69c1622a7542edc15e8d17b060fe307b6",
     "decimals": 18,
@@ -4881,6 +4873,14 @@
   },
   {
     "chainId": 1,
+    "name": "Tamadoge",
+    "address": "0x12b6893ce26ea6341919fe289212ef77e51688c8",
+    "decimals": 18,
+    "symbol": "TAMA",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/21968.png"
+  },
+  {
+    "chainId": 1,
     "name": "RadioCaca",
     "address": "0x12bb890508c125661e03b09ec06e404bc9289040",
     "decimals": 18,
@@ -5017,11 +5017,11 @@
   },
   {
     "chainId": 1,
-    "name": "ARMOR",
     "address": "0x1337def16f9b486faed0293eb623dc8395dfe46a",
-    "decimals": 18,
+    "name": "ARMOR",
     "symbol": "ARMOR",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/8309.png"
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/13748/thumb/armor.png?1611425846"
   },
   {
     "chainId": 1,
@@ -8190,6 +8190,14 @@
     "decimals": 9,
     "symbol": "TETSU",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/14335.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Moneta",
+    "address": "0x1ea48b9965bb5086f3b468e50ed93888a661fc17",
+    "decimals": 18,
+    "symbol": "MON",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/21957.png"
   },
   {
     "chainId": 1,
@@ -13617,11 +13625,11 @@
   },
   {
     "chainId": 1,
-    "name": "SPORTZCHAIN",
     "address": "0x32ea3dc70e2962334864a9665254d2433e4ddbfd",
-    "decimals": 18,
+    "name": "Sportzchain",
     "symbol": "SPN",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/14007.png"
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/24915/thumb/Sportzchain_logo_195_195.png?1650240200"
   },
   {
     "chainId": 1,
@@ -14200,6 +14208,14 @@
     "decimals": 18,
     "symbol": "B2U",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7780.png"
+  },
+  {
+    "chainId": 1,
+    "name": "HalfPizza",
+    "address": "0x350ca33e2c75269a220c75d337e9b9ab177fa269",
+    "decimals": 18,
+    "symbol": "PIZA",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/11933.png"
   },
   {
     "chainId": 1,
@@ -16353,6 +16369,14 @@
   },
   {
     "chainId": 1,
+    "name": "ShibaTsuka",
+    "address": "0x3cf19ba410fa07e20854e8520227f756c8afd655",
+    "decimals": 18,
+    "symbol": "STSUKA",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/21956.png"
+  },
+  {
+    "chainId": 1,
     "address": "0x3d0293f06daf4311b482564330d57c8db6c10893",
     "name": "Y Coin",
     "symbol": "YCO",
@@ -16743,14 +16767,6 @@
     "decimals": 18,
     "symbol": "FLX",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/15535.png"
-  },
-  {
-    "chainId": 1,
-    "name": "Axelar",
-    "address": "0x3eacbdc6c382ea22b78acc158581a55aaf4ef3cc",
-    "decimals": 18,
-    "symbol": "AXL",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/17799.png"
   },
   {
     "chainId": 1,
@@ -18026,6 +18042,14 @@
   },
   {
     "chainId": 1,
+    "name": "JPY Coin",
+    "address": "0x431d5dff03120afa4bdf332c61a6e1766ef37bdb",
+    "decimals": 18,
+    "symbol": "JPYC",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/20648.png"
+  },
+  {
+    "chainId": 1,
     "name": "HubrisOne",
     "address": "0x432555e5c898f83fc5f00df631bd9c2801fea289",
     "decimals": 18,
@@ -18950,11 +18974,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x467719ad09025fcc6cf6f8311755809d45a5e5f3",
     "name": "Axelar",
+    "address": "0x467719ad09025fcc6cf6f8311755809d45a5e5f3",
+    "decimals": 18,
     "symbol": "AXL",
-    "decimals": 6,
-    "logoURI": "https://assets.coingecko.com/coins/images/27277/thumb/V-65_xQ1_400x400.jpeg?1663121730"
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/17799.png"
   },
   {
     "chainId": 1,
@@ -20579,11 +20603,11 @@
   },
   {
     "chainId": 1,
+    "name": "Acquire.Fi",
     "address": "0x4bdcb66b968060d9390c1d12bd29734496205581",
-    "name": "Acquire Fi",
-    "symbol": "ACQ",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/27199/thumb/ACQisotypeSept2022_1000x1000px.png?1662566695"
+    "symbol": "ACQ",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/20154.png"
   },
   {
     "chainId": 1,
@@ -28585,6 +28609,14 @@
   },
   {
     "chainId": 1,
+    "name": "BARFIGHT",
+    "address": "0x6b5dde2c94ecc10c93e8a44288befad2a89bd657",
+    "decimals": 9,
+    "symbol": "BFIGHT",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/21955.png"
+  },
+  {
+    "chainId": 1,
     "name": "UBU",
     "address": "0x6b74dd5d01f8320081247f5cf1f7a48324700db6",
     "decimals": 8,
@@ -32814,14 +32846,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x7cc61e3ae6360e923e9296c802382ec7c9dd3652",
-    "name": "SUN",
-    "symbol": "SUN",
-    "decimals": 8,
-    "logoURI": "https://assets.coingecko.com/coins/images/7420/thumb/a55e64a9e3eb68cfcd708f956e37ec5c_320x260.png?1547200256"
-  },
-  {
-    "chainId": 1,
     "name": "Knekted",
     "address": "0x7cc62d8e80be9bea3947f3443ad136f50f75b505",
     "decimals": 18,
@@ -34619,6 +34643,14 @@
     "decimals": 18,
     "symbol": "PMA",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3164.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Dwagon",
+    "address": "0x848592388097d2a3ca9e285f445e5b92b6af52ad",
+    "decimals": 18,
+    "symbol": "BABYTSUKA",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/21960.png"
   },
   {
     "chainId": 1,
@@ -36813,6 +36845,14 @@
     "decimals": 18,
     "symbol": "PACE",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/18586.png"
+  },
+  {
+    "chainId": 1,
+    "name": "BlackHat",
+    "address": "0x8bcd06492416a749c9369009b3429861b7f27f6e",
+    "decimals": 18,
+    "symbol": "BLKC",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/10566.png"
   },
   {
     "chainId": 1,
@@ -40119,6 +40159,14 @@
   },
   {
     "chainId": 1,
+    "name": "Soulsaver",
+    "address": "0x992d339532a9c42f1b0e59a57e95f38da38c66f6",
+    "decimals": 18,
+    "symbol": "SOUL",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/21958.png"
+  },
+  {
+    "chainId": 1,
     "name": "Psyduck Inu",
     "address": "0x99342b1a141aa3a02e04afb496562037fdf8e655",
     "decimals": 9,
@@ -43107,6 +43155,14 @@
   },
   {
     "chainId": 1,
+    "name": "PRüF Protocol",
+    "address": "0xa49811140e1d6f653dec28037be0924c811c4538",
+    "decimals": 18,
+    "symbol": "PRUF",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/21961.png"
+  },
+  {
+    "chainId": 1,
     "name": "Jenny Metaverse DAO Token",
     "address": "0xa499648fd0e80fd911972bbeb069e4c20e68bf22",
     "decimals": 18,
@@ -43490,6 +43546,14 @@
     "decimals": 18,
     "symbol": "CTO",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/14475.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xa5e85cfb2c6db032dad992516a6f48529581cba3",
+    "name": "ONTPAY",
+    "symbol": "ONTP",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/27496/thumb/ezgif.com-gif-maker.jpg?1664271339"
   },
   {
     "chainId": 1,
@@ -51286,6 +51350,14 @@
   },
   {
     "chainId": 1,
+    "name": "WORLD CUP INU",
+    "address": "0xc5a9bc46a7dbe1c6de493e84a18f02e70e2c5a32",
+    "decimals": 9,
+    "symbol": "WCI",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/21962.png"
+  },
+  {
+    "chainId": 1,
     "name": "LIT",
     "address": "0xc5b3d3231001a776123194cf1290068e8b0c783b",
     "decimals": 18,
@@ -57851,9 +57923,9 @@
   },
   {
     "chainId": 1,
-    "name": "Keys Token",
+    "name": "KEYS",
     "address": "0xe0a189c975e4928222978a74517442239a0b86ff",
-    "decimals": 9,
+    "decimals": 18,
     "symbol": "KEYS",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/15035.png"
   },
@@ -58124,14 +58196,6 @@
     "decimals": 4,
     "symbol": "EFAR",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7361.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xe14a603f7c77d4101a87859b8736a04cfd85c688",
-    "name": "TENA",
-    "symbol": "TENA",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/7313/thumb/tena.jpg?1547043965"
   },
   {
     "chainId": 1,
@@ -60350,11 +60414,11 @@
   },
   {
     "chainId": 1,
+    "name": "ARMOR",
     "address": "0xea5edef1287afdf9eb8a46f9773abfc10820c61c",
-    "name": "EASE",
-    "symbol": "EASE",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/27228/thumb/ease_symbol-200x200.png?1664098304"
+    "symbol": "ARMOR",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/8309.png"
   },
   {
     "chainId": 1,
