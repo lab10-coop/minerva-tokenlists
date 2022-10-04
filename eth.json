@@ -6755,7 +6755,7 @@
     "chainId": 1,
     "name": "Infinity Esaham",
     "address": "0x193408ca0576b73156ed42a2ea7d6fd3f6507162",
-    "decimals": 1,
+    "decimals": 18,
     "symbol": "INFS",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/4903.png"
   },
@@ -7493,14 +7493,6 @@
     "decimals": 18,
     "symbol": "PAR",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/4051.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x1bef2e5de862034fb0ed456df59d29ecadc9934c",
-    "name": "NAOS USD",
-    "symbol": "NUSD",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/24787/thumb/nusd.png?1648906504"
   },
   {
     "chainId": 1,
@@ -12106,6 +12098,14 @@
   },
   {
     "chainId": 1,
+    "name": "Imperial Obelisk",
+    "address": "0x2d5c73f3597b07f23c2bb3f2422932e67eca4543",
+    "decimals": 9,
+    "symbol": "IMP",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/12803.png"
+  },
+  {
+    "chainId": 1,
     "name": "Point Coin",
     "address": "0x2d64750ec85f6ec442e3093d74c7b1b0a133be6a",
     "decimals": 18,
@@ -14925,11 +14925,11 @@
   },
   {
     "chainId": 1,
-    "name": "Infinity PAD",
     "address": "0x36ed7baad9a571b5dad55d096c0ed902188d6d3c",
-    "decimals": 18,
+    "name": "Infinity Pad  OLD ",
     "symbol": "IPAD",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/11977.png"
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/17302/thumb/ipad.jpg?1627268574"
   },
   {
     "chainId": 1,
@@ -18018,11 +18018,11 @@
   },
   {
     "chainId": 1,
-    "name": "Imperial Obelisk",
     "address": "0x42a0d24cb5c423eaaf926ce3984aaff0c4ff6fe2",
-    "decimals": 9,
+    "name": "Imperial Obelisk",
     "symbol": "IMP",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/12803.png"
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/19083/thumb/imp_logo.png?1634377746"
   },
   {
     "chainId": 1,
@@ -26571,11 +26571,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x635f15eb7aa2e62d122f6b1f9f519fdccf4abdda",
     "name": "hiMAYC",
-    "symbol": "HIMAYC",
+    "address": "0x635f15eb7aa2e62d122f6b1f9f519fdccf4abdda",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/27602/thumb/himayc.png?1664716538"
+    "symbol": "HIMAYC",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/22033.png"
   },
   {
     "chainId": 1,
@@ -31107,6 +31107,14 @@
     "decimals": 18,
     "symbol": "MEME",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/15833.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Credit Suisse Inu",
+    "address": "0x74bff2018687b8a1ff7132e13cd4fdc763725bcf",
+    "decimals": 18,
+    "symbol": "CSI",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/22042.png"
   },
   {
     "chainId": 1,
@@ -59112,11 +59120,11 @@
   },
   {
     "chainId": 1,
-    "address": "0xe4dae00bc1c46ea2f44ae71b1beb8b171c15d812",
     "name": "PREMA",
-    "symbol": "PRMX",
+    "address": "0xe4dae00bc1c46ea2f44ae71b1beb8b171c15d812",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/27600/thumb/prmx.png?1664715769"
+    "symbol": "PRMX",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/22032.png"
   },
   {
     "chainId": 1,
@@ -63665,6 +63673,14 @@
   },
   {
     "chainId": 1,
+    "name": "IBEX",
+    "address": "0xf655c8567e0f213e6c634cd2a68d992152161dc6",
+    "decimals": 18,
+    "symbol": "IBEX",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/10256.png"
+  },
+  {
+    "chainId": 1,
     "name": "Truebit",
     "address": "0xf65b5c5104c4fafd4b709d9d60a185eae063276c",
     "decimals": 18,
@@ -65711,11 +65727,11 @@
   },
   {
     "chainId": 1,
+    "name": "Gold Retriever",
     "address": "0xfeeb4d0f5463b1b04351823c246bdb84c4320cc2",
-    "name": "Golden Retriever",
-    "symbol": "GLDN",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/27529/thumb/33406C30-2F50-45D8-9F75-5B7EAEB23038.jpeg?1664371749"
+    "symbol": "GLDN",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/22036.png"
   },
   {
     "chainId": 1,
