@@ -617,6 +617,17 @@
   },
   {
     "chainId": 5,
+    "address": "0x29ddacf754877123157e0eeed26770736b304d0c",
+    "name": "Perpetual",
+    "symbol": "PERP",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/PERP/logo.png",
+    "extensions": {
+      "optimismBridgeAddress": "0x636Af16bf2f682dD3109e60102b8E1A089FedAa8"
+    }
+  },
+  {
+    "chainId": 5,
     "address": "0x326c977e6efc84e512bb9c30f76e30c160ed06fb",
     "name": "Chainlink",
     "symbol": "LINK",
@@ -2020,6 +2031,17 @@
     "symbol": "DCN",
     "decimals": 0,
     "logoURI": "https://ethereum-optimism.github.io/data/DCN/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+    }
+  },
+  {
+    "chainId": 420,
+    "address": "0x0994206dfe8de6ec6920ff4d779b0d950605fb53",
+    "name": "Perpetual",
+    "symbol": "PERP",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/PERP/logo.png",
     "extensions": {
       "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
     }

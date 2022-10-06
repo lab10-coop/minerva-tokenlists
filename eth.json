@@ -2528,11 +2528,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x095797fd4297fb79883cc912a5ba6313b15c445d",
     "name": "GOLCOIN",
-    "symbol": "GOLC",
+    "address": "0x095797fd4297fb79883cc912a5ba6313b15c445d",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/27341/thumb/logo_in_the_middle_.png?1663551501"
+    "symbol": "GOLC",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/22073.png"
   },
   {
     "chainId": 1,
@@ -7325,6 +7325,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x1b5036bec1b82d44d52fa953a370b3c6cd9328b5",
+    "name": "Elan",
+    "symbol": "ELAN",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/27635/thumb/%D0%97%D0%BD%D1%96%D0%BC%D0%BE%D0%BA_%D0%B5%D0%BA%D1%80%D0%B0%D0%BD%D0%B0_2022-10-04_%D0%BE_17.23.34.png?1664961737"
+  },
+  {
+    "chainId": 1,
     "name": "TopChain",
     "address": "0x1b6c5864375b34af3ff5bd2e5f40bc425b4a8d79",
     "decimals": 6,
@@ -10294,7 +10302,7 @@
     "chainId": 1,
     "name": "Slougi",
     "address": "0x2656f02bc30427ed9d380e20cec5e04f5a7a50fe",
-    "decimals": 9,
+    "decimals": 18,
     "symbol": "SLOUGI",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/22017.png"
   },
@@ -14155,11 +14163,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x3475fc1d0d2e03761c19d5c7601fe476f0e02f80",
     "name": "Beep",
-    "symbol": "BOTZ",
+    "address": "0x3475fc1d0d2e03761c19d5c7601fe476f0e02f80",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/27583/thumb/photo_2022-09-30_12-30-59.jpg?1664701153"
+    "symbol": "BOTZ",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/22070.png"
   },
   {
     "chainId": 1,
@@ -14376,6 +14384,14 @@
     "decimals": 9,
     "symbol": "GSONIC",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/13194.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x353e41e66f58ce91d07d778520685473f38a7125",
+    "name": "Metaverse DAO",
+    "symbol": "MDAO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/23242/thumb/ezgif.com-gif-maker_%281%29.jpg?1664937350"
   },
   {
     "chainId": 1,
@@ -18027,7 +18043,7 @@
   {
     "chainId": 1,
     "address": "0x42a0d24cb5c423eaaf926ce3984aaff0c4ff6fe2",
-    "name": "Imperial Obelisk",
+    "name": "Imperial Obelisk  OLD ",
     "symbol": "IMP",
     "decimals": 9,
     "logoURI": "https://assets.coingecko.com/coins/images/19083/thumb/imp_logo.png?1634377746"
@@ -22583,6 +22599,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x536a7bcdccfaff3a9a2aa765369631db2f247b09",
+    "name": "HydroLink",
+    "symbol": "HLNK",
+    "decimals": 10,
+    "logoURI": "https://assets.coingecko.com/coins/images/19664/thumb/200x-logo.png?1635736696"
+  },
+  {
+    "chainId": 1,
     "name": "MetaVice",
     "address": "0x5375fd52707ab7c8d1b088e07169fa74b0999732",
     "decimals": 18,
@@ -22790,6 +22814,14 @@
     "decimals": 18,
     "symbol": "SIDUS",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/15463.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x549044000a94870ab7c5017cd8fb0aefa9239a13",
+    "name": "UCONetwork",
+    "symbol": "UCOIL",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/27633/thumb/logo.png?1664961037"
   },
   {
     "chainId": 1,
@@ -43924,14 +43956,6 @@
   },
   {
     "chainId": 1,
-    "address": "0xa6dc25851c18db97d4af05dbea56ceaaf6bda0ee",
-    "name": "Hkd com Dao",
-    "symbol": "HDAO",
-    "decimals": 8,
-    "logoURI": "https://assets.coingecko.com/coins/images/24548/thumb/QRY3jJl.png?1648131456"
-  },
-  {
-    "chainId": 1,
     "name": "Tokenfy",
     "address": "0xa6dd98031551c23bb4a2fbe2c4d524e8f737c6f7",
     "decimals": 18,
@@ -46411,6 +46435,14 @@
     "decimals": 9,
     "symbol": "DAKE",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/16954.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xb0b195aefa3650a6908f15cdac7d92f8a5791b0b",
+    "name": "BOB",
+    "symbol": "BOB",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/27266/thumb/Bob-logo.png?1663073030"
   },
   {
     "chainId": 1,
@@ -56432,7 +56464,7 @@
     "name": "Arenum",
     "address": "0xd9063a24630f24cd4dc99a9c7abe73f82fc6b722",
     "decimals": 6,
-    "symbol": "ARN",
+    "symbol": "ARNM",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/16476.png"
   },
   {
