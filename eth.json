@@ -7325,11 +7325,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x1b5036bec1b82d44d52fa953a370b3c6cd9328b5",
     "name": "Elan",
-    "symbol": "ELAN",
+    "address": "0x1b5036bec1b82d44d52fa953a370b3c6cd9328b5",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/27635/thumb/%D0%97%D0%BD%D1%96%D0%BC%D0%BE%D0%BA_%D0%B5%D0%BA%D1%80%D0%B0%D0%BD%D0%B0_2022-10-04_%D0%BE_17.23.34.png?1664961737"
+    "symbol": "ELAN",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/22078.png"
   },
   {
     "chainId": 1,
@@ -22817,11 +22817,11 @@
   },
   {
     "chainId": 1,
+    "name": "UCO Network",
     "address": "0x549044000a94870ab7c5017cd8fb0aefa9239a13",
-    "name": "UCONetwork",
-    "symbol": "UCOIL",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/27633/thumb/logo.png?1664961037"
+    "symbol": "UCOIL",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/22075.png"
   },
   {
     "chainId": 1,
@@ -25952,14 +25952,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x60ec6cb71bc7e21f366ab4b570dd3ff181814f7c",
-    "name": "Aevolve",
-    "symbol": "AVEX",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/18739/thumb/avex-logo-v3-e1633104679734.png?1633312800"
-  },
-  {
-    "chainId": 1,
     "name": "Mochi Inu",
     "address": "0x60ef10edff6d600cd91caeca04caed2a2e605fe5",
     "decimals": 18,
@@ -28844,6 +28836,14 @@
     "symbol": "EXCHBEAR",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/10331/thumb/683JEXMN_400x400_%281%29.png?1578052093"
+  },
+  {
+    "chainId": 1,
+    "name": "USDC Savings Vault",
+    "address": "0x6bad6a9bcfda3fd60da6834ace5f93b8cfed9598",
+    "decimals": 18,
+    "symbol": "USV",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/22092.png"
   },
   {
     "chainId": 1,
@@ -40662,6 +40662,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x9a6469aac7cd70385bdca6fa9e9356acec9c5b16",
+    "name": "SNKRZ",
+    "symbol": "SKZ",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/27657/thumb/skz_200_200.png?1665099924"
+  },
+  {
+    "chainId": 1,
     "name": "Arbidex",
     "address": "0x9a794dc1939f1d78fa48613b89b8f9d0a20da00e",
     "decimals": 18,
@@ -42711,6 +42719,14 @@
   },
   {
     "chainId": 1,
+    "name": "Kings Coin",
+    "address": "0xa1b26b9918b350e9657d9ab43a45088805d65e4e",
+    "decimals": 18,
+    "symbol": "KINGS",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/22085.png"
+  },
+  {
+    "chainId": 1,
     "name": "RougeCoin",
     "address": "0xa1c7d450130bb77c6a23ddfaecbc4a060215384b",
     "decimals": 18,
@@ -44219,14 +44235,6 @@
     "symbol": "HEL",
     "decimals": 9,
     "logoURI": "https://assets.coingecko.com/coins/images/26635/thumb/logo_%281%29.png?1659327747"
-  },
-  {
-    "chainId": 1,
-    "address": "0xa81f77e8988b28fb74243b907ace3c83353dc80a",
-    "name": "RealT   15634 Liberal St  Detroit  MI 4",
-    "symbol": "REALT-S-15634-LIBER",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/16703/thumb/Liberal-1.png?1624643634"
   },
   {
     "chainId": 1,
@@ -46398,11 +46406,11 @@
   },
   {
     "chainId": 1,
-    "name": "INTDESTCOIN",
     "address": "0xb08ba4ad6bc291f4f1e79c4c7f9395141b8d5797",
-    "decimals": 18,
+    "name": "INTDESTCOIN  OLD ",
     "symbol": "INTD",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/20981.png"
+    "decimals": 17,
+    "logoURI": "https://assets.coingecko.com/coins/images/27134/thumb/INTD.png?1662025876"
   },
   {
     "chainId": 1,
@@ -48424,6 +48432,14 @@
     "symbol": "AUNI",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/17247/thumb/aUNI_2x.png?1626942594"
+  },
+  {
+    "chainId": 1,
+    "name": "LUSD Chicken Bonds",
+    "address": "0xb9d7dddca9a4ac480991865efef82e01273f79c3",
+    "decimals": 18,
+    "symbol": "BLUSD",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/22090.png"
   },
   {
     "chainId": 1,
@@ -64745,6 +64761,14 @@
     "decimals": 6,
     "symbol": "LET",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2468.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Bonded dAMM",
+    "address": "0xfa372ff1547fa1a283b5112a4685f1358ce5574d",
+    "decimals": 18,
+    "symbol": "BDAMM",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/22077.png"
   },
   {
     "chainId": 1,
