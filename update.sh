@@ -139,14 +139,14 @@ echo "built avalanche list with $(jq '.|length' avalanche.json) elements"
 # the sigma1 list is static for now
 echo "validated sigma1 list with $(jq '.|length' sigma1.json) elements"
 
-########### KOVAN ############
+########### TESTNETS ############
 
-# the kovan list is static for now
-echo "validated kovan list with $(jq '.|length' kovan.json) elements"
+# the testnets list is static for now
+echo "validated kovan list with $(jq '.|length' testnets.json) elements"
 
 ########### merge all ###########
 
 # compile a multi-network list
-jq -s '.|flatten' eth.json xdai.json sigma1.json matic.json bsc.json okex.json arbitrum.json optimism.json celo.json avalanche.json kovan.json > all.json
+jq -s '.|flatten' eth.json xdai.json sigma1.json matic.json bsc.json okex.json arbitrum.json optimism.json celo.json avalanche.json testnets.json > all.json
 
 echo "built all list with $(jq '.|length' all.json) elements"
