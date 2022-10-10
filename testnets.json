@@ -6,5 +6,178 @@
     "symbol": "EKWH",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-tokenlists/master/images/EKWH.svg"
+  },
+  {
+    "chainId": 80001,
+    "address": "0x06158C4EC4eFFfCf1Bef06B81672252Ab83d7150",
+    "name": "Super DAI",
+    "symbol": "DAIx",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png",
+    "tags": [ "SuperToken", "WrapperToken" ]
+  },
+  {
+    "chainId": 5,
+    "address": "0x5943f705abb6834cad767e6e4bb258bc48d9c947",
+    "name": "Super ETH",
+    "symbol": "ETHx",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
+    "tags": [ "SuperToken", "WrapperToken" ]
+  },
+  {
+    "chainId": 5,
+    "address": "0xf2d68898557ccb2cf4c10c3ef2b034b2a69dad00",
+    "name": "Super fDAI Fake Token",
+    "symbol": "fDAIx",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png",
+    "tags": [ "SuperToken", "WrapperToken" ]
+  },
+  {
+    "chainId": 5,
+    "address": "0x95697ec24439e3eb7ba588c7b279b9b369236941",
+    "name": "Super fTUSD Fake Token",
+    "symbol": "fTUSDx",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/TUSD/logo.png",
+    "tags": [ "SuperToken", "WrapperToken" ]
+  },
+  {
+    "chainId": 5,
+    "address": "0x8ae68021f6170e5a766be613cea0d75236ecca9a",
+    "name": "Super fUSDC Fake Token",
+    "symbol": "fUSDCx",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png",
+    "tags": [ "SuperToken", "WrapperToken" ]
+  },
+  {
+    "chainId": 5,
+    "address": "0x88271d333C72e51516B67f5567c728E702b3eeE8",
+    "name": "fDAI Fake Token",
+    "symbol": "fDAI",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
+  },
+  {
+    "chainId": 5,
+    "address": "0x53d00397f03147A9bD9c40443A105A82780deAF1",
+    "name": "fTUSD Fake Token",
+    "symbol": "fTUSD",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/TUSD/logo.png"
+  },
+  {
+    "chainId": 5,
+    "address": "0xc94dd466416A7dFE166aB2cF916D3875C049EBB7",
+    "name": "fUSDC Fake Token",
+    "symbol": "fUSDC",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+  },
+  {
+    "chainId": 43113,
+    "address": "0x5735c32c38f5af0fb04a7c77c832ba4d7abffec8",
+    "name": "Super AVAX",
+    "symbol": "AVAXx",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12559/small/coin-round-red.png?1604021818",
+    "tags": [ "SuperToken", "WrapperToken" ]
+  },
+  {
+    "chainId": 43113,
+    "address": "0x296e9c01f80d408741f6e15d62013ddbe1041f1d",
+    "name": "Super fDAI Fake Token",
+    "symbol": "fDAIx",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png",
+    "tags": [ "SuperToken", "WrapperToken" ]
+  },
+  {
+    "chainId": 43113,
+    "address": "0x36bbf94e66f0c953cb451b302e345d6e50c2a215",
+    "name": "Super fTUSD Fake Token",
+    "symbol": "fTUSDx",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/TUSD/logo.png",
+    "tags": [ "SuperToken", "WrapperToken" ]
+  },
+  {
+    "chainId": 43113,
+    "address": "0x896c3e90446237be3e27eb4d67e0d3c97fb3b03f",
+    "name": "Super fUSDC Fake Token",
+    "symbol": "fUSDCx",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png",
+    "tags": [ "SuperToken", "WrapperToken" ]
+  },
+  {
+    "chainId": 44787,
+    "address": "0x10c892a6ec43a53e45d0b916b4b7d383b1b78c0f",
+    "name": "Celo Euro",
+    "symbol": "cEUR",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/ceur.jpg"
+  },
+  {
+    "chainId": 44787,
+    "address": "0x874069fa1eb16d44d622f2e0ca25eea172369bc1",
+    "name": "Celo Dollar",
+    "symbol": "cUSD",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/cusd.jpg"
+  },
+  {
+    "chainId": 44787,
+    "address": "0xe4d517785d091d3c54818832db6094bcc2744545",
+    "name": "Celo Brazilian Real",
+    "symbol": "cREAL",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_cREAL.png"
+  },
+  {
+    "chainId": 44787,
+    "address": "0xf194afdf50b03e69bd7d057c1aa9e10c9954e4c9",
+    "name": "Celo native asset",
+    "symbol": "CELO",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/celo.jpg"
+  },
+  {
+    "chainId": 44787,
+    "address": "0x0000000000000000000000000000000000000000",
+    "name": "Super Celo Euro",
+    "symbol": "cEURx",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/ceur.jpg",
+    "tags": [ "SuperToken", "WrapperToken" ]
+  },
+  {
+    "chainId": 44787,
+    "address": "0x0000000000000000000000000000000000000000",
+    "name": "Super Celo Dollar",
+    "symbol": "cUSDx",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/cusd.jpg",
+    "tags": [ "SuperToken", "WrapperToken" ]
+  },
+  {
+    "chainId": 44787,
+    "address": "0x0000000000000000000000000000000000000000",
+    "name": "Super Celo Brazilian Real",
+    "symbol": "cREALx",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_cREAL.png",
+    "tags": [ "SuperToken", "WrapperToken" ]
+  },
+  {
+    "chainId": 44787,
+    "address": "0x0000000000000000000000000000000000000000",
+    "name": "Super Celo",
+    "symbol": "CELOx",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/celo.jpg",
+    "tags": [ "SuperToken", "WrapperToken" ]
   }
 ]
