@@ -833,12 +833,12 @@
     "logoURI": "https://ethereum-optimism.github.io/data/PAPER/logo.svg"
   },
   {
-    "chainId": 10,
     "address": "0x0994206dfe8de6ec6920ff4d779b0d950605fb53",
-    "name": "Curve DAO Token",
-    "symbol": "CRV",
+    "chainId": 10,
     "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/data/CRV/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/optimism/0x0994206dfE8De6Ec6920FF4D779B0d950605Fb53.jpg",
+    "name": "Curve DAO Token",
+    "symbol": "CRV"
   },
   {
     "chainId": 10,
@@ -981,7 +981,7 @@
     "address": "0x4200000000000000000000000000000000000006",
     "chainId": 10,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/eth.jpg",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/optimism/0x4200000000000000000000000000000000000006.jpg",
     "name": "Wrapped Ether",
     "symbol": "WETH"
   },
@@ -1057,12 +1057,12 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/fxs.jpg"
   },
   {
-    "chainId": 10,
     "address": "0x68f180fcce6836688e9084f035309e29bf0a2095",
-    "name": "Wrapped BTC",
-    "symbol": "WBTC",
+    "chainId": 10,
     "decimals": 8,
-    "logoURI": "https://ethereum-optimism.github.io/data/WBTC/logo.svg"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/optimism/0x68f180fcCe6836688e9084f035309E29Bf0A2095.jpg",
+    "name": "Wrapped BTC",
+    "symbol": "WBTC"
   },
   {
     "chainId": 10,
@@ -1188,20 +1188,20 @@
     "logoURI": "https://ethereum-optimism.github.io/data/DOLA/logo.png"
   },
   {
-    "chainId": 10,
     "address": "0x8c6f28f2f1a3c87f0f938b96d27520d9751ec8d9",
-    "name": "Synthetix USD",
-    "symbol": "sUSD",
+    "chainId": 10,
     "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/data/sUSD/logo.svg"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/optimism/0x8c6f28f2F1A3C87F0f938b96d27520d9751ec8d9.jpg",
+    "name": "Synth sUSD",
+    "symbol": "sUSD"
   },
   {
-    "chainId": 10,
     "address": "0x94b008aa00579c1307b0ef2c499ad98a8ce58e58",
-    "name": "Tether USD",
-    "symbol": "USDT",
+    "chainId": 10,
     "decimals": 6,
-    "logoURI": "https://ethereum-optimism.github.io/data/USDT/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/optimism/0x94b008aA00579c1307B0EF2c499aD98a8ce58e58.jpg",
+    "name": "Tether USD",
+    "symbol": "USDT"
   },
   {
     "chainId": 10,
