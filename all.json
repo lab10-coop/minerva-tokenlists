@@ -23602,11 +23602,11 @@
   },
   {
     "chainId": 1,
-    "name": "Open Swap",
     "address": "0x57d579f483854c62fef850b8a5332b0d8424b7e2",
-    "decimals": 18,
+    "name": "OpenSwap One",
     "symbol": "OPENX",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/15354.png"
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/19274/thumb/X_color.png?1654833718"
   },
   {
     "chainId": 1,
@@ -30621,6 +30621,14 @@
   },
   {
     "chainId": 1,
+    "name": "CLever Token",
+    "address": "0x72953a5c32413614d24c29c84a66ae4b59581bbf",
+    "decimals": 18,
+    "symbol": "CLEV",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/22165.png"
+  },
+  {
+    "chainId": 1,
     "name": "TrustVerse",
     "address": "0x72955ecff76e48f2c8abcce11d54e5734d6f3657",
     "decimals": 18,
@@ -31147,14 +31155,6 @@
     "decimals": 18,
     "symbol": "ETGF",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7454.png"
-  },
-  {
-    "chainId": 1,
-    "name": "Mammoth",
-    "address": "0x746053c640481c27ffe70682e5d5b6b807e97004",
-    "decimals": 18,
-    "symbol": "MMT",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/20688.png"
   },
   {
     "chainId": 1,
@@ -35953,7 +35953,7 @@
   },
   {
     "chainId": 1,
-    "name": "P00LS",
+    "name": "00 Token",
     "address": "0x881ba05de1e78f549cc63a8f6cabb1d4ad32250d",
     "decimals": 18,
     "symbol": "00",
@@ -42018,6 +42018,14 @@
   },
   {
     "chainId": 1,
+    "name": "AKITSUKI",
+    "address": "0x9efdfc77017cb9b878300ecdca21fab0529a22a0",
+    "decimals": 9,
+    "symbol": "AKI",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/22151.png"
+  },
+  {
+    "chainId": 1,
     "name": "Fortune",
     "address": "0x9f009d03e1b7f02065017c90e8e0d5cb378eb015",
     "decimals": 9,
@@ -43537,6 +43545,14 @@
   },
   {
     "chainId": 1,
+    "name": "MetaRuffy",
+    "address": "0xa4cb3ef5f41a4d89d6fced22ea8a1c57957629aa",
+    "decimals": 18,
+    "symbol": "MR",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/17919.png"
+  },
+  {
+    "chainId": 1,
     "address": "0xa4cf2afd3b165975afffbf7e487cdd40c894ab6b",
     "name": "Shibaken Finance",
     "symbol": "SHIBAKEN",
@@ -44041,6 +44057,14 @@
     "symbol": "CLT",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/13171/thumb/clt_logo.png?1605855281"
+  },
+  {
+    "chainId": 1,
+    "name": "Linework Coin",
+    "address": "0xa6a1cc527d48585538b137e6abc14b2a55489d11",
+    "decimals": 8,
+    "symbol": "LWC",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/22166.png"
   },
   {
     "chainId": 1,
@@ -44777,7 +44801,7 @@
   },
   {
     "chainId": 1,
-    "name": "Bounce Finance Governance Token",
+    "name": "Bounce Governance Token",
     "address": "0xa9b1eb5908cfc3cdf91f9b8b3a74108598009096",
     "decimals": 18,
     "symbol": "AUCTION",
@@ -45051,11 +45075,11 @@
   },
   {
     "chainId": 1,
-    "name": "Azbit",
     "address": "0xaaaaaaaba2ea3daab0a6c05f1b962c78c9836d99",
-    "decimals": 18,
+    "name": "Azbit",
     "symbol": "AZ",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/4777.png"
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/4504/thumb/azbit.jpg?1566190849"
   },
   {
     "chainId": 1,
@@ -48828,11 +48852,11 @@
   },
   {
     "chainId": 1,
-    "address": "0xba98c0fbebc892f5b07a42b0febd606913ebc981",
     "name": "meh",
-    "symbol": "MEH",
+    "address": "0xba98c0fbebc892f5b07a42b0febd606913ebc981",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/27714/thumb/mlogo.png?1665453127"
+    "symbol": "MEH",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/22158.png"
   },
   {
     "chainId": 1,
@@ -70078,6 +70102,14 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://assets.coingecko.com/coins/images/25380/small/UUSD.jpg?1651823371"
+  },
+  {
+    "name": "USD Coin",
+    "address": "0x6c28aef8977c9b773996d0e8376d2ee379446f2f",
+    "symbol": "USDC",
+    "decimals": 6,
+    "chainId": 1402,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
   },
   {
     "name": "Doge Cragon",
