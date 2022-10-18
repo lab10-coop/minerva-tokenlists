@@ -137,7 +137,7 @@
     "name": "HanChain",
     "symbol": "HAN",
     "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/data/Han/logo.svg",
+    "logoURI": "https://ethereum-optimism.github.io/data/HAN/logo.svg",
     "extensions": {
       "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
     }
@@ -160,6 +160,17 @@
     "symbol": "LIZ",
     "decimals": 18,
     "logoURI": "https://ethereum-optimism.github.io/data/LIZ/logo.png",
+    "extensions": {
+      "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
+    }
+  },
+  {
+    "chainId": 1,
+    "address": "0x1351986732367ff6b51784c6a75f63502de13a9a",
+    "name": "Monetum",
+    "symbol": "MOM",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/MOM/logo.svg",
     "extensions": {
       "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
     }
@@ -731,7 +742,7 @@
     "name": "HanChain",
     "symbol": "HAN",
     "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/data/Han/logo.svg",
+    "logoURI": "https://ethereum-optimism.github.io/data/HAN/logo.svg",
     "extensions": {
       "optimismBridgeAddress": "0x636Af16bf2f682dD3109e60102b8E1A089FedAa8"
     }
@@ -831,6 +842,17 @@
     "symbol": "USDT",
     "decimals": 6,
     "logoURI": "https://ethereum-optimism.github.io/data/USDT/logo.png",
+    "extensions": {
+      "optimismBridgeAddress": "0x636Af16bf2f682dD3109e60102b8E1A089FedAa8"
+    }
+  },
+  {
+    "chainId": 5,
+    "address": "0xd3d1c79d8a5f8316d07c4a391805e5006c71648c",
+    "name": "Monetum",
+    "symbol": "MOM",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/MOM/logo.svg",
     "extensions": {
       "optimismBridgeAddress": "0x636Af16bf2f682dD3109e60102b8E1A089FedAa8"
     }
@@ -1030,7 +1052,7 @@
     "name": "HanChain",
     "symbol": "HAN",
     "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/data/Han/logo.svg",
+    "logoURI": "https://ethereum-optimism.github.io/data/HAN/logo.svg",
     "extensions": {
       "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
     }
@@ -1042,6 +1064,17 @@
     "symbol": "LYRA",
     "decimals": 18,
     "logoURI": "https://ethereum-optimism.github.io/data/LYRA/logo.png"
+  },
+  {
+    "chainId": 10,
+    "address": "0x5e70affe232e2919792f77eb94e566db0320fa88",
+    "name": "Monetum",
+    "symbol": "MOM",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/MOM/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+    }
   },
   {
     "chainId": 10,
@@ -2455,6 +2488,17 @@
   },
   {
     "chainId": 420,
+    "address": "0x4621b7a9c75199271f773ebd9a499dbd165c3191",
+    "name": "Monetum",
+    "symbol": "MOM",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/MOM/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+    }
+  },
+  {
+    "chainId": 420,
     "address": "0x7e07e15d2a87a24492740d16f5bdf58c16db0c4e",
     "name": "USD Coin",
     "symbol": "USDC",
@@ -2481,7 +2525,7 @@
     "name": "HanChain",
     "symbol": "HAN",
     "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/data/Han/logo.svg",
+    "logoURI": "https://ethereum-optimism.github.io/data/HAN/logo.svg",
     "extensions": {
       "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
     }

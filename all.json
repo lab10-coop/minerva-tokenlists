@@ -353,6 +353,14 @@
   },
   {
     "chainId": 1,
+    "name": "Damex Token",
+    "address": "0x00e679ba63b509182c349f5614f0a07cdd0ce0c5",
+    "decimals": 18,
+    "symbol": "DAMEX",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/19069.png"
+  },
+  {
+    "chainId": 1,
     "name": "INU Token",
     "address": "0x00f29171d7bcdc464a0758cf3217fe83173772b9",
     "decimals": 9,
@@ -1303,6 +1311,14 @@
     "decimals": 18,
     "symbol": "BOX",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/19888.png"
+  },
+  {
+    "chainId": 1,
+    "name": "DeFi Franc",
+    "address": "0x045da4bfe02b320f4403674b3b7d121737727a36",
+    "decimals": 18,
+    "symbol": "DCHF",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/22249.png"
   },
   {
     "chainId": 1,
@@ -2838,14 +2854,6 @@
     "decimals": 18,
     "symbol": "FRD",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2159.png"
-  },
-  {
-    "chainId": 1,
-    "name": "Damex Token",
-    "address": "0x0ac7b3733cbee5d87a80fbf331f4a0bd01f17386",
-    "decimals": 18,
-    "symbol": "DAMEX",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/19069.png"
   },
   {
     "chainId": 1,
@@ -6927,6 +6935,13 @@
     "decimals": 18,
     "symbol": "COVN",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/16837.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x19b22dbadc298c359a1d1b59e35f352a2b40e33c",
+    "name": "tPLATINUM",
+    "symbol": "TXPT",
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -14267,6 +14282,13 @@
   },
   {
     "chainId": 1,
+    "address": "0x34abce75d2f8f33940c721dca0f562617787bff3",
+    "name": "tSILVER",
+    "symbol": "TXAG",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
     "address": "0x34bdf48a8f753de4822a6cfb1fee275f9b4d662e",
     "name": "FACTS",
     "symbol": "BKC",
@@ -17719,6 +17741,14 @@
     "decimals": 8,
     "symbol": "FTXT",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3219.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Cold Chain",
+    "address": "0x418a931a0bc28d0d23ce39eb279e82b21a5fa78e",
+    "decimals": 18,
+    "symbol": "CLB",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/22237.png"
   },
   {
     "chainId": 1,
@@ -24042,6 +24072,14 @@
   },
   {
     "chainId": 1,
+    "name": "Golddoge Sachs",
+    "address": "0x59a63e3bc9bc1ce9abfd7b928d13d02d98b818d6",
+    "decimals": 9,
+    "symbol": "GDS",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/21650.png"
+  },
+  {
+    "chainId": 1,
     "name": "Mirrored Google",
     "address": "0x59a921db27dd6d4d974745b7ffc5c33932653442",
     "decimals": 18,
@@ -27515,6 +27553,14 @@
   },
   {
     "chainId": 1,
+    "name": "Buhund",
+    "address": "0x66bcd0c22bb15cd1ba7199c7a383dc89528f4427",
+    "decimals": 18,
+    "symbol": "BUH",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/22250.png"
+  },
+  {
+    "chainId": 1,
     "name": "Mars",
     "address": "0x66c0dded8433c9ea86c8cf91237b14e10b4d70b7",
     "decimals": 18,
@@ -29390,6 +29436,14 @@
     "decimals": 18,
     "symbol": "CHI",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/5541.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Ushi",
+    "address": "0x6dca182ac5e3f99985bc4ee0f726d6472ab1ec55",
+    "decimals": 18,
+    "symbol": "USHI",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/22256.png"
   },
   {
     "chainId": 1,
@@ -38925,14 +38979,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x932d447274dcffb4aea4f0944d3c804e88056416",
-    "name": "Lemon Bet",
-    "symbol": "LBET",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/11374/thumb/lbet.png?1590037291"
-  },
-  {
-    "chainId": 1,
     "address": "0x9332dfc361763d58565139da819c86e773e17249",
     "name": "UniPlay",
     "symbol": "UNP",
@@ -39943,6 +39989,14 @@
     "decimals": 18,
     "symbol": "OCEAN",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3911.png"
+  },
+  {
+    "chainId": 1,
+    "name": "XANA",
+    "address": "0x967fb0d760ed3ce53afe2f0a071674cccae73550",
+    "decimals": 18,
+    "symbol": "XETA",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/20286.png"
   },
   {
     "chainId": 1,
@@ -51113,6 +51167,14 @@
   },
   {
     "chainId": 1,
+    "address": "0xc2dd7a72f16cfa5dd8f9f5b49d251b2fd2163ff6",
+    "name": "SocialxClub",
+    "symbol": "SXC",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/27819/thumb/coingesxc.png?1665977868"
+  },
+  {
+    "chainId": 1,
     "name": "UniqueMeta",
     "address": "0xc2e8f7d9fc0cbc7e7e8a6bf6035b934981077bdf",
     "decimals": 18,
@@ -52090,14 +52152,6 @@
     "symbol": "IETH",
     "decimals": 8,
     "logoURI": "https://assets.coingecko.com/coins/images/1065/thumb/ieth.png?1600765203"
-  },
-  {
-    "chainId": 1,
-    "address": "0xc71e20e54adfc415f79bf0a8f11122917920050e",
-    "name": "Storichain",
-    "symbol": "TORI",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/9551/thumb/Tcp1SO9L_400x400.jpg?1568836675"
   },
   {
     "chainId": 1,
@@ -53124,6 +53178,14 @@
     "decimals": 18,
     "symbol": "STO",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/4162.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Risu",
+    "address": "0xcb3c5438dae9fe30b18ea53da3dab0e7dcaa0e4b",
+    "decimals": 18,
+    "symbol": "RISU",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/21767.png"
   },
   {
     "chainId": 1,
@@ -54384,11 +54446,11 @@
   },
   {
     "chainId": 1,
+    "name": "TSANGNYON HERUKA",
     "address": "0xd031edafac6a6ae5425e77f936022e506444c242",
-    "name": "HERUKA TSANGNYON",
-    "symbol": "TSANGNYON",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/27611/thumb/81b3e527-f8a9-47f7-8d4d-10f754f501c2.png?1664853112"
+    "symbol": "TSANGNYON",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/22236.png"
   },
   {
     "chainId": 1,
@@ -56998,11 +57060,11 @@
   },
   {
     "chainId": 1,
-    "name": "Aidi Finance",
     "address": "0xda1e53e088023fe4d1dc5a418581748f52cbd1b8",
-    "decimals": 18,
+    "name": "Aidi Inu",
     "symbol": "AIDI",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/10692.png"
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/16339/thumb/aidi_200.png?1634199020"
   },
   {
     "chainId": 1,
@@ -58726,14 +58788,6 @@
   },
   {
     "chainId": 1,
-    "name": "Verse",
-    "address": "0xe18841d7a75866688e291703bde66c3378bd74a3",
-    "decimals": 18,
-    "symbol": "VERSE",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/12646.png"
-  },
-  {
-    "chainId": 1,
     "name": "MP4",
     "address": "0xe1a0da60f8802b49cc36313bafade3f9e12342fd",
     "decimals": 18,
@@ -59373,6 +59427,13 @@
     "decimals": 18,
     "symbol": "KUNU",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/13410.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xe4a6f23fb9e00fca037aa0ea0a6954de0a6c53bf",
+    "name": "tGOLD",
+    "symbol": "TXAU",
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -64689,6 +64750,14 @@
     "decimals": 3,
     "symbol": "USDG",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/4964.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Haki Token",
+    "address": "0xf90c7f66eac7e2130bf677d69a250b2136cf6697",
+    "decimals": 18,
+    "symbol": "HAKI",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/22240.png"
   },
   {
     "chainId": 1,
@@ -72060,6 +72129,14 @@
     "logoURI": "https://tokens.pancakeswap.finance/images/0xA64455a4553C9034236734FadDAddbb64aCE4Cc7.png"
   },
   {
+    "name": "Wombex Token",
+    "symbol": "WMX",
+    "address": "0xa75d9ca2a0a1d547409d82e1b06618ec284a2ced",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0xa75d9ca2a0a1D547409D82e1B06618EC284A2CeD.png"
+  },
+  {
     "name": "Ellipsis",
     "symbol": "EPS",
     "address": "0xa7f552078dcc247c2684336020c03648500c6d9f",
@@ -75914,7 +75991,7 @@
     "name": "HanChain",
     "symbol": "HAN",
     "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/data/Han/logo.svg",
+    "logoURI": "https://ethereum-optimism.github.io/data/HAN/logo.svg",
     "extensions": {
       "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
     }
@@ -75937,6 +76014,17 @@
     "symbol": "LIZ",
     "decimals": 18,
     "logoURI": "https://ethereum-optimism.github.io/data/LIZ/logo.png",
+    "extensions": {
+      "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
+    }
+  },
+  {
+    "chainId": 1,
+    "address": "0x1351986732367ff6b51784c6a75f63502de13a9a",
+    "name": "Monetum",
+    "symbol": "MOM",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/MOM/logo.svg",
     "extensions": {
       "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
     }
@@ -76508,7 +76596,7 @@
     "name": "HanChain",
     "symbol": "HAN",
     "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/data/Han/logo.svg",
+    "logoURI": "https://ethereum-optimism.github.io/data/HAN/logo.svg",
     "extensions": {
       "optimismBridgeAddress": "0x636Af16bf2f682dD3109e60102b8E1A089FedAa8"
     }
@@ -76608,6 +76696,17 @@
     "symbol": "USDT",
     "decimals": 6,
     "logoURI": "https://ethereum-optimism.github.io/data/USDT/logo.png",
+    "extensions": {
+      "optimismBridgeAddress": "0x636Af16bf2f682dD3109e60102b8E1A089FedAa8"
+    }
+  },
+  {
+    "chainId": 5,
+    "address": "0xd3d1c79d8a5f8316d07c4a391805e5006c71648c",
+    "name": "Monetum",
+    "symbol": "MOM",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/MOM/logo.svg",
     "extensions": {
       "optimismBridgeAddress": "0x636Af16bf2f682dD3109e60102b8E1A089FedAa8"
     }
@@ -76807,7 +76906,7 @@
     "name": "HanChain",
     "symbol": "HAN",
     "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/data/Han/logo.svg",
+    "logoURI": "https://ethereum-optimism.github.io/data/HAN/logo.svg",
     "extensions": {
       "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
     }
@@ -76819,6 +76918,17 @@
     "symbol": "LYRA",
     "decimals": 18,
     "logoURI": "https://ethereum-optimism.github.io/data/LYRA/logo.png"
+  },
+  {
+    "chainId": 10,
+    "address": "0x5e70affe232e2919792f77eb94e566db0320fa88",
+    "name": "Monetum",
+    "symbol": "MOM",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/MOM/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+    }
   },
   {
     "chainId": 10,
@@ -78232,6 +78342,17 @@
   },
   {
     "chainId": 420,
+    "address": "0x4621b7a9c75199271f773ebd9a499dbd165c3191",
+    "name": "Monetum",
+    "symbol": "MOM",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/MOM/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+    }
+  },
+  {
+    "chainId": 420,
     "address": "0x7e07e15d2a87a24492740d16f5bdf58c16db0c4e",
     "name": "USD Coin",
     "symbol": "USDC",
@@ -78258,7 +78379,7 @@
     "name": "HanChain",
     "symbol": "HAN",
     "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/data/Han/logo.svg",
+    "logoURI": "https://ethereum-optimism.github.io/data/HAN/logo.svg",
     "extensions": {
       "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
     }
