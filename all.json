@@ -3361,6 +3361,14 @@
   },
   {
     "chainId": 1,
+    "name": "The Protocol",
+    "address": "0x0cba60ca5ef4d42f92a5070a8fedd13be93e2861",
+    "decimals": 18,
+    "symbol": "THE",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/22278.png"
+  },
+  {
+    "chainId": 1,
     "name": "Cowfarm.finance",
     "address": "0x0cc4f8735dae4b1ab7682cb05aeb19115e693e98",
     "decimals": 18,
@@ -9433,6 +9441,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x2321537fd8ef4644bacdceec54e5f35bf44311fa",
+    "name": "n00dle",
+    "symbol": "N00D",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/27850/thumb/%E8%9E%A2%E5%B9%95%E6%88%AA%E5%9C%96_2022-10-17_%E4%B8%8B%E5%8D%888.36.07.png?1666092864"
+  },
+  {
+    "chainId": 1,
     "name": "Shibgeki",
     "address": "0x2327590bb709f1505b64d1e4573d7c0dcea4350c",
     "decimals": 9,
@@ -12687,14 +12703,6 @@
     "decimals": 18,
     "symbol": "NAMI",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/9842.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x2f7e1c8a3632b12a6900423da24d5ca645dcddec",
-    "name": "Laconic Network",
-    "symbol": "LNT",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/25091/thumb/symbol-07.png?1650270014"
   },
   {
     "chainId": 1,
@@ -18842,6 +18850,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x453660ec2b63f0453d42f72c808350c1e2c70153",
+    "name": "IdenDEFI",
+    "symbol": "ID",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/27851/thumb/2022-10-16_17-47-37.png?1666094387"
+  },
+  {
+    "chainId": 1,
     "name": "Lelouch Lamperouge",
     "address": "0x4546d782ffb14a465a3bb518eecf1a181da85332",
     "decimals": 18,
@@ -22361,6 +22377,14 @@
     "decimals": 8,
     "symbol": "IQT",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/1971.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x51fa2efd62ee56a493f24ae963eace7d0051929e",
+    "name": "Poseidon OCEAN",
+    "symbol": "PSDNOCEAN",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/27859/thumb/psdnOCEAN.png?1666097011"
   },
   {
     "chainId": 1,
@@ -34044,6 +34068,14 @@
     "symbol": "NCASH",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/3135/thumb/nv.jpg?1547037544"
+  },
+  {
+    "chainId": 1,
+    "name": "Minted",
+    "address": "0x809e130e10e787139c54e1d12d3d1971b7a675bf",
+    "decimals": 18,
+    "symbol": "MTD",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/21418.png"
   },
   {
     "chainId": 1,
@@ -48841,7 +48873,7 @@
   },
   {
     "chainId": 1,
-    "name": "ARPA Chain",
+    "name": "ARPA",
     "address": "0xba50933c268f567bdc86e1ac131be072c6b0b71a",
     "decimals": 18,
     "symbol": "ARPA",
@@ -58690,6 +58722,14 @@
   },
   {
     "chainId": 1,
+    "address": "0xe13879194578c6f1a591a96c45b65022c43cec07",
+    "name": "The meme finance",
+    "symbol": "MEFI",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/27837/thumb/57678426-EC89-4BA2-87AB-301B7D915F1B.jpeg?1666056561"
+  },
+  {
+    "chainId": 1,
     "address": "0xe138fda441fc31b36171122397a8a11d6cd2c479",
     "name": "Global Trust Coin",
     "symbol": "GTC",
@@ -58764,11 +58804,11 @@
   },
   {
     "chainId": 1,
-    "name": "Eterna",
     "address": "0xe1747a23c44f445062078e3c528c9f4c28c50a51",
-    "decimals": 18,
+    "name": "Eterna Hybrid Exchange",
     "symbol": "EHX",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/18942.png"
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/24825/thumb/_0VJF4cs_400x400.jpg?1649042250"
   },
   {
     "chainId": 1,
@@ -76064,6 +76104,17 @@
   },
   {
     "chainId": 1,
+    "address": "0x1fee5588cb1de19c70b6ad5399152d8c643fae7b",
+    "name": "PhunToken",
+    "symbol": "PHTK",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/PHTK/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
+    }
+  },
+  {
+    "chainId": 1,
     "address": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
     "name": "Wrapped BTC",
     "symbol": "WBTC",
@@ -76102,6 +76153,17 @@
     "symbol": "aCRV",
     "decimals": 18,
     "logoURI": "https://ethereum-optimism.github.io/data/aCRV/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
+    }
+  },
+  {
+    "chainId": 1,
+    "address": "0x2d94aa3e47d9d5024503ca8491fce9a2fb4da198",
+    "name": "Bankless Token",
+    "symbol": "BANK",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/BANK/logo.png",
     "extensions": {
       "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
     }
@@ -76810,6 +76872,17 @@
   },
   {
     "chainId": 10,
+    "address": "0x29faf5905bff9cfcc7cf56a5ed91e0f091f8664b",
+    "name": "Bankless Token",
+    "symbol": "BANK",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/BANK/logo.png",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+    }
+  },
+  {
+    "chainId": 10,
     "address": "0x2e3d870790dc77a83dd1d18184acc7439a53f475",
     "name": "Frax",
     "symbol": "FRAX",
@@ -77037,7 +77110,7 @@
     "address": "0x7f5c764cbc14f9669b88837ca1490cca17c31607",
     "chainId": 10,
     "decimals": 6,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/usdc.jpg",
+    "logoURI": "https://static.optimism.io/data/USDC/logo.png",
     "name": "USD Coin",
     "symbol": "USDC"
   },
@@ -77358,6 +77431,17 @@
     "symbol": "KROM",
     "decimals": 18,
     "logoURI": "https://ethereum-optimism.github.io/data/KROM/logo.png"
+  },
+  {
+    "chainId": 10,
+    "address": "0xfa956eb0c4b3e692ad5a6b2f08170ade55999aca",
+    "name": "PhunToken",
+    "symbol": "PHTK",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/PHTK/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+    }
   },
   {
     "chainId": 10,
