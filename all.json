@@ -6949,7 +6949,8 @@
     "address": "0x19b22dbadc298c359a1d1b59e35f352a2b40e33c",
     "name": "tPLATINUM",
     "symbol": "TXPT",
-    "decimals": 18
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/27830/thumb/tPLATINUM_token_2D.jpg?1666165908"
   },
   {
     "chainId": 1,
@@ -7877,6 +7878,14 @@
     "decimals": 6,
     "symbol": "IMPCN",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/4333.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Proof Of Apes",
+    "address": "0x1d2d542e6d9d85a712deb4d1a7d96a16ce00b8ce",
+    "decimals": 18,
+    "symbol": "POA",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/22292.png"
   },
   {
     "chainId": 1,
@@ -14290,10 +14299,11 @@
   },
   {
     "chainId": 1,
+    "name": "AurusSILVER",
     "address": "0x34abce75d2f8f33940c721dca0f562617787bff3",
-    "name": "tSILVER",
-    "symbol": "TXAG",
-    "decimals": 18
+    "decimals": 18,
+    "symbol": "AWS",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/9547.png"
   },
   {
     "chainId": 1,
@@ -15521,14 +15531,6 @@
     "decimals": 18,
     "symbol": "BLXM",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/12886.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x38de42f4ba8a35056b33a746a6b45be9b1c3b9d2",
-    "name": "Staked Note",
-    "symbol": "SNOTE",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/25118/thumb/128_px.png?1650350012"
   },
   {
     "chainId": 1,
@@ -21979,6 +21981,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x5006192340d83bfa47ee2f28edd0fd16a56d5b5e",
+    "name": "3gg",
+    "symbol": "3GG",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/27864/thumb/%E8%9E%A2%E5%B9%95%E6%88%AA%E5%9C%96_2022-10-17_%E4%B8%8B%E5%8D%888.28.14.png?1666151176"
+  },
+  {
+    "chainId": 1,
     "name": "Hashthereum",
     "address": "0x500d15aa5b01e7eb77e4d4c8283df3e6c49da754",
     "decimals": 18,
@@ -28411,11 +28421,11 @@
   },
   {
     "chainId": 1,
-    "name": "AurusGOLD",
     "address": "0x696acc2de564b48682d71d0847b3632f87c9a402",
-    "decimals": 18,
+    "name": "AurusGOLD",
     "symbol": "AWG",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/5705.png"
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/11594/thumb/2021-12-06-Aurus-tokens-for-coingecko-AWG-flat-color-v1-r1-AS.png?1640223324"
   },
   {
     "chainId": 1,
@@ -28443,11 +28453,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x6988a804c74fd04f37da1ea4781cea68c9c00f86",
     "name": "Tribal Token",
-    "symbol": "TRIBL",
+    "address": "0x6988a804c74fd04f37da1ea4781cea68c9c00f86",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/27774/thumb/TRIBL_Logo_200x200.png?1665724961"
+    "symbol": "TRIBL",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/19009.png"
   },
   {
     "chainId": 1,
@@ -33223,6 +33233,14 @@
     "decimals": 18,
     "symbol": "KNT",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3383.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x7cc97bf17c5adabe25f9d19d15a1ec8a1ad65f14",
+    "name": "Wolverinu",
+    "symbol": "WOLVERINU",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/27872/thumb/LOGO3232.jpg?1666166703"
   },
   {
     "chainId": 1,
@@ -41934,6 +41952,14 @@
   },
   {
     "chainId": 1,
+    "name": "Lovely Inu",
+    "address": "0x9e24415d1e549ebc626a13a482bb117a2b43e9cf",
+    "decimals": 18,
+    "symbol": "LOVELY",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/12365.png"
+  },
+  {
+    "chainId": 1,
     "name": "MetisDAO",
     "address": "0x9e32b13ce7f2e80a01932b42553652e053d6ed8e",
     "decimals": 18,
@@ -42786,6 +42812,14 @@
     "symbol": "REALT-S-5601-SWOOD-",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/16605/thumb/5601-S-Wood-hero-1.jpg?1624544382"
+  },
+  {
+    "chainId": 1,
+    "address": "0xa13c75387c6677362f540f432bd8928c014e4892",
+    "name": "Sky Bandit Coin",
+    "symbol": "SBC",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/27868/thumb/SBC.png?1666154249"
   },
   {
     "chainId": 1,
@@ -43877,6 +43911,13 @@
     "decimals": 18,
     "symbol": "UNDG",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/8400.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xa59e341e8047498700ed244814b01b34547fb21b",
+    "name": "Medal of Honour",
+    "symbol": "MOH",
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -47349,6 +47390,14 @@
   },
   {
     "chainId": 1,
+    "name": "7s",
+    "address": "0xb3917d0ed51391fcde911586726d9ef015b2ff07",
+    "decimals": 18,
+    "symbol": "7S",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/22288.png"
+  },
+  {
+    "chainId": 1,
     "address": "0xb39185e33e8c28e0bb3dbbce24da5dea6379ae91",
     "name": "PHUNK Vault  NFTX ",
     "symbol": "PHUNK",
@@ -48446,11 +48495,11 @@
   },
   {
     "chainId": 1,
-    "name": "AurusSILVER",
     "address": "0xb89903dde3899f0280b99913168ee833a7896b93",
-    "decimals": 18,
+    "name": "AurusSILVER",
     "symbol": "AWS",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/9547.png"
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/14965/thumb/2021-12-06-Aurus-tokens-for-coingecko-AWS-flat-color-v1-r1-AS.png?1640223368"
   },
   {
     "chainId": 1,
@@ -49786,14 +49835,6 @@
     "decimals": 18,
     "symbol": "EXO",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/9879.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xbd89b8d708809e7022135313683663911826977e",
-    "name": "O MEE",
-    "symbol": "OME",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/25099/thumb/logo-mark-full-colour-cmyk-693px_300ppi.jpg?1650283806"
   },
   {
     "chainId": 1,
@@ -51381,6 +51422,14 @@
     "symbol": "MM",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/12941/thumb/mm%EB%A1%9C%EA%B3%A0-2.png?1603765868"
+  },
+  {
+    "chainId": 1,
+    "address": "0xc3cab0d0918c39e29088c495a077ecd022758798",
+    "name": "Kitsune Mask",
+    "symbol": "KMASK",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/27866/thumb/kitsun.png?1666152169"
   },
   {
     "chainId": 1,
@@ -53194,6 +53243,14 @@
     "decimals": 18,
     "symbol": "ARR",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/4535.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xcb0d82f4dfa503c9e3b8abc7a3caa01175b2da39",
+    "name": "AurusX",
+    "symbol": "AX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/27871/thumb/AurusX_token_2D.jpg?1666165444"
   },
   {
     "chainId": 1,
@@ -59381,6 +59438,14 @@
   },
   {
     "chainId": 1,
+    "name": "Dejitaru Kaida",
+    "address": "0xe44aa0354341f02d51c14fe2248b005b2e3372d4",
+    "decimals": 9,
+    "symbol": "KAIDA",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/22293.png"
+  },
+  {
+    "chainId": 1,
     "name": "Wrapped Celo",
     "address": "0xe452e6ea2ddeb012e20db73bf5d3863a3ac8d77a",
     "decimals": 18,
@@ -59470,10 +59535,11 @@
   },
   {
     "chainId": 1,
+    "name": "AurusGOLD",
     "address": "0xe4a6f23fb9e00fca037aa0ea0a6954de0a6c53bf",
-    "name": "tGOLD",
-    "symbol": "TXAU",
-    "decimals": 18
+    "decimals": 18,
+    "symbol": "AWG",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/5705.png"
   },
   {
     "chainId": 1,
@@ -61898,6 +61964,14 @@
     "decimals": 18,
     "symbol": "XED",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/8163.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xee586e7eaad39207f0549bc65f19e336942c992f",
+    "name": "Celo Euro  Wormhole ",
+    "symbol": "CEUR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/27870/thumb/5ETdHxeE_400x400.jpeg?1666164533"
   },
   {
     "chainId": 1,
@@ -76357,6 +76431,17 @@
   },
   {
     "chainId": 1,
+    "address": "0x88df592f8eb5d7bd38bfef7deb0fbc02cf3778a0",
+    "name": "Tellor",
+    "symbol": "TRB",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/TRB/logo.png",
+    "extensions": {
+      "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
+    }
+  },
+  {
+    "chainId": 1,
     "address": "0x8947da500eb47f82df21143d0c01a29862a8c3c5",
     "name": "Optimistic Thales Token",
     "symbol": "THALES",
@@ -77227,6 +77312,17 @@
   },
   {
     "chainId": 10,
+    "address": "0xaf8ca653fa2772d58f4368b0a71980e9e3ceb888",
+    "name": "Tellor",
+    "symbol": "TRB",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/TRB/logo.png",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+    }
+  },
+  {
+    "chainId": 10,
     "address": "0xaf9fe3b5ccdae78188b1f8b9a49da7ae9510f151",
     "name": "dHEDGE DAO Token",
     "symbol": "DHT",
@@ -77744,6 +77840,17 @@
   },
   {
     "chainId": 42,
+    "address": "0x7b8ac044ebce66acdf14197e8de38c1cc802db4a",
+    "name": "Tellor",
+    "symbol": "TRB",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/TRB/logo.png",
+    "extensions": {
+      "optimismBridgeAddress": "0x22F24361D548e5FaAfb36d1437839f080363982B"
+    }
+  },
+  {
+    "chainId": 42,
     "address": "0x8274ea38fe9bea66f8e7c6f3ef742b85d86aeb5d",
     "name": "TheDAO",
     "symbol": "TheDAO",
@@ -78090,6 +78197,17 @@
     "symbol": "UNI",
     "decimals": 18,
     "logoURI": "https://ethereum-optimism.github.io/data/UNI/logo.png",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+    }
+  },
+  {
+    "chainId": 69,
+    "address": "0x5e70affe232e2919792f77eb94e566db0320fa88",
+    "name": "Tellor",
+    "symbol": "TRB",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/TRB/logo.png",
     "extensions": {
       "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
     }
