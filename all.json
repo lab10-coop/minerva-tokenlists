@@ -67409,7 +67409,7 @@
     "name": "Auction Test",
     "symbol": "AT",
     "decimals": 18,
-    "logoURI": "https://upload.wikimedia.org/wikipedia/commons/7/70/Dot-at_domain_logo.png"
+    "logoURI": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Microcosm_of_London_Plate_006_-_Auction_Room%2C_Christie%27s_%28colour%29.jpg"
   },
   {
     "name": "Aragon Network Token on xDai v2",
@@ -76332,6 +76332,17 @@
   },
   {
     "chainId": 1,
+    "address": "0x44108f0223a3c3028f5fe7aec7f9bb2e66bef82f",
+    "name": "Across Protocol Token",
+    "symbol": "ACX",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/ACX/logo.png",
+    "extensions": {
+      "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
+    }
+  },
+  {
+    "chainId": 1,
     "address": "0x491604c0fdf08347dd1fa4ee062a822a5dd06b5d",
     "name": "Cartesi Token",
     "symbol": "CTSI",
@@ -77595,6 +77606,17 @@
     "symbol": "LRC",
     "decimals": 18,
     "logoURI": "https://ethereum-optimism.github.io/data/LRC/logo.png"
+  },
+  {
+    "chainId": 10,
+    "address": "0xff733b2a3557a7ed6697007ab5d11b79fdd1b76b",
+    "name": "Across Protocol Token",
+    "symbol": "ACX",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/ACX/logo.png",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+    }
   },
   {
     "chainId": 42,
