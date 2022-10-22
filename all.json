@@ -7929,6 +7929,14 @@
   },
   {
     "chainId": 1,
+    "name": "ClearCryptos",
+    "address": "0x1d6405138a335ce5fd7364086334efb3e4f28b59",
+    "decimals": 18,
+    "symbol": "CCX",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/22338.png"
+  },
+  {
+    "chainId": 1,
     "name": "Starter",
     "address": "0x1d7ca62f6af49ec66f6680b8606e634e55ef22c1",
     "decimals": 18,
@@ -10356,14 +10364,6 @@
   },
   {
     "chainId": 1,
-    "name": "Slougi",
-    "address": "0x2656f02bc30427ed9d380e20cec5e04f5a7a50fe",
-    "decimals": 18,
-    "symbol": "SLOUGI",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/22017.png"
-  },
-  {
-    "chainId": 1,
     "name": "Unibomb",
     "address": "0x265ba42daf2d20f3f358a7361d9f69cb4e28f0e6",
     "decimals": 18,
@@ -11778,14 +11778,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x2bbf681cc4eb09218bee85ea2a5d3d13fa40fc0c",
-    "name": "Balancer Boosted Aave USDT",
-    "symbol": "BB-A-USDT",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/25826/thumb/0x2bbf681cc4eb09218bee85ea2a5d3d13fa40fc0c.png?1654063979"
-  },
-  {
-    "chainId": 1,
     "name": "Ultra Salescloud",
     "address": "0x2bdbf15d055899a767f5459a151bed15fb8fd2f6",
     "decimals": 18,
@@ -12659,6 +12651,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x2f4eb100552ef93840d5adc30560e5513dfffacb",
+    "name": "Balancer Boosted Aave USDT",
+    "symbol": "BB-A-USDT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/25826/thumb/0x2bbf681cc4eb09218bee85ea2a5d3d13fa40fc0c.png?1654063979"
+  },
+  {
+    "chainId": 1,
     "name": "UNCL",
     "address": "0x2f4eb47a1b1f4488c71fc10e39a4aa56af33dd49",
     "decimals": 18,
@@ -12784,14 +12784,6 @@
     "symbol": "TEMCO",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/6210/thumb/bSZ7HUuS_400x400.jpg?1549002381"
-  },
-  {
-    "chainId": 1,
-    "address": "0x2fcf250cadba1d08f38b5b4705ecc4d0fe0d81dc",
-    "name": "SocialBlox",
-    "symbol": "SBLX",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/24769/thumb/x86VE7oQ.png?1648817788"
   },
   {
     "chainId": 1,
@@ -16151,6 +16143,14 @@
   },
   {
     "chainId": 1,
+    "name": "Laeeb Inu",
+    "address": "0x3b1a3c5d9d5c60651d4841c7814aa0fbb45a863d",
+    "decimals": 18,
+    "symbol": "LAEEB",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/22329.png"
+  },
+  {
+    "chainId": 1,
     "name": "LP-bCurve",
     "address": "0x3b3ac5386837dc563660fb6a0937dfaa5924333b",
     "decimals": 18,
@@ -17765,7 +17765,7 @@
     "name": "Cold Chain",
     "address": "0x418a931a0bc28d0d23ce39eb279e82b21a5fa78e",
     "decimals": 18,
-    "symbol": "CLB",
+    "symbol": "CEB",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/22237.png"
   },
   {
@@ -21436,11 +21436,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x4e0df4560cedfda5d793f607cefa30383bda7327",
     "name": "Qatar Inu Token",
-    "symbol": "QATAR",
+    "address": "0x4e0df4560cedfda5d793f607cefa30383bda7327",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/27894/thumb/2022-10-18_20.39.03.jpg?1666254735"
+    "symbol": "QATAR",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/22325.png"
   },
   {
     "chainId": 1,
@@ -25526,6 +25526,14 @@
   },
   {
     "chainId": 1,
+    "name": "ZED Token",
+    "address": "0x5ec03c1f7fa7ff05ec476d19e34a22eddb48acdc",
+    "decimals": 18,
+    "symbol": "ZED",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/20854.png"
+  },
+  {
+    "chainId": 1,
     "name": "Crespo",
     "address": "0x5ecb025e51415dba9fd272c551076357cf4069f5",
     "decimals": 18,
@@ -26912,7 +26920,7 @@
     "name": "Maxity",
     "symbol": "MAX",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/26933/thumb/MAX_token_200.png?1660891504"
+    "logoURI": "https://assets.coingecko.com/coins/images/26933/thumb/MAX_token_200.png?1666345433"
   },
   {
     "chainId": 1,
@@ -29726,6 +29734,14 @@
     "decimals": 18,
     "symbol": "ITR",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/14323.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Die Protocol",
+    "address": "0x6ef6610d24593805144d73b13d4405e00a4e4ac7",
+    "decimals": 18,
+    "symbol": "DIE",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/22322.png"
   },
   {
     "chainId": 1,
@@ -32948,14 +32964,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x7b50775383d3d6f0215a8f290f2c9e2eebbeceb2",
-    "name": "Balancer Boosted Aave USD",
-    "symbol": "BB-A-USD",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/25769/thumb/0x7b50775383d3d6f0215a8f290f2c9e2eebbeceb2.png?1653604699"
-  },
-  {
-    "chainId": 1,
     "name": "Okschain",
     "address": "0x7b68d272eda2185ea2f9283f241b1c44c51e712a",
     "decimals": 18,
@@ -34528,6 +34536,14 @@
     "decimals": 8,
     "symbol": "LDN",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/4083.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x82698aecc9e28e9bb27608bd52cf57f704bd1b83",
+    "name": "Balancer Boosted Aave USDC",
+    "symbol": "BB-A-USDC",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/25780/thumb/bb-a-usdc.png?1653735108"
   },
   {
     "chainId": 1,
@@ -37968,6 +37984,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x8ee325ae3e54e83956ef2d5952d3c8bc1fa6ec27",
+    "name": "Fable Of The Dragon",
+    "symbol": "TYRANT",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/27911/thumb/da9bdde1-d446-4291-a79d-1b1c2ec183ff.png?1666342614"
+  },
+  {
+    "chainId": 1,
     "name": "DigiMetaverse",
     "address": "0x8eedefe828a0f16c8fc80e46a87bc0f1de2d960c",
     "decimals": 18,
@@ -40596,6 +40620,14 @@
   },
   {
     "chainId": 1,
+    "name": "Slougi",
+    "address": "0x9913db584ed23e53b419eb8bc3b6e4707d3bb7e1",
+    "decimals": 18,
+    "symbol": "SLOUGI",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/22017.png"
+  },
+  {
+    "chainId": 1,
     "address": "0x992058b7db08f9734d84485bfbc243c4ee6954a7",
     "symbol": "sYFI",
     "name": "Synthetic yearn.finance",
@@ -42839,6 +42871,14 @@
   },
   {
     "chainId": 1,
+    "address": "0xa13a9247ea42d743238089903570127dda72fe44",
+    "name": "Balancer Boosted Aave USD",
+    "symbol": "BB-A-USD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/25769/thumb/0x7b50775383d3d6f0215a8f290f2c9e2eebbeceb2.png?1653604699"
+  },
+  {
+    "chainId": 1,
     "address": "0xa13c75387c6677362f540f432bd8928c014e4892",
     "name": "Sky Bandit Coin",
     "symbol": "SBC",
@@ -44167,6 +44207,14 @@
     "decimals": 18,
     "symbol": "HPT",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3721.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Sommelier",
+    "address": "0xa670d7237398238de01267472c6f13e5b8010fd1",
+    "decimals": 18,
+    "symbol": "SOMM",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/18248.png"
   },
   {
     "chainId": 1,
@@ -46152,6 +46200,14 @@
     "decimals": 18,
     "symbol": "MINX",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/4012.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xae37d54ae477268b9997d4161b96b8200755935c",
+    "name": "Balancer Boosted Aave DAI",
+    "symbol": "BB-A-DAI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/25883/thumb/bb-a-dai.png?1654347111"
   },
   {
     "chainId": 1,
@@ -49757,11 +49813,11 @@
   },
   {
     "chainId": 1,
-    "name": "Meter Governance mapped by Meter.io",
+    "name": "Meter Governance",
     "address": "0xbd2949f67dcdc549c6ebe98696449fa79d988a9f",
     "decimals": 18,
-    "symbol": "eMTRG",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/6628.png"
+    "symbol": "MTRG",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/5919.png"
   },
   {
     "chainId": 1,
@@ -50158,11 +50214,11 @@
   },
   {
     "chainId": 1,
-    "address": "0xbec5938fd565cbec72107ee39cde1bc78049537d",
     "name": "Swing DAO",
-    "symbol": "SWING",
+    "address": "0xbec5938fd565cbec72107ee39cde1bc78049537d",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/27779/thumb/aUQKFUM.png?1665731942"
+    "symbol": "SWING",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/22175.png"
   },
   {
     "chainId": 1,
@@ -59470,6 +59526,14 @@
   },
   {
     "chainId": 1,
+    "address": "0xe44d9f88c84af1765b48bab1d09c0d9c39b01056",
+    "name": "Defun Gaming",
+    "symbol": "DEFUN",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/27906/thumb/trans.png?1666335908"
+  },
+  {
+    "chainId": 1,
     "name": "Wrapped Celo",
     "address": "0xe452e6ea2ddeb012e20db73bf5d3863a3ac8d77a",
     "decimals": 18,
@@ -62641,6 +62705,14 @@
   },
   {
     "chainId": 1,
+    "address": "0xf05e58fcea29ab4da01a495140b349f8410ba904",
+    "name": "CLever CVX",
+    "symbol": "CLEVCVX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/27902/thumb/%E6%88%AA%E5%B1%8F2022-10-21_%E4%B8%8A%E5%8D%8812.43.46.png?1666334411"
+  },
+  {
+    "chainId": 1,
     "name": "Cyclepunk",
     "address": "0xf0607300cb81b1bfdb55768d7386863a759a4e06",
     "decimals": 9,
@@ -63054,6 +63126,14 @@
     "decimals": 18,
     "symbol": "KAIBA",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/14077.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Fast Access Blockchain",
+    "address": "0xf2260ed15c59c9437848afed04645044a8d5e270",
+    "decimals": 18,
+    "symbol": "FAB",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3941.png"
   },
   {
     "chainId": 1,
@@ -64309,6 +64389,14 @@
     "decimals": 18,
     "symbol": "CUST",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/4240.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xf6af18f94d55b8888b557cb3da0ec623ba245f80",
+    "name": "SocialBlox",
+    "symbol": "SBLX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/24769/thumb/x86VE7oQ.png?1648817788"
   },
   {
     "chainId": 1,
@@ -80517,6 +80605,14 @@
     "name": "Hertz Token",
     "symbol": "HTZ",
     "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0x9C8E99eb130AED653Ef90fED709D9C3E9cC8b269/logo_24.png"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x9c9e5fd8bbc25984b178fdce6117defa39d2db39",
+    "decimals": 18,
+    "name": "BUSD Token",
+    "symbol": "BUSD",
+    "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0x9C9e5fD8bbc25984B178FdCE6117Defa39d2db39/logo_24.png"
   },
   {
     "chainId": 43114,
