@@ -537,6 +537,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x015b94ab2b0a14a96030573fbcd0f3d3d763541f",
+    "name": "Zunami Protocol",
+    "symbol": "UZD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/27621/thumb/UZD_Logo_200x200.png?1666428507"
+  },
+  {
+    "chainId": 1,
     "address": "0x015df42d36bc851c7f15f80bd1d4e8dbf02aed0c",
     "name": "Connect Coin",
     "symbol": "XCON",
@@ -32988,14 +32996,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x7b75e328829f66bb1da0b3bcbe7e8123751a05f7",
-    "name": "BitcoinLegend",
-    "symbol": "BCL",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/24840/thumb/DjB0X_rP_400x400.jpg?1649076655"
-  },
-  {
-    "chainId": 1,
     "name": "YF Link USD",
     "address": "0x7b760d06e401f85545f3b50c44bf5b05308b7b62",
     "decimals": 18,
@@ -57005,10 +57005,11 @@
   {
     "chainId": 1,
     "address": "0xd957e08ac5421e2c28510586b57d095e5094836a",
-    "name": "VorteX Network",
     "symbol": "VTX",
+    "name": "VorteX Network",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/10543/thumb/256x256.png?1607154365"
+    "logoURI": "ipfs://QmWyXSswHX3zgiMxK6kW7CU6KxYvytVoXnDJvbZGwrrjfw",
+    "tags": []
   },
   {
     "chainId": 1,
@@ -59988,13 +59989,6 @@
     "decimals": 18,
     "symbol": "deprecated-AMPT",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/18675.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xe5c987f93734cb44ab03f1b18e30a374254891b6",
-    "name": "Zunami Protocol",
-    "symbol": "UZD",
-    "decimals": 18
   },
   {
     "chainId": 1,
