@@ -562,6 +562,17 @@
   },
   {
     "chainId": 1,
+    "address": "0xb1f1f47061a7be15c69f378cb3f69423bd58f2f8",
+    "name": "Flashstake",
+    "symbol": "FLASH",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/FLASH/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
+    }
+  },
+  {
+    "chainId": 1,
     "address": "0xb4272071ecadd69d933adcd19ca99fe80664fc08",
     "name": "CryptoFranc",
     "symbol": "XCHF",
@@ -1269,6 +1280,17 @@
       "SuperToken",
       "WrapperToken"
     ]
+  },
+  {
+    "chainId": 10,
+    "address": "0x86bea60374f220de9769b2fef2db725bc1cdd335",
+    "name": "Flashstake",
+    "symbol": "FLASH",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/FLASH/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+    }
   },
   {
     "chainId": 10,
