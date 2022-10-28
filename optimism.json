@@ -397,6 +397,17 @@
   },
   {
     "chainId": 1,
+    "address": "0x6789d8a7a7871923fc6430432a602879ecb6520a",
+    "name": "veKwenta",
+    "symbol": "veKWENTA",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/veKWENTA/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
+    }
+  },
+  {
+    "chainId": 1,
     "address": "0x69af81e73a73b40adf4f3d4223cd9b1ece623074",
     "name": "Mask Network",
     "symbol": "MASK",
@@ -771,6 +782,17 @@
   },
   {
     "chainId": 5,
+    "address": "0x0000000000000000000000000000000000000000",
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/ETH/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x636Af16bf2f682dD3109e60102b8E1A089FedAa8"
+    }
+  },
+  {
+    "chainId": 5,
     "address": "0x07865c6e87b9f70255377e024ace6630c1eaa37f",
     "name": "USD Coin",
     "symbol": "USDC",
@@ -908,6 +930,17 @@
     "symbol": "MOM",
     "decimals": 18,
     "logoURI": "https://ethereum-optimism.github.io/data/MOM/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x636Af16bf2f682dD3109e60102b8E1A089FedAa8"
+    }
+  },
+  {
+    "chainId": 5,
+    "address": "0xf36c9a9e8333663f8ca3608c5582916628e79e3f",
+    "name": "veKwenta",
+    "symbol": "veKWENTA",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/veKWENTA/logo.svg",
     "extensions": {
       "optimismBridgeAddress": "0x636Af16bf2f682dD3109e60102b8E1A089FedAa8"
     }
@@ -1157,6 +1190,17 @@
     "symbol": "ENS",
     "decimals": 18,
     "logoURI": "https://ethereum-optimism.github.io/data/ENS/logo.png"
+  },
+  {
+    "chainId": 10,
+    "address": "0x678d8f4ba8dfe6bad51796351824dcceceaeff2b",
+    "name": "veKwenta",
+    "symbol": "veKWENTA",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/veKWENTA/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+    }
   },
   {
     "chainId": 10,
@@ -2611,6 +2655,17 @@
     "symbol": "WMP",
     "decimals": 18,
     "logoURI": "https://ethereum-optimism.github.io/data/WMP/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+    }
+  },
+  {
+    "chainId": 420,
+    "address": "0x3e52b5f840eafd79394c6359e93bf3ffdae89ee4",
+    "name": "veKwenta",
+    "symbol": "veKWENTA",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/veKWENTA/logo.svg",
     "extensions": {
       "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
     }
