@@ -539,7 +539,7 @@
   {
     "chainId": 1,
     "address": "0x015b94ab2b0a14a96030573fbcd0f3d3d763541f",
-    "name": "Zunami Protocol",
+    "name": "Zunami USD",
     "symbol": "UZD",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/27621/thumb/UZD_Logo_200x200.png?1666428507"
@@ -11467,7 +11467,7 @@
   {
     "chainId": 1,
     "address": "0x2a69655c22eda32ff48d315bb26ed45f150700b4",
-    "name": "Wrapped Tezos",
+    "name": "StakerDAO Wrapped Tezos",
     "symbol": "WXTZ",
     "decimals": 6,
     "logoURI": "https://assets.coingecko.com/coins/images/14763/thumb/wXTZ-token-FullColor.png?1618281765"
@@ -11949,7 +11949,7 @@
     "chainId": 1,
     "name": "BiLira",
     "address": "0x2c537e5624e4af88a7ae4060c022609376c8d0eb",
-    "decimals": 6,
+    "decimals": 18,
     "symbol": "TRYB",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/5181.png"
   },
@@ -18533,7 +18533,7 @@
   {
     "chainId": 1,
     "address": "0x43ab765ee05075d78ad8aa79dcb1978ca3079258",
-    "name": "Metahero Universe",
+    "name": "POW",
     "symbol": "POW",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/22333/thumb/16963.png?1641515902"
@@ -24958,6 +24958,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x5c6ee304399dbdb9c8ef030ab642b10820db8f56",
+    "name": "Balancer 80 BAL 20 WETH",
+    "symbol": "B-80BAL-20WETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/26452/thumb/0x5c6ee304399dbdb9c8ef030ab642b10820db8f56.png?1658113613"
+  },
+  {
+    "chainId": 1,
     "address": "0x5c6ff62552a25d68d453277dd3693f94c7e8c964",
     "name": "Fit Beat",
     "symbol": "FTB",
@@ -25468,6 +25476,14 @@
     "decimals": 18,
     "symbol": "DAF",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/17529.png"
+  },
+  {
+    "chainId": 1,
+    "name": "IYKYK",
+    "address": "0x5e0812b1a3a8d5b7198a726d1d6f03efa3ae2bf4",
+    "decimals": 18,
+    "symbol": "IYKYK",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/22438.png"
   },
   {
     "chainId": 1,
@@ -26759,14 +26775,6 @@
     "decimals": 18,
     "symbol": "SAFEBTC",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/8993.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x62d75a2a10f755104bd1024d997141ce793cf585",
-    "name": "520",
-    "symbol": "520",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/9758/thumb/logo_%2822%29.png?1571437829"
   },
   {
     "chainId": 1,
@@ -42009,14 +42017,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x9d59eba4deaee09466ba9d4073bf912bc72982b0",
-    "name": "CYBERKONGZ",
-    "symbol": "KONGZ20",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/17854/thumb/unnamed.gif?1629680257"
-  },
-  {
-    "chainId": 1,
     "name": "deprecated-XANALIA",
     "address": "0x9d5dc3cc15e5618434a2737dbf76158c59ca1e65",
     "decimals": 18,
@@ -44151,7 +44151,7 @@
     "name": "Medal of Honour",
     "symbol": "MOH",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/27861/thumb/f48PEDwg_400x400.jpeg?1666762268"
+    "logoURI": "https://assets.coingecko.com/coins/images/27861/thumb/moh.jpg?1666947555"
   },
   {
     "chainId": 1,
@@ -46378,6 +46378,14 @@
     "decimals": 18,
     "symbol": "MINX",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/4012.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xae36155a55f04a696b8362777620027882b31db5",
+    "name": "Kishimoto",
+    "symbol": "KISHIMOTO",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/28011/thumb/kishimoto.png?1666944015"
   },
   {
     "chainId": 1,
@@ -66664,14 +66672,6 @@
     "decimals": 18,
     "symbol": "BITX",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3011.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xff3417dd60a87bce3a6d7d4a62dcd3e9d2ea59c4",
-    "name": "Landverse",
-    "symbol": "LVMH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/25283/thumb/avatar-1548654970-0-1.jpg?1651128083"
   },
   {
     "chainId": 1,
