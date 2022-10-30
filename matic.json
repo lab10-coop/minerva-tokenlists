@@ -451,6 +451,18 @@
     "logoURI": "https://aavegotchi.com/images/ghsttoken.svg"
   },
   {
+    "chainId": 137,
+    "address": "0x3862c15cdc4c38517aa4c6f94197a93253502168",
+    "name": "Super Sunny Jaycer Token",
+    "symbol": "SUNNYx",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/superfluid-finance/assets/master/public/tokens/sunny/icon.svg",
+    "tags": [
+      "SuperToken",
+      "WrapperToken"
+    ]
+  },
+  {
     "name": "Fish",
     "address": "0x3a3df212b7aa91aa0402b9035b098891d276572b",
     "symbol": "FISH",
