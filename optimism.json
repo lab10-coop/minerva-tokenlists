@@ -573,6 +573,17 @@
   },
   {
     "chainId": 1,
+    "address": "0xb0b195aefa3650a6908f15cdac7d92f8a5791b0b",
+    "name": "BOB Token",
+    "symbol": "BOB",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/BOB/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
+    }
+  },
+  {
+    "chainId": 1,
     "address": "0xb1f1f47061a7be15c69f378cb3f69423bd58f2f8",
     "name": "Flashstake",
     "symbol": "FLASH",
@@ -688,6 +699,17 @@
     "symbol": "DHT",
     "decimals": 18,
     "logoURI": "https://ethereum-optimism.github.io/data/DHT/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
+    }
+  },
+  {
+    "chainId": 1,
+    "address": "0xd0cd466b34a24fcb2f87676278af2005ca8a78c4",
+    "name": "Popcorn",
+    "symbol": "POP",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/POP/logo.svg",
     "extensions": {
       "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
     }

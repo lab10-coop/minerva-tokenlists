@@ -5290,14 +5290,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x13d71cfc90a83cd1cc0e59675c3f4b90d4162a8b",
-    "name": "SWIPE Network",
-    "symbol": "SWIPE",
-    "decimals": 8,
-    "logoURI": "https://assets.coingecko.com/coins/images/9697/thumb/jX_8guyy_400x400_%281%29.jpg?1570914447"
-  },
-  {
-    "chainId": 1,
     "name": "TAIYO",
     "address": "0x13db9034c9ca6cb739887288fce790544a476f8c",
     "decimals": 9,
@@ -12657,6 +12649,14 @@
     "decimals": 18,
     "symbol": "$SBC",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/15738.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x2f0f622a93c85c43fd47f4ab119360f5846026c4",
+    "name": "MatsuSwap",
+    "symbol": "MATSUSWAP",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/28041/thumb/200x200-1.png?1667202469"
   },
   {
     "chainId": 1,
@@ -20419,11 +20419,11 @@
   },
   {
     "chainId": 1,
-    "name": "CyberFM",
     "address": "0x4a621d9f1b19296d1c0f87637b3a8d4978e9bf82",
-    "decimals": 18,
+    "name": "CyberFM",
     "symbol": "CYFM",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3146.png"
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/5476/thumb/cyberfm.png?1547041216"
   },
   {
     "chainId": 1,
@@ -22123,6 +22123,14 @@
     "symbol": "BRMV",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/14389/thumb/brmv-logo-256px.png?1615856173"
+  },
+  {
+    "chainId": 1,
+    "name": "Shiwa",
+    "address": "0x5022cb6d39001cdd6f996e8a66500c86128f1cc4",
+    "decimals": 9,
+    "symbol": "SHIWA",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/22476.png"
   },
   {
     "chainId": 1,
@@ -36090,11 +36098,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x8770b7dd89e5f759ee3b226e0c45e890f87ddc48",
     "name": "Made In Real Life",
-    "symbol": "MIRL",
+    "address": "0x8770b7dd89e5f759ee3b226e0c45e890f87ddc48",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/28021/thumb/mirl.png?1667028324"
+    "symbol": "MIRL",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/22459.png"
   },
   {
     "chainId": 1,
@@ -37903,11 +37911,11 @@
   },
   {
     "chainId": 1,
+    "name": "Eco",
     "address": "0x8dbf9a4c99580fc7fd4024ee08f3994420035727",
-    "name": "ECO",
-    "symbol": "ECO",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/27961/thumb/_ECO.png?1666751247"
+    "symbol": "ECO",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/22451.png"
   },
   {
     "chainId": 1,
@@ -49029,10 +49037,11 @@
   {
     "chainId": 1,
     "address": "0xb9e6bdcba653b5f768dd2e2faf6288df9054e554",
-    "name": "Dirham",
     "symbol": "DAH",
+    "name": "Dirham",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/15920/thumb/coinsilver1.610c07e0.png?1622429910"
+    "logoURI": "ipfs://QmVCHXDcu2HU8xUqd1YRbWr8BJLcgKo5ukQc95aBvLX2Z8",
+    "tags": []
   },
   {
     "chainId": 1,
@@ -59160,11 +59169,11 @@
   },
   {
     "chainId": 1,
+    "name": "Eterna",
     "address": "0xe1747a23c44f445062078e3c528c9f4c28c50a51",
-    "name": "Eterna Hybrid Exchange",
-    "symbol": "EHX",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/24825/thumb/_0VJF4cs_400x400.jpg?1649042250"
+    "symbol": "EHX",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/18942.png"
   },
   {
     "chainId": 1,
@@ -76894,6 +76903,17 @@
   },
   {
     "chainId": 1,
+    "address": "0xb0b195aefa3650a6908f15cdac7d92f8a5791b0b",
+    "name": "BOB Token",
+    "symbol": "BOB",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/BOB/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
+    }
+  },
+  {
+    "chainId": 1,
     "address": "0xb1f1f47061a7be15c69f378cb3f69423bd58f2f8",
     "name": "Flashstake",
     "symbol": "FLASH",
@@ -77009,6 +77029,17 @@
     "symbol": "DHT",
     "decimals": 18,
     "logoURI": "https://ethereum-optimism.github.io/data/DHT/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
+    }
+  },
+  {
+    "chainId": 1,
+    "address": "0xd0cd466b34a24fcb2f87676278af2005ca8a78c4",
+    "name": "Popcorn",
+    "symbol": "POP",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/POP/logo.svg",
     "extensions": {
       "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
     }
