@@ -848,24 +848,12 @@
     }
   },
   {
-    "logoURI": "https://assets.coingecko.com/coins/images/13875/thumb/GOVI.png?1612451531",
-    "chainId": 42161,
     "address": "0x07e49d5de43dda6162fa28d24d5935c151875283",
-    "name": "GOVI",
-    "symbol": "GOVI",
+    "chainId": 42161,
     "decimals": 18,
-    "extensions": {
-      "bridgeInfo": {
-        "1": {
-          "tokenAddress": "0xeeaa40b28a2d1b0b08f6f97bb1dd4b75316c6107",
-          "originBridgeAddress": "0x09e9222e96e7b4ae2a407b98d48e330053351eee",
-          "destBridgeAddress": "0xa3A7B6F88361F48403514059F1F16C8E78d60EeC"
-        }
-      },
-      "l1Address": "0xeeaa40b28a2d1b0b08f6f97bb1dd4b75316c6107",
-      "l2GatewayAddress": "0x09e9222e96e7b4ae2a407b98d48e330053351eee",
-      "l1GatewayAddress": "0xa3A7B6F88361F48403514059F1F16C8E78d60EeC"
-    }
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x07E49d5dE43DDA6162Fa28D24d5935C151875283.jpg",
+    "name": "GOVI",
+    "symbol": "GOVI"
   },
   {
     "address": "0x09ad12552ec45f82be90b38dfe7b06332a680864",
@@ -1034,6 +1022,14 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x1f6Fa7A58701b3773b08a1a16D06b656B0eCcb23.jpg",
     "name": "Jones rDPX",
     "symbol": "jrDPX"
+  },
+  {
+    "address": "0x1fae2a29940015632f2a6ce006dfa7e3225515a7",
+    "chainId": 42161,
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x1FAe2A29940015632f2a6CE006dFA7E3225515A7.jpg",
+    "name": "Nitro Floki",
+    "symbol": "NIFLOKI"
   },
   {
     "logoURI": "https://etherscan.io/token/images/sumswap_32.png",
@@ -1711,6 +1707,14 @@
       "l2GatewayAddress": "0x09e9222e96e7b4ae2a407b98d48e330053351eee",
       "l1GatewayAddress": "0xa3A7B6F88361F48403514059F1F16C8E78d60EeC"
     }
+  },
+  {
+    "address": "0x8096ad3107715747361acefe685943bfb427c722",
+    "chainId": 42161,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x8096ad3107715747361acefe685943bfb427c722.jpg",
+    "name": "Crypto Volatility Token",
+    "symbol": "CVOL"
   },
   {
     "address": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",

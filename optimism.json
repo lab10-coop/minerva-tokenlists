@@ -892,6 +892,17 @@
   },
   {
     "chainId": 5,
+    "address": "0x48b942c65a5991dd64360cdde442792bd829af80",
+    "name": "Mochi",
+    "symbol": "MOCHI",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/MOCHI/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x636Af16bf2f682dD3109e60102b8E1A089FedAa8"
+    }
+  },
+  {
+    "chainId": 5,
     "address": "0x51f44ca59b867e005e48fa573cb8df83fc7f7597",
     "name": "Synthetix",
     "symbol": "SNX",
@@ -1383,7 +1394,7 @@
     "name": "Dola USD Stablecoin",
     "symbol": "DOLA",
     "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/data/DOLA/logo.png"
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/128x128/19191.png"
   },
   {
     "address": "0x8c6f28f2f1a3c87f0f938b96d27520d9751ec8d9",
@@ -2721,6 +2732,17 @@
     "symbol": "MOM",
     "decimals": 18,
     "logoURI": "https://ethereum-optimism.github.io/data/MOM/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+    }
+  },
+  {
+    "chainId": 420,
+    "address": "0x7af72ad5e8793023dc722d617fe3338ac6b5cce9",
+    "name": "Mochi",
+    "symbol": "MOCHI",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/MOCHI/logo.svg",
     "extensions": {
       "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
     }
