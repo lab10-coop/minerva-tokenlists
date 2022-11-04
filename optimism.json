@@ -1253,6 +1253,17 @@
   },
   {
     "chainId": 10,
+    "address": "0x6f0fecbc276de8fc69257065fe47c5a03d986394",
+    "name": "Popcorn",
+    "symbol": "POP",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/POP/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+    }
+  },
+  {
+    "chainId": 10,
     "address": "0x6fd9d7ad17242c41f7131d257212c54a0e816691",
     "name": "Uniswap",
     "symbol": "UNI",
