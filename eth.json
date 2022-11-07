@@ -22438,6 +22438,14 @@
   },
   {
     "chainId": 1,
+    "name": "Tether Pow",
+    "address": "0x5186c4fb5752eb4a952c7ef03fae3e543f48383e",
+    "decimals": 6,
+    "symbol": "USDW",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/22566.png"
+  },
+  {
+    "chainId": 1,
     "name": "Yearn Finance Value",
     "address": "0x519083fc539f23131c3b7046992584592772d12a",
     "decimals": 18,
@@ -23154,11 +23162,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x54cb643ab007f47882e8120a8c57b639005c2688",
     "name": "IMPACTXPRIME",
-    "symbol": "IXP",
+    "address": "0x54cb643ab007f47882e8120a8c57b639005c2688",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/28128/thumb/IXP_LOGO.jpg?1667641972"
+    "symbol": "IXP",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/22559.png"
   },
   {
     "chainId": 1,
@@ -57648,6 +57656,14 @@
   },
   {
     "chainId": 1,
+    "address": "0xda4dd9586d27202a338843dd6b9824d267006783",
+    "name": "Echain Network",
+    "symbol": "ECT",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/28133/thumb/1666808362379-8226c3c3451e049842cfe21d65cb91ad.png?1667719253"
+  },
+  {
+    "chainId": 1,
     "name": "Braziliex Token",
     "address": "0xda5180086461ff6eeb09580181ac160522dcdcd4",
     "decimals": 8,
@@ -59416,7 +59432,7 @@
   },
   {
     "chainId": 1,
-    "name": "NFTY Network",
+    "name": "NFTY Token",
     "address": "0xe1d7c7a4596b038ced2a84bf65b8647271c53208",
     "decimals": 18,
     "symbol": "NFTY",
