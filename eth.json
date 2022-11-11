@@ -18652,6 +18652,14 @@
   },
   {
     "chainId": 1,
+    "name": "Across Protocol",
+    "address": "0x44108f0223a3c3028f5fe7aec7f9bb2e66bef82f",
+    "decimals": 18,
+    "symbol": "ACX",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/22620.png"
+  },
+  {
+    "chainId": 1,
     "name": "Unifi Protocol DAO",
     "address": "0x441761326490cacf7af299725b6292597ee822c2",
     "decimals": 18,
@@ -29645,7 +29653,8 @@
     "address": "0x6d6554939d646f274d0fc3cecb7dab5d76bc908f",
     "name": "Morphswap",
     "symbol": "MS",
-    "decimals": 18
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/28114/thumb/mslogo200.png?1668056773"
   },
   {
     "chainId": 1,
@@ -37982,11 +37991,11 @@
   },
   {
     "chainId": 1,
-    "name": "Eco",
+    "name": "ECO",
     "address": "0x8dbf9a4c99580fc7fd4024ee08f3994420035727",
     "decimals": 18,
     "symbol": "ECO",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/22451.png"
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/8718.png"
   },
   {
     "chainId": 1,
@@ -43735,7 +43744,7 @@
   },
   {
     "chainId": 1,
-    "name": "D-RUN",
+    "name": "D-RUNT",
     "address": "0xa3665c69213bb9affcf92ab90100fbe273e3ab74",
     "decimals": 18,
     "symbol": "DRNT",
@@ -44507,6 +44516,14 @@
   },
   {
     "chainId": 1,
+    "name": "The Paradox Metaverse",
+    "address": "0xa64c055fc5c8e0d796f791512025827653640f03",
+    "decimals": 18,
+    "symbol": "PARA",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/22624.png"
+  },
+  {
+    "chainId": 1,
     "name": "Rice Wallet",
     "address": "0xa64c3a85ddc4cd351eeb7aecebc6a44a64a76392",
     "decimals": 18,
@@ -44585,14 +44602,6 @@
     "symbol": "AMANA",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/14267/thumb/aMANA.f89a1098.png?1615528680"
-  },
-  {
-    "chainId": 1,
-    "address": "0xa68b7779504b0ae372ddcc109f8786db9b91e93e",
-    "name": "RealT   4340 East 71  Cleveland  OH 441",
-    "symbol": "REALT-S-4340-EAST-7",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/16681/thumb/4340-East-71-front.jpeg?1624631910"
   },
   {
     "chainId": 1,
@@ -53696,11 +53705,11 @@
   },
   {
     "chainId": 1,
-    "address": "0xcb0d82f4dfa503c9e3b8abc7a3caa01175b2da39",
     "name": "AurusX",
-    "symbol": "AX",
+    "address": "0xcb0d82f4dfa503c9e3b8abc7a3caa01175b2da39",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/27871/thumb/AurusX_token_2D.jpg?1666165444"
+    "symbol": "AX",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7301.png"
   },
   {
     "chainId": 1,
@@ -57786,7 +57795,7 @@
     "chainId": 1,
     "name": "Tether",
     "address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
-    "decimals": 6,
+    "decimals": 18,
     "symbol": "USDT",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/825.png"
   },
