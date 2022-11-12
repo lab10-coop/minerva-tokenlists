@@ -8130,14 +8130,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x1e23fb8bd851cc2a341428c0b10e65d49987d744",
-    "name": "Incooom Genesis Gold",
-    "symbol": "GCOOOM",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/18986/thumb/gcooom.png?1634111327"
-  },
-  {
-    "chainId": 1,
     "name": "ClearCoin",
     "address": "0x1e26b3d07e57f453cae30f7ddd2f945f5bf3ef33",
     "decimals": 8,
@@ -27836,7 +27828,7 @@
   },
   {
     "chainId": 1,
-    "name": "DexGame",
+    "name": "DEXGame",
     "address": "0x66f73d0fd4161cfad4302dc145ff994375c13475",
     "decimals": 18,
     "symbol": "DXGM",
@@ -28311,7 +28303,7 @@
     "chainId": 1,
     "name": "Tether Gold",
     "address": "0x68749665ff8d2d112fa859aa293f07a622782f38",
-    "decimals": 6,
+    "decimals": 18,
     "symbol": "XAUT",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/5176.png"
   },
@@ -40772,6 +40764,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x981dc247745800bd2ca28a4bf147f0385eaa0bc0",
+    "name": "NutsDAO",
+    "symbol": "NUTS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/28165/thumb/NSD.png?1668171752"
+  },
+  {
+    "chainId": 1,
     "name": "Kitcoin",
     "address": "0x9827f6e8df0ccc584ff7b37144de8bac7c446385",
     "decimals": 18,
@@ -44837,6 +44837,14 @@
   },
   {
     "chainId": 1,
+    "address": "0xa7de94227eb6828497f4343b9923959e41ae9cd1",
+    "name": "MUNI",
+    "symbol": "MUNI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/28166/thumb/I03PYZqO_400x400-removebg-preview.png?1668172860"
+  },
+  {
+    "chainId": 1,
     "address": "0xa7eb2bc82df18013ecc2a6c533fc29446442edee",
     "symbol": "iZRX",
     "name": "Fulcrum ZRX iToken",
@@ -47864,10 +47872,10 @@
   },
   {
     "chainId": 1,
-    "name": "TheStandard.io",
+    "name": "Standard Euro",
     "address": "0xb399511642fe1666c6a07f83483e6e4feaed9a00",
     "decimals": 18,
-    "symbol": "SEURO",
+    "symbol": "sEURO",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/22588.png"
   },
   {
