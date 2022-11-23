@@ -1136,6 +1136,17 @@
   },
   {
     "chainId": 10,
+    "address": "0x3c8b650257cfb5f272f799f5e2b4e65093a11a05",
+    "name": "Velodrome",
+    "symbol": "VELO",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/VELO/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+    }
+  },
+  {
+    "chainId": 10,
     "address": "0x3e7ef8f50246f725885102e8238cbba33f276747",
     "name": "BarnBridge Governance Token",
     "symbol": "BOND",
