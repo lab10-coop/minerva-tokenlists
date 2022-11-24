@@ -1582,7 +1582,7 @@
     "chainId": 1,
     "name": "Gemini Dollar",
     "address": "0x056fd409e1d7a124bd7017459dfea2f387b6d5cd",
-    "decimals": 2,
+    "decimals": 18,
     "symbol": "GUSD",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3306.png"
   },
@@ -5534,7 +5534,7 @@
     "name": "colR Coin",
     "address": "0x14b40ad2eba6c1b31db2ba817b07578afb414415",
     "decimals": 18,
-    "symbol": "$COLR",
+    "symbol": "$colR",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/21293.png"
   },
   {
@@ -6355,14 +6355,6 @@
     "decimals": 18,
     "symbol": "BACON",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/6871.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x175cbd54d38f58b530785e01471a2ec0d4596eb5",
-    "name": "RealT   15770 Prest St  Detroit  MI 482",
-    "symbol": "REALT-S-15770-PREST",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/16636/thumb/15770-Prest-hero-1.jpeg?1624557487"
   },
   {
     "chainId": 1,
@@ -8103,14 +8095,6 @@
     "symbol": "BKK",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/7734/thumb/b8a9c996583ee19c2a98dca34b92a26.png?1646290715"
-  },
-  {
-    "chainId": 1,
-    "address": "0x1e001730a23c7ebaff35bc8bc90da5a9b20804a4",
-    "name": "RealT   9481 Wayburn St  Detroit  MI 48",
-    "symbol": "REALT-S-9481-WAYBUR",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/16609/thumb/9481-Wayburn-hero-1.jpg?1624545084"
   },
   {
     "chainId": 1,
@@ -20539,14 +20523,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x4a99cc509f7facf58d7b67e99236db5e0921ef81",
-    "name": "RealT   10639 Stratman St  Detroit  MI ",
-    "symbol": "REALT-S-10639-STRAT",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/16621/thumb/10639-Stratman-hero-1.jpg?1624551202"
-  },
-  {
-    "chainId": 1,
     "name": "Chellitcoin",
     "address": "0x4a9d711100aff9a444a3c40284f70269bb3f0487",
     "decimals": 18,
@@ -21196,14 +21172,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x4cc53ee5ef306a95d407321d4b4acc30814c04ee",
-    "name": "RealT   19163 Mitchell St  Detroit  MI ",
-    "symbol": "REALT-S-19163-MITCH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/16614/thumb/19163-Mitchell-hero-1.jpeg?1624548736"
-  },
-  {
-    "chainId": 1,
     "name": "Kassia Home",
     "address": "0x4cc84b41ececc387244512242eec226eb7948a92",
     "decimals": 18,
@@ -21722,14 +21690,6 @@
     "decimals": 18,
     "symbol": "RAT",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/11812.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x4eadbfe053dcecdf13e51dc5e429305be6a802d3",
-    "name": "Let s Go Farming",
-    "symbol": "LGF",
-    "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/21337/thumb/lgf-logo.png?1638950694"
   },
   {
     "chainId": 1,
@@ -24444,10 +24404,11 @@
   {
     "chainId": 1,
     "address": "0x5a235c0b4cb8d0e80a5c3bf4d2fad5c32e440884",
-    "name": "KONGZ Vault  NFTX ",
     "symbol": "KONGZ",
+    "name": "KONGZ Vault",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/17061/thumb/kongz.png?1626150650"
+    "logoURI": "ipfs://QmPbhdjaXjTu9vw888kYvTUUU9w2kKrp5ssFT5tJUwoTUz",
+    "tags": []
   },
   {
     "chainId": 1,
@@ -25668,6 +25629,14 @@
     "decimals": 18,
     "symbol": "DAB",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/4284.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x5e8422345238f34275888049021821e8e08caa1f",
+    "name": "Frax Ether",
+    "symbol": "FRXETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/28284/thumb/JjqQ9ROz_400x400.jpeg?1669170320"
   },
   {
     "chainId": 1,
@@ -31374,14 +31343,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x73bde888664df8ddfd156b52e6999eeabab57c94",
-    "name": "RealT   9717 Everts St  Detroit  MI 482",
-    "symbol": "REALT-S-9717-EVERTS",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/16612/thumb/9717-Everts-hero-1.jpeg?1624546272"
-  },
-  {
-    "chainId": 1,
     "name": "Bitball Treasure",
     "address": "0x73c9275c3a2dd84b5741fd59aebf102c91eb033f",
     "decimals": 18,
@@ -32102,14 +32063,6 @@
     "decimals": 18,
     "symbol": "SMT",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/16402.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x76dbeb740ecd1f3b052a9afa302abc7eb4fb5390",
-    "name": "RealT   9133 Devonshire Rd  Detroit  MI",
-    "symbol": "REALT-S-9133-DEVONS",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/16683/thumb/9133-Devonshire-hero.jpeg?1624632898"
   },
   {
     "chainId": 1,
@@ -34216,14 +34169,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x7f940b5509a22e81d29167581bdeea3fa5a0abee",
-    "name": "RealT   15784 Monte Vista St  Detroit  ",
-    "symbol": "REALT-S-15784-MONTE",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/16673/thumb/15784-monte-vista-hero-1.jpeg?1624628466"
-  },
-  {
-    "chainId": 1,
     "name": "Global Game Coin",
     "address": "0x7f969c4d388ca0ae39a4fddb1a6f89878ca2fbf8",
     "decimals": 18,
@@ -34479,14 +34424,6 @@
     "decimals": 18,
     "symbol": "SGC",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/5489.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x80c24111d3f9e1ffecf3b41b9ca68e60a890866b",
-    "name": "AggregatedFinance  OLD ",
-    "symbol": "AGFI",
-    "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/25256/thumb/79LDzdib_400x400.png?1651041943"
   },
   {
     "chainId": 1,
@@ -37275,14 +37212,6 @@
     "decimals": 18,
     "symbol": "JRT",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/5187.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x8a9f904b4ead6a97f3ab304d0d2196f5c602c807",
-    "name": "RealT   19311 Keystone St  Detroit  MI ",
-    "symbol": "REALT-S-19311-KEYST",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/16631/thumb/19311-Keystone-hero-1.jpeg?1624554016"
   },
   {
     "chainId": 1,
@@ -46228,6 +46157,14 @@
   },
   {
     "chainId": 1,
+    "address": "0xac3e018457b222d93114458476f3e3416abbe38f",
+    "name": "Staked Frax Ether",
+    "symbol": "SFRXETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/28285/thumb/JjqQ9ROz_400x400.jpeg?1669170466"
+  },
+  {
+    "chainId": 1,
     "name": "SHUAACHAIN",
     "address": "0xac4294e71a2f6b5847becee48ff334aa719f8fb9",
     "decimals": 18,
@@ -54205,6 +54142,14 @@
   },
   {
     "chainId": 1,
+    "name": "Trillant",
+    "address": "0xcc06579a4cd31b79d5277ed637edbfeb7bb2686a",
+    "decimals": 12,
+    "symbol": "TRI",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/22767.png"
+  },
+  {
+    "chainId": 1,
     "name": "EURB",
     "address": "0xcc0a71ba8ba5a638fe30da6b7bf079acd09d6dc8",
     "decimals": 18,
@@ -54789,6 +54734,14 @@
     "decimals": 18,
     "symbol": "UPP",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/6904.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xce391315b414d4c7555956120461d21808a69f3a",
+    "name": "Bao Finance V2",
+    "symbol": "BAO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/28287/thumb/Oe8-vORu_400x400.png?1669191823"
   },
   {
     "chainId": 1,
@@ -59777,6 +59730,14 @@
   },
   {
     "chainId": 1,
+    "address": "0xe20b9e246db5a0d21bf9209e4858bc9a3ff7a034",
+    "name": "Banano",
+    "symbol": "BAN",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/6226/thumb/banano-transparent.png?1619589798"
+  },
+  {
+    "chainId": 1,
     "name": "ArcanineInu",
     "address": "0xe217c5eb9ea6f94ba965fabd0e867aa47b6f986e",
     "decimals": 18,
@@ -60086,14 +60047,6 @@
     "symbol": "TCR",
     "decimals": 8,
     "logoURI": "https://assets.coingecko.com/coins/images/7836/thumb/tcr.jpg?1604903462"
-  },
-  {
-    "chainId": 1,
-    "address": "0xe3902e329ef2d3fd7666022c139d75bcc984b7a5",
-    "name": "RealT   15048 Freeland St  Detroit  MI ",
-    "symbol": "REALT-S-15048-FREEL",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/16669/thumb/Freeland-8_jpeg.png?1624627336"
   },
   {
     "chainId": 1,
@@ -60688,14 +60641,6 @@
     "decimals": 18,
     "symbol": "FRM",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/4228.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xe5ce63ac9a08c1eb160889151cd84855f16c94d2",
-    "name": "RealT   10616 McKinney St  Detroit  MI ",
-    "symbol": "REALT-S-10616-MCKIN",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/16685/thumb/Mkinney-hero.jpeg?1624634131"
   },
   {
     "chainId": 1,
@@ -61643,6 +61588,14 @@
     "decimals": 8,
     "symbol": "NOW",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3893.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Unification",
+    "address": "0xe9b076b476d8865cdf79d1cf7df420ee397a7f75",
+    "decimals": 9,
+    "symbol": "FUND",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3854.png"
   },
   {
     "chainId": 1,
