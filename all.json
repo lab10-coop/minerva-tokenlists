@@ -4850,14 +4850,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x12513335ffd5dafc2334e98625d27c1ca84bff86",
-    "name": "AME Chain",
-    "symbol": "AME",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/13539/thumb/amechain-logo-200x200.png?1646663912"
-  },
-  {
-    "chainId": 1,
     "name": "Marginless",
     "address": "0x1254e59712e6e727dc71e0e3121ae952b2c4c3b6",
     "decimals": 18,
@@ -17416,6 +17408,14 @@
     "decimals": 18,
     "symbol": "MOV",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/5958.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x40370aed88933021e20cf7c4d67e00417cda2202",
+    "name": "Xave",
+    "symbol": "XAV",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/28299/thumb/Xave_Logomark_%28Color%29_%281%29.png?1669265691"
   },
   {
     "chainId": 1,
@@ -30051,14 +30051,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x6f442da588232dc57bf0096e8de48d6961d5cc83",
-    "name": "RealT   13895 Saratoga St  Detroit  MI ",
-    "symbol": "REALT-S-13895-SARAT",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/16599/thumb/13895-Saratoga-hero-1.jpeg?1624541955"
-  },
-  {
-    "chainId": 1,
     "address": "0x6f4ee03ca6c942c9397d2ba5f8f83ea58f918f47",
     "name": "CashBackPro",
     "symbol": "CBP",
@@ -32449,14 +32441,6 @@
     "decimals": 18,
     "symbol": "RODO",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/22485.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x7841b2a48d1f6e78acec359fed6d874eb8a0f63c",
-    "name": "KERMAN",
-    "symbol": "KERMAN",
-    "decimals": 4,
-    "logoURI": "https://assets.coingecko.com/coins/images/11536/thumb/Kerman.png?1590776066"
   },
   {
     "chainId": 1,
@@ -45629,6 +45613,14 @@
   },
   {
     "chainId": 1,
+    "address": "0xaa3573cc3761133375b0c504146b93f6827f945a",
+    "name": "All Time High",
+    "symbol": "ATH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/28304/thumb/ath200.png?1669276766"
+  },
+  {
+    "chainId": 1,
     "address": "0xaa4e3edb11afa93c41db59842b29de64b72e355b",
     "name": "Marginswap",
     "symbol": "MFI",
@@ -56786,14 +56778,6 @@
     "decimals": 8,
     "symbol": "SHVR",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3645.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xd5fc0c4c4c5ff316e1e91494d963ff1d52ba25ff",
-    "name": "RealT   11078 Longview St  Detroit  MI ",
-    "symbol": "REALT-S-11078-LONGV",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/16630/thumb/11078-Longview-hero-2.5.jpg?1624553559"
   },
   {
     "chainId": 1,
@@ -70197,6 +70181,14 @@
     "decimals": 8,
     "chainId": 137,
     "logoURI": "https://etherscan.io/token/images/binance-wrx_32.png"
+  },
+  {
+    "name": "Axelar Wrapped USDC",
+    "address": "0x750e4c4984a9e0f12978ea6742bc1c5d248f40ed",
+    "symbol": "axlUSDC",
+    "decimals": 6,
+    "chainId": 137,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
   },
   {
     "chainId": 137,
