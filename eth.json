@@ -546,14 +546,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x015df42d36bc851c7f15f80bd1d4e8dbf02aed0c",
-    "name": "Connect Coin",
-    "symbol": "XCON",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/6592/thumb/connect_coin.jpg?1547042796"
-  },
-  {
-    "chainId": 1,
     "name": "KingXChain",
     "address": "0x016396044709eb3edc69c44f4d5fa6996917e4e8",
     "decimals": 18,
@@ -8982,6 +8974,14 @@
   },
   {
     "chainId": 1,
+    "name": "GCD",
+    "address": "0x213ecae6b3cbc0ad976f7d82626546d5b63a71cb",
+    "decimals": 16,
+    "symbol": "GCD",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/22806.png"
+  },
+  {
+    "chainId": 1,
     "address": "0x21413c119b0c11c5d96ae1bd328917bc5c8ed67e",
     "name": "GenomesDAO",
     "symbol": "GENE",
@@ -13111,14 +13111,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x30abb1a1e2913d0991bbf06dd79dfcc224361de9",
-    "name": "Looks Rare",
-    "symbol": "LR",
-    "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/20253/thumb/CGLRLOGO.png?1636701518"
-  },
-  {
-    "chainId": 1,
     "name": "AxeDAO",
     "address": "0x30ac8317dfb0ab4263cd8db1c4f10749911b126c",
     "decimals": 9,
@@ -13745,6 +13737,14 @@
   },
   {
     "chainId": 1,
+    "name": "Carecoin",
+    "address": "0x329cf160f30d21006bcd24b67eade561e54cde4c",
+    "decimals": 18,
+    "symbol": "CARE",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/22822.png"
+  },
+  {
+    "chainId": 1,
     "name": "YFST.Protocol",
     "address": "0x32a18b15985a290604dd9b2ebc39a1035b1a6b9c",
     "decimals": 18,
@@ -14067,11 +14067,11 @@
   },
   {
     "chainId": 1,
+    "name": "PEPE.bet",
     "address": "0x33cf519030235f75a13f29afcff5d6ff4fd10350",
-    "name": "PEPE bet",
-    "symbol": "PEPEBET",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/27970/thumb/IMG_20221025_143614_101.jpg?1666771114"
+    "symbol": "PEPEBET",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/22821.png"
   },
   {
     "chainId": 1,
@@ -61292,14 +61292,6 @@
     "decimals": 18,
     "symbol": "VIBE",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/1983.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xe912b8ba2513d7e29b7b2e5b14398dbf77503fb4",
-    "name": "InventoryClub",
-    "symbol": "VNT",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/14410/thumb/_SWCTiTC_400x400.png?1615946356"
   },
   {
     "chainId": 1,
