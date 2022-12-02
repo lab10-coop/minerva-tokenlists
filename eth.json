@@ -1331,6 +1331,14 @@
   },
   {
     "chainId": 1,
+    "name": "VoxNET",
+    "address": "0x048aa6e69d5117bd665af4128383a6982b8367b3",
+    "decimals": 4,
+    "symbol": "VXON",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/22832.png"
+  },
+  {
+    "chainId": 1,
     "address": "0x048eb9b9c08e2df45644cf0db1fcb3e866c401ad",
     "name": "Live Swap Coin",
     "symbol": "LSC",
@@ -1918,14 +1926,6 @@
     "decimals": 8,
     "symbol": "ESHIP",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3239.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x06d0e5aee443093ac5635b709c8a01342e59df19",
-    "name": "RealT   10617 Hathaway Ave  Cleveland  ",
-    "symbol": "REALT-S-10617-HATHA",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/16709/thumb/10617-Hathaway-hero-1.jpeg?1624647056"
   },
   {
     "chainId": 1,
@@ -8627,14 +8627,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x1fdb4015fd5e031c5641752c1e03b973ad5ea168",
-    "name": "RealT   17500 Evergreen Rd  Detroit  MI",
-    "symbol": "REALT-S-17500-EVERG",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/16624/thumb/17500-Evergreen-hero-1.jpg?1624552051"
-  },
-  {
-    "chainId": 1,
     "name": "ChainGuardians",
     "address": "0x1fe24f25b1cf609b9c4e7e12d802e3640dfa5e43",
     "decimals": 18,
@@ -9593,14 +9585,6 @@
     "symbol": "AAMMUNIWBTCUSDC",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/17255/thumb/aAmmUniWBTCUSDC.png?1626956709"
-  },
-  {
-    "chainId": 1,
-    "address": "0x23684569c0636c9aea246551879d457d0a0e6f58",
-    "name": "RealT   9336 Patton St  Detroit  MI 482",
-    "symbol": "REALT-S-9336-PATTON",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/16701/thumb/9336-Patton-HERO-2.jpeg?1624642655"
   },
   {
     "chainId": 1,
@@ -13359,14 +13343,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x315699f1ba88383cff2f2f30fcad187adb2e4d72",
-    "name": "RealT   14078 Carlisle St  Detroit  MI ",
-    "symbol": "REALT-S-14078-CARLI",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/16597/thumb/14078-Carlisle-hero-1-800x600.jpeg?1624541175"
-  },
-  {
-    "chainId": 1,
     "name": "PIST TRUST",
     "address": "0x315dc1b524de57ae8e809a2e97699dbc895b8a21",
     "decimals": 18,
@@ -13412,14 +13388,6 @@
     "decimals": 18,
     "symbol": "TDX",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2542.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x31820af2d43c08bd82bd94b08974062482bd98d3",
-    "name": "RealT   11653 Nottingham Rd  Detroit  M",
-    "symbol": "REALT-S-11653-NOTTI",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/16622/thumb/11653-Nottingham-hero-1.jpg?1624551450"
   },
   {
     "chainId": 1,
@@ -23411,14 +23379,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x5600e25b4f24c63afa655c3bd96e3c178b654fa1",
-    "name": "RealT   13045 Wade St  Detroit  MI 4821",
-    "symbol": "REALT-S-13045-WADE-",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/16617/thumb/13045-Wade-hero-1.jpg?1624549855"
-  },
-  {
-    "chainId": 1,
     "name": "Cat Token",
     "address": "0x56015bbe3c01fe05bc30a8a9a9fd9a88917e7db3",
     "decimals": 18,
@@ -28703,14 +28663,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x69d1b42b20f3ded07bec322253d0140b04cbb6f5",
-    "name": "RealT   1542 S Ridgeway Ave  Chicago  I",
-    "symbol": "REALT-S-1542-SRIDGE",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/16628/thumb/1542-S-Ridgeway-hero-2.5.jpg?1624553308"
-  },
-  {
-    "chainId": 1,
     "name": "EveryApe",
     "address": "0x69d1ff85004a445a892dfbd88df00d48fb0af638",
     "decimals": 9,
@@ -32159,6 +32111,14 @@
     "decimals": 18,
     "symbol": "MDAO",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/17713.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x77700005bea4de0a78b956517f099260c2ca9a26",
+    "name": "Root",
+    "symbol": "ROOT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/28366/thumb/root-200x200.png?1669907946"
   },
   {
     "chainId": 1,
@@ -36139,11 +36099,11 @@
   },
   {
     "chainId": 1,
+    "name": "SpillWays",
     "address": "0x8790f2fc7ca2e7db841307fb3f4e72a03baf7b47",
-    "name": "Spillways",
-    "symbol": "SPILLWAYS",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/28358/thumb/1669791775144_%281%29.png?1669794825"
+    "symbol": "SPILLWAYS",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/22843.png"
   },
   {
     "chainId": 1,
@@ -36770,14 +36730,6 @@
     "decimals": 18,
     "symbol": "DRM",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/5837.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x89568569da9c83cb35e59f92f5df2f6ca829eeee",
-    "name": "PYROmatic",
-    "symbol": "PYRO",
-    "decimals": 6,
-    "logoURI": "https://assets.coingecko.com/coins/images/26662/thumb/PYRO.png?1669792973"
   },
   {
     "chainId": 1,
@@ -40444,11 +40396,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x96eb50804d0ef2790f2e1a33670feff6040cf89d",
     "name": "Space Xmitter",
-    "symbol": "SX",
+    "address": "0x96eb50804d0ef2790f2e1a33670feff6040cf89d",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/28335/thumb/X200.png?1669680704"
+    "symbol": "SX",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/22834.png"
   },
   {
     "chainId": 1,
@@ -42668,14 +42620,6 @@
     "decimals": 18,
     "symbol": "CENT",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/12392.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x9f923653a19537b5a1b003854a1920fe67a8ffeb",
-    "name": "RealT   13114 Glenfield Ave  Detroit  M",
-    "symbol": "REALT-S-13114-GLENF",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/16678/thumb/13114-Glenfield-Ave.jpeg?1624629523"
   },
   {
     "chainId": 1,
@@ -60268,7 +60212,7 @@
   },
   {
     "chainId": 1,
-    "name": "SuperFarm",
+    "name": "SuperVerse",
     "address": "0xe53ec727dbdeb9e2d5456c3be40cff031ab40a55",
     "decimals": 18,
     "symbol": "SUPER",
@@ -66616,14 +66560,6 @@
     "decimals": 18,
     "symbol": "SKRP",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/4486.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xfe17c3c0b6f38cf3bd8ba872bee7a18ab16b43fb",
-    "name": "RealT   15777 Ardmore St  Detroit  MI 4",
-    "symbol": "REALT-S-15777-ARDMO",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/16542/thumb/15777-Ardmore-hero-2.jpg?1624371814"
   },
   {
     "chainId": 1,
