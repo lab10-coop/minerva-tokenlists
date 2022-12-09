@@ -8182,7 +8182,7 @@
     "name": "IPOR",
     "symbol": "IPOR",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/28373/thumb/IPOR-Token-Logo.png?1669956078"
+    "logoURI": "https://assets.coingecko.com/coins/images/28373/thumb/IPOR-token-200x200.png?1670480793"
   },
   {
     "chainId": 1,
@@ -10282,14 +10282,6 @@
     "decimals": 18,
     "symbol": "BID",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7200.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x25e44e0250f0492c188918f2d726b4861263ef5b",
-    "name": "Dogetama",
-    "symbol": "DOGETAMA",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/23602/thumb/dogetama_logo.png?1644735646"
   },
   {
     "chainId": 1,
@@ -41465,11 +41457,11 @@
   },
   {
     "chainId": 1,
+    "name": "All in",
     "address": "0x9b2b931d6ab97b6a887b2c5d8529537e6fe73ebe",
-    "name": "All In",
-    "symbol": "ALLIN",
     "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/28411/thumb/IMG_20221206_124556_908.png?1670387132"
+    "symbol": "ALLIN",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/22919.png"
   },
   {
     "chainId": 1,
@@ -45741,11 +45733,11 @@
   },
   {
     "chainId": 1,
-    "name": "Shibnobi",
     "address": "0xab167e816e4d76089119900e941befdfa37d6b32",
-    "decimals": 9,
+    "name": "Shibnobi",
     "symbol": "SHINJA",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/14774.png"
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/20545/thumb/4yCR4DH.png?1655888898"
   },
   {
     "chainId": 1,
@@ -52095,11 +52087,11 @@
   },
   {
     "chainId": 1,
-    "name": "Zombie Inu",
     "address": "0xc50ef449171a51fbeafd7c562b064b6471c36caa",
-    "decimals": 18,
+    "name": "Zombie Inu",
     "symbol": "ZINU",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/13382.png"
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/19516/thumb/zinu.jpeg?1635321575"
   },
   {
     "chainId": 1,
@@ -76663,6 +76655,17 @@
   },
   {
     "chainId": 1,
+    "address": "0x0100546f2cd4c9d97f798ffc9755e47865ff7ee6",
+    "name": "Alchemix ETH",
+    "symbol": "alETH",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/alETH/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
+    }
+  },
+  {
+    "chainId": 1,
     "address": "0x01ba67aac7f75f647d94220cc98fb30fcc5105bf",
     "name": "Lyra",
     "symbol": "LYRA",
@@ -76976,6 +76979,17 @@
     "symbol": "ACX",
     "decimals": 18,
     "logoURI": "https://ethereum-optimism.github.io/data/ACX/logo.png",
+    "extensions": {
+      "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
+    }
+  },
+  {
+    "chainId": 1,
+    "address": "0x4691937a7508860f876c9c0a2a617e7d9e945d4b",
+    "name": "Wootrade Network",
+    "symbol": "WOO",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/WOO/logo.svg",
     "extensions": {
       "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
     }
@@ -77443,6 +77457,17 @@
     }
   },
   {
+    "chainId": 1,
+    "address": "0xf655c8567e0f213e6c634cd2a68d992152161dc6",
+    "name": "Impermax",
+    "symbol": "IBEX",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/IBEX/logo.png",
+    "extensions": {
+      "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
+    }
+  },
+  {
     "chainId": 5,
     "address": "0x0000000000000000000000000000000000000000",
     "name": "Ether",
@@ -77787,6 +77812,17 @@
   },
   {
     "chainId": 10,
+    "address": "0x3e29d3a9316dab217754d13b28646b76607c5f04",
+    "name": "Alchemix ETH",
+    "symbol": "alETH",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/alETH/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+    }
+  },
+  {
+    "chainId": 10,
     "address": "0x3e7ef8f50246f725885102e8238cbba33f276747",
     "name": "BarnBridge Governance Token",
     "symbol": "BOND",
@@ -78052,6 +78088,17 @@
   },
   {
     "chainId": 10,
+    "address": "0x871f2f2ff935fd1ed867842ff2a7bfd051a5e527",
+    "name": "Wootrade Network",
+    "symbol": "WOO",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/WOO/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+    }
+  },
+  {
+    "chainId": 10,
     "address": "0x8ae125e8653821e851f12a49f7765db9a9ce7384",
     "name": "Dola USD Stablecoin",
     "symbol": "DOLA",
@@ -78175,6 +78222,17 @@
     "symbol": "UBI",
     "decimals": 18,
     "logoURI": "https://ethereum-optimism.github.io/data/UBI/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0xbb6bbaa0f6d839a00c82b10747abc3b7e2eecc82",
+    "name": "Impermax",
+    "symbol": "IBEX",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/IBEX/logo.png",
     "extensions": {
       "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
     }
