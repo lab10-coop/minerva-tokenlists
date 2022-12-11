@@ -6713,6 +6713,14 @@
   },
   {
     "chainId": 1,
+    "name": "MegaWorld",
+    "address": "0x1892f6ff5fbe11c31158f8c6f6f6e33106c5b10e",
+    "decimals": 18,
+    "symbol": "MEGA",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/22938.png"
+  },
+  {
+    "chainId": 1,
     "name": "Creation Energy Join International",
     "address": "0x189fc141854bfc6146777406d53fbc89f4e70407",
     "decimals": 18,
@@ -23407,7 +23415,7 @@
     "name": "AzaCoin",
     "symbol": "AZA",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/28443/thumb/Azacoin_256.png?1670573752"
+    "logoURI": "https://assets.coingecko.com/coins/images/28443/thumb/Azarus_Logo_Mark-XXL.png?1670664404"
   },
   {
     "chainId": 1,
@@ -33723,7 +33731,7 @@
     "name": "Shibnobi",
     "symbol": "SHINJA",
     "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/20545/thumb/4yCR4DH.png?1655888898"
+    "logoURI": "https://assets.coingecko.com/coins/images/20545/thumb/SibnoboMainIcon3_3x.png?1670664729"
   },
   {
     "chainId": 1,
@@ -33900,6 +33908,14 @@
     "symbol": "BDIGG",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/14503/thumb/DIGG.png?1616560407"
+  },
+  {
+    "chainId": 1,
+    "name": "ZOGI",
+    "address": "0x7e80e4d7d5725499791cf8b17a4586f1f0672a0c",
+    "decimals": 18,
+    "symbol": "ZOGI",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/22937.png"
   },
   {
     "chainId": 1,
@@ -36931,14 +36947,6 @@
     "decimals": 9,
     "symbol": "3DOG",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/15249.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x8a1a9477a710d470575b1da335e524b27e8091ab",
-    "name": "Coinnec",
-    "symbol": "COI",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/2561/thumb/coi.png?1547036684"
   },
   {
     "chainId": 1,
@@ -42170,7 +42178,7 @@
   },
   {
     "chainId": 1,
-    "name": "Metano Foundation's Token",
+    "name": "Metano",
     "address": "0x9d9e399e5385e2b9a58d4f775a1e16441b571afb",
     "decimals": 18,
     "symbol": "METANO",
@@ -49472,6 +49480,14 @@
   },
   {
     "chainId": 1,
+    "name": "LightLink",
+    "address": "0xbb24c7a8e89eda9f22842644df8d0524871257e5",
+    "decimals": 18,
+    "symbol": "LL",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/22943.png"
+  },
+  {
+    "chainId": 1,
     "address": "0xbb340a2eaf55c5e67a5a05fe5ceed9b9702d76f4",
     "name": "BolttCoin",
     "symbol": "BOLTT",
@@ -54610,6 +54626,14 @@
     "decimals": 18,
     "symbol": "FLOKI",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/10804.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Supremacy",
+    "address": "0xcf39360b26a7e54f6c456e69640671fc5e774fa2",
+    "decimals": 18,
+    "symbol": "SUPS",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/18292.png"
   },
   {
     "chainId": 1,
@@ -63030,14 +63054,6 @@
     "decimals": 8,
     "symbol": "XPT",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7779.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xf08c68bd5f4194d994fd70726746bf529ee5a617",
-    "name": "Thorenext",
-    "symbol": "THX",
-    "decimals": 0,
-    "logoURI": "https://assets.coingecko.com/coins/images/6838/thumb/Screenshot-2018-11-12-at-11-58-10-PM.png?1547043151"
   },
   {
     "chainId": 1,
@@ -75665,6 +75681,26 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/swpr.jpg",
     "name": "Swapr",
     "symbol": "SWPR"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x9623063377ad1b27544c965ccd7342f7ea7e88c7",
+    "name": "Graph Token",
+    "symbol": "GRT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/13397/thumb/Graph_Token.png?1608145566",
+    "extensions": {
+      "bridgeInfo": {
+        "1": {
+          "tokenAddress": "0xc944e90c64b2c07662a292be6244bdf05cda44a7",
+          "originBridgeAddress": "0x65E1a5e8946e7E87d9774f5288f41c30a99fD302",
+          "destBridgeAddress": "0x01cdc91b0a9ba741903aa3699bf4ce31d6c5cc06"
+        }
+      }
+    },
+    "l1Address": "0xc944e90c64b2c07662a292be6244bdf05cda44a7",
+    "l2GatewayAddress": "0x65E1a5e8946e7E87d9774f5288f41c30a99fD302",
+    "l1GatewayAddress": "0x01cdc91b0a9ba741903aa3699bf4ce31d6c5cc06"
   },
   {
     "logoURI": "https://etherscan.io/token/images/pickle_32.png",
