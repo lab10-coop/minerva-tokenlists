@@ -9788,6 +9788,14 @@
   },
   {
     "chainId": 1,
+    "name": "Divi",
+    "address": "0x246908bff0b1ba6ecadcf57fb94f6ae2fcd43a77",
+    "decimals": 18,
+    "symbol": "DIVI",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3441.png"
+  },
+  {
+    "chainId": 1,
     "name": "Unikoin Gold",
     "address": "0x24692791bc444c5cd0b81e3cbcaba4b04acd1f3b",
     "decimals": 18,
@@ -16248,11 +16256,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x3b5e2df103a037509dcc8430e5462b9cd8f75f49",
     "name": "GEMX",
-    "symbol": "GEMX",
+    "address": "0x3b5e2df103a037509dcc8430e5462b9cd8f75f49",
     "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/28437/thumb/525BA403-4DD8-4AB4-A3C1-0EFF8C8F3450.jpeg?1670568823"
+    "symbol": "GEMX",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/22952.png"
   },
   {
     "chainId": 1,
@@ -18933,11 +18941,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x456125cd98107ae0480ba566f1b716d48ba31453",
     "name": "Ultimate Champions",
-    "symbol": "CHAMP",
+    "address": "0x456125cd98107ae0480ba566f1b716d48ba31453",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/28091/thumb/champ.png?1667472074"
+    "symbol": "CHAMP",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/22543.png"
   },
   {
     "chainId": 1,
@@ -31875,11 +31883,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x764104dc24dadff01150253a58c82337984b4319",
     "name": "hiCLONEX",
-    "symbol": "HICLONEX",
+    "address": "0x764104dc24dadff01150253a58c82337984b4319",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/28436/thumb/hiclonex.png?1670568067"
+    "symbol": "HICLONEX",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/22948.png"
   },
   {
     "chainId": 1,
@@ -48406,7 +48414,7 @@
     "chainId": 1,
     "name": "Innovative Bioresearch Coin",
     "address": "0xb67718b98d52318240c52e71a898335da4a28c42",
-    "decimals": 18,
+    "decimals": 6,
     "symbol": "INNBC",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/5016.png"
   },
@@ -72224,6 +72232,14 @@
     "logoURI": "https://tokens.pancakeswap.finance/images/0x71DE20e0C4616E7fcBfDD3f875d568492cBE4739.png"
   },
   {
+    "name": "Token SQUAD",
+    "symbol": "SQUAD",
+    "address": "0x724a32dfff9769a0a0e1f0515c0012d1fb14c3bd",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x724A32dFFF9769A0a0e1F0515c0012d1fB14c3bd.png"
+  },
+  {
     "name": "Unifi Token",
     "symbol": "UNFI",
     "address": "0x728c5bac3c3e370e372fc4671f9ef6916b814d8b",
@@ -75321,6 +75337,14 @@
     }
   },
   {
+    "address": "0x55678cd083fcdc2947a0df635c93c838c89454a3",
+    "chainId": 42161,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x55678cd083fcDC2947a0Df635c93C838C89454A3.jpg",
+    "name": "Tokenlon",
+    "symbol": "LON"
+  },
+  {
     "logoURI": "https://assets.coingecko.com/coins/images/13429/thumb/ovr_logo.png?1608518911",
     "chainId": 42161,
     "address": "0x55704a0e9e2eb59e176c5b69655dbd3dcdcfc0f0",
@@ -76385,6 +76409,14 @@
     }
   },
   {
+    "address": "0xeb466342c4d449bc9f53a865d5cb90586f405215",
+    "chainId": 42161,
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0xEB466342C4d449BC9f53A865D5Cb90586f405215.jpg",
+    "name": "Axelar Wrapped USDC",
+    "symbol": "axlUSDC"
+  },
+  {
     "address": "0xed3fb761414da74b74f33e5c5a1f78104b188dfc",
     "chainId": 42161,
     "decimals": 18,
@@ -76918,6 +76950,17 @@
     "symbol": "CTSI",
     "decimals": 18,
     "logoURI": "https://ethereum-optimism.github.io/data/CTSI/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
+    }
+  },
+  {
+    "chainId": 1,
+    "address": "0x4fbb350052bca5417566f188eb2ebce5b19bc964",
+    "name": "Rigo Token",
+    "symbol": "GRG",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/GRG/logo.svg",
     "extensions": {
       "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
     }
@@ -78314,6 +78357,17 @@
     "symbol": "CTSI",
     "decimals": 18,
     "logoURI": "https://ethereum-optimism.github.io/data/CTSI/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0xecf46257ed31c329f204eb43e254c609dee143b3",
+    "name": "Rigo Token",
+    "symbol": "GRG",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/GRG/logo.svg",
     "extensions": {
       "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
     }

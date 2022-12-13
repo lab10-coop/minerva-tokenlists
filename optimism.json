@@ -375,6 +375,17 @@
   },
   {
     "chainId": 1,
+    "address": "0x4fbb350052bca5417566f188eb2ebce5b19bc964",
+    "name": "Rigo Token",
+    "symbol": "GRG",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/GRG/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
+    }
+  },
+  {
+    "chainId": 1,
     "address": "0x514910771af9ca656af840dff83e8264ecf986ca",
     "name": "Chainlink",
     "symbol": "LINK",
@@ -1765,6 +1776,17 @@
     "symbol": "CTSI",
     "decimals": 18,
     "logoURI": "https://ethereum-optimism.github.io/data/CTSI/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0xecf46257ed31c329f204eb43e254c609dee143b3",
+    "name": "Rigo Token",
+    "symbol": "GRG",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/GRG/logo.svg",
     "extensions": {
       "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
     }
