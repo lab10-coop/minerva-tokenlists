@@ -183,5 +183,37 @@
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/superfluid-finance/assets/master/public/tokens/sunny/icon.svg",
     "tags": [ "SuperToken", "WrapperToken" ]
+  },
+  {
+    "chainId": 137,
+    "name": "Monerium EUR emoney",
+    "address": "0x18ec0A6E18E5bc3784fDd3a3634b31245ab704F6",
+    "decimals": 18,
+    "symbol": "EURe",
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-tokenlists/master/images/Monerium-EUR.svg"
+  },
+  {
+    "chainId": 137,
+    "name": "Monerium GBP emoney",
+    "address": "0x75792CBDb361d80ba89271a079EfeE62c29FA324",
+    "decimals": 18,
+    "symbol": "GBPe",
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-tokenlists/master/images/Monerium-GBP.svg"
+  },
+  {
+    "chainId": 137,
+    "name": "Monerium USD emoney",
+    "address": "0x64E97c1a6535afD4a313eF46F88A64a34250B719",
+    "decimals": 18,
+    "symbol": "USDe",
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-tokenlists/master/images/Monerium-USD.svg"
+  },
+  {
+    "chainId": 137,
+    "name": "Monerium ISK emoney",
+    "address": "0xf1bBf27A9D659D326efBfa5D284EBaeFB803983D",
+    "decimals": 18,
+    "symbol": "ISKe",
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-tokenlists/master/images/Monerium-ISK.svg"
   }
 ]

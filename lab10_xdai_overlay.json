@@ -225,5 +225,37 @@
     "symbol": "MAI",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/0xlaozi/qidao/main/images/mimatic-red.png"
+  },
+  {
+    "chainId": 100,
+    "name": "Monerium EUR emoney",
+    "address": "0xcB444e90D8198415266c6a2724b7900fb12FC56E",
+    "decimals": 18,
+    "symbol": "EURe",
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-tokenlists/master/images/Monerium-EUR.svg"
+  },
+  {
+    "chainId": 100,
+    "name": "Monerium GBP emoney",
+    "address": "0x5Cb9073902F2035222B9749F8fB0c9BFe5527108",
+    "decimals": 18,
+    "symbol": "GBPe",
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-tokenlists/master/images/Monerium-GBP.svg"
+  },
+  {
+    "chainId": 100,
+    "name": "Monerium USD emoney",
+    "address": "0x20E694659536C6B46e4B8BE8f6303fFCD8d1dF69",
+    "decimals": 18,
+    "symbol": "USDe",
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-tokenlists/master/images/Monerium-USD.svg"
+  },
+  {
+    "chainId": 100,
+    "name": "Monerium ISK emoney",
+    "address": "0xD8F84BF2E036A3c8E4c0e25ed2aAe0370F3CCca8",
+    "decimals": 18,
+    "symbol": "ISKe",
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-tokenlists/master/images/Monerium-ISK.svg"
   }
 ]
