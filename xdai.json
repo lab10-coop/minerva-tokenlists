@@ -196,6 +196,14 @@
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/xdai/assets/0x1e16aa4Df73d29C029d94CeDa3e3114EC191E25A/logo.png"
   },
   {
+    "chainId": 100,
+    "name": "Monerium USD emoney",
+    "address": "0x20e694659536c6b46e4b8be8f6303ffcd8d1df69",
+    "decimals": 18,
+    "symbol": "USDe",
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-tokenlists/master/images/Monerium-USD.svg"
+  },
+  {
     "name": "FOX from Ethereum",
     "address": "0x21a42669643f45bc0e086b8fc2ed70c23d67509d",
     "symbol": "FOX",
@@ -665,6 +673,14 @@
     "decimals": 9,
     "chainId": 100,
     "logoURI": "https://user-images.githubusercontent.com/83677085/118566122-69c1d500-b741-11eb-8d7f-8dedabab7404.png"
+  },
+  {
+    "chainId": 100,
+    "name": "Monerium GBP emoney",
+    "address": "0x5cb9073902f2035222b9749f8fb0c9bfe5527108",
+    "decimals": 18,
+    "symbol": "GBPe",
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-tokenlists/master/images/Monerium-GBP.svg"
   },
   {
     "name": "Token Engineering Commons",
@@ -1458,6 +1474,14 @@
     "logoURI": "https://autopia.co/images/autopia-200-200.jpg"
   },
   {
+    "chainId": 100,
+    "name": "Monerium EUR emoney",
+    "address": "0xcb444e90d8198415266c6a2724b7900fb12fc56e",
+    "decimals": 18,
+    "symbol": "EURe",
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-tokenlists/master/images/Monerium-EUR.svg"
+  },
+  {
     "name": "MORPHINE",
     "address": "0xcc043d8820a6dc3e74ef6fb4772fae00c1563489",
     "symbol": "MRP",
@@ -1544,6 +1568,14 @@
     "decimals": 9,
     "chainId": 100,
     "logoURI": "https://raw.githubusercontent.com/trustwallet/tokens/master/tokens/0x949bed886c739f1a3273629b3320db0c5024c719.png"
+  },
+  {
+    "chainId": 100,
+    "name": "Monerium ISK emoney",
+    "address": "0xd8f84bf2e036a3c8e4c0e25ed2aae0370f3ccca8",
+    "decimals": 18,
+    "symbol": "ISKe",
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-tokenlists/master/images/Monerium-ISK.svg"
   },
   {
     "name": "HEX on xDai",

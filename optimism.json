@@ -166,6 +166,17 @@
   },
   {
     "chainId": 1,
+    "address": "0x0f9b80fc3c8b9123d0aef43df58ebdbc034a8901",
+    "name": "NFTEarth",
+    "symbol": "NFTE",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/NFTE/logo.png",
+    "extensions": {
+      "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
+    }
+  },
+  {
+    "chainId": 1,
     "address": "0x102e941b77bcaa7e35d368cafe51ef8f79c8d1ef",
     "name": "Theranos Coin",
     "symbol": "LIZ",
@@ -281,6 +292,17 @@
     "symbol": "BANK",
     "decimals": 18,
     "logoURI": "https://ethereum-optimism.github.io/data/BANK/logo.png",
+    "extensions": {
+      "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
+    }
+  },
+  {
+    "chainId": 1,
+    "address": "0x3432b6a60d23ca0dfca7761b7ab56459d9c964d0",
+    "name": "FXS",
+    "symbol": "FXS",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/FXS/logo.svg",
     "extensions": {
       "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
     }
@@ -463,6 +485,17 @@
   },
   {
     "chainId": 1,
+    "address": "0x6b3595068778dd592e39a122f4f5a5cf09c90fe2",
+    "name": "SushiToken",
+    "symbol": "SUSHI",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/SUSHI/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
+    }
+  },
+  {
+    "chainId": 1,
     "address": "0x7697b462a7c4ff5f8b55bdbc2f4076c2af9cf51a",
     "name": "Sarcophagus",
     "symbol": "SARCO",
@@ -504,6 +537,15 @@
     "extensions": {
       "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
     }
+  },
+  {
+    "chainId": 1,
+    "address": "0x853d955acef822db058eb8505911ed77f175b99e",
+    "name": "FRAX",
+    "symbol": "FRAX",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/FRAX/logo.svg",
+    "extensions": {}
   },
   {
     "chainId": 1,
@@ -611,9 +653,7 @@
     "symbol": "BOB",
     "decimals": 18,
     "logoURI": "https://ethereum-optimism.github.io/data/BOB/logo.svg",
-    "extensions": {
-      "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
-    }
+    "extensions": {}
   },
   {
     "chainId": 1,
@@ -694,6 +734,17 @@
   },
   {
     "chainId": 1,
+    "address": "0xbe9895146f7af43049ca1c1ae358b0541ea49704",
+    "name": "Coinbase Wrapped Staked ETH",
+    "symbol": "cbETH",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/cbETH/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
+    }
+  },
+  {
+    "chainId": 1,
     "address": "0xbea98c05eeae2f3bc8c3565db7551eb738c8ccab",
     "name": "Geyser",
     "symbol": "GYSR",
@@ -732,6 +783,17 @@
     "symbol": "DHT",
     "decimals": 18,
     "logoURI": "https://ethereum-optimism.github.io/data/DHT/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
+    }
+  },
+  {
+    "chainId": 1,
+    "address": "0xcb9f85730f57732fc899fb158164b9ed60c77d49",
+    "name": "Staked Lyra",
+    "symbol": "stkLYRA",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/stkLYRA/logo.svg",
     "extensions": {
       "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
     }
@@ -820,6 +882,17 @@
     "symbol": "ZRX",
     "decimals": 18,
     "logoURI": "https://ethereum-optimism.github.io/data/ZRX/logo.png",
+    "extensions": {
+      "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
+    }
+  },
+  {
+    "chainId": 1,
+    "address": "0xf134519cbe2042b06ee7ce20df51d09b55559896",
+    "name": "Mochi",
+    "symbol": "MOCHI",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/MOCHI/logo.svg",
     "extensions": {
       "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
     }
@@ -1002,6 +1075,17 @@
   },
   {
     "chainId": 5,
+    "address": "0xd0bb78d0b337aa6d3a0530dd2e58560bf00851f1",
+    "name": "Coinbase Wrapped Staked ETH",
+    "symbol": "cbETH",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/cbETH/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x636Af16bf2f682dD3109e60102b8E1A089FedAa8"
+    }
+  },
+  {
+    "chainId": 5,
     "address": "0xd3d1c79d8a5f8316d07c4a391805e5006c71648c",
     "name": "Monetum",
     "symbol": "MOM",
@@ -1067,6 +1151,17 @@
     "symbol": "DUCK",
     "decimals": 18,
     "logoURI": "https://ethereum-optimism.github.io/data/DUCK/logo.png",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0x0f5d45a7023612e9e244fe84fac5fcf3740d1492",
+    "name": "Staked Lyra",
+    "symbol": "stkLYRA",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/stkLYRA/logo.svg",
     "extensions": {
       "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
     }
@@ -1207,6 +1302,14 @@
     "symbol": "BOND",
     "decimals": 18,
     "logoURI": "https://ethereum-optimism.github.io/data/BOND/logo.svg"
+  },
+  {
+    "chainId": 10,
+    "address": "0x3eaeb77b03dbc0f6321ae1b72b2e9adb0f60112b",
+    "name": "SushiToken",
+    "symbol": "SUSHI",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/optimism/0x3eaEb77b03dBc0F6321AE1b72b2E9aDb0F60112B.jpg"
   },
   {
     "address": "0x4200000000000000000000000000000000000006",
@@ -1359,9 +1462,7 @@
     "symbol": "USD+",
     "decimals": 6,
     "logoURI": "https://ethereum-optimism.github.io/data/USDplus/logo.svg",
-    "extensions": {
-      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
-    }
+    "extensions": {}
   },
   {
     "chainId": 10,
@@ -1381,6 +1482,17 @@
     "symbol": "AAVE",
     "decimals": 18,
     "logoURI": "https://ethereum-optimism.github.io/data/AAVE/logo.svg"
+  },
+  {
+    "chainId": 10,
+    "address": "0x77d40cbc27f912dcdbf4348caf87b427c4d02486",
+    "name": "Mochi",
+    "symbol": "MOCHI",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/MOCHI/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+    }
   },
   {
     "chainId": 10,
@@ -1650,6 +1762,17 @@
     "symbol": "sLINK",
     "decimals": 18,
     "logoURI": "https://ethereum-optimism.github.io/data/sLINK/logo.svg"
+  },
+  {
+    "chainId": 10,
+    "address": "0xc96f4f893286137ac17e07ae7f217ffca5db3ab6",
+    "name": "NFTEarth",
+    "symbol": "NFTE",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/NFTE/logo.png",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+    }
   },
   {
     "chainId": 10,
@@ -2432,9 +2555,7 @@
     "symbol": "OP",
     "decimals": 18,
     "logoURI": "https://ethereum-optimism.github.io/data/OP/logo.png",
-    "extensions": {
-      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
-    }
+    "extensions": {}
   },
   {
     "chainId": 69,
@@ -2619,9 +2740,7 @@
     "symbol": "sUSD",
     "decimals": 18,
     "logoURI": "https://ethereum-optimism.github.io/data/sUSD/logo.svg",
-    "extensions": {
-      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
-    }
+    "extensions": {}
   },
   {
     "chainId": 69,
@@ -2900,6 +3019,17 @@
   },
   {
     "chainId": 420,
+    "address": "0xd6909e9e702024eb93312b989ee46794c0fb1c9d",
+    "name": "Coinbase Wrapped Staked ETH",
+    "symbol": "cbETH",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/cbETH/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+    }
+  },
+  {
+    "chainId": 420,
     "address": "0xda10009cbd5d07dd0cecc66161fc93d7c9000da1",
     "name": "Dai Stablecoin",
     "symbol": "DAI",
@@ -2960,9 +3090,7 @@
     "symbol": "sUSD",
     "decimals": 18,
     "logoURI": "https://ethereum-optimism.github.io/data/sUSD/logo.svg",
-    "extensions": {
-      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
-    }
+    "extensions": {}
   },
   {
     "chainId": 420,

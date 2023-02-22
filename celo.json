@@ -208,6 +208,14 @@
     "symbol": "CLA"
   },
   {
+    "address": "0x62b8b11039fcfe5ab0c56e502b1c372a3d2a9c7a",
+    "name": "GoodDollar",
+    "symbol": "G$",
+    "decimals": 18,
+    "chainId": 42220,
+    "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_G$.png"
+  },
+  {
     "address": "0x639a647fbe20b6c8ac19e48e2de44ea792c62c5c",
     "chainId": 42220,
     "decimals": 18,
@@ -422,6 +430,14 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/btc.jpg",
     "name": "Optics WBTC v1",
     "symbol": "WBTCv1"
+  },
+  {
+    "address": "0xc668583dcbdc9ae6fa3ce46462758188adfdfc24",
+    "name": "Staked Celo",
+    "symbol": "stCELO",
+    "chainId": 42220,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_stCELO.png"
   },
   {
     "address": "0xd15ec721c2a896512ad29c671997dd68f9593226",

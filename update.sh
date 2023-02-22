@@ -82,10 +82,10 @@ echo "built okex list with $(jq '.|length' okex.json) elements"
 ########### ARBITRUM ############
 
 arbitrumSource1="https://raw.githubusercontent.com/sushiswap/list/master/lists/token-lists/default-token-list/tokens/arbitrum.json"
-arbitrumSource2="https://bridge.arbitrum.io/token-list-42161.json"
+#arbitrumSource2="https://bridge.arbitrum.io/token-list-42161.json"
 
 curl -f -s $arbitrumSource1 | jq '.' > arbitrum1.json
-curl -f -s $arbitrumSource2 | jq '.tokens' > arbitrum2.json
+#curl -f -s $arbitrumSource2 | jq '.tokens' > arbitrum2.json
 # concat into one file
 jq -s '.|flatten' lab10_arbitrum_overlay.json arbitrum1.json arbitrum2.json > arbitrum0.json
 deduplicate arbitrum0.json arbitrum.json
