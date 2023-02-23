@@ -41820,6 +41820,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x987441856ba4f463544fc68ccbf6a80f434a7956",
+    "name": "NOWAI",
+    "symbol": "NOWAI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/29177/thumb/NOWAI_%282%29.png?1677141368"
+  },
+  {
+    "chainId": 1,
     "name": "3X Long BitMax Token Token",
     "address": "0x9885ca101dfd8f23d364874f799554c52bfee820",
     "decimals": 18,
@@ -76352,6 +76360,17 @@
   },
   {
     "chainId": 1,
+    "address": "0x8a9c67fee641579deba04928c4bc45f66e26343a",
+    "name": "Jarvis Reward Token",
+    "symbol": "JRT",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/JRT/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
+    }
+  },
+  {
+    "chainId": 1,
     "address": "0x91b08f4a7c1251dfccf5440f8894f8daa10c8de5",
     "name": "BAXagent Coin",
     "symbol": "BAXA",
@@ -76943,6 +76962,17 @@
     "symbol": "GYSR",
     "decimals": 18,
     "logoURI": "https://ethereum-optimism.github.io/data/GYSR/logo.png"
+  },
+  {
+    "chainId": 10,
+    "address": "0x15e770b95edd73fd96b02ece0266247d50895e76",
+    "name": "Jarvis Reward Token",
+    "symbol": "JRT",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/JRT/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+    }
   },
   {
     "chainId": 10,
