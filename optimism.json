@@ -583,10 +583,21 @@
   {
     "chainId": 1,
     "address": "0x8a9c67fee641579deba04928c4bc45f66e26343a",
-    "name": "Jarvis Reward Token",
+    "name": "Jarvis Network Token",
     "symbol": "JRT",
     "decimals": 18,
     "logoURI": "https://ethereum-optimism.github.io/data/JRT/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
+    }
+  },
+  {
+    "chainId": 1,
+    "address": "0x8b21e9b7daf2c4325bf3d18c1beb79a347fe902a",
+    "name": "Collab.Land",
+    "symbol": "COLLAB",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/COLLAB/logo.png",
     "extensions": {
       "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
     }
@@ -778,11 +789,42 @@
   },
   {
     "chainId": 1,
+    "address": "0xc08512927d12348f6620a698105e1baac6ecd911",
+    "name": "GMO JPY",
+    "symbol": "GYEN",
+    "decimals": 6,
+    "logoURI": "https://ethereum-optimism.github.io/data/GYEN/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
+    }
+  },
+  {
+    "chainId": 1,
     "address": "0xc18360217d8f7ab5e7c516566761ea12ce7f9d72",
     "name": "Ethereum Name Service",
     "symbol": "ENS",
     "decimals": 18,
     "logoURI": "https://ethereum-optimism.github.io/data/ENS/logo.png",
+    "extensions": {
+      "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
+    }
+  },
+  {
+    "chainId": 1,
+    "address": "0xc5102fe9359fd9a28f877a67e36b0f050d81a3cc",
+    "name": "HOP",
+    "symbol": "HOP",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/HOP/logo.png",
+    "extensions": {}
+  },
+  {
+    "chainId": 1,
+    "address": "0xc56c2b7e71b54d38aab6d52e94a04cbfa8f604fa",
+    "name": "Z.com USD",
+    "symbol": "ZUSD",
+    "decimals": 6,
+    "logoURI": "https://ethereum-optimism.github.io/data/ZUSD/logo.svg",
     "extensions": {
       "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
     }
@@ -1086,6 +1128,15 @@
   },
   {
     "chainId": 5,
+    "address": "0xc5102fe9359fd9a28f877a67e36b0f050d81a3cc",
+    "name": "HOP",
+    "symbol": "HOP",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/HOP/logo.png",
+    "extensions": {}
+  },
+  {
+    "chainId": 5,
     "address": "0xd0bb78d0b337aa6d3a0530dd2e58560bf00851f1",
     "name": "Coinbase Wrapped Staked ETH",
     "symbol": "cbETH",
@@ -1184,17 +1235,6 @@
     "symbol": "GYSR",
     "decimals": 18,
     "logoURI": "https://ethereum-optimism.github.io/data/GYSR/logo.png"
-  },
-  {
-    "chainId": 10,
-    "address": "0x15e770b95edd73fd96b02ece0266247d50895e76",
-    "name": "Jarvis Reward Token",
-    "symbol": "JRT",
-    "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/data/JRT/logo.svg",
-    "extensions": {
-      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
-    }
   },
   {
     "chainId": 10,
@@ -1390,6 +1430,17 @@
   },
   {
     "chainId": 10,
+    "address": "0x589d35656641d6ab57a545f08cf473ecd9b6d5f7",
+    "name": "GMO JPY",
+    "symbol": "GYEN",
+    "decimals": 6,
+    "logoURI": "https://ethereum-optimism.github.io/data/GYEN/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+    }
+  },
+  {
+    "chainId": 10,
     "address": "0x5e70affe232e2919792f77eb94e566db0320fa88",
     "name": "Monetum",
     "symbol": "MOM",
@@ -1441,6 +1492,17 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/optimism/0x68f180fcCe6836688e9084f035309E29Bf0A2095.jpg",
     "name": "Wrapped BTC",
     "symbol": "WBTC"
+  },
+  {
+    "chainId": 10,
+    "address": "0x6e4cc0ab2b4d2edafa6723cfa1582229f1dd1be1",
+    "name": "Z.com USD",
+    "symbol": "ZUSD",
+    "decimals": 6,
+    "logoURI": "https://ethereum-optimism.github.io/data/ZUSD/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+    }
   },
   {
     "chainId": 10,
@@ -1619,6 +1681,17 @@
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/128x128/19191.png"
   },
   {
+    "chainId": 10,
+    "address": "0x8b21e9b7daf2c4325bf3d18c1beb79a347fe902a",
+    "name": "Collab.Land",
+    "symbol": "COLLAB",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/COLLAB/logo.png",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+    }
+  },
+  {
     "address": "0x8c6f28f2f1a3c87f0f938b96d27520d9751ec8d9",
     "chainId": 10,
     "decimals": 18,
@@ -1673,6 +1746,17 @@
     "symbol": "MKR",
     "decimals": 18,
     "logoURI": "https://ethereum-optimism.github.io/data/MKR/logo.png"
+  },
+  {
+    "chainId": 10,
+    "address": "0xaddb6a0412de1ba0f936dcaeb8aaa24578dcf3b2",
+    "name": "Coinbase Wrapped Staked ETH",
+    "symbol": "cbETH",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/cbETH/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+    }
   },
   {
     "chainId": 10,
@@ -1776,6 +1860,15 @@
     "symbol": "LUSD",
     "decimals": 18,
     "logoURI": "https://ethereum-optimism.github.io/data/LUSD/logo.svg"
+  },
+  {
+    "chainId": 10,
+    "address": "0xc5102fe9359fd9a28f877a67e36b0f050d81a3cc",
+    "name": "HOP",
+    "symbol": "HOP",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/HOP/logo.png",
+    "extensions": {}
   },
   {
     "chainId": 10,
@@ -3038,6 +3131,15 @@
     "extensions": {
       "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
     }
+  },
+  {
+    "chainId": 420,
+    "address": "0xc5102fe9359fd9a28f877a67e36b0f050d81a3cc",
+    "name": "HOP",
+    "symbol": "HOP",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/HOP/logo.png",
+    "extensions": {}
   },
   {
     "chainId": 420,
