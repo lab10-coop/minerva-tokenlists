@@ -8395,11 +8395,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x1df7aa5551e801e280007dc0fc0454e2d06c1a89",
     "name": "BKEX Chain",
-    "symbol": "BKK",
+    "address": "0x1df7aa5551e801e280007dc0fc0454e2d06c1a89",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/7734/thumb/b8a9c996583ee19c2a98dca34b92a26.png?1646290715"
+    "symbol": "BKK",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/5154.png"
   },
   {
     "chainId": 1,
@@ -11370,11 +11370,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x286f851b049ccce1419e09b6468dc3297f86a703",
     "name": "hiSEALS",
-    "symbol": "HISEALS",
+    "address": "0x286f851b049ccce1419e09b6468dc3297f86a703",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/29191/thumb/63f46d084b94830001ea9a60_hiSEALS_-__Logo.png?1677225473"
+    "symbol": "HISEALS",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/23670.png"
   },
   {
     "chainId": 1,
@@ -22864,6 +22864,14 @@
     "decimals": 18,
     "symbol": "LDC",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2580.png"
+  },
+  {
+    "chainId": 1,
+    "name": "XENO Governance",
+    "address": "0x510975eda48a97e0ca228dd04d1217292487bea6",
+    "decimals": 18,
+    "symbol": "GXE",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/23442.png"
   },
   {
     "chainId": 1,
@@ -36644,7 +36652,7 @@
     "name": "handleUSD",
     "symbol": "FXUSD",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/26954/thumb/fxUSDLogo_200px-200px.png?1660988882"
+    "logoURI": "https://assets.coingecko.com/coins/images/26954/thumb/fxUSDlogo.png?1677465474"
   },
   {
     "chainId": 1,
@@ -41755,11 +41763,11 @@
   },
   {
     "chainId": 1,
+    "name": "Liquid Staking Derivatives",
     "address": "0x97d4f49eeb0e2c96d5ebaa71ab8418e563ecd9fd",
-    "name": "Liquid Staking Derivative",
-    "symbol": "LSD",
     "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/29188/thumb/LSD.jpg?1677219444"
+    "symbol": "LSD",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/23678.png"
   },
   {
     "chainId": 1,
@@ -43282,7 +43290,7 @@
     "chainId": 1,
     "name": "Neutrino Token",
     "address": "0x9d79d5b61de59d882ce90125b18f74af650acb93",
-    "decimals": 6,
+    "decimals": 18,
     "symbol": "NSBT",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7320.png"
   },
@@ -43821,7 +43829,7 @@
   },
   {
     "chainId": 1,
-    "name": "Graphlinq Protocol",
+    "name": "Graphlinq Chain",
     "address": "0x9f9c8ec3534c3ce16f928381372bfbfbfb9f4d24",
     "decimals": 18,
     "symbol": "GLQ",
@@ -44985,11 +44993,11 @@
   },
   {
     "chainId": 1,
-    "address": "0xa41161af8d4ee421ba5fed4328f2b12034796a21",
     "name": "Artify",
-    "symbol": "AFY",
+    "address": "0xa41161af8d4ee421ba5fed4328f2b12034796a21",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/29219/thumb/IMG_20230225_200244_004.jpg?1677463112"
+    "symbol": "AFY",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/23666.png"
   },
   {
     "chainId": 1,
@@ -45627,11 +45635,11 @@
   },
   {
     "chainId": 1,
-    "address": "0xa670d7237398238de01267472c6f13e5b8010fd1",
     "name": "Sommelier",
+    "address": "0xa670d7237398238de01267472c6f13e5b8010fd1",
+    "decimals": 18,
     "symbol": "SOMM",
-    "decimals": 6,
-    "logoURI": "https://assets.coingecko.com/coins/images/23308/thumb/somm_new.png?1650884424"
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/18248.png"
   },
   {
     "chainId": 1,
@@ -51225,9 +51233,9 @@
   },
   {
     "chainId": 1,
-    "name": "Dogcoin",
+    "name": "DogCoin",
     "address": "0xbccd27062ae1a2bea5731c904b96edfb163aba21",
-    "decimals": 9,
+    "decimals": 18,
     "symbol": "DOGS",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/21521.png"
   },
@@ -53560,11 +53568,11 @@
   },
   {
     "chainId": 1,
+    "name": "AiWallet Token",
     "address": "0xc5a927ad2d1a92dc5f9662ce03f7140a8b738b19",
-    "name": "AiWallet",
-    "symbol": "AIWALLET",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/29118/thumb/logo-ai.png?1676778904"
+    "symbol": "AIWALLET",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/23549.png"
   },
   {
     "chainId": 1,
@@ -56414,14 +56422,6 @@
   },
   {
     "chainId": 1,
-    "name": "BKEX Chain",
-    "address": "0xd0bd12a8d5ebca1e2fa46da59f1993ec51c3d75c",
-    "decimals": 18,
-    "symbol": "BKK",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/5154.png"
-  },
-  {
-    "chainId": 1,
     "address": "0xd0c37cda48fe5d6ee7132181a90dc58206db5404",
     "name": "INKz",
     "symbol": "INKZ",
@@ -58851,7 +58851,7 @@
   },
   {
     "chainId": 1,
-    "name": "Gains Associates",
+    "name": "Gains",
     "address": "0xd9b312d77bc7bed9b9cecb56636300bed4fe5ce9",
     "decimals": 18,
     "symbol": "GAINS",
@@ -58993,14 +58993,6 @@
     "decimals": 4,
     "symbol": "1GOLD",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/4774.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xda446fad08277b4d2591536f204e018f32b6831c",
-    "name": "New Zealand Dollar Stablecoin",
-    "symbol": "NZDS",
-    "decimals": 6,
-    "logoURI": "https://assets.coingecko.com/coins/images/20394/thumb/nzds.png?1636964381"
   },
   {
     "chainId": 1,
@@ -59719,11 +59711,11 @@
   },
   {
     "chainId": 1,
-    "address": "0xdd69db25f6d620a7bad3023c5d32761d353d3de9",
     "name": "Goerli ETH",
-    "symbol": "GETH",
+    "address": "0xdd69db25f6d620a7bad3023c5d32761d353d3de9",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/29217/thumb/goerli-eth.png?1677429831"
+    "symbol": "GETH",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/23669.png"
   },
   {
     "chainId": 1,
@@ -63027,7 +63019,7 @@
   },
   {
     "chainId": 1,
-    "name": "NearPad",
+    "name": "Pad.Fi",
     "address": "0xea7cc765ebc94c4805e3bff28d7e4ae48d06468a",
     "decimals": 18,
     "symbol": "PAD",
