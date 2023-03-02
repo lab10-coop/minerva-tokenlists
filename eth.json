@@ -7631,14 +7631,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x1af4f195a8aaa7ffd752c28a13b719b84056f0d6",
-    "name": "NFT Track Protocol",
-    "symbol": "NTP",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/27108/thumb/NTP_Symbol_CoinGecko.jpg?1662009323"
-  },
-  {
-    "chainId": 1,
     "name": "Melos Studio",
     "address": "0x1afb69dbc9f54d08dab1bd3436f8da1af819e647",
     "decimals": 18,
@@ -11897,6 +11889,14 @@
     "symbol": "WXTZ",
     "decimals": 6,
     "logoURI": "https://assets.coingecko.com/coins/images/14763/thumb/wXTZ-token-FullColor.png?1618281765"
+  },
+  {
+    "chainId": 1,
+    "address": "0x2a7e415c169ce3a580c6f374dc26f6aaad1eccfe",
+    "name": "Hachi",
+    "symbol": "HACHI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/29262/thumb/HACHI_main_logo__.png?1677658543"
   },
   {
     "chainId": 1,
@@ -16283,14 +16283,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x3983c6da8235f59e16a034ee773e60a69e8f14b2",
-    "name": "Fairmint",
-    "symbol": "FAIR",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/27109/thumb/fairmint.png?1662881621"
-  },
-  {
-    "chainId": 1,
     "name": "Valireum",
     "address": "0x3989f36540052668c340a53aaeacb46d6cf0dd6c",
     "decimals": 18,
@@ -17428,14 +17420,6 @@
     "decimals": 18,
     "symbol": "SAC1",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/5627.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x3e362283b86c1b45097cc3fb02213b79cf6211df",
-    "name": "Catcoin",
-    "symbol": "CATCOIN",
-    "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/25279/thumb/catcoin200.png?1674437188"
   },
   {
     "chainId": 1,
@@ -25122,6 +25106,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x5a7e6c8204a1359db9aacab7ba5fc309b7981efd",
+    "name": "Offshift anonUSD",
+    "symbol": "ANONUSD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/29254/thumb/anonUSD_200x200.png?1677646616"
+  },
+  {
+    "chainId": 1,
     "name": "iDice",
     "address": "0x5a84969bb663fb64f6d015dcf9f622aedc796750",
     "decimals": 18,
@@ -30111,6 +30103,14 @@
   },
   {
     "chainId": 1,
+    "name": "McPepe's",
+    "address": "0x6bf765c43030387a983f429c1438e9d2025b7e12",
+    "decimals": 18,
+    "symbol": "PEPES",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/23701.png"
+  },
+  {
+    "chainId": 1,
     "name": "Fyooz",
     "address": "0x6bff2fe249601ed0db3a87424a2e923118bb0312",
     "decimals": 18,
@@ -33017,6 +33017,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x76fca1adb104770b38581b64d55e67fa5a0f3966",
+    "name": "ZkTsunami",
+    "symbol": "ZKT",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/29253/thumb/SoloturkLogo.png?1677646357"
+  },
+  {
+    "chainId": 1,
     "name": "Bankera V2",
     "address": "0x7707aada3ce7722ac63b91727daf1999849f6835",
     "decimals": 8,
@@ -33161,11 +33169,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x777172d858dc1599914a1c4c6c9fc48c99a60990",
     "name": "Solidly",
-    "symbol": "SOLID",
+    "address": "0x777172d858dc1599914a1c4c6c9fc48c99a60990",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/28676/thumb/solid.png?1673226406"
+    "symbol": "SOLID",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/23708.png"
   },
   {
     "chainId": 1,
@@ -41472,6 +41480,14 @@
     "decimals": 18,
     "symbol": "S",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3423.png"
+  },
+  {
+    "chainId": 1,
+    "name": "SPORT",
+    "address": "0x96b14e64b53b9950d2a4d2292f8dc7d51a4f467a",
+    "decimals": 18,
+    "symbol": "SPORT",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/20390.png"
   },
   {
     "chainId": 1,
@@ -54154,6 +54170,14 @@
   },
   {
     "chainId": 1,
+    "address": "0xc7b89491bb148551547837ea6ccb4bb5144d8e47",
+    "name": "Sonar",
+    "symbol": "PING",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/16463/thumb/sonar_logo-200.png?1651140004"
+  },
+  {
+    "chainId": 1,
     "name": "Gems ",
     "address": "0xc7bba5b765581efb2cdd2679db5bea9ee79b201f",
     "decimals": 18,
@@ -61703,11 +61727,11 @@
   },
   {
     "chainId": 1,
+    "name": "AIPAD",
     "address": "0xe55d97a97ae6a17706ee281486e98a84095d8aaf",
-    "name": "AIPad",
-    "symbol": "AIPAD",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/28894/thumb/JZadeHu.jpeg?1675214438"
+    "symbol": "AIPAD",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/23300.png"
   },
   {
     "chainId": 1,
@@ -62278,6 +62302,14 @@
     "decimals": 6,
     "symbol": "TAAS",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/1592.png"
+  },
+  {
+    "chainId": 1,
+    "name": "9 Lives Network",
+    "address": "0xe78bff28d3c5195c752e734e95421bb4bd742f1d",
+    "decimals": 18,
+    "symbol": "NINEFI",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/23706.png"
   },
   {
     "chainId": 1,
@@ -64495,6 +64527,14 @@
     "symbol": "BMT",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/7419/thumb/bchain_logo.jpg?1547199925"
+  },
+  {
+    "chainId": 1,
+    "address": "0xf029fd6b5ed35c825dd02b7a02952c30002840e4",
+    "name": "Sigil Finance",
+    "symbol": "SIGIL",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/29266/thumb/sigil.png?1677667120"
   },
   {
     "chainId": 1,
