@@ -10053,11 +10053,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x23ddbd36547d43627afa9b42d4e9fb0515f48b09",
     "name": "hiBEANZ",
-    "symbol": "HIBEANZ",
+    "address": "0x23ddbd36547d43627afa9b42d4e9fb0515f48b09",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/29281/thumb/hibeanz.png?1677744566"
+    "symbol": "HIBEANZ",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/23742.png"
   },
   {
     "chainId": 1,
@@ -10636,6 +10636,14 @@
     "decimals": 18,
     "symbol": "FLESH",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/14474.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Kennel Locker",
+    "address": "0x25d4e7fe624fcc6e7f0b52d142f40c9acecf039a",
+    "decimals": 18,
+    "symbol": "KENNEL",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/23745.png"
   },
   {
     "chainId": 1,
@@ -16801,6 +16809,14 @@
     "decimals": 18,
     "symbol": "DEUS",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7125.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Inu Inu",
+    "address": "0x3b6cfd5a1b35db9882c2434d931226d6dd484ee1",
+    "decimals": 18,
+    "symbol": "TWINU",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/23752.png"
   },
   {
     "chainId": 1,
@@ -33009,6 +33025,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x76bc677d444f1e9d57daf5187ee2b7dc852745ae",
+    "name": "Offshift",
+    "symbol": "XFT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/11977/thumb/CsBrPiA.png?1614570441"
+  },
+  {
+    "chainId": 1,
     "name": "IRISnet",
     "address": "0x76c4a2b59523eae19594c630aab43288dbb1463f",
     "decimals": 6,
@@ -33720,6 +33744,14 @@
     "decimals": 6,
     "symbol": "HGET",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/6949.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Ordinal Doge",
+    "address": "0x796a4503b444a71b331c9556bef0815237ddeabc",
+    "decimals": 18,
+    "symbol": "oDOGE",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/23748.png"
   },
   {
     "chainId": 1,
@@ -34808,7 +34840,7 @@
     "chainId": 1,
     "name": "Volt Inu V2",
     "address": "0x7db5af2b9624e1b3b4bb69d6debd9ad1016a58ac",
-    "decimals": 18,
+    "decimals": 9,
     "symbol": "VOLT",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/19650.png"
   },
@@ -38625,7 +38657,7 @@
     "chainId": 1,
     "name": "BlackHat",
     "address": "0x8bcd06492416a749c9369009b3429861b7f27f6e",
-    "decimals": 8,
+    "decimals": 18,
     "symbol": "BLKC",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/10566.png"
   },
@@ -39553,6 +39585,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x8fc6a71be7f82373e045a97859287676a399934a",
+    "name": "TradeWix",
+    "symbol": "WIX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/28733/thumb/tradewix.png?1673763754"
+  },
+  {
+    "chainId": 1,
     "name": "DeFiChain",
     "address": "0x8fc8f8269ebca376d046ce292dc7eac40c8d358a",
     "decimals": 18,
@@ -39690,7 +39730,7 @@
   },
   {
     "chainId": 1,
-    "name": "Standard Protocol",
+    "name": "Standard",
     "address": "0x9040e237c3bf18347bb00957dc22167d0f2b999d",
     "decimals": 18,
     "symbol": "STND",
@@ -40137,14 +40177,6 @@
     "decimals": 18,
     "symbol": "DEBASE",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7877.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x9250e33f8ae7b9fe02fb9af97a0c55b42a5ad9d8",
-    "name": "Cino Games",
-    "symbol": "CINO",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/24157/thumb/cino.png?1646575256"
   },
   {
     "chainId": 1,
@@ -42580,6 +42612,14 @@
     "decimals": 18,
     "symbol": "XSP",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7111.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x9b0b23b35ad8136e6181f22b346134ce5f426090",
+    "name": "Cino Token",
+    "symbol": "CINO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/24157/thumb/cino.png?1646575256"
   },
   {
     "chainId": 1,
@@ -47164,10 +47204,11 @@
   {
     "chainId": 1,
     "address": "0xabe580e7ee158da464b51ee1a83ac0289622e6be",
-    "name": "Offshift",
     "symbol": "XFT",
+    "name": "Offshift",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/11977/thumb/CsBrPiA.png?1614570441"
+    "logoURI": "ipfs://QmWJpJznxn1aQoRtW5jXU6EqqwkzA8PLbVVG2phwzb2BTy",
+    "tags": []
   },
   {
     "chainId": 1,
@@ -47877,14 +47918,6 @@
   },
   {
     "chainId": 1,
-    "name": "Persistence",
-    "address": "0xae837eacbae2a6ba166ce0ded5c72340f212835c",
-    "decimals": 6,
-    "symbol": "XPRT",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7281.png"
-  },
-  {
-    "chainId": 1,
     "name": "Amatsu-Mikaboshi",
     "address": "0xae86f48c0b00f2a3eaef4ba4c23d17368f0f63f4",
     "decimals": 18,
@@ -48246,11 +48279,11 @@
   },
   {
     "chainId": 1,
-    "address": "0xb012be90957d70d9a070918027655f998c123a88",
     "name": "Hermes DAO",
-    "symbol": "HMX",
+    "address": "0xb012be90957d70d9a070918027655f998c123a88",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/29283/thumb/Hermes_DAO.png?1677750686"
+    "symbol": "HMX",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/23747.png"
   },
   {
     "chainId": 1,
@@ -51141,6 +51174,14 @@
     "decimals": 18,
     "symbol": "BORING",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/11218.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xbc1a4555745e9c5334ebf9dcfec0b51285af8d17",
+    "name": "Catgirl AI",
+    "symbol": "CATAI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/28945/thumb/Catgirl_AI.png?1675570384"
   },
   {
     "chainId": 1,
@@ -57368,7 +57409,7 @@
   },
   {
     "chainId": 1,
-    "name": "Symbiosis Finance",
+    "name": "Symbiosis",
     "address": "0xd38bb40815d2b0c2d2c866e0c72c5728ffc76dd9",
     "decimals": 18,
     "symbol": "SIS",
@@ -65066,11 +65107,11 @@
   },
   {
     "chainId": 1,
+    "name": "Nine Chronicles",
     "address": "0xf203ca1769ca8e9e8fe1da9d147db68b6c919817",
-    "name": "Wrapped NCG",
-    "symbol": "WNCG",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/17747/thumb/WNCG_Color.png?1676455921"
+    "symbol": "WNCG",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/11222.png"
   },
   {
     "chainId": 1,
