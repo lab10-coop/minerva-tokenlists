@@ -3362,11 +3362,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x0bf43350076f95e0d16120b4d6bdfa1c9d50bdbd",
     "name": "Antfarm Governance Token",
-    "symbol": "AGT",
+    "address": "0x0bf43350076f95e0d16120b4d6bdfa1c9d50bdbd",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/28822/thumb/.png.?1674701008"
+    "symbol": "AGT",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/23758.png"
   },
   {
     "chainId": 1,
@@ -4123,14 +4123,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x0ecc0e963625e0c5504718ec460116176b3aa06c",
-    "name": "NBLH",
-    "symbol": "NBLH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/27077/thumb/nblh.png?1661756906"
-  },
-  {
-    "chainId": 1,
     "address": "0x0ecdd783dc7bf820614044b51862ed29714d2ba5",
     "name": "Medooza Ecosystem",
     "symbol": "MDZA",
@@ -4313,6 +4305,14 @@
     "decimals": 18,
     "symbol": "GENT",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/4412.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Airtor Protocol",
+    "address": "0x0f7b3f5a8fed821c5eb60049538a548db2d479ce",
+    "decimals": 18,
+    "symbol": "ATOR",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/23757.png"
   },
   {
     "chainId": 1,
@@ -9348,14 +9348,6 @@
     "symbol": "GENE",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/20807/thumb/1637683704200x200.png?1637708934"
-  },
-  {
-    "chainId": 1,
-    "address": "0x214feebda3ae6bb842bd17d91a0f346eebcd7898",
-    "name": "Autentica",
-    "symbol": "AUT",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/27154/thumb/coingecko_200x200.png?1662205740"
   },
   {
     "chainId": 1,
@@ -15005,6 +14997,14 @@
     "symbol": "TPRO",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/26694/thumb/tpro-logo-200x200.png?1659607453"
+  },
+  {
+    "chainId": 1,
+    "address": "0x3540dfcad7cf102a2e44aa0e2132fab1c89d7eae",
+    "name": "SchwiftAI",
+    "symbol": "SWAI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/29301/thumb/SchwiftAI.png?1677917099"
   },
   {
     "chainId": 1,
@@ -30183,6 +30183,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x6c22910c6f75f828b305e57c6a54855d8adeabf8",
+    "name": "Satoshis Vision",
+    "symbol": "SATS",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/29303/thumb/SATS_123-removebg-preview_%281%29.png?1677918446"
+  },
+  {
+    "chainId": 1,
     "address": "0x6c22b815904165f3599f0a4a092d458966bd8024",
     "name": "Bit Public Talent Network",
     "symbol": "BPTN",
@@ -33343,6 +33351,14 @@
     "decimals": 18,
     "symbol": "SWUSD",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7508.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x77d0cb0ab54f9e74b9405a5b3f60da06a78f1aad",
+    "name": "Wrapped Millix",
+    "symbol": "WMLX",
+    "decimals": 0,
+    "logoURI": "https://assets.coingecko.com/coins/images/28703/thumb/wrapped_millix-200x200_300-dpi_GC.png?1673425888"
   },
   {
     "chainId": 1,
@@ -44639,6 +44655,14 @@
   },
   {
     "chainId": 1,
+    "address": "0xa203eb78fee91c8459c6d4ef3a899d8724ee5b35",
+    "name": "Liquid Mercury",
+    "symbol": "MERC",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/29297/thumb/cda56b6a-146c-4348-b4ff-5b87980c0f83.jpg?1677914858"
+  },
+  {
+    "chainId": 1,
     "name": "EscoinToken",
     "address": "0xa2085073878152ac3090ea13d1e41bd69e60dc99",
     "decimals": 18,
@@ -52890,6 +52914,14 @@
     "decimals": 18,
     "symbol": "ECO",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/11643.png"
+  },
+  {
+    "chainId": 1,
+    "name": "MaruTaro",
+    "address": "0xc2456d2118299a2efdfe6522ff79aa48fc5d2b00",
+    "decimals": 9,
+    "symbol": "MARU",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/23754.png"
   },
   {
     "chainId": 1,
