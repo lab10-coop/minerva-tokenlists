@@ -12325,11 +12325,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x2c022e58c5e3ee213f06f975fd8a0d3a6fe9ca1c",
     "name": "Formula Inu",
-    "symbol": "FINU",
+    "address": "0x2c022e58c5e3ee213f06f975fd8a0d3a6fe9ca1c",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/29309/thumb/Logo_200x200.png?1677995091"
+    "symbol": "FINU",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/23778.png"
   },
   {
     "chainId": 1,
@@ -22482,6 +22482,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x4f604735c1cf31399c6e711d5962b2b3e0225ad3",
+    "name": "Glo Dollar",
+    "symbol": "USDGLO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/29319/thumb/glo_logo_coingecko.png?1678068662"
+  },
+  {
+    "chainId": 1,
     "name": "Open Rights Exchange",
     "address": "0x4f640f2529ee0cf119a2881485845fa8e61a782a",
     "decimals": 18,
@@ -23201,14 +23209,6 @@
     "symbol": "PBTC",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/10805/thumb/J51iIea.png?1583891599"
-  },
-  {
-    "chainId": 1,
-    "name": "Catgirl AI",
-    "address": "0x523426ba1cea850457a0e405b005d739e8dfd0d8",
-    "decimals": 18,
-    "symbol": "CATAI",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/23401.png"
   },
   {
     "chainId": 1,
@@ -38454,11 +38454,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x8b0fde007458ee153bd0f66cd448af5fb3d99b43",
     "name": "Mastermind",
-    "symbol": "MASTERMIND",
+    "address": "0x8b0fde007458ee153bd0f66cd448af5fb3d99b43",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/29205/thumb/Mastermind.png?1677312893"
+    "symbol": "MASTERMIND",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/23732.png"
   },
   {
     "chainId": 1,
@@ -38689,7 +38689,7 @@
     "chainId": 1,
     "name": "BlackHat",
     "address": "0x8bcd06492416a749c9369009b3429861b7f27f6e",
-    "decimals": 18,
+    "decimals": 8,
     "symbol": "BLKC",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/10566.png"
   },
@@ -51217,11 +51217,11 @@
   },
   {
     "chainId": 1,
-    "address": "0xbc1a4555745e9c5334ebf9dcfec0b51285af8d17",
     "name": "Catgirl AI",
-    "symbol": "CATAI",
+    "address": "0xbc1a4555745e9c5334ebf9dcfec0b51285af8d17",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/28945/thumb/Catgirl_AI.png?1675570384"
+    "symbol": "CATAI",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/23401.png"
   },
   {
     "chainId": 1,
@@ -52708,11 +52708,11 @@
   },
   {
     "chainId": 1,
-    "address": "0xc162e59cf158c0e9aa06c4c3c66a2ce2961777ee",
     "name": "Black Rabbit AI",
-    "symbol": "BRAIN",
+    "address": "0xc162e59cf158c0e9aa06c4c3c66a2ce2961777ee",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/28966/thumb/200x200.png?1675745240"
+    "symbol": "BRAIN",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/23434.png"
   },
   {
     "chainId": 1,
@@ -53658,7 +53658,7 @@
     "chainId": 1,
     "name": "ZUSD",
     "address": "0xc56c2b7e71b54d38aab6d52e94a04cbfa8f604fa",
-    "decimals": 18,
+    "decimals": 6,
     "symbol": "ZUSD",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/8772.png"
   },
@@ -59530,6 +59530,14 @@
     "decimals": 18,
     "symbol": "JOT",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2948.png"
+  },
+  {
+    "chainId": 1,
+    "name": "DOPE Coin",
+    "address": "0xdb529c2a773ad4f65712f13a50941fa78eb2146a",
+    "decimals": 9,
+    "symbol": "DOPE",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/23772.png"
   },
   {
     "chainId": 1,
@@ -72637,6 +72645,14 @@
     "logoURI": "https://tokens.pancakeswap.finance/images/0x12BB890508c125661E03b09EC06E404bc9289040.png"
   },
   {
+    "name": "agEUR",
+    "symbol": "agEUR",
+    "address": "0x12f31b73d812c6bb0d735a218c086d44d5fe5f89",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x12f31B73D812C6Bb0d735a218c086d44D5fe5f89.png"
+  },
+  {
     "name": "True USD",
     "symbol": "TUSD",
     "address": "0x14016e85a25aeb13065688cafb43044c2ef86784",
@@ -73075,6 +73091,14 @@
     "chainId": 56,
     "decimals": 18,
     "logoURI": "https://tokens.pancakeswap.finance/images/0x398f7827DcCbeFe6990478876bBF3612D93baF05.png"
+  },
+  {
+    "name": "Stader (Wormhole)",
+    "symbol": "SD",
+    "address": "0x3bc5ac0dfdc871b365d159f728dd1b9a0b5481e8",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x3BC5AC0dFdC871B365d159f728dd1B9A0B5481E8.png"
   },
   {
     "name": "Cardano Token",
