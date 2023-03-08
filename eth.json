@@ -883,11 +883,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x02ad335dd3ca11c18cebbbb583b9613b6289d75f",
     "name": "BPEGd",
-    "symbol": "BPEG",
+    "address": "0x02ad335dd3ca11c18cebbbb583b9613b6289d75f",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/29310/thumb/BPEGd_Governance_Token.png?1677995219"
+    "symbol": "BPEG",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/23796.png"
   },
   {
     "chainId": 1,
@@ -928,6 +928,14 @@
     "decimals": 18,
     "symbol": "JPG",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/19627.png"
+  },
+  {
+    "chainId": 1,
+    "name": "KiboShib",
+    "address": "0x02e7f808990638e9e67e1f00313037ede2362361",
+    "decimals": 18,
+    "symbol": "KIBSHI",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/23802.png"
   },
   {
     "chainId": 1,
@@ -17751,11 +17759,11 @@
   },
   {
     "chainId": 1,
-    "name": "Volt Inu",
     "address": "0x3f7aff0ef20aa2e646290dfa4e67611b2220c597",
-    "decimals": 9,
+    "name": "Volt Inu  OLD ",
     "symbol": "VOLT",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/16349.png"
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/21832/thumb/nl250.png?1643191234"
   },
   {
     "chainId": 1,
@@ -23461,6 +23469,14 @@
   },
   {
     "chainId": 1,
+    "name": "Bark",
+    "address": "0x53340a1ef3a0ddeba1d94bbd1e2ff55936f0ea60",
+    "decimals": 18,
+    "symbol": "BARK",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/23793.png"
+  },
+  {
+    "chainId": 1,
     "name": "Samurai",
     "address": "0x53378825d95281737914a8a2ac0e5a9304ae5ed7",
     "decimals": 18,
@@ -24133,6 +24149,14 @@
     "decimals": 18,
     "symbol": "PTO",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/4759.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Optimus AI",
+    "address": "0x562e362876c8aee4744fc2c6aac8394c312d215d",
+    "decimals": 9,
+    "symbol": "OPTI",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/23794.png"
   },
   {
     "chainId": 1,
@@ -30427,7 +30451,7 @@
     "address": "0x6cdda72fc9d1a8aa0750ac640c5d6a8922de3b72",
     "name": "Good Doge",
     "symbol": "TREAT",
-    "decimals": 18,
+    "decimals": 9,
     "logoURI": "https://assets.coingecko.com/coins/images/27349/thumb/88.png?1663655057"
   },
   {
@@ -30726,6 +30750,14 @@
     "decimals": 18,
     "symbol": "BUILD",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/6956.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x6e39a587691b8c9d4341ce0a960998ed6f537af6",
+    "name": "Meta Masters Guild",
+    "symbol": "MEMAG",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/29329/thumb/Meta_Masters_Guild_Logo_%283%29.png?1678171368"
   },
   {
     "chainId": 1,
@@ -35812,11 +35844,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x820802fa8a99901f52e39acd21177b0be6ee2974",
     "name": "EUROe Stablecoin",
-    "symbol": "EUROE",
+    "address": "0x820802fa8a99901f52e39acd21177b0be6ee2974",
     "decimals": 6,
-    "logoURI": "https://assets.coingecko.com/coins/images/28913/thumb/euroe-200x200-round.png?1675338103"
+    "symbol": "EUROE",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/23800.png"
   },
   {
     "chainId": 1,
@@ -38743,11 +38775,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x8c1bed5b9a0928467c9b1341da1d7bd5e10b6549",
     "name": "Liquid Staked ETH",
-    "symbol": "LSETH",
+    "address": "0x8c1bed5b9a0928467c9b1341da1d7bd5e10b6549",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/28848/thumb/LsETH-receipt-token-circle.png?1674866187"
+    "symbol": "LSETH",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/23782.png"
   },
   {
     "chainId": 1,
@@ -47509,14 +47541,6 @@
   },
   {
     "chainId": 1,
-    "address": "0xacd8f2523a4613eee78904354187c81bb05ae2b8",
-    "name": "Stand Cash",
-    "symbol": "SAC",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/13542/thumb/sac.jpg?1609648101"
-  },
-  {
-    "chainId": 1,
     "address": "0xace837f596029039e7edd4789f9978259e1c3035",
     "symbol": "SHOP",
     "name": "CoinShop",
@@ -47856,9 +47880,9 @@
     "chainId": 1,
     "name": "Kishimoto",
     "address": "0xae36155a55f04a696b8362777620027882b31db5",
-    "decimals": 18,
+    "decimals": 9,
     "symbol": "KISHIMOTO",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/12872.png"
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/23797.png"
   },
   {
     "chainId": 1,
@@ -48509,6 +48533,14 @@
     "decimals": 18,
     "symbol": "IF",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/10932.png"
+  },
+  {
+    "chainId": 1,
+    "name": "COLLARSWAP",
+    "address": "0xb0e977e0214bcfeec0d685064244ad2b2487380b",
+    "decimals": 18,
+    "symbol": "COLLAR",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/23808.png"
   },
   {
     "chainId": 1,
@@ -53455,6 +53487,14 @@
   },
   {
     "chainId": 1,
+    "name": "MEZZ Token",
+    "address": "0xc4c346edc55504574cceb00aa1091d22404a4bc3",
+    "decimals": 18,
+    "symbol": "MEZZ",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/23818.png"
+  },
+  {
+    "chainId": 1,
     "name": "Martin Shkreli Inu",
     "address": "0xc4c75f2a0cb1a9acc33929512dc9733ea1fd6fde",
     "decimals": 18,
@@ -55098,6 +55138,14 @@
     "decimals": 18,
     "symbol": "$ANRX",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/8057.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Invect AI",
+    "address": "0xcae7f3aa6d456463bef0e5b508542b69d96f2904",
+    "decimals": 8,
+    "symbol": "INVECTAI",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/23810.png"
   },
   {
     "chainId": 1,
@@ -60376,11 +60424,11 @@
   },
   {
     "chainId": 1,
-    "address": "0xdf4ef6ee483953fe3b84abd08c6a060445c01170",
     "name": "Wrapped Accumulate",
-    "symbol": "WACME",
+    "address": "0xdf4ef6ee483953fe3b84abd08c6a060445c01170",
     "decimals": 8,
-    "logoURI": "https://assets.coingecko.com/coins/images/27207/thumb/accumulate-logo-200x200.png?1662607409"
+    "symbol": "WACME",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/21762.png"
   },
   {
     "chainId": 1,
@@ -62063,6 +62111,14 @@
     "symbol": "NFTI",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/14215/thumb/nfti.png?1614992905"
+  },
+  {
+    "chainId": 1,
+    "address": "0xe60779cc1b2c1d0580611c526a8df0e3f870ec48",
+    "name": "unshETH",
+    "symbol": "USH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/29337/thumb/unsheth_large_logo.png?1678175082"
   },
   {
     "chainId": 1,
@@ -65794,6 +65850,14 @@
     "decimals": 18,
     "symbol": "SXTZ",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/6192.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Rizz Inu",
+    "address": "0xf45d8c5bc85927e34de00cae694f5830af9105f5",
+    "decimals": 18,
+    "symbol": "RIZZ",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/23803.png"
   },
   {
     "chainId": 1,
