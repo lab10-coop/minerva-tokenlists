@@ -303,9 +303,7 @@
     "symbol": "FXS",
     "decimals": 18,
     "logoURI": "https://ethereum-optimism.github.io/data/FXS/logo.svg",
-    "extensions": {
-      "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
-    }
+    "extensions": {}
   },
   {
     "chainId": 1,
@@ -424,6 +422,17 @@
     "symbol": "LDO",
     "decimals": 18,
     "logoURI": "https://ethereum-optimism.github.io/data/LDO/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
+    }
+  },
+  {
+    "chainId": 1,
+    "address": "0x5e8422345238f34275888049021821e8e08caa1f",
+    "name": "Frax Ether",
+    "symbol": "frxETH",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/frxETH/logo.svg",
     "extensions": {
       "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
     }
@@ -620,6 +629,17 @@
     "symbol": "DUCK",
     "decimals": 18,
     "logoURI": "https://ethereum-optimism.github.io/data/DUCK/logo.png",
+    "extensions": {
+      "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
+    }
+  },
+  {
+    "chainId": 1,
+    "address": "0x9ce115f0341ae5dabc8b477b74e83db2018a6f42",
+    "name": "HairDAO Token",
+    "symbol": "HAIR",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/HAIR/logo.svg",
     "extensions": {
       "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
     }
@@ -1095,6 +1115,17 @@
   },
   {
     "chainId": 5,
+    "address": "0x5e8422345238f34275888049021821e8e08caa1f",
+    "name": "Frax Ether",
+    "symbol": "frxETH",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/frxETH/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x636Af16bf2f682dD3109e60102b8E1A089FedAa8"
+    }
+  },
+  {
+    "chainId": 5,
     "address": "0x753bd3e00b9585ac9a94fdf287f41d8d51e5cf8b",
     "name": "WAMP",
     "symbol": "WMP",
@@ -1430,6 +1461,17 @@
   },
   {
     "chainId": 10,
+    "address": "0x5465145a47260d5e715733997333a175d97285bb",
+    "name": "HairDAO Token",
+    "symbol": "HAIR",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/HAIR/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+    }
+  },
+  {
+    "chainId": 10,
     "address": "0x589d35656641d6ab57a545f08cf473ecd9b6d5f7",
     "name": "GMO JPY",
     "symbol": "GYEN",
@@ -1484,6 +1526,17 @@
     "symbol": "FXS",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/fxs.jpg"
+  },
+  {
+    "chainId": 10,
+    "address": "0x6806411765af15bddd26f8f544a34cc40cb9838b",
+    "name": "Frax Ether",
+    "symbol": "frxETH",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/frxETH/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+    }
   },
   {
     "address": "0x68f180fcce6836688e9084f035309e29bf0a2095",
