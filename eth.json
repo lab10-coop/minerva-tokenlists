@@ -1363,14 +1363,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x047686fb287e7263a23873dea66b4501015a2226",
-    "name": "Blockchain Cuties Universe",
-    "symbol": "CUTE",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/8328/thumb/bnLvIEl1_400x400.jpg?1557533240"
-  },
-  {
-    "chainId": 1,
     "name": "SparkPoint",
     "address": "0x0488401c3f535193fa8df029d9ffe615a06e74e6",
     "decimals": 18,
@@ -4914,14 +4906,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x11c1a6b3ed6bb362954b29d3183cfa97a0c806aa",
-    "name": "Starwire",
-    "symbol": "STR",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/18232/thumb/starwirelogo_%281%29.png?1631064145"
-  },
-  {
-    "chainId": 1,
     "name": "BridgeCoin",
     "address": "0x11c49e5ca7222f89909a6ec42d81eb6b2af5ff40",
     "decimals": 18,
@@ -7592,10 +7576,11 @@
   {
     "chainId": 1,
     "address": "0x1b2a76da77d03b7fc21189d9838f55bd849014af",
-    "name": "DeFiScale",
     "symbol": "DFC",
+    "name": "DeFiScale",
     "decimals": 8,
-    "logoURI": "https://assets.coingecko.com/coins/images/14974/thumb/logo200x200-2.png?1619214186"
+    "logoURI": "ipfs://QmQyaF8Jesfv4y1UhyyJ2warcCEPVrG3uNh6AWQdN4EDAT",
+    "tags": []
   },
   {
     "chainId": 1,
@@ -13063,6 +13048,14 @@
   },
   {
     "chainId": 1,
+    "name": "YUNA",
+    "address": "0x2f6f397332b0f8b4536430bcc97980aa838f62f9",
+    "decimals": 18,
+    "symbol": "YUNA",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/23866.png"
+  },
+  {
+    "chainId": 1,
     "name": "Ekta",
     "address": "0x2f75113b13d136f861d212fa9b572f2c79ac81c4",
     "decimals": 18,
@@ -14504,6 +14497,14 @@
   },
   {
     "chainId": 1,
+    "name": "BITE",
+    "address": "0x34103e1190b824a44c6a638438d425cba21143ba",
+    "decimals": 18,
+    "symbol": "BITE",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/23871.png"
+  },
+  {
+    "chainId": 1,
     "name": "DOGE NINJA SAMURAI",
     "address": "0x341998db59c7e2c8bde5bbf650563516422d525e",
     "decimals": 9,
@@ -14776,11 +14777,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x35073ca7bac0c2edf58fb34a2cbc39ea2fbb7056",
     "name": "Tor Wallet",
-    "symbol": "TOR",
+    "address": "0x35073ca7bac0c2edf58fb34a2cbc39ea2fbb7056",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/29371/thumb/ce34lut.png?1678349859"
+    "symbol": "TOR",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/23872.png"
   },
   {
     "chainId": 1,
@@ -17086,11 +17087,11 @@
   },
   {
     "chainId": 1,
-    "name": "yOUcash",
     "address": "0x3d371413dd5489f3a04c07c0c2ce369c20986ceb",
-    "decimals": 10,
+    "name": "YOUcash",
     "symbol": "YOUC",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7321.png"
+    "decimals": 10,
+    "logoURI": "https://assets.coingecko.com/coins/images/11152/thumb/round-400x400.png?1589162715"
   },
   {
     "chainId": 1,
@@ -18420,6 +18421,14 @@
     "decimals": 18,
     "symbol": "AUX",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/6504.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Doge KaKi",
+    "address": "0x42414624c55a9cba80789f47c8f9828a7974e40f",
+    "decimals": 18,
+    "symbol": "KAKI",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/23657.png"
   },
   {
     "chainId": 1,
@@ -28425,6 +28434,14 @@
     "symbol": "PACT",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/15265/thumb/pact.PNG?1620281262"
+  },
+  {
+    "chainId": 1,
+    "name": "MultiBTC",
+    "address": "0x66eff5221ca926636224650fd3b9c497ff828f7d",
+    "decimals": 8,
+    "symbol": "MULTIBTC",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/23869.png"
   },
   {
     "chainId": 1,
@@ -44104,14 +44121,6 @@
   },
   {
     "chainId": 1,
-    "address": "0xa12d7e5319f5b43476ef19d1569e10097cacdfe2",
-    "name": "Myth",
-    "symbol": "MYTH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/17593/thumb/GT_Logo-01.png?1628581478"
-  },
-  {
-    "chainId": 1,
     "name": "Swash",
     "address": "0xa130e3a33a4d84b04c3918c4e5762223ae252f80",
     "decimals": 18,
@@ -47708,6 +47717,14 @@
     "symbol": "SNGLS",
     "decimals": 0,
     "logoURI": "https://assets.coingecko.com/coins/images/521/thumb/singulardtv.png?1547034199"
+  },
+  {
+    "chainId": 1,
+    "name": "Shibarium Radar",
+    "address": "0xaec3fcfdd5355e35665e089fe532fd3d62f66fb9",
+    "decimals": 8,
+    "symbol": "SHRADAR",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/23868.png"
   },
   {
     "chainId": 1,
@@ -52005,14 +52022,6 @@
   },
   {
     "chainId": 1,
-    "address": "0xbfc5c333b096c6a171baa43bb2dfb321e05967da",
-    "name": "mini Mongoose",
-    "symbol": "MINIMONGOOSE",
-    "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/21443/thumb/6fpRJII.jpeg?1639144809"
-  },
-  {
-    "chainId": 1,
     "name": "Naruto Inu",
     "address": "0xbfce0e06dedcbea3e170ba4df2a6793334cac5ef",
     "decimals": 9,
@@ -52499,6 +52508,14 @@
     "decimals": 9,
     "symbol": "MGCHI",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/15867.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xc1abb8c93be6811affc70675b0432926c4bfbb5d",
+    "name": "UERII",
+    "symbol": "UERII",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/29388/thumb/Avatar512.png?1678424774"
   },
   {
     "chainId": 1,
@@ -57777,6 +57794,14 @@
   },
   {
     "chainId": 1,
+    "name": "SHIBONE INU",
+    "address": "0xd5de579f8324e3625bdc5e8c6f3db248614a41c5",
+    "decimals": 8,
+    "symbol": "SHIBONE",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/23867.png"
+  },
+  {
+    "chainId": 1,
     "name": "BeforeCoinMarketCap",
     "address": "0xd5e2a54fef5f9e4a6b21ec646bbed7a160a00f18",
     "decimals": 18,
@@ -61761,14 +61786,6 @@
     "decimals": 18,
     "symbol": "ARRO",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/8841.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xe632e1ea781df32c60ab11052958744cbfbc439a",
-    "name": "BAKC Vault  NFTX ",
-    "symbol": "BAKC",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/17052/thumb/BYAC.png?1626149096"
   },
   {
     "chainId": 1,
@@ -65954,11 +65971,11 @@
   },
   {
     "chainId": 1,
-    "address": "0xf5d126077096e5b01bc30ffa5d9324d7202d7cb3",
     "name": "CHEW",
-    "symbol": "CHEW",
+    "address": "0xf5d126077096e5b01bc30ffa5d9324d7202d7cb3",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/29377/thumb/IMG_4701.PNG?1678351869"
+    "symbol": "CHEW",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/23865.png"
   },
   {
     "chainId": 1,
