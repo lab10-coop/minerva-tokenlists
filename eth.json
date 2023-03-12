@@ -1878,6 +1878,14 @@
   },
   {
     "chainId": 1,
+    "name": "Bitkub Coin",
+    "address": "0x0649cef6d11ed6f88535462e147304d3fe5ae14d",
+    "decimals": 18,
+    "symbol": "KUB",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/16093.png"
+  },
+  {
+    "chainId": 1,
     "address": "0x06576eb3b212d605b797dc15523d9dc9f4f66db4",
     "name": "The Crypto Prophecies",
     "symbol": "TCP",
@@ -3506,7 +3514,7 @@
   },
   {
     "chainId": 1,
-    "name": "exeno coin",
+    "name": "EXENO",
     "address": "0x0c9b3ab1bd0cf0745625381f5c3aa1cd9bbc7abb",
     "decimals": 18,
     "symbol": "EXN",
@@ -3591,6 +3599,14 @@
     "decimals": 18,
     "symbol": "GBP",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/6897.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x0cf75471b0fbf76a315a75ebda6600ab92fdc924",
+    "name": "DeathWolf",
+    "symbol": "DTH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/29405/thumb/DeathWolf.png?1678516176"
   },
   {
     "chainId": 1,
@@ -9475,10 +9491,11 @@
   {
     "chainId": 1,
     "address": "0x22222c03318440305ac3e8a7820563d6a9fd777f",
-    "name": "Clover",
     "symbol": "CLV",
+    "name": "Clover",
     "decimals": 6,
-    "logoURI": "https://assets.coingecko.com/coins/images/12888/thumb/clover_logo.png?1603274615"
+    "logoURI": "ipfs://QmULSQePcd3JQZux1SWpXCeb4hqgs5yfWQHgLoeVSPpVu3",
+    "tags": []
   },
   {
     "chainId": 1,
@@ -18226,7 +18243,7 @@
     "chainId": 1,
     "name": "Ordinals Finance",
     "address": "0x419e35e3515c2fdb652c898bf7a0b21fb20497dc",
-    "decimals": 9,
+    "decimals": 18,
     "symbol": "OFI",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/23660.png"
   },
@@ -24159,6 +24176,14 @@
     "decimals": 18,
     "symbol": "SLRM",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3817.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x570936840fa942c96ca4c57a170dda494dd9b9c6",
+    "name": "Decentral ART",
+    "symbol": "ART",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/29398/thumb/E58AC31F-1B46-4BAD-B8D8-E01551303E09.jpeg?1678512681"
   },
   {
     "chainId": 1,
@@ -34423,14 +34448,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x7ccfeef4f0ff48b0e0abd19bbbebae90939f180d",
-    "name": "StarShip Stars",
-    "symbol": "STARS",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/17533/thumb/DhtU6Z.jpg?1628130727"
-  },
-  {
-    "chainId": 1,
     "name": "Maya Preferred",
     "address": "0x7cda79830faf07ed696fe220566116951ced36a7",
     "decimals": 18,
@@ -42657,14 +42674,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x9ba60ba98413a60db4c651d4afe5c937bbd8044b",
-    "name": "Yearn Lazy Ape",
-    "symbol": "YLA",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/14447/thumb/yla.png?1616128042"
-  },
-  {
-    "chainId": 1,
     "name": "TWINU",
     "address": "0x9bc72b6358379cd9f71c0b4827f9fc1a0f025eed",
     "decimals": 9,
@@ -45501,6 +45510,14 @@
   },
   {
     "chainId": 1,
+    "address": "0xa64d5d1eb67748226d84812b45711453f1118c32",
+    "name": "Cheems Inu  NEW ",
+    "symbol": "CINU",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/29393/thumb/cinu.png?1678506316"
+  },
+  {
+    "chainId": 1,
     "name": "Goku",
     "address": "0xa64dfe8d86963151e6496bee513e366f6e42ed79",
     "decimals": 9,
@@ -47136,7 +47153,7 @@
     "chainId": 1,
     "name": "Cheems Inu",
     "address": "0xac8cc32fab2368a1a095722aaf760c45f578e17b",
-    "decimals": 9,
+    "decimals": 18,
     "symbol": "CINU",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/15230.png"
   },
@@ -55251,6 +55268,14 @@
   },
   {
     "chainId": 1,
+    "address": "0xcc779bbbd17b2e68ecdccaea3d8c791b1573c66b",
+    "name": "Fetch",
+    "symbol": "FETCH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/29402/thumb/Fetch.png?1678514964"
+  },
+  {
+    "chainId": 1,
     "name": "Spacelens",
     "address": "0xcc7ab8d78dba187dc95bf3bb86e65e0c26d0041f",
     "decimals": 18,
@@ -58061,10 +58086,11 @@
   {
     "chainId": 1,
     "address": "0xd70240dd62f4ea9a6a2416e0073d72139489d2aa",
-    "name": "GLYPH Vault  NFTX ",
     "symbol": "GLYPH",
+    "name": "GLYPH Vault",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/17050/thumb/Glyph.png?1626149071"
+    "logoURI": "ipfs://QmbWyeKrvk5JtqYp5yRm2fSG3dsZXGnzvivQgcmAbiRV69",
+    "tags": []
   },
   {
     "chainId": 1,
@@ -61576,14 +61602,6 @@
     "decimals": 18,
     "symbol": "PAY",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/17978.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xe581f272706581f9dcc362df3c7934e99192c492",
-    "name": "PURR Vault  NFTX ",
-    "symbol": "PURR",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/18329/thumb/purr.png?1631557276"
   },
   {
     "chainId": 1,
@@ -66845,14 +66863,6 @@
     "decimals": 18,
     "symbol": "YLD",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/8066.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xf961a1fa7c781ecd23689fe1d0b7f3b6cbb2f972",
-    "name": "Wrapped Moon Cats",
-    "symbol": "MCAT20",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/14387/thumb/MCAT20.png?1615803341"
   },
   {
     "chainId": 1,
