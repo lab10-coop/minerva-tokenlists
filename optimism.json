@@ -28,9 +28,7 @@
     "symbol": "alETH",
     "decimals": 18,
     "logoURI": "https://ethereum-optimism.github.io/data/alETH/logo.svg",
-    "extensions": {
-      "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
-    }
+    "extensions": {}
   },
   {
     "chainId": 1,
@@ -543,6 +541,17 @@
     "symbol": "AAVE",
     "decimals": 18,
     "logoURI": "https://ethereum-optimism.github.io/data/AAVE/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
+    }
+  },
+  {
+    "chainId": 1,
+    "address": "0x81f8f0bb1cb2a06649e51913a151f0e7ef6fa321",
+    "name": "VitaDAO Token",
+    "symbol": "VITA",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/VITA/logo.svg",
     "extensions": {
       "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
     }
@@ -1384,9 +1393,7 @@
     "symbol": "alETH",
     "decimals": 18,
     "logoURI": "https://ethereum-optimism.github.io/data/alETH/logo.svg",
-    "extensions": {
-      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
-    }
+    "extensions": {}
   },
   {
     "chainId": 10,
@@ -1646,6 +1653,17 @@
     "symbol": "SARCO",
     "decimals": 18,
     "logoURI": "https://ethereum-optimism.github.io/data/SARCO/logo.png"
+  },
+  {
+    "chainId": 10,
+    "address": "0x7d14206c937e70e19e3a5b94011faf0d5b3928e2",
+    "name": "VitaDAO Token",
+    "symbol": "VITA",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/VITA/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+    }
   },
   {
     "chainId": 10,

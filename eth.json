@@ -594,6 +594,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x01792e1548dc317bde6123fe92da1fe6d7311c3c",
+    "name": "Spiral",
+    "symbol": "SPIRAL",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/26615/thumb/200logo.png?1664098207"
+  },
+  {
+    "chainId": 1,
     "name": "INMAX",
     "address": "0x018d7d179350f1bb9853d04982820e37cce13a92",
     "decimals": 8,
@@ -3514,7 +3522,7 @@
   },
   {
     "chainId": 1,
-    "name": "EXENO",
+    "name": "Exeno",
     "address": "0x0c9b3ab1bd0cf0745625381f5c3aa1cd9bbc7abb",
     "decimals": 18,
     "symbol": "EXN",
@@ -7115,6 +7123,14 @@
   },
   {
     "chainId": 1,
+    "name": "Koyo",
+    "address": "0x198065e69a86cb8a9154b333aad8efe7a3c256f8",
+    "decimals": 18,
+    "symbol": "KOY",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/23912.png"
+  },
+  {
+    "chainId": 1,
     "address": "0x19810559df63f19cfe88923313250550edadb743",
     "symbol": "HOUSE",
     "name": "Toast.finance",
@@ -8532,7 +8548,7 @@
   },
   {
     "chainId": 1,
-    "name": "Moneta",
+    "name": "Moneta DAO",
     "address": "0x1ea48b9965bb5086f3b468e50ed93888a661fc17",
     "decimals": 18,
     "symbol": "MON",
@@ -10353,14 +10369,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x254417f7b56328a48f554b173dca7bdda7a2a0d2",
-    "name": "Simba",
-    "symbol": "SIMBA",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/16060/thumb/200x200_%2819%29.png?1622710548"
-  },
-  {
-    "chainId": 1,
     "name": "Hourglass",
     "address": "0x2559813bbb508c4c79e9ccce4703bcb1f149edd7",
     "decimals": 9,
@@ -11412,14 +11420,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x2932624ff57f5920ce498bb343385c0332ec6e40",
-    "name": "Slay To Earn",
-    "symbol": "SLAY2EARN",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/26257/thumb/cmc-logo.png?1657600932"
-  },
-  {
-    "chainId": 1,
     "name": "xSNXa",
     "address": "0x2934443c1749dcc0cdcabbd77098eea31d2ea6c3",
     "decimals": 18,
@@ -12100,6 +12100,14 @@
     "decimals": 18,
     "symbol": "HSC",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2908.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x2bd0fb740e403b505a3146f9ac02df883fd5c3fc",
+    "name": "K9",
+    "symbol": "K9",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/29434/thumb/CoinGecko200pxFinal.png?1678784926"
   },
   {
     "chainId": 1,
@@ -15385,14 +15393,6 @@
     "decimals": 18,
     "symbol": "PSLIP",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/11410.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x36d076480eb31c717137f400f9761a5151124c4b",
-    "name": "FLYPE DAO",
-    "symbol": "FLYP",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/27283/thumb/FLYPE_LOGO_200X200.jpg?1663140374"
   },
   {
     "chainId": 1,
@@ -19167,14 +19167,6 @@
     "decimals": 2,
     "symbol": "MOZO",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3187.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x44dcf4dc9ec228b7748422c51b6c5c57f5f229ec",
-    "name": "Quannabu",
-    "symbol": "QBU",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/17892/thumb/HsYrOmEy_400x400.jpg?1629717802"
   },
   {
     "chainId": 1,
@@ -24779,6 +24771,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x59b44e9ac4ab8e29db6faf7bacd726c6b7bc94b9",
+    "name": "Black Eyed Dragon",
+    "symbol": "BLEYD",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/29432/thumb/C4B58A54-53A3-4644-8F61-2B86BF006122.jpeg?1678784104"
+  },
+  {
+    "chainId": 1,
     "name": "Betherchip",
     "address": "0x59c033ec65e6b9c501c1ee34fb42f2575da4b517",
     "decimals": 18,
@@ -25519,11 +25519,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x5c59a5b139b0538cb106d775a022cad98dd14b5a",
     "name": "XREATORS",
-    "symbol": "ORT",
+    "address": "0x5c59a5b139b0538cb106d775a022cad98dd14b5a",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/25678/thumb/XREATORS_ORT_Logo.png?1653548310"
+    "symbol": "ORT",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/20303.png"
   },
   {
     "chainId": 1,
@@ -27299,11 +27299,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x628ebc64a38269e031afbdd3c5ba857483b5d048",
     "name": "Liquid Staked ETH Index",
-    "symbol": "LSETH",
+    "address": "0x628ebc64a38269e031afbdd3c5ba857483b5d048",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/28856/thumb/LSETH_logo.png?1675166249"
+    "symbol": "LSETH",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/23914.png"
   },
   {
     "chainId": 1,
@@ -30660,6 +30660,14 @@
   },
   {
     "chainId": 1,
+    "name": "Roko",
+    "address": "0x6f222e04f6c53cc688ffb0abe7206aac66a8ff98",
+    "decimals": 18,
+    "symbol": "ROKO",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/23922.png"
+  },
+  {
+    "chainId": 1,
     "name": "Huobi Token",
     "address": "0x6f259637dcd74c767781e37bc6133cd6a68aa161",
     "decimals": 18,
@@ -31238,11 +31246,11 @@
   },
   {
     "chainId": 1,
-    "name": "cheqd",
     "address": "0x70edf1c215d0ce69e7f16fd4e6276ba0d99d4de7",
-    "decimals": 9,
+    "name": "CHEQD Network",
     "symbol": "CHEQ",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/12256.png"
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/20855/thumb/79901197.png?1637791407"
   },
   {
     "chainId": 1,
@@ -43704,11 +43712,11 @@
   },
   {
     "chainId": 1,
-    "name": "RealFevr",
     "address": "0x9fb83c0635de2e815fd1c21b3a292277540c2e8d",
-    "decimals": 18,
+    "name": "RealFevr",
     "symbol": "FEVR",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/10803.png"
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/17136/thumb/Fevr-Token.png?1626869849"
   },
   {
     "chainId": 1,
@@ -46531,6 +46539,14 @@
     "decimals": 18,
     "symbol": "MCC",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7704.png"
+  },
+  {
+    "chainId": 1,
+    "name": "TSUYU",
+    "address": "0xaa6a6c065116004743f5199ab457c94d45f2ab62",
+    "decimals": 9,
+    "symbol": "TSU",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/23923.png"
   },
   {
     "chainId": 1,
@@ -50071,6 +50087,14 @@
   },
   {
     "chainId": 1,
+    "name": "0x0",
+    "address": "0xb8fda5aee55120247f16225feff266dfdb381d4c",
+    "decimals": 18,
+    "symbol": "0X0",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/23909.png"
+  },
+  {
+    "chainId": 1,
     "name": "Auditchain",
     "address": "0xb90cb79b72eb10c39cbdf86e50b1c89f6a235f2e",
     "decimals": 18,
@@ -50575,6 +50599,14 @@
     "decimals": 9,
     "symbol": "SOAR",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/8240.png"
+  },
+  {
+    "chainId": 1,
+    "name": "ZEDXION",
+    "address": "0xbafdabadcf19d0cfbbe0ab9c69cf050d86ff888c",
+    "decimals": 18,
+    "symbol": "ZEDXION",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/12457.png"
   },
   {
     "chainId": 1,
@@ -56129,14 +56161,6 @@
   },
   {
     "chainId": 1,
-    "address": "0xcff20ce22e71ecf2ea89c86ecbd4a3cf513768c7",
-    "name": "Makes",
-    "symbol": "MKS",
-    "decimals": 6,
-    "logoURI": "https://assets.coingecko.com/coins/images/13318/thumb/MKS200.png?1607412065"
-  },
-  {
-    "chainId": 1,
     "name": "LTO Network",
     "address": "0xd01409314acb3b245cea9500ece3f6fd4d70ea30",
     "decimals": 18,
@@ -58713,10 +58737,11 @@
   {
     "chainId": 1,
     "address": "0xd9a947789974bad9be77e45c2b327174a9c59d71",
-    "name": "Ystar",
     "symbol": "YSR",
+    "name": "Ystar",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/11575/thumb/256_256.png?1600495476"
+    "logoURI": "ipfs://QmPw7UzK8o7uwfE8dNwnfmhYGgWeW55JLp2xLSGKdcH3Am",
+    "tags": []
   },
   {
     "chainId": 1,
@@ -61930,7 +61955,7 @@
     "name": "Exen Coin",
     "address": "0xe6cc10ef4de1ccfb821c99c04abfe1859d8eab8f",
     "decimals": 2,
-    "symbol": "BTXN",
+    "symbol": "EXEN",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/8565.png"
   },
   {
@@ -64304,11 +64329,11 @@
   },
   {
     "chainId": 1,
-    "address": "0xf029fd6b5ed35c825dd02b7a02952c30002840e4",
     "name": "Sigil Finance",
-    "symbol": "SIGIL",
+    "address": "0xf029fd6b5ed35c825dd02b7a02952c30002840e4",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/29266/thumb/sigil.png?1677667120"
+    "symbol": "SIGIL",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/23930.png"
   },
   {
     "chainId": 1,
@@ -67179,6 +67204,14 @@
   },
   {
     "chainId": 1,
+    "name": "Theopetra",
+    "address": "0xfac0403a24229d7e2edd994d50f5940624cbeac2",
+    "decimals": 9,
+    "symbol": "THEO",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/23932.png"
+  },
+  {
+    "chainId": 1,
     "name": "Alpha Impact",
     "address": "0xfac3f6391c86004289a186ae0198180fcb4d49ab",
     "decimals": 18,
@@ -67411,11 +67444,11 @@
   },
   {
     "chainId": 1,
-    "name": "ZEDXION",
     "address": "0xfbc4f3f645c4003a2e4f4e9b51077d2daa9a9341",
-    "decimals": 18,
+    "name": "Zedxion",
     "symbol": "ZEDXION",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/12457.png"
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/18841/thumb/ZEDXION.png?1633585913"
   },
   {
     "chainId": 1,
