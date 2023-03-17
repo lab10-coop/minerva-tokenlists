@@ -546,14 +546,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x015b94ab2b0a14a96030573fbcd0f3d3d763541f",
-    "name": "Zunami USD",
-    "symbol": "UZD",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/27621/thumb/UZD_Logo_200x200.png?1666428507"
-  },
-  {
-    "chainId": 1,
     "name": "KingXChain",
     "address": "0x016396044709eb3edc69c44f4d5fa6996917e4e8",
     "decimals": 18,
@@ -896,6 +888,14 @@
     "decimals": 18,
     "symbol": "BPEG",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/23796.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Rejuve.AI",
+    "address": "0x02c3296c6eb50249f290ae596f2be9454bffadab",
+    "decimals": 18,
+    "symbol": "RJV",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/23769.png"
   },
   {
     "chainId": 1,
@@ -5667,6 +5667,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x149cac67f1cd5d80651e7c9bb359ec285d821a05",
+    "name": "Minterest",
+    "symbol": "MNT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/29455/thumb/Minterest.png?1678963801"
+  },
+  {
+    "chainId": 1,
     "address": "0x149d8290f653deb8e34c037d239d3d8eee9de5ad",
     "name": "Kingdomverse",
     "symbol": "KING",
@@ -7323,6 +7331,14 @@
     "decimals": 18,
     "symbol": "ATX",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2732.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x1a16b2b93b37a7ef5cb0a4f978ced45fe14a5486",
+    "name": "Collar",
+    "symbol": "COLLAR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/29459/thumb/20230316_150014.png?1679017478"
   },
   {
     "chainId": 1,
@@ -18857,11 +18873,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x4384b85fe228ae727b129230211194e4a50877c4",
     "name": "Tail Finance",
-    "symbol": "TAIL",
+    "address": "0x4384b85fe228ae727b129230211194e4a50877c4",
     "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/29439/thumb/ShibTail_logo_fullArtboard_1_%281%29.png?1678864457"
+    "symbol": "TAIL",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/23962.png"
   },
   {
     "chainId": 1,
@@ -24592,6 +24608,15 @@
     "decimals": 18,
     "symbol": "BMJ",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7239.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x5919dea604631016c15c805e3d948a0384879892",
+    "symbol": "PEEP$",
+    "name": "The Peoples Coin",
+    "decimals": 9,
+    "logoURI": "ipfs://QmXgygyGu66ZirFuvPRyTYBFcaegLYKRHmcNmowPyjQrDe",
+    "tags": []
   },
   {
     "chainId": 1,
@@ -31414,6 +31439,14 @@
   },
   {
     "chainId": 1,
+    "name": "Mark Dao",
+    "address": "0x719e7f0dadfdea25b78595da944f44d15d7e6795",
+    "decimals": 18,
+    "symbol": "MUSK",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/23972.png"
+  },
+  {
+    "chainId": 1,
     "name": "LunchDAO",
     "address": "0x71a28feaee902966dc8d355e7b8aa427d421e7e0",
     "decimals": 18,
@@ -33847,11 +33880,11 @@
   },
   {
     "chainId": 1,
+    "name": "UpBots Token",
     "address": "0x7a73839bd0e5cded853cb01aa9773f8989381065",
-    "name": "UpBots",
-    "symbol": "UBXN",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12476/thumb/UBXT.png?1600132967"
+    "symbol": "UBXN",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/22902.png"
   },
   {
     "chainId": 1,
@@ -38759,6 +38792,14 @@
     "decimals": 18,
     "symbol": "MXS",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/14505.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x8d96b4ab6c741a4c8679ae323a100d74f085ba8f",
+    "name": "Bazaars",
+    "symbol": "BZR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/26392/thumb/bazaars_logo-color-black-icon.png?1657753265"
   },
   {
     "chainId": 1,
@@ -43867,7 +43908,7 @@
     "chainId": 1,
     "name": "Cronos",
     "address": "0xa0b73e1ff0b80914ab6fe0444e65848c4c34450b",
-    "decimals": 8,
+    "decimals": 18,
     "symbol": "CRO",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3635.png"
   },
@@ -45969,11 +46010,11 @@
   },
   {
     "chainId": 1,
-    "address": "0xa885b6d3c87535de688194ec3645199ee76d6772",
     "name": "Tokerr",
-    "symbol": "TOKR",
+    "address": "0xa885b6d3c87535de688194ec3645199ee76d6772",
     "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/28337/thumb/Tokerr_Logo.png?1669793676"
+    "symbol": "TOKR",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/22812.png"
   },
   {
     "chainId": 1,
@@ -48953,6 +48994,14 @@
     "decimals": 18,
     "symbol": "STONK",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/5843.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xb40b6608b2743e691c9b54ddbdee7bf03cd79f1c",
+    "name": "Zunami USD",
+    "symbol": "UZD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/27621/thumb/UZD_Logo_200x200.png?1666428507"
   },
   {
     "chainId": 1,
@@ -54423,6 +54472,14 @@
   },
   {
     "chainId": 1,
+    "address": "0xc97d6c52f3add91fa1c5287a453d7444aecbca83",
+    "name": "Degen Zoo",
+    "symbol": "DZOO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/29224/thumb/FAGWW5fe_400x400.jpeg?1677481253"
+  },
+  {
+    "chainId": 1,
     "name": "Mongoose Moon",
     "address": "0xc9865d1f303215a8d68c47c1effd3bf8e6d5abd8",
     "decimals": 18,
@@ -55228,11 +55285,11 @@
   },
   {
     "chainId": 1,
-    "address": "0xcc779bbbd17b2e68ecdccaea3d8c791b1573c66b",
     "name": "Fetch",
-    "symbol": "FETCH",
+    "address": "0xcc779bbbd17b2e68ecdccaea3d8c791b1573c66b",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/29402/thumb/Fetch.png?1678514964"
+    "symbol": "FETCH",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/23964.png"
   },
   {
     "chainId": 1,
@@ -57773,7 +57830,7 @@
     "chainId": 1,
     "name": "SHIBONE INU",
     "address": "0xd5de579f8324e3625bdc5e8c6f3db248614a41c5",
-    "decimals": 8,
+    "decimals": 18,
     "symbol": "SHIBONE",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/23867.png"
   },
@@ -63769,8 +63826,8 @@
     "chainId": 1,
     "name": "MEME KONG",
     "address": "0xee6b9cf11d968e0bac7bfff547577b8ae35b8065",
-    "decimals": 9,
-    "symbol": "MKONG",
+    "decimals": 18,
+    "symbol": "$MKONG",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/17999.png"
   },
   {
