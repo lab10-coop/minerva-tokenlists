@@ -16702,11 +16702,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x3b79a28264fc52c7b4cea90558aa0b162f7faf57",
     "name": "Wonderful Memories",
-    "symbol": "WMEMO",
+    "address": "0x3b79a28264fc52c7b4cea90558aa0b162f7faf57",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/22392/thumb/wMEMO.png?1665832927"
+    "symbol": "WMEMO",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/17076.png"
   },
   {
     "chainId": 1,
@@ -23438,6 +23438,14 @@
     "decimals": 9,
     "symbol": "ANARCHY",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/21137.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Luffy",
+    "address": "0x54012cdf4119de84218f7eb90eeb87e25ae6ebd7",
+    "decimals": 9,
+    "symbol": "LUFFY",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/23977.png"
   },
   {
     "chainId": 1,
@@ -30478,10 +30486,11 @@
   {
     "chainId": 1,
     "address": "0x6e1a19f235be7ed8e3369ef73b196c07257494de",
-    "name": "Wrapped Filecoin",
     "symbol": "WFIL",
+    "name": "Wrapped Filecoin",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/13238/thumb/WFIL.png?1623827165"
+    "logoURI": "ipfs://Qmc7AD51KqpieTJ5MeTPe5nTHXuHqmqAdacF1g3q67p4E8",
+    "tags": []
   },
   {
     "chainId": 1,
@@ -31367,11 +31376,11 @@
   },
   {
     "chainId": 1,
-    "name": "Luffy",
     "address": "0x7121d00b4fa18f13da6c2e30d19c04844e6afdc8",
-    "decimals": 18,
+    "name": "Luffy",
     "symbol": "LUFFY",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/11856.png"
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/17736/thumb/LUFFY_LOGO.png?1668675291"
   },
   {
     "chainId": 1,
@@ -31439,7 +31448,7 @@
   },
   {
     "chainId": 1,
-    "name": "Mark Dao",
+    "name": "Musk Dao",
     "address": "0x719e7f0dadfdea25b78595da944f44d15d7e6795",
     "decimals": 18,
     "symbol": "MUSK",
@@ -37998,14 +38007,6 @@
     "decimals": 18,
     "symbol": "IADA",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/5771.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x8a8116a794744977941c7d3743517410969aacbb",
-    "name": "Shiba Punkz",
-    "symbol": "SPUNK",
-    "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/27163/thumb/shibapunkzlogo.JPG?1662283310"
   },
   {
     "chainId": 1,
@@ -49343,14 +49344,6 @@
   },
   {
     "chainId": 1,
-    "address": "0xb551d08d2189ef67b4788be2c35c0743693625ca",
-    "name": "EAutocoin",
-    "symbol": "ATO",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/7132/thumb/ato.png?1547043631"
-  },
-  {
-    "chainId": 1,
     "name": "ECPN Token",
     "address": "0xb55732a15b3dc5d6e8d4adf40634f37470da71fa",
     "decimals": 8,
@@ -52304,11 +52297,11 @@
   },
   {
     "chainId": 1,
-    "name": "SWTCoin",
     "address": "0xc0f1728d9513efc316d0e93a0758c992f88b0809",
-    "decimals": 8,
+    "name": "SWTCoin",
     "symbol": "SWAT",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/4379.png"
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/5985/thumb/swtcoin.jpg?1547041927"
   },
   {
     "chainId": 1,
@@ -54472,11 +54465,11 @@
   },
   {
     "chainId": 1,
-    "address": "0xc97d6c52f3add91fa1c5287a453d7444aecbca83",
     "name": "Degen Zoo",
-    "symbol": "DZOO",
+    "address": "0xc97d6c52f3add91fa1c5287a453d7444aecbca83",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/29224/thumb/FAGWW5fe_400x400.jpeg?1677481253"
+    "symbol": "DZOO",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/23953.png"
   },
   {
     "chainId": 1,
@@ -62891,11 +62884,11 @@
   },
   {
     "chainId": 1,
-    "name": "ARMOR",
+    "name": "EASE",
     "address": "0xea5edef1287afdf9eb8a46f9773abfc10820c61c",
     "decimals": 18,
-    "symbol": "ARMOR",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/8309.png"
+    "symbol": "EASE",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/23978.png"
   },
   {
     "chainId": 1,
@@ -64530,14 +64523,6 @@
   },
   {
     "chainId": 1,
-    "address": "0xf0bc1ae4ef7ffb126a8347d06ac6f8add770e1ce",
-    "name": "1Million",
-    "symbol": "1MT",
-    "decimals": 7,
-    "logoURI": "https://assets.coingecko.com/coins/images/8495/thumb/1MTp.png?1586964391"
-  },
-  {
-    "chainId": 1,
     "name": "Cowboy.Finance",
     "address": "0xf0be50ed0620e0ba60ca7fc968ed14762e0a5dd3",
     "decimals": 9,
@@ -65871,7 +65856,7 @@
   },
   {
     "chainId": 1,
-    "name": "ImmutableX",
+    "name": "Immutable",
     "address": "0xf57e7e7c23978c3caec3c3548e3d615c346e79ff",
     "decimals": 18,
     "symbol": "IMX",
