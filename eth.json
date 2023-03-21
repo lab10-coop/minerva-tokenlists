@@ -1219,13 +1219,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x03c7a08451ed5c820958d64116d74de1f7b285d8",
-    "name": "BlackSwan Nodes",
-    "symbol": "SWAN",
-    "decimals": 9
-  },
-  {
-    "chainId": 1,
     "name": "Nabox",
     "address": "0x03d1e72765545729a035e909edd9371a405f77fb",
     "decimals": 18,
@@ -7334,11 +7327,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x1a16b2b93b37a7ef5cb0a4f978ced45fe14a5486",
     "name": "Collar",
-    "symbol": "COLLAR",
+    "address": "0x1a16b2b93b37a7ef5cb0a4f978ced45fe14a5486",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/29459/thumb/20230316_150014.png?1679017478"
+    "symbol": "COLLAR",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/24004.png"
   },
   {
     "chainId": 1,
@@ -8628,11 +8621,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x1f05dee43df9fd0cd7f4b011b20b04870a30c29a",
     "name": "ShibWallet",
-    "symbol": "SWT",
+    "address": "0x1f05dee43df9fd0cd7f4b011b20b04870a30c29a",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/29485/thumb/Disseny_sense_t%C3%ADtol_%284%29.png?1679136825"
+    "symbol": "SWT",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/23992.png"
   },
   {
     "chainId": 1,
@@ -23433,11 +23426,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x5408245a4d7c685f59ce6d3b8b35916dd6c11a99",
     "name": "AnonZK",
-    "symbol": "AZK",
+    "address": "0x5408245a4d7c685f59ce6d3b8b35916dd6c11a99",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/29491/thumb/200x200.png?1679215896"
+    "symbol": "AZK",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/23993.png"
   },
   {
     "chainId": 1,
@@ -26851,6 +26844,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x60c7aea107ea3cdab21455e187cfb7e54e09b760",
+    "name": "Meme",
+    "symbol": "MEME",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12140/thumb/meme-coin.jpeg?1619249191"
+  },
+  {
+    "chainId": 1,
     "name": "Global X Change Token",
     "address": "0x60c87297a1feadc3c25993ffcadc54e99971e307",
     "decimals": 18,
@@ -29369,6 +29370,14 @@
   },
   {
     "chainId": 1,
+    "name": "AlphaRush AI",
+    "address": "0x69d47846bb7b884062fabc08a4a7deadcd98c45b",
+    "decimals": 18,
+    "symbol": "rushAI",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/23997.png"
+  },
+  {
+    "chainId": 1,
     "name": "Onooks",
     "address": "0x69d9905b2e5f6f5433212b7f3c954433f23c1572",
     "decimals": 18,
@@ -30161,6 +30170,14 @@
     "decimals": 18,
     "symbol": "SWPR",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/12368.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x6cadf6abbceb53e631c288778daacf125481c1bb",
+    "name": "The Citadel",
+    "symbol": "CITADEL",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/20445/thumb/2023-03-16_22.55.22.jpg?1679066452"
   },
   {
     "chainId": 1,
@@ -31365,14 +31382,6 @@
     "decimals": 18,
     "symbol": "SOURCE",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/15013.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x7121d00b4fa18f13da6c2e30d19c04844e6afdc8",
-    "name": "Luffy",
-    "symbol": "LUFFY",
-    "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/17736/thumb/LUFFY_LOGO.png?1668675291"
   },
   {
     "chainId": 1,
@@ -34634,6 +34643,14 @@
   },
   {
     "chainId": 1,
+    "name": "Delysium",
+    "address": "0x7da2641000cbb407c329310c461b2cb9c70c3046",
+    "decimals": 18,
+    "symbol": "AGI",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/24007.png"
+  },
+  {
+    "chainId": 1,
     "address": "0x7da96a3891add058ada2e826306d812c638d87a7",
     "symbol": "yvUSDT",
     "name": "USDT yVault",
@@ -36121,14 +36138,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x84119cb33e8f590d75c2d6ea4e6b0741a7494eda",
-    "name": "Giga Watt",
-    "symbol": "WTT",
-    "decimals": 0,
-    "logoURI": "https://assets.coingecko.com/coins/images/907/thumb/wtt.png?1547034739"
-  },
-  {
-    "chainId": 1,
     "address": "0x8414db07a7f743debafb402070ab01a4e0d2e45e",
     "symbol": "yvCurve-sBTC",
     "name": "Curve sBTC Pool yVault",
@@ -36296,14 +36305,6 @@
     "decimals": 18,
     "symbol": "TOOL",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/4655.png"
-  },
-  {
-    "chainId": 1,
-    "name": "Digital Fitness",
-    "address": "0x84cffa78b2fbbeec8c37391d2b12a04d2030845e",
-    "decimals": 18,
-    "symbol": "DEFIT",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/9155.png"
   },
   {
     "chainId": 1,
@@ -39318,11 +39319,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x8f828a0644f12fa352888e645a90333d30f6fd7d",
     "name": "Rinia Inu",
+    "address": "0x8f828a0644f12fa352888e645a90333d30f6fd7d",
+    "decimals": 9,
     "symbol": "RINIA",
-    "decimals": 8,
-    "logoURI": "https://assets.coingecko.com/coins/images/29466/thumb/rinia.png?1679110331"
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/23988.png"
   },
   {
     "chainId": 1,
@@ -41569,10 +41570,11 @@
   {
     "chainId": 1,
     "address": "0x97aa8e14db0bc073cc7e2d42ac715427717d6042",
-    "name": "SPUNK Vault  NFTX ",
     "symbol": "SPUNK",
+    "name": "SPUNK Vault",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/17063/thumb/Spunks_%281%29.png?1626150896"
+    "logoURI": "ipfs://QmP591xL414xuDrMFhFdeQiP5j1TPQtMSzA9VLKR8wq8J1",
+    "tags": []
   },
   {
     "chainId": 1,
@@ -43446,6 +43448,14 @@
   },
   {
     "chainId": 1,
+    "name": "Reunit wallet",
+    "address": "0x9ed7e4b1bff939ad473da5e7a218c771d1569456",
+    "decimals": 6,
+    "symbol": "REUNI",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/23996.png"
+  },
+  {
+    "chainId": 1,
     "name": "Unistake",
     "address": "0x9ed8e7c9604790f7ec589f99b94361d8aab64e5e",
     "decimals": 18,
@@ -44508,11 +44518,11 @@
   },
   {
     "chainId": 1,
-    "address": "0xa27a6fa698a63f82e559914c11c6cd888060660b",
     "name": "Shinsekai",
+    "address": "0xa27a6fa698a63f82e559914c11c6cd888060660b",
+    "decimals": 18,
     "symbol": "SHIN",
-    "decimals": 8,
-    "logoURI": "https://assets.coingecko.com/coins/images/29482/thumb/Shinsekai_200x200.jpg?1679131662"
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/24003.png"
   },
   {
     "chainId": 1,
@@ -48245,6 +48255,14 @@
   },
   {
     "chainId": 1,
+    "name": "Zero Liquid",
+    "address": "0xb0ed33f79d89541dfdcb04a8f04bc2c6be025ecc",
+    "decimals": 18,
+    "symbol": "ZERO",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/24008.png"
+  },
+  {
+    "chainId": 1,
     "name": "Sphere Identity",
     "address": "0xb110ec7b1dcb8fab8dedbf28f53bc63ea5bedd84",
     "decimals": 8,
@@ -49180,6 +49198,14 @@
     "decimals": 18,
     "symbol": "CXN",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7215.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xb48ee8f8fa3885fc08831ff366ec8df608159ee9",
+    "name": "LiquidLock",
+    "symbol": "LOCK",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/29493/thumb/LOCK.png?1679285555"
   },
   {
     "chainId": 1,
@@ -50451,11 +50477,11 @@
   },
   {
     "chainId": 1,
-    "address": "0xba58444c8050ed9385b7417533a73644036d21eb",
     "name": "Lord of Dragons",
-    "symbol": "LOGT",
+    "address": "0xba58444c8050ed9385b7417533a73644036d21eb",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/29471/thumb/sym_1000.png?1679128938"
+    "symbol": "LOGT",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/23989.png"
   },
   {
     "chainId": 1,
@@ -52880,6 +52906,14 @@
     "decimals": 18,
     "symbol": "ADP",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/8044.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xc31cebf8f9e825d1d1244d73d0a65e44bd5210db",
+    "name": "CRYN",
+    "symbol": "CRYN",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/24601/thumb/cryn.png?1648365782"
   },
   {
     "chainId": 1,
@@ -62892,11 +62926,11 @@
   },
   {
     "chainId": 1,
-    "address": "0xea4a2327e75252517535fd013b7c6706609819db",
     "name": "Shibarium Name Service",
-    "symbol": "SNS",
+    "address": "0xea4a2327e75252517535fd013b7c6706609819db",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/29486/thumb/shibarium.jpg?1679136962"
+    "symbol": "SNS",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/23991.png"
   },
   {
     "chainId": 1,
@@ -67847,11 +67881,11 @@
   },
   {
     "chainId": 1,
-    "address": "0xfd414e39155f91e94443a9fe97e856569d0f5eec",
     "name": "Shibarium Perpetuals",
-    "symbol": "SERP",
+    "address": "0xfd414e39155f91e94443a9fe97e856569d0f5eec",
     "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/29465/thumb/photo_2023-03-15_22.44.48-removebg-preview_%281%29.png?1679109995"
+    "symbol": "SERP",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/23987.png"
   },
   {
     "chainId": 1,
