@@ -3635,11 +3635,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x0d229c3ff2d76e4b88ca4f9d3d3353f4545ec53f",
     "name": "Sheikh Inu",
-    "symbol": "SHINU",
+    "address": "0x0d229c3ff2d76e4b88ca4f9d3d3353f4545ec53f",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/28948/thumb/photo_2023-02-04_17-32-00_prev_ui_%282%29.png?1675572486"
+    "symbol": "SHINU",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/23398.png"
   },
   {
     "chainId": 1,
@@ -7060,11 +7060,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x1936c91190e901b7dd55229a574ae22b58ff498a",
     "name": "MEVFree",
-    "symbol": "MEVFREE",
+    "address": "0x1936c91190e901b7dd55229a574ae22b58ff498a",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/29510/thumb/mevfree200.png?1679383352"
+    "symbol": "MEVFREE",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/24031.png"
   },
   {
     "chainId": 1,
@@ -9913,10 +9913,11 @@
   {
     "chainId": 1,
     "address": "0x236d53148f83706c3d670064809577385f923a75",
-    "name": "Siberian Husky",
     "symbol": "SHUSKY",
+    "name": "Siberian Husky",
     "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/16711/thumb/shusky.png?1624782891"
+    "logoURI": "ipfs://QmU6Jcdh2QRM92jpgj2pUQGBsLGPKYTm5sREgrjTEvD7Rp",
+    "tags": []
   },
   {
     "chainId": 1,
@@ -22070,6 +22071,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x4e4bffaa8df6f0dc3e5600bbacf7da55f37134fc",
+    "name": "BlockStar",
+    "symbol": "BST",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/29524/thumb/BlockStar_Transparent_200_by_200.png?1679472988"
+  },
+  {
+    "chainId": 1,
     "address": "0x4e568ab95f029e8df1e39b30c9d6d076eaa15945",
     "name": "Flycoin FLY",
     "symbol": "FLY",
@@ -24669,11 +24678,10 @@
   {
     "chainId": 1,
     "address": "0x5919dea604631016c15c805e3d948a0384879892",
-    "symbol": "PEEP$",
-    "name": "The Peoples Coin",
+    "name": "The People s Coin",
+    "symbol": "PEEPS",
     "decimals": 9,
-    "logoURI": "ipfs://QmXgygyGu66ZirFuvPRyTYBFcaegLYKRHmcNmowPyjQrDe",
-    "tags": []
+    "logoURI": "https://assets.coingecko.com/coins/images/16777/thumb/peeps.png?1679504939"
   },
   {
     "chainId": 1,
@@ -25651,8 +25659,8 @@
     "chainId": 1,
     "name": "Archive AI",
     "address": "0x5c8190b76e90b4dd0702740cf6eb0f7ee01ab5e9",
-    "decimals": 9,
-    "symbol": "ARCHAI",
+    "decimals": 18,
+    "symbol": "ARCAI",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/23395.png"
   },
   {
@@ -43480,14 +43488,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x9eba9adda0a23eba3d13b1b95bf64ce56ae66d92",
-    "name": "dsync ai",
-    "symbol": "DSYNC",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/29374/thumb/dsync_logo_Transparent.png?1678350810"
-  },
-  {
-    "chainId": 1,
     "name": "Bitcratic",
     "address": "0x9ec251401eafb7e98f37a1d911c0aea02cb63a80",
     "decimals": 18,
@@ -46405,6 +46405,14 @@
     "decimals": 18,
     "symbol": "IETH",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/6188.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Mazuri GameFi",
+    "address": "0xa98a8a74aa8d6f41f9e498a084548c4db63c8f01",
+    "decimals": 18,
+    "symbol": "MZR",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/24045.png"
   },
   {
     "chainId": 1,
@@ -50056,14 +50064,6 @@
     "decimals": 18,
     "symbol": "USHIBA",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/9943.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xb8981acbbf7da95a8ff6df79aab935ce63434fc8",
-    "name": "Cfoforum",
-    "symbol": "CFO",
-    "decimals": 6,
-    "logoURI": "https://assets.coingecko.com/coins/images/17592/thumb/CFO_logo_200_200px.png?1628580306"
   },
   {
     "chainId": 1,
@@ -54018,11 +54018,11 @@
   },
   {
     "chainId": 1,
-    "address": "0xc74b43cc61b627667a608c3f650c2558f88028a1",
     "name": "Astral AI",
-    "symbol": "ASTRAL",
+    "address": "0xc74b43cc61b627667a608c3f650c2558f88028a1",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/29505/thumb/Astral_AI_Project.png?1679381776"
+    "symbol": "ASTRAL",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/24040.png"
   },
   {
     "chainId": 1,
@@ -54336,6 +54336,14 @@
     "decimals": 18,
     "symbol": "KPER",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7561.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xc89d9aa9d9e54bb196319c6195aea1038d2bc936",
+    "name": "Trend X",
+    "symbol": "TRENDX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/29522/thumb/200.png?1679464304"
   },
   {
     "chainId": 1,
@@ -62781,11 +62789,11 @@
   },
   {
     "chainId": 1,
-    "address": "0xe9b7b5d5e8d2bcc78884f9f9099bfa42a9e5c1a5",
     "name": "Zenland",
-    "symbol": "ZENF",
+    "address": "0xe9b7b5d5e8d2bcc78884f9f9099bfa42a9e5c1a5",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/29477/thumb/tokenicon200px.png?1679130231"
+    "symbol": "ZENF",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/24035.png"
   },
   {
     "chainId": 1,
@@ -72969,14 +72977,6 @@
     "logoURI": "https://tokens.pancakeswap.finance/images/0x42F6f551ae042cBe50C739158b4f0CAC0Edb9096.png"
   },
   {
-    "name": "Xcademy",
-    "symbol": "XCAD",
-    "address": "0x431e0cd023a32532bf3969cddfc002c00e98429d",
-    "chainId": 56,
-    "decimals": 18,
-    "logoURI": "https://tokens.pancakeswap.finance/images/0x431e0cD023a32532BF3969CddFc002c00E98429d.png"
-  },
-  {
     "name": "Litecoin Token",
     "symbol": "LTC",
     "address": "0x4338665cbb7b2485a8855a139b75d5e34ab0db94",
@@ -73251,6 +73251,14 @@
     "chainId": 56,
     "decimals": 18,
     "logoURI": "https://tokens.pancakeswap.finance/images/0x5Ac52EE5b2a633895292Ff6d8A89bB9190451587.png"
+  },
+  {
+    "name": "Uniwhale Token",
+    "symbol": "UNW",
+    "address": "0x5b65cd9feb54f1df3d0c60576003344079f8dc06",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x5b65cd9feb54F1Df3D0C60576003344079f8Dc06.png"
   },
   {
     "name": "Mirror Finance",
@@ -73971,6 +73979,14 @@
     "chainId": 56,
     "decimals": 18,
     "logoURI": "https://tokens.pancakeswap.finance/images/0x9Fdc3ae5c814b79dcA2556564047C5e7e5449C19.png"
+  },
+  {
+    "name": "Xcademy",
+    "symbol": "XCAD",
+    "address": "0xa026ad2ceda16ca5fc28fd3c72f99e2c332c8a26",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0xa026Ad2ceDa16Ca5FC28fd3C72f99e2C332c8a26.png"
   },
   {
     "name": "Mirror NFLX Token",
