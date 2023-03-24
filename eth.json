@@ -2562,11 +2562,11 @@
   },
   {
     "chainId": 1,
+    "name": "The SkyToken",
     "address": "0x090fc4d5436d98e13473c4d6109de6a18bcfb0d4",
-    "name": "SkyToken",
-    "symbol": "SKY",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/28037/thumb/sky.png?1667129732"
+    "symbol": "SKY",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/24054.png"
   },
   {
     "chainId": 1,
@@ -7972,14 +7972,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x1c65c261cb89178b02cf2aee20058b992787d770",
-    "name": "TORQ Coin",
-    "symbol": "TORQ",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/3486/thumb/torq-coin.png?1547038229"
-  },
-  {
-    "chainId": 1,
     "name": "Kava Lend",
     "address": "0x1c700f95df53fc31e83d89ac89e5dd778d4cd310",
     "decimals": 6,
@@ -11302,14 +11294,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x287609a15a683640a5bbc4d93d4d5f4ed6bad3a0",
-    "name": "PICK",
-    "symbol": "PICK",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12243/thumb/nZlFKAmk_400x400.jpg?1598444299"
-  },
-  {
-    "chainId": 1,
     "name": "Senator Karen",
     "address": "0x2881080650b782a48b03a1f5bd30df117b6a5bd5",
     "decimals": 9,
@@ -12604,7 +12588,7 @@
     "chainId": 1,
     "name": "Blockchain Bets",
     "address": "0x2d886570a0da04885bfd6eb48ed8b8ff01a0eb7e",
-    "decimals": 9,
+    "decimals": 18,
     "symbol": "BCB",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/23165.png"
   },
@@ -28897,14 +28881,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x68257309fcdfe1e6edb592da97ac8215fe583908",
-    "name": "Gorilla Inu",
-    "symbol": "GORILLAINU",
-    "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/19426/thumb/gorilla_logo.png?1635216321"
-  },
-  {
-    "chainId": 1,
     "name": "Rapidz",
     "address": "0x68350d30d9f58c81aaaa41929f1bfc52fff4ea49",
     "decimals": 18,
@@ -33818,6 +33794,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x79d4f0232a66c4c91b89c76362016a1707cfbf4f",
+    "name": "VNX Swiss Franc",
+    "symbol": "VCHF",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/29547/thumb/VNXCHF_%282%29.png?1679561328"
+  },
+  {
+    "chainId": 1,
     "name": "iLTC",
     "address": "0x79da1431150c9b82d2e5dfc1c68b33216846851e",
     "decimals": 18,
@@ -35598,6 +35582,14 @@
     "decimals": 18,
     "symbol": "SCS",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/1651.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Hobbes",
+    "address": "0x819c1a1568934ee59d9f3c8b9640908556c44140",
+    "decimals": 18,
+    "symbol": "HOBBES",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/24057.png"
   },
   {
     "chainId": 1,
@@ -43415,6 +43407,14 @@
   },
   {
     "chainId": 1,
+    "name": "Bard Protocol",
+    "address": "0x9e7e87608a34bc66396d53e69b9495bd8f5414df",
+    "decimals": 9,
+    "symbol": "BARD",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/24061.png"
+  },
+  {
+    "chainId": 1,
     "name": "EZDex",
     "address": "0x9e8bfe46f9af27c5ea5c9c72b86d71bb86953a0c",
     "decimals": 18,
@@ -43469,14 +43469,6 @@
     "decimals": 18,
     "symbol": "ETH20SMACO",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/6129.png"
-  },
-  {
-    "chainId": 1,
-    "name": "The BET",
-    "address": "0x9eb6299e4bb6669e42cb295a254c8492f67ae2c6",
-    "decimals": 18,
-    "symbol": "BET",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/23689.png"
   },
   {
     "chainId": 1,
@@ -49375,6 +49367,14 @@
     "decimals": 18,
     "symbol": "DOGES",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7377.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Arbitrum",
+    "address": "0xb50721bcf8d664c30412cfbc6cf7a15145234ad1",
+    "decimals": 18,
+    "symbol": "ARB",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/11841.png"
   },
   {
     "chainId": 1,
@@ -60694,11 +60694,11 @@
   },
   {
     "chainId": 1,
-    "address": "0xe115401b985306837b9f1495c8e9d7f8f8328cc3",
     "name": "Claw",
-    "symbol": "CLAW",
+    "address": "0xe115401b985306837b9f1495c8e9d7f8f8328cc3",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/29475/thumb/CLAW.png?1679129955"
+    "symbol": "CLAW",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/24052.png"
   },
   {
     "chainId": 1,
@@ -64802,14 +64802,6 @@
     "decimals": 8,
     "symbol": "DIT",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3264.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xf14b9adf84812ba463799357f4dc716b4384010b",
-    "name": "Pension Plan",
-    "symbol": "PP",
-    "decimals": 8,
-    "logoURI": "https://assets.coingecko.com/coins/images/19670/thumb/pensionplan-logo-200CG2.png?1635738403"
   },
   {
     "chainId": 1,
