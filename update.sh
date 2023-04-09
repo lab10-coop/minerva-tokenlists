@@ -121,6 +121,19 @@ deduplicate avalanche0.json avalanche.json
 rm -f avalanche?.json
 echo "built avalanche list with $(jq '.|length' avalanche.json) elements"
 
+########### zkSync ############
+
+zkSyncSource1="https://raw.githubusercontent.com/muteio/token-directory/main/zksync.json"
+zkSyncSource2="https://raw.githubusercontent.com/SpaceFinance/default-token-list/main/spaceswap.zksync.tokenlist.json"
+
+curl -f -s $zkSyncSource1 | jq '.' > zksync1.json || true
+curl -f -s $zkSyncSource2 | jq '.tokens' > zksync2.json || true
+# concat into one file
+jq -s '.|flatten' lab10_zksync_overlay.json zksync1.json zksync2.json > zksync0.json
+deduplicate zksync0.json zksync.json
+rm -f zksync?.json
+echo "built zksync list with $(jq '.|length' zksync.json) elements"
+
 ########### ARTIS ############
 
 # the sigma1 list is static for now
@@ -134,6 +147,6 @@ echo "validated kovan list with $(jq '.|length' testnets.json) elements"
 ########### merge all ###########
 
 # compile a multi-network list
-jq -s '.|flatten' eth.json xdai.json sigma1.json matic.json bsc.json okex.json arbitrum.json optimism.json celo.json avalanche.json testnets.json > all.json
+jq -s '.|flatten' eth.json xdai.json sigma1.json matic.json bsc.json okex.json arbitrum.json optimism.json celo.json avalanche.json zksync.json testnets.json > all.json
 
 echo "built all list with $(jq '.|length' all.json) elements"
