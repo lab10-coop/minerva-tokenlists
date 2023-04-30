@@ -105,11 +105,35 @@
   },
   {
     "chainId": 324,
+    "address": "0x503234f203fc7eb888eec8513210612a43cf6115",
+    "name": "Liquity USD",
+    "symbol": "LUSD",
+    "decimals": 18,
+    "logoURI": "https://github.com/muteio/token-directory/raw/main/icons/lusd.png"
+  },
+  {
+    "chainId": 324,
     "address": "0x5aea5775959fbc2557cc8789bc1bf90a239d9a91",
     "name": "Wrapped ETH",
     "symbol": "WETH",
     "decimals": 18,
     "logoURI": "https://github.com/muteio/token-directory/raw/main/icons/weth.png"
+  },
+  {
+    "chainId": 324,
+    "address": "0x5e38cb3e6c0faafaa5c32c482864fcef5a0660ad",
+    "name": "Zksync Shib",
+    "symbol": "ZKSHIB",
+    "decimals": 18,
+    "logoURI": "https://github.com/muteio/token-directory/raw/main/icons/zkshib.png"
+  },
+  {
+    "chainId": 324,
+    "address": "0x6d27b6252b980ba4350a1e349a3b684237d5e986",
+    "name": "Hush",
+    "symbol": "HUSH",
+    "decimals": 18,
+    "logoURI": "https://github.com/muteio/token-directory/raw/main/icons/hush.png"
   },
   {
     "chainId": 324,
@@ -121,11 +145,43 @@
   },
   {
     "chainId": 324,
+    "address": "0x89f69ad54e5d05a7a7a1314ecbc7d56d965d3020",
+    "name": "Wojak Coin Zk",
+    "symbol": "$WOJAK",
+    "decimals": 18,
+    "logoURI": "https://github.com/muteio/token-directory/raw/main/icons/Wojak.png"
+  },
+  {
+    "chainId": 324,
     "address": "0x8aaaf6e6167825829ab29f260f246afe742fb243",
     "name": "ZKCULT",
     "symbol": "zCULT",
     "decimals": 18,
     "logoURI": "https://github.com/muteio/token-directory/raw/main/icons/ZKCULT.png"
+  },
+  {
+    "chainId": 324,
+    "address": "0x8d266fa745b7cf3856af0c778828473b8d33a149",
+    "name": "zkFloki",
+    "symbol": "ZFLOKI",
+    "decimals": 18,
+    "logoURI": "https://github.com/muteio/token-directory/raw/main/icons/ZFLOKI.png"
+  },
+  {
+    "chainId": 324,
+    "address": "0x94466dcfe241db963af1bc9741a94daa87ab2169",
+    "name": "zkLotto",
+    "symbol": "zkLotto",
+    "decimals": 6,
+    "logoURI": "https://github.com/muteio/token-directory/raw/main/icons/zklotto.png"
+  },
+  {
+    "chainId": 324,
+    "address": "0x959ab3394246669914bddeaeb50f8ac85648615e",
+    "name": "zkLaunchpad",
+    "symbol": "ZKPAD",
+    "decimals": 18,
+    "logoURI": "https://github.com/muteio/token-directory/raw/main/icons/zklaunchpad.png"
   },
   {
     "chainId": 324,
@@ -153,10 +209,34 @@
   },
   {
     "chainId": 324,
+    "address": "0xc8ac6191cdc9c7bf846ad6b52aaaa7a0757ee305",
+    "name": "Metavault Trade",
+    "symbol": "MVX",
+    "decimals": 18,
+    "logoURI": "https://github.com/muteio/token-directory/raw/main/icons/mvx.png"
+  },
+  {
+    "chainId": 324,
     "address": "0xc8ec5b0627c794de0e4ea5d97ad9a556b361d243",
     "name": "Whisper",
     "symbol": "WISP",
     "decimals": 18,
     "logoURI": "https://github.com/muteio/token-directory/raw/main/icons/wisp.png"
+  },
+  {
+    "chainId": 324,
+    "address": "0xdea6d5161978d36b5c0fa6a491faa754f4bc809c",
+    "name": "Idexo Token",
+    "symbol": "IDO",
+    "decimals": 18,
+    "logoURI": "https://github.com/muteio/token-directory/raw/main/icons/idexo.png"
+  },
+  {
+    "chainId": 324,
+    "address": "0xf42d97dbff4adc5fe32966338c306859a5766511",
+    "name": "ZoKe Inu",
+    "symbol": "ZKINU",
+    "decimals": 9,
+    "logoURI": "https://github.com/muteio/token-directory/raw/main/icons/ZoKeInu.png"
   }
 ]

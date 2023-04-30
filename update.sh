@@ -34,7 +34,7 @@ echo "built eth list with $(jq '.|length' eth.json) elements"
 
 ########### XDAI ###########
 
-xdaiSource1="https://raw.githubusercontent.com/1Hive/default-token-list/master/src/tokens/xdai.json"
+xdaiSource1="https://raw.githubusercontent.com/1Hive/default-token-list/master/src/tokens/gnosis.json"
 
 # here jq just validates the content
 curl -f -s $xdaiSource1 | jq '.' > xdai1.json || true

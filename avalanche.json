@@ -1,6 +1,14 @@
 [
   {
     "chainId": 14,
+    "address": "0x1aa5282692398c078e71fb3e4a85660d1bf8f586",
+    "decimals": 18,
+    "name": "Bunny Token",
+    "symbol": "BUNNY",
+    "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/14/0x1aa5282692398c078e71Fb3e4A85660d1BF8F586/logo_24.png"
+  },
+  {
+    "chainId": 14,
     "address": "0x1d80c49bbbcd1c0911346656b529df9e5c2f783d",
     "decimals": 18,
     "name": "Wrapped Flare",
@@ -33,11 +41,19 @@
   },
   {
     "chainId": 19,
+    "address": "0x0d36197ecfd7332e9e006f5c89b5b4b69091cdff",
+    "decimals": 18,
+    "name": "Beast Token",
+    "symbol": "BEAST",
+    "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/19/0x0D36197eCFd7332E9E006F5c89b5b4b69091CDff/logo_24.png"
+  },
+  {
+    "chainId": 19,
     "address": "0x61b64c643fccd6ff34fc58c8ddff4579a89e2723",
     "decimals": 18,
     "name": "Astral Credits",
     "symbol": "XAC",
-    "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/assets/19/0x61b64c643fCCd6ff34Fc58C8ddff4579A89E2723/logo_24.png"
+    "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/19/0x61b64c643fCCd6ff34Fc58C8ddff4579A89E2723/logo_24.png"
   },
   {
     "chainId": 19,
