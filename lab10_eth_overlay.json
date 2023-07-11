@@ -118,5 +118,37 @@
     "decimals": 18,
     "symbol": "ISKe",
     "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-tokenlists/master/images/Monerium-ISK.svg"
+  },
+  {
+    "chainId": 1,
+    "name": "nextUSDC",
+    "address": "0x44CF74238d840a5fEBB0eAa089D05b763B73faB8",
+    "decimals": 6,
+    "symbol": "nextUSDC",
+    "logoURI": "https://bridge.connext.network/logos/assets/nextusdc.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Connext USDC LP",
+    "address": "0xA639FB3f8C52e10E10a8623616484d41765d5F82",
+    "decimals": 18,
+    "symbol": "CUSDCLP",
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-dapplist/main/images/dapp_connextbridge.png"
+  },
+  {
+    "chainId": 1,
+    "name": "nextWETH",
+    "address": "0x538E2dDbfDf476D24cCb1477A518A82C9EA81326",
+    "decimals": 18,
+    "symbol": "nextWETH",
+    "logoURI": "https://bridge.connext.network/logos/assets/nextweth.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Connext WETH LP",
+    "address": "0x7aC5bBefAE0459F007891f9Bd245F6beaa91076c",
+    "decimals": 18,
+    "symbol": "CUSDCLP",
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-dapplist/main/images/dapp_connextbridge.png"
   }
 ]

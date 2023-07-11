@@ -3,9 +3,36 @@
     "chainId": 42220,
     "address": "0x671425ae1f272bc6f79bec3ed5c4b00e9c628240",
     "name": "Super CELO",
-    "symbol": "CELOx ",
+    "symbol": "CELOx",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/superfluid-finance/assets/master/public/tokens/celo/icon.svg",
+    "tags": [ "SuperToken", "WrapperToken" ]
+  },
+  {
+    "chainId": 42220,
+    "address": "0xd9f9a02e49225c7Ab5B40fce8D44D256b0e984fB",
+    "name": "Super Celo Euro",
+    "symbol": "cEURx",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/ceur.jpg",
+    "tags": [ "SuperToken", "WrapperToken" ]
+  },
+  {
+    "chainId": 42220,
+    "address": "0x3AcB9A08697b6Db4cD977e8Ab42b6f24722e6D6e",
+    "name": "Super Celo Dollar",
+    "symbol": "cUSDx",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/cusd.jpg",
+    "tags": [ "SuperToken", "WrapperToken" ]
+  },
+  {
+    "chainId": 42220,
+    "address": "0x7A5F9c3e43AaDc62647AB5d41802dB33DC7d8c4b",
+    "name": "Super Celo Brazilian Real",
+    "symbol": "cREALx",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_cREAL.png",
     "tags": [ "SuperToken", "WrapperToken" ]
   }
 ]
