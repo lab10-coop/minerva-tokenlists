@@ -13,9 +13,7 @@ jobs:
 
     steps:
     - name: Checkout code
-      uses: actions/checkout@v2
-      with:
-        persist-credentials: false  # Required to make GitHub forget this authentication
+      uses: actions/checkout@v3
 
     - name: Run update script
       run: ./update.sh
@@ -42,5 +40,5 @@ jobs:
     - name: Notify Discord if Failure
       if: failure()
       run: |
-        MESSAGE="Data update job failed. Status: ${{ job.status }}. @GetNotifications"
+        MESSAGE="Data update job failed. Status: ${{ job.status }}. <@GetNotifications>"
         curl -H "Content-Type: application/json" -X POST -d "{\"content\": \"$MESSAGE\"}" ${{ secrets.DISCORD_WEBHOOK_URL }}
