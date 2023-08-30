@@ -14,11 +14,6 @@ jobs:
       with:
         persist-credentials: false # Required to make GitHub forget this authentication
 
-    - name: Set up environment
-      run: |
-        sudo apt-get update
-        sudo apt-get install -y your-required-packages # If you need to install any packages
-
     - name: Run update script
       run: ./update.sh
 
