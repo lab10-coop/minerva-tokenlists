@@ -24,3 +24,9 @@ jobs:
         git add -A
         git commit -m "Automated data update"
         git push
+
+    - name: Notify Discord
+      if: always()  # This ensures the step is run even if previous steps fail
+      run: |
+        MESSAGE="Data update job completed. Status: ${{ job.status }}."
+        curl -H "Content-Type: application/json" -X POST -d "{\"content\": \"$MESSAGE\"}" ${{ secrets.DISCORD_WEBHOOK_URL }}
