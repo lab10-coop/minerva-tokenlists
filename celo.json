@@ -48,14 +48,6 @@
     "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_NTMX.png"
   },
   {
-    "address": "0x173234922eb27d5138c5e481be9df5261faed450",
-    "name": "Allbridge SOL",
-    "symbol": "SOL",
-    "chainId": 42220,
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_SOL.png"
-  },
-  {
     "address": "0x17700282592d6917f6a73d0bf8accf4d578c131e",
     "name": "Moola",
     "symbol": "MOO",
@@ -176,6 +168,18 @@
     "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_USDCet.png"
   },
   {
+    "chainId": 42220,
+    "address": "0x3acb9a08697b6db4cd977e8ab42b6f24722e6d6e",
+    "name": "Super Celo Dollar",
+    "symbol": "cUSDx",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/cusd.jpg",
+    "tags": [
+      "SuperToken",
+      "WrapperToken"
+    ]
+  },
+  {
     "address": "0x452ef5a4bd00796e62e5e5758548e0da6e8ccdf3",
     "name": "CeloStarter",
     "symbol": "cStar",
@@ -251,7 +255,7 @@
     "chainId": 42220,
     "address": "0x671425ae1f272bc6f79bec3ed5c4b00e9c628240",
     "name": "Super CELO",
-    "symbol": "CELOx ",
+    "symbol": "CELOx",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/superfluid-finance/assets/master/public/tokens/celo/icon.svg",
     "tags": [
@@ -306,6 +310,18 @@
     "chainId": 42220,
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_xABR.png"
+  },
+  {
+    "chainId": 42220,
+    "address": "0x7a5f9c3e43aadc62647ab5d41802db33dc7d8c4b",
+    "name": "Super Celo Brazilian Real",
+    "symbol": "cREALx",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_cREAL.png",
+    "tags": [
+      "SuperToken",
+      "WrapperToken"
+    ]
   },
   {
     "address": "0x7d00cd74ff385c955ea3d79e47bf06bd7386387d",
@@ -396,14 +412,6 @@
     "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_cDEFI.png"
   },
   {
-    "address": "0xa649325aa7c5093d12d6f98eb4378deae68ce23f",
-    "name": "Anyswap BNB",
-    "symbol": "BNB",
-    "chainId": 42220,
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_BNB.png"
-  },
-  {
     "address": "0xa81d9a2d29373777e4082d588958678a6df5645c",
     "name": "KnoxEdge",
     "symbol": "KNX",
@@ -452,6 +460,14 @@
     "symbol": "WBTCv1"
   },
   {
+    "address": "0xc16b81af351ba9e64c1a069e3ab18c244a1e3049",
+    "chainId": 42220,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/celo/0xC16B81Af351BA9e64C1a069E3Ab18c244A1E3049.jpg",
+    "name": "agEUR",
+    "symbol": "agEUR"
+  },
+  {
     "address": "0xc668583dcbdc9ae6fa3ce46462758188adfdfc24",
     "name": "Staked Celo",
     "symbol": "stCELO",
@@ -498,6 +514,18 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/cdoge.jpg",
     "name": "CeloDoge",
     "symbol": "cDOGE"
+  },
+  {
+    "chainId": 42220,
+    "address": "0xd9f9a02e49225c7ab5b40fce8d44d256b0e984fb",
+    "name": "Super Celo Euro",
+    "symbol": "cEURx",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/ceur.jpg",
+    "tags": [
+      "SuperToken",
+      "WrapperToken"
+    ]
   },
   {
     "address": "0xe273ad7ee11dcfaa87383ad5977ee1504ac07568",
