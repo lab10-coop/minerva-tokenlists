@@ -15,7 +15,7 @@ jobs:
     - name: Checkout code
       uses: actions/checkout@v2
       with:
-        persist-credentials: false # Required to make GitHub forget this authentication
+        persist-credentials: false  # Required to make GitHub forget this authentication
 
     - name: Run update script
       run: ./update.sh
@@ -33,8 +33,14 @@ jobs:
           exit 0
         fi
 
-    - name: Notify Discord
-      if: always()  # This ensures the step is run even if previous steps fail
+    - name: Notify Discord if Success
+      if: success()
       run: |
         MESSAGE="Data update job completed. Status: ${{ job.status }}."
+        curl -H "Content-Type: application/json" -X POST -d "{\"content\": \"$MESSAGE\"}" ${{ secrets.DISCORD_WEBHOOK_URL }}
+
+    - name: Notify Discord if Failure
+      if: failure()
+      run: |
+        MESSAGE="Data update job failed. Status: ${{ job.status }}. @GetNotifications"
         curl -H "Content-Type: application/json" -X POST -d "{\"content\": \"$MESSAGE\"}" ${{ secrets.DISCORD_WEBHOOK_URL }}
