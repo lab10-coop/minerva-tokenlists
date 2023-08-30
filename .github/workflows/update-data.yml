@@ -22,8 +22,13 @@ jobs:
         git config user.name "Automated Update"
         git config user.email "your-email@example.com"
         git add -A
-        git commit -m "Automated data update"
-        git push
+        if [[ -n $(git status -s) ]]; then
+          git commit -m "Automated data update"
+          git push
+        else
+          echo "No changes to commit"
+          exit 0
+        fi
 
     - name: Notify Discord
       if: always()  # This ensures the step is run even if previous steps fail
