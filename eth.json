@@ -3043,10 +3043,11 @@
   {
     "chainId": 1,
     "address": "0x08f5a9235b08173b7569f83645d2c7fb55e8ccd8",
-    "name": "Tierion",
     "symbol": "TNT",
+    "name": "Tierion",
     "decimals": 8,
-    "logoURI": "https://assets.coingecko.com/coins/images/923/thumb/tierion.png?1547034767"
+    "logoURI": "ipfs://QmSMgGkzAUgfV6AfS4UGyhRPUGseFtsbcsHizttY6EpGKu",
+    "tags": []
   },
   {
     "chainId": 1,
@@ -22805,6 +22806,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x4591dbff62656e7859afe5e45f6f47d3669fbb28",
+    "name": "Prisma mkUSD",
+    "symbol": "MKUSD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/31519/thumb/mkUSD_200.png?1693455969"
+  },
+  {
+    "chainId": 1,
     "name": "Cryptid",
     "address": "0x4599836c212cd988eaccc54c820ee9261cdaac71",
     "decimals": 18,
@@ -39817,6 +39826,14 @@
     "decimals": 18,
     "symbol": "HIOD",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/22679.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x7a8adcf432ebcc2311b955d176ee4bfed13bb9a7",
+    "name": "MandoX",
+    "symbol": "MANDOX",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/24968/thumb/NmqN8g7.png?1649917431"
   },
   {
     "chainId": 1,
@@ -68209,6 +68226,14 @@
   },
   {
     "chainId": 1,
+    "address": "0xd585aaafa2b58b1cd75092b51ade9fa4ce52f247",
+    "name": "peg eUSD",
+    "symbol": "PEUSD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/31521/thumb/peUSD_200x200.png?1693486541"
+  },
+  {
+    "chainId": 1,
     "name": "Baby Shibnobi",
     "address": "0xd58f55b2c7b64afed8d21c5e852bcccae721e376",
     "decimals": 9,
@@ -69654,6 +69679,14 @@
     "decimals": 4,
     "symbol": "1GOLD",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/4774.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xda47862a83dac0c112ba89c6abc2159b95afd71c",
+    "name": "Prisma Governance Token",
+    "symbol": "PRISMA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/31520/thumb/PRISMA_200.png?1693475447"
   },
   {
     "chainId": 1,
@@ -71582,14 +71615,6 @@
     "decimals": 18,
     "symbol": "ANN",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/4433.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xe0f63a424a4439cbe457d80e4f4b51ad25b2c56c",
-    "name": "SPX6900",
-    "symbol": "SPX",
-    "decimals": 8,
-    "logoURI": "https://assets.coingecko.com/coins/images/31401/thumb/spx6900.jpeg?1693388261"
   },
   {
     "chainId": 1,
@@ -75115,6 +75140,14 @@
     "decimals": 18,
     "symbol": "FX1",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/6444.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xed1167b6dc64e8a366db86f2e952a482d0981ebd",
+    "name": "Lybra",
+    "symbol": "LBR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/29958/thumb/New_LBR_V2.png?1693498506"
   },
   {
     "chainId": 1,
