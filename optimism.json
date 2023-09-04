@@ -292,6 +292,7 @@
     "decimals": 18,
     "logoURI": "https://ethereum-optimism.github.io/data/TOWER/logo.svg",
     "extensions": {
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
       "opListId": "extended",
       "opTokenId": "TOWER"
     }
@@ -1088,6 +1089,20 @@
   },
   {
     "chainId": 1,
+    "address": "0x936ab482d6bd111910a42849d3a51ff80bb0a711",
+    "name": "Burn Wrapped AJNA",
+    "symbol": "bwAJNA",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/bwAJNA/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1",
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "opListId": "extended",
+      "opTokenId": "bwAJNA"
+    }
+  },
+  {
+    "chainId": 1,
     "address": "0x9559aaa82d9649c7a7b220e7c461d2e74c9a3593",
     "name": "StaFi",
     "symbol": "rETH",
@@ -1305,6 +1320,19 @@
       "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
       "opListId": "default",
       "opTokenId": "BAL"
+    }
+  },
+  {
+    "chainId": 1,
+    "address": "0xbaac2b4491727d78d2b78815144570b9f2fe8899",
+    "name": "The Doge NFT",
+    "symbol": "DOG",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/DOG/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "opListId": "extended",
+      "opTokenId": "DOG"
     }
   },
   {
@@ -1587,6 +1615,7 @@
     "logoURI": "https://ethereum-optimism.github.io/data/wOpenX/logo.svg",
     "extensions": {
       "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1",
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
       "opListId": "extended",
       "opTokenId": "wOpenX"
     }
@@ -1720,6 +1749,19 @@
       "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1",
       "opListId": "default",
       "opTokenId": "KNC"
+    }
+  },
+  {
+    "chainId": 1,
+    "address": "0xdfdb7f72c1f195c5951a234e8db9806eb0635346",
+    "name": "Feisty Doge NFT",
+    "symbol": "NFD",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/NFD/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "opListId": "extended",
+      "opTokenId": "NFD"
     }
   },
   {
@@ -2214,6 +2256,7 @@
     "logoURI": "https://ethereum-optimism.github.io/data/PIP/logo.svg",
     "extensions": {
       "optimismBridgeAddress": "0x636Af16bf2f682dD3109e60102b8E1A089FedAa8",
+      "baseBridgeAddress": "0xfa6d8ee5be770f84fc001d098c4bd604fe01284a",
       "opListId": "extended",
       "opTokenId": "PIP"
     }
@@ -2227,6 +2270,7 @@
     "logoURI": "https://ethereum-optimism.github.io/data/wOpenX/logo.svg",
     "extensions": {
       "optimismBridgeAddress": "0x636Af16bf2f682dD3109e60102b8E1A089FedAa8",
+      "baseBridgeAddress": "0xfa6d8ee5be770f84fc001d098c4bd604fe01284a",
       "opListId": "extended",
       "opTokenId": "wOpenX"
     }
@@ -2371,6 +2415,18 @@
       "baseBridgeAddress": "0xfa6d8ee5be770f84fc001d098c4bd604fe01284a",
       "opListId": "extended",
       "opTokenId": "NOGS"
+    }
+  },
+  {
+    "chainId": 5,
+    "address": "0xe38dfd7ab36806b882bd7332a8ae454f2273d015",
+    "name": "Burn Wrapped AJNA",
+    "symbol": "bwAJNA",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/bwAJNA/logo.svg",
+    "extensions": {
+      "opListId": "extended",
+      "opTokenId": "bwAJNA"
     }
   },
   {
@@ -2873,6 +2929,19 @@
       "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "extended",
       "opTokenId": "rETH_StaFi"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0x6c518f9d1a163379235816c543e62922a79863fa",
+    "name": "Burn Wrapped AJNA",
+    "symbol": "bwAJNA",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/bwAJNA/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "bwAJNA"
     }
   },
   {
@@ -4031,8 +4100,8 @@
   {
     "chainId": 420,
     "address": "0x7e07e15d2a87a24492740d16f5bdf58c16db0c4e",
-    "name": "USD Coin",
-    "symbol": "USDC",
+    "name": "Bridged USDC",
+    "symbol": "USDC.e",
     "decimals": 6,
     "logoURI": "https://ethereum-optimism.github.io/data/USDC/logo.png",
     "extensions": {
@@ -4338,6 +4407,19 @@
   },
   {
     "chainId": 8453,
+    "address": "0x37289326b7bca5a776a5071b8d693c0588c5c9a6",
+    "name": "Feisty Doge",
+    "symbol": "NFD",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/NFD/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "NFD"
+    }
+  },
+  {
+    "chainId": 8453,
     "address": "0x3bb4445d30ac020a84c1b5a8a2c6248ebc9779d0",
     "name": "0x Protocol Token",
     "symbol": "ZRX",
@@ -4556,6 +4638,19 @@
   },
   {
     "chainId": 8453,
+    "address": "0xafb89a09d82fbde58f18ac6437b3fc81724e4df6",
+    "name": "The Doge NFT",
+    "symbol": "DOG",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/DOG/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "DOG"
+    }
+  },
+  {
+    "chainId": 8453,
     "address": "0xb6fe221fe9eef5aba221c348ba20a1bf5e73624c",
     "name": "Rocket Pool ETH",
     "symbol": "rETH",
@@ -4589,6 +4684,19 @@
     "extensions": {
       "opListId": "extended",
       "opTokenId": "HOP"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0xcc2a24405480242f8ee5d9b0ae27861d801d7ffa",
+    "name": "OpenX Optimism",
+    "symbol": "wOpenX",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/wOpenX/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "wOpenX"
     }
   },
   {
@@ -4645,6 +4753,19 @@
   },
   {
     "chainId": 8453,
+    "address": "0xf0f326af3b1ed943ab95c29470730cc8cf66ae47",
+    "name": "Burn Wrapped AJNA",
+    "symbol": "bwAJNA",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/bwAJNA/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "bwAJNA"
+    }
+  },
+  {
+    "chainId": 8453,
     "address": "0xf34e0cff046e154cafcae502c7541b9e5fd8c249",
     "name": "Optimistic Thales Token",
     "symbol": "THALES",
@@ -4654,6 +4775,19 @@
       "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "default",
       "opTokenId": "THALES"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0xf7c1cefcf7e1dd8161e00099facd3e1db9e528ee",
+    "name": "TOWER",
+    "symbol": "TOWER",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/TOWER/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "TOWER"
     }
   },
   {
@@ -4680,19 +4814,6 @@
       "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "extended",
       "opTokenId": "TOWER"
-    }
-  },
-  {
-    "chainId": 84531,
-    "address": "0x0c79e0e0284a631b72946b27d8f61ea6d9bf45c6",
-    "name": "Chain Games",
-    "symbol": "CHAIN",
-    "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/data/CHAIN/logo.svg",
-    "extensions": {
-      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
-      "opListId": "extended",
-      "opTokenId": "CHAIN"
     }
   },
   {
@@ -4760,6 +4881,19 @@
   },
   {
     "chainId": 84531,
+    "address": "0x8434de6a606a412affecf9b992bcdb72d5233fe9",
+    "name": "OpenX Optimism",
+    "symbol": "wOpenX",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/wOpenX/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "wOpenX"
+    }
+  },
+  {
+    "chainId": 84531,
     "address": "0x853154e2a5604e5c74a2546e2871ad44932eb92c",
     "name": "USD Base Coin",
     "symbol": "USDbC",
@@ -4769,6 +4903,19 @@
       "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "default",
       "opTokenId": "USDC"
+    }
+  },
+  {
+    "chainId": 84531,
+    "address": "0x86842f66d94083694f49b155640e293d60c057a3",
+    "name": "PIP",
+    "symbol": "PIP",
+    "decimals": 9,
+    "logoURI": "https://ethereum-optimism.github.io/data/PIP/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "PIP"
     }
   },
   {
@@ -4860,6 +5007,19 @@
       "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "extended",
       "opTokenId": "HAN"
+    }
+  },
+  {
+    "chainId": 84531,
+    "address": "0xeeff5b1cd3de16f347996725f5184fdaa54565a0",
+    "name": "Chain Games",
+    "symbol": "CHAIN",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/CHAIN/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "CHAIN"
     }
   },
   {
