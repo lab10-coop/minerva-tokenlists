@@ -222,6 +222,20 @@
   },
   {
     "chainId": 1,
+    "address": "0x111111111117dc0aa78b770fa6a738034120c302",
+    "name": "1INCH Token",
+    "symbol": "1INCH",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/1INCH/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1",
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "opListId": "extended",
+      "opTokenId": "1INCH"
+    }
+  },
+  {
+    "chainId": 1,
     "address": "0x1351986732367ff6b51784c6a75f63502de13a9a",
     "name": "Monetum",
     "symbol": "MOM",
@@ -528,6 +542,20 @@
       "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1",
       "opListId": "extended",
       "opTokenId": "DF"
+    }
+  },
+  {
+    "chainId": 1,
+    "address": "0x43d4a3cd90ddd2f8f4f693170c9c8098163502ad",
+    "name": "Prime",
+    "symbol": "D2D",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/D2D/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1",
+      "opListId": "extended",
+      "opTokenId": "D2D"
     }
   },
   {
@@ -2464,6 +2492,19 @@
     }
   },
   {
+    "chainId": 10,
+    "address": "0x03e5b5930f3a42b56af4a982b10e60957bdd2f61",
+    "name": "Prime",
+    "symbol": "D2D",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/D2D/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "D2D"
+    }
+  },
+  {
     "address": "0x0994206dfe8de6ec6920ff4d779b0d950605fb53",
     "chainId": 10,
     "decimals": 18,
@@ -3370,6 +3411,19 @@
     "symbol": "MKR",
     "decimals": 18,
     "logoURI": "https://ethereum-optimism.github.io/data/MKR/logo.png"
+  },
+  {
+    "chainId": 10,
+    "address": "0xad42d013ac31486b73b6b059e748172994736426",
+    "name": "1INCH Token",
+    "symbol": "1INCH",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/1INCH/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "1INCH"
+    }
   },
   {
     "address": "0xaddb6a0412de1ba0f936dcaeb8aaa24578dcf3b2",
@@ -4582,6 +4636,19 @@
   },
   {
     "chainId": 8453,
+    "address": "0x91e1d2b9b0d9afcf1f024df09a68799fb200bc63",
+    "name": "Prime",
+    "symbol": "D2D",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/D2D/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "D2D"
+    }
+  },
+  {
+    "chainId": 8453,
     "address": "0x9e1028f5f1d5ede59748ffcee5532509976840e0",
     "name": "Compound",
     "symbol": "COMP",
@@ -4692,6 +4759,19 @@
     "extensions": {
       "opListId": "extended",
       "opTokenId": "HOP"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0xc5fecc3a29fb57b5024eec8a2239d4621e111cbe",
+    "name": "1INCH Token",
+    "symbol": "1INCH",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/1INCH/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "1INCH"
     }
   },
   {
