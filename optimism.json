@@ -754,6 +754,19 @@
   },
   {
     "chainId": 1,
+    "address": "0x6731827cb6879a2091ce3ab3423f7bf20539b579",
+    "name": "Empower Token",
+    "symbol": "MPWR",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/MPWR/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "opListId": "extended",
+      "opTokenId": "MPWR"
+    }
+  },
+  {
+    "chainId": 1,
     "address": "0x6789d8a7a7871923fc6430432a602879ecb6520a",
     "name": "veKwenta",
     "symbol": "veKWENTA",
@@ -866,6 +879,7 @@
     "decimals": 9,
     "logoURI": "https://ethereum-optimism.github.io/data/PIP/logo.svg",
     "extensions": {
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
       "opListId": "extended",
       "opTokenId": "PIP"
     }
@@ -1729,6 +1743,19 @@
   },
   {
     "chainId": 1,
+    "address": "0xd8f1460044925d2d5c723c7054cd9247027415b7",
+    "name": "SAIL Token",
+    "symbol": "SAIL",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/SAIL/logo.png",
+    "extensions": {
+      "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1",
+      "opListId": "extended",
+      "opTokenId": "SAIL"
+    }
+  },
+  {
+    "chainId": 1,
     "address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
     "name": "Tether USD",
     "symbol": "USDT",
@@ -1775,6 +1802,7 @@
     "logoURI": "https://ethereum-optimism.github.io/data/KNC/logo.png",
     "extensions": {
       "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1",
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
       "opListId": "default",
       "opTokenId": "KNC"
     }
@@ -1816,6 +1844,19 @@
     "extensions": {
       "opListId": "extended",
       "opTokenId": "ETH+"
+    }
+  },
+  {
+    "chainId": 1,
+    "address": "0xedb171c18ce90b633db442f2a6f72874093b49ef",
+    "name": "Wrapped Ampleforth",
+    "symbol": "WAMPL",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/WAMPL/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "opListId": "extended",
+      "opTokenId": "WAMPL"
     }
   },
   {
@@ -2046,6 +2087,19 @@
   },
   {
     "chainId": 5,
+    "address": "0x1e1dfcf72dcef548e6ae581863a564ffe429daa8",
+    "name": "Goerli MPWR",
+    "symbol": "MPWR",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/MPWR/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0xfa6d8ee5be770f84fc001d098c4bd604fe01284a",
+      "opListId": "extended",
+      "opTokenId": "MPWR"
+    }
+  },
+  {
+    "chainId": 5,
     "address": "0x29ddacf754877123157e0eeed26770736b304d0c",
     "name": "Perpetual",
     "symbol": "PERP",
@@ -2095,6 +2149,19 @@
       "baseBridgeAddress": "0xfa6d8ee5be770f84fc001d098c4bd604fe01284a",
       "opListId": "extended",
       "opTokenId": "COMP"
+    }
+  },
+  {
+    "chainId": 5,
+    "address": "0x3b624861a14979537de1b88f9565f41a7fc45fbf",
+    "name": "Wrapped Ampleforth",
+    "symbol": "WAMPL",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/WAMPL/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0xfa6d8ee5be770f84fc001d098c4bd604fe01284a",
+      "opListId": "extended",
+      "opTokenId": "WAMPL"
     }
   },
   {
@@ -2247,6 +2314,19 @@
       "optimismBridgeAddress": "0x636Af16bf2f682dD3109e60102b8E1A089FedAa8",
       "opListId": "extended",
       "opTokenId": "WMP"
+    }
+  },
+  {
+    "chainId": 5,
+    "address": "0x769728b5298445ba2828c0f3f5384227fbf590c5",
+    "name": "SAIL Token",
+    "symbol": "SAIL",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/SAIL/logo.png",
+    "extensions": {
+      "optimismBridgeAddress": "0x636Af16bf2f682dD3109e60102b8E1A089FedAa8",
+      "opListId": "extended",
+      "opTokenId": "SAIL"
     }
   },
   {
@@ -3113,6 +3193,19 @@
       "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "extended",
       "opTokenId": "MOCHI"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0x7a1263ec3bf0a19e25c553b8a2c312e903262c5e",
+    "name": "SAIL Token",
+    "symbol": "SAIL",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/SAIL/logo.png",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "SAIL"
     }
   },
   {
@@ -4135,6 +4228,19 @@
   },
   {
     "chainId": 420,
+    "address": "0x4c16dd6e9b402ea4fb5be647be2f49e3d59bb08a",
+    "name": "SAIL Token",
+    "symbol": "SAIL",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/SAIL/logo.png",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "SAIL"
+    }
+  },
+  {
+    "chainId": 420,
     "address": "0x6af3cb766d6cd37449bfd321d961a61b0515c1bc",
     "name": "Compound",
     "symbol": "COMP",
@@ -4444,6 +4550,19 @@
   },
   {
     "chainId": 8453,
+    "address": "0x28fe69ff6864c1c218878bdca01482d36b9d57b1",
+    "name": "Kyber Network Crystal v2",
+    "symbol": "KNC",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/KNC/logo.png",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "default",
+      "opTokenId": "KNC"
+    }
+  },
+  {
+    "chainId": 8453,
     "address": "0x2ae3f1ec7f1f5012cfeab0185bfc7aa3cf0dec22",
     "name": "Coinbase Wrapped Staked ETH",
     "symbol": "cbETH",
@@ -4559,6 +4678,19 @@
   },
   {
     "chainId": 8453,
+    "address": "0x489fe42c267fe0366b16b0c39e7aeef977e841ef",
+    "name": "Wrapped Ampleforth",
+    "symbol": "WAMPL",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/WAMPL/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "WAMPL"
+    }
+  },
+  {
+    "chainId": 8453,
     "address": "0x50c5725949a6f0c72e6c4a641f24049a917db0cb",
     "name": "Dai Stablecoin",
     "symbol": "DAI",
@@ -4585,6 +4717,19 @@
   },
   {
     "chainId": 8453,
+    "address": "0x76ff2ab6b34142421f44a68cc8dd08f45f9ee2f2",
+    "name": "PIP",
+    "symbol": "PIP",
+    "decimals": 9,
+    "logoURI": "https://ethereum-optimism.github.io/data/PIP/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "PIP"
+    }
+  },
+  {
+    "chainId": 8453,
     "address": "0x7c34073c56285944f9a5384137186abfae1c3bf0",
     "name": "Plague",
     "symbol": "PLG",
@@ -4606,6 +4751,19 @@
       "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "extended",
       "opTokenId": "SUSHI"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0x85267fbc6e1e1563bb9247336f05d9220ea99f52",
+    "name": "Empower Token",
+    "symbol": "MPWR",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/MPWR/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "MPWR"
     }
   },
   {
@@ -4919,6 +5077,19 @@
   },
   {
     "chainId": 84531,
+    "address": "0x1901bf2952f438fa6251ac100375769f9afd907d",
+    "name": "Base Goerli MPWR",
+    "symbol": "MPWR",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/MPWR/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "MPWR"
+    }
+  },
+  {
+    "chainId": 84531,
     "address": "0x35d48a789904e9b15705977192e5d95e2af7f1d3",
     "name": "HANePlatform",
     "symbol": "HANeP",
@@ -4928,6 +5099,19 @@
       "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "extended",
       "opTokenId": "HANeP"
+    }
+  },
+  {
+    "chainId": 84531,
+    "address": "0x395ae52bb17aef68c2888d941736a71dc6d4e125",
+    "name": "Wrapped Ampleforth",
+    "symbol": "WAMPL",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/WAMPL/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "WAMPL"
     }
   },
   {
