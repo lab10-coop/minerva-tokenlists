@@ -255,6 +255,14 @@
     "logoURI": "https://res.cloudinary.com/metavault/image/upload/v1668603846/brand-assets/brandLogos/MVX-COIN_Simple_jikqce.png"
   },
   {
+    "name": "Veloce",
+    "address": "0x27842334c55c01ddfe81bf687425f906816c5141",
+    "symbol": "VEXT",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/31214/large/VEXT_Logo.jpg?1691461995"
+  },
+  {
     "name": "USD Coin",
     "address": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
     "symbol": "USDC",
@@ -583,6 +591,14 @@
     "logoURI": "https://assets.coingecko.com/coins/images/19169/small/klima-logo.png?1634606729"
   },
   {
+    "chainId": 137,
+    "name": "Glo Dollar",
+    "address": "0x4f604735c1cf31399c6e711d5962b2b3e0225ad3",
+    "decimals": 18,
+    "symbol": "USDGLO",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/23888.png"
+  },
+  {
     "name": "teleBTC",
     "address": "0x515d720b9d219f1931205d5b8d842be1fe2febde",
     "symbol": "TELEBTC",
@@ -783,6 +799,14 @@
     "logoURI": "https://assets.coingecko.com/coins/images/17277/small/WoZ8rruL_400x400.png?1627016492"
   },
   {
+    "name": "Fuse",
+    "address": "0x6b021b3f68491974be6d4009fee61a4e3c708fd6",
+    "symbol": "FUSE",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/10347/small/vUXKHEe.png?1601523640"
+  },
+  {
     "name": "Furucombo",
     "address": "0x6ddb31002abc64e1479fc439692f7ea061e78165",
     "symbol": "COMBO",
@@ -941,6 +965,14 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://assets.coingecko.com/coins/images/21367/small/fnc.png?1639025576"
+  },
+  {
+    "name": "Volt Inu",
+    "address": "0x7f792db54b0e580cdc755178443f0430cf799aca",
+    "symbol": "VOLT",
+    "decimals": 9,
+    "chainId": 137,
+    "logoURI": "https://i.imgur.com/g7mzfRz.png"
   },
   {
     "name": "DOSE",
@@ -1221,6 +1253,14 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://assets.coingecko.com/coins/images/4001/small/Fantom.png?1558015016"
+  },
+  {
+    "name": "BitCone",
+    "address": "0xba777ae3a3c91fcd83ef85bfe65410592bdd0f7c",
+    "symbol": "CONE",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://i.imgur.com/Pg3FdXt.png"
   },
   {
     "name": "SAND",
@@ -1577,14 +1617,6 @@
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/19893.png"
   },
   {
-    "name": "Volt Inu",
-    "address": "0xf16ec50ec49abc95fa793c7871682833b6bc47e7",
-    "symbol": "VOLT",
-    "decimals": 9,
-    "chainId": 137,
-    "logoURI": "https://i.imgur.com/g7mzfRz.png"
-  },
-  {
     "chainId": 137,
     "name": "Monerium ISK emoney",
     "address": "0xf1bbf27a9d659d326efbfa5d284ebaefb803983d",
@@ -1599,14 +1631,6 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://i.imgur.com/KYtNI3X.png"
-  },
-  {
-    "name": "Fuse",
-    "address": "0xf915fdda4c882731c0456a4214548cd13a822886",
-    "symbol": "FUSE",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://assets.coingecko.com/coins/images/10347/small/vUXKHEe.png?1601523640"
   },
   {
     "name": "Cookies Protocol",
@@ -1727,6 +1751,14 @@
     "decimals": 18,
     "chainId": 1101,
     "logoURI": "https://assets.coingecko.com/coins/images/13423/small/Frax_Shares_icon.png?1679886947"
+  },
+  {
+    "name": "Davos.xyz USD",
+    "address": "0x819d1daa794c1c46b841981b61cc978d95a17b8e",
+    "symbol": "DUSD",
+    "decimals": 18,
+    "chainId": 1101,
+    "logoURI": "https://i.ibb.co/RpQ65xN/imgonline-com-ua-Resize-s-Hpa1-XPD6-NKFN4-P.png"
   },
   {
     "name": "Staked MATIC",
