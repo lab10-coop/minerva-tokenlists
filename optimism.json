@@ -886,6 +886,20 @@
   },
   {
     "chainId": 1,
+    "address": "0x799ebfabe77a6e34311eeee9825190b9ece32824",
+    "name": "BTRST",
+    "symbol": "BTRST",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/BTRST/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1",
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "opListId": "extended",
+      "opTokenId": "BTRST"
+    }
+  },
+  {
+    "chainId": 1,
     "address": "0x7ae1d57b58fa6411f32948314badd83583ee0e8c",
     "name": "Paper",
     "symbol": "PAPER",
@@ -4051,6 +4065,19 @@
   },
   {
     "chainId": 10,
+    "address": "0xed50ace88bd42b45cb0f49be15395021e141254e",
+    "name": "BTRST",
+    "symbol": "BTRST",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/BTRST/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "BTRST"
+    }
+  },
+  {
+    "chainId": 10,
     "address": "0xef6301da234fc7b0545c6e877d3359fe0b9e50a4",
     "name": "SUKU",
     "symbol": "SUKU",
@@ -4829,6 +4856,19 @@
       "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "extended",
       "opTokenId": "HAN"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0xa7d68d155d17cb30e311367c2ef1e82ab6022b67",
+    "name": "BTRST",
+    "symbol": "BTRST",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/BTRST/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "BTRST"
     }
   },
   {
