@@ -169,6 +169,19 @@
   },
   {
     "chainId": 1,
+    "address": "0x0bc529c00c6401aef6d220be8c6ea1667f6ad93e",
+    "name": "yearn.finance",
+    "symbol": "YFI",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/YFI/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1",
+      "opListId": "extended",
+      "opTokenId": "YFI"
+    }
+  },
+  {
+    "chainId": 1,
     "address": "0x0c10bf8fcb7bf5412187a595ab97a3609160b5c6",
     "name": "Decentralized USD",
     "symbol": "USDD",
@@ -203,6 +216,7 @@
     "logoURI": "https://ethereum-optimism.github.io/data/POOL/logo.svg",
     "extensions": {
       "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1",
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
       "opListId": "default",
       "opTokenId": "POOL"
     }
@@ -284,6 +298,19 @@
       "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1",
       "opListId": "default",
       "opTokenId": "WLD"
+    }
+  },
+  {
+    "chainId": 1,
+    "address": "0x17d2628d30f8e9e966c9ba831c9b9b01ea8ea75c",
+    "name": "ISKRA TOKEN",
+    "symbol": "ISK",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/ISK/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "opListId": "extended",
+      "opTokenId": "ISK"
     }
   },
   {
@@ -813,7 +840,7 @@
     "logoURI": "https://ethereum-optimism.github.io/data/DAI/logo.svg",
     "extensions": {
       "optimismBridgeAddress": "0x10E6593CDda8c58a1d0f14C5164B376352a55f2F",
-      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "baseBridgeAddress": "0xD0204B9527C1bA7bD765Fa5CCD9355d38338272b",
       "opListId": "default",
       "opTokenId": "DAI"
     }
@@ -1244,6 +1271,7 @@
     "logoURI": "https://ethereum-optimism.github.io/data/MTA/logo.svg",
     "extensions": {
       "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1",
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
       "opListId": "extended",
       "opTokenId": "MTA"
     }
@@ -1376,6 +1404,19 @@
       "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
       "opListId": "default",
       "opTokenId": "BAL"
+    }
+  },
+  {
+    "chainId": 1,
+    "address": "0xba50933c268f567bdc86e1ac131be072c6b0b71a",
+    "name": "ARPA Token",
+    "symbol": "ARPA",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/ARPA/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1",
+      "opListId": "extended",
+      "opTokenId": "ARPA"
     }
   },
   {
@@ -2476,6 +2517,19 @@
   },
   {
     "chainId": 5,
+    "address": "0xce90437e27cf9e4d22240c4cdb413baf8ec165d8",
+    "name": "ISKRA TOKEN",
+    "symbol": "ISK",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/ISK/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0xfa6d8ee5be770f84fc001d098c4bd604fe01284a",
+      "opListId": "extended",
+      "opTokenId": "ISK"
+    }
+  },
+  {
+    "chainId": 5,
     "address": "0xd0bb78d0b337aa6d3a0530dd2e58560bf00851f1",
     "name": "Coinbase Wrapped Staked ETH",
     "symbol": "cbETH",
@@ -2726,6 +2780,19 @@
     "symbol": "FRAX",
     "decimals": 18,
     "logoURI": "https://ethereum-optimism.github.io/data/ZRX/logo.png"
+  },
+  {
+    "chainId": 10,
+    "address": "0x334cc734866e97d8452ae6261d68fd9bc9bfa31e",
+    "name": "ARPA Token",
+    "symbol": "ARPA",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/ARPA/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "ARPA"
+    }
   },
   {
     "chainId": 10,
@@ -3402,6 +3469,19 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/optimism/0x8c6f28f2F1A3C87F0f938b96d27520d9751ec8d9.jpg",
     "name": "Synth sUSD",
     "symbol": "sUSD"
+  },
+  {
+    "chainId": 10,
+    "address": "0x9046d36440290ffde54fe0dd84db8b1cfee9107b",
+    "name": "yearn.finance",
+    "symbol": "YFI",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/YFI/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "YFI"
+    }
   },
   {
     "chainId": 10,
@@ -4513,6 +4593,19 @@
     }
   },
   {
+    "chainId": 424,
+    "address": "0x997cf63ab30ba8e591203228d5c5468fc3834166",
+    "name": "Dai Stablecoin",
+    "symbol": "DAI",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/DAI/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "default",
+      "opTokenId": "DAI"
+    }
+  },
+  {
     "chainId": 8453,
     "address": "0x09188484e1ab980daef53a9755241d759c5b7d60",
     "name": "Rigo Token",
@@ -4536,6 +4629,19 @@
       "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "extended",
       "opTokenId": "NOGS"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0x17d2628d30f8e9e966c9ba831c9b9b01ea8ea75c",
+    "name": "ISKRA TOKEN",
+    "symbol": "ISK",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/ISK/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "ISK"
     }
   },
   {
@@ -4937,6 +5043,19 @@
   },
   {
     "chainId": 8453,
+    "address": "0xba7d47f471add16875e765edee0858c3413a56fd",
+    "name": "Meta",
+    "symbol": "MTA",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/MTA/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "MTA"
+    }
+  },
+  {
+    "chainId": 8453,
     "address": "0xc2106ca72996e49bbadcb836eec52b765977fd20",
     "name": "NFTEarthOFT",
     "symbol": "NFTE",
@@ -4996,6 +5115,19 @@
       "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "extended",
       "opTokenId": "FARM"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0xd652c5425aea2afd5fb142e120fecf79e18fafc3",
+    "name": "PoolTogether",
+    "symbol": "POOL",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/POOL/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "default",
+      "opTokenId": "POOL"
     }
   },
   {
@@ -5164,6 +5296,19 @@
     "extensions": {
       "opListId": "default",
       "opTokenId": "WETH"
+    }
+  },
+  {
+    "chainId": 84531,
+    "address": "0x47762082d83994afd311e559fe582b6dc99d89c4",
+    "name": "ISKRA TOKEN",
+    "symbol": "ISK",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/ISK/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "ISK"
     }
   },
   {
