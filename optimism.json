@@ -1073,11 +1073,12 @@
   {
     "chainId": 1,
     "address": "0x8a9c67fee641579deba04928c4bc45f66e26343a",
-    "name": "Jarvis Network Token",
+    "name": "Jarvis Reward Token",
     "symbol": "JRT",
     "decimals": 18,
     "logoURI": "https://ethereum-optimism.github.io/data/JRT/logo.svg",
     "extensions": {
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
       "opListId": "extended",
       "opTokenId": "JRT"
     }
@@ -1352,6 +1353,18 @@
       "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1",
       "opListId": "extended",
       "opTokenId": "FLASH"
+    }
+  },
+  {
+    "chainId": 1,
+    "address": "0xb23d80f5fefcddaa212212f028021b41ded428cf",
+    "name": "Prime",
+    "symbol": "PRIME",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/PRIME/logo.svg",
+    "extensions": {
+      "opListId": "extended",
+      "opTokenId": "PRIME"
     }
   },
   {
@@ -2206,6 +2219,18 @@
       "baseBridgeAddress": "0xfa6d8ee5be770f84fc001d098c4bd604fe01284a",
       "opListId": "extended",
       "opTokenId": "COMP"
+    }
+  },
+  {
+    "chainId": 5,
+    "address": "0x3b23554f7345d50e902a8e317361d83acf2481a6",
+    "name": "Prime",
+    "symbol": "PRIME",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/PRIME/logo.svg",
+    "extensions": {
+      "opListId": "extended",
+      "opTokenId": "PRIME"
     }
   },
   {
@@ -5173,6 +5198,19 @@
   },
   {
     "chainId": 8453,
+    "address": "0xde0d2ee637d3e4fd02bc99508ca5e94dd7055766",
+    "name": "Jarvis Reward Token",
+    "symbol": "JRT",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/JRT/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "JRT"
+    }
+  },
+  {
+    "chainId": 8453,
     "address": "0xe2b21d4684b2ba62f3be1fe286eacb90d26e394d",
     "name": "CryptoOracle Collective",
     "symbol": "COC",
@@ -5237,6 +5275,18 @@
     }
   },
   {
+    "chainId": 8453,
+    "address": "0xfa980ced6895ac314e7de34ef1bfae90a5add21b",
+    "name": "Prime",
+    "symbol": "PRIME",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/PRIME/logo.svg",
+    "extensions": {
+      "opListId": "extended",
+      "opTokenId": "PRIME"
+    }
+  },
+  {
     "chainId": 84531,
     "address": "0x0994206dfe8de6ec6920ff4d779b0d950605fb53",
     "name": "ETHPlus",
@@ -5260,6 +5310,18 @@
       "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "extended",
       "opTokenId": "TOWER"
+    }
+  },
+  {
+    "chainId": 84531,
+    "address": "0x121daeb77cfbc6a9cfc691da4f5e97c8bd02518f",
+    "name": "Prime",
+    "symbol": "PRIME",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/PRIME/logo.svg",
+    "extensions": {
+      "opListId": "extended",
+      "opTokenId": "PRIME"
     }
   },
   {
