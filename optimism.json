@@ -224,6 +224,19 @@
   },
   {
     "chainId": 1,
+    "address": "0x0f72964fa4b766521d84107991e837c30d0ef2b1",
+    "name": "Tetu Token",
+    "symbol": "TETU",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/TETU/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "opListId": "extended",
+      "opTokenId": "TETU"
+    }
+  },
+  {
+    "chainId": 1,
     "address": "0x102e941b77bcaa7e35d368cafe51ef8f79c8d1ef",
     "name": "Theranos Coin",
     "symbol": "LIZ",
@@ -4873,6 +4886,19 @@
       "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "default",
       "opTokenId": "DAI"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0x5e42c17caeab64527d9d80d506a3fe01179afa02",
+    "name": "Tetu Token",
+    "symbol": "TETU",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/TETU/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "TETU"
     }
   },
   {
