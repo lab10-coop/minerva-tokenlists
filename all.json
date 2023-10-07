@@ -9209,6 +9209,18 @@
   },
   {
     "chainId": 1,
+    "address": "0x1ba8603da702602a8657980e825a6daa03dee93a",
+    "name": "Super USDC",
+    "symbol": "USDCx",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png",
+    "tags": [
+      "SuperToken",
+      "WrapperToken"
+    ]
+  },
+  {
+    "chainId": 1,
     "address": "0x1baffbc23f2246040cce12f7a140c38c5dc73e46",
     "symbol": "PIB",
     "name": "Passive Income Bot",
@@ -63105,6 +63117,18 @@
     "decimals": 18,
     "symbol": "RAC",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7290.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xc22bea0be9872d8b7b3933cec70ece4d53a900da",
+    "name": "Super ETH",
+    "symbol": "ETHx",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
+    "tags": [
+      "SuperToken",
+      "WrapperToken"
+    ]
   },
   {
     "chainId": 1,
