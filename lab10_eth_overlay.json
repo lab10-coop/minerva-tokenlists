@@ -158,5 +158,26 @@
     "decimals": 18,
     "symbol": "NEXT",
     "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-dapplist/main/images/dapp_connextbridge.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x1BA8603DA702602A8657980e825A6DAa03Dee93a",
+    "name": "Super USDC",
+    "symbol": "USDCx",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png",
+    "tags": [
+      "SuperToken",
+      "WrapperToken"
+    ]
+  },
+  {
+    "chainId": 1,
+    "address": "0xC22BeA0Be9872d8B7B3933CEc70Ece4D53A900da",
+    "name": "Super ETH",
+    "symbol": "ETHx",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
+    "tags": [ "SuperToken", "WrapperToken" ]
   }
 ]
