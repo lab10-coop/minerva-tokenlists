@@ -263,9 +263,9 @@
     "logoURI": "https://assets.coingecko.com/coins/images/31214/large/VEXT_Logo.jpg?1691461995"
   },
   {
-    "name": "USD Coin",
+    "name": "Bridged USDC",
     "address": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
-    "symbol": "USDC",
+    "symbol": "USDC.e",
     "decimals": 6,
     "chainId": 137,
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
@@ -425,6 +425,14 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://assets.coingecko.com/coins/images/23275/small/fyn.png?1643526250"
+  },
+  {
+    "name": "USDC",
+    "address": "0x3c499c542cef5e3811e1192ce70d8cc03d5c3359",
+    "symbol": "USDC",
+    "decimals": 6,
+    "chainId": 137,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
   },
   {
     "name": "UnirisToken",
