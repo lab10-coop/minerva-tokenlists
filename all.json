@@ -92995,8 +92995,6 @@
     "decimals": 6,
     "logoURI": "https://ethereum-optimism.github.io/data/USDC/logo.png",
     "extensions": {
-      "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1",
-      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
       "opListId": "default",
       "opTokenId": "USDC"
     }
@@ -93817,8 +93815,6 @@
     "decimals": 6,
     "logoURI": "https://ethereum-optimism.github.io/data/USDC/logo.png",
     "extensions": {
-      "optimismBridgeAddress": "0x636Af16bf2f682dD3109e60102b8E1A089FedAa8",
-      "baseBridgeAddress": "0xfa6d8ee5be770f84fc001d098c4bd604fe01284a",
       "opListId": "default",
       "opTokenId": "USDC"
     }
@@ -94447,6 +94443,18 @@
       "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "extended",
       "opTokenId": "VALX"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0x0b2c639c533813f4aa9d7837caf62653d097ff85",
+    "name": "USD Coin",
+    "symbol": "USDC",
+    "decimals": 6,
+    "logoURI": "https://ethereum-optimism.github.io/data/USDC/logo.png",
+    "extensions": {
+      "opListId": "default",
+      "opTokenId": "USDC"
     }
   },
   {
@@ -96154,11 +96162,11 @@
     "name": "Bridged USDC",
     "symbol": "USDC.e",
     "decimals": 6,
-    "logoURI": "https://ethereum-optimism.github.io/data/USDC/logo.png",
+    "logoURI": "https://ethereum-optimism.github.io/data/BridgedUSDC/logo.png",
     "extensions": {
       "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
-      "opListId": "default",
-      "opTokenId": "USDC"
+      "opListId": "extended",
+      "opTokenId": "BridgedUSDC"
     }
   },
   {
@@ -96289,6 +96297,18 @@
       "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "default",
       "opTokenId": "ETH"
+    }
+  },
+  {
+    "chainId": 420,
+    "address": "0xe05606174bac4a6364b31bd0eca4bf4dd368f8c6",
+    "name": "USD Coin",
+    "symbol": "USDC",
+    "decimals": 6,
+    "logoURI": "https://ethereum-optimism.github.io/data/USDC/logo.png",
+    "extensions": {
+      "opListId": "default",
+      "opTokenId": "USDC"
     }
   },
   {
@@ -96690,6 +96710,18 @@
   },
   {
     "chainId": 8453,
+    "address": "0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
+    "name": "USD Coin",
+    "symbol": "USDC",
+    "decimals": 6,
+    "logoURI": "https://ethereum-optimism.github.io/data/USDC/logo.png",
+    "extensions": {
+      "opListId": "default",
+      "opTokenId": "USDC"
+    }
+  },
+  {
+    "chainId": 8453,
     "address": "0x85267fbc6e1e1563bb9247336f05d9220ea99f52",
     "name": "Empower Token",
     "symbol": "MPWR",
@@ -96951,11 +96983,11 @@
     "name": "USD Base Coin",
     "symbol": "USDbC",
     "decimals": 6,
-    "logoURI": "https://ethereum-optimism.github.io/data/USDC/logo.png",
+    "logoURI": "https://ethereum-optimism.github.io/data/BridgedUSDC/logo.png",
     "extensions": {
       "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
-      "opListId": "default",
-      "opTokenId": "USDC"
+      "opListId": "extended",
+      "opTokenId": "BridgedUSDC"
     }
   },
   {
@@ -97207,11 +97239,11 @@
     "name": "USD Base Coin",
     "symbol": "USDbC",
     "decimals": 6,
-    "logoURI": "https://ethereum-optimism.github.io/data/USDC/logo.png",
+    "logoURI": "https://ethereum-optimism.github.io/data/BridgedUSDC/logo.png",
     "extensions": {
       "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
-      "opListId": "default",
-      "opTokenId": "USDC"
+      "opListId": "extended",
+      "opTokenId": "BridgedUSDC"
     }
   },
   {
@@ -97329,6 +97361,18 @@
       "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "extended",
       "opTokenId": "CHAIN"
+    }
+  },
+  {
+    "chainId": 84531,
+    "address": "0xf175520c52418dfe19c8098071a252da48cd1c19",
+    "name": "USD Coin",
+    "symbol": "USDC",
+    "decimals": 6,
+    "logoURI": "https://ethereum-optimism.github.io/data/USDC/logo.png",
+    "extensions": {
+      "opListId": "default",
+      "opTokenId": "USDC"
     }
   },
   {
