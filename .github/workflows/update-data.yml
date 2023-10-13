@@ -40,5 +40,5 @@ jobs:
     - name: Notify Discord if Failure
       if: failure()
       run: |
-        MESSAGE="Data update job failed. Status: ${{ job.status }}. <@GetNotifications>"
+        MESSAGE="Data update job failed. Status: ${{ job.status }}. <@&1146448179412348989>"
         curl -H "Content-Type: application/json" -X POST -d "{\"content\": \"$MESSAGE\"}" ${{ secrets.DISCORD_WEBHOOK_URL }}
