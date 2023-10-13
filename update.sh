@@ -147,11 +147,13 @@ echo "validated kovan list with $(jq '.|length' testnets.json) elements"
 ########### NON-SPECIFIC NETWORK ############
 
 nonSpecificSource1="https://raw.githubusercontent.com/superfluid-finance/tokenlist/main/superfluid.tokenlist.json"
+nonSpecificSource2="https://monerium.app/tokens.json"
 
 # here jq just validates the content
 curl -f -s $nonSpecificSource1 | jq '.tokens' > nonspecific1.json || true
+curl -f -s $nonSpecificSource2 | jq '.tokens' > nonspecific2.json || true
 # concat into one file
-jq -s '.|flatten' lab10_nonspecific_overlay.json nonspecific1.json > nonspecific0.json
+jq -s '.|flatten' nonspecific1.json nonspecific2.json > nonspecific0.json
 deduplicate nonspecific0.json nonspecific.json
 # cleanup
 rm -f nonspecific?.json
