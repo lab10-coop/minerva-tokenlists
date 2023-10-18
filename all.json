@@ -259,6 +259,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x003fe85895030ce120e954b98dc1d96a262a9e89",
+    "name": "De Genius Casino",
+    "symbol": "DEGEN",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/31534/thumb/0xd060e09cbc5de2c474499a0bd5323508f57f1ae6_3_200x204.png?1696530343"
+  },
+  {
+    "chainId": 1,
     "name": "Robot Trading",
     "address": "0x003ffefefbc4a6f34a62a3ca7b7937a880065bcb",
     "decimals": 18,
@@ -68439,14 +68447,6 @@
   },
   {
     "chainId": 1,
-    "address": "0xd060e09cbc5de2c474499a0bd5323508f57f1ae6",
-    "name": "De Genius Casino",
-    "symbol": "DEGEN",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/31534/thumb/0xd060e09cbc5de2c474499a0bd5323508f57f1ae6_3_200x204.png?1696530343"
-  },
-  {
-    "chainId": 1,
     "address": "0xd06527d5e56a3495252a528c4987003b712860ee",
     "symbol": "crETH",
     "name": "Cream Ether",
@@ -93598,6 +93598,19 @@
   },
   {
     "chainId": 1,
+    "address": "0xc1f33e0cf7e40a67375007104b929e49a581bafe",
+    "name": "SPOT",
+    "symbol": "SPOT",
+    "decimals": 9,
+    "logoURI": "https://ethereum-optimism.github.io/data/SPOT/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "opListId": "extended",
+      "opTokenId": "SPOT"
+    }
+  },
+  {
+    "chainId": 1,
     "address": "0xc2544a32872a91f4a553b404c6950e89de901fdb",
     "name": "Frax Price Index Share",
     "symbol": "FPIS",
@@ -94440,6 +94453,19 @@
       "baseBridgeAddress": "0xfa6d8ee5be770f84fc001d098c4bd604fe01284a",
       "opListId": "extended",
       "opTokenId": "CHAIN"
+    }
+  },
+  {
+    "chainId": 5,
+    "address": "0x95014bc18f82a98cfaa3253fbd3184125a01f848",
+    "name": "SPOT",
+    "symbol": "SPOT",
+    "decimals": 9,
+    "logoURI": "https://ethereum-optimism.github.io/data/SPOT/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0xfa6d8ee5be770f84fc001d098c4bd604fe01284a",
+      "opListId": "extended",
+      "opTokenId": "SPOT"
     }
   },
   {
@@ -97021,6 +97047,19 @@
   },
   {
     "chainId": 8453,
+    "address": "0x8f2e6758c4d6570344bd5007dec6301cd57590a0",
+    "name": "SPOT",
+    "symbol": "SPOT",
+    "decimals": 9,
+    "logoURI": "https://ethereum-optimism.github.io/data/SPOT/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "SPOT"
+    }
+  },
+  {
+    "chainId": 8453,
     "address": "0x8fbd0648971d56f1f2c35fa075ff5bc75fb0e39d",
     "name": "MBS",
     "symbol": "MBS",
@@ -97491,6 +97530,19 @@
     "extensions": {
       "opListId": "extended",
       "opTokenId": "tBTC"
+    }
+  },
+  {
+    "chainId": 84531,
+    "address": "0x7d4f70b55f7883e5981b41e91c3ed908821063f9",
+    "name": "SPOT",
+    "symbol": "SPOT",
+    "decimals": 9,
+    "logoURI": "https://ethereum-optimism.github.io/data/SPOT/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "SPOT"
     }
   },
   {
