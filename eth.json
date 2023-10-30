@@ -323,6 +323,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x0080428794a79a40ae03cf6e6c1d56bd5467a4a2",
+    "name": "LONG  ETH ",
+    "symbol": "LONG",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/32559/thumb/IMG_20231005_122433_189.jpg?1698544869"
+  },
+  {
+    "chainId": 1,
     "name": "Splintershards",
     "address": "0x00813e3421e1367353bfe7615c7f7f133c89df74",
     "decimals": 18,
@@ -4009,6 +4017,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x0b61c4f33bcdef83359ab97673cb5961c6435f4e",
+    "name": "HOLD",
+    "symbol": "EARN",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/32575/thumb/200.png?1698554742"
+  },
+  {
+    "chainId": 1,
     "name": "Liti Capital",
     "address": "0x0b63128c40737b13647552e0c926bcfeccc35f93",
     "decimals": 18,
@@ -4046,6 +4062,13 @@
     "symbol": "DMT",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/30505/thumb/dmt.png?1696529391"
+  },
+  {
+    "chainId": 1,
+    "address": "0x0b925ed163218f6662a35e0f0371ac234f9e9371",
+    "name": "Aave Ethereum Wrapped stETH",
+    "symbol": "AETHWSTETH",
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -5905,10 +5928,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x1123d17fcf93ed2b41440317503346a0fdfe3ed7",
     "name": "Prometheum Prodigy",
+    "address": "0x1123d17fcf93ed2b41440317503346a0fdfe3ed7",
+    "decimals": 18,
     "symbol": "PMPY",
-    "decimals": 18
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28310.png"
   },
   {
     "chainId": 1,
@@ -14914,6 +14938,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x2c642cd3bed9b4e4eeec493611779f13efb502f1",
+    "name": "Carbon21",
+    "symbol": "C21",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/32568/thumb/coin200x200.png?1698549361"
+  },
+  {
+    "chainId": 1,
     "name": "Kekobank",
     "address": "0x2c7f442aab99d5e18cfae2291c507c0b5f3c1eb5",
     "decimals": 18,
@@ -21429,6 +21461,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x3f3052ccc6ab2337e3d63f5c695c4471a8637a32",
+    "name": "OOF",
+    "symbol": "OOF",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/32573/thumb/Oof_logi.jpeg?1698554413"
+  },
+  {
+    "chainId": 1,
     "name": "Definex",
     "address": "0x3f344c88d823f180fb8b44a3c7cfc4edc92dfa35",
     "decimals": 6,
@@ -26308,6 +26348,14 @@
     "decimals": 18,
     "symbol": "SUMMER",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/19936.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x4d5f47fa6a74757f35c14fd3a6ef8e3c9bc514e8",
+    "name": "AAVE Ethereum WETH",
+    "symbol": "AETHWETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/32582/thumb/eth.png?1698560073"
   },
   {
     "chainId": 1,
@@ -31850,6 +31898,14 @@
     "decimals": 18,
     "symbol": "SDEX",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/24203.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x5df2aa6d903410b2a747c90dbf2de0de7b15ac60",
+    "name": "0xgambit",
+    "symbol": "0XG",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/32579/thumb/logo.png?1698558743"
   },
   {
     "chainId": 1,
@@ -41183,6 +41239,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x792833b894775bd769b3c602ba7172e59a83ab3f",
+    "name": "City Boys",
+    "symbol": "TOONS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/32586/thumb/photo_2023-10-29_02.57.38.jpeg?1698564589"
+  },
+  {
+    "chainId": 1,
     "name": "Axia Protocol",
     "address": "0x793786e2dd4cc492ed366a94b88a3ff9ba5e7546",
     "decimals": 18,
@@ -41592,11 +41656,11 @@
   },
   {
     "chainId": 1,
-    "name": "Mandox",
+    "name": "Mandox Token",
     "address": "0x7a8adcf432ebcc2311b955d176ee4bfed13bb9a7",
-    "decimals": 18,
+    "decimals": 9,
     "symbol": "MANDOX",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/15444.png"
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28306.png"
   },
   {
     "chainId": 1,
@@ -43072,6 +43136,14 @@
     "decimals": 18,
     "symbol": "GGC",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/5090.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Vault Tech",
+    "address": "0x7f9b09f4717072cf4dc18b95d1b09e2b30c76790",
+    "decimals": 18,
+    "symbol": "VAULT",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28311.png"
   },
   {
     "chainId": 1,
@@ -44782,6 +44854,14 @@
     "decimals": 18,
     "symbol": "SHL",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2750.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x85614a474dbeed440d5bbdb8ac50b0f22367f997",
+    "name": "Verge  ETH ",
+    "symbol": "XVG",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/32585/thumb/Verge_symbol_RGB.png?1698564509"
   },
   {
     "chainId": 1,
@@ -47305,6 +47385,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x8c7ac134ed985367eadc6f727d79e8295e11435c",
+    "name": "The Balkan Dwarf",
+    "symbol": "KEKEC",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/32563/thumb/download-compresskaru.com.png?1698546378"
+  },
+  {
+    "chainId": 1,
     "name": "GreenTek",
     "address": "0x8c7e3b5e720b7a9bbcf15c38be5b657bb2b71dba",
     "decimals": 18,
@@ -47478,6 +47566,14 @@
     "decimals": 18,
     "symbol": "DEFI++",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7874.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x8d2658e0f52df7875a7b3e58fc12f82f5e34dd61",
+    "name": "ROOT",
+    "symbol": "ROOT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/32589/thumb/ROOT200x200.png?1698579451"
   },
   {
     "chainId": 1,
@@ -50442,6 +50538,14 @@
     "decimals": 6,
     "symbol": "OXY",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/8029.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x9657477ac915f56ca87c253db1320218ec2d5ddd",
+    "name": "Jake Newman Enterprises",
+    "symbol": "JNE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/32565/thumb/image-200x200.jpg?1698546675"
   },
   {
     "chainId": 1,
@@ -55045,6 +55149,14 @@
   },
   {
     "chainId": 1,
+    "address": "0xa3d59c6d24f428dcfedc09724869e7af4d281fdd",
+    "name": "DeviantsFactions",
+    "symbol": "DEV",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/32561/thumb/icon.png?1698546192"
+  },
+  {
+    "chainId": 1,
     "name": "Prime Whiterock Company",
     "address": "0xa3d93c0616dbc31fef1e112c7665a4ba4ddbf0be",
     "decimals": 18,
@@ -56858,6 +56970,14 @@
     "decimals": 8,
     "symbol": "ETGP",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3810.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xa974bafd35033ef7c3903bb37d109e7f8920c668",
+    "name": "Coinmix",
+    "symbol": "CM",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/32587/thumb/Tornado_only_transparent.png?1698565426"
   },
   {
     "chainId": 1,
@@ -62462,6 +62582,14 @@
     "decimals": 18,
     "symbol": "c0",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/12026.png"
+  },
+  {
+    "chainId": 1,
+    "name": "HALLOWEEN",
+    "address": "0xbb47107f54e7c84794b49df9315cf79a731894b0",
+    "decimals": 9,
+    "symbol": "HALLOWEEN",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28307.png"
   },
   {
     "chainId": 1,
@@ -84186,6 +84314,13 @@
     "decimals": 9,
     "symbol": "AI",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/27776.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xfe6f2e70f30a0894d0aee79e11653275e89c7bd6",
+    "name": "Karen Pepe",
+    "symbol": "KEPE",
+    "decimals": 18
   },
   {
     "chainId": 1,
