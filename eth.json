@@ -12298,6 +12298,14 @@
   },
   {
     "chainId": 1,
+    "name": "Baby X 2.0",
+    "address": "0x249305682d8c00aa79c23e13ec8bb2ea0b861615",
+    "decimals": 9,
+    "symbol": "BABYX2",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28315.png"
+  },
+  {
+    "chainId": 1,
     "name": "The Transfer Token",
     "address": "0x2494a68c1484376fef880b4c24d91f049d29b02a",
     "decimals": 18,
@@ -13084,7 +13092,7 @@
   },
   {
     "chainId": 1,
-    "name": "BitcoinSoV",
+    "name": "BSOV Token",
     "address": "0x26946ada5ecb57f3a1f91605050ce45c482c9eb1",
     "decimals": 18,
     "symbol": "BSOV",
@@ -23671,11 +23679,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x455e53cbb86018ac2b8092fdcd39d8444affc3f6",
     "name": "Polygon Ecosystem Token",
-    "symbol": "POL",
+    "address": "0x455e53cbb86018ac2b8092fdcd39d8444affc3f6",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/32440/thumb/polygon.png?1698233684"
+    "symbol": "POL",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28321.png"
   },
   {
     "chainId": 1,
@@ -30720,6 +30728,14 @@
     "symbol": "LBT",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/30021/thumb/LBT_Token.png?1696528945"
+  },
+  {
+    "chainId": 1,
+    "address": "0x5acd02940d2e56d9402b8d224e56bd800c544466",
+    "name": "Real Strawberry Elephant",
+    "symbol": "",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/32591/thumb/sqQV944d_400x400.jpg?1698632639"
   },
   {
     "chainId": 1,
@@ -44963,6 +44979,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x85f138bfee4ef8e540890cfb48f620571d67eda3",
+    "name": "Avalanche  Wormhole ",
+    "symbol": "AVAX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/22943/thumb/AVAX_wh_small.png?1696522240"
+  },
+  {
+    "chainId": 1,
     "name": "Franklin",
     "address": "0x85f6eb2bd5a062f5f8560be93fb7147e16c81472",
     "decimals": 18,
@@ -48136,6 +48160,14 @@
     "decimals": 18,
     "symbol": "CADX",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/5492.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x8ed955a2b7d2c3a17a9d05daca95e01818f8c11e",
+    "name": "APF coin",
+    "symbol": "APFC",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/30990/thumb/photo_2023-10-28_09-48-25.jpg?1698518912"
   },
   {
     "chainId": 1,
@@ -58815,7 +58847,7 @@
     "name": "Cogito Protocol",
     "symbol": "CGV",
     "decimals": 6,
-    "logoURI": "https://assets.coingecko.com/coins/images/30731/thumb/CGV_logo_32.png?1696529601"
+    "logoURI": "https://assets.coingecko.com/coins/images/30731/thumb/CGV.png?1698667079"
   },
   {
     "chainId": 1,
@@ -63939,6 +63971,14 @@
     "decimals": 18,
     "symbol": "MORE",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/21339.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xbeef8e0982874e0292e6c5751c5a4092b3e1beef",
+    "name": "Staked BIFI",
+    "symbol": "MOOBIFI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/32597/thumb/319381e63428d3c2ab6e035d5f3abd76.png?1698682355"
   },
   {
     "chainId": 1,
@@ -78846,11 +78886,11 @@
   },
   {
     "chainId": 1,
+    "name": "CHARTAI",
     "address": "0xee3200f94a1a2345e6cc486032a5df1d50cb621c",
-    "name": "ChartAI",
-    "symbol": "CX",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/31896/thumb/200.png?1696530707"
+    "symbol": "CX",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28314.png"
   },
   {
     "chainId": 1,
@@ -83379,14 +83419,6 @@
   },
   {
     "chainId": 1,
-    "name": "DIPNET",
-    "address": "0xfb8bf095ebcdad57d2e37573a505e7d3bafdd3cc",
-    "decimals": 8,
-    "symbol": "DPN",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2997.png"
-  },
-  {
-    "chainId": 1,
     "name": "Hybrid Bank Cash",
     "address": "0xfb9553afa2b5c19c5f8e5b8ee175fc01abd1555f",
     "decimals": 18,
@@ -84094,7 +84126,7 @@
   {
     "chainId": 1,
     "address": "0xfde00bd1da57349b0df85f134b18124266f3bc5b",
-    "name": "Decentralized Intelligence Agency",
+    "name": "Decentralized Intelligence Agency  OLD ",
     "symbol": "DIA",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/29808/thumb/IMG_20230412_175949_318.jpg?1696528737"

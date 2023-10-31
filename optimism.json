@@ -4915,6 +4915,18 @@
   },
   {
     "chainId": 8453,
+    "address": "0x41e99e0f73a88947c52070ff67c19b7abc171a54",
+    "name": "Redemption Finance",
+    "symbol": "RDMP",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/RDMP/logo.svg",
+    "extensions": {
+      "opListId": "extended",
+      "opTokenId": "RDMP"
+    }
+  },
+  {
+    "chainId": 8453,
     "address": "0x4200000000000000000000000000000000000006",
     "name": "Wrapped Ether",
     "symbol": "WETH",
