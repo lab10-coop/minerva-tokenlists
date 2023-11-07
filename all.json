@@ -4256,6 +4256,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x0c21638d4bcb88568f88bc84a50e317715f8de8a",
+    "name": "GrokDogeX",
+    "symbol": "GDX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/32756/thumb/GDX.jpg?1699280011"
+  },
+  {
+    "chainId": 1,
     "name": "Floki Chain",
     "address": "0x0c23a0ce478ada00df4e3c951b8fa6ffe7f1c56b",
     "decimals": 18,
@@ -8027,6 +8035,14 @@
     "decimals": 18,
     "symbol": "BEE",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/5550.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x176bc22e1855cd5cf5a840081c6c5b92b55e2210",
+    "name": "Gambex",
+    "symbol": "GBE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/32745/thumb/gbe_cg.png?1699262150"
   },
   {
     "chainId": 1,
@@ -13044,11 +13060,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x263b6b028f3e4ed8c4329eb2b5f409ee38d97296",
     "name": "World Mobile Token",
+    "address": "0x263b6b028f3e4ed8c4329eb2b5f409ee38d97296",
+    "decimals": 18,
     "symbol": "WMT",
-    "decimals": 6,
-    "logoURI": "https://assets.coingecko.com/coins/images/17333/thumb/Colored_Token.png?1696516885"
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/13769.png"
   },
   {
     "chainId": 1,
@@ -16496,7 +16512,7 @@
   },
   {
     "chainId": 1,
-    "name": "FXDX Exchange",
+    "name": "FXDX",
     "address": "0x30b593f8c3ab37615359b4e0e6df2e06d55bb55d",
     "decimals": 18,
     "symbol": "FXDX",
@@ -17530,14 +17546,6 @@
     "decimals": 18,
     "symbol": "NCC",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/14811.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x33909c9ce97ce509dab3a038b3ec7ac3d1be3231",
-    "name": "Terareum",
-    "symbol": "TERA2",
-    "decimals": 4,
-    "logoURI": "https://assets.coingecko.com/coins/images/29647/thumb/terareum.png?1696528583"
   },
   {
     "chainId": 1,
@@ -24532,14 +24540,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x472a0687a751ed5464056d385702696f61e7ea53",
-    "name": "9GAG",
-    "symbol": "9GAG",
-    "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/32692/thumb/IMG_20231030_090523_683.jpg?1698976537"
-  },
-  {
-    "chainId": 1,
     "address": "0x473037de59cf9484632f4a27b509cfe8d4a31404",
     "name": "STEPN Green Satoshi Token on ETH",
     "symbol": "GST-ETH",
@@ -25996,6 +25996,14 @@
     "decimals": 18,
     "symbol": "VETH",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/5657.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x4ba942d56a3b95b03c0af7a91b7294e0e95271f4",
+    "name": "Super Cycle",
+    "symbol": "RICH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/32754/thumb/SUPERCYCLE.png?1699265229"
   },
   {
     "chainId": 1,
@@ -42866,14 +42874,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x7d647b1a0dcd5525e9c6b3d14be58f27674f8c95",
-    "name": "Neo Tokyo",
-    "symbol": "BYTES",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/28858/thumb/bytes.png?1696527832"
-  },
-  {
-    "chainId": 1,
     "name": "BOB",
     "address": "0x7d8146cf21e8d7cbe46054e01588207b51198729",
     "decimals": 18,
@@ -43020,7 +43020,7 @@
   {
     "chainId": 1,
     "address": "0x7df18e4efd6e6f73cfb462937dac40fe42533016",
-    "name": "Zkitty Bot",
+    "name": "ZKitty Bot",
     "symbol": "ZKITTY",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/31474/thumb/AnN0reNi_400x400.jpg?1696530286"
@@ -43162,11 +43162,11 @@
   },
   {
     "chainId": 1,
-    "name": "Astra DAO",
     "address": "0x7e9c15c43f0d6c4a12e6bdff7c7d55d0f80e3e23",
-    "decimals": 18,
+    "name": "Astra DAO",
     "symbol": "ASTRADAO",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/23234.png"
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/27255/thumb/astra200x200px_blue_%282%29.png?1696526304"
   },
   {
     "chainId": 1,
@@ -43643,6 +43643,14 @@
     "decimals": 18,
     "symbol": "BES",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/17527.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x80592d613a383f2ba3c42e4c247067289ee60152",
+    "name": "TurboBot",
+    "symbol": "TURBO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/32747/thumb/FFxY5qST_400x400.jpeg?1699262654"
   },
   {
     "chainId": 1,
@@ -44752,11 +44760,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x83f20f44975d03b1b09e64809b757c47f942beea",
     "name": "Savings Dai",
-    "symbol": "SDAI",
+    "address": "0x83f20f44975d03b1b09e64809b757c47f942beea",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/32254/thumb/sdai.png?1697015278"
+    "symbol": "SDAI",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28356.png"
   },
   {
     "chainId": 1,
@@ -47690,6 +47698,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x8c6778023c3d4fd79ddd14810079f64c39e9e43d",
+    "name": "0xAISwap",
+    "symbol": "0XAISWAP",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/32739/thumb/0x-AISwap-logo.png?1699236607"
+  },
+  {
+    "chainId": 1,
     "name": "Moon Rabbit",
     "address": "0x8c6bf16c273636523c29db7db04396143770f6a0",
     "decimals": 18,
@@ -48208,6 +48224,14 @@
     "decimals": 7,
     "symbol": "ISAL",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/8275.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x8e1308f4808788767a864eee9a4927e38c790352",
+    "name": "Physics",
+    "symbol": "PHYSICS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/32752/thumb/Physics_Logo_200x200_PNG.png?1699265054"
   },
   {
     "chainId": 1,
@@ -48809,6 +48833,14 @@
     "decimals": 18,
     "symbol": "IPM",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7247.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x8ff62c1b0868e1a8905eb0d0cbb04f20667dcf88",
+    "name": "BTCrewards",
+    "symbol": "BTCR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/32741/thumb/Bitcoin_Rewards_Logo_-_200x200.png?1699239519"
   },
   {
     "chainId": 1,
@@ -52232,6 +52264,14 @@
     "decimals": 18,
     "symbol": "IDDR",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/26019.png"
+  },
+  {
+    "chainId": 1,
+    "name": "CatDoge",
+    "address": "0x9a834eb3932c3a40a2cfa9a1b1658fe551f04407",
+    "decimals": 18,
+    "symbol": "CAT",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/26479.png"
   },
   {
     "chainId": 1,
@@ -58523,6 +58563,14 @@
   },
   {
     "chainId": 1,
+    "address": "0xad161afae7db2a048b042bd68e11c38c9c042cc1",
+    "name": "Flooring Protocol  Nakamigos",
+    "symbol": "NAKAMIGOS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/32757/thumb/nakamigos.jpg?1699310532"
+  },
+  {
+    "chainId": 1,
     "name": "Good Gensler",
     "address": "0xad1a5b8538a866ecd56ddd328b50ed57ced5d936",
     "decimals": 18,
@@ -59289,6 +59337,14 @@
     "decimals": 18,
     "symbol": "PNODE",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/9657.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xaf6a1125d4cc55a4110dc63cd2ff6e005afb8676",
+    "name": "PunkCity",
+    "symbol": "PUNK",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/31049/thumb/F4FDA24D-1B29-4CBB-8346-854D1BFFE75A.png?1696529883"
   },
   {
     "chainId": 1,
@@ -81368,6 +81424,14 @@
     "symbol": "JART",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/29412/thumb/JournArt%28200%29.png?1696528361"
+  },
+  {
+    "chainId": 1,
+    "address": "0xf3e66b03d098d0482be9cb3d6999787231a93ed9",
+    "name": "PromptIDE",
+    "symbol": "PROMPTIDE",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/32753/thumb/Prompt200.jpg?1699265135"
   },
   {
     "chainId": 1,
