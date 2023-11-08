@@ -783,6 +783,14 @@
     "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-tokenlists/master/images/Monerium-USD.svg"
   },
   {
+    "name": "META TOY DRAGONZ TOKEN",
+    "address": "0x65ad509db5924ef0001d977590985f965ef1aaaa",
+    "symbol": "METOD",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://i.imgur.com/aMJ32ep.png"
+  },
+  {
     "name": "Giddy Token",
     "address": "0x67eb41a14c0fe5cd701fc9d5a3d6597a72f641a6",
     "symbol": "GDDY",
@@ -1721,6 +1729,14 @@
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
   },
   {
+    "name": "Matic",
+    "address": "0x0f52a51287f9b3894d73df05164d0ee2533ccbb4",
+    "symbol": "MATIC",
+    "decimals": 18,
+    "chainId": 169,
+    "logoURI": "https://i.imgur.com/uIExoAr.png"
+  },
+  {
     "name": "Dai Stablecoin",
     "address": "0x1c466b9371f8aba0d7c458be10a62192fcb8aa71",
     "symbol": "DAI",
@@ -1729,12 +1745,28 @@
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
   },
   {
+    "name": "Wrapped liquid staked Ether 2.0",
+    "address": "0x2fe3ad97a60eb7c79a976fc18bb5ffd07dd94ba5",
+    "symbol": "wstETH",
+    "decimals": 18,
+    "chainId": 169,
+    "logoURI": "https://assets.coingecko.com/coins/images/18834/large/wstETH.png?1633565443"
+  },
+  {
     "name": "Wrapped BTC",
     "address": "0x305e88d809c9dc03179554bfbf85ac05ce8f18d6",
     "symbol": "WBTC",
     "decimals": 8,
     "chainId": 169,
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png"
+  },
+  {
+    "name": "StakeStone Ether",
+    "address": "0x80137510979822322193fc997d400d5a6c747bf7",
+    "symbol": "STONE",
+    "decimals": 18,
+    "chainId": 169,
+    "logoURI": "https://storage.googleapis.com/ks-setting-1d682dca/dee351e5-ff61-4a8f-994d-82f3078119661696785945490.png"
   },
   {
     "name": "USD Coin",
