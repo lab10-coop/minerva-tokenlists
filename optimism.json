@@ -986,6 +986,7 @@
     "logoURI": "https://ethereum-optimism.github.io/data/wstETH/logo.svg",
     "extensions": {
       "optimismBridgeAddress": "0x76943C0D61395d8F2edF9060e1533529cAe05dE6",
+      "baseBridgeAddress": "0x9de443AdC5A411E83F1878Ef24C3F52C61571e72",
       "opListId": "default",
       "opTokenId": "wstETH"
     }
@@ -1992,6 +1993,19 @@
       "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
       "opListId": "extended",
       "opTokenId": "WAMPL"
+    }
+  },
+  {
+    "chainId": 1,
+    "address": "0xedf6568618a00c6f0908bf7758a16f76b6e04af9",
+    "name": "ARIANEE",
+    "symbol": "ARIA20",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/ARIA20/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "opListId": "extended",
+      "opTokenId": "ARIA20"
     }
   },
   {
@@ -5237,6 +5251,19 @@
   },
   {
     "chainId": 8453,
+    "address": "0x998b3fd0998bfff66d28ab03dfe417fc3b884188",
+    "name": "ARIANEE",
+    "symbol": "ARIA20",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/ARIA20/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "ARIA20"
+    }
+  },
+  {
+    "chainId": 8453,
     "address": "0x9e1028f5f1d5ede59748ffcee5532509976840e0",
     "name": "Compound",
     "symbol": "COMP",
@@ -5362,6 +5389,19 @@
       "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "extended",
       "opTokenId": "MTA"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0xc1cba3fcea344f92d9239c08c0568f6f2f0ee452",
+    "name": "Wrapped liquid staked Ether 2.0",
+    "symbol": "wstETH",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/wstETH/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0xac9D11cD4D7eF6e54F14643a393F68Ca014287AB",
+      "opListId": "default",
+      "opTokenId": "wstETH"
     }
   },
   {
