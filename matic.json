@@ -1761,20 +1761,20 @@
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png"
   },
   {
-    "name": "StakeStone Ether",
-    "address": "0x80137510979822322193fc997d400d5a6c747bf7",
-    "symbol": "STONE",
-    "decimals": 18,
-    "chainId": 169,
-    "logoURI": "https://storage.googleapis.com/ks-setting-1d682dca/dee351e5-ff61-4a8f-994d-82f3078119661696785945490.png"
-  },
-  {
     "name": "USD Coin",
     "address": "0xb73603c5d87fa094b7314c74ace2e64d165016fb",
     "symbol": "USDC",
     "decimals": 6,
     "chainId": 169,
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+  },
+  {
+    "name": "StakeStone Ether",
+    "address": "0xec901da9c68e90798bbbb74c11406a32a70652c3",
+    "symbol": "STONE",
+    "decimals": 18,
+    "chainId": 169,
+    "logoURI": "https://storage.googleapis.com/ks-setting-1d682dca/dee351e5-ff61-4a8f-994d-82f3078119661696785945490.png"
   },
   {
     "name": "Tether USD",
