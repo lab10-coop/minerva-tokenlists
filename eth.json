@@ -1006,7 +1006,7 @@
     "chainId": 1,
     "name": "Orion",
     "address": "0x0258f474786ddfd37abce6df6bbb1dd5dfc4434a",
-    "decimals": 8,
+    "decimals": 18,
     "symbol": "ORN",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/5631.png"
   },
@@ -4464,6 +4464,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x0cb7d2677277b18f080fc2ad97f5fa9f3d7a3232",
+    "name": "Betted",
+    "symbol": "BETS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/29287/thumb/ficha_icon_CG.png?1696528239"
+  },
+  {
+    "chainId": 1,
     "name": "The Protocol",
     "address": "0x0cba60ca5ef4d42f92a5070a8fedd13be93e2861",
     "decimals": 18,
@@ -4922,7 +4930,7 @@
   {
     "chainId": 1,
     "address": "0x0e573ce2736dd9637a0b21058352e1667925c7a8",
-    "name": "Verified USD Foundation USDV",
+    "name": "Verified USD",
     "symbol": "USDV",
     "decimals": 6,
     "logoURI": "https://assets.coingecko.com/coins/images/32948/thumb/usdv_%281%29.png?1699933314"
@@ -8446,6 +8454,14 @@
     "decimals": 18,
     "symbol": "BLZE",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/25178.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x183395dbd0b5e93323a7286d1973150697fffcb3",
+    "name": "Convex FXN",
+    "symbol": "CVXFXN",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/32962/thumb/cvxfxn.png?1700026163"
   },
   {
     "chainId": 1,
@@ -16832,7 +16848,7 @@
   },
   {
     "chainId": 1,
-    "name": "Republik",
+    "name": "RepubliK",
     "address": "0x313cae7ad4454aac7b208c1f089da2b0e5825e46",
     "decimals": 18,
     "symbol": "RPK",
@@ -18083,6 +18099,14 @@
     "decimals": 18,
     "symbol": "ARTE",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/6437.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x34635280737b5bfe6c7dc2fc3065d60d66e78185",
+    "name": "Convex Prisma",
+    "symbol": "CVXPRISMA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/32961/thumb/cvxprisma.png?1700026172"
   },
   {
     "chainId": 1,
@@ -20739,14 +20763,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x3bcea5a1612f50e5aad16b741ac473e4679daa2c",
-    "name": "Betted",
-    "symbol": "BETS",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/29287/thumb/ficha_icon_CG.png?1696528239"
-  },
-  {
-    "chainId": 1,
     "name": "Opera Protocol",
     "address": "0x3bd8268791de798d4ed5d424d49412cf42b8ec3a",
     "decimals": 9,
@@ -22579,6 +22595,14 @@
     "decimals": 8,
     "symbol": "sSTRK",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/11102.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x4168bbc34baea34e55721809911bca5baaef6ba6",
+    "name": "CEREAL",
+    "symbol": "CEP",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/10469/thumb/logo_%EC%8B%AC%EB%B3%BC.png?1700070186"
   },
   {
     "chainId": 1,
@@ -24418,6 +24442,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x466a756e9a7401b5e2444a3fcb3c2c12fbea0a54",
+    "name": "PUSd",
+    "symbol": "PUSD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/25858/thumb/PUSd.png?1696524942"
+  },
+  {
+    "chainId": 1,
     "name": "Chorizo",
     "address": "0x466c5ad27b9b82dd63e46133ce3ecf782ac80bd6",
     "decimals": 18,
@@ -24801,6 +24833,14 @@
     "decimals": 18,
     "symbol": "ELV",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/18014.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Nutcoin",
+    "address": "0x473f4068073cd5b2ab0e4cc8e146f9edc6fb52cc",
+    "decimals": 18,
+    "symbol": "NUT",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28417.png"
   },
   {
     "chainId": 1,
@@ -34132,7 +34172,7 @@
     "name": "Beam",
     "address": "0x62d0a8458ed7719fdaf978fe5929c6d342b0bfce",
     "decimals": 18,
-    "symbol": "beam",
+    "symbol": "BEAM",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28298.png"
   },
   {
@@ -43594,14 +43634,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x7e9c15c43f0d6c4a12e6bdff7c7d55d0f80e3e23",
-    "name": "Astra DAO  OLD ",
-    "symbol": "ASTRADAO",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/27255/thumb/astra200x200px_blue_%282%29.png?1696526304"
-  },
-  {
-    "chainId": 1,
     "name": "eLTC",
     "address": "0x7e9d62e1ff4e34096f91ee0153222ab81f7184f0",
     "decimals": 8,
@@ -44605,6 +44637,14 @@
     "decimals": 18,
     "symbol": "ROND",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/22034.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x821a278dfff762c76410264303f25bf42e195c0c",
+    "name": "pETH",
+    "symbol": "PETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/28376/thumb/peth.png?1696527377"
   },
   {
     "chainId": 1,
@@ -53308,6 +53348,14 @@
   },
   {
     "chainId": 1,
+    "name": "Mumu the Bull",
+    "address": "0x9b7331c6e98bad1dc8f096ff3d98c93b3b9b1173",
+    "decimals": 18,
+    "symbol": "BULL",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28415.png"
+  },
+  {
+    "chainId": 1,
     "name": "BabyApe",
     "address": "0x9b7f20195a848072feacb4d3a6a75e2beb8f8ca1",
     "decimals": 9,
@@ -53409,6 +53457,14 @@
     "decimals": 18,
     "symbol": "KP2R",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7751.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x9be236ee350d18aaaf18619c5776d4096e94a0c7",
+    "name": "RATIO",
+    "symbol": "RATIO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/32975/thumb/IMG_20231112_075548_885.jpg?1700069403"
   },
   {
     "chainId": 1,
@@ -62195,6 +62251,14 @@
     "decimals": 18,
     "symbol": "HEROS",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/14685.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xb622907fbff6cbf7c3ce355173251e3edb13a606",
+    "name": "FortuneBets",
+    "symbol": "FRT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/32966/thumb/fortune-white-on-red.png?1700054670"
   },
   {
     "chainId": 1,
@@ -79855,11 +79919,11 @@
   },
   {
     "chainId": 1,
+    "name": "Lybra Finance",
     "address": "0xed1167b6dc64e8a366db86f2e952a482d0981ebd",
-    "name": "Lybra",
-    "symbol": "LBR",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/29958/thumb/New_LBR_V2.png?1696528884"
+    "symbol": "LBR",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/24700.png"
   },
   {
     "chainId": 1,
@@ -81334,14 +81398,6 @@
     "symbol": "SHIBC",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/31941/thumb/Shiba_Inu_Classic.png?1696530748"
-  },
-  {
-    "chainId": 1,
-    "name": "Lybra Finance",
-    "address": "0xf1182229b71e79e504b1d2bf076c15a277311e05",
-    "decimals": 18,
-    "symbol": "LBR",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/24700.png"
   },
   {
     "chainId": 1,

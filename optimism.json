@@ -1253,6 +1253,19 @@
   },
   {
     "chainId": 1,
+    "address": "0x967da4048cd07ab37855c090aaf366e4ce1b9f48",
+    "name": "Ocean Token",
+    "symbol": "OCEAN",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/OCEAN/logo.png",
+    "extensions": {
+      "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1",
+      "opListId": "extended",
+      "opTokenId": "OCEAN"
+    }
+  },
+  {
+    "chainId": 1,
     "address": "0x9ce115f0341ae5dabc8b477b74e83db2018a6f42",
     "name": "HairDAO Token",
     "symbol": "HAIR",
@@ -2922,6 +2935,19 @@
     "symbol": "THALES",
     "decimals": 18,
     "logoURI": "https://ethereum-optimism.github.io/data/THALES/logo.png"
+  },
+  {
+    "chainId": 10,
+    "address": "0x2561aa2bb1d2eb6629edd7b0938d7679b8b49f9e",
+    "name": "Ocean Token",
+    "symbol": "OCEAN",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/OCEAN/logo.png",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "OCEAN"
+    }
   },
   {
     "chainId": 10,
