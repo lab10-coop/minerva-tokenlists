@@ -4937,11 +4937,11 @@
   },
   {
     "chainId": 1,
+    "name": "Verified USD Foundation USDV",
     "address": "0x0e573ce2736dd9637a0b21058352e1667925c7a8",
-    "name": "Verified USD",
-    "symbol": "USDV",
     "decimals": 6,
-    "logoURI": "https://assets.coingecko.com/coins/images/32948/thumb/usdv_%281%29.png?1699933314"
+    "symbol": "USDV",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28443.png"
   },
   {
     "chainId": 1,
@@ -10855,11 +10855,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x1f3f677ecc58f6a1f9e2cf410df4776a8546b5de",
     "name": "VNDC",
+    "address": "0x1f3f677ecc58f6a1f9e2cf410df4776a8546b5de",
+    "decimals": 18,
     "symbol": "VNDC",
-    "decimals": 0,
-    "logoURI": "https://assets.coingecko.com/coins/images/9670/thumb/vndc-gold-coin.png?1696509740"
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/4805.png"
   },
   {
     "chainId": 1,
@@ -11620,11 +11620,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x21b8bfbbefc9e2b9a994871ecd742a5132b98aed",
     "name": "Crypto Real Estate",
-    "symbol": "CRE",
+    "address": "0x21b8bfbbefc9e2b9a994871ecd742a5132b98aed",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/29387/thumb/cre-logo-200.png?1696528333"
+    "symbol": "CRE",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/26771.png"
   },
   {
     "chainId": 1,
@@ -14874,11 +14874,11 @@
   },
   {
     "chainId": 1,
+    "name": "Web-x-ai",
     "address": "0x2b81945875f892aff04af0a298d35fb2cf848c7b",
-    "name": "Web",
-    "symbol": "WEB",
     "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/32957/thumb/WEB300.jpg?1699971838"
+    "symbol": "WEB",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28435.png"
   },
   {
     "chainId": 1,
@@ -16109,19 +16109,19 @@
   },
   {
     "chainId": 1,
+    "name": "Backed Niu Technologies",
     "address": "0x2f11eeee0bf21e7661a22dbbbb9068f4ad191b86",
-    "name": "Backed NIU Technologies",
-    "symbol": "BNIU",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/31869/thumb/b-NIU-200x200.png?1696530681"
+    "symbol": "BNIU",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28430.png"
   },
   {
     "chainId": 1,
+    "name": "Backed Govies 0-6 months EURO",
     "address": "0x2f123cf3f37ce3328cc9b5b8415f9ec5109b45e7",
-    "name": "Backed GOVIES 0 6 months EURO",
-    "symbol": "BC3M",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/31870/thumb/b-C3-M-200x200.png?1696530682"
+    "symbol": "BC3M",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28434.png"
   },
   {
     "chainId": 1,
@@ -17103,6 +17103,14 @@
     "decimals": 18,
     "symbol": "LTCDOOM",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/6071.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x31e4efe290973ebe91b3a875a7994f650942d28f",
+    "name": "Shrapnel",
+    "symbol": "SHRAP",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/32793/thumb/shrapnel.png?1699441661"
   },
   {
     "chainId": 1,
@@ -28477,11 +28485,11 @@
   },
   {
     "chainId": 1,
+    "name": "XGPT",
     "address": "0x51fe05eac152494908ff1ebbd50e116e960baf64",
-    "name": "X GPT",
-    "symbol": "XGPT",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/31559/thumb/XGPT_Logo.png?1696530372"
+    "symbol": "XGPT",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/26021.png"
   },
   {
     "chainId": 1,
@@ -29761,6 +29769,14 @@
   },
   {
     "chainId": 1,
+    "name": "Seedify.fund",
+    "address": "0x560363bda52bc6a44ca6c8c9b4a5fadbda32fa60",
+    "decimals": 18,
+    "symbol": "SFUND",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/8972.png"
+  },
+  {
+    "chainId": 1,
     "name": "Pantheon",
     "address": "0x5622e69e195baf4caac7b0a5f6a656f8af04fc56",
     "decimals": 18,
@@ -30666,19 +30682,19 @@
   },
   {
     "chainId": 1,
-    "name": "X-GPT",
-    "address": "0x5903cb31b6d62d0c474159e45886c446bfe0efd6",
-    "decimals": 18,
-    "symbol": "XGPT",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/26021.png"
-  },
-  {
-    "chainId": 1,
     "name": "SCAM",
     "address": "0x590f00edc668d5af987c6076c7302c42b6fe9dd3",
     "decimals": 18,
     "symbol": "SCAM",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/27094.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Alephium",
+    "address": "0x590f820444fa3638e022776752c5eef34e2f89a6",
+    "decimals": 18,
+    "symbol": "ALPH",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/14878.png"
   },
   {
     "chainId": 1,
@@ -40987,7 +41003,7 @@
     "name": "ValleyDAO",
     "symbol": "GROW",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/32991/thumb/valleydao_logo.png?1700101715"
+    "logoURI": "https://assets.coingecko.com/coins/images/32991/thumb/valleydao_200x200.png?1700168068"
   },
   {
     "chainId": 1,
@@ -52245,6 +52261,14 @@
     "decimals": 9,
     "symbol": "ROK",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/27466.png"
+  },
+  {
+    "chainId": 1,
+    "name": "LiquidDriver",
+    "address": "0x98504c8afa7c74c87a0641a7bb0f7968d4e8f471",
+    "decimals": 18,
+    "symbol": "LQDR",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/13246.png"
   },
   {
     "chainId": 1,
@@ -64099,11 +64123,11 @@
   },
   {
     "chainId": 1,
-    "address": "0xbbcb0356bb9e6b3faa5cbf9e5f36185d53403ac9",
     "name": "Backed Coinbase Global",
-    "symbol": "BCOIN",
+    "address": "0xbbcb0356bb9e6b3faa5cbf9e5f36185d53403ac9",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/31872/thumb/b-COIN-200x200.png?1696530684"
+    "symbol": "BCOIN",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28433.png"
   },
   {
     "chainId": 1,
@@ -67287,6 +67311,14 @@
   },
   {
     "chainId": 1,
+    "name": "EthXY",
+    "address": "0xc52fafdc900cb92ae01e6e4f8979af7f436e2eb2",
+    "decimals": 18,
+    "symbol": "SEXY",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28437.png"
+  },
+  {
+    "chainId": 1,
     "address": "0xc53342fd7575f572b0ff4569e31941a5b821ac76",
     "name": "Ethereum Volatility Index Token",
     "symbol": "ETHV",
@@ -69207,11 +69239,11 @@
   },
   {
     "chainId": 1,
-    "address": "0xcb129aa11ceaa00da1a92d12e26bb776ef3c3628",
     "name": "PowBlocks",
-    "symbol": "XPB",
+    "address": "0xcb129aa11ceaa00da1a92d12e26bb776ef3c3628",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/32520/thumb/logo.png?1698406955"
+    "symbol": "XPB",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28442.png"
   },
   {
     "chainId": 1,
