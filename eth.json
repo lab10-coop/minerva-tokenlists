@@ -4960,7 +4960,7 @@
   },
   {
     "chainId": 1,
-    "name": "Verified USD USDV",
+    "name": "Verified USD",
     "address": "0x0e573ce2736dd9637a0b21058352e1667925c7a8",
     "decimals": 18,
     "symbol": "USDV",
@@ -14891,6 +14891,14 @@
   },
   {
     "chainId": 1,
+    "name": "SASQUATCH",
+    "address": "0x2b87d5d3a7ebbc34615869b9ab7d6e9321df75a3",
+    "decimals": 9,
+    "symbol": "SQUATCH",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28491.png"
+  },
+  {
+    "chainId": 1,
     "address": "0x2b896c7f060ae441b76bbe47cddca934ba60f37f",
     "name": "BlackLatexFist",
     "symbol": "BLF",
@@ -17419,6 +17427,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x32a5fc22e20903e78171977359b500060b7316bf",
+    "name": "Paw a Gotchi",
+    "symbol": "PAG",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/33116/thumb/pawagotchi_200px.png?1700732363"
+  },
+  {
+    "chainId": 1,
     "name": "Crust Network",
     "address": "0x32a7c02e79c4ea1008dd6564b35f131428673c41",
     "decimals": 18,
@@ -19611,10 +19627,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x382ac32e9abe17f424a74e8ce0a92c0f18788f9a",
     "name": "Hottel",
+    "address": "0x382ac32e9abe17f424a74e8ce0a92c0f18788f9a",
+    "decimals": 18,
     "symbol": "HOTT",
-    "decimals": 18
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/24146.png"
   },
   {
     "chainId": 1,
@@ -25441,6 +25458,14 @@
   },
   {
     "chainId": 1,
+    "name": "Bugs Bunny",
+    "address": "0x490bd60a5d3e1207fba9b699017561434cc8c675",
+    "decimals": 18,
+    "symbol": "BUGS",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28490.png"
+  },
+  {
+    "chainId": 1,
     "name": "Terran Coin",
     "address": "0x490e3f4af13e1616ec97a8c6600c1061a8d0253e",
     "decimals": 18,
@@ -30841,6 +30866,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x5957c351946d45f74d1a6f034cd9b6ac6654e0d7",
+    "name": "Chart Roulette",
+    "symbol": "CR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/33111/thumb/IMG_20231121_180645_701.jpg?1700707947"
+  },
+  {
+    "chainId": 1,
     "name": "Powerledger",
     "address": "0x595832f8fc6bf59c85c527fec3740a1b7a361269",
     "decimals": 18,
@@ -36198,6 +36231,14 @@
     "decimals": 18,
     "symbol": "WELL",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3353.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x68592c5c98c4f4a8a4bc6da2121e65da3d1c0917",
+    "name": "Stable USDLR",
+    "symbol": "USDLR",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/33115/thumb/0x68592c5c98c4f4a8a4bc6da2121e65da3d1c0917.png?1700731571"
   },
   {
     "chainId": 1,
@@ -42208,7 +42249,7 @@
   },
   {
     "chainId": 1,
-    "name": "Electrum BitcoinDark",
+    "name": "BitcoinDark",
     "address": "0x796e47b85a0d759f300f1de96a3583004235d4d8",
     "decimals": 18,
     "symbol": "ELD",
@@ -44900,6 +44941,14 @@
     "decimals": 8,
     "symbol": "LDN",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/4083.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Chainflip",
+    "address": "0x826180541412d574cf1336d22c0c0a287822678a",
+    "decimals": 18,
+    "symbol": "FLIP",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/13268.png"
   },
   {
     "chainId": 1,
@@ -48260,6 +48309,13 @@
     "decimals": 18,
     "symbol": "YFF",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7144.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x8be8b0dde627dd6be9a4b7fcadd04899aabdb2b1",
+    "name": "Rand",
+    "symbol": "RND",
+    "decimals": 6
   },
   {
     "chainId": 1,
@@ -76148,6 +76204,14 @@
   },
   {
     "chainId": 1,
+    "address": "0xe020b01b6fbd83066aa2e8ee0ccd1eb8d9cc70bf",
+    "name": "Arcade Protocol",
+    "symbol": "ARCD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/33112/thumb/IMG_6563.png?1700708371"
+  },
+  {
+    "chainId": 1,
     "address": "0xe02d1524e385d67613e2ee969c60395be9a89f92",
     "name": "The 1  Club",
     "symbol": "1%",
@@ -86921,6 +86985,14 @@
   },
   {
     "chainId": 56,
+    "address": "0x6e88056e8376ae7709496ba64d37fa2f8015ce3e",
+    "symbol": "DEXE",
+    "name": "DeXe",
+    "decimals": 18,
+    "logoURI": "ipfs://QmZrmTvwVZFmjhZRBdjh1reCPtNenyaQhNS2cD4U18rd2B"
+  },
+  {
+    "chainId": 56,
     "address": "0x715d400f88c167884bbcc41c5fea407ed4d2f8a0",
     "symbol": "AXS",
     "name": "Axie Infinity",
@@ -87537,6 +87609,14 @@
   },
   {
     "chainId": 137,
+    "address": "0x3a58a54c066fdc0f2d55fc9c89f0415c92ebf3c4",
+    "symbol": "stMATIC",
+    "name": "Lido Staked MATIC",
+    "decimals": 18,
+    "logoURI": "ipfs://QmdDu8G9PRksN9qEjAA4Jioh7MKyVyjQdwmG9oh8GKiBRB"
+  },
+  {
+    "chainId": 137,
     "address": "0x3a9a81d576d83ff21f26f325066054540720fc34",
     "symbol": "DATA",
     "name": "Streamr",
@@ -87790,6 +87870,14 @@
     "name": "Binance USD",
     "decimals": 18,
     "logoURI": "ipfs://QmUCSx8qo7kSFcdPJ7gLp9X9pPkue13KUmnL6ZzBZ6ejaQ"
+  },
+  {
+    "chainId": 137,
+    "address": "0xdb95f9188479575f3f718a245eca1b3bf74567ec",
+    "symbol": "GTC",
+    "name": "Gitcoin",
+    "decimals": 18,
+    "logoURI": "ipfs://QmSMz1RrdcqKfUSFPqGFZMFNJm4gdqRWFohbYFgyL1cXaL"
   },
   {
     "chainId": 137,
