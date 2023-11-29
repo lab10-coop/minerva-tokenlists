@@ -1266,6 +1266,19 @@
   },
   {
     "chainId": 1,
+    "address": "0x97d0cfeb4fde54b430307c9482d6f79c761fe9b6",
+    "name": "Epoch",
+    "symbol": "EPOCH",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/EPOCH/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1",
+      "opListId": "extended",
+      "opTokenId": "EPOCH"
+    }
+  },
+  {
+    "chainId": 1,
     "address": "0x9ce115f0341ae5dabc8b477b74e83db2018a6f42",
     "name": "HairDAO Token",
     "symbol": "HAIR",
@@ -2069,6 +2082,7 @@
     "logoURI": "https://ethereum-optimism.github.io/data/AMKT/logo.svg",
     "extensions": {
       "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1",
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
       "opListId": "extended",
       "opTokenId": "AMKT"
     }
@@ -4213,6 +4227,19 @@
   },
   {
     "chainId": 10,
+    "address": "0xd1cac46a9a77169c310c2c780a4267ee6ca884f5",
+    "name": "Epoch",
+    "symbol": "EPOCH",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/EPOCH/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "EPOCH"
+    }
+  },
+  {
+    "chainId": 10,
     "address": "0xd3594e879b358f430e20f82bea61e83562d49d48",
     "name": "ParaSwap",
     "symbol": "PSP",
@@ -4929,6 +4956,19 @@
       "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "extended",
       "opTokenId": "NOGS"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0x13f4196cc779275888440b3000ae533bbbbc3166",
+    "name": "Alongside Crypto Market Index",
+    "symbol": "AMKT",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/AMKT/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "AMKT"
     }
   },
   {

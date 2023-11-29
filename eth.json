@@ -2553,11 +2553,11 @@
   },
   {
     "chainId": 1,
+    "name": "8PAY",
     "address": "0x06ddb3a8bc0abc14f85e974cf1a93a6f8d4909d9",
-    "name": "8Pay",
-    "symbol": "8PAY",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/14667/thumb/8pay.jpeg?1696514342"
+    "symbol": "8PAY",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/9046.png"
   },
   {
     "chainId": 1,
@@ -15896,6 +15896,14 @@
     "decimals": 18,
     "symbol": "KATA",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/15142.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x2e880962a9609aa3eab4def919fe9e917e99073b",
+    "name": "Aktionariat Boss Info AG Tokenized Shar",
+    "symbol": "BOSS",
+    "decimals": 0,
+    "logoURI": "https://assets.coingecko.com/coins/images/33248/thumb/BOSS_%281%29.png?1701172435"
   },
   {
     "chainId": 1,
@@ -31066,14 +31074,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x59b44e9ac4ab8e29db6faf7bacd726c6b7bc94b9",
-    "name": "Black Eyed Dragon",
-    "symbol": "BLEYD",
-    "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/29432/thumb/C4B58A54-53A3-4644-8F61-2B86BF006122.jpeg?1696528380"
-  },
-  {
-    "chainId": 1,
     "name": "Betherchip",
     "address": "0x59c033ec65e6b9c501c1ee34fb42f2575da4b517",
     "decimals": 18,
@@ -31780,7 +31780,7 @@
     "chainId": 1,
     "name": "LakeViewMeta",
     "address": "0x5bb15141bb6def6d2bafeed8ff84bf889c0c573b",
-    "decimals": 9,
+    "decimals": 18,
     "symbol": "LVM",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/21653.png"
   },
@@ -33255,14 +33255,6 @@
     "decimals": 18,
     "symbol": "DEXTF",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/8691.png"
-  },
-  {
-    "chainId": 1,
-    "name": "Liquidus",
-    "address": "0x5f69b7ab8f7cab199a310fd5a27b43fef44ddcc0",
-    "decimals": 18,
-    "symbol": "LIQ",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/12546.png"
   },
   {
     "chainId": 1,
@@ -34791,6 +34783,14 @@
     "symbol": "BATTLE",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/31517/thumb/battle_200x200.jpg?1696530327"
+  },
+  {
+    "chainId": 1,
+    "name": "Deepcave",
+    "address": "0x63f3795f332be0b27580edb6b33613cf4e5a7c30",
+    "decimals": 18,
+    "symbol": "CAVE",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28520.png"
   },
   {
     "chainId": 1,
@@ -50967,14 +50967,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x93cb5381fcbe32301a2f9905cff0ebec2fdf6c09",
-    "name": "Yooldo",
-    "symbol": "YOOL",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/32996/thumb/New_yooldo_symbol_bg_dark.png?1700110947"
-  },
-  {
-    "chainId": 1,
     "name": "Diyarbekirspor Token",
     "address": "0x93cfe232311f49b53d4285cd54d31261980496ba",
     "decimals": 18,
@@ -54293,6 +54285,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x9d1a74967eca155782edf8e84782c74db33fc499",
+    "name": "AI COM",
+    "symbol": "AICOM",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/33246/thumb/BbLZo3AH_400x400.jpg?1701172033"
+  },
+  {
+    "chainId": 1,
     "name": "Strike WBTC",
     "address": "0x9d1c2a187cf908aed8cfae2353ef72f06223d54d",
     "decimals": 8,
@@ -56170,6 +56170,14 @@
     "decimals": 18,
     "symbol": "$PPAP",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/26009.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xa2762ba628b962f93498d8893b6e4346140fe96d",
+    "name": "Intrepid Token",
+    "symbol": "INT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/33229/thumb/int-token.png?1701144826"
   },
   {
     "chainId": 1,
@@ -65122,6 +65130,14 @@
   },
   {
     "chainId": 1,
+    "address": "0xbd617a1359086e33ff339ea0b9c6de479a3f5943",
+    "name": "Ide x ai",
+    "symbol": "IDE",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/33240/thumb/logo_ide-1-150x150.png?1701148159"
+  },
+  {
+    "chainId": 1,
     "name": "GranX Chain",
     "address": "0xbd668ec47e10d3bf23b1d68139e545162a0dfcfa",
     "decimals": 18,
@@ -66009,11 +66025,11 @@
   },
   {
     "chainId": 1,
-    "address": "0xbfb2b6870501a6ff17121d676a0a45a38c9eed1e",
     "name": "LuckyToad",
-    "symbol": "TOAD",
+    "address": "0xbfb2b6870501a6ff17121d676a0a45a38c9eed1e",
     "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/28867/thumb/Coingecko_listing.png?1696527840"
+    "symbol": "TOAD",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28519.png"
   },
   {
     "chainId": 1,
@@ -67930,6 +67946,14 @@
     "decimals": 18,
     "symbol": "LIT",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/15784.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xc5b490371870201e2fe6308850507db6e9cba732",
+    "name": "Baby GROK",
+    "symbol": "BROK",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/33239/thumb/200x200_bork.png?1701147976"
   },
   {
     "chainId": 1,
@@ -70689,6 +70713,14 @@
     "decimals": 18,
     "symbol": "SMART",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/23520.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xce246eea10988c495b4a90a905ee9237a0f91543",
+    "name": "VaultCraft",
+    "symbol": "VCX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/33237/thumb/VCX_Token_200x200.png?1701147660"
   },
   {
     "chainId": 1,
@@ -84313,6 +84345,14 @@
   },
   {
     "chainId": 1,
+    "address": "0xf79c22713f3912be20a324034a91b11e2958a37e",
+    "name": "Plan Blui",
+    "symbol": "PBLUI",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/33227/thumb/TqkFW5A2_400x400.png?1701127038"
+  },
+  {
+    "chainId": 1,
     "name": "Baby Saitama Inu",
     "address": "0xf79f9020560963422ecc9c0c04d3a21190bbf045",
     "decimals": 18,
@@ -86584,6 +86624,14 @@
   },
   {
     "chainId": 1,
+    "address": "0xfed802a7e561d6324818358790b176a01d765f19",
+    "name": "BlockRock",
+    "symbol": "FED",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/33236/thumb/d4ac260d-4ee6-4450-b302-6dbd7dde85db.jpeg?1701147502"
+  },
+  {
+    "chainId": 1,
     "name": "Q DeFi Governance Token v2.0",
     "address": "0xfee4dbe2751bf8d1b1b861aaf9664961f19ce91a",
     "decimals": 18,
@@ -86597,14 +86645,6 @@
     "decimals": 18,
     "symbol": "ZUG",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/15443.png"
-  },
-  {
-    "chainId": 1,
-    "name": "8PAY",
-    "address": "0xfeea0bdd3d07eb6fe305938878c0cadbfa169042",
-    "decimals": 18,
-    "symbol": "8PAY",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/9046.png"
   },
   {
     "chainId": 1,
