@@ -3529,6 +3529,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x0a266778c113a8f0d3d7aeacd12b74a7da5037a0",
+    "name": "OLYMPUS",
+    "symbol": "OLAI",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/33251/thumb/200cg.png?1701237177"
+  },
+  {
+    "chainId": 1,
     "name": "SMUDGE",
     "address": "0x0a28f2dce5917e6824cb8b717cca6d7607c4571c",
     "decimals": 18,
@@ -25346,14 +25354,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x48783486ddd7fa85eca6b0c4ae8920bc25dfbcd7",
-    "name": "GoMoney2",
-    "symbol": "GOM2",
-    "decimals": 0,
-    "logoURI": "https://assets.coingecko.com/coins/images/10374/thumb/lvAhDIqmH0fh6U3NIiYLmKETR3uUBcySAv-K28eW6CCFm-ODhCdId71Ug5c4TCoEtxsre30Efe08muctK0MlK-JPdAbxilzZ7dHyiBNOCvcc_9AmJIo09TRLaiAafgqcFKsxpNOON2D28oTLnVTaqwxWL8zKSzjbI6ChKTCJKOiM2mq7VhQRZYe93StR30mf2O7DnkqmGEbZ5_i.jpg?1696510375"
-  },
-  {
-    "chainId": 1,
     "name": "Swapify",
     "address": "0x48786d8be3f5239a67a7d04cba3e9c5c4cef5159",
     "decimals": 9,
@@ -33978,11 +33978,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x61b57bdc01e3072fab3e9e2f3c7b88d482734e05",
     "name": "MetaZooMee",
-    "symbol": "MZM",
+    "address": "0x61b57bdc01e3072fab3e9e2f3c7b88d482734e05",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/31708/thumb/MZM-200px_%281%29.png?1696530531"
+    "symbol": "MZM",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28526.png"
   },
   {
     "chainId": 1,
@@ -56177,7 +56177,7 @@
     "name": "Intrepid Token",
     "symbol": "INT",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/33229/thumb/int-token.png?1701144826"
+    "logoURI": "https://assets.coingecko.com/coins/images/33229/thumb/int.png?1701257932"
   },
   {
     "chainId": 1,
@@ -61636,6 +61636,14 @@
   },
   {
     "chainId": 1,
+    "name": "stoicDAO",
+    "address": "0xb281d84989c06e2a6ccdc5ea7bf1663c79a1c31a",
+    "decimals": 18,
+    "symbol": "ZETA",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28539.png"
+  },
+  {
+    "chainId": 1,
     "address": "0xb28f803a8772e6584a65ab6dfc535ae6fef8a0b2",
     "name": "Lunafi",
     "symbol": "LFI",
@@ -65498,11 +65506,11 @@
   },
   {
     "chainId": 1,
+    "name": "BEG",
     "address": "0xbe6be64e9e5042b6e84e4c27956cce6353efa5f5",
-    "name": "Beg",
-    "symbol": "BEG",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/32799/thumb/beg100px.png?1699446876"
+    "symbol": "BEG",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28533.png"
   },
   {
     "chainId": 1,
@@ -77227,6 +77235,14 @@
   },
   {
     "chainId": 1,
+    "address": "0xe221db71c5c527149bdf56c4d13a54cf55e543c1",
+    "name": "Aktionariat Technologies of Understandi",
+    "symbol": "VIDS",
+    "decimals": 0,
+    "logoURI": "https://assets.coingecko.com/coins/images/33252/thumb/VIDS.PNG?1701254720"
+  },
+  {
+    "chainId": 1,
     "name": "Tratok",
     "address": "0xe225aca29524bb65fd82c79a9602f3b4f9c6fe3f",
     "decimals": 5,
@@ -87293,6 +87309,14 @@
     "name": "Tether",
     "decimals": 18,
     "logoURI": "ipfs://Qmd9YVdtaXDZuMmeChdpK4LfizyLkBbVijpLyXGSNwFGEz"
+  },
+  {
+    "chainId": 56,
+    "address": "0x56b6fb708fc5732dec1afc8d8556423a2edccbd6",
+    "symbol": "EOS",
+    "name": "EOS",
+    "decimals": 18,
+    "logoURI": "ipfs://QmT2F2AT537N5nvCTkwWwvy5DDY5xPP5nkdpiTtJbj5KTc"
   },
   {
     "chainId": 56,

@@ -3529,6 +3529,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x0a266778c113a8f0d3d7aeacd12b74a7da5037a0",
+    "name": "OLYMPUS",
+    "symbol": "OLAI",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/33251/thumb/200cg.png?1701237177"
+  },
+  {
+    "chainId": 1,
     "name": "SMUDGE",
     "address": "0x0a28f2dce5917e6824cb8b717cca6d7607c4571c",
     "decimals": 18,
@@ -25346,14 +25354,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x48783486ddd7fa85eca6b0c4ae8920bc25dfbcd7",
-    "name": "GoMoney2",
-    "symbol": "GOM2",
-    "decimals": 0,
-    "logoURI": "https://assets.coingecko.com/coins/images/10374/thumb/lvAhDIqmH0fh6U3NIiYLmKETR3uUBcySAv-K28eW6CCFm-ODhCdId71Ug5c4TCoEtxsre30Efe08muctK0MlK-JPdAbxilzZ7dHyiBNOCvcc_9AmJIo09TRLaiAafgqcFKsxpNOON2D28oTLnVTaqwxWL8zKSzjbI6ChKTCJKOiM2mq7VhQRZYe93StR30mf2O7DnkqmGEbZ5_i.jpg?1696510375"
-  },
-  {
-    "chainId": 1,
     "name": "Swapify",
     "address": "0x48786d8be3f5239a67a7d04cba3e9c5c4cef5159",
     "decimals": 9,
@@ -33978,11 +33978,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x61b57bdc01e3072fab3e9e2f3c7b88d482734e05",
     "name": "MetaZooMee",
-    "symbol": "MZM",
+    "address": "0x61b57bdc01e3072fab3e9e2f3c7b88d482734e05",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/31708/thumb/MZM-200px_%281%29.png?1696530531"
+    "symbol": "MZM",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28526.png"
   },
   {
     "chainId": 1,
@@ -56177,7 +56177,7 @@
     "name": "Intrepid Token",
     "symbol": "INT",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/33229/thumb/int-token.png?1701144826"
+    "logoURI": "https://assets.coingecko.com/coins/images/33229/thumb/int.png?1701257932"
   },
   {
     "chainId": 1,
@@ -61636,6 +61636,14 @@
   },
   {
     "chainId": 1,
+    "name": "stoicDAO",
+    "address": "0xb281d84989c06e2a6ccdc5ea7bf1663c79a1c31a",
+    "decimals": 18,
+    "symbol": "ZETA",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28539.png"
+  },
+  {
+    "chainId": 1,
     "address": "0xb28f803a8772e6584a65ab6dfc535ae6fef8a0b2",
     "name": "Lunafi",
     "symbol": "LFI",
@@ -65498,11 +65506,11 @@
   },
   {
     "chainId": 1,
+    "name": "BEG",
     "address": "0xbe6be64e9e5042b6e84e4c27956cce6353efa5f5",
-    "name": "Beg",
-    "symbol": "BEG",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/32799/thumb/beg100px.png?1699446876"
+    "symbol": "BEG",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28533.png"
   },
   {
     "chainId": 1,
@@ -77227,6 +77235,14 @@
   },
   {
     "chainId": 1,
+    "address": "0xe221db71c5c527149bdf56c4d13a54cf55e543c1",
+    "name": "Aktionariat Technologies of Understandi",
+    "symbol": "VIDS",
+    "decimals": 0,
+    "logoURI": "https://assets.coingecko.com/coins/images/33252/thumb/VIDS.PNG?1701254720"
+  },
+  {
+    "chainId": 1,
     "name": "Tratok",
     "address": "0xe225aca29524bb65fd82c79a9602f3b4f9c6fe3f",
     "decimals": 5,
@@ -87293,6 +87309,14 @@
     "name": "Tether",
     "decimals": 18,
     "logoURI": "ipfs://Qmd9YVdtaXDZuMmeChdpK4LfizyLkBbVijpLyXGSNwFGEz"
+  },
+  {
+    "chainId": 56,
+    "address": "0x56b6fb708fc5732dec1afc8d8556423a2edccbd6",
+    "symbol": "EOS",
+    "name": "EOS",
+    "decimals": 18,
+    "logoURI": "ipfs://QmT2F2AT537N5nvCTkwWwvy5DDY5xPP5nkdpiTtJbj5KTc"
   },
   {
     "chainId": 56,
@@ -104078,6 +104102,14 @@
     "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0x094bd7B2D99711A1486FB94d4395801C6d0fdDcC/logo_24.png"
   },
   {
+    "address": "0x0cbd6fadcf8096cc9a43d90b45f65826102e3ece",
+    "chainId": 43114,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/avalanche/0x0cBD6fAdcF8096cC9A43d90B45F65826102e3eCE.jpg",
+    "name": "CheckDot",
+    "symbol": "CDT"
+  },
+  {
     "address": "0x0da67235dd5787d67955420c84ca1cecd4e5bb3b",
     "chainId": 43114,
     "decimals": 18,
@@ -105709,6 +105741,22 @@
     "logoURI": "https://firebasestorage.googleapis.com/v0/b/token-library.appspot.com/o/mute.svg?alt=media"
   },
   {
+    "address": "0x10d967f46b06580c4a87b05c78f04e4df25c0db0",
+    "name": "Holdstation Utility Gold",
+    "symbol": "uGOLD",
+    "chainId": 324,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0x10d967f46b06580C4a87b05c78f04e4Df25C0DB0.png"
+  },
+  {
+    "address": "0x14acccd04393f26ba155e5402aa6fddbb8e2254a",
+    "name": "Touch Fan Token",
+    "symbol": "TFT",
+    "chainId": 324,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0x14ACCcD04393f26BA155E5402aA6fdDBB8e2254a.png"
+  },
+  {
     "address": "0x16a9494e257703797d747540f01683952547ee5b",
     "name": "iZUMi",
     "symbol": "iZi",
@@ -105731,6 +105779,14 @@
     "chainId": 324,
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0x2039bb4116B4EFc145Ec4f0e2eA75012D6C0f181.png"
+  },
+  {
+    "address": "0x2141d7fe06a1d69c016fc638ba75b6ef92fa1435",
+    "name": "zkSync ID",
+    "symbol": "ZKID",
+    "chainId": 324,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0x2141d7fe06A1d69c016fC638bA75b6Ef92Fa1435.png"
   },
   {
     "chainId": 324,
@@ -105771,6 +105827,14 @@
     "symbol": "PERP",
     "decimals": 18,
     "logoURI": "https://firebasestorage.googleapis.com/v0/b/token-library.appspot.com/o/perp.svg?alt=media"
+  },
+  {
+    "address": "0x43cd37cc4b9ec54833c8ac362dd55e58bfd62b86",
+    "name": "Curve USD Stablecoin",
+    "symbol": "crvUSD",
+    "chainId": 324,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0x43cD37CC4B9EC54833c8aC362Dd55E58bFd62b86.png"
   },
   {
     "chainId": 324,
@@ -105821,6 +105885,14 @@
     "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0x4be6f11ee1310ecf29a9d0130a12a9d0885e0c92.png"
   },
   {
+    "address": "0x4ebfb78c4780c304dff7de518db630b67e3f044b",
+    "name": "TiTi",
+    "symbol": "TiTi",
+    "chainId": 324,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0x4EBfb78C4780C304dff7de518db630b67e3F044b.png"
+  },
+  {
     "chainId": 324,
     "address": "0x503234f203fc7eb888eec8513210612a43cf6115",
     "name": "Liquity USD",
@@ -105859,6 +105931,14 @@
     "symbol": "ZKSHIB",
     "decimals": 18,
     "logoURI": "https://github.com/muteio/token-directory/raw/main/icons/zkshib.png"
+  },
+  {
+    "address": "0x5f018e9d51b167aa5eec28037199767b2b31dcb0",
+    "name": "Tiny Coin",
+    "symbol": "TINC",
+    "chainId": 324,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0x5F018E9d51b167aa5eEc28037199767B2B31DCb0.png"
   },
   {
     "address": "0x60143f39b54a731ac790708c8719211878e638c3",
@@ -106069,6 +106149,14 @@
     "logoURI": "https://assets.coingecko.com/coins/images/7598/small/wrapped_bitcoin_wbtc.png?1548822744"
   },
   {
+    "address": "0xbcf7da740a4d3e5b6b92f32167d1ee48a422f955",
+    "name": "PvP Bot",
+    "symbol": "PVP",
+    "chainId": 324,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0xBcF7DA740a4d3e5B6B92f32167D1Ee48A422f955.png"
+  },
+  {
     "chainId": 324,
     "address": "0xbfb4b5616044eded03e5b1ad75141f0d9cb1499b",
     "name": "zkDoge",
@@ -106125,6 +106213,14 @@
     "logoURI": "https://assets.coingecko.com/coins/images/29650/small/wisp_200.png?1681725709"
   },
   {
+    "address": "0xcdb7d260c107499c80b4b748e8331c64595972a1",
+    "name": "KaratDAO",
+    "symbol": "KAT",
+    "chainId": 324,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0xCDb7D260c107499C80B4b748e8331c64595972a1.png"
+  },
+  {
     "address": "0xd0ea21ba66b67be636de1ec4bd9696eb8c61e9aa",
     "name": "Onchain Trade",
     "symbol": "OT",
@@ -106139,6 +106235,22 @@
     "chainId": 324,
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0xd599da85f8fc4877e61f547dfacffe1238a7149e.png"
+  },
+  {
+    "address": "0xd63ef5e9c628c8a0e8984cdfb7444aee44b09044",
+    "name": "GOVI",
+    "symbol": "GOVI",
+    "chainId": 324,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0xD63eF5e9C628c8a0E8984CDfb7444AEE44B09044.png"
+  },
+  {
+    "address": "0xd90764041da2720396863836e9f78ddaee140533",
+    "name": "Wrapped TProtocol T-Bill",
+    "symbol": "wTBT",
+    "chainId": 324,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0xd90764041DA2720396863836E9f78dDaee140533.png"
   },
   {
     "address": "0xdd9f72afed3631a6c85b5369d84875e6c42f1827",
@@ -106171,6 +106283,14 @@
     "chainId": 324,
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0xecd9f240ed3895c77db676004328dd1d246f33c9.png"
+  },
+  {
+    "address": "0xed4040fd47629e7c8fbb7da76bb50b3e7695f0f2",
+    "name": "Holdstation",
+    "symbol": "HOLD",
+    "chainId": 324,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0xed4040fD47629e7c8FBB7DA76bb50B3e7695F0f2.png"
   },
   {
     "chainId": 324,
