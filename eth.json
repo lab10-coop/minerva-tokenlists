@@ -277,7 +277,7 @@
     "name": "BabySmurf9000",
     "symbol": "BS9000",
     "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/32088/thumb/651b1d9e97a1e5d967e6eb3a_2023-10-02_12.38.30_%281%29.jpg?1696530886"
+    "logoURI": "https://assets.coingecko.com/coins/images/32088/thumb/logo2.png?1701897911"
   },
   {
     "chainId": 1,
@@ -393,11 +393,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x00b4651795193daca7e73b5ddd031dfde8ca5720",
     "name": "CHAINMAIL",
-    "symbol": "MAIL",
+    "address": "0x00b4651795193daca7e73b5ddd031dfde8ca5720",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/33431/thumb/Z_hlFCgV_400x400.jpg?1701818031"
+    "symbol": "MAIL",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28603.png"
   },
   {
     "chainId": 1,
@@ -8656,11 +8656,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x186ef81fd8e77eec8bffc3039e7ec41d5fc0b457",
     "name": "Inspect",
-    "symbol": "INSP",
+    "address": "0x186ef81fd8e77eec8bffc3039e7ec41d5fc0b457",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/33422/thumb/200_%281%29.png?1701767509"
+    "symbol": "INSP",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28610.png"
   },
   {
     "chainId": 1,
@@ -21106,6 +21106,14 @@
   },
   {
     "chainId": 1,
+    "name": "5ire",
+    "address": "0x3bd7d4f524d09f4e331577247a048d56e4b67a7f",
+    "decimals": 18,
+    "symbol": "5IRE",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/16919.png"
+  },
+  {
+    "chainId": 1,
     "name": "Opera Protocol",
     "address": "0x3bd8268791de798d4ed5d424d49412cf42b8ec3a",
     "decimals": 9,
@@ -21986,11 +21994,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x3eb9c7ee5f72e51f61e832137719fe8d1e53a2ce",
     "name": "DecentraMind",
-    "symbol": "DMIND",
+    "address": "0x3eb9c7ee5f72e51f61e832137719fe8d1e53a2ce",
     "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/33315/thumb/IMG_20231130_105535_975.jpg?1701413610"
+    "symbol": "DMIND",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28602.png"
   },
   {
     "chainId": 1,
@@ -24095,6 +24103,14 @@
     "decimals": 18,
     "symbol": "IDEAS",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/15992.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x443f9ff91a72f1482d13dfd40eec107bb84ca1e5",
+    "name": "FarmBot",
+    "symbol": "FARM",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/33440/thumb/farmbotlogo200px.jpeg?1701849705"
   },
   {
     "chainId": 1,
@@ -27754,10 +27770,10 @@
   {
     "chainId": 1,
     "address": "0x4e9fcd48af4738e3bf1382009dc1e93ebfce698f",
-    "name": "TAO Inu",
+    "name": "TAO INU",
     "symbol": "TAONU",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/33145/thumb/photo_2023-11-21_23.13.35.jpeg?1700821870"
+    "logoURI": "https://assets.coingecko.com/coins/images/33145/thumb/656b24d78397f73bfbadb752_TAONU_Logo_100x100.jpg?1701861274"
   },
   {
     "chainId": 1,
@@ -33945,11 +33961,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x60927b83ddd2096f38f22a8a2d84cf863402d1a1",
     "name": "Eternal AI",
-    "symbol": "MIND",
+    "address": "0x60927b83ddd2096f38f22a8a2d84cf863402d1a1",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/33340/thumb/download.png?1701525697"
+    "symbol": "MIND",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28609.png"
   },
   {
     "chainId": 1,
@@ -37737,11 +37753,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x6af53c6ec427525f7240e211941223288a0e7c66",
     "name": "Warped Games",
-    "symbol": "WARPED",
+    "address": "0x6af53c6ec427525f7240e211941223288a0e7c66",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/33307/thumb/Warped_Games.png?1701405085"
+    "symbol": "WARPED",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28607.png"
   },
   {
     "chainId": 1,
@@ -45751,14 +45767,6 @@
   },
   {
     "chainId": 1,
-    "name": "DecentraBNB",
-    "address": "0x833850be8858722cfc5e5e75f2fe6275e055d888",
-    "decimals": 9,
-    "symbol": "DBNB",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/21358.png"
-  },
-  {
-    "chainId": 1,
     "name": "PixiaAI",
     "address": "0x833d94797cbea8279a689572b01f310ff5ffa31b",
     "decimals": 18,
@@ -47588,6 +47596,14 @@
     "decimals": 18,
     "symbol": "WALLET",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/17722.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x8880111018c364912dbe5ee61d98942647680888",
+    "name": "Lucky8",
+    "symbol": "888",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/33448/thumb/Frame_742.png?1701856566"
   },
   {
     "chainId": 1,
@@ -53508,11 +53524,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x99f618edcfedca1fcc8302e14daa84802114a8c5",
     "name": "DecentraBNB",
+    "address": "0x99f618edcfedca1fcc8302e14daa84802114a8c5",
+    "decimals": 18,
     "symbol": "DBNB",
-    "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/26544/thumb/Screenshot_2022-07-22_at_18.16.11.png?1696525617"
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/21358.png"
   },
   {
     "chainId": 1,
@@ -60323,6 +60339,14 @@
   },
   {
     "chainId": 1,
+    "address": "0xad5fdc8c3c18d50315331fca7f66efe5033f6c4c",
+    "name": "Crazy Frog",
+    "symbol": "CRAZY",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/33451/thumb/photo_2023-12-05_09.13.36.jpeg?1701859131"
+  },
+  {
+    "chainId": 1,
     "address": "0xad5fe5b0b8ec8ff4565204990e4405b2da117d8e",
     "name": "TronClassic",
     "symbol": "TRXC",
@@ -61056,6 +61080,14 @@
     "decimals": 8,
     "symbol": "DIG",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2659.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xaf4ce7cd4f8891ecf1799878c3e9a35b8be57e09",
+    "name": "KUMA Protocol Wrapped USK",
+    "symbol": "WUSK",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/33446/thumb/USK.png?1701888542"
   },
   {
     "chainId": 1,
@@ -63246,6 +63278,14 @@
     "symbol": "PELO",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/31371/thumb/7gd1S3fr_400x400.jpg?1696530188"
+  },
+  {
+    "chainId": 1,
+    "address": "0xb5d730d442e1d5b119fb4e5c843c48a64202ef92",
+    "name": "Sabai Ecoverse",
+    "symbol": "SABAI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/29573/thumb/Logo_%283%29.png?1700872659"
   },
   {
     "chainId": 1,
@@ -68208,6 +68248,14 @@
     "decimals": 18,
     "symbol": "PHIBA",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/9768.png"
+  },
+  {
+    "chainId": 1,
+    "name": "GROK",
+    "address": "0xc4d63ec16cac683d76759fd10ace60d08051c43b",
+    "decimals": 18,
+    "symbol": "GROK",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28606.png"
   },
   {
     "chainId": 1,
@@ -75258,11 +75306,11 @@
   },
   {
     "chainId": 1,
-    "address": "0xd9adfb67381d392c6e9671f64cdd9014bfcd74f2",
     "name": "Morra",
-    "symbol": "MORRA",
+    "address": "0xd9adfb67381d392c6e9671f64cdd9014bfcd74f2",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/33180/thumb/CGicon.png?1700924946"
+    "symbol": "MORRA",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28518.png"
   },
   {
     "chainId": 1,
@@ -75415,6 +75463,14 @@
     "decimals": 18,
     "symbol": "ORBR",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/17520.png"
+  },
+  {
+    "chainId": 1,
+    "name": "BitStable",
+    "address": "0xda31d0d1bc934fc34f7189e38a413ca0a5e8b44f",
+    "decimals": 18,
+    "symbol": "BSSB",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28608.png"
   },
   {
     "chainId": 1,
@@ -83173,6 +83229,14 @@
     "decimals": 18,
     "symbol": "CITY",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7754.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xf282484234d905d7229a6c22a0e46bb4b0363ee0",
+    "name": "Revswap",
+    "symbol": "RVS",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/33437/thumb/20231205_174957.png?1701847754"
   },
   {
     "chainId": 1,
