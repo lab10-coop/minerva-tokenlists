@@ -503,6 +503,14 @@
     ]
   },
   {
+    "name": "MetaTrace",
+    "address": "0x40d9fc77027a281d85de1fa660c887e645ae26c3",
+    "symbol": "TRC",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://polygonscan.com/token/images/metatraceme_32.png?=v34"
+  },
+  {
     "name": "Nexo",
     "address": "0x41b3966b4ff7b427969ddf5da3627d6aeae9a48e",
     "symbol": "NEXO",
@@ -916,7 +924,7 @@
     "symbol": "GAIA",
     "decimals": 18,
     "chainId": 137,
-    "logoURI": "https://assets.coingecko.com/coins/images/19629/small/gaia_icon_new.png?1637559277"
+    "logoURI": "https://i.postimg.cc/hPwSy2M1/gaiabluecircle.png"
   },
   {
     "name": "NEAR",
@@ -1295,6 +1303,14 @@
     "logoURI": "https://i.ibb.co/HGWTLM7/Quick-Icon-V2.png"
   },
   {
+    "name": "first choice coin",
+    "address": "0xb6c3c00d730acca326db40e418353f04f7444e2b",
+    "symbol": "fcc",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://i.imgur.com/HjLOAFX.png"
+  },
+  {
     "name": "Wise Token",
     "address": "0xb77e62709e39ad1cbeebe77cf493745aec0f453a",
     "symbol": "WISE",
@@ -1585,6 +1601,14 @@
     "logoURI": "https://assets.coingecko.com/coins/images/19479/small/agEUR.png?1635283566"
   },
   {
+    "name": "WiFi Map",
+    "address": "0xe238ecb42c424e877652ad82d8a939183a04c35f",
+    "symbol": "WIFI",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://i.imgur.com/xmpexhx.png"
+  },
+  {
     "name": "Guild Member Token",
     "address": "0xe40d881cf66e1f6d19979a5ff6c830c6af65d278",
     "symbol": "GM",
@@ -1599,6 +1623,14 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://gains.trade/images/logo.png"
+  },
+  {
+    "name": "ApeBond",
+    "address": "0xe6828d65bf5023ae1851d90d8783cc821ba7eee1",
+    "symbol": "ABOND",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://dashboard-assets.dappradar.com/document/5635/apebond-dapp-exchanges-5635-logo-166x166_c19d8d83d1eac190b5a3be428c338b59.png"
   },
   {
     "chainId": 137,
@@ -1793,12 +1825,28 @@
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png"
   },
   {
+    "name": "GOK",
+    "address": "0x387660bc95682587efc12c543c987abf0fb9778f",
+    "symbol": "GOK",
+    "decimals": 18,
+    "chainId": 169,
+    "logoURI": "https://raw.githubusercontent.com/Goku-Money/Media-kit/main/token_GOK.png"
+  },
+  {
     "name": "USD Coin",
     "address": "0xb73603c5d87fa094b7314c74ace2e64d165016fb",
     "symbol": "USDC",
     "decimals": 6,
     "chainId": 169,
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+  },
+  {
+    "name": "GAI",
+    "address": "0xcd91716ef98798a85e79048b78287b13ae6b99b2",
+    "symbol": "GAI",
+    "decimals": 18,
+    "chainId": 169,
+    "logoURI": "https://raw.githubusercontent.com/Goku-Money/Media-kit/main/token_GAI.png"
   },
   {
     "name": "QuickSwap",
