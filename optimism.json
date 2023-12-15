@@ -627,6 +627,19 @@
   },
   {
     "chainId": 1,
+    "address": "0x48afbbd342f64ef8a9ab1c143719b63c2ad81710",
+    "name": "MetaPoolETH",
+    "symbol": "mpETH",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/mpETH/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1",
+      "opListId": "extended",
+      "opTokenId": "mpETH"
+    }
+  },
+  {
+    "chainId": 1,
     "address": "0x491604c0fdf08347dd1fa4ee062a822a5dd06b5d",
     "name": "Cartesi Token",
     "symbol": "CTSI",
@@ -2533,6 +2546,19 @@
   },
   {
     "chainId": 5,
+    "address": "0x748c905130cc15b92b97084fd1eebc2d2419146f",
+    "name": "MetaPoolETH",
+    "symbol": "mpETH",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/mpETH/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x636Af16bf2f682dD3109e60102b8E1A089FedAa8",
+      "opListId": "extended",
+      "opTokenId": "mpETH"
+    }
+  },
+  {
+    "chainId": 5,
     "address": "0x753bd3e00b9585ac9a94fdf287f41d8d51e5cf8b",
     "name": "WAMP",
     "symbol": "WMP",
@@ -3619,6 +3645,19 @@
   },
   {
     "chainId": 10,
+    "address": "0x819845b60a192167ed1139040b4f8eca31834f27",
+    "name": "MetaPoolETH",
+    "symbol": "mpETH",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/mpETH/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "mpETH"
+    }
+  },
+  {
+    "chainId": 10,
     "address": "0x81ab7e0d570b01411fcc4afd3d50ec8c241cb74b",
     "name": "Equalizer",
     "symbol": "EQZ",
@@ -4607,6 +4646,19 @@
       "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "extended",
       "opTokenId": "MOM"
+    }
+  },
+  {
+    "chainId": 420,
+    "address": "0x4a36562d5d7074f8ee664922b320e066e67c2a24",
+    "name": "MetaPoolETH",
+    "symbol": "mpETH",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/mpETH/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "mpETH"
     }
   },
   {
