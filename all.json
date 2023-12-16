@@ -3792,6 +3792,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x0a8f4c4f23d72857745e26695dcd8dedf8e349b9",
+    "name": "Marksman",
+    "symbol": "MARKS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/33658/thumb/mlogo.png?1702598130"
+  },
+  {
+    "chainId": 1,
     "name": "DOS Network",
     "address": "0x0a913bead80f321e7ac35285ee10d9d922659cb7",
     "decimals": 18,
@@ -7797,6 +7805,14 @@
     "decimals": 18,
     "symbol": "WSB",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/24755.png"
+  },
+  {
+    "chainId": 1,
+    "name": "SMARTSET TOKEN",
+    "address": "0x15f73a3ab443ee6ebf36c605c7868159ce5d028c",
+    "decimals": 9,
+    "symbol": "SST",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28713.png"
   },
   {
     "chainId": 1,
@@ -21706,6 +21722,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x3d1e5cf16077f349e999d6b21a4f646e83cd90c5",
+    "name": "Stakehouse dETH",
+    "symbol": "DETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/33657/thumb/dETH.png?1702598011"
+  },
+  {
+    "chainId": 1,
     "name": "OMEGA FINANCE",
     "address": "0x3d1f5e133c2988d14a0c13bdd2b58d260e74ef9a",
     "decimals": 9,
@@ -28801,6 +28825,14 @@
   },
   {
     "chainId": 1,
+    "name": "GTAVI",
+    "address": "0x50e366365b01bf575538212a0155af552120494e",
+    "decimals": 9,
+    "symbol": "GTAVI",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28723.png"
+  },
+  {
+    "chainId": 1,
     "name": "CenterPrime",
     "address": "0x50eb3b7f3efd3fc8ece83e2012dc9367422b3f91",
     "decimals": 18,
@@ -29878,6 +29910,14 @@
     "decimals": 18,
     "symbol": "TXT",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/12208.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x5483dc6abda5f094865120b2d251b5744fc2ecb5",
+    "name": "TaoPad",
+    "symbol": "TPAD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/33664/thumb/TAOWHITE.png?1702631267"
   },
   {
     "chainId": 1,
@@ -46215,11 +46255,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x8365332d4baf69bc24ca2401b90c3853ab9f818e",
     "name": "Wolf of Wall Street",
-    "symbol": "WOLF",
+    "address": "0x8365332d4baf69bc24ca2401b90c3853ab9f818e",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/31461/thumb/Cmc_wolf_2.png?1696530274"
+    "symbol": "$WOLF",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28722.png"
   },
   {
     "chainId": 1,
@@ -54476,6 +54516,14 @@
   },
   {
     "chainId": 1,
+    "name": "Meme Alliance",
+    "address": "0x9b3a8159e119eb09822115ae08ee1526849e1116",
+    "decimals": 9,
+    "symbol": "MMA",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28725.png"
+  },
+  {
+    "chainId": 1,
     "name": "Puregold Token",
     "address": "0x9b3e946e1a8ea0112b147af4e6e020752f2446bc",
     "decimals": 18,
@@ -57828,7 +57876,7 @@
   },
   {
     "chainId": 1,
-    "name": "USDS Classic",
+    "name": "Stably USD Classic",
     "address": "0xa4bdb11dc0a2bec88d24a3aa1e6bb17201112ebe",
     "decimals": 6,
     "symbol": "USDSC",
@@ -62483,6 +62531,14 @@
   },
   {
     "chainId": 1,
+    "name": "Green",
+    "address": "0xb2089a7069861c8d90c8da3aacab8e9188c0c531",
+    "decimals": 8,
+    "symbol": "GREEN",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28720.png"
+  },
+  {
+    "chainId": 1,
     "name": "Blossom",
     "address": "0xb208b1a5664574f72d22e9e9981837310cacfed6",
     "decimals": 9,
@@ -63765,7 +63821,7 @@
     "name": "Sabai Ecoverse",
     "symbol": "SABAI",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/29573/thumb/Logo_%283%29.png?1700872659"
+    "logoURI": "https://assets.coingecko.com/coins/images/29573/thumb/Logo_CMC.png?1702661154"
   },
   {
     "chainId": 1,
@@ -64905,11 +64961,11 @@
   },
   {
     "chainId": 1,
+    "name": "Magnum Trading",
     "address": "0xb9d4b6dc1e1ee3577cc442de015cc11f238b35ed",
-    "name": "Magnum",
-    "symbol": "MAG",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/33531/thumb/20231213_112204.jpg?1702499402"
+    "symbol": "MAG",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28716.png"
   },
   {
     "chainId": 1,
@@ -71981,8 +72037,8 @@
   {
     "chainId": 1,
     "address": "0xce3f08e664693ca792cace4af1364d5e220827b2",
-    "name": "Saitama",
-    "symbol": "SAITAMA",
+    "name": "SaitaChain Coin",
+    "symbol": "STC",
     "decimals": 9,
     "logoURI": "https://assets.coingecko.com/coins/images/16353/thumb/SOIKDUWf_400x400.jpeg?1696515952"
   },
@@ -73244,14 +73300,6 @@
   },
   {
     "chainId": 1,
-    "address": "0xd23ed8ca350ce2631f7ecdc5e6bf80d0a1debb7b",
-    "name": "Planq",
-    "symbol": "PLQ",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/29100/thumb/Planq_256x256-circle.png?1696528063"
-  },
-  {
-    "chainId": 1,
     "name": "Hoo Token",
     "address": "0xd241d7b5cb0ef9fc79d9e4eb9e21f5e209f52f7d",
     "decimals": 8,
@@ -73590,7 +73638,7 @@
     "chainId": 1,
     "name": "ArkiTech",
     "address": "0xd3210f246ae54c5a45a7b4a83315bf718f591bfc",
-    "decimals": 9,
+    "decimals": 18,
     "symbol": "ARKI",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28707.png"
   },
@@ -74672,6 +74720,14 @@
     "decimals": 18,
     "symbol": "WDP",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7865.png"
+  },
+  {
+    "chainId": 1,
+    "name": "UBD Network",
+    "address": "0xd624e5c89466a15812c1d45ce1533be1f16c1702",
+    "decimals": 18,
+    "symbol": "UBDN",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28714.png"
   },
   {
     "chainId": 1,
@@ -78048,6 +78104,14 @@
     "decimals": 18,
     "symbol": "MANC",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/19624.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xe0c28a5a2da3920946e8bf821f61f7bea311048b",
+    "name": "Stakehouse kETH",
+    "symbol": "KETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/33656/thumb/kETH.png?1702597766"
   },
   {
     "chainId": 1,
@@ -82059,14 +82123,6 @@
   },
   {
     "chainId": 1,
-    "address": "0xed66954f85cc9e2eaa85f74df39e1aff9b4ceeba",
-    "name": "MrsPepe",
-    "symbol": "MRSPEPE",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/30155/thumb/IMG_20230504_192148_558.jpg?1696529075"
-  },
-  {
-    "chainId": 1,
     "name": "TokenSwap",
     "address": "0xed6aad9650815d1647480caa1133043800d31533",
     "decimals": 18,
@@ -83143,6 +83199,14 @@
     "decimals": 18,
     "symbol": "UNIDX",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/8232.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Magicverse",
+    "address": "0xf06dfed9aa6d4206ebbc0ef2a93567e794592364",
+    "decimals": 18,
+    "symbol": "ORB",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28718.png"
   },
   {
     "chainId": 1,
@@ -89244,6 +89308,14 @@
     "name": "Energy Web Token",
     "decimals": 18,
     "logoURI": "ipfs://QmPx8qAq3NifpADHkDKJb8qyTT8DdsDH5N36wbSYMWkMRF"
+  },
+  {
+    "chainId": 100,
+    "address": "0x6c76971f98945ae98dd7d4dfca8711ebea946ea6",
+    "symbol": "wstETH",
+    "name": "Wrapped Staked Ether",
+    "decimals": 18,
+    "logoURI": "ipfs://QmPLyg2t9yytzoezeSMUQkGuRifstCJdm9HGhSKL2zbkTE"
   },
   {
     "chainId": 100,
