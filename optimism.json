@@ -776,6 +776,7 @@
     "logoURI": "https://ethereum-optimism.github.io/data/LUSD/logo.svg",
     "extensions": {
       "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1",
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
       "opListId": "default",
       "opTokenId": "LUSD"
     }
@@ -896,6 +897,18 @@
       "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
       "opListId": "extended",
       "opTokenId": "SUSHI"
+    }
+  },
+  {
+    "chainId": 1,
+    "address": "0x720cd16b011b987da3518fbf38c3071d4f0d1495",
+    "name": "Flux",
+    "symbol": "FLUX",
+    "decimals": 8,
+    "logoURI": "https://ethereum-optimism.github.io/data/FLUX/logo.svg",
+    "extensions": {
+      "opListId": "extended",
+      "opTokenId": "FLUX"
     }
   },
   {
@@ -1520,6 +1533,7 @@
     "logoURI": "https://ethereum-optimism.github.io/data/ARPA/logo.svg",
     "extensions": {
       "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1",
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
       "opListId": "extended",
       "opTokenId": "ARPA"
     }
@@ -5038,6 +5052,19 @@
   },
   {
     "chainId": 8453,
+    "address": "0x1c9fa01e87487712706fb469a13beb234262c867",
+    "name": "ARPA Token",
+    "symbol": "ARPA",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/ARPA/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "ARPA"
+    }
+  },
+  {
+    "chainId": 8453,
     "address": "0x1f73eaf55d696bffa9b0ea16fa987b93b0f4d302",
     "name": "Rocket Pool Protocol",
     "symbol": "RPL",
@@ -5122,6 +5149,19 @@
     "extensions": {
       "opListId": "extended",
       "opTokenId": "BLUE"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0x368181499736d0c0cc614dbb145e2ec1ac86b8c6",
+    "name": "LUSD Stablecoin",
+    "symbol": "LUSD",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/LUSD/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "default",
+      "opTokenId": "LUSD"
     }
   },
   {
@@ -5507,6 +5547,18 @@
       "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "extended",
       "opTokenId": "DOG"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb008bdcf9cdff9da684a190941dc3dca8c2cdd44",
+    "name": "Flux",
+    "symbol": "FLUX",
+    "decimals": 8,
+    "logoURI": "https://ethereum-optimism.github.io/data/FLUX/logo.svg",
+    "extensions": {
+      "opListId": "extended",
+      "opTokenId": "FLUX"
     }
   },
   {
