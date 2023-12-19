@@ -881,6 +881,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x01e1d7cbd3bc0eb1030485f33708421011459459",
+    "name": "TOAD",
+    "symbol": "TOAD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/33716/thumb/TOAD.png?1702897534"
+  },
+  {
+    "chainId": 1,
     "name": "COINBIG",
     "address": "0x01e45b8d0c51f05f17385dd3416fe3aa5bfd89ac",
     "decimals": 18,
@@ -6384,6 +6392,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x120d3d081cdfc62cfaf99638f12703e4b9a6c4bc",
+    "symbol": "SAITAMA",
+    "name": "Saitama Classic",
+    "decimals": 18,
+    "logoURI": "ipfs://QmQLRXsGo7WoTwNdmnqz7muyshsQ6YzSe11KrLpEmpq5ke"
+  },
+  {
+    "chainId": 1,
     "name": "Efficient Transaction Token",
     "address": "0x1212b68d8555cf0b08f3371b926b3e1148b520f1",
     "decimals": 18,
@@ -6976,6 +6992,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x13c4b558f6663329c13c838cc0b5b796f7fc0531",
+    "name": "Horizon",
+    "symbol": "HRZN",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/33740/thumb/moon.jpg?1702903432"
+  },
+  {
+    "chainId": 1,
     "name": "Material",
     "address": "0x13c99770694f07279607a6274f28a28c33086424",
     "decimals": 18,
@@ -7477,14 +7501,6 @@
     "decimals": 18,
     "symbol": "CAKE",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7186.png"
-  },
-  {
-    "chainId": 1,
-    "name": "DeltaHub Community",
-    "address": "0x152687bc4a7fcc89049cf119f9ac3e5acf2ee7ef",
-    "decimals": 18,
-    "symbol": "DHC",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7260.png"
   },
   {
     "chainId": 1,
@@ -12667,11 +12683,11 @@
   },
   {
     "chainId": 1,
+    "name": "UNIPOLY",
     "address": "0x23d7ff057c696fee679c60cef61fee6614218f04",
-    "name": "Unipoly",
-    "symbol": "UNP",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/32510/thumb/20231018_231410.png?1698398961"
+    "symbol": "UNP",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28735.png"
   },
   {
     "chainId": 1,
@@ -23098,11 +23114,11 @@
   },
   {
     "chainId": 1,
+    "name": "AigentX",
     "address": "0x40e9187078032afe1a30cfcf76e4fe3d7ab5c6c5",
-    "name": "AIgentX",
-    "symbol": "AIX",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/31860/thumb/logo22.jpg?1698917072"
+    "symbol": "AIX",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28734.png"
   },
   {
     "chainId": 1,
@@ -23895,6 +23911,13 @@
     "decimals": 18,
     "symbol": "SPANK",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2219.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x42dae489f1ca3764aabe1907c22bc18776415fcd",
+    "name": "VibingCatToken",
+    "symbol": "VCT",
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -30929,6 +30952,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x5713c26280647adad2f25bb54376943ecaa9d8e3",
+    "name": "Elon Xmas",
+    "symbol": "XMAS",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/33721/thumb/Elon_Xmas.png?1702885377"
+  },
+  {
+    "chainId": 1,
     "name": "Champignons of Arborethia",
     "address": "0x571e21a545842c6ce596663cda5caa8196ac1c7a",
     "decimals": 8,
@@ -31102,6 +31133,14 @@
     "decimals": 18,
     "symbol": "KODACHI",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/21464.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x57ca1f39b0757b8610617e90fa9b2980ccebfece",
+    "name": "OrdinalsFi",
+    "symbol": "ORDIFI",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/33723/thumb/ordinalsfi200.png?1702885610"
   },
   {
     "chainId": 1,
@@ -57884,11 +57923,11 @@
   },
   {
     "chainId": 1,
-    "name": "Deri Protocol",
     "address": "0xa487bf43cf3b10dffc97a9a744cbb7036965d3b9",
-    "decimals": 18,
+    "name": "Deri Protocol",
     "symbol": "DERI",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/8424.png"
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/13931/thumb/200vs200.jpg?1696513670"
   },
   {
     "chainId": 1,
@@ -58249,6 +58288,14 @@
     "decimals": 18,
     "symbol": "UTU",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7587.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Xrise",
+    "address": "0xa58a83361936471b50e2d1c7f99d422e6d73d397",
+    "decimals": 18,
+    "symbol": "XRISE",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28736.png"
   },
   {
     "chainId": 1,
@@ -64921,6 +64968,14 @@
   },
   {
     "chainId": 1,
+    "name": "Gemini AI",
+    "address": "0xb954562066c71b3e6e7b2ac330b03c74c0dcd5ae",
+    "decimals": 9,
+    "symbol": "GEMINI",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28739.png"
+  },
+  {
+    "chainId": 1,
     "name": "TenX",
     "address": "0xb97048628db6b661d4c2aa833e95dbe1a905b280",
     "decimals": 18,
@@ -65038,6 +65093,14 @@
     "decimals": 18,
     "symbol": "TMT",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7246.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Carbify",
+    "address": "0xb9d27bc093ed0a3b7c18366266704cfe5e7af77b",
+    "decimals": 18,
+    "symbol": "CBY",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/24521.png"
   },
   {
     "chainId": 1,
@@ -65174,6 +65237,14 @@
     "decimals": 18,
     "symbol": "SWFL",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/6799.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xba25b2281214300e4e649fead9a6d6acd25f1c0a",
+    "name": "Tree Capital",
+    "symbol": "TREE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/33727/thumb/logo-cmc.png?1702888415"
   },
   {
     "chainId": 1,
@@ -75251,6 +75322,14 @@
   },
   {
     "chainId": 1,
+    "address": "0xd7b2c1a7f3c67fb0ea57a7ef29bc1f18d7be3195",
+    "name": "VoluMint",
+    "symbol": "VMINT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/33745/thumb/volumint_200x200px_clearbg.png?1702924153"
+  },
+  {
+    "chainId": 1,
     "name": "Seal Network",
     "address": "0xd7b3669c7d3e38ab5a441383d41f25e003e02148",
     "decimals": 18,
@@ -77800,6 +77879,14 @@
     "decimals": 18,
     "symbol": "FIND",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/6443.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xdf87270e04bc5ac140e93571d0dd0c6f4a058b41",
+    "name": "Moolahverse",
+    "symbol": "MLH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/33724/thumb/mlh-logo-200x200.png?1702886528"
   },
   {
     "chainId": 1,
@@ -83846,6 +83933,14 @@
     "decimals": 18,
     "symbol": "WNCG",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/11222.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xf2041be4ea84599818799eed882389a8a30d2226",
+    "name": "NeuralBot",
+    "symbol": "NEURAL",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/33717/thumb/Neuralbot_ai.png?1702880084"
   },
   {
     "chainId": 1,
