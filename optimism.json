@@ -1318,6 +1318,20 @@
   },
   {
     "chainId": 1,
+    "address": "0x9f52c8ecbee10e00d9faaac5ee9ba0ff6550f511",
+    "name": "Sipher Token",
+    "symbol": "SIPHER",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/SIPHER/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1",
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "opListId": "extended",
+      "opTokenId": "SIPHER"
+    }
+  },
+  {
+    "chainId": 1,
     "address": "0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2",
     "name": "Maker",
     "symbol": "MKR",
@@ -1819,6 +1833,7 @@
     "logoURI": "https://ethereum-optimism.github.io/data/weETH/logo.svg",
     "extensions": {
       "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1",
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
       "opListId": "extended",
       "opTokenId": "weETH"
     }
@@ -4051,6 +4066,19 @@
   },
   {
     "chainId": 10,
+    "address": "0xb94944669f7967e16588e55ac41be0d5ef399dcd",
+    "name": "Sipher Token",
+    "symbol": "SIPHER",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/SIPHER/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "SIPHER"
+    }
+  },
+  {
+    "chainId": 10,
     "address": "0xba1cf949c382a32a09a17b2adf3587fc7fa664f1",
     "name": "Solana",
     "symbol": "SOL",
@@ -5305,6 +5333,19 @@
   },
   {
     "chainId": 8453,
+    "address": "0x4c94de27c94962dba6ebb77924ac54189db75efa",
+    "name": "Wrapped eETH",
+    "symbol": "weETH",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/weETH/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "weETH"
+    }
+  },
+  {
+    "chainId": 8453,
     "address": "0x50c5725949a6f0c72e6c4a641f24049a917db0cb",
     "name": "Dai Stablecoin",
     "symbol": "DAI",
@@ -5697,6 +5738,19 @@
       "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "extended",
       "opTokenId": "FARM"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0xd0d1e44fc9adaeb732f73ffc2429cd1db9cd4529",
+    "name": "Sipher Token",
+    "symbol": "SIPHER",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/SIPHER/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "SIPHER"
     }
   },
   {
