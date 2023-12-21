@@ -1161,14 +1161,6 @@
   },
   {
     "chainId": 1,
-    "name": "Rejuve.AI",
-    "address": "0x02c3296c6eb50249f290ae596f2be9454bffadab",
-    "decimals": 18,
-    "symbol": "RJV",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/23769.png"
-  },
-  {
-    "chainId": 1,
     "name": "InvestDigital",
     "address": "0x02c4c78c462e32cca4a90bc499bf411fb7bc6afb",
     "decimals": 18,
@@ -5013,6 +5005,14 @@
     "decimals": 8,
     "symbol": "POE",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/1937.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x0e13914f4fe838e96346ce42f588193eb17d92b6",
+    "name": "Lemon Terminal",
+    "symbol": "LEMON",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/33837/thumb/cmc.png?1703107858"
   },
   {
     "chainId": 1,
@@ -10836,8 +10836,8 @@
   {
     "chainId": 1,
     "address": "0x1e610de0d7acfa1d820024948a91d96c5c9ce6b9",
-    "name": "Flooring Protocol  BoredApeYachtClub",
-    "symbol": "BAYC",
+    "name": "FP  BoredApeYachtClub",
+    "symbol": "UBAYC",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/32690/thumb/bayctoken.png?1698974036"
   },
@@ -11627,11 +11627,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x20a62aca58526836165ca53fe67dd884288c8abf",
     "name": "Rentible",
-    "symbol": "RNB",
+    "address": "0x20a62aca58526836165ca53fe67dd884288c8abf",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/15176/thumb/Rentible-Token-Logo.png?1696514831"
+    "symbol": "RNB",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/9766.png"
   },
   {
     "chainId": 1,
@@ -14931,14 +14931,6 @@
   },
   {
     "chainId": 1,
-    "name": "Rentible",
-    "address": "0x2a039b1d9bbdccbb91be28691b730ca893e5e743",
-    "decimals": 18,
-    "symbol": "RNB",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/9766.png"
-  },
-  {
-    "chainId": 1,
     "name": "Dreamverse",
     "address": "0x2a03a891add2dc6d0f7b94419086630ba5cb65b6",
     "decimals": 18,
@@ -17316,8 +17308,8 @@
   {
     "chainId": 1,
     "address": "0x30f7c830e0c2f4bec871df809d73e27ef19eb151",
-    "name": "Flooring Protocol  PudgyPenguins",
-    "symbol": "PPG",
+    "name": "FP  PudgyPenguins",
+    "symbol": "UPPG",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/32691/thumb/pudgy_penguins_64_64.png?1698974130"
   },
@@ -19228,8 +19220,8 @@
   {
     "chainId": 1,
     "address": "0x359108ca299ca693502ef217e2109ad02aa4277c",
-    "name": "Flooring Protocol  MutantApeYachtClub",
-    "symbol": "MAYC",
+    "name": "FP  MutantApeYachtClub",
+    "symbol": "UMAYC",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/32675/thumb/mayc_logo.69fd41b5.png?1698911670"
   },
@@ -19628,8 +19620,8 @@
   {
     "chainId": 1,
     "address": "0x36a17b52b5322846fcf894ee1535c8aa23df6765",
-    "name": "Flooring Protocol  Potatoz",
-    "symbol": "POTATOZ",
+    "name": "FP  Potatoz",
+    "symbol": "UPOTATOZ",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/32779/thumb/mpotatoz_%282%29.png?1699350069"
   },
@@ -19776,14 +19768,6 @@
     "symbol": "MADAI",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/29836/thumb/maDAI.jpg?1696528763"
-  },
-  {
-    "chainId": 1,
-    "address": "0x36feca97a4e81f4e1260119fae0c572a98832285",
-    "name": "Chainswitch",
-    "symbol": "SWITCH",
-    "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/30778/thumb/chainswitch_loho.png?1696529646"
   },
   {
     "chainId": 1,
@@ -21123,8 +21107,8 @@
   {
     "chainId": 1,
     "address": "0x3acfc40a19520d97648eb7c0891e747b7f2b0283",
-    "name": "Flooring Protocol  Azuki",
-    "symbol": "AZUKI",
+    "name": "FP  Azuki",
+    "symbol": "UAZUKI",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/32676/thumb/vsF28_QV_400x400.jpg?1698911738"
   },
@@ -21818,6 +21802,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x3d0293f06daf4311b482564330d57c8db6c10893",
+    "name": "Y Coin",
+    "symbol": "YCO",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/14128/thumb/BIG-POTAT-200x200-removebg-preview.png?1696513849"
+  },
+  {
+    "chainId": 1,
     "name": "CreaEther",
     "address": "0x3d166dd13dfdca66879bdd45dc224d07c8855cdb",
     "decimals": 18,
@@ -22263,6 +22255,14 @@
     "symbol": "SEILOR",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/31252/thumb/Kryptonite_PFP-03.png?1696530076"
+  },
+  {
+    "chainId": 1,
+    "address": "0x3e70f6806171873d17d4bfc984a6f9d20f5a9018",
+    "name": "BrianArmstrongTrumpYellen",
+    "symbol": "COIN",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/33839/thumb/0x3e70f6806171873d17d4bfc984a6f9d20f5a9018.png?1703108075"
   },
   {
     "chainId": 1,
@@ -23986,8 +23986,8 @@
   {
     "chainId": 1,
     "address": "0x42f1ffeabd9551aec26d70257c8a4d4c31b72180",
-    "name": "Flooring Protocol  0N1Force",
-    "symbol": "0N1",
+    "name": "FP  0N1Force",
+    "symbol": "U0N1",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/32786/thumb/0N1.png?1699353080"
   },
@@ -24106,8 +24106,8 @@
   {
     "chainId": 1,
     "address": "0x433fb346139e4eb5e513ae5fd77bd98614b153b1",
-    "name": "Flooring Protocol  Beanz",
-    "symbol": "BEANZ",
+    "name": "FP  Beanz",
+    "symbol": "UBEANZ",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/32784/thumb/beanz_%281%29.png?1699352128"
   },
@@ -24934,14 +24934,6 @@
     "decimals": 18,
     "symbol": "ROGE",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/13544.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x4574562e9310a94f9ca962bd23168d8a06875b1a",
-    "name": "TROY",
-    "symbol": "TROY",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/10057/thumb/troy.png?1696510087"
   },
   {
     "chainId": 1,
@@ -28537,8 +28529,8 @@
   {
     "chainId": 1,
     "address": "0x4fa5836b58d6f1877a616e7833c7350781e21202",
-    "name": "Flooring Protocol  Otherdeed",
-    "symbol": "OTHR",
+    "name": "FP  Otherdeed",
+    "symbol": "UOTHR",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/32766/thumb/othr_%281%29.png?1699332911"
   },
@@ -31008,11 +31000,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x5713c26280647adad2f25bb54376943ecaa9d8e3",
     "name": "Elon Xmas",
-    "symbol": "XMAS",
+    "address": "0x5713c26280647adad2f25bb54376943ecaa9d8e3",
     "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/33721/thumb/Elon_Xmas.png?1702885377"
+    "symbol": "XMAS",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28781.png"
   },
   {
     "chainId": 1,
@@ -31192,11 +31184,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x57ca1f39b0757b8610617e90fa9b2980ccebfece",
     "name": "OrdinalsFi",
-    "symbol": "ORDIFI",
+    "address": "0x57ca1f39b0757b8610617e90fa9b2980ccebfece",
     "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/33723/thumb/ordinalsfi200.png?1702885610"
+    "symbol": "ORDIFI",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28772.png"
   },
   {
     "chainId": 1,
@@ -34200,10 +34192,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x5fc111f3fa4c6b32eaf65659cfebdeed57234069",
     "name": "0xGasless",
+    "address": "0x5fc111f3fa4c6b32eaf65659cfebdeed57234069",
+    "decimals": 18,
     "symbol": "0XGAS",
-    "decimals": 18
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/27008.png"
   },
   {
     "chainId": 1,
@@ -39016,8 +39009,8 @@
   {
     "chainId": 1,
     "address": "0x6cd7fc3118a8ffa40af0f99f3cbda54b0c6d4d1d",
-    "name": "Flooring Protocol  Milady",
-    "symbol": "MIL",
+    "name": "FP  Milady",
+    "symbol": "UMIL",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/32768/thumb/milady_logo.9816562c.png?1699337545"
   },
@@ -46630,8 +46623,8 @@
   {
     "chainId": 1,
     "address": "0x83f5b9c25cc8fce0a7d4a1bda904bf13cfcdd9da",
-    "name": "Flooring Protocol  DeGods",
-    "symbol": "DEGODS",
+    "name": "FP  DeGods",
+    "symbol": "UDEGODS",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/32765/thumb/degods_%281%29.png?1699332561"
   },
@@ -49613,8 +49606,8 @@
   {
     "chainId": 1,
     "address": "0x8c3d11360a70fb708762b394be8ef23e3a633e3f",
-    "name": "Flooring Protocol  BoredApeKennelClub",
-    "symbol": "BAKC",
+    "name": "FP  BoredApeKennelClub",
+    "symbol": "UBAKC",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/32778/thumb/UBAKC_%281%29.png?1699349512"
   },
@@ -51276,14 +51269,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x915ea4a94b61b138b568169122903ed707a8e704",
-    "name": "Wrapped Ordichains",
-    "symbol": "WOICH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/30787/thumb/2000_2000.png?1696529654"
-  },
-  {
-    "chainId": 1,
     "name": "GoalTime N",
     "address": "0x916885426255235da7a0bd90447986c00675f9ec",
     "decimals": 18,
@@ -52437,7 +52422,7 @@
   {
     "chainId": 1,
     "address": "0x94dd57da120c7c564d9aa438773068705e828781",
-    "name": "Journey AI",
+    "name": "Journey",
     "symbol": "JRNY",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/33707/thumb/A541vx-O_400x400.jpg?1702854357"
@@ -53484,8 +53469,8 @@
   {
     "chainId": 1,
     "address": "0x97bd0d0a3e9635325ec0b383cff62914a7d50642",
-    "name": "Flooring Protocol  SappySeals",
-    "symbol": "SAPS",
+    "name": "FP  SappySeals",
+    "symbol": "USAPS",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/32787/thumb/saps_%281%29.png?1699353354"
   },
@@ -53922,11 +53907,11 @@
   },
   {
     "chainId": 1,
-    "name": "0xGasless",
     "address": "0x994a258c7dec633b5b15376f850d5ea701179e79",
-    "decimals": 18,
+    "name": "0xGasless  OLD ",
     "symbol": "0XGAS",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/27008.png"
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/31345/thumb/0XGAS.jpg?1696530163"
   },
   {
     "chainId": 1,
@@ -56203,8 +56188,8 @@
   {
     "chainId": 1,
     "address": "0x9f83ed4fdf636e8b0562ac704267346712b44c36",
-    "name": "Flooring Protocol  Mfers",
-    "symbol": "MFER",
+    "name": "FP  Mfers",
+    "symbol": "UMFER",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/32783/thumb/mfer_%281%29.png?1699351834"
   },
@@ -56531,8 +56516,8 @@
   {
     "chainId": 1,
     "address": "0xa07dcc1abfe20d29d87a32e2ba89876145dafb0a",
-    "name": "Flooring Protocol  Doodle",
-    "symbol": "DOODLE",
+    "name": "FP  Doodle",
+    "symbol": "UDOODLE",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/32776/thumb/mdoodle_%281%29.png?1699348365"
   },
@@ -56723,8 +56708,8 @@
   {
     "chainId": 1,
     "address": "0xa100eafdef0099700933538ee795cfad5505b689",
-    "name": "Flooring Protocol  Captainz",
-    "symbol": "CAPTAINZ",
+    "name": "FP  Captainz",
+    "symbol": "UCAPTAINZ",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/32775/thumb/Captains.png?1699347464"
   },
@@ -57138,11 +57123,11 @@
   },
   {
     "chainId": 1,
+    "name": "Rejuve.AI",
     "address": "0xa1f410f13b6007fca76833ee7eb58478d47bc5ef",
-    "name": "Rejuve AI",
+    "decimals": 18,
     "symbol": "RJV",
-    "decimals": 6,
-    "logoURI": "https://assets.coingecko.com/coins/images/29366/thumb/2023_Rejuve_Logo_-_Square_-_Teal.jpg?1696528314"
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/23769.png"
   },
   {
     "chainId": 1,
@@ -61010,8 +60995,8 @@
   {
     "chainId": 1,
     "address": "0xad161afae7db2a048b042bd68e11c38c9c042cc1",
-    "name": "Flooring Protocol  Nakamigos",
-    "symbol": "NKMGS",
+    "name": "FP  Nakamigos",
+    "symbol": "UNKMGS",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/32757/thumb/nakamigos.jpg?1699310532"
   },
@@ -61362,8 +61347,8 @@
   {
     "chainId": 1,
     "address": "0xae05559e5bc86ecca132956fa0482dd7d4b2d76d",
-    "name": "Flooring Protocol  CloneX",
-    "symbol": "CLONEX",
+    "name": "FP  CloneX",
+    "symbol": "UCLONEX",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/32767/thumb/clonex_logo.30687847_%281%29.png?1699336155"
   },
@@ -62281,7 +62266,7 @@
   },
   {
     "chainId": 1,
-    "name": "Magic",
+    "name": "Treasure",
     "address": "0xb0c7a3ba49c7a6eaba6cd4a96c55a1391070ac9a",
     "decimals": 18,
     "symbol": "MAGIC",
@@ -64600,8 +64585,8 @@
   {
     "chainId": 1,
     "address": "0xb7be27ba608641f0b6f152c8b432757f3685d2b0",
-    "name": "Flooring Protocol  Meebits",
-    "symbol": "",
+    "name": "FP  Meebits",
+    "symbol": "U",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/32769/thumb/meebits_logo.d8ecd01f_%281%29.png?1699337785"
   },
@@ -65304,8 +65289,8 @@
   {
     "chainId": 1,
     "address": "0xba10085f901ae4048134e556d579cfd1bfaf89cf",
-    "name": "Flooring Protocol  Elemental",
-    "symbol": "ELEM",
+    "name": "FP  Elemental",
+    "symbol": "UELEM",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/32785/thumb/elemental_%281%29.png?1699352536"
   },
@@ -66200,8 +66185,8 @@
   {
     "chainId": 1,
     "address": "0xbc526a4ae9632d42291ad9d5ef29d36dd4d0ce26",
-    "name": "Flooring Protocol  MoonBirds",
-    "symbol": "MOONBIRDS",
+    "name": "FP  MoonBirds",
+    "symbol": "UMOONBIRDS",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/32777/thumb/mmoonbirds_%281%29.png?1699348940"
   },
@@ -69182,7 +69167,7 @@
     "name": "Titanium22",
     "symbol": "TI",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/31197/thumb/TI-AVATAR-1.jpg?1696530024"
+    "logoURI": "https://assets.coingecko.com/coins/images/31197/thumb/_Ti.png?1703025760"
   },
   {
     "chainId": 1,
@@ -72307,8 +72292,8 @@
   {
     "chainId": 1,
     "address": "0xce3f08e664693ca792cace4af1364d5e220827b2",
-    "name": "SaitaChain Coin",
-    "symbol": "STC",
+    "name": "Saitama",
+    "symbol": "SAITAMA",
     "decimals": 9,
     "logoURI": "https://assets.coingecko.com/coins/images/16353/thumb/SOIKDUWf_400x400.jpeg?1696515952"
   },
@@ -75485,7 +75470,7 @@
     "name": "Points",
     "symbol": "POINTS",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/33666/thumb/blank.png?1702698679"
+    "logoURI": "https://assets.coingecko.com/coins/images/33666/thumb/points_%281%29.png?1703050357"
   },
   {
     "chainId": 1,
@@ -75883,7 +75868,7 @@
     "chainId": 1,
     "name": "Gala Music",
     "address": "0xd8c0b13b551718b808fc97ead59499d5ef862775",
-    "decimals": 8,
+    "decimals": 18,
     "symbol": "MUSIC",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28673.png"
   },
@@ -77049,14 +77034,6 @@
   },
   {
     "chainId": 1,
-    "name": "Overlay Protocol",
-    "address": "0xdc77acc82cce1cc095cba197474cc06824ade6f7",
-    "decimals": 18,
-    "symbol": "OVL",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/23009.png"
-  },
-  {
-    "chainId": 1,
     "name": "RocketX exchange",
     "address": "0xdc8af07a7861bedd104b8093ae3e9376fc8596d2",
     "decimals": 18,
@@ -77425,7 +77402,7 @@
   },
   {
     "chainId": 1,
-    "name": "UniX Gaming",
+    "name": "Unix Gaming",
     "address": "0xddd6a0ecc3c6f6c102e5ea3d8af7b801d1a77ac8",
     "decimals": 18,
     "symbol": "UNIX",
@@ -81986,8 +81963,8 @@
   {
     "chainId": 1,
     "address": "0xec19caef9c046f5f87a497154766742ab9c90820",
-    "name": "Flooring Protocol  Y00ts",
-    "symbol": "Y00TS",
+    "name": "FP  Y00ts",
+    "symbol": "UY00TS",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/32780/thumb/y00ts_%281%29.png?1699350631"
   },
@@ -82514,8 +82491,8 @@
   {
     "chainId": 1,
     "address": "0xedae06a2dbdd21038608adce58fd173afdba5add",
-    "name": "Flooring Protocol  LilPudgys",
-    "symbol": "LP",
+    "name": "FP  LilPudgys",
+    "symbol": "ULP",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/32782/thumb/lp_%281%29.png?1699351240"
   },
@@ -82633,8 +82610,8 @@
   {
     "chainId": 1,
     "address": "0xedf978ee4beafbeefd7a0f55faa5a7c6c3cd467d",
-    "name": "Flooring Protocol  CoolCats",
-    "symbol": "COOL",
+    "name": "FP  CoolCats",
+    "symbol": "UCOOL",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/32781/thumb/cool_%281%29.png?1699350874"
   },
