@@ -140,6 +140,14 @@
     "logoURI": "https://i.ibb.co/6FDxmPG/milk-coin.png"
   },
   {
+    "name": "GONE",
+    "address": "0x162539172b53e9a93b7d98fb6c41682de558a320",
+    "symbol": "GONE",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://i.imgur.com/AeegcxP.png"
+  },
+  {
     "name": "Polylastic",
     "address": "0x187ae45f2d361cbce37c6a8622119c91148f261b",
     "symbol": "POLX",
@@ -361,6 +369,14 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://raw.githubusercontent.com/iotexproject/iotex-token-metadata/master/images/io1nxetpma4de3wx6tqcgxdtj5wc64a24t64dc76s.png"
+  },
+  {
+    "name": "USDV",
+    "address": "0x323665443cef804a3b5206103304bd4872ea4253",
+    "symbol": "USDV",
+    "decimals": 6,
+    "chainId": 137,
+    "logoURI": "https://usdv.money/static/features/media-kit/TokenIcon_Black.png"
   },
   {
     "name": "StrongNodeEdge Token",
@@ -1239,6 +1255,14 @@
     "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-dapplist/main/images/dapp_connextbridge.png"
   },
   {
+    "name": "Global Coin Research",
+    "address": "0xa69d14d6369e414a32a5c7e729b7afbafd285965",
+    "symbol": "GCR",
+    "decimals": 4,
+    "chainId": 137,
+    "logoURI": "https://i.imgur.com/UBjdemW.png"
+  },
+  {
     "chainId": 137,
     "address": "0xa926db7a4cc0cb1736d5ac60495ca8eb7214b503",
     "name": "Jarvis Synthetic Singapore Dollar",
@@ -1865,6 +1889,22 @@
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
   },
   {
+    "name": "Wrapped Mountain Protocol",
+    "address": "0xbdad407f77f44f7da6684b416b1951eca461fb07",
+    "symbol": "wUSDM",
+    "decimals": 18,
+    "chainId": 169,
+    "logoURI": "https://assets.coingecko.com/coins/images/33785/standard/wUSDM_PNG_240px.png?1702981552"
+  },
+  {
+    "name": "Asmatch",
+    "address": "0xcd5d6de3fdbce1895f0dac13a065673599ed6806",
+    "symbol": "ASM",
+    "decimals": 18,
+    "chainId": 169,
+    "logoURI": "https://i.imgur.com/grd3qpW.png"
+  },
+  {
     "name": "GAI",
     "address": "0xcd91716ef98798a85e79048b78287b13ae6b99b2",
     "symbol": "GAI",
@@ -2079,6 +2119,14 @@
     "decimals": 18,
     "chainId": 1101,
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
+  },
+  {
+    "name": "Wrapped eETH",
+    "address": "0xcd68dff4415358c35a28f96fd5bf7083b22de1d6",
+    "symbol": "weETH",
+    "decimals": 18,
+    "chainId": 1101,
+    "logoURI": "https://etherfi-membership-metadata.s3.ap-southeast-1.amazonaws.com/weETH.png"
   },
   {
     "name": "Frax Ether",
