@@ -3025,6 +3025,14 @@
   },
   {
     "chainId": 1,
+    "name": "TurtSat",
+    "address": "0x0800394f6e23dd539929c8b77a3d45c96f76aefc",
+    "decimals": 18,
+    "symbol": "TURT",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28826.png"
+  },
+  {
+    "chainId": 1,
     "name": "NFT STARS",
     "address": "0x08037036451c768465369431da5c671ad9b37dbc",
     "decimals": 18,
@@ -13235,11 +13243,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x24fcfc492c1393274b6bcd568ac9e225bec93584",
     "name": "Heroes of Mavia",
-    "symbol": "MAVIA",
+    "address": "0x24fcfc492c1393274b6bcd568ac9e225bec93584",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/33895/thumb/2023-12-20_21.21.41_%281%29.jpg?1703230771"
+    "symbol": "MAVIA",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28829.png"
   },
   {
     "chainId": 1,
@@ -20623,6 +20631,14 @@
     "decimals": 9,
     "symbol": "COIL",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/6645.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x393e888b031e000a258a3f646e3d8043c57a1f05",
+    "name": "Stakify Finance",
+    "symbol": "SIFY",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/32549/thumb/200x200_-_Copy.png?1698479643"
   },
   {
     "chainId": 1,
@@ -34181,6 +34197,14 @@
     "decimals": 18,
     "symbol": "NFTT",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/11453.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x5fa3418d828e5cd3c61a66e0fc7fa4a35dadf960",
+    "name": "Avatly",
+    "symbol": "AVA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/33922/thumb/28738.png?1703370955"
   },
   {
     "chainId": 1,
@@ -49869,6 +49893,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x8ce55da273fb5cf4b1ffc5d4066bd62445a43543",
+    "name": "Burners",
+    "symbol": "BRNR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/33911/thumb/Burners.jpeg?1703310206"
+  },
+  {
+    "chainId": 1,
     "name": "Gaugecash",
     "address": "0x8ce7386fe7688417885adebcbfc01a5445226b2c",
     "decimals": 18,
@@ -55800,6 +55832,14 @@
     "symbol": "OMIKAMI",
     "decimals": 9,
     "logoURI": "https://assets.coingecko.com/coins/images/31821/thumb/Omikami_BTC_AMZN.png?1696530635"
+  },
+  {
+    "chainId": 1,
+    "name": "OmniCat",
+    "address": "0x9e20461bc2c4c980f62f1b279d71734207a6a356",
+    "decimals": 18,
+    "symbol": "OMNI",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28827.png"
   },
   {
     "chainId": 1,
@@ -65061,14 +65101,6 @@
     "decimals": 18,
     "symbol": "YOU",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/27623.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xb92da1111d193e5b1f11e6a131b3f5dcaf432af5",
-    "name": "Stakify Finance",
-    "symbol": "SIFY",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/32549/thumb/200x200_-_Copy.png?1698479643"
   },
   {
     "chainId": 1,
@@ -98827,6 +98859,14 @@
     "logoURI": "https://raw.githubusercontent.com/Magnethereum/MyFiles/main/magnethereum.jpg",
     "name": "Magnethereum",
     "symbol": "MAGNET"
+  },
+  {
+    "address": "0x910d3c72c5177c3f1bfb0863b793ec23fa7f6990",
+    "chainId": 42161,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x910d3c72c5177c3f1bfb0863b793ec23Fa7f6990.jpg",
+    "name": "NitroShiba",
+    "symbol": "NISHIB"
   },
   {
     "address": "0x912ce59144191c1204e64559fe8253a0e49e6548",
