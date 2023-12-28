@@ -4632,14 +4632,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x0cb7d2677277b18f080fc2ad97f5fa9f3d7a3232",
-    "name": "Betted",
-    "symbol": "BETS",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/29287/thumb/ficha_icon_CG.png?1696528239"
-  },
-  {
-    "chainId": 1,
     "name": "The Protocol",
     "address": "0x0cba60ca5ef4d42f92a5070a8fedd13be93e2861",
     "decimals": 18,
@@ -11576,14 +11568,6 @@
     "decimals": 9,
     "symbol": "$BORED",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/23003.png"
-  },
-  {
-    "chainId": 1,
-    "name": "BABY YODA FINANCE",
-    "address": "0x20531fa8eaefaeb4e7d60523679f85d58f53ced9",
-    "decimals": 18,
-    "symbol": "YODA",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7567.png"
   },
   {
     "chainId": 1,
@@ -28792,6 +28776,14 @@
   },
   {
     "chainId": 1,
+    "name": "BDID",
+    "address": "0x5016878159e84dadb05bb04135f3eac339ae201f",
+    "decimals": 18,
+    "symbol": "BDID",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28858.png"
+  },
+  {
+    "chainId": 1,
     "name": "SOLACE",
     "address": "0x501ace9c35e60f03a2af4d484f49f9b1efde9f40",
     "decimals": 18,
@@ -34893,6 +34885,14 @@
     "decimals": 18,
     "symbol": "RC20",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3790.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x61b34a012646cd7357f58ee9c0160c6d0021fa41",
+    "name": "Elosys",
+    "symbol": "ELO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/34040/thumb/logo200x200.png?1703693735"
   },
   {
     "chainId": 1,
@@ -41760,11 +41760,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x74588af8de14287e91d89758636d277d66f217b6",
     "name": "0xOS AI",
-    "symbol": "0XOS",
+    "address": "0x74588af8de14287e91d89758636d277d66f217b6",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/34007/thumb/0xOS_AI.png?1703621360"
+    "symbol": "0XOS",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28854.png"
   },
   {
     "chainId": 1,
@@ -43852,6 +43852,14 @@
     "decimals": 18,
     "symbol": "HIOD",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/22679.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x7a8946eda77817126ffe301249f6dc4c7df293c3",
+    "name": "Dyl",
+    "symbol": "DYL",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/32550/thumb/Dyl-pfp-200x.png?1698479973"
   },
   {
     "chainId": 1,
@@ -61925,7 +61933,8 @@
     "address": "0xaf1eeb83c364ad9ffeb5f97f223c1705d4810033",
     "name": "MoneyArk",
     "symbol": "MARK",
-    "decimals": 9
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/33987/thumb/LOGO.png?1703692373"
   },
   {
     "chainId": 1,
@@ -71202,6 +71211,14 @@
   },
   {
     "chainId": 1,
+    "address": "0xca9d8ef4ba15ae66347b3d22afe2970b89980f88",
+    "name": "Innova DeFi",
+    "symbol": "INNOVA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/34023/thumb/Innova.png?1703672390"
+  },
+  {
+    "chainId": 1,
     "address": "0xca9f9671765f8d1a7e19ae2639e01fff730f0d9b",
     "name": "Jaypeggers USDC",
     "symbol": "JUSDC",
@@ -76625,6 +76642,14 @@
   },
   {
     "chainId": 1,
+    "address": "0xda396b2ea32996f471e4434f2d7b8c3abc352c62",
+    "name": "Betted",
+    "symbol": "BETS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/29287/thumb/ficha_icon_CG.png?1696528239"
+  },
+  {
+    "chainId": 1,
     "name": "Dr F was here",
     "address": "0xda4058a752bd1a1ab5fe30bcc5730d4b03cee6a9",
     "decimals": 18,
@@ -80385,14 +80410,6 @@
   },
   {
     "chainId": 1,
-    "address": "0xe62be16aa3c50bafb1855b4ded7799d9150bb1a1",
-    "name": "Dyl",
-    "symbol": "DYL",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/32550/thumb/Dyl-pfp-200x.png?1698479973"
-  },
-  {
-    "chainId": 1,
     "name": "Arro Social",
     "address": "0xe630943d2a62cfb48dbcd1be812f74f8dfa6eff5",
     "decimals": 18,
@@ -81062,14 +81079,6 @@
     "decimals": 18,
     "symbol": "ARTIC",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/18769.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xe8438c23157de97bde8bedd2eeabc8e7e44de18a",
-    "name": "Lunatics  ETH ",
-    "symbol": "LUNAT",
-    "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/30526/thumb/whvem.png?1696529402"
   },
   {
     "chainId": 1,
@@ -84244,6 +84253,14 @@
     "decimals": 9,
     "symbol": "MILK",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/25840.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xf1df7305e4bab3885cab5b1e4dfc338452a67891",
+    "name": "PaLM AI",
+    "symbol": "PALM",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/33097/thumb/IMG_7197.jpeg?1700636242"
   },
   {
     "chainId": 1,
@@ -89237,6 +89254,14 @@
   },
   {
     "chainId": 56,
+    "address": "0x12f31b73d812c6bb0d735a218c086d44d5fe5f89",
+    "symbol": "agEUR",
+    "name": "agEUR",
+    "decimals": 18,
+    "logoURI": "ipfs://QmWg22EVRTLpZ6hcPvgpFpZidKtXLrGkGkEveiFkBKAme8"
+  },
+  {
+    "chainId": 56,
     "address": "0x14778860e937f509e651192a90589de711fb88a9",
     "symbol": "CYBER",
     "name": "CyberConnect",
@@ -89482,6 +89507,14 @@
     "name": "Maker",
     "decimals": 18,
     "logoURI": "ipfs://QmfAnPxYQrWrEdjzaSi9D1Cn5XRwpPBKYov6JSbvtfcy1j"
+  },
+  {
+    "chainId": 56,
+    "address": "0x62d0a8458ed7719fdaf978fe5929c6d342b0bfce",
+    "symbol": "BEAM",
+    "name": "Beam",
+    "decimals": 18,
+    "logoURI": "ipfs://QmPfGrjzfmzCevK86kK5ZvD9E7S88wLw1t7Sq1X6yPAJUB"
   },
   {
     "chainId": 56,
@@ -89853,6 +89886,14 @@
   },
   {
     "chainId": 100,
+    "address": "0x4b1e2c2762667331bc91648052f646d1b0d35984",
+    "symbol": "agEUR",
+    "name": "agEUR",
+    "decimals": 18,
+    "logoURI": "ipfs://QmZ26fGJwCYoZYzkBrxnRmkBT41VhF7V1M7VDoPGJCNVVJ"
+  },
+  {
+    "chainId": 100,
     "address": "0x4ecaba5870353805a9f068101a40e0f32ed605c6",
     "symbol": "USDT",
     "name": "Tether ",
@@ -89866,6 +89907,14 @@
     "name": "Giveth",
     "decimals": 18,
     "logoURI": "ipfs://QmfBkYQZVHewLGqUnDDSGmybtiCKSk4bkAoQjxqwdRxZiQ"
+  },
+  {
+    "chainId": 100,
+    "address": "0x524b969793a64a602342d89bc2789d43a016b13a",
+    "symbol": "DONUT",
+    "name": "Donut",
+    "decimals": 18,
+    "logoURI": "ipfs://QmcBL7KqNYdeUuojuhq1Pgb9F9cpi3s6Vjyd8nAE6d8Wa1"
   },
   {
     "chainId": 100,
@@ -89997,6 +90046,14 @@
   },
   {
     "chainId": 100,
+    "address": "0xaf204776c7245bf4147c2612bf6e5972ee483701",
+    "symbol": "sDAI",
+    "name": "Savings xDAI",
+    "decimals": 18,
+    "logoURI": "ipfs://QmPFv2Xd74TZ2ncEkGw4iHP3Qz7cZSrLRV5fsyedH3ds8p"
+  },
+  {
+    "chainId": 100,
     "address": "0xb0c5f3100a4d9d9532a4cfd68c55f1ae8da987eb",
     "symbol": "HAUS",
     "name": "DAOhaus",
@@ -90082,6 +90139,14 @@
     "name": "DeFi Pulse Index",
     "decimals": 18,
     "logoURI": "ipfs://QmZacYc39o7wE1JtF2qysEdwjTjN2zAgLWNEK6GjNQX54c"
+  },
+  {
+    "chainId": 100,
+    "address": "0xdbf3ea6f5bee45c02255b2c26a16f300502f68da",
+    "symbol": "BZZ",
+    "name": "Swarm",
+    "decimals": 16,
+    "logoURI": "ipfs://QmSiXeTDA3Q7Ht2RGKa2q4iRGBJUstrSfeRVzKBXvsigjw"
   },
   {
     "chainId": 100,
@@ -90290,6 +90355,14 @@
     "name": "Streamr",
     "decimals": 18,
     "logoURI": "ipfs://QmeBtBN63Ah7FkrZEF848tDbZKXeXApv165obUQdw7otk5"
+  },
+  {
+    "chainId": 137,
+    "address": "0x3c499c542cef5e3811e1192ce70d8cc03d5c3359",
+    "symbol": "USDC",
+    "name": "USD Coin",
+    "decimals": 6,
+    "logoURI": "ipfs://QmUQp1wZzr4UREn4AVLkKH5GbwpUCwf9w5VQQJeh1bmThJ"
   },
   {
     "chainId": 137,
@@ -90642,6 +90715,14 @@
     "name": "Dogelon Mars",
     "decimals": 18,
     "logoURI": "ipfs://QmaHs61uW9nZYiHVSQuZgnQWBPSwNokcnNgZn7FGMhSHVk"
+  },
+  {
+    "chainId": 137,
+    "address": "0xe0b52e49357fd4daf2c15e02058dce6bc0057db4",
+    "symbol": "agEUR",
+    "name": "agEUR",
+    "decimals": 18,
+    "logoURI": "ipfs://QmVyaJncpkGuDKsiD8oAPPT7RtKBgBaznFiKuBuzhCgdd6"
   },
   {
     "chainId": 137,
