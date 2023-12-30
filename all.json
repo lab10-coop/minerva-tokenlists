@@ -41,14 +41,6 @@
   },
   {
     "chainId": 1,
-    "name": "Reboot",
-    "address": "0x000000000026839b3f4181f2cf69336af6153b99",
-    "decimals": 18,
-    "symbol": "GG",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28867.png"
-  },
-  {
-    "chainId": 1,
     "address": "0x000000000075f13bcf2e6652e84821e8b544f6f9",
     "name": "Signet",
     "symbol": "SIG",
@@ -5184,11 +5176,11 @@
   },
   {
     "chainId": 1,
+    "name": "Duel",
     "address": "0x0e79de3a7ee59abf6086c2138231b1f8ec8c638e",
-    "name": "DUEL",
-    "symbol": "DUEL",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/33939/thumb/DUEL.jpg?1703503548"
+    "symbol": "DUEL",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28868.png"
   },
   {
     "chainId": 1,
@@ -25009,6 +25001,14 @@
   },
   {
     "chainId": 1,
+    "name": "TROY",
+    "address": "0x4574562e9310a94f9ca962bd23168d8a06875b1a",
+    "decimals": 18,
+    "symbol": "TROY",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/5007.png"
+  },
+  {
+    "chainId": 1,
     "name": "Orchid",
     "address": "0x4575f41308ec1483f3d399aa9a2826d74da13deb",
     "decimals": 18,
@@ -28485,6 +28485,13 @@
     "decimals": 18,
     "symbol": "THRT",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2899.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x4f27633e8b1cfd5e043c68cdcd81c0bbfdb1cf14",
+    "name": "WhatBot",
+    "symbol": "WHAT",
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -38803,7 +38810,7 @@
     "name": "Fame AI",
     "address": "0x6bfdb6f4e65ead27118592a41eb927cea6956198",
     "decimals": 18,
-    "symbol": "$FMC",
+    "symbol": "FMC",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28838.png"
   },
   {
@@ -48886,11 +48893,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x89d584a1edb3a70b3b07963f9a3ea5399e38b136",
     "name": "AIT Protocol",
-    "symbol": "AIT",
+    "address": "0x89d584a1edb3a70b3b07963f9a3ea5399e38b136",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/33962/thumb/ait-logo-200x200.png?1703567800"
+    "symbol": "AIT",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28882.png"
   },
   {
     "chainId": 1,
@@ -49219,6 +49226,14 @@
     "decimals": 18,
     "symbol": "TLB",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7544.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x8ab2ff0116a279a99950c66a12298962d152b83c",
+    "name": "Ordiswap",
+    "symbol": "ORDS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/33910/thumb/ords_200200.jpg?1703860742"
   },
   {
     "chainId": 1,
@@ -81130,6 +81145,14 @@
   },
   {
     "chainId": 1,
+    "address": "0xe8438c23157de97bde8bedd2eeabc8e7e44de18a",
+    "name": "Lunatics  ETH ",
+    "symbol": "LUNAT",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/30526/thumb/whvem.png?1696529402"
+  },
+  {
+    "chainId": 1,
     "name": "Koi Network",
     "address": "0xe84d9e32dc8ce819b8d6c83e50edafd46c6354db",
     "decimals": 18,
@@ -84057,6 +84080,14 @@
   },
   {
     "chainId": 1,
+    "name": "Happy New Year 2024",
+    "address": "0xf11e437aa1b9b868068de63897ed75de3aeaac62",
+    "decimals": 18,
+    "symbol": "HPNY2024",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28873.png"
+  },
+  {
+    "chainId": 1,
     "name": "CT Club",
     "address": "0xf11f2810f5153f6e22274ff98e5dbafddfcb5794",
     "decimals": 18,
@@ -84308,7 +84339,7 @@
     "name": "PaLM AI",
     "symbol": "PALM",
     "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/33097/thumb/IMG_7197.jpeg?1700636242"
+    "logoURI": "https://assets.coingecko.com/coins/images/33097/thumb/PalmProfile01Artboard_6_2x.png?1703862864"
   },
   {
     "chainId": 1,
@@ -86943,6 +86974,14 @@
   },
   {
     "chainId": 1,
+    "name": "AlienForm",
+    "address": "0xf92d62ed69242d655e685c96b98f32f1409c3262",
+    "decimals": 9,
+    "symbol": "A4M",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28874.png"
+  },
+  {
+    "chainId": 1,
     "name": "Visor.Finance",
     "address": "0xf938424f7210f31df2aee3011291b658f872e91e",
     "decimals": 18,
@@ -88239,11 +88278,11 @@
   },
   {
     "chainId": 1,
+    "name": "CODEX",
     "address": "0xfd26e39807772251c3bb90fb1fcd9ce5b80c5c24",
-    "name": "Codex Multichain",
-    "symbol": "CODEX",
     "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/33980/thumb/200x200.jpg?1703580135"
+    "symbol": "CODEX",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28871.png"
   },
   {
     "chainId": 1,
@@ -96679,6 +96718,14 @@
     "logoURI": "https://tokens.pancakeswap.finance/images/0x6bfF4Fb161347ad7de4A625AE5aa3A1CA7077819.png"
   },
   {
+    "name": "8PAY Network v2",
+    "symbol": "8PAY v2",
+    "address": "0x6eadc05928acd93efb3fa0dfbc644d96c6aa1df8",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x6EaDc05928ACd93eFB3FA0DFbC644D96C6Aa1Df8.png"
+  },
+  {
     "name": "ARPA",
     "symbol": "ARPA",
     "address": "0x6f769e65c14ebd1f68817f5f1dcdb61cfa2d6f7e",
@@ -98336,14 +98383,6 @@
     "chainId": 56,
     "decimals": 18,
     "logoURI": "https://tokens.pancakeswap.finance/images/0xFd7B3A77848f1C2D67E05E54d78d174a0C850335.png"
-  },
-  {
-    "name": "8PAY Network",
-    "symbol": "8PAY",
-    "address": "0xfeea0bdd3d07eb6fe305938878c0cadbfa169042",
-    "chainId": 56,
-    "decimals": 18,
-    "logoURI": "https://tokens.pancakeswap.finance/images/0xFeea0bDd3D07eb6FE305938878C0caDBFa169042.png"
   },
   {
     "name": "Capsule Coin",
