@@ -867,6 +867,7 @@
     "decimals": 18,
     "logoURI": "https://ethereum-optimism.github.io/data/ALI/logo.png",
     "extensions": {
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
       "opListId": "extended",
       "opTokenId": "ALI"
     }
@@ -5508,6 +5509,19 @@
       "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "extended",
       "opTokenId": "D2D"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0x97c806e7665d3afd84a8fe1837921403d59f3dcc",
+    "name": "Artificial Liquid Intelligence Token",
+    "symbol": "ALI",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/ALI/logo.png",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "ALI"
     }
   },
   {
