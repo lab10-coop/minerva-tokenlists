@@ -41,6 +41,14 @@
   },
   {
     "chainId": 1,
+    "name": "DegenX",
+    "address": "0x0000000000300dd8b0230efcfef136ecdf6abcde",
+    "decimals": 18,
+    "symbol": "DGNX",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/21749.png"
+  },
+  {
+    "chainId": 1,
     "address": "0x000000000075f13bcf2e6652e84821e8b544f6f9",
     "name": "Signet",
     "symbol": "SIG",
@@ -3041,6 +3049,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x0808e6c4400bde1d70db0d02170b67de05e07ef5",
+    "name": "Wrapped LYX  SigmaSwap ",
+    "symbol": "WLYX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/34338/thumb/wLYX.png?1704679928"
+  },
+  {
+    "chainId": 1,
     "name": "Mines of Dalarnia",
     "address": "0x081131434f93063751813c619ecca9c4dc7862a3",
     "decimals": 6,
@@ -5125,6 +5141,14 @@
     "decimals": 18,
     "symbol": "SGDX",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/5500.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x0e4188bda0a92ff4fff62392211b076c0119198d",
+    "name": "0xSnipeProAi",
+    "symbol": "0XSPAI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/34331/thumb/0XSPAI.jpg?1704668642"
   },
   {
     "chainId": 1,
@@ -12867,14 +12891,6 @@
   },
   {
     "chainId": 1,
-    "name": "Molly",
-    "address": "0x24289e2f9cdc03787e24997df5438ba8045bc9b2",
-    "decimals": 18,
-    "symbol": "MOLLY",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28941.png"
-  },
-  {
-    "chainId": 1,
     "address": "0x242914f264d44e4c5ead31092ec133dcb6c4d73f",
     "name": "Share Friend",
     "symbol": "SFRIEND",
@@ -14048,6 +14064,14 @@
     "decimals": 18,
     "symbol": "C20",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2444.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Retik Finance",
+    "address": "0x26ebb8213fb8d66156f1af8908d43f7e3e367c1d",
+    "decimals": 18,
+    "symbol": "RETIK",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28965.png"
   },
   {
     "chainId": 1,
@@ -31239,7 +31263,7 @@
   },
   {
     "chainId": 1,
-    "name": "Champignons of Arborethia",
+    "name": "Champz",
     "address": "0x571e21a545842c6ce596663cda5caa8196ac1c7a",
     "decimals": 8,
     "symbol": "CHAMPZ",
@@ -37927,6 +37951,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x695d38eb4e57e0f137e36df7c1f0f2635981246b",
+    "name": "Meme AI Coin",
+    "symbol": "MEMEAI",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/34356/thumb/MEMEAI.png?1704706407"
+  },
+  {
+    "chainId": 1,
     "name": "Coni",
     "address": "0x695db6508d66bf111d8d96adaffc5356b7f4581f",
     "decimals": 8,
@@ -38335,14 +38367,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x6a68de599e8e0b1856e322ce5bd11c5c3c79712b",
-    "name": "iBetYou",
-    "symbol": "IBY",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/16423/thumb/qvrS5aNM_400x400.jpg?1696516019"
-  },
-  {
-    "chainId": 1,
     "address": "0x6a6aa13393b7d1100c00a57c76c39e8b6c835041",
     "name": "OpenAI ERC",
     "symbol": "OPENAIERC",
@@ -38399,11 +38423,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x6a7eff1e2c355ad6eb91bebb5ded49257f3fed98",
     "name": "OpSec",
-    "symbol": "OPSEC",
+    "address": "0x6a7eff1e2c355ad6eb91bebb5ded49257f3fed98",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/34284/thumb/IMG_8108.jpeg?1704453267"
+    "symbol": "OPSEC",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28973.png"
   },
   {
     "chainId": 1,
@@ -39323,7 +39347,7 @@
     "name": "Proton Project",
     "symbol": "PRTN",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/14888/thumb/Golden-PRTN-Logo.jpeg?1696514552"
+    "logoURI": "https://assets.coingecko.com/coins/images/14888/thumb/foSOkYCq_400x400.jpg?1704713057"
   },
   {
     "chainId": 1,
@@ -39559,11 +39583,11 @@
   },
   {
     "chainId": 1,
-    "name": "Cyberdoge",
     "address": "0x6dc6a27822ae2ca3a47da39a2f2bbd525dd693f8",
-    "decimals": 18,
+    "name": "Cyberdoge",
     "symbol": "CYDOGE",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/13508.png"
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/34085/thumb/CD_Logo_200x200.png?1703910686"
   },
   {
     "chainId": 1,
@@ -45747,6 +45771,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x80286b475969e032bdfb85639fed4d4f30ea9526",
+    "name": "FREECZ",
+    "symbol": "FREECZ",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/33242/thumb/logo.jpeg?1701171276"
+  },
+  {
+    "chainId": 1,
     "address": "0x803e102459e682f13760904408ad96dccee0c8d3",
     "name": "FINE 2 0",
     "symbol": "FINE20",
@@ -49853,7 +49885,7 @@
     "chainId": 1,
     "name": "BlackHat",
     "address": "0x8bcd06492416a749c9369009b3429861b7f27f6e",
-    "decimals": 18,
+    "decimals": 8,
     "symbol": "BLKC",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/10566.png"
   },
@@ -50655,6 +50687,14 @@
     "decimals": 18,
     "symbol": "DVP",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/4520.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x8e32b8a41f2e86a3ee198912ac8d756c84295b40",
+    "name": "Track The Funds Bot",
+    "symbol": "TTF",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/34337/thumb/ttf-logo-200.png?1704679746"
   },
   {
     "chainId": 1,
@@ -52578,7 +52618,7 @@
   },
   {
     "chainId": 1,
-    "name": "Duel",
+    "name": "Prism",
     "address": "0x943af2ece93118b973c95c2f698ee9d15002e604",
     "decimals": 18,
     "symbol": "DUEL",
@@ -53034,6 +53074,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x95640a134721475bc78594c8ea66c0182c7b9a50",
+    "name": "Metroxynth",
+    "symbol": "MXH",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/34346/thumb/metroxynth-logo-200x200.png?1704698264"
+  },
+  {
+    "chainId": 1,
     "name": "PoorPleb",
     "address": "0x9565c2036963697786705120fc59310f747bcfd0",
     "decimals": 18,
@@ -53255,6 +53303,14 @@
     "decimals": 18,
     "symbol": "$MKONG",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/17999.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Steamboat Willie",
+    "address": "0x9609b540e5dedddb147abbf9812ade06b1e61b2c",
+    "decimals": 18,
+    "symbol": "MICKEY",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28971.png"
   },
   {
     "chainId": 1,
@@ -65077,6 +65133,14 @@
   },
   {
     "chainId": 1,
+    "name": "Molly",
+    "address": "0xb7cfe05915ef0c040c6dde2007c9ddab26259e04",
+    "decimals": 18,
+    "symbol": "MOLLY",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28941.png"
+  },
+  {
+    "chainId": 1,
     "name": "SpaceMine",
     "address": "0xb7de92be975ccb27e7352a1d47512acbdb0bac32",
     "decimals": 18,
@@ -72389,6 +72453,14 @@
     "symbol": "ORB",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/32761/thumb/ORB_WORLD_%281%29.png?1699329160"
+  },
+  {
+    "chainId": 1,
+    "address": "0xcd24ba0e3364233ee9301c1d608a14753c8739c5",
+    "name": "DeepSouth AI",
+    "symbol": "SOUTH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/34348/thumb/CGpng.png?1704701256"
   },
   {
     "chainId": 1,
@@ -84486,14 +84558,6 @@
   },
   {
     "chainId": 1,
-    "address": "0xf14b9adf84812ba463799357f4dc716b4384010b",
-    "name": "Pension Plan",
-    "symbol": "PP",
-    "decimals": 8,
-    "logoURI": "https://assets.coingecko.com/coins/images/19670/thumb/pensionplan-logo-200CG2.png?1696519098"
-  },
-  {
-    "chainId": 1,
     "name": "NPC",
     "address": "0xf164069b8c2e73fd856083e2574c3007c0f29810",
     "decimals": 18,
@@ -86354,14 +86418,6 @@
     "decimals": 8,
     "symbol": "LION",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/8009.png"
-  },
-  {
-    "chainId": 1,
-    "name": "Moye Moye",
-    "address": "0xf64e0963caa75cbef5de51c689d253e7e85a5eb1",
-    "decimals": 18,
-    "symbol": "MOYE",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/9529.png"
   },
   {
     "chainId": 1,
@@ -89273,6 +89329,14 @@
     "decimals": 18,
     "symbol": "VIDT",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3845.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xfeff7b68bc540826da22b296c82a4b8b6b845f41",
+    "name": "United Emirates Of Fun",
+    "symbol": "UEFN",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/34353/thumb/LOGO_200.png?1704703932"
   },
   {
     "chainId": 1,
@@ -106397,6 +106461,32 @@
       "optimismBridgeAddress": "0xFBb0621E0B23b5478B630BD55a5f21f67730B0F1",
       "opListId": "extended",
       "opTokenId": "OUTb"
+    }
+  },
+  {
+    "chainId": 11155111,
+    "address": "0xe452027cdef746c7cd3db31cb700428b16cd8e51",
+    "name": "Status Test Token",
+    "symbol": "STT",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/SNT/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0xFBb0621E0B23b5478B630BD55a5f21f67730B0F1",
+      "opListId": "extended",
+      "opTokenId": "SNT"
+    }
+  },
+  {
+    "chainId": 11155420,
+    "address": "0x0b5dad18b8791ddb24252b433ec4f21f9e6e5ed0",
+    "name": "Status Test Token",
+    "symbol": "STT",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/SNT/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "SNT"
     }
   },
   {

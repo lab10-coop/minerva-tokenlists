@@ -6257,6 +6257,32 @@
     }
   },
   {
+    "chainId": 11155111,
+    "address": "0xe452027cdef746c7cd3db31cb700428b16cd8e51",
+    "name": "Status Test Token",
+    "symbol": "STT",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/SNT/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0xFBb0621E0B23b5478B630BD55a5f21f67730B0F1",
+      "opListId": "extended",
+      "opTokenId": "SNT"
+    }
+  },
+  {
+    "chainId": 11155420,
+    "address": "0x0b5dad18b8791ddb24252b433ec4f21f9e6e5ed0",
+    "name": "Status Test Token",
+    "symbol": "STT",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/SNT/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "SNT"
+    }
+  },
+  {
     "chainId": 11155420,
     "address": "0x7c6b91d9be155a6db01f749217d76ff02a7227f2",
     "name": "OptimismUselessToken-Bridged",
