@@ -2273,6 +2273,62 @@
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png"
   },
   {
+    "name": "Wrapped BTC",
+    "address": "0x235f9a2dc29e51ce7d103bcc5dfb4f5c9c3371de",
+    "symbol": "WBTC",
+    "decimals": 8,
+    "chainId": 13371,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png"
+  },
+  {
+    "name": "Wrapped IMX",
+    "address": "0x3a0c2ba54d6cbd3121f01b96dfd20e99d1696c9d",
+    "symbol": "WIMX",
+    "decimals": 18,
+    "chainId": 13371,
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/10603.png"
+  },
+  {
+    "name": "Wrapped Ether",
+    "address": "0x52a6c53869ce09a731cd772f245b97a4401d3348",
+    "symbol": "WETH",
+    "decimals": 18,
+    "chainId": 13371,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+  },
+  {
+    "name": "Tether USD",
+    "address": "0x68bcc7f1190af20e7b572bcfb431c3ac10a936ab",
+    "symbol": "USDT",
+    "decimals": 6,
+    "chainId": 13371,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+  },
+  {
+    "name": "USD Coin",
+    "address": "0x6de8acc0d406837030ce4dd28e7c08c5a96a30d2",
+    "symbol": "USDC",
+    "decimals": 6,
+    "chainId": 13371,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+  },
+  {
+    "name": "Wrapped IMX",
+    "address": "0x1ccca691501174b4a623ceda58cc8f1a76dc3439",
+    "symbol": "WIMX",
+    "decimals": 18,
+    "chainId": 13473,
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/10603.png"
+  },
+  {
+    "name": "USDC",
+    "address": "0xb9afaa5c407ddeba5098193f31ce23d21cfd9657",
+    "symbol": "USDC",
+    "decimals": 6,
+    "chainId": 13473,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+  },
+  {
     "name": "Tether USD",
     "address": "0x3813e82e6f7098b9583fc0f33a962d02018b6803",
     "symbol": "USDT",
