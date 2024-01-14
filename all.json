@@ -41279,14 +41279,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x723bd1f87a327e94ceabf68d8f022e0f54b9cc1a",
-    "name": "Philcoin",
-    "symbol": "PHL",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/24178/thumb/2ZFyoMSk.png?1696523366"
-  },
-  {
-    "chainId": 1,
     "name": "Bitcoin Pro",
     "address": "0x723cbfc05e2cfcc71d3d89e770d32801a5eef5ab",
     "decimals": 8,
@@ -43521,14 +43513,6 @@
     "decimals": 18,
     "symbol": "KIT",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7739.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x786e995a975c2ab7c1dd252a9019fb0c91c9ca83",
-    "name": "Landworld",
-    "symbol": "LWD",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/25642/thumb/v-MhJXeSQuKSjz5gJRpptF5E5v95862DXJhkSeVabQcVsbBxzryaaQQ-eqwp0hvjrXQQmQRUKYW3gFfzUi3zVjhWoZKg79rmFF5dL6igKT0iWWpDtfNRcr6XA1mL9WiLgg6EOqwfmuLNu1-qan38OQJve32FKgJ7FL_fAyZRHvSuuIwO4qmcLPVqWo08oYELCC5ParMmS7FfNsHtu38u6j0gxw.jpg?1696524776"
   },
   {
     "chainId": 1,
@@ -53456,14 +53440,6 @@
     "decimals": 18,
     "symbol": "HUSH",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/17785.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x96184d9c811ea0624fc30c80233b1d749b9e485b",
-    "name": "Dapp com",
-    "symbol": "DAPPT",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/8282/thumb/dappt_logo.png?1696508484"
   },
   {
     "chainId": 1,
@@ -90293,11 +90269,27 @@
   },
   {
     "chainId": 56,
+    "address": "0x88d7e9b65dc24cf54f5edef929225fc3e1580c25",
+    "symbol": "JMPT",
+    "name": "JumpToken",
+    "decimals": 18,
+    "logoURI": "ipfs://QmZnPm3t5ECmafB4Ppiu5aH8Rd8XDirRBe9czovVoUiM5c"
+  },
+  {
+    "chainId": 56,
     "address": "0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d",
     "symbol": "USDC",
     "name": "USD Coin",
     "decimals": 18,
     "logoURI": "ipfs://QmUQp1wZzr4UREn4AVLkKH5GbwpUCwf9w5VQQJeh1bmThJ"
+  },
+  {
+    "chainId": 56,
+    "address": "0x8fff93e810a2edaafc326edee51071da9d398e83",
+    "symbol": "BRISE",
+    "name": "Bitgert",
+    "decimals": 9,
+    "logoURI": "ipfs://QmVUkGuZshiuC4hXbFsGWkR51ND9ANMXQTrwbM6eXrn2o9"
   },
   {
     "chainId": 56,
@@ -90421,6 +90413,14 @@
   },
   {
     "chainId": 56,
+    "address": "0xd41fdb03ba84762dd66a0af1a6c8540ff1ba5dfb",
+    "symbol": "SFP",
+    "name": "SafePal",
+    "decimals": 18,
+    "logoURI": "ipfs://QmVPts8pq7Wr3uehn66tmE8uHMMJ85pGhXjXVBdfRg12Ca"
+  },
+  {
+    "chainId": 56,
     "address": "0xd4ed60d8368a92b5f1ca33af61ef2a94714b2d46",
     "symbol": "BAL",
     "name": "Balancer",
@@ -90466,6 +90466,14 @@
     "name": "Elk Finance",
     "decimals": 18,
     "logoURI": "ipfs://QmYSmFMg8incix4Hzs85MPZzQJnb2W19zLTL3nXNEzY42m"
+  },
+  {
+    "chainId": 56,
+    "address": "0xf21768ccbc73ea5b6fd3c687208a7c2def2d966e",
+    "symbol": "REEF",
+    "name": "Reef",
+    "decimals": 18,
+    "logoURI": "ipfs://QmSGTkTMTbFUnUoDmisKxyD96yKBeLRHXwHz64zohA5d9W"
   },
   {
     "chainId": 56,
