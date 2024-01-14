@@ -276,6 +276,14 @@
     "logoURI": "https://assets.coingecko.com/coins/images/20505/small/welt.PNG?1637143324"
   },
   {
+    "name": "Any Inu",
+    "address": "0x2598c30330d5771ae9f983979209486ae26de875",
+    "symbol": "AI",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://www.anyinu.xyz/anyinulogo200.png"
+  },
+  {
     "chainId": 137,
     "address": "0x263026e7e53dbfdce5ae55ade22493f828922965",
     "name": "Ricochet",
@@ -475,6 +483,14 @@
     "logoURI": "https://assets.coingecko.com/coins/images/23275/small/fyn.png?1643526250"
   },
   {
+    "name": "teleBTC",
+    "address": "0x3bf668fe1ec79a84ca8481cead5dbb30d61cc685",
+    "symbol": "TELEBTC",
+    "decimals": 8,
+    "chainId": 137,
+    "logoURI": "https://i.imgur.com/rjH0eOe.png"
+  },
+  {
     "name": "USDC",
     "address": "0x3c499c542cef5e3811e1192ce70d8cc03d5c3359",
     "symbol": "USDC",
@@ -663,14 +679,6 @@
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/23888.png"
   },
   {
-    "name": "teleBTC",
-    "address": "0x515d720b9d219f1931205d5b8d842be1fe2febde",
-    "symbol": "TELEBTC",
-    "decimals": 8,
-    "chainId": 137,
-    "logoURI": "https://i.imgur.com/rjH0eOe.png"
-  },
-  {
     "name": "Waves Ducks",
     "address": "0x51de72b17c7bd12e9e6d69eb506a669eb6b5249e",
     "symbol": "EGG",
@@ -757,6 +765,14 @@
     "decimals": 18,
     "symbol": "NEXT",
     "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-dapplist/main/images/dapp_connextbridge.png"
+  },
+  {
+    "name": "3A Utility Token",
+    "address": "0x58c7b2828e7f2b2caa0cc7feef242fa3196d03df",
+    "symbol": "A3A",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://1453456140-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FGbmVIsiJFchsVf8GkrQQ%2Fuploads%2FRgMuxRx6ZSaL6tvYjz18%2FA3A%20Black%20Logo.svg?alt=media&token=874a31a9-323c-4541-8634-1c097a8993c0"
   },
   {
     "name": "Adshares",
@@ -1079,6 +1095,14 @@
     "logoURI": "https://bookie.farm/logoether/bookie200.png"
   },
   {
+    "name": "Wicrypt Network",
+    "address": "0x82a0e6c02b91ec9f6ff943c0a933c03dbaa19689",
+    "symbol": "WNT",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/11649.png"
+  },
+  {
     "name": "QuickSwap(OLD)",
     "address": "0x831753dd7087cac61ab5644b308642cc1c33dc13",
     "symbol": "QUICK(OLD)",
@@ -1207,12 +1231,28 @@
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/24232.png"
   },
   {
+    "name": "Bullieverse",
+    "address": "0x9f95e17b2668afe01f8fbd157068b0a4405cc08d",
+    "symbol": "BULL",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://i.imgur.com/La2jNVp.png"
+  },
+  {
     "name": "pMATIC",
     "address": "0xa0df47432d9d88bcc040e9ee66ddc7e17a882715",
     "symbol": "pMATIC",
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://matic.ripae.finance/static/media/ripae_pftm.1a3fe2b4.svg"
+  },
+  {
+    "name": "EURO3",
+    "address": "0xa0e4c84693266a9d3bbef2f394b33712c76599ab",
+    "symbol": "EURO3",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://1453456140-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FGbmVIsiJFchsVf8GkrQQ%2Fuploads%2FJFuzcTfT6VY07JRY5cX7%2FEURO3%20Black%20Logo.svg?alt=media&token=c3cdfe3d-e847-4ff2-a2fa-d738a1386453"
   },
   {
     "name": "Decentraland MANA",
@@ -1585,6 +1625,14 @@
     "logoURI": "https://etherscan.io/token/images/aave_32.png"
   },
   {
+    "name": "Wormhole Taki",
+    "address": "0xd872b7ffca41a67eda85b04a9185c6b270006b58",
+    "symbol": "wTAKI",
+    "decimals": 9,
+    "chainId": 137,
+    "logoURI": "https://i.imgur.com/2iBGbwS.png"
+  },
+  {
     "name": "Quadrant Protocol",
     "address": "0xdab625853c2b35d0a9c6bd8e5a097a664ef4ccfb",
     "symbol": "eQUAD",
@@ -1679,6 +1727,14 @@
     "symbol": "jCOP",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-tokenlists/master/images/jCOP.svg"
+  },
+  {
+    "name": "TakiToken",
+    "address": "0xe78aee6ccb05471a69677fb74da80f5d251c042b",
+    "symbol": "TAKI",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://i.imgur.com/swpJ2Wx.png"
   },
   {
     "name": "PLOT",
