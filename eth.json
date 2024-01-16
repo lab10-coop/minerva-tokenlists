@@ -137,6 +137,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x0000206329b97db379d5e1bf586bbdb969c63274",
+    "name": "Angle USD",
+    "symbol": "AGUSD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/34510/thumb/agUSD-coingecko.png?1705288392"
+  },
+  {
+    "chainId": 1,
     "name": "TrueAUD",
     "address": "0x00006100f7090010005f1bd7ae6122c3c2cf0090",
     "decimals": 18,
@@ -206,6 +214,14 @@
     "decimals": 18,
     "symbol": "DEXM",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/8557.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x0022228a2cc5e7ef0274a7baa600d44da5ab5776",
+    "name": "Angle Staked agUSD",
+    "symbol": "STUSD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/34509/thumb/stUSD_copie.png?1705288386"
   },
   {
     "chainId": 1,
@@ -7784,11 +7800,11 @@
   },
   {
     "chainId": 1,
-    "name": "MixToEarn",
     "address": "0x159cdaf78be31e730d9e1330adfcfbb79a5fdb95",
-    "decimals": 18,
+    "name": "MixToEarn",
     "symbol": "MTE",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/27480.png"
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/30893/thumb/200x200x.png?1696529739"
   },
   {
     "chainId": 1,
@@ -12819,11 +12835,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x23d894fb4a0f551f2f923fc85e09819d1f3894b2",
     "name": "Intellix",
-    "symbol": "ITX",
+    "address": "0x23d894fb4a0f551f2f923fc85e09819d1f3894b2",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/34406/thumb/itx.jpeg?1704791991"
+    "symbol": "ITX",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/27480.png"
   },
   {
     "chainId": 1,
@@ -16843,6 +16859,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x2f3d0d2317802a65faac6e4cd94067c37b4d4804",
+    "name": "DECENTRACARD",
+    "symbol": "DCARD",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/34533/thumb/DC_Logo_5_200x200.png?1705323804"
+  },
+  {
+    "chainId": 1,
     "name": "AITravis",
     "address": "0x2f4404c4012476929b6503e1397707480bf23b7f",
     "decimals": 9,
@@ -19811,6 +19835,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x369733153e6e08d38f2bc72ae2432e855cfbe221",
+    "name": "XALPHA AI",
+    "symbol": "XALPHA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/34503/thumb/d987826f-a259-4c8b-886d-a9609b39aa37.jpg?1705287151"
+  },
+  {
+    "chainId": 1,
     "name": "Kiki",
     "address": "0x369b77bbeeee50e6ea206dcf41ee670c47360055",
     "decimals": 18,
@@ -20376,6 +20408,14 @@
     "decimals": 18,
     "symbol": "GETH",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7908.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x380bd08929d4ae51de22f708dccb6b4c534ab79a",
+    "name": "TINFA",
+    "symbol": "TINFA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/34542/thumb/TINFA_%281%29.png?1705339483"
   },
   {
     "chainId": 1,
@@ -25297,6 +25337,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x45e412e1878080815d6d51d47b83d17869433459",
+    "name": "Chief Troll Officer",
+    "symbol": "CTO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/34518/thumb/Untitled_design-13.png?1705295928"
+  },
+  {
+    "chainId": 1,
     "name": "Nexium",
     "address": "0x45e42d659d9f9466cd5df622506033145a9b89bc",
     "decimals": 3,
@@ -29073,7 +29121,7 @@
     "chainId": 1,
     "name": "TRON",
     "address": "0x50327c6c5a14dcade707abad2e27eb517df87ab5",
-    "decimals": 6,
+    "decimals": 18,
     "symbol": "TRX",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/1958.png"
   },
@@ -33887,11 +33935,11 @@
   },
   {
     "chainId": 1,
-    "name": "BRC20 BOT",
     "address": "0x5e05f367a1923b2a886e2f2bc45c2278a0b9b448",
-    "decimals": 18,
+    "name": "BRC20 BOT",
     "symbol": "BRCBOT",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/15944.png"
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/33607/thumb/IMG_20231206_032536_412.jpg?1702511057"
   },
   {
     "chainId": 1,
@@ -33900,6 +33948,14 @@
     "decimals": 18,
     "symbol": "IYKYK",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/22438.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x5e21d1ee5cf0077b314c381720273ae82378d613",
+    "name": "The Infinite Garden",
+    "symbol": "ETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/34540/thumb/film.jpg?1705338132"
   },
   {
     "chainId": 1,
@@ -40404,6 +40460,14 @@
     "decimals": 18,
     "symbol": "MAGNET",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/23930.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Orbitt Pro",
+    "address": "0x6fe2506d1ddd77c43a3eaf4c4e0f7aeb14f26765",
+    "decimals": 18,
+    "symbol": "ORBT",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29000.png"
   },
   {
     "chainId": 1,
@@ -62056,6 +62120,14 @@
   },
   {
     "chainId": 1,
+    "address": "0xae54e48c2263e889399ad29bfff401feaf08fd57",
+    "name": "DiversityEquity Inclusion",
+    "symbol": "DEI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/34535/thumb/Wei_Icon.png?1705324644"
+  },
+  {
+    "chainId": 1,
     "name": "Goodomy",
     "address": "0xae616e72d3d89e847f74e8ace41ca68bbf56af79",
     "decimals": 6,
@@ -64487,6 +64559,14 @@
   },
   {
     "chainId": 1,
+    "address": "0xb53b9e28b98c47e87acfd5a85eeb44a0940ecb12",
+    "name": "Ordible",
+    "symbol": "ORB",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/34524/thumb/IMG_5471.PNG?1705303671"
+  },
+  {
+    "chainId": 1,
     "name": "ZKCHAOS",
     "address": "0xb53de031602cd825febe9f2eedf962cd8cc3805d",
     "decimals": 18,
@@ -65379,6 +65459,14 @@
     "decimals": 18,
     "symbol": "STREETH",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/19188.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xb84f00b5ab187bc795d61389ac2418d4e7c77bb0",
+    "name": "Balance Network Finance",
+    "symbol": "BALANCE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/34530/thumb/20240113_025010.png?1705307118"
   },
   {
     "chainId": 1,
@@ -71049,6 +71137,14 @@
   },
   {
     "chainId": 1,
+    "address": "0xc881255e4d639b42e326158c7b8ccb7f33459261",
+    "name": "AMMX",
+    "symbol": "AMMX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/34546/thumb/bitswap_logo-symbol.png?1705341263"
+  },
+  {
+    "chainId": 1,
     "address": "0xc8871267e07408b89aa5aecc58adca5e574557f8",
     "name": "Instadapp USDC",
     "symbol": "IUSDC",
@@ -71577,7 +71673,7 @@
   },
   {
     "chainId": 1,
-    "name": "StarkNet Token",
+    "name": "Starknet Token",
     "address": "0xca14007eff0db1f8135f4c25b34de49ab0d42766",
     "decimals": 18,
     "symbol": "STRK",
@@ -75720,11 +75816,11 @@
   },
   {
     "chainId": 1,
-    "address": "0xd5f7838f5c461feff7fe49ea5ebaf7728bb0adfa",
     "name": "Mantle Staked Ether",
-    "symbol": "METH",
+    "address": "0xd5f7838f5c461feff7fe49ea5ebaf7728bb0adfa",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/33345/thumb/symbol_transparent_bg.png?1701697066"
+    "symbol": "METH",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29035.png"
   },
   {
     "chainId": 1,
@@ -80224,6 +80320,14 @@
   },
   {
     "chainId": 1,
+    "address": "0xe3f03cef497c81d2b28a2fae63ae84b373028718",
+    "name": "MARVIN",
+    "symbol": "MARVIN",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/34548/thumb/cg.jpg?1705341719"
+  },
+  {
+    "chainId": 1,
     "name": "Lock3r Network",
     "address": "0xe3f3869ddd41c23eff3630f58e5bfa584c770d67",
     "decimals": 18,
@@ -80349,6 +80453,14 @@
     "symbol": "VUZZ",
     "decimals": 9,
     "logoURI": "https://assets.coingecko.com/coins/images/34294/thumb/tokenlogogecko.png?1704606291"
+  },
+  {
+    "chainId": 1,
+    "address": "0xe46a1d19962ea120765d3139c588ffd617be04a8",
+    "name": "EverETH",
+    "symbol": "EETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/34525/thumb/EETH_LOGO.png?1705303995"
   },
   {
     "chainId": 1,
@@ -82701,6 +82813,14 @@
     "decimals": 18,
     "symbol": "ORS",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2879.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xeb9e3c6cda17c8755a4e8a1cc944afb7fc7d7905",
+    "name": "MatchTrade",
+    "symbol": "MATCH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/34520/thumb/Frame_16.png?1705301241"
   },
   {
     "chainId": 1,
@@ -88166,6 +88286,14 @@
   },
   {
     "chainId": 1,
+    "name": "Cyber Crowd Chain",
+    "address": "0xfb09122d1e17170c1807bfc1ef3c614bd85e1b6e",
+    "decimals": 18,
+    "symbol": "CCC",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29036.png"
+  },
+  {
+    "chainId": 1,
     "name": "GoMeat",
     "address": "0xfb1172b050bcc798e37ae8abf620cc528e771162",
     "decimals": 18,
@@ -88315,14 +88443,6 @@
     "decimals": 18,
     "symbol": "DEXT",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/5866.png"
-  },
-  {
-    "chainId": 1,
-    "name": "DIPNET",
-    "address": "0xfb8bf095ebcdad57d2e37573a505e7d3bafdd3cc",
-    "decimals": 18,
-    "symbol": "DPN",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2997.png"
   },
   {
     "chainId": 1,
