@@ -5664,11 +5664,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x0f5c78f152152dda52a2ea45b0a8c10733010748",
     "name": "XOX Labs",
-    "symbol": "XOX",
+    "address": "0x0f5c78f152152dda52a2ea45b0a8c10733010748",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/34611/thumb/0164CF6D-8683-418C-9ACB-C6D63B9E1CCB.jpeg?1705499880"
+    "symbol": "XOX",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29087.png"
   },
   {
     "chainId": 1,
@@ -7440,6 +7440,14 @@
   },
   {
     "chainId": 1,
+    "name": "DiscoverFeed",
+    "address": "0x148255a3b10666d9788ec48bc61ea3e48974bf2c",
+    "decimals": 18,
+    "symbol": "DMCC",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29094.png"
+  },
+  {
+    "chainId": 1,
     "name": "Confido",
     "address": "0x14839bf22810f09fb163af69bd21bd5476f445cd",
     "decimals": 18,
@@ -7965,6 +7973,14 @@
     "symbol": "MAC",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/32193/thumb/mac.png?1696745471"
+  },
+  {
+    "chainId": 1,
+    "name": "SatoshiVM",
+    "address": "0x15e6e0d4ebeac120f9a97e71faa6a0235b85ed12",
+    "decimals": 18,
+    "symbol": "SAVM",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29095.png"
   },
   {
     "chainId": 1,
@@ -8720,11 +8736,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x17c50d62e6e8d20d2dc18e9ad79c43263d0720d9",
     "name": "Not Financial Advice",
-    "symbol": "NFAI",
+    "address": "0x17c50d62e6e8d20d2dc18e9ad79c43263d0720d9",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/28758/thumb/NFAilogo-200x200-white.png?1696527737"
+    "symbol": "NFAI",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/23267.png"
   },
   {
     "chainId": 1,
@@ -14563,6 +14579,14 @@
   },
   {
     "chainId": 1,
+    "name": "GG Token",
+    "address": "0x27eb7aa2cce204012f7d9cd4d49baa746ec5ab63",
+    "decimals": 18,
+    "symbol": "GGTKN",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/20484.png"
+  },
+  {
+    "chainId": 1,
     "name": "Upper Pound",
     "address": "0x27ed129c298c5df130364083f491e2920e5a2f29",
     "decimals": 18,
@@ -16912,6 +16936,14 @@
     "decimals": 18,
     "symbol": "FREE",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3388.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x2f1ee92524285012c02a4e638ec010fa7f61fd94",
+    "name": "Siphon Life Spell",
+    "symbol": "SLS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/34667/thumb/photo_2024-01-17_04-21-27.jpg?1705654454"
   },
   {
     "chainId": 1,
@@ -34359,6 +34391,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x5eed99d066a8caf10f3e4327c1b3d8b673485eed",
+    "name": "Garden",
+    "symbol": "SEED",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/34671/thumb/icon.png?1705656915"
+  },
+  {
+    "chainId": 1,
     "name": "Clown Pepe",
     "address": "0x5efcea234f7547de4569aad1215fa5d2adaced38",
     "decimals": 18,
@@ -41033,7 +41073,7 @@
     "chainId": 1,
     "name": "cheqd",
     "address": "0x70edf1c215d0ce69e7f16fd4e6276ba0d99d4de7",
-    "decimals": 9,
+    "decimals": 18,
     "symbol": "CHEQ",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/12256.png"
   },
@@ -51288,14 +51328,6 @@
     "decimals": 18,
     "symbol": "TYRANT",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/22356.png"
-  },
-  {
-    "chainId": 1,
-    "name": "Not Financial Advice",
-    "address": "0x8eecaad83a1ea77bd88a818d4628fafc4cad7969",
-    "decimals": 18,
-    "symbol": "NFAI",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/23267.png"
   },
   {
     "chainId": 1,
@@ -67542,6 +67574,14 @@
   },
   {
     "chainId": 1,
+    "address": "0xbd6323a83b613f668687014e8a5852079494fb68",
+    "name": "BlackrockTradingCurrency",
+    "symbol": "BTC",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/34656/thumb/imresizer-%282%29.png?1705632165"
+  },
+  {
+    "chainId": 1,
     "name": "GranX Chain",
     "address": "0xbd668ec47e10d3bf23b1d68139e545162a0dfcfa",
     "decimals": 18,
@@ -69790,6 +69830,14 @@
     "decimals": 18,
     "symbol": "HMB",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/6461.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xc3b36424c70e0e6aee3b91d1894c2e336447dbd3",
+    "name": "TokenWatch",
+    "symbol": "TOKENWATCH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/34672/thumb/TW_token.png?1705657486"
   },
   {
     "chainId": 1,
@@ -77682,7 +77730,7 @@
     "chainId": 1,
     "name": "StablR Euro",
     "address": "0xdac306d72f48dbad805a11cbf7a512a277c084c9",
-    "decimals": 1,
+    "decimals": 18,
     "symbol": "EURR",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29042.png"
   },
@@ -79552,6 +79600,14 @@
   },
   {
     "chainId": 1,
+    "address": "0xe0bd989ec7417374a1c0d9d4fb8b692d1a9e27eb",
+    "name": "Blackwater Labs",
+    "symbol": "BWL",
+    "decimals": 10,
+    "logoURI": "https://assets.coingecko.com/coins/images/34670/thumb/200x200.png?1705656297"
+  },
+  {
+    "chainId": 1,
     "name": "Refract",
     "address": "0xe0bdaafd0aab238c55d68ad54e616305d4a21772",
     "decimals": 9,
@@ -80677,6 +80733,14 @@
     "decimals": 18,
     "symbol": "WCELO",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/8288.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xe453c3409f8ad2b1fe1ed08e189634d359705a5b",
+    "name": "DGI Game",
+    "symbol": "DGI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/34658/thumb/DGI_Game.png?1705633633"
   },
   {
     "chainId": 1,
@@ -87573,6 +87637,14 @@
   },
   {
     "chainId": 1,
+    "address": "0xf827f77422d6dff7b4e1bc87fec88606082b2199",
+    "name": "MuskX",
+    "symbol": "MUSKX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/34650/thumb/output-onlinepngtools.png?1705593083"
+  },
+  {
+    "chainId": 1,
     "name": "JEFF",
     "address": "0xf831938caf837cd505de196bbb408d81a06376ab",
     "decimals": 18,
@@ -87986,6 +88058,14 @@
     "decimals": 18,
     "symbol": "SWETH",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/25147.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xf96287ea71abb5c8c58961c7a3cd3982a505e264",
+    "name": "Stem AI",
+    "symbol": "STEM",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/34660/thumb/Stem_AI.png?1705636636"
   },
   {
     "chainId": 1,
@@ -88989,11 +89069,11 @@
   },
   {
     "chainId": 1,
+    "name": "SOLAV TOKEN",
     "address": "0xfc5e4ed56153b57aa8ef769eba3e79e58e19be93",
-    "name": "SOLAV",
-    "symbol": "SOLAV",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/34483/thumb/White_Background.png?1705042967"
+    "symbol": "SOLAV",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29090.png"
   },
   {
     "chainId": 1,
