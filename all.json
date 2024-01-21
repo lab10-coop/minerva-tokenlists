@@ -49987,11 +49987,11 @@
   },
   {
     "chainId": 1,
+    "name": "/Reach",
     "address": "0x8b12bd54ca9b2311960057c8f3c88013e79316e3",
-    "name": "Reach",
-    "symbol": "REACH",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/33776/thumb/reach.jpeg?1702970338"
+    "symbol": "REACH",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29103.png"
   },
   {
     "chainId": 1,
@@ -91236,6 +91236,14 @@
   },
   {
     "chainId": 100,
+    "address": "0xaad66432d27737ecf6ed183160adc5ef36ab99f2",
+    "symbol": "TRB",
+    "name": "Tellor",
+    "decimals": 18,
+    "logoURI": "ipfs://QmWvmGB7NhEcfLrqCM6dsRozFytqY2wBC3ordycpzgjQqU"
+  },
+  {
+    "chainId": 100,
     "address": "0xaf204776c7245bf4147c2612bf6e5972ee483701",
     "symbol": "sDAI",
     "name": "Savings xDAI",
@@ -91393,6 +91401,14 @@
     "name": "The Graph",
     "decimals": 18,
     "logoURI": "ipfs://QmaCTcJ7pLUgdjdXeZkubcRsGnyT73fvPBsgPLWMZevCfd"
+  },
+  {
+    "chainId": 100,
+    "address": "0xfbdd194376de19a88118e84e279b977f165d01b8",
+    "symbol": "DHV",
+    "name": "DeHive",
+    "decimals": 18,
+    "logoURI": "ipfs://QmeWfbxG4G3H8LiWM8cFxZDd5PiYoztAa7xJWB9NrVCdki"
   },
   {
     "chainId": 137,
