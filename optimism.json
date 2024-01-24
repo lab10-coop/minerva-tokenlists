@@ -915,6 +915,18 @@
   },
   {
     "chainId": 1,
+    "address": "0x6b66ccd1340c479b07b390d326eadcbb84e726ba",
+    "name": "Seamless",
+    "symbol": "SEAM",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/SEAM/logo.svg",
+    "extensions": {
+      "opListId": "extended",
+      "opTokenId": "SEAM"
+    }
+  },
+  {
+    "chainId": 1,
     "address": "0x720cd16b011b987da3518fbf38c3071d4f0d1495",
     "name": "Flux",
     "symbol": "FLUX",
@@ -2534,6 +2546,18 @@
     "extensions": {
       "opListId": "extended",
       "opTokenId": "SOL"
+    }
+  },
+  {
+    "chainId": 5,
+    "address": "0x4a46ebdd35b12703717d6f4dfbf5db91e6ac0660",
+    "name": "Seamless",
+    "symbol": "SEAM",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/SEAM/logo.svg",
+    "extensions": {
+      "opListId": "extended",
+      "opTokenId": "SEAM"
     }
   },
   {
@@ -5128,6 +5152,18 @@
   },
   {
     "chainId": 8453,
+    "address": "0x1c7a460413dd4e964f96d8dfc56e7223ce88cd85",
+    "name": "Seamless",
+    "symbol": "SEAM",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/SEAM/logo.svg",
+    "extensions": {
+      "opListId": "extended",
+      "opTokenId": "SEAM"
+    }
+  },
+  {
+    "chainId": 8453,
     "address": "0x1c9fa01e87487712706fb469a13beb234262c867",
     "name": "ARPA Token",
     "symbol": "ARPA",
@@ -6148,6 +6184,18 @@
       "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "extended",
       "opTokenId": "PIP"
+    }
+  },
+  {
+    "chainId": 84531,
+    "address": "0x8c0de778f20e7d25e6e2aac23d5bee1d19deb491",
+    "name": "Seamless",
+    "symbol": "SEAM",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/SEAM/logo.svg",
+    "extensions": {
+      "opListId": "extended",
+      "opTokenId": "SEAM"
     }
   },
   {
