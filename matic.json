@@ -439,14 +439,6 @@
     ]
   },
   {
-    "name": "AssetMantle",
-    "address": "0x38a536a31ba4d8c1bcca016abbf786ecd25877e8",
-    "symbol": "MNTL",
-    "decimals": 6,
-    "chainId": 137,
-    "logoURI": "https://assets.coingecko.com/coins/images/25181/small/thumbnail.png?1658821784"
-  },
-  {
     "name": "Staked MATIC",
     "address": "0x3a58a54c066fdc0f2d55fc9c89f0415c92ebf3c4",
     "symbol": "stMATIC",
@@ -535,20 +527,20 @@
     ]
   },
   {
-    "name": "MetaTrace",
-    "address": "0x40d9fc77027a281d85de1fa660c887e645ae26c3",
-    "symbol": "TRC",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://polygonscan.com/token/images/metatraceme_32.png?=v34"
-  },
-  {
     "name": "Nexo",
     "address": "0x41b3966b4ff7b427969ddf5da3627d6aeae9a48e",
     "symbol": "NEXO",
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/2694.png"
+  },
+  {
+    "name": "Digital Fitness",
+    "address": "0x428360b02c1269bc1c79fbc399ad31d58c1e8fda",
+    "symbol": "DEFIT",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://i.imgur.com/FhKKgTM.png"
   },
   {
     "name": "Trace Network",
@@ -711,14 +703,6 @@
     "logoURI": "https://assets.coingecko.com/coins/images/9519/small/paxg.PNG?1568542565"
   },
   {
-    "name": "AnRKey X",
-    "address": "0x554f074d9ccda8f483d1812d4874cbebd682644e",
-    "symbol": "ANRX",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://assets.coingecko.com/coins/images/13415/small/anrkey.jpg?1608311301"
-  },
-  {
     "name": "StaFi(rETH)",
     "address": "0x5736df66b4f8401d639ffa915a46b4c548c09ac1",
     "symbol": "rETH",
@@ -789,14 +773,6 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://assets.coingecko.com/coins/images/14141/small/etha_logo200x200.png?1614646986"
-  },
-  {
-    "name": "Binance Token",
-    "address": "0x5c4b7ccbf908e64f32e12c6650ec0c96d717f03f",
-    "symbol": "BNB",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://assets.coingecko.com/coins/images/825/small/binance-coin-logo.png?1547034615"
   },
   {
     "name": "4INT",
@@ -911,6 +887,14 @@
     "logoURI": "https://i.imgur.com/tl2Mxnt.png"
   },
   {
+    "name": "Mammoth",
+    "address": "0x6d830a664e6aa9aab976ab66258eecd0b5fb1dc7",
+    "symbol": "WOOLY",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://i.ibb.co/WHmqpk4/mammoth.jpg"
+  },
+  {
     "name": "Furucombo",
     "address": "0x6ddb31002abc64e1479fc439692f7ea061e78165",
     "symbol": "COMBO",
@@ -973,6 +957,14 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://assets.coingecko.com/coins/images/10365/small/near_icon.png?1601359077"
+  },
+  {
+    "name": "CULO",
+    "address": "0x74dd45dd579cad749f9381d6227e7e02277c944b",
+    "symbol": "CULO",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://i.postimg.cc/qBWpKF3r/IMG-20240123-225021-225.png"
   },
   {
     "name": "Axelar Wrapped USDC",
@@ -1151,28 +1143,12 @@
     "logoURI": "https://polydoge.com/doge-webpage_files/doge.png"
   },
   {
-    "name": "Axelar Wrapped PEPE",
-    "address": "0x8bae3f5eb10f39663e57be19741fd9ccef0e113a",
-    "symbol": "axlPEPE",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://assets.coingecko.com/coins/images/29850/small/pepe-token.jpeg?1682922725"
-  },
-  {
     "chainId": 137,
     "address": "0x8ca194a3b22077359b5732de53373d4afc11dee3",
     "name": "Jarvis Synthetic Canadian Dollar",
     "symbol": "jCAD",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-tokenlists/master/images/jCAD.svg"
-  },
-  {
-    "name": "CosplayToken",
-    "address": "0x8d520c8e66091cfd6743fe37fbe3a09505616c4b",
-    "symbol": "COT",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://assets.coingecko.com/coins/images/21294/small/brave_ZxsjzUc8xn.png?1638874098"
   },
   {
     "name": "Pleasure Coin",
@@ -1311,28 +1287,12 @@
     "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-tokenlists/master/images/jSGD.svg"
   },
   {
-    "name": "wLitiDAO",
-    "address": "0xa936e1f747d14fc30d08272d065c8aef4ab7f810",
-    "symbol": "WLD",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://assets.coingecko.com/coins/images/24106/small/200px-cmc.png?1646376154"
-  },
-  {
     "name": "Moss Carbon Credit",
     "address": "0xaa7dbd1598251f856c12f63557a4c4397c253cea",
     "symbol": "MCO2",
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://i.imgur.com/ZcOLkHe.jpg"
-  },
-  {
-    "name": "Cosmos",
-    "address": "0xac51c4c48dc3116487ed4bc16542e27b5694da1b",
-    "symbol": "ATOM",
-    "decimals": 6,
-    "chainId": 137,
-    "logoURI": "https://assets.coingecko.com/coins/images/1481/small/cosmos_hub.png?1555657960"
   },
   {
     "name": "BOB",
@@ -1767,14 +1727,6 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://i.ibb.co/RpQ65xN/imgonline-com-ua-Resize-s-Hpa1-XPD6-NKFN4-P.png"
-  },
-  {
-    "name": "LumiiiToken",
-    "address": "0xed88227296943857409a8e0f15ad7134e70d0f73",
-    "symbol": "LUMIII",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/21892.png"
   },
   {
     "name": "MCHCoin",
