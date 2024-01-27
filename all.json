@@ -1257,11 +1257,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x02f92800f57bcd74066f5709f1daa1a4302df875",
     "name": "Peapods Finance",
-    "symbol": "PEAS",
+    "address": "0x02f92800f57bcd74066f5709f1daa1a4302df875",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/33711/thumb/NAzHgbTW_400x400.png?1702856653"
+    "symbol": "PEAS",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29186.png"
   },
   {
     "chainId": 1,
@@ -6840,11 +6840,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x12ef10a4fc6e1ea44b4ca9508760ff51c647bb71",
     "name": "Restake Finance",
-    "symbol": "RSTK",
+    "address": "0x12ef10a4fc6e1ea44b4ca9508760ff51c647bb71",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/33885/thumb/rstk.png?1703148117"
+    "symbol": "RSTK",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29179.png"
   },
   {
     "chainId": 1,
@@ -8504,11 +8504,11 @@
   },
   {
     "chainId": 1,
+    "name": "Amulet",
     "address": "0x174c47d6a4e548ed2b7d369dc0ffb2e60a6ac0f8",
-    "name": "Amulet Protocol",
-    "symbol": "AMU",
     "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/34716/thumb/AMT200x200.png?1705904544"
+    "symbol": "AMU",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29185.png"
   },
   {
     "chainId": 1,
@@ -9844,6 +9844,14 @@
     "decimals": 18,
     "symbol": "WINRY",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/13366.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x1a88df1cfe15af22b3c4c783d4e6f7f9e0c1885d",
+    "name": "Aave stkGHO",
+    "symbol": "STKGHO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/34849/thumb/stkgho.png?1706260099"
   },
   {
     "chainId": 1,
@@ -14571,6 +14579,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x27c57f84236780881be694a18e149bb5bb78c21f",
+    "name": "LiquidityRush",
+    "symbol": "LIQR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/34846/thumb/liqr_%281%29.jpg?1706254692"
+  },
+  {
+    "chainId": 1,
     "name": "Snow",
     "address": "0x27c6295aaf7985c05f0ca8058b8d9b47211f2841",
     "decimals": 18,
@@ -18446,7 +18462,8 @@
     "address": "0x32c6f1c1731ff8f98ee2ede8954f696446307846",
     "name": "Beardy Dragon",
     "symbol": "BEARDY",
-    "decimals": 18
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/34836/thumb/200x200.jpg?1706266367"
   },
   {
     "chainId": 1,
@@ -23825,11 +23842,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x416cdaf616a82d7dd46e0dbf36e7d6fe412bc40e",
     "name": "Luna28",
-    "symbol": "LUNA",
+    "address": "0x416cdaf616a82d7dd46e0dbf36e7d6fe412bc40e",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/34777/thumb/Logo_%281%29_%281%29.png?1706071100"
+    "symbol": "$LUNA",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29181.png"
   },
   {
     "chainId": 1,
@@ -34687,7 +34704,7 @@
   {
     "chainId": 1,
     "address": "0x5f48d1fd6814cd1cd38aeb895755e57d519196d1",
-    "name": "Wins",
+    "name": "Trophy",
     "symbol": "WINS",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/31007/thumb/icon_wins.png?1696529844"
@@ -60128,6 +60145,14 @@
   },
   {
     "chainId": 1,
+    "address": "0xa711bcc2b6f5c4fc3dfaccc2a01148765cbbab1c",
+    "name": "Grok1 5",
+    "symbol": "GROK15",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/34838/thumb/IMG_20240123_045540_147.jpg?1706240605"
+  },
+  {
+    "chainId": 1,
     "name": "Starfish Finance",
     "address": "0xa719cb79af39a9c10eda2755e0938bce35e9de24",
     "decimals": 18,
@@ -67290,14 +67315,6 @@
     "name": "Percent",
     "decimals": 18,
     "logoURI": "ipfs://QmV8BhAsiScgk2Rc8hR5VHpEBMADiRtwvFZs3LUDMCHAgQ"
-  },
-  {
-    "chainId": 1,
-    "address": "0xbc17729fdf562723f0267f79ff25ade441056d87",
-    "name": "Karus Starter",
-    "symbol": "KST",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/18862/thumb/logo-only.png?1696518322"
   },
   {
     "chainId": 1,
@@ -74868,7 +74885,7 @@
     "name": "Zuzalu Inu",
     "symbol": "ZUZALU",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/34552/thumb/Safeimagekit-resized-img_%2822%29.png?1705368533"
+    "logoURI": "https://assets.coingecko.com/coins/images/34552/thumb/zuzalu_0xd1f17b7a6bff962659ed608bcd6d318bb5fbb2491705497250930.jpg?1706250673"
   },
   {
     "chainId": 1,
@@ -77384,7 +77401,7 @@
   {
     "chainId": 1,
     "address": "0xd8f1460044925d2d5c723c7054cd9247027415b7",
-    "name": "SAIL",
+    "name": "Clipper SAIL",
     "symbol": "SAIL",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/31380/thumb/SAIL-Logo.png?1696530197"
@@ -83679,11 +83696,11 @@
   },
   {
     "chainId": 1,
-    "address": "0xec70ff4a5b09110e4d20ada4f2db4a86ec61fac6",
     "name": "Grape",
-    "symbol": "GRP",
+    "address": "0xec70ff4a5b09110e4d20ada4f2db4a86ec61fac6",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/31106/thumb/grape_logo-removebg-preview_%281%29.png?1696529937"
+    "symbol": "GRP",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/24984.png"
   },
   {
     "chainId": 1,
@@ -86038,11 +86055,11 @@
   },
   {
     "chainId": 1,
+    "name": "X Payments",
     "address": "0xf2fdd9c25d7bc8002ce89716d1be484b2d976944",
-    "name": "  Payments",
-    "symbol": "XPAY",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/34745/thumb/xpay_%281%29.jpg?1705949795"
+    "symbol": "XPAY",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29178.png"
   },
   {
     "chainId": 1,
@@ -89821,14 +89838,6 @@
   },
   {
     "chainId": 1,
-    "address": "0xfde00bd1da57349b0df85f134b18124266f3bc5b",
-    "name": "Decentralized Intelligence Agency  OLD ",
-    "symbol": "DIA",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/29808/thumb/IMG_20230412_175949_318.jpg?1696528737"
-  },
-  {
-    "chainId": 1,
     "name": "Gilgamesh ETH",
     "address": "0xfde19f0de7a4e7eca8ab29c9f202a21a3b3503de",
     "decimals": 9,
@@ -91180,6 +91189,14 @@
   },
   {
     "chainId": 56,
+    "address": "0xcf6bb5389c92bdda8a3747ddb454cb7a64626c63",
+    "symbol": "XVS",
+    "name": "Venus",
+    "decimals": 18,
+    "logoURI": "ipfs://QmXTx1VXDTzAavzk6TV81XW61iLMRaNx2DF2JTdsJxXAzD"
+  },
+  {
+    "chainId": 56,
     "address": "0xd17479997f34dd9156deef8f95a52d81d265be9c",
     "symbol": "USDD",
     "name": "Decentralized USD",
@@ -91233,6 +91250,14 @@
     "name": "Venus USDC",
     "decimals": 8,
     "logoURI": "ipfs://Qmd54DjFY5vCwpDkAfd4joLpycEgNwGNkTWbgWNouXF5wt"
+  },
+  {
+    "chainId": 56,
+    "address": "0xed8c8aa8299c10f067496bb66f8cc7fb338a3405",
+    "symbol": "PROS",
+    "name": "Prosper",
+    "decimals": 18,
+    "logoURI": "ipfs://QmewE3Kv1SjWchsXj6iRPBL2Nh5qKHvR6ivb4R3D3nWQo5"
   },
   {
     "chainId": 56,
@@ -96985,6 +97010,14 @@
     "logoURI": "https://tokens.pancakeswap.finance/images/0x045c4324039dA91c52C55DF5D785385Aab073DcF.png"
   },
   {
+    "name": "mPendle",
+    "symbol": "mPENDLE",
+    "address": "0x0465aad9da170798433f4ab7fa7ec8b9b9bf0bb1",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x0465aad9da170798433F4aB7fa7Ec8b9b9bf0Bb1.png"
+  },
+  {
     "name": "Carbon",
     "symbol": "CSIX",
     "address": "0x04756126f044634c9a0f0e985e60c88a51acc206",
@@ -97143,6 +97176,14 @@
     "symbol": "1INCH",
     "decimals": 18,
     "logoURI": "https://tokens.1inch.io/0x111111111117dc0aa78b770fa6a738034120c302.png"
+  },
+  {
+    "name": "Magpie locked DLP",
+    "symbol": "mDLP",
+    "address": "0x11727e5b7fa33ff4d380f3e7e877f19876c25b97",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x11727E5b7Fa33FF4D380F3E7E877F19876c25b97.png"
   },
   {
     "name": "Radio Caca V2",
@@ -97639,6 +97680,14 @@
     "chainId": 56,
     "decimals": 18,
     "logoURI": "https://tokens.pancakeswap.finance/images/0x33d08D8C7a168333a85285a68C0042b39fC3741D.png"
+  },
+  {
+    "name": "WBNB-RDNT Pancake LP",
+    "symbol": "DLP",
+    "address": "0x346575fc7f07e6994d76199e41d13dc1575322e1",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x346575fC7f07E6994D76199E41D13dC1575322E1.png"
   },
   {
     "name": "Bittorrent",
