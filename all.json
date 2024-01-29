@@ -10347,14 +10347,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x1c11325ec05500dd587ffe0eeb2d4499b5b91e79",
-    "name": "EcoTool",
-    "symbol": "ETO",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/31080/thumb/My_project.png?1696529913"
-  },
-  {
-    "chainId": 1,
     "name": "TMC",
     "address": "0x1c153badb7e54abcdcb65f0a09fcd6f10de36aa3",
     "decimals": 18,
@@ -22655,6 +22647,14 @@
     "decimals": 18,
     "symbol": "HQT",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3615.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x3e2324342bf5b8a1dca42915f0489497203d640e",
+    "name": "Barley Finance",
+    "symbol": "BARL",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/34867/thumb/logo_200.png?1706410358"
   },
   {
     "chainId": 1,
@@ -56142,14 +56142,6 @@
     "symbol": "FACET",
     "decimals": 9,
     "logoURI": "https://assets.coingecko.com/coins/images/34825/thumb/FACET.jpg?1706191458"
-  },
-  {
-    "chainId": 1,
-    "address": "0x9bf601da3aba6d4401ca2b9af85a8bd63b98e8ab",
-    "name": "Custom Wallet Bot",
-    "symbol": "WALLET",
-    "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/31109/thumb/lgoo_3.png?1696529939"
   },
   {
     "chainId": 1,
@@ -90821,6 +90813,22 @@
   },
   {
     "chainId": 56,
+    "address": "0x2ab0e9e4ee70fff1fb9d67031e44f6410170d00e",
+    "symbol": "bXEN",
+    "name": "XEN Crypto",
+    "decimals": 18,
+    "logoURI": "ipfs://QmZR3j8MhdE3yWFv6uhLTdapNBCoLTMfSNGqxGK2dBA6ML"
+  },
+  {
+    "chainId": 56,
+    "address": "0x2dff88a56767223a5529ea5960da7a3f5f766406",
+    "symbol": "ID",
+    "name": "SPACE ID",
+    "decimals": 18,
+    "logoURI": "ipfs://QmaMA9qpmBogwzhZ8bor1R43kMksTT4kS8yMExqWs2aS3C"
+  },
+  {
+    "chainId": 56,
     "address": "0x3019bf2a2ef8040c242c9a4c5c4bd4c81678b2a1",
     "symbol": "GMT",
     "name": "STEPN",
@@ -91413,6 +91421,14 @@
   },
   {
     "chainId": 100,
+    "address": "0x431d5dff03120afa4bdf332c61a6e1766ef37bdb",
+    "symbol": "JPYC",
+    "name": "JPY Coin",
+    "decimals": 18,
+    "logoURI": "ipfs://QmX5M9oHm5KexoSF5hYDKbykYbceg5hvvi1ioho1YrBsyP"
+  },
+  {
+    "chainId": 100,
     "address": "0x4537e328bf7e4efa29d05caea260d7fe26af9d74",
     "symbol": "UNI",
     "name": "Uniswap",
@@ -91666,6 +91682,14 @@
     "name": "Staking PNK",
     "decimals": 18,
     "logoURI": "ipfs://QmT3MPe6E9LQLGMP5RJ8foUJS8eYp4vaYh3mSYW5JvwAZd"
+  },
+  {
+    "chainId": 100,
+    "address": "0xccf1279c3406ad1181bee00dab4b28b23d17ddb1",
+    "symbol": "JRT",
+    "name": "Jarvis Reward Token",
+    "decimals": 18,
+    "logoURI": "ipfs://QmQDvx5ZAN7A2fmnnxgCo3S2FRVLkxWq58EzojxiN8HMwr"
   },
   {
     "chainId": 100,
