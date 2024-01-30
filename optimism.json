@@ -367,6 +367,19 @@
   },
   {
     "chainId": 1,
+    "address": "0x1e0b2992079b620aa13a7c2e7c88d2e1e18e46e9",
+    "name": "KOMPETE Token",
+    "symbol": "KOMPETE",
+    "decimals": 10,
+    "logoURI": "https://ethereum-optimism.github.io/data/KOMPETE/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "opListId": "extended",
+      "opTokenId": "KOMPETE"
+    }
+  },
+  {
+    "chainId": 1,
     "address": "0x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
     "name": "Uniswap",
     "symbol": "UNI",
@@ -402,6 +415,19 @@
       "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1",
       "opListId": "default",
       "opTokenId": "WBTC"
+    }
+  },
+  {
+    "chainId": 1,
+    "address": "0x226bb599a12c826476e3a771454697ea52e9e220",
+    "name": "Propy",
+    "symbol": "PRO",
+    "decimals": 8,
+    "logoURI": "https://ethereum-optimism.github.io/data/PRO/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "opListId": "extended",
+      "opTokenId": "PRO"
     }
   },
   {
@@ -5152,6 +5178,19 @@
   },
   {
     "chainId": 8453,
+    "address": "0x18dd5b087bca9920562aff7a0199b96b9230438b",
+    "name": "Propy",
+    "symbol": "PRO",
+    "decimals": 8,
+    "logoURI": "https://ethereum-optimism.github.io/data/PRO/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "PRO"
+    }
+  },
+  {
+    "chainId": 8453,
     "address": "0x1c7a460413dd4e964f96d8dfc56e7223ce88cd85",
     "name": "Seamless",
     "symbol": "SEAM",
@@ -5555,6 +5594,19 @@
       "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "default",
       "opTokenId": "CRV"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0x8f019931375454fe4ee353427eb94e2e0c9e0a8c",
+    "name": "KOMPETE Token",
+    "symbol": "KOMPETE",
+    "decimals": 10,
+    "logoURI": "https://ethereum-optimism.github.io/data/KOMPETE/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "KOMPETE"
     }
   },
   {
