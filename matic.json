@@ -2041,6 +2041,14 @@
     "logoURI": "https://raw.githubusercontent.com/0xlaozi/qidao/main/images/mimatic-red.png"
   },
   {
+    "name": "USD Coin",
+    "address": "0x37eaa0ef3549a5bb7d431be78a3d99bd360d19e5",
+    "symbol": "USDC.E",
+    "decimals": 6,
+    "chainId": 1101,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+  },
+  {
     "name": "Curve DAO Token",
     "address": "0x3d5320821bfca19fb0b5428f2c79d63bd5246f89",
     "symbol": "CRV",
@@ -2063,14 +2071,6 @@
     "decimals": 18,
     "chainId": 1101,
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
-  },
-  {
-    "name": "Wrapped liquid staked Ether 2.0",
-    "address": "0x5d8cff95d7a57c0bf50b30b43c7cc0d52825d4a9",
-    "symbol": "wstETH",
-    "decimals": 18,
-    "chainId": 1101,
-    "logoURI": "https://assets.coingecko.com/coins/images/18834/large/wstETH.png?1633565443"
   },
   {
     "name": "QuickSwap",
@@ -2097,6 +2097,14 @@
     "logoURI": "https://assets.coingecko.com/coins/images/13423/small/Frax_Shares_icon.png?1679886947"
   },
   {
+    "name": "Dai Stablecoin",
+    "address": "0x744c5860ba161b5316f7e80d9ec415e2727e5bd5",
+    "symbol": "DAI.E",
+    "decimals": 18,
+    "chainId": 1101,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
+  },
+  {
     "name": "Davos.xyz USD",
     "address": "0x819d1daa794c1c46b841981b61cc978d95a17b8e",
     "symbol": "DUSD",
@@ -2121,7 +2129,7 @@
     "logoURI": "https://i.imgur.com/uIExoAr.png"
   },
   {
-    "name": "USD Coin",
+    "name": "Legacy USD Coin",
     "address": "0xa8ce8aee21bc2a48a5ef670afcc9274c7bbbc035",
     "symbol": "USDC",
     "decimals": 6,
@@ -2129,7 +2137,15 @@
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
   },
   {
-    "name": "Dai Stablecoin",
+    "name": "Wrapped liquid staked Ether 2.0",
+    "address": "0xbf6de60ccd9d22a5820a658fbe9fc87975ea204f",
+    "symbol": "wstETH",
+    "decimals": 18,
+    "chainId": 1101,
+    "logoURI": "https://assets.coingecko.com/coins/images/18834/large/wstETH.png?1633565443"
+  },
+  {
+    "name": "Legacy Dai Stablecoin",
     "address": "0xc5015b9d9161dca7e18e32f6f25c4ad850731fd4",
     "symbol": "DAI",
     "decimals": 18,
