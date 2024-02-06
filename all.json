@@ -1825,14 +1825,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x0478aa9246eb94c87fddb470d53330a8f8b0c65e",
-    "name": "Antis Inu",
-    "symbol": "ANTIS",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/22157/thumb/K9zKFb8G_400x400.jpg?1696521501"
-  },
-  {
-    "chainId": 1,
     "address": "0x04815313e9329e8905a77251a1781cfa7934259a",
     "name": "wagmicatgirlkanye420etfmoon1000x",
     "symbol": "HOOD",
@@ -10127,11 +10119,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x1b54a6fa1360bd71a0f28f77a1d6fba215d498c3",
     "name": "Casinu Inu",
-    "symbol": "CASINU",
+    "address": "0x1b54a6fa1360bd71a0f28f77a1d6fba215d498c3",
     "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/34978/thumb/casinuLOGOCG.png?1706861457"
+    "symbol": "CASINU",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29292.png"
   },
   {
     "chainId": 1,
@@ -14757,7 +14749,7 @@
     "chainId": 1,
     "name": "Etherpets",
     "address": "0x280df82db83abb0a4c734bb02afc7985a1c8eaf2",
-    "decimals": 9,
+    "decimals": 18,
     "symbol": "EPETS",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29260.png"
   },
@@ -16008,6 +16000,14 @@
     "decimals": 18,
     "symbol": "SQUID2",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/27567.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x2c06ba9e7f0daccbc1f6a33ea67e85bb68fbee3a",
+    "name": "Lends",
+    "symbol": "LENDS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/35015/thumb/logo-200x200.png?1707107578"
   },
   {
     "chainId": 1,
@@ -23842,6 +23842,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x414ac1853329b3704df0caf7749cd296c7f3b750",
+    "name": "Anzen Private Credit",
+    "symbol": "PCT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/35018/thumb/Anzen-Logo-Symbol-Color_small_square.png?1707110484"
+  },
+  {
+    "chainId": 1,
     "address": "0x414cbf31c62d99515bfd66497b495a585b52f703",
     "name": "Chappie",
     "symbol": "CHAP",
@@ -24702,6 +24710,14 @@
     "symbol": "CNW",
     "decimals": 6,
     "logoURI": "https://assets.coingecko.com/coins/images/23769/thumb/cw_logo-4955f59a5c8079f246fa07ac71b2541870ca7d906ca1d9c26d74a3870fafef2f_%281%29.png?1696522970"
+  },
+  {
+    "chainId": 1,
+    "address": "0x43415eb6ff9db7e26a15b704e7a3edce97d31c4e",
+    "name": "Superstate Short Duration U S  Governme",
+    "symbol": "USTB",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/35012/thumb/ustb.jpeg?1707102680"
   },
   {
     "chainId": 1,
@@ -26193,11 +26209,11 @@
   },
   {
     "chainId": 1,
-    "name": "RMRK",
     "address": "0x471ea49dd8e60e697f4cac262b5fafcc307506e4",
-    "decimals": 18,
+    "name": "RMRK",
     "symbol": "RMRK",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/12140.png"
+    "decimals": 10,
+    "logoURI": "https://assets.coingecko.com/coins/images/18656/thumb/download_%281%29_%281%29.png?1696518126"
   },
   {
     "chainId": 1,
@@ -27664,6 +27680,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x4b7265d153886a7dc717e815862acde6ff7b5bc8",
+    "name": "DENCHCOIN",
+    "symbol": "DENCH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/11103/thumb/Dench3-e1582923464559.png?1696511043"
+  },
+  {
+    "chainId": 1,
     "name": "B ONE PAYMENT",
     "address": "0x4b742b5bdb1d252907ae7f399a891d4a178dbc24",
     "decimals": 18,
@@ -28545,10 +28569,10 @@
   {
     "chainId": 1,
     "address": "0x4dc3643dbc642b72c158e7f3d2ff232df61cb6ce",
+    "name": "AirDAO",
     "symbol": "AMB",
-    "name": "Ambrosus",
     "decimals": 18,
-    "logoURI": "ipfs://QmeG8zDU4UvgyccdVQnyG2HTSq5kn8d9f4EqiPUaYDyPFF"
+    "logoURI": "https://assets.coingecko.com/coins/images/1041/thumb/amb.png?1696502148"
   },
   {
     "chainId": 1,
@@ -30151,6 +30175,14 @@
   },
   {
     "chainId": 1,
+    "name": "RMRK",
+    "address": "0x524d524b4c9366be706d3a90dcf70076ca037ae3",
+    "decimals": 18,
+    "symbol": "RMRK",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/12140.png"
+  },
+  {
+    "chainId": 1,
     "name": "Challenge Coin",
     "address": "0x524ebc93beef838f70b4ae54b675d3e971d5884e",
     "decimals": 9,
@@ -31124,14 +31156,6 @@
     "decimals": 18,
     "symbol": "BTCHG",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/5732.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x5549394cfeef53b08fa41317019f474bfc588528",
-    "name": "Rapid Stakes",
-    "symbol": "RAPID",
-    "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/31166/thumb/D9npeRtv_400x400.jpg?1696529994"
   },
   {
     "chainId": 1,
@@ -39671,6 +39695,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x6c10d1611a5a95cb967e4bcab5791fd101194949",
+    "name": "X Project ERC",
+    "symbol": "XERS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/35009/thumb/xofficiallogobluesky.jpg?1707101426"
+  },
+  {
+    "chainId": 1,
     "name": "Upper Euro",
     "address": "0x6c139349ee94ebaaff55ed52d382673c263b22d6",
     "decimals": 18,
@@ -44871,7 +44903,8 @@
     "address": "0x7acc3f723419fa0c1f789618f798e75c5189c24f",
     "name": "DADA",
     "symbol": "DADA",
-    "decimals": 18
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/34999/thumb/Dada.png?1707068797"
   },
   {
     "chainId": 1,
@@ -50335,6 +50368,14 @@
     "decimals": 9,
     "symbol": "SHIBTORO",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/18197.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x8aec4bbdcfb451aa289bfbd3c2f4e34a44ada1be",
+    "name": "dogwifhat Eth",
+    "symbol": "DOGWIFHAT",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/35029/thumb/dogwifhat_Eth.png?1707155488"
   },
   {
     "chainId": 1,
@@ -57296,11 +57337,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x9e9fbde7c7a83c43913bddc8779158f1368f0413",
     "name": "Pandora",
-    "symbol": "PANDORA",
+    "address": "0x9e9fbde7c7a83c43913bddc8779158f1368f0413",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/34996/thumb/PandoraToken.png?1706954340"
+    "symbol": "PANDORA",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29291.png"
   },
   {
     "chainId": 1,
@@ -57829,6 +57870,14 @@
     "decimals": 18,
     "symbol": "JEFE",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/16800.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x9fd5555d0360adc2b5d92179e9bc36802bba8621",
+    "name": "APES",
+    "symbol": "APES",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/35030/thumb/mmexport1707027461489.jpg?1707156370"
   },
   {
     "chainId": 1,
@@ -60807,6 +60856,14 @@
   },
   {
     "chainId": 1,
+    "address": "0xa849cd6239906f23b63ba34441b73a5c6eba8a00",
+    "name": "HashMind",
+    "symbol": "HASH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/35014/thumb/IMG_20240203_223037_717.jpg?1707107441"
+  },
+  {
+    "chainId": 1,
     "name": "MVL",
     "address": "0xa849eaae994fb86afa73382e9bd88c2b6b18dc71",
     "decimals": 18,
@@ -62310,11 +62367,11 @@
   },
   {
     "chainId": 1,
-    "address": "0xac9518ba93eeb2336a03137d254d8cc2e4d0fa38",
     "name": "EDUM",
-    "symbol": "EDUM",
+    "address": "0xac9518ba93eeb2336a03137d254d8cc2e4d0fa38",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/32634/thumb/edum_logo_750.png?1698826232"
+    "symbol": "EDUM",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29286.png"
   },
   {
     "chainId": 1,
@@ -63995,14 +64052,6 @@
     "symbol": "RBET",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/31447/thumb/photo_2023-08-12_20-54-21.jpg?1696530261"
-  },
-  {
-    "chainId": 1,
-    "address": "0xb16d3ed603d62b125c6bd45519eda40829549489",
-    "name": "Insureum",
-    "symbol": "ISR",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/4888/thumb/insureum.png?1696505428"
   },
   {
     "chainId": 1,
@@ -68420,6 +68469,14 @@
   },
   {
     "chainId": 1,
+    "name": "Prospective",
+    "address": "0xbe1936a67f503e0eaf2434b0cf9f4e3d7100008a",
+    "decimals": 18,
+    "symbol": "PROS",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29229.png"
+  },
+  {
+    "chainId": 1,
     "name": "Beta Finance",
     "address": "0xbe1a001fe942f96eea22ba08783140b9dcc09d28",
     "decimals": 18,
@@ -71748,6 +71805,14 @@
     "decimals": 18,
     "symbol": "VIDY",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/4431.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xc78b628b060258300218740b1a7a5b3c82b3bd9f",
+    "name": "Commune AI",
+    "symbol": "COMAI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/35013/thumb/Wrapped_Commune_AI.png?1707103767"
   },
   {
     "chainId": 1,
@@ -79894,14 +79959,6 @@
   },
   {
     "chainId": 1,
-    "name": "Orclands Metaverse",
-    "address": "0xdf63f1b971d42d8a27d5d5e7b5937b853ddf6fa0",
-    "decimals": 18,
-    "symbol": "ORC",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/16880.png"
-  },
-  {
-    "chainId": 1,
     "name": "WhizzX",
     "address": "0xdf6b0c231ce5bdfda3df6282b29254afa41406e2",
     "decimals": 18,
@@ -80187,6 +80244,14 @@
     "symbol": "PUSHD",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/34309/thumb/Pushd.jpg?1704614504"
+  },
+  {
+    "chainId": 1,
+    "address": "0xe085ff62e049b5e3a8d12bc6dffc2dfa329a8894",
+    "name": "FlexBot",
+    "symbol": "FLEX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/35016/thumb/flexbot.jpeg?1707108134"
   },
   {
     "chainId": 1,
@@ -80651,6 +80716,14 @@
     "decimals": 9,
     "symbol": "GOLD",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/26395.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xe16f2ec94e8a0819eb93022c45e05d582f4e5c15",
+    "name": "Anzen Private Credit",
+    "symbol": "PCT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/35018/thumb/Anzen-Logo-Symbol-Color_small_square.png?1707110484"
   },
   {
     "chainId": 1,
@@ -81555,14 +81628,6 @@
     "decimals": 18,
     "symbol": "PLAY",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2323.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xe47f1cd2a37c6fe69e3501ae45eca263c5a87b2b",
-    "name": "Zunami Ether",
-    "symbol": "ZETH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/31176/thumb/Brand_symbol_Color.png?1696530004"
   },
   {
     "chainId": 1,
@@ -89676,6 +89741,14 @@
   },
   {
     "chainId": 1,
+    "name": "Animalia",
+    "address": "0xfbcb5cbedeebcc55dcd136d34db1daaf74cf67e8",
+    "decimals": 18,
+    "symbol": "ANIM",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/14959.png"
+  },
+  {
+    "chainId": 1,
     "name": "Treat",
     "address": "0xfbd5fd3f85e9f4c5e8b40eec9f8b8ab1caaa146b",
     "decimals": 18,
@@ -89768,7 +89841,7 @@
     "name": "YES",
     "symbol": "YES",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/32939/thumb/yes_chad.jpg?1705368880"
+    "logoURI": "https://assets.coingecko.com/coins/images/32939/thumb/yeslogo2.jpg?1707169040"
   },
   {
     "chainId": 1,
