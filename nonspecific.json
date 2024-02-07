@@ -265,50 +265,6 @@
     ]
   },
   {
-    "name": "ISK / Test Icelandic Krona",
-    "chainId": 5,
-    "address": "0x14b705bfea90530ea389260b9327174beb6bd666",
-    "symbol": "ISKe",
-    "decimals": 18,
-    "logoURI": "https://monerium.app/tokens/isk/isk.test.png",
-    "tags": [
-      "isk"
-    ]
-  },
-  {
-    "name": "USD / Test US Dollar",
-    "chainId": 5,
-    "address": "0x1b55d077b3459e73354ba2c338425b3a3079fc0f",
-    "symbol": "USDe",
-    "decimals": 18,
-    "logoURI": "https://monerium.app/tokens/usd/usd.test.png",
-    "tags": [
-      "usd"
-    ]
-  },
-  {
-    "name": "GBP / Test British pound sterling",
-    "chainId": 5,
-    "address": "0x687b68644d0b4e3ec9a24fec4767fcc5854b9572",
-    "symbol": "GBPe",
-    "decimals": 18,
-    "logoURI": "https://monerium.app/tokens/gbp/gbp.test.png",
-    "tags": [
-      "gbp"
-    ]
-  },
-  {
-    "name": "EUR / Test Euro",
-    "chainId": 5,
-    "address": "0x83b844180f66bbc3be2e97c6179035af91c4cce8",
-    "symbol": "EURe",
-    "decimals": 18,
-    "logoURI": "https://monerium.app/tokens/eur/eur.test.png",
-    "tags": [
-      "eur"
-    ]
-  },
-  {
     "address": "0x167832baf36d1ac0af9e8d8ad329fa418bed5cd9",
     "name": "ABToken",
     "symbol": "ABT",
@@ -2994,6 +2950,50 @@
     "name": "EUR / Euro",
     "chainId": 80001,
     "address": "0xcf487efd00b70eac8c28c654356fb0e387e66d62",
+    "symbol": "EURe",
+    "decimals": 18,
+    "logoURI": "https://monerium.app/tokens/eur/eur.test.png",
+    "tags": [
+      "eur"
+    ]
+  },
+  {
+    "name": "GBP / Test British pound sterling",
+    "chainId": 11155111,
+    "address": "0x0d43441ea7c6d684a74ea63958a7ab5c2831959d",
+    "symbol": "GBPe",
+    "decimals": 18,
+    "logoURI": "https://monerium.app/tokens/gbp/gbp.test.png",
+    "tags": [
+      "gbp"
+    ]
+  },
+  {
+    "name": "ISK / Test Icelandic Krona",
+    "chainId": 11155111,
+    "address": "0x771c595daa3be7389ac768001dff1a7b82c700b3",
+    "symbol": "ISKe",
+    "decimals": 18,
+    "logoURI": "https://monerium.app/tokens/isk/isk.test.png",
+    "tags": [
+      "isk"
+    ]
+  },
+  {
+    "name": "USD / Test US Dollar",
+    "chainId": 11155111,
+    "address": "0x8ba8662a7c5c6be4b4ad7049c5dbf59aacc2cf1e",
+    "symbol": "USDe",
+    "decimals": 18,
+    "logoURI": "https://monerium.app/tokens/usd/usd.test.png",
+    "tags": [
+      "usd"
+    ]
+  },
+  {
+    "name": "EUR / Test Euro",
+    "chainId": 11155111,
+    "address": "0xd58c5db52b5b3eb24ee38af287d2cb0f424172a5",
     "symbol": "EURe",
     "decimals": 18,
     "logoURI": "https://monerium.app/tokens/eur/eur.test.png",

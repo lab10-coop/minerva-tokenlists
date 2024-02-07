@@ -19548,7 +19548,7 @@
   {
     "chainId": 1,
     "address": "0x3540abe4f288b280a0740ad5121aec337c404d15",
-    "name": "TPRO",
+    "name": "TPRO Network",
     "symbol": "TPRO",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/26694/thumb/tpro-logo-200x200.png?1696525768"
@@ -28569,10 +28569,10 @@
   {
     "chainId": 1,
     "address": "0x4dc3643dbc642b72c158e7f3d2ff232df61cb6ce",
-    "name": "AirDAO",
     "symbol": "AMB",
+    "name": "Ambrosus",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/1041/thumb/amb.png?1696502148"
+    "logoURI": "ipfs://QmeG8zDU4UvgyccdVQnyG2HTSq5kn8d9f4EqiPUaYDyPFF"
   },
   {
     "chainId": 1,
@@ -30135,7 +30135,7 @@
   },
   {
     "chainId": 1,
-    "name": "unFederalReserve",
+    "name": "Residual Token",
     "address": "0x5218e472cfcfe0b64a064f055b43b4cdc9efd3a6",
     "decimals": 18,
     "symbol": "eRSDL",
@@ -30167,11 +30167,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x52498f8d9791736f1d6398fe95ba3bd868114d10",
     "name": "Netvrk",
-    "symbol": "NETVR",
+    "address": "0x52498f8d9791736f1d6398fe95ba3bd868114d10",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/15721/thumb/netvrk_icon.png?1696515348"
+    "symbol": "NETVR",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/9954.png"
   },
   {
     "chainId": 1,
@@ -33004,6 +33004,14 @@
     "decimals": 18,
     "symbol": "ICE",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/1735.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Storm Warfare",
+    "address": "0x5a9261b023692405f2f680240c6b010638e416dd",
+    "decimals": 18,
+    "symbol": "JAN",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29223.png"
   },
   {
     "chainId": 1,
@@ -43820,11 +43828,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x77774a06271d6a305caccdbc06f847def05c7777",
     "name": "Gyrowin",
-    "symbol": "GW",
+    "address": "0x77774a06271d6a305caccdbc06f847def05c7777",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/32329/thumb/Brandlogo_1-200x200.png?1697451818"
+    "symbol": "GW",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28238.png"
   },
   {
     "chainId": 1,
@@ -45657,6 +45665,14 @@
     "decimals": 18,
     "symbol": "ROTATE",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/26969.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x7d225c4cc612e61d26523b099b0718d03152edef",
+    "name": "FlokiFork",
+    "symbol": "FORK",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/35048/thumb/floki-inu-floki-logo200x200.png?1707206165"
   },
   {
     "chainId": 1,
@@ -50040,6 +50056,14 @@
     "decimals": 9,
     "symbol": "UNKAI",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/21942.png"
+  },
+  {
+    "chainId": 1,
+    "name": "HOMMIES",
+    "address": "0x8a370c951f34e295b2655b47bb0985dd08d8f718",
+    "decimals": 18,
+    "symbol": "HOMMIES",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29304.png"
   },
   {
     "chainId": 1,
@@ -66293,6 +66317,14 @@
   },
   {
     "chainId": 1,
+    "address": "0xb81914f05daf95802eb30726a399733e0696cd79",
+    "name": "Hola",
+    "symbol": "HOLA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/35050/thumb/Hola.png?1707210683"
+  },
+  {
+    "chainId": 1,
     "name": "The White Rabbit",
     "address": "0xb81ae9ae911c4ca9c9f376a18f186efa07f530f6",
     "decimals": 9,
@@ -68597,6 +68629,14 @@
   },
   {
     "chainId": 1,
+    "name": "LONGTOTEM",
+    "address": "0xbe59baad09b07086ee6c39bd0fc234c157c31ccc",
+    "decimals": 18,
+    "symbol": "LONG",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29266.png"
+  },
+  {
+    "chainId": 1,
     "name": "BNC TOKEN",
     "address": "0xbe5b336ef62d1626940363cf34be079e0ab89f20",
     "decimals": 18,
@@ -69553,6 +69593,14 @@
     "symbol": "ARTS",
     "decimals": 0,
     "logoURI": "https://assets.coingecko.com/coins/images/33352/thumb/ART.png?1701562351"
+  },
+  {
+    "chainId": 1,
+    "address": "0xc0db17bc219c5ca8746c29ee47862ee3ad742f4a",
+    "name": "ScottyAi",
+    "symbol": "SCOTTY",
+    "decimals": 16,
+    "logoURI": "https://assets.coingecko.com/coins/images/35052/thumb/scotty_new_logo.png?1707213209"
   },
   {
     "chainId": 1,
@@ -72184,6 +72232,14 @@
   },
   {
     "chainId": 1,
+    "address": "0xc8bf8bc34874e07f6a0d4abc8be22ba9e372631b",
+    "name": "SmartWorld Global",
+    "symbol": "SWGT",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/35040/thumb/IMG_20240204_024533_022.png?1707192592"
+  },
+  {
+    "chainId": 1,
     "name": "apM Coin",
     "address": "0xc8c424b91d8ce0137bab4b832b7f7d154156ba6c",
     "decimals": 18,
@@ -73012,7 +73068,7 @@
     "name": "GigaToken",
     "symbol": "GIGA",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/34899/thumb/Token_Icon.png?1706582899"
+    "logoURI": "https://assets.coingecko.com/coins/images/34899/thumb/Giga_logo.jpg?1707227354"
   },
   {
     "chainId": 1,
@@ -75352,11 +75408,11 @@
   },
   {
     "chainId": 1,
-    "address": "0xd1f17b7a6bff962659ed608bcd6d318bb5fbb249",
     "name": "Zuzalu Inu",
-    "symbol": "ZUZALU",
+    "address": "0xd1f17b7a6bff962659ed608bcd6d318bb5fbb249",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/34552/thumb/zuzalu_0xd1f17b7a6bff962659ed608bcd6d318bb5fbb2491705497250930.jpg?1706250673"
+    "symbol": "ZUZALU",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29295.png"
   },
   {
     "chainId": 1,
@@ -76341,6 +76397,14 @@
     "decimals": 18,
     "symbol": "BCZERO",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3415.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xd4568d313fa2d5c6eba37c9f30f6fb8d1c552ddd",
+    "name": "Ledgity Token",
+    "symbol": "LDY",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/35046/thumb/ldy-token.png?1707204910"
   },
   {
     "chainId": 1,
@@ -82980,14 +83044,6 @@
     "symbol": "BTC20",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/31284/thumb/BTC20_logo_%281%29.png?1696530107"
-  },
-  {
-    "chainId": 1,
-    "name": "LONGTOTEM",
-    "address": "0xe87cbfb10e5e0fd460ae21f5019748d8311238d9",
-    "decimals": 18,
-    "symbol": "LONG",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29266.png"
   },
   {
     "chainId": 1,
@@ -89837,14 +89893,6 @@
   },
   {
     "chainId": 1,
-    "name": "Netvrk",
-    "address": "0xfc0d6cf33e38bce7ca7d89c0e292274031b7157a",
-    "decimals": 18,
-    "symbol": "NTVRK",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/9954.png"
-  },
-  {
-    "chainId": 1,
     "address": "0xfc10cd3895f2c66d6639ec33ae6360d6cfca7d6d",
     "name": "YES",
     "symbol": "YES",
@@ -91249,6 +91297,46 @@
     "decimals": 18,
     "symbol": "FSW",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/6743.png"
+  },
+  {
+    "chainId": 10,
+    "address": "0x0b2c639c533813f4aa9d7837caf62653d097ff85",
+    "symbol": "USDC",
+    "name": "USD Coin",
+    "decimals": 6,
+    "logoURI": "ipfs://QmWbGfqePP3uAvPNHdYSP69aDznHGknsypTPRaiJT9NZF8"
+  },
+  {
+    "chainId": 10,
+    "address": "0x1f514a61bcde34f94bc39731235690ab9da737f7",
+    "symbol": "TAROT",
+    "name": "Tarot",
+    "decimals": 18,
+    "logoURI": "ipfs://QmP8gkWvZKQffn32AF85jfq6Yg17ELnMBVSLSrRzt2Rg5k"
+  },
+  {
+    "chainId": 10,
+    "address": "0x350a791bfc2c21f9ed5d10980dad2e2638ffa7f6",
+    "symbol": "LINK",
+    "name": "Chainlink",
+    "decimals": 18,
+    "logoURI": "ipfs://Qmdn6E15MELheFNupKrMosD9KPDFZ9M3wVKkhCuacT1cVj"
+  },
+  {
+    "chainId": 10,
+    "address": "0x4200000000000000000000000000000000000042",
+    "symbol": "OP",
+    "name": "Optimism",
+    "decimals": 18,
+    "logoURI": "ipfs://Qmf6Rw34hCk8DUzKhtAXVcL8WVhWJ881rQn9YB88SAokRn"
+  },
+  {
+    "chainId": 10,
+    "address": "0xda10009cbd5d07dd0cecc66161fc93d7c9000da1",
+    "symbol": "DAI",
+    "name": "Dai",
+    "decimals": 18,
+    "logoURI": "ipfs://QmTswuPmisP64jxzZvGz6AaK2gosJyPeTwqMkNPob6pdaa"
   },
   {
     "chainId": 56,
@@ -98289,6 +98377,14 @@
     "logoURI": "https://tokens.pancakeswap.finance/images/0x2cD1075682b0FCCaADd0Ca629e138E64015Ba11c.png"
   },
   {
+    "name": "AITECH",
+    "symbol": "AITECH",
+    "address": "0x2d060ef4d6bf7f9e5edde373ab735513c0e4f944",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x2D060Ef4d6BF7f9e5edDe373Ab735513c0e4F944.png"
+  },
+  {
     "name": "SPACE ID Token",
     "symbol": "ID",
     "address": "0x2dff88a56767223a5529ea5960da7a3f5f766406",
@@ -100278,6 +100374,14 @@
     "chainId": 56,
     "decimals": 18,
     "logoURI": "https://tokens.pancakeswap.finance/images/0xCb5327Ed4649548e0d73E70b633cdfd99aF6Da87.png"
+  },
+  {
+    "name": "Dmail Network",
+    "symbol": "DMAIL",
+    "address": "0xcc6f1e1b87cfcbe9221808d2d85c501aab0b5192",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0xcC6f1e1B87cfCbe9221808d2d85C501aab0B5192.png"
   },
   {
     "name": "Oddz",
@@ -112490,50 +112594,6 @@
     ]
   },
   {
-    "name": "ISK / Test Icelandic Krona",
-    "chainId": 5,
-    "address": "0x14b705bfea90530ea389260b9327174beb6bd666",
-    "symbol": "ISKe",
-    "decimals": 18,
-    "logoURI": "https://monerium.app/tokens/isk/isk.test.png",
-    "tags": [
-      "isk"
-    ]
-  },
-  {
-    "name": "USD / Test US Dollar",
-    "chainId": 5,
-    "address": "0x1b55d077b3459e73354ba2c338425b3a3079fc0f",
-    "symbol": "USDe",
-    "decimals": 18,
-    "logoURI": "https://monerium.app/tokens/usd/usd.test.png",
-    "tags": [
-      "usd"
-    ]
-  },
-  {
-    "name": "GBP / Test British pound sterling",
-    "chainId": 5,
-    "address": "0x687b68644d0b4e3ec9a24fec4767fcc5854b9572",
-    "symbol": "GBPe",
-    "decimals": 18,
-    "logoURI": "https://monerium.app/tokens/gbp/gbp.test.png",
-    "tags": [
-      "gbp"
-    ]
-  },
-  {
-    "name": "EUR / Test Euro",
-    "chainId": 5,
-    "address": "0x83b844180f66bbc3be2e97c6179035af91c4cce8",
-    "symbol": "EURe",
-    "decimals": 18,
-    "logoURI": "https://monerium.app/tokens/eur/eur.test.png",
-    "tags": [
-      "eur"
-    ]
-  },
-  {
     "address": "0x167832baf36d1ac0af9e8d8ad329fa418bed5cd9",
     "name": "ABToken",
     "symbol": "ABT",
@@ -115219,6 +115279,50 @@
     "name": "EUR / Euro",
     "chainId": 80001,
     "address": "0xcf487efd00b70eac8c28c654356fb0e387e66d62",
+    "symbol": "EURe",
+    "decimals": 18,
+    "logoURI": "https://monerium.app/tokens/eur/eur.test.png",
+    "tags": [
+      "eur"
+    ]
+  },
+  {
+    "name": "GBP / Test British pound sterling",
+    "chainId": 11155111,
+    "address": "0x0d43441ea7c6d684a74ea63958a7ab5c2831959d",
+    "symbol": "GBPe",
+    "decimals": 18,
+    "logoURI": "https://monerium.app/tokens/gbp/gbp.test.png",
+    "tags": [
+      "gbp"
+    ]
+  },
+  {
+    "name": "ISK / Test Icelandic Krona",
+    "chainId": 11155111,
+    "address": "0x771c595daa3be7389ac768001dff1a7b82c700b3",
+    "symbol": "ISKe",
+    "decimals": 18,
+    "logoURI": "https://monerium.app/tokens/isk/isk.test.png",
+    "tags": [
+      "isk"
+    ]
+  },
+  {
+    "name": "USD / Test US Dollar",
+    "chainId": 11155111,
+    "address": "0x8ba8662a7c5c6be4b4ad7049c5dbf59aacc2cf1e",
+    "symbol": "USDe",
+    "decimals": 18,
+    "logoURI": "https://monerium.app/tokens/usd/usd.test.png",
+    "tags": [
+      "usd"
+    ]
+  },
+  {
+    "name": "EUR / Test Euro",
+    "chainId": 11155111,
+    "address": "0xd58c5db52b5b3eb24ee38af287d2cb0f424172a5",
     "symbol": "EURe",
     "decimals": 18,
     "logoURI": "https://monerium.app/tokens/eur/eur.test.png",
