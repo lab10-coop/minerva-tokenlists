@@ -2027,6 +2027,19 @@
   },
   {
     "chainId": 1,
+    "address": "0xd909c5862cdb164adb949d92622082f0092efc3d",
+    "name": "Interest Protocol",
+    "symbol": "IPT",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/IPT/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1",
+      "opListId": "extended",
+      "opTokenId": "IPT"
+    }
+  },
+  {
+    "chainId": 1,
     "address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
     "name": "Tether USD",
     "symbol": "USDT",
@@ -4000,6 +4013,19 @@
     "symbol": "KNC",
     "decimals": 18,
     "logoURI": "https://ethereum-optimism.github.io/data/KNC/logo.png"
+  },
+  {
+    "chainId": 10,
+    "address": "0xa211e25f7246950e0cce054e3161c7c0b6379485",
+    "name": "Interest Protocol",
+    "symbol": "IPT",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/IPT/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "IPT"
+    }
   },
   {
     "chainId": 10,
