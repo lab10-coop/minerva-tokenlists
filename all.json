@@ -9232,6 +9232,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x18e5f92103d1b34623738ee79214b1659f2ee109",
+    "name": "Wrapped CellMates",
+    "symbol": "WCELL",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/35154/thumb/755F6B74-7940-475C-9818-4672DEF73BDA.png?1707561272"
+  },
+  {
+    "chainId": 1,
     "name": "Esports Token",
     "address": "0x18f5b4908e8861e3114ba9a0a9a4e84c5f180cc0",
     "decimals": 9,
@@ -15880,6 +15888,14 @@
     "decimals": 6,
     "symbol": "MAPS",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/8166.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x2b91c5a73b7c4a70a61536429a2bf45461d85b27",
+    "name": "Riggers",
+    "symbol": "RIG",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/35159/thumb/Rigger_transparent.png?1707567408"
   },
   {
     "chainId": 1,
@@ -39334,6 +39350,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x6ae2a128cd07d672164ca9f2712ea737d198dd41",
+    "name": "Goat Trading",
+    "symbol": "GOAT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/35160/thumb/logo-light1.png?1707569994"
+  },
+  {
+    "chainId": 1,
     "name": "Rentberry",
     "address": "0x6aeb95f06cda84ca345c2de0f3b7f96923a44f4c",
     "decimals": 14,
@@ -41059,6 +41083,14 @@
     "decimals": 18,
     "symbol": "UMB",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/8385.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x6fc16de36e040e0c7d1a70d039ef701516516b32",
+    "name": "ScopexAI",
+    "symbol": "SCOPEX",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/35151/thumb/scopex_200x200.jpg?1707559235"
   },
   {
     "chainId": 1,
@@ -67076,6 +67108,14 @@
   },
   {
     "chainId": 1,
+    "address": "0xb9f69c75a3b67425474f8bcab9a3626d8b8249e1",
+    "name": "Memefi Toybox 404",
+    "symbol": "TOYBOX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/35147/thumb/200x200_MemeFI_logo.png?1707552368"
+  },
+  {
+    "chainId": 1,
     "name": "Star Atlas",
     "address": "0xb9f747162ab1e95d07361f9048bcdf6edda9eea7",
     "decimals": 18,
@@ -91562,6 +91602,14 @@
   },
   {
     "chainId": 10,
+    "address": "0x395ae52bb17aef68c2888d941736a71dc6d4e125",
+    "symbol": "POOL",
+    "name": "PoolTogether",
+    "decimals": 18,
+    "logoURI": "ipfs://Qmd1f4NaF27puWeZ87fgymsr8co79Ue2obzH9QumYtjzkn"
+  },
+  {
+    "chainId": 10,
     "address": "0x4200000000000000000000000000000000000042",
     "symbol": "OP",
     "name": "Optimism",
@@ -91570,11 +91618,43 @@
   },
   {
     "chainId": 10,
+    "address": "0x8700daec35af8ff88c16bdf0418774cb3d7599b4",
+    "symbol": "SNX",
+    "name": "Synthetix Network",
+    "decimals": 18,
+    "logoURI": "ipfs://QmX3ov1SgUvUJ64HuEn19RsDkVE91zbUuaCfozReqbbMx5"
+  },
+  {
+    "chainId": 10,
+    "address": "0xbc7b1ff1c6989f006a1185318ed4e7b5796e66e1",
+    "symbol": "PENDLE",
+    "name": "Pendle",
+    "decimals": 18,
+    "logoURI": "ipfs://QmUgLTHTMw5TD3NmeH4L9VAcRH7EAevahe5AtP7vPVL4Gc"
+  },
+  {
+    "chainId": 10,
+    "address": "0xc81d1f0eb955b0c020e5d5b264e1ff72c14d1401",
+    "symbol": "RPL",
+    "name": "Rocket Pool",
+    "decimals": 18,
+    "logoURI": "ipfs://QmNSj1BfWphbDaTStW6JvrmnzoEHpFJpPNNczNAheANF4f"
+  },
+  {
+    "chainId": 10,
     "address": "0xda10009cbd5d07dd0cecc66161fc93d7c9000da1",
     "symbol": "DAI",
     "name": "Dai",
     "decimals": 18,
     "logoURI": "ipfs://QmTswuPmisP64jxzZvGz6AaK2gosJyPeTwqMkNPob6pdaa"
+  },
+  {
+    "chainId": 10,
+    "address": "0xfe8b128ba8c78aabc59d4c64cee7ff28e9379921",
+    "symbol": "BAL",
+    "name": "Balancer",
+    "decimals": 18,
+    "logoURI": "ipfs://QmVkdh1F8BoNDvZQ4EAw6kzeMSpPibEvtrJJLVbZyK1dx2"
   },
   {
     "chainId": 56,
@@ -93442,11 +93522,27 @@
   },
   {
     "chainId": 42161,
+    "address": "0x9623063377ad1b27544c965ccd7342f7ea7e88c7",
+    "symbol": "GRT",
+    "name": "The Graph",
+    "decimals": 18,
+    "logoURI": "ipfs://Qmf8sMWoxGHRThqGaHKBTsSndkZdbsEyp8DXQvisj6QGH7"
+  },
+  {
+    "chainId": 42161,
     "address": "0xaf88d065e77c8cc2239327c5edb3a432268e5831",
     "symbol": "USDC",
     "name": "USD Coin",
     "decimals": 6,
     "logoURI": "ipfs://QmWbGfqePP3uAvPNHdYSP69aDznHGknsypTPRaiJT9NZF8"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xda10009cbd5d07dd0cecc66161fc93d7c9000da1",
+    "symbol": "DAI",
+    "name": "Dai",
+    "decimals": 18,
+    "logoURI": "ipfs://QmWcx6mu7PtPNM6eiUHwLwGuPsjXLoXiQ8ayBYteGJ7WFf"
   },
   {
     "chainId": 43114,
