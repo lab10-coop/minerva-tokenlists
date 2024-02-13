@@ -785,11 +785,11 @@
   },
   {
     "chainId": 1,
+    "name": "Forward Protocol",
     "address": "0x01824357d7d7eaf4677bc17786abd26cbdec9ad7",
-    "name": "Forward",
-    "symbol": "FORWARD",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/20866/thumb/182860872_110384464503974_4805876988713020861_n.png?1696520260"
+    "symbol": "FORWARD",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/11919.png"
   },
   {
     "chainId": 1,
@@ -1542,6 +1542,14 @@
     "decimals": 18,
     "symbol": "GLCH",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/8236.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x038ed1383763d704d4271fe856ac96b4557e9d06",
+    "name": "Alphabet",
+    "symbol": "ALPHABET",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/35172/thumb/ALPHABET_1-1920x970.png?1707748607"
   },
   {
     "chainId": 1,
@@ -49962,6 +49970,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x893c47bc1ff55c2269236ac7a4288681532161e0",
+    "name": "Error 404",
+    "symbol": "ERR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/35174/thumb/TOKEN-404---SYMBOL-_-TYPO---PURPLE.jpg?1707749033"
+  },
+  {
+    "chainId": 1,
     "name": "Thales",
     "address": "0x8947da500eb47f82df21143d0c01a29862a8c3c5",
     "decimals": 18,
@@ -51607,6 +51623,14 @@
     "name": "Synthetic Inverse Tezos",
     "decimals": 18,
     "logoURI": "ipfs://QmcFvvRzmrWHmBv8uFziQH3P1WpB6RXCLJJCb3UeWYAHxX"
+  },
+  {
+    "chainId": 1,
+    "address": "0x8df4197669cf7af9fd29d768c932251a0c2e3e94",
+    "name": "Ninja404",
+    "symbol": "NINJA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/35175/thumb/mascot.png?1707751710"
   },
   {
     "chainId": 1,
@@ -55917,6 +55941,14 @@
     "decimals": 8,
     "symbol": "TOK",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3692.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Baby Trump",
+    "address": "0x9a52590bce99dcab5c6dc83b8da08974eeeaa06b",
+    "decimals": 9,
+    "symbol": "BABYTRUMP",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29374.png"
   },
   {
     "chainId": 1,
@@ -66255,7 +66287,7 @@
     "name": "Chainge",
     "address": "0xb712d62fe84258292d1961b5150a19bc4ab49026",
     "decimals": 18,
-    "symbol": "$XCHNG",
+    "symbol": "XCHNG",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/9071.png"
   },
   {
@@ -67108,11 +67140,11 @@
   },
   {
     "chainId": 1,
-    "address": "0xb9f69c75a3b67425474f8bcab9a3626d8b8249e1",
     "name": "Memefi Toybox 404",
-    "symbol": "TOYBOX",
+    "address": "0xb9f69c75a3b67425474f8bcab9a3626d8b8249e1",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/35147/thumb/200x200_MemeFI_logo.png?1707552368"
+    "symbol": "TOYBOX",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29373.png"
   },
   {
     "chainId": 1,
@@ -71807,11 +71839,11 @@
   },
   {
     "chainId": 1,
-    "name": "Red Pill",
     "address": "0xc6c9448a86882d73164a984fa52285ab51c823bc",
-    "decimals": 18,
+    "name": "Red Pill",
     "symbol": "RPILL",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28922.png"
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/33896/thumb/2023-12-21_07.20.32.jpg?1703233932"
   },
   {
     "chainId": 1,
@@ -82381,6 +82413,14 @@
   },
   {
     "chainId": 1,
+    "address": "0xe5acbb03d73267c03349c76ead672ee4d941f499",
+    "name": "BEAM",
+    "symbol": "BEAM",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/7339/thumb/BEAM.png?1696507623"
+  },
+  {
+    "chainId": 1,
     "name": "Frozencoin Network",
     "address": "0xe5aee163513119f4f750376c718766b40fa37a5f",
     "decimals": 18,
@@ -82954,6 +82994,14 @@
     "decimals": 6,
     "symbol": "TAAS",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/1592.png"
+  },
+  {
+    "chainId": 1,
+    "name": "MINER",
+    "address": "0xe77ec1bf3a5c95bfe3be7bdbacfe3ac1c7e454cd",
+    "decimals": 18,
+    "symbol": "MINER",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29372.png"
   },
   {
     "chainId": 1,
