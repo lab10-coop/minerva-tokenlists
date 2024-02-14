@@ -2464,6 +2464,19 @@
   },
   {
     "chainId": 5,
+    "address": "0x39e09359f5a7396937504eb2766722e2bf4650e8",
+    "name": "BTRST",
+    "symbol": "BTRST",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/BTRST/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0xfa6d8ee5be770f84fc001d098c4bd604fe01284a",
+      "opListId": "extended",
+      "opTokenId": "BTRST"
+    }
+  },
+  {
+    "chainId": 5,
     "address": "0x3acd26f0b5080c30c066a2055a4254a5bb05f22a",
     "name": "Artificial Liquid Intelligence Token",
     "symbol": "ALI",
@@ -6327,6 +6340,19 @@
   },
   {
     "chainId": 84531,
+    "address": "0x99ac4484e8a1dbd6a185380b3a811913ac884d87",
+    "name": "BTRST",
+    "symbol": "BTRST",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/BTRST/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "BTRST"
+    }
+  },
+  {
+    "chainId": 84531,
     "address": "0xa29b548056c3fd0f68bad9d4829ec4e66f22f796",
     "name": "Compound",
     "symbol": "COMP",
@@ -6455,6 +6481,19 @@
     }
   },
   {
+    "chainId": 84532,
+    "address": "0xe490c7698f2b80789fe312162d9d0a1bd8c9beee",
+    "name": "BTRST",
+    "symbol": "BTRST",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/BTRST/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "BTRST"
+    }
+  },
+  {
     "chainId": 11155111,
     "address": "0x0000000000000000000000000000000000000000",
     "name": "Ether",
@@ -6503,6 +6542,19 @@
       "optimismBridgeAddress": "0xFBb0621E0B23b5478B630BD55a5f21f67730B0F1",
       "opListId": "extended",
       "opTokenId": "SNT"
+    }
+  },
+  {
+    "chainId": 11155111,
+    "address": "0xe490c7698f2b80789fe312162d9d0a1bd8c9beee",
+    "name": "BTRST",
+    "symbol": "BTRST",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/BTRST/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0xfd0Bf71F60660E2f608ed56e1659C450eB113120",
+      "opListId": "extended",
+      "opTokenId": "BTRST"
     }
   },
   {
