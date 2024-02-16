@@ -156,6 +156,19 @@
   },
   {
     "chainId": 1,
+    "address": "0x0a638f07acc6969abf392bb009f216d22adea36d",
+    "name": "Brickken",
+    "symbol": "BKN",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/BKN/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "opListId": "extended",
+      "opTokenId": "BKN"
+    }
+  },
+  {
+    "chainId": 1,
     "address": "0x0b6f3c17e1626a7cbfa4302ce4e3c45522d23a83",
     "name": "WardenSwap",
     "symbol": "WAD",
@@ -836,6 +849,19 @@
   },
   {
     "chainId": 1,
+    "address": "0x6100dd79fcaa88420750dcee3f735d168abcb771",
+    "name": "Ethereans",
+    "symbol": "OS",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/OS/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1",
+      "opListId": "extended",
+      "opTokenId": "OS"
+    }
+  },
+  {
+    "chainId": 1,
     "address": "0x6399c842dd2be3de30bf99bc7d1bbf6fa3650e70",
     "name": "Premia",
     "symbol": "PREMIA",
@@ -1135,6 +1161,19 @@
       "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1",
       "opListId": "extended",
       "opTokenId": "SCM"
+    }
+  },
+  {
+    "chainId": 1,
+    "address": "0x83f20f44975d03b1b09e64809b757c47f942beea",
+    "name": "Savings Dai",
+    "symbol": "sDAI",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/sDAI/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1",
+      "opListId": "extended",
+      "opTokenId": "sDAI"
     }
   },
   {
@@ -3146,6 +3185,19 @@
   },
   {
     "chainId": 10,
+    "address": "0x2218a117083f5b482b0bb821d27056ba9c04b1d3",
+    "name": "Savings Dai",
+    "symbol": "sDAI",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/sDAI/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "sDAI"
+    }
+  },
+  {
+    "chainId": 10,
     "address": "0x2561aa2bb1d2eb6629edd7b0938d7679b8b49f9e",
     "name": "Ocean Token",
     "symbol": "OCEAN",
@@ -3571,6 +3623,19 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/optimism/0x68f180fcCe6836688e9084f035309E29Bf0A2095.jpg",
     "name": "Wrapped BTC",
     "symbol": "WBTC"
+  },
+  {
+    "chainId": 10,
+    "address": "0x6af3cb766d6cd37449bfd321d961a61b0515c1bc",
+    "name": "Ethereans",
+    "symbol": "OS",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/OS/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "OS"
+    }
   },
   {
     "chainId": 10,
@@ -6007,6 +6072,19 @@
   },
   {
     "chainId": 8453,
+    "address": "0xddb293bb5c5258f7484a94a0fbd5c8b2f6e4e376",
+    "name": "Brickken",
+    "symbol": "BKN",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/BKN/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "BKN"
+    }
+  },
+  {
+    "chainId": 8453,
     "address": "0xde0d2ee637d3e4fd02bc99508ca5e94dd7055766",
     "name": "Jarvis Reward Token",
     "symbol": "JRT",
@@ -6482,6 +6560,19 @@
   },
   {
     "chainId": 84532,
+    "address": "0xe2c5fd88341c18025665e4088d8eed23f5c573a7",
+    "name": "Brickken",
+    "symbol": "BKN",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/BKN/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "BKN"
+    }
+  },
+  {
+    "chainId": 84532,
     "address": "0xe490c7698f2b80789fe312162d9d0a1bd8c9beee",
     "name": "BTRST",
     "symbol": "BTRST",
@@ -6529,6 +6620,19 @@
     "extensions": {
       "opListId": "extended",
       "opTokenId": "send"
+    }
+  },
+  {
+    "chainId": 11155111,
+    "address": "0x97a13487f889dc770ac925be2d3b6c833fa7746a",
+    "name": "Brickken",
+    "symbol": "BKN",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/BKN/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0xfd0Bf71F60660E2f608ed56e1659C450eB113120",
+      "opListId": "extended",
+      "opTokenId": "BKN"
     }
   },
   {
