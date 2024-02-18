@@ -13379,6 +13379,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x24a5fe2c2240e58252cdfc43bb94ae67d2ead218",
+    "name": "Mone Coin",
+    "symbol": "MONE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/35310/thumb/photo_2024-02-08_23-06-34.jpg?1708158583"
+  },
+  {
+    "chainId": 1,
     "address": "0x24a6a37576377f63f194caa5f518a60f45b42921",
     "name": "Float Protocol",
     "symbol": "BANK",
@@ -42247,6 +42255,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x72831eebef4e3f3697a6b216e3713958210ae8cd",
+    "name": "Blob",
+    "symbol": "BLOB",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/35309/thumb/Blob.jpeg?1708158035"
+  },
+  {
+    "chainId": 1,
     "name": "XRP2.0",
     "address": "0x728b3f6a79f226bc2108d21abd9b455d679ef725",
     "decimals": 18,
@@ -43251,6 +43267,14 @@
     "decimals": 18,
     "symbol": "MAI",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/10533.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x753cd33a41a7b4857681ab2498ce66ae977aa3de",
+    "name": "VaxLabs",
+    "symbol": "VLABS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/35311/thumb/vaxlab_png-tbg.png?1708158748"
   },
   {
     "chainId": 1,
@@ -49459,6 +49483,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x87e75025d6607564ad005088ab549dd76ca2ce48",
+    "name": "Pier Protocol",
+    "symbol": "PIER",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/35305/thumb/Design_sans_titre__42_-removebg-preview.png?1708154849"
+  },
+  {
+    "chainId": 1,
     "name": "SWAG Finance",
     "address": "0x87edffde3e14c7a66c9b9724747a1c5696b742e6",
     "decimals": 18,
@@ -52656,6 +52688,14 @@
     "decimals": 18,
     "symbol": "DAO",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/27110.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x904f36d74bed2ef2729eaa1c7a5b70dea2966a02",
+    "name": "Blueberry",
+    "symbol": "BLB",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/35312/thumb/Blueberry_Logo.png?1708159808"
   },
   {
     "chainId": 1,
@@ -67845,14 +67885,6 @@
   },
   {
     "chainId": 1,
-    "address": "0xbb6881874825e60e1160416d6c426eae65f2459e",
-    "name": "Balancer Boosted Aave WETH",
-    "symbol": "BB-A-WETH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/31285/thumb/eth-diamond-black-gray.png?1696530108"
-  },
-  {
-    "chainId": 1,
     "name": "Arix",
     "address": "0xbb6cf73a00f480d0951ba979a7606857cdde626b",
     "decimals": 18,
@@ -69162,6 +69194,14 @@
     "decimals": 18,
     "symbol": "TOMS",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/17523.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xbe9f4f6c8dadb2ac61f31eb1f5171e27d8552df7",
+    "name": "Chiba Neko",
+    "symbol": "CHIBA",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/32555/thumb/logo_200x200.png?1698502949"
   },
   {
     "chainId": 1,
@@ -91939,6 +91979,22 @@
   },
   {
     "chainId": 10,
+    "address": "0xdc6ff44d5d932cbd77b52e5612ba0529dc6226f1",
+    "symbol": "WLD",
+    "name": "Worldcoin",
+    "decimals": 18,
+    "logoURI": "ipfs://QmZPdBuzk8HxZ1sH5sqr7ezn3T1AXuUgXqcVv1WMemwcYx"
+  },
+  {
+    "chainId": 10,
+    "address": "0xfdb794692724153d1488ccdbe0c56c252596735f",
+    "symbol": "LDO",
+    "name": "Lido DAO",
+    "decimals": 18,
+    "logoURI": "ipfs://QmTdQtLaPqXoXbHgbjVgYbXbbukvQAsNZtzq9bs14oVknY"
+  },
+  {
+    "chainId": 10,
     "address": "0xfe8b128ba8c78aabc59d4c64cee7ff28e9379921",
     "symbol": "BAL",
     "name": "Balancer",
@@ -93659,6 +93715,14 @@
   },
   {
     "chainId": 137,
+    "address": "0xc3c7d422809852031b44ab29eec9f1eff2a58756",
+    "symbol": "LDO",
+    "name": "Lido DAO",
+    "decimals": 18,
+    "logoURI": "ipfs://QmTdQtLaPqXoXbHgbjVgYbXbbukvQAsNZtzq9bs14oVknY"
+  },
+  {
+    "chainId": 137,
     "address": "0xc6c855ad634dcdad23e64da71ba85b8c51e5ad7c",
     "symbol": "ICE",
     "name": "Decentral Games ICE",
@@ -93810,12 +93874,28 @@
     "logoURI": "ipfs://QmWbGfqePP3uAvPNHdYSP69aDznHGknsypTPRaiJT9NZF8"
   },
   {
+    "chainId": 324,
+    "address": "0x3355df6d4c9c3035724fd0e3914de96a5a83aaf4",
+    "symbol": "USDC",
+    "name": "USDC",
+    "decimals": 6,
+    "logoURI": "ipfs://QmS7rV584ATvEk5Skugr78GyAEFBuEo5eMp2rDNRCRNSmr"
+  },
+  {
     "chainId": 8453,
     "address": "0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
     "symbol": "USDC",
     "name": "USD Coin",
     "decimals": 6,
     "logoURI": "ipfs://QmWbGfqePP3uAvPNHdYSP69aDznHGknsypTPRaiJT9NZF8"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x13ad51ed4f1b7e9dc168d8a00cb3f4ddd85efa60",
+    "symbol": "LDO",
+    "name": "Lido DAO",
+    "decimals": 18,
+    "logoURI": "ipfs://QmTdQtLaPqXoXbHgbjVgYbXbbukvQAsNZtzq9bs14oVknY"
   },
   {
     "chainId": 42161,
