@@ -92171,6 +92171,14 @@
   },
   {
     "chainId": 10,
+    "address": "0x50c5725949a6f0c72e6c4a641f24049a917db0cb",
+    "symbol": "LYRA",
+    "name": "Lyra",
+    "decimals": 18,
+    "logoURI": "ipfs://QmaijTpgJwSbSg49ZDYh2FJcG4cSbckxn4ySFsCJviz25L"
+  },
+  {
+    "chainId": 10,
     "address": "0x8700daec35af8ff88c16bdf0418774cb3d7599b4",
     "symbol": "SNX",
     "name": "Synthetix Network",
@@ -92187,11 +92195,27 @@
   },
   {
     "chainId": 10,
+    "address": "0x9560e827af36c94d2ac33a39bce1fe78631088db",
+    "symbol": "VELO",
+    "name": "Velodrome Finance",
+    "decimals": 18,
+    "logoURI": "ipfs://QmQeHJ6fEgCVNo8ZGNdVEczMvRsguv9kYAasVyRLjqXyqm"
+  },
+  {
+    "chainId": 10,
     "address": "0xbc7b1ff1c6989f006a1185318ed4e7b5796e66e1",
     "symbol": "PENDLE",
     "name": "Pendle",
     "decimals": 18,
     "logoURI": "ipfs://QmUgLTHTMw5TD3NmeH4L9VAcRH7EAevahe5AtP7vPVL4Gc"
+  },
+  {
+    "chainId": 10,
+    "address": "0xc5102fe9359fd9a28f877a67e36b0f050d81a3cc",
+    "symbol": "HOP",
+    "name": "Hop Protocol",
+    "decimals": 18,
+    "logoURI": "ipfs://QmNPiY49XgSCf4eqmgSzTEiJpZrGJwwfvDzJQQBBxXybkM"
   },
   {
     "chainId": 10,
@@ -92499,6 +92523,14 @@
   },
   {
     "chainId": 56,
+    "address": "0x4691937a7508860f876c9c0a2a617e7d9e945d4b",
+    "symbol": "WOO",
+    "name": "WOO Network",
+    "decimals": 18,
+    "logoURI": "ipfs://QmdJjzzpWuzQAN6sj2j5FRy3SnFYgwMPQCx5ZNrFdVpcFt"
+  },
+  {
+    "chainId": 56,
     "address": "0x47b19af93d0bc33805269af02b5ca953aa145127",
     "symbol": "jMXN",
     "name": "Jarvis Synthetic Mexican Peso",
@@ -92744,6 +92776,14 @@
     "name": "Stargate Finance",
     "decimals": 18,
     "logoURI": "ipfs://QmNZ1QbyLSB716ycPc7orcFa1FaVc9P7SrG2Ef2TuZinmt"
+  },
+  {
+    "chainId": 56,
+    "address": "0xb3ed0a426155b79b898849803e3b36552f7ed507",
+    "symbol": "PENDLE",
+    "name": "Pendle",
+    "decimals": 18,
+    "logoURI": "ipfs://QmUgLTHTMw5TD3NmeH4L9VAcRH7EAevahe5AtP7vPVL4Gc"
   },
   {
     "chainId": 56,
@@ -93499,6 +93539,14 @@
   },
   {
     "chainId": 137,
+    "address": "0x1b815d120b3ef02039ee11dc2d33de7aa4a8c603",
+    "symbol": "WOO",
+    "name": "WOO Network",
+    "decimals": 18,
+    "logoURI": "ipfs://QmdJjzzpWuzQAN6sj2j5FRy3SnFYgwMPQCx5ZNrFdVpcFt"
+  },
+  {
+    "chainId": 137,
     "address": "0x1bfd67037b42cf73acf2047067bd4f2c47d9bfd6",
     "symbol": "WBTC",
     "name": "Wrapped Bitcoin",
@@ -94131,11 +94179,27 @@
   },
   {
     "chainId": 42161,
+    "address": "0x0c880f6761f1af8d9aa9c466984b80dab9a8c9e8",
+    "symbol": "PENDLE",
+    "name": "Pendle",
+    "decimals": 18,
+    "logoURI": "ipfs://QmUgLTHTMw5TD3NmeH4L9VAcRH7EAevahe5AtP7vPVL4Gc"
+  },
+  {
+    "chainId": 42161,
     "address": "0x13ad51ed4f1b7e9dc168d8a00cb3f4ddd85efa60",
     "symbol": "LDO",
     "name": "Lido DAO",
     "decimals": 18,
     "logoURI": "ipfs://QmTdQtLaPqXoXbHgbjVgYbXbbukvQAsNZtzq9bs14oVknY"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x289ba1701c2f088cf0faf8b3705246331cb8a839",
+    "symbol": "LPT",
+    "name": "Livepeer",
+    "decimals": 18,
+    "logoURI": "ipfs://QmXtJTcmWE1VEzB94VVwHBvVXpEyW97no84PNvxr3iSiY5"
   },
   {
     "chainId": 42161,
@@ -94160,6 +94224,14 @@
     "name": "USD Coin",
     "decimals": 6,
     "logoURI": "ipfs://QmWbGfqePP3uAvPNHdYSP69aDznHGknsypTPRaiJT9NZF8"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xcafcd85d8ca7ad1e1c6f82f651fa15e33aefd07b",
+    "symbol": "WOO",
+    "name": "WOO Network",
+    "decimals": 18,
+    "logoURI": "ipfs://QmdJjzzpWuzQAN6sj2j5FRy3SnFYgwMPQCx5ZNrFdVpcFt"
   },
   {
     "chainId": 42161,
