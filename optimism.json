@@ -40,6 +40,19 @@
   },
   {
     "chainId": 1,
+    "address": "0x0001a500a6b18995b03f44bb040a5ffc28e45cb0",
+    "name": "Autonolas",
+    "symbol": "OLAS",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/OLAS/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1",
+      "opListId": "extended",
+      "opTokenId": "OLAS"
+    }
+  },
+  {
+    "chainId": 1,
     "address": "0x0100546f2cd4c9d97f798ffc9755e47865ff7ee6",
     "name": "Alchemix ETH",
     "symbol": "alETH",
@@ -3018,6 +3031,18 @@
   },
   {
     "chainId": 5,
+    "address": "0xedfc28215b1eb6eb0be426f1f529cf691a5c2400",
+    "name": "Autonolas",
+    "symbol": "OLAS",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/OLAS/logo.svg",
+    "extensions": {
+      "opListId": "extended",
+      "opTokenId": "OLAS"
+    }
+  },
+  {
+    "chainId": 5,
     "address": "0xf36c9a9e8333663f8ca3608c5582916628e79e3f",
     "name": "veKwenta",
     "symbol": "veKWENTA",
@@ -4769,6 +4794,19 @@
   },
   {
     "chainId": 10,
+    "address": "0xfc2e6e6bcbd49ccf3a5f029c79984372dcbfe527",
+    "name": "Autonolas",
+    "symbol": "OLAS",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/OLAS/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "OLAS"
+    }
+  },
+  {
+    "chainId": 10,
     "address": "0xfdb794692724153d1488ccdbe0c56c252596735f",
     "name": "Lido DAO Token",
     "symbol": "LDO",
@@ -6094,6 +6132,18 @@
       "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "extended",
       "opTokenId": "JRT"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0xe0231bb166d09a3f0739f7afad68438c0fa142a5",
+    "name": "Ponder",
+    "symbol": "PNDR",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/PNDR/logo.png",
+    "extensions": {
+      "opListId": "extended",
+      "opTokenId": "PNDR"
     }
   },
   {
