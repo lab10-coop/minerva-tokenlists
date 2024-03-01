@@ -10339,11 +10339,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x1bbe973bef3a977fc51cbed703e8ffdefe001fed",
     "name": "Portal",
-    "symbol": "PORTAL",
+    "address": "0x1bbe973bef3a977fc51cbed703e8ffdefe001fed",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/35436/thumb/portal.jpeg?1708590254"
+    "symbol": "PORTAL",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29555.png"
   },
   {
     "chainId": 1,
@@ -11999,7 +11999,7 @@
     "name": "AlphaNova",
     "symbol": "ANVA",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/35210/thumb/Anva_logo.png?1707896585"
+    "logoURI": "https://assets.coingecko.com/coins/images/35210/thumb/LiquidAlpha-Logo.png?1709176634"
   },
   {
     "chainId": 1,
@@ -13824,6 +13824,14 @@
     "decimals": 18,
     "symbol": "$SPONGE",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/24929.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x257508ca6341337dd243d54afd964e19375b4af9",
+    "name": "Oracle Tools",
+    "symbol": "OT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/35582/thumb/IMG_2695.png?1709202522"
   },
   {
     "chainId": 1,
@@ -19288,6 +19296,14 @@
     "decimals": 18,
     "symbol": "BITE",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/23871.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x3419875b4d3bca7f3fdda2db7a476a79fd31b4fe",
+    "name": "DizzyHavoc",
+    "symbol": "DZHV",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/35575/thumb/dizzyhavoc_circle_3_200_200_transparentBg.png?1709194317"
   },
   {
     "chainId": 1,
@@ -25078,6 +25094,14 @@
     "decimals": 18,
     "symbol": "TOMI",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/23246.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x438e48ed4ce6beecf503d43b9dbd3c30d516e7fd",
+    "name": "UWON",
+    "symbol": "UWON",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/35593/thumb/2024-02-29_10.53.39.jpg?1709221802"
   },
   {
     "chainId": 1,
@@ -31407,6 +31431,14 @@
   },
   {
     "chainId": 1,
+    "name": "Palette",
+    "address": "0x553afe6468949e0685959022217336717df5fbe8",
+    "decimals": 18,
+    "symbol": "PLT",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29582.png"
+  },
+  {
+    "chainId": 1,
     "address": "0x553c7f9c780316fc1d34b8e14ac2465ab22a090b",
     "name": "Aktionariat RealUnit Schweiz AG Tokeniz",
     "symbol": "REALU",
@@ -37247,6 +37279,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x64d5fea7d2d600918b76159285994d6ed218f264",
+    "name": "Tao Accounting System",
+    "symbol": "TAS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/35591/thumb/tas-logo.png?1709204338"
+  },
+  {
+    "chainId": 1,
     "name": "ASH",
     "address": "0x64d91f12ece7362f91a6f8e7940cd55f05060b92",
     "decimals": 18,
@@ -37580,6 +37620,14 @@
     "decimals": 18,
     "symbol": "RYOSHI",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29446.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Neuralink",
+    "address": "0x65ee1361596439664059d1a5ef44014d08c95693",
+    "decimals": 18,
+    "symbol": "NLINK",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29583.png"
   },
   {
     "chainId": 1,
@@ -48843,6 +48891,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x85d19fb57ca7da715695fcf347ca2169144523a7",
+    "name": "Conan",
+    "symbol": "CONAN",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/35566/thumb/IMG_20240227_061234_892.jpg?1709182894"
+  },
+  {
+    "chainId": 1,
     "address": "0x85eba557c06c348395fd49e35d860f58a4f7c95a",
     "symbol": "H3X",
     "name": "H3X",
@@ -52059,6 +52115,14 @@
   },
   {
     "chainId": 1,
+    "name": "Mystic Land Coin",
+    "address": "0x8e0358d72e6e9faf1150bb1bc12aaf55613a072e",
+    "decimals": 9,
+    "symbol": "MYTH",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29584.png"
+  },
+  {
+    "chainId": 1,
     "name": "Moon Tropica",
     "address": "0x8e0e57dcb1ce8d9091df38ec1bfc3b224529754a",
     "decimals": 18,
@@ -53720,6 +53784,14 @@
     "name": "Swirge",
     "decimals": 18,
     "logoURI": "ipfs://Qmbe2QqxAienYXdFpDvy8EvXEgvRdfd5aA925aNVyCA4dp"
+  },
+  {
+    "chainId": 1,
+    "address": "0x92f419fb7a750aed295b0ddf536276bf5a40124f",
+    "name": "Tatsu",
+    "symbol": "TATSU",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/35581/thumb/download.png?1709202359"
   },
   {
     "chainId": 1,
@@ -59726,6 +59798,14 @@
     "decimals": 18,
     "symbol": "DACS",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3054.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xa318a1277e26dfcdf6f4095b90d137743d900e61",
+    "name": "SmartAudit AI",
+    "symbol": "AUDIT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/35567/thumb/SmartAudit_AI.png?1709183104"
   },
   {
     "chainId": 1,
@@ -72900,7 +72980,7 @@
     "name": "Monke",
     "symbol": "MONKE",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/33492/thumb/monlogo_%281%29.jpg?1702029866"
+    "logoURI": "https://assets.coingecko.com/coins/images/33492/thumb/monkelogochipUntitled-1.png?1709173538"
   },
   {
     "chainId": 1,
@@ -76605,6 +76685,14 @@
     "symbol": "OOFP",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/34590/thumb/Picsart_24-01-16_09-13-09-109.jpg?1705428823"
+  },
+  {
+    "chainId": 1,
+    "address": "0xd298fe9fa71ad553e35997b19af19fb435038521",
+    "name": "Frog Wif Hat",
+    "symbol": "FWIF",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/35583/thumb/Frog_Wif_Hat_Logo_200x200.png?1709202634"
   },
   {
     "chainId": 1,
@@ -92245,7 +92333,7 @@
     "chainId": 1,
     "address": "0xff836a5821e69066c87e268bc51b849fab94240c",
     "name": "Real Smurf Cat",
-    "symbol": "",
+    "symbol": "SMURFCAT",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/31751/thumb/SMURFCAT.png?1708079642"
   },
@@ -93995,6 +94083,14 @@
   },
   {
     "chainId": 137,
+    "address": "0x50b728d8d964fd00c2d0aad81718b71311fef68a",
+    "symbol": "SNX",
+    "name": "Synthetix Network",
+    "decimals": 18,
+    "logoURI": "ipfs://QmX3ov1SgUvUJ64HuEn19RsDkVE91zbUuaCfozReqbbMx5"
+  },
+  {
+    "chainId": 137,
     "address": "0x53e0bca35ec356bd5dddfebbd1fc0fd03fabad39",
     "symbol": "LINK",
     "name": "Chainlink",
@@ -94467,6 +94563,54 @@
   },
   {
     "chainId": 250,
+    "address": "0x468003b688943977e6130f4f68f23aad939a1040",
+    "symbol": "SPELL",
+    "name": "Spell",
+    "decimals": 18,
+    "logoURI": "ipfs://QmRQ87x9VSD3iyvoqYXqVAcKGUAmUwYu5RiuqExNkjYyfa"
+  },
+  {
+    "chainId": 250,
+    "address": "0x56ee926bd8c72b2d5fa1af4d9e4cbb515a1e3adc",
+    "symbol": "SNX",
+    "name": "Synthetix Network",
+    "decimals": 18,
+    "logoURI": "ipfs://QmX3ov1SgUvUJ64HuEn19RsDkVE91zbUuaCfozReqbbMx5"
+  },
+  {
+    "chainId": 250,
+    "address": "0x5cc61a78f164885776aa610fb0fe1257df78e59b",
+    "symbol": "SPIRIT",
+    "name": "SpiritSwap",
+    "decimals": 18,
+    "logoURI": "ipfs://QmTfaHewiPHucKyGUxjDUYpw1j87EvZSVDWxKLmCcKLL6T"
+  },
+  {
+    "chainId": 250,
+    "address": "0x6626c47c00f1d87902fc13eecfac3ed06d5e8d8a",
+    "symbol": "WOO",
+    "name": "WOO Network",
+    "decimals": 18,
+    "logoURI": "ipfs://QmdJjzzpWuzQAN6sj2j5FRy3SnFYgwMPQCx5ZNrFdVpcFt"
+  },
+  {
+    "chainId": 250,
+    "address": "0x82f0b8b456c1a451378467398982d4834b6829c1",
+    "symbol": "MIM",
+    "name": "Magic Internet Money",
+    "decimals": 18,
+    "logoURI": "ipfs://QmaNmAVohHYtCFn8H9Lk393KDyj1rhWLUamGggFXM2eGLT"
+  },
+  {
+    "chainId": 250,
+    "address": "0xad996a45fd2373ed0b10efa4a8ecb9de445a4302",
+    "symbol": "ALPACA",
+    "name": "Alpaca Finance",
+    "decimals": 18,
+    "logoURI": "ipfs://QmX52kb3uELLC5yagoxYdWqoqnVkvNjtJRUqh8v7vFsYgr"
+  },
+  {
+    "chainId": 250,
     "address": "0xae75a438b2e0cb8bb01ec1e1e376de11d44477cc",
     "symbol": "SUSHI",
     "name": "Sushi",
@@ -94547,6 +94691,14 @@
   },
   {
     "chainId": 42161,
+    "address": "0x6c2c06790b3e3e3c38e12ee22f8183b37a13ee55",
+    "symbol": "DPX",
+    "name": "Dopex",
+    "decimals": 18,
+    "logoURI": "ipfs://QmYmKcbBgVJnfJQrUmU7GM28pAG1ZV1d5wT2AKbM3Bm3mZ"
+  },
+  {
+    "chainId": 42161,
     "address": "0x912ce59144191c1204e64559fe8253a0e49e6548",
     "symbol": "ARB",
     "name": "Arbitrum",
@@ -94610,6 +94762,22 @@
     "logoURI": "ipfs://QmaJyhkXJfRPxAoSYn6mXvi535zFvhzj166uB7ssXHNcUq"
   },
   {
+    "chainId": 42161,
+    "address": "0xfea7a6a0b346362bf88a9e4a88416b77a57d6c2a",
+    "symbol": "MIM",
+    "name": "Magic Internet Money",
+    "decimals": 18,
+    "logoURI": "ipfs://QmaNmAVohHYtCFn8H9Lk393KDyj1rhWLUamGggFXM2eGLT"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x130966628846bfd36ff31a822705796e8cb8c18d",
+    "symbol": "MIM",
+    "name": "Magic Internet Money",
+    "decimals": 18,
+    "logoURI": "ipfs://QmaNmAVohHYtCFn8H9Lk393KDyj1rhWLUamGggFXM2eGLT"
+  },
+  {
     "chainId": 43114,
     "address": "0x2f6f07cdcf3588944bf4c42ac74ff24bf56e7590",
     "symbol": "STG",
@@ -94640,5 +94808,13 @@
     "name": "USD Coin",
     "decimals": 6,
     "logoURI": "ipfs://QmWbGfqePP3uAvPNHdYSP69aDznHGknsypTPRaiJT9NZF8"
+  },
+  {
+    "chainId": 43114,
+    "address": "0xce1bffbd5374dac86a2893119683f4911a2f7814",
+    "symbol": "SPELL",
+    "name": "Spell",
+    "decimals": 18,
+    "logoURI": "ipfs://QmRQ87x9VSD3iyvoqYXqVAcKGUAmUwYu5RiuqExNkjYyfa"
   }
 ]
