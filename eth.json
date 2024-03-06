@@ -1577,6 +1577,14 @@
   },
   {
     "chainId": 1,
+    "name": "NetMind Token",
+    "address": "0x03aa6298f1370642642415edc0db8b957783e8d6",
+    "decimals": 18,
+    "symbol": "NMT",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29447.png"
+  },
+  {
+    "chainId": 1,
     "name": "Rai Reflex Index",
     "address": "0x03ab458634910aad20ef5f1c8ee96f1d6ac54919",
     "decimals": 18,
@@ -3147,7 +3155,7 @@
     "chainId": 1,
     "name": "Mines of Dalarnia",
     "address": "0x081131434f93063751813c619ecca9c4dc7862a3",
-    "decimals": 6,
+    "decimals": 18,
     "symbol": "DAR",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/11374.png"
   },
@@ -6032,14 +6040,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x102203517ce35ac5cab9a2cda80df03f26c7419b",
-    "name": "SUMOTEX",
-    "symbol": "SMTX",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/27478/thumb/Sumotex_telegram_image_PNG.jpg?1696526517"
-  },
-  {
-    "chainId": 1,
     "address": "0x1028083026fe1e8e1e79170ceae0edbad07b052d",
     "name": "MonkCoin",
     "symbol": "MONK",
@@ -8077,6 +8077,14 @@
     "decimals": 18,
     "symbol": "BITANT",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/12763.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Nvidia Inu",
+    "address": "0x15ee3f09712f4715904e1923c1ad504a673e88ac",
+    "decimals": 18,
+    "symbol": "NINU",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29639.png"
   },
   {
     "chainId": 1,
@@ -14516,10 +14524,10 @@
   {
     "chainId": 1,
     "address": "0x26fb86579e371c7aedc461b2ddef0a8628c93d3b",
-    "name": "BORA",
     "symbol": "BORA",
+    "name": "BORA",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/7646/thumb/mqFw8hxm_400x400.jpeg?1696507900"
+    "logoURI": "ipfs://QmZ5CwhwQhNmn4FKmFrhtfQsqGeeQcBYnfMj6hd11rWq7n"
   },
   {
     "chainId": 1,
@@ -15648,6 +15656,14 @@
     "decimals": 8,
     "symbol": "WAXP",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2300.png"
+  },
+  {
+    "chainId": 1,
+    "name": "D-Drops",
+    "address": "0x2a7cad775fd9c5c43f996a948660ffc21b4e628c",
+    "decimals": 18,
+    "symbol": "DOP",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/21157.png"
   },
   {
     "chainId": 1,
@@ -17715,11 +17731,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x30672ae2680c319ec1028b69670a4a786baa0f35",
     "name": "NodeSynapse",
-    "symbol": "NS",
+    "address": "0x30672ae2680c319ec1028b69670a4a786baa0f35",
     "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/35679/thumb/NodeSynapse_%281%29.png?1709525297"
+    "symbol": "NS",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29656.png"
   },
   {
     "chainId": 1,
@@ -18824,6 +18840,14 @@
     "symbol": "SPN",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/24915/thumb/Sportzchain_logo_195_195.png?1696524072"
+  },
+  {
+    "chainId": 1,
+    "address": "0x32eca61dc25d0742f238ce523e66b68867625dad",
+    "name": "0xFair",
+    "symbol": "FAIR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/35725/thumb/fair-200.png?1709634952"
   },
   {
     "chainId": 1,
@@ -20443,6 +20467,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x36c79f0b8a2e8a3c0230c254c452973e7a3ba155",
+    "name": "BetAI",
+    "symbol": "BAI",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/35714/thumb/betai.jpg?1709630399"
+  },
+  {
+    "chainId": 1,
     "address": "0x36c833eed0d376f75d1ff9dfdee260191336065e",
     "name": "Gitcoin Staked ETH Index",
     "symbol": "GTCETH",
@@ -21182,7 +21214,7 @@
     "name": "Vector ETH",
     "symbol": "VETH",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/35085/thumb/vETH.png?1707317833"
+    "logoURI": "https://assets.coingecko.com/coins/images/35085/thumb/vETH200.png?1709644096"
   },
   {
     "chainId": 1,
@@ -22562,11 +22594,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x3cb48aeb3d1abadc23d2d8a6894b3a68338381c2",
     "name": "PaladinAI",
-    "symbol": "PALAI",
+    "address": "0x3cb48aeb3d1abadc23d2d8a6894b3a68338381c2",
     "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/33703/thumb/Design_sans_titre_%288%29_%282%29.png?1702826502"
+    "symbol": "PALAI",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29646.png"
   },
   {
     "chainId": 1,
@@ -25022,6 +25054,14 @@
     "symbol": "USTB",
     "decimals": 6,
     "logoURI": "https://assets.coingecko.com/coins/images/35012/thumb/ustb.jpeg?1707102680"
+  },
+  {
+    "chainId": 1,
+    "name": "Caduceus",
+    "address": "0x4349929808e515936a68903f6085f5e2b143ff3d",
+    "decimals": 18,
+    "symbol": "CMP",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/20056.png"
   },
   {
     "chainId": 1,
@@ -30487,14 +30527,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x51fe2e572e97bfeb1d719809d743ec2675924edc",
-    "name": "VLaunch  OLD ",
-    "symbol": "VPAD",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/20838/thumb/vlaunch_22.png?1696520230"
-  },
-  {
-    "chainId": 1,
     "name": "LIVEEN",
     "address": "0x5206186997fec1951482c2304a246bef34dcee12",
     "decimals": 18,
@@ -31711,6 +31743,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x559babc46a6ab52fd11b2790bce01f0a434a8b4e",
+    "name": "TrendGuru",
+    "symbol": "TRENDGURU",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/35728/thumb/TrendGuru.png?1709662816"
+  },
+  {
+    "chainId": 1,
     "name": "Avatar",
     "address": "0x559cc0850361afe1973c0ba5d0a3446c8a5ad678",
     "decimals": 18,
@@ -32788,6 +32828,14 @@
     "decimals": 9,
     "symbol": "HLC",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2480.png"
+  },
+  {
+    "chainId": 1,
+    "name": "ZynCoin",
+    "address": "0x58cb30368ceb2d194740b144eab4c2da8a917dcb",
+    "decimals": 18,
+    "symbol": "ZYN",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29640.png"
   },
   {
     "chainId": 1,
@@ -34636,6 +34684,14 @@
     "decimals": 18,
     "symbol": "BAAS",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3142.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x5d942f9872863645bcb181aba66c7d9646a91378",
+    "name": "AltSignals",
+    "symbol": "ASI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/35709/thumb/ASIlogo.png?1709625768"
   },
   {
     "chainId": 1,
@@ -37095,14 +37151,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x642b62daebd3b46b03208a5e590a9d87a88fbdac",
-    "name": "All In Coin",
-    "symbol": "ALLIN",
-    "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/31223/thumb/allinlogo_200x200.jpg?1696530049"
-  },
-  {
-    "chainId": 1,
     "address": "0x6431fa4b812a2dcc062a38cb55cc7d18135adead",
     "name": "RankerDao",
     "symbol": "RANKER",
@@ -38131,7 +38179,7 @@
     "name": "Staked Vector",
     "symbol": "SVEC",
     "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/35462/thumb/sVEC.png?1708675873"
+    "logoURI": "https://assets.coingecko.com/coins/images/35462/thumb/sVEC200.png?1709644177"
   },
   {
     "chainId": 1,
@@ -38299,7 +38347,7 @@
     "name": "Vector Reserve Staked vETH",
     "symbol": "SVETH",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/35289/thumb/svETH.png?1708071938"
+    "logoURI": "https://assets.coingecko.com/coins/images/35289/thumb/svETH200.png?1709593889"
   },
   {
     "chainId": 1,
@@ -38627,7 +38675,7 @@
     "name": "DAOGAME",
     "symbol": "DAOG",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/33320/thumb/2._Defi_All_Odds_logo_-_Solid_Black.png?1707469264"
+    "logoURI": "https://assets.coingecko.com/coins/images/33320/thumb/logo_purple.png?1709643510"
   },
   {
     "chainId": 1,
@@ -46955,6 +47003,14 @@
   },
   {
     "chainId": 1,
+    "name": "Kermit",
+    "address": "0x7f3b4b68ca0238f387d8b1a8fbc002d0e6d4cd5b",
+    "decimals": 18,
+    "symbol": "KERMIT",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29647.png"
+  },
+  {
+    "chainId": 1,
     "name": "Broccoli",
     "address": "0x7f3e4dbd84f5c8a5f15ef927557748cf2fbb77af",
     "decimals": 18,
@@ -52440,6 +52496,14 @@
     "decimals": 18,
     "symbol": "STARL",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/10821.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x8e729198d1c59b82bd6bba579310c40d740a11c2",
+    "name": "Alvara Protocol",
+    "symbol": "ALVA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/35707/thumb/ALVA.png?1709624242"
   },
   {
     "chainId": 1,
@@ -62687,6 +62751,14 @@
   },
   {
     "chainId": 1,
+    "address": "0xaa95f26e30001251fb905d264aa7b00ee9df6c18",
+    "name": "Kendu Inu",
+    "symbol": "KENDU",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/35722/thumb/photo_2024-03-05_01-23-59_%281%29.jpg?1709632285"
+  },
+  {
+    "chainId": 1,
     "name": "Alphr finance",
     "address": "0xaa99199d1e9644b588796f3215089878440d58e0",
     "decimals": 18,
@@ -64535,11 +64607,11 @@
   },
   {
     "chainId": 1,
+    "name": "Modai",
     "address": "0xafa42b8ba6ba9dace46dae129a2a1ef54b73fa8b",
-    "name": "MODAI",
-    "symbol": "MODAI",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/35625/thumb/p5200x200.jpg?1709290896"
+    "symbol": "MODAI",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29638.png"
   },
   {
     "chainId": 1,
@@ -67069,11 +67141,11 @@
   },
   {
     "chainId": 1,
-    "address": "0xb7037457de15fed6cbecc0c62d5d610834b958ec",
     "name": "Whirl",
-    "symbol": "WHIRL",
+    "address": "0xb7037457de15fed6cbecc0c62d5d610834b958ec",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/34966/thumb/CG_LOGO.png?1706806621"
+    "symbol": "WHIRL",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29637.png"
   },
   {
     "chainId": 1,
@@ -75661,6 +75733,14 @@
     "decimals": 18,
     "symbol": "DCASH",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/17210.png"
+  },
+  {
+    "chainId": 1,
+    "name": "I love puppies",
+    "address": "0xcf91b70017eabde82c9671e30e5502d312ea6eb2",
+    "decimals": 9,
+    "symbol": "PUPPIES",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29634.png"
   },
   {
     "chainId": 1,
@@ -90380,6 +90460,14 @@
   },
   {
     "chainId": 1,
+    "name": "Choppy",
+    "address": "0xf938346d7117534222b48d09325a6b8162b3a9e7",
+    "decimals": 9,
+    "symbol": "CHOPPY",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29654.png"
+  },
+  {
+    "chainId": 1,
     "name": "Visor.Finance",
     "address": "0xf938424f7210f31df2aee3011291b658f872e91e",
     "decimals": 18,
@@ -92771,6 +92859,14 @@
   },
   {
     "chainId": 10,
+    "address": "0x2e3d870790dc77a83dd1d18184acc7439a53f475",
+    "symbol": "FRAX",
+    "name": "Frax",
+    "decimals": 18,
+    "logoURI": "ipfs://QmRdVg4RRw7JXdM5enAAC7xkZ1BfgyMxNNqh7q8bhYmjJ7"
+  },
+  {
+    "chainId": 10,
     "address": "0x350a791bfc2c21f9ed5d10980dad2e2638ffa7f6",
     "symbol": "LINK",
     "name": "Chainlink",
@@ -92795,11 +92891,35 @@
   },
   {
     "chainId": 10,
+    "address": "0x484c2d6e3cdd945a8b2df735e079178c1036578c",
+    "symbol": "sfrxETH",
+    "name": "Staked Frax Ether",
+    "decimals": 18,
+    "logoURI": "ipfs://QmX1r2JVToPDMkRUFsERHeeCheTXFZ9Hw1nuq1gDNjufxG"
+  },
+  {
+    "chainId": 10,
     "address": "0x50c5725949a6f0c72e6c4a641f24049a917db0cb",
     "symbol": "LYRA",
     "name": "Lyra",
     "decimals": 18,
     "logoURI": "ipfs://QmaijTpgJwSbSg49ZDYh2FJcG4cSbckxn4ySFsCJviz25L"
+  },
+  {
+    "chainId": 10,
+    "address": "0x67ccea5bb16181e7b4109c9c2143c24a1c2205be",
+    "symbol": "FXS",
+    "name": "Frax Share",
+    "decimals": 18,
+    "logoURI": "ipfs://QmNRaYxGN6QHc6RKZfmaaKX6DJGtj6W7JeC4bDRroKGUCQ"
+  },
+  {
+    "chainId": 10,
+    "address": "0x6806411765af15bddd26f8f544a34cc40cb9838b",
+    "symbol": "frxETH",
+    "name": "Frax Ether",
+    "decimals": 18,
+    "logoURI": "ipfs://QmQqQhtwApaT4X9FAaAzBRvyeE2iaSDH4ahD6exWXcszZU"
   },
   {
     "chainId": 10,
@@ -94859,6 +94979,14 @@
   },
   {
     "chainId": 250,
+    "address": "0x7d016eec9c25232b01f23ef992d98ca97fc2af5a",
+    "symbol": "FXS",
+    "name": "Frax Share",
+    "decimals": 18,
+    "logoURI": "ipfs://QmNRaYxGN6QHc6RKZfmaaKX6DJGtj6W7JeC4bDRroKGUCQ"
+  },
+  {
+    "chainId": 250,
     "address": "0x82f0b8b456c1a451378467398982d4834b6829c1",
     "symbol": "MIM",
     "name": "Magic Internet Money",
@@ -94875,6 +95003,14 @@
   },
   {
     "chainId": 250,
+    "address": "0x9e73f99ee061c8807f69f9c6ccc44ea3d8c373ee",
+    "symbol": "frxETH",
+    "name": "Frax Ether",
+    "decimals": 18,
+    "logoURI": "ipfs://QmQqQhtwApaT4X9FAaAzBRvyeE2iaSDH4ahD6exWXcszZU"
+  },
+  {
+    "chainId": 250,
     "address": "0xad996a45fd2373ed0b10efa4a8ecb9de445a4302",
     "symbol": "ALPACA",
     "name": "Alpaca Finance",
@@ -94888,6 +95024,14 @@
     "name": "Sushi",
     "decimals": 18,
     "logoURI": "ipfs://QmWmSKdZMf2kjte9Drd7AUX5VTj9FF9bSvbctgawzAcxet"
+  },
+  {
+    "chainId": 250,
+    "address": "0xdc301622e621166bd8e82f2ca0a26c13ad0be355",
+    "symbol": "FRAX",
+    "name": "Frax",
+    "decimals": 18,
+    "logoURI": "ipfs://QmRdVg4RRw7JXdM5enAAC7xkZ1BfgyMxNNqh7q8bhYmjJ7"
   },
   {
     "chainId": 324,
@@ -94939,6 +95083,22 @@
   },
   {
     "chainId": 42161,
+    "address": "0x178412e79c25968a32e89b11f63b33f733770c2a",
+    "symbol": "frxETH",
+    "name": "Frax Ether",
+    "decimals": 18,
+    "logoURI": "ipfs://QmQqQhtwApaT4X9FAaAzBRvyeE2iaSDH4ahD6exWXcszZU"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x17fc002b466eec40dae837fc4be5c67993ddbd6f",
+    "symbol": "FRAX",
+    "name": "Frax",
+    "decimals": 18,
+    "logoURI": "ipfs://QmRdVg4RRw7JXdM5enAAC7xkZ1BfgyMxNNqh7q8bhYmjJ7"
+  },
+  {
+    "chainId": 42161,
     "address": "0x18c11fd286c5ec11c3b683caa813b77f5163a122",
     "symbol": "GNS",
     "name": "Gains Network",
@@ -94987,11 +95147,27 @@
   },
   {
     "chainId": 42161,
+    "address": "0x95ab45875cffdba1e5f451b950bc2e42c0053f39",
+    "symbol": "sfrxETH",
+    "name": "Staked Frax Ether",
+    "decimals": 18,
+    "logoURI": "ipfs://QmX1r2JVToPDMkRUFsERHeeCheTXFZ9Hw1nuq1gDNjufxG"
+  },
+  {
+    "chainId": 42161,
     "address": "0x9623063377ad1b27544c965ccd7342f7ea7e88c7",
     "symbol": "GRT",
     "name": "The Graph",
     "decimals": 18,
     "logoURI": "ipfs://Qmf8sMWoxGHRThqGaHKBTsSndkZdbsEyp8DXQvisj6QGH7"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x9d2f299715d94d8a7e6f5eaa8e654e8c74a988a7",
+    "symbol": "FXS",
+    "name": "Frax Share",
+    "decimals": 18,
+    "logoURI": "ipfs://QmNRaYxGN6QHc6RKZfmaaKX6DJGtj6W7JeC4bDRroKGUCQ"
   },
   {
     "chainId": 42161,
@@ -95128,5 +95304,13 @@
     "name": "Avalaunch",
     "decimals": 18,
     "logoURI": "ipfs://QmRAMCPeGwMgpXcaJsbRyyExKBHzAW7P5kwfqR9f3o82Ep"
+  },
+  {
+    "chainId": 43114,
+    "address": "0xd24c2ad096400b6fbcd2ad8b24e7acbc21a1da64",
+    "symbol": "FRAX",
+    "name": "Frax",
+    "decimals": 18,
+    "logoURI": "ipfs://QmRdVg4RRw7JXdM5enAAC7xkZ1BfgyMxNNqh7q8bhYmjJ7"
   }
 ]
