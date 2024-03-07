@@ -1145,6 +1145,7 @@
     "logoURI": "https://ethereum-optimism.github.io/data/VITA/logo.svg",
     "extensions": {
       "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1",
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
       "opListId": "extended",
       "opTokenId": "VITA"
     }
@@ -1185,6 +1186,7 @@
     "logoURI": "https://ethereum-optimism.github.io/data/sDAI/logo.svg",
     "extensions": {
       "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1",
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
       "opListId": "extended",
       "opTokenId": "sDAI"
     }
@@ -1569,6 +1571,19 @@
   },
   {
     "chainId": 1,
+    "address": "0xb17548c7b510427baac4e267bea62e800b247173",
+    "name": "Swarm Markets",
+    "symbol": "SMT",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/SMT/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "opListId": "extended",
+      "opTokenId": "SMT"
+    }
+  },
+  {
+    "chainId": 1,
     "address": "0xb1f1f47061a7be15c69f378cb3f69423bd58f2f8",
     "name": "Flashstake",
     "symbol": "FLASH",
@@ -1759,8 +1774,6 @@
     "decimals": 18,
     "logoURI": "https://ethereum-optimism.github.io/data/SNX/logo.svg",
     "extensions": {
-      "optimismBridgeAddress": "0x39Ea01a0298C315d149a490E34B59Dbf2EC7e48F",
-      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
       "opListId": "default",
       "opTokenId": "SNX"
     }
@@ -2099,7 +2112,7 @@
     "logoURI": "https://ethereum-optimism.github.io/data/USDT/logo.png",
     "extensions": {
       "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1",
-      "baseBridgeAddress": "0xD0204B9527C1bA7bD765Fa5CCD9355d38338272b",
+      "baseBridgeAddress": "0x735aDBbE72226BD52e818E7181953f42E3b0FF21",
       "opListId": "default",
       "opTokenId": "USDT"
     }
@@ -2687,8 +2700,6 @@
     "decimals": 18,
     "logoURI": "https://ethereum-optimism.github.io/data/SNX/logo.svg",
     "extensions": {
-      "optimismBridgeAddress": "0x1427Bc44755d9Aa317535B1feE38922760Aa4e65",
-      "baseBridgeAddress": "0xfa6d8ee5be770f84fc001d098c4bd604fe01284a",
       "opListId": "default",
       "opTokenId": "SNX"
     }
@@ -4871,7 +4882,6 @@
     "decimals": 18,
     "logoURI": "https://ethereum-optimism.github.io/data/SNX/logo.svg",
     "extensions": {
-      "optimismBridgeAddress": "0xD2b3F0Ea40dB68088415412b0043F37B3088836D",
       "opListId": "default",
       "opTokenId": "SNX"
     }
@@ -5387,7 +5397,6 @@
     "decimals": 18,
     "logoURI": "https://ethereum-optimism.github.io/data/SNX/logo.svg",
     "extensions": {
-      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "default",
       "opTokenId": "SNX"
     }
@@ -5427,6 +5436,19 @@
       "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "default",
       "opTokenId": "KNC"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0x2974dc646e375e83bd1c0342625b49f288987fa4",
+    "name": "Swarm Markets",
+    "symbol": "SMT",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/SMT/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "SMT"
     }
   },
   {
@@ -5606,6 +5628,19 @@
       "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "extended",
       "opTokenId": "WAMPL"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0x490a4b510d0ea9f835d2df29eb73b4fca5071937",
+    "name": "VitaDAO Token",
+    "symbol": "VITA",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/VITA/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "VITA"
     }
   },
   {
@@ -5850,6 +5885,19 @@
       "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "extended",
       "opTokenId": "ARIA20"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0x99ac4484e8a1dbd6a185380b3a811913ac884d87",
+    "name": "Savings Dai",
+    "symbol": "sDAI",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/sDAI/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "sDAI"
     }
   },
   {
@@ -6224,6 +6272,19 @@
     }
   },
   {
+    "chainId": 34443,
+    "address": "0xf0f161fda2712db8b566946122a5af183995e2ed",
+    "name": "Tether USD",
+    "symbol": "USDT",
+    "decimals": 6,
+    "logoURI": "https://ethereum-optimism.github.io/data/USDT/logo.png",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "default",
+      "opTokenId": "USDT"
+    }
+  },
+  {
     "chainId": 84531,
     "address": "0x0994206dfe8de6ec6920ff4d779b0d950605fb53",
     "name": "ETHPlus",
@@ -6372,7 +6433,6 @@
     "decimals": 18,
     "logoURI": "https://ethereum-optimism.github.io/data/SNX/logo.svg",
     "extensions": {
-      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "default",
       "opTokenId": "SNX"
     }
