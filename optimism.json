@@ -104,6 +104,19 @@
   },
   {
     "chainId": 1,
+    "address": "0x0469dfb82a816c5f0a566625cec09216a721e90e",
+    "name": "LikeButton.eth",
+    "symbol": "❤️",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/❤️/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "opListId": "extended",
+      "opTokenId": "❤️"
+    }
+  },
+  {
+    "chainId": 1,
     "address": "0x04fa0d235c4abf4bcf4787af4cf447de572ef828",
     "name": "UMA Voting Token v1",
     "symbol": "UMA",
@@ -152,6 +165,19 @@
       "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1",
       "opListId": "extended",
       "opTokenId": "DCN"
+    }
+  },
+  {
+    "chainId": 1,
+    "address": "0x09395a2a58db45db0da254c7eaa5ac469d8bdc85",
+    "name": "SubQueryToken",
+    "symbol": "SQT",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/SQT/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "opListId": "extended",
+      "opTokenId": "SQT"
     }
   },
   {
@@ -5785,6 +5811,19 @@
   },
   {
     "chainId": 8453,
+    "address": "0x858c50c3af1913b0e849afdb74617388a1a5340d",
+    "name": "SubQueryToken",
+    "symbol": "SQT",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/SQT/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "SQT"
+    }
+  },
+  {
+    "chainId": 8453,
     "address": "0x8ee73c484a26e0a5df2ee2a4960b789967dd0415",
     "name": "Curve DAO Token",
     "symbol": "CRV",
@@ -6192,6 +6231,19 @@
     "extensions": {
       "opListId": "extended",
       "opTokenId": "PNDR"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0xe0742c2d2bdbb3c138ce81bc5589dc07865f0a49",
+    "name": "LikeButton.eth",
+    "symbol": "❤️",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/❤️/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "❤️"
     }
   },
   {
@@ -6670,6 +6722,19 @@
   },
   {
     "chainId": 84532,
+    "address": "0x37b797ebe14b4490fe64c67390aecfe20d650953",
+    "name": "SubQueryToken",
+    "symbol": "SQT",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/SQT/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "SQT"
+    }
+  },
+  {
+    "chainId": 84532,
     "address": "0xe2c5fd88341c18025665e4088d8eed23f5c573a7",
     "name": "Brickken",
     "symbol": "BKN",
@@ -6782,6 +6847,19 @@
       "baseBridgeAddress": "0xfd0Bf71F60660E2f608ed56e1659C450eB113120",
       "opListId": "extended",
       "opTokenId": "BTRST"
+    }
+  },
+  {
+    "chainId": 11155111,
+    "address": "0xe6e15ffc71abdae8d34d65bb695959fbd6c15435",
+    "name": "SubQueryToken",
+    "symbol": "SQT",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/SQT/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0xfd0Bf71F60660E2f608ed56e1659C450eB113120",
+      "opListId": "extended",
+      "opTokenId": "SQT"
     }
   },
   {
