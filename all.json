@@ -61386,14 +61386,6 @@
   },
   {
     "chainId": 1,
-    "address": "0xa60b6c2537078b903e3e965d4e36b7280b0b53a9",
-    "name": "Pepe of Yellow",
-    "symbol": "PYPY",
-    "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/31249/thumb/LOGO_Official_2.jpg?1696530074"
-  },
-  {
-    "chainId": 1,
     "name": "Okami Inu",
     "address": "0xa61cd6b7a27506e148dc966ea6739ed9956d812e",
     "decimals": 9,
@@ -95562,6 +95554,22 @@
     "name": "USDC",
     "decimals": 6,
     "logoURI": "ipfs://QmS7rV584ATvEk5Skugr78GyAEFBuEo5eMp2rDNRCRNSmr"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x1c7a460413dd4e964f96d8dfc56e7223ce88cd85",
+    "symbol": "SEAM",
+    "name": "Seamless",
+    "decimals": 18,
+    "logoURI": "ipfs://QmWjEcdM1eqyCC6ZnMHWYSG9oWMhzBuNzoZhJUTvk1P4XM"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x22e6966b799c4d5b13be962e1d117b56327fda66",
+    "symbol": "SNX",
+    "name": "Synthetix Network",
+    "decimals": 18,
+    "logoURI": "ipfs://QmX3ov1SgUvUJ64HuEn19RsDkVE91zbUuaCfozReqbbMx5"
   },
   {
     "chainId": 8453,
