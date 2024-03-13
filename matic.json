@@ -315,6 +315,14 @@
     "logoURI": "https://oceanprotocol.com/static/4ad704a150d436a1f32d495413fc47cd/favicon-white.png"
   },
   {
+    "name": "THX Network",
+    "address": "0x2934b36ca9a4b31e633c5be670c8c8b28b6aa015",
+    "symbol": "THX",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://i.imgur.com/YTalkPn.png"
+  },
+  {
     "name": "Mask Network",
     "address": "0x2b9e7ccdf0f4e5b24757c1e1a80e311e34cb10c7",
     "symbol": "MASK",
@@ -509,6 +517,14 @@
       "SuperToken",
       "WrapperToken"
     ]
+  },
+  {
+    "name": "IQ Protocol Token",
+    "address": "0x41084fdc569099d9e527ccf126e12d9c7c688ec3",
+    "symbol": "IQT",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://i.imgur.com/HeEYuVS.jpeg"
   },
   {
     "name": "Nexo",
@@ -949,6 +965,14 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://augury.finance/_nuxt/img/omen.b433161.png"
+  },
+  {
+    "name": "Ubuntu",
+    "address": "0x78445485a8d5b3be765e3027bc336e3c272a23c9",
+    "symbol": "UBU",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://cloudfront.africarare.io/website/img/afri-token-icon.png"
   },
   {
     "chainId": 137,
@@ -1479,6 +1503,14 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://assets.coingecko.com/coins/images/25514/small/download.png?1652164203"
+  },
+  {
+    "name": "Chain Games",
+    "address": "0xd55fce7cdab84d84f2ef3f99816d765a2a94a509",
+    "symbol": "CHAIN",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://i.imgur.com/8WP8qFm.jpeg"
   },
   {
     "name": "Aave",
@@ -2105,14 +2137,6 @@
     "logoURI": "https://i.imgur.com/qCzBBC4.png"
   },
   {
-    "name": "USD Coin",
-    "address": "0x765277eebeca2e31912c9946eae1021199b39c61",
-    "symbol": "USDC",
-    "decimals": 6,
-    "chainId": 2000,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
-  },
-  {
     "name": "Dogechain Token",
     "address": "0x7b4328c127b85369d9f82ca0503b000d09cf9180",
     "symbol": "DC",
@@ -2153,14 +2177,6 @@
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/74.png"
   },
   {
-    "name": "Mai Stablecoin",
-    "address": "0xb84df10966a5d7e1ab46d9276f55d57bd336afc7",
-    "symbol": "MAI",
-    "decimals": 18,
-    "chainId": 2000,
-    "logoURI": "https://i.imgur.com/lH3Kpzh.png"
-  },
-  {
     "name": "DogeTools",
     "address": "0xb9fcaa7590916578087842e017078d7797fa18d0",
     "symbol": "DTools",
@@ -2169,20 +2185,20 @@
     "logoURI": "https://i.ibb.co/yFTgzps/photo-2022-08-13-01-52-27-1.jpg"
   },
   {
+    "name": "USDoge",
+    "address": "0xd95086fe465a2dc59f989b927472a901e2e05ff2",
+    "symbol": "USDO",
+    "decimals": 18,
+    "chainId": 2000,
+    "logoURI": "http://novadao.io/usdo/usdo-64.png"
+  },
+  {
     "name": "Matic",
     "address": "0xdc42728b0ea910349ed3c6e1c9dc06b5fb591f98",
     "symbol": "MATIC",
     "decimals": 18,
     "chainId": 2000,
     "logoURI": "https://i.imgur.com/uIExoAr.png"
-  },
-  {
-    "name": "Tether USD",
-    "address": "0xe3f5a90f9cb311505cd691a46596599aa1a0ad7d",
-    "symbol": "USDT",
-    "decimals": 6,
-    "chainId": 2000,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
   },
   {
     "name": "Dogira",
@@ -2215,6 +2231,14 @@
     "decimals": 18,
     "chainId": 3776,
     "logoURI": "https://assets.coingecko.com/coins/images/18834/large/wstETH.png?1633565443"
+  },
+  {
+    "name": "Bifrost Voucher ASTR",
+    "address": "0x7746ef546d562b443ae4b4145541a3b1a3d75717",
+    "symbol": "vASTR",
+    "decimals": 18,
+    "chainId": 3776,
+    "logoURI": "https://cdn.liebi.com/vtoken/vASTR.png"
   },
   {
     "name": "Mother of Memes",
