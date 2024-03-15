@@ -465,6 +465,7 @@
     "logoURI": "https://ethereum-optimism.github.io/data/WBTC/logo.svg",
     "extensions": {
       "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1",
+      "modeBridgeAddress": "0x735aDBbE72226BD52e818E7181953f42E3b0FF21",
       "opListId": "default",
       "opTokenId": "WBTC"
     }
@@ -6323,6 +6324,19 @@
     "extensions": {
       "opListId": "extended",
       "opTokenId": "PRIME"
+    }
+  },
+  {
+    "chainId": 34443,
+    "address": "0xcdd475325d6f564d27247d1dddbb0dac6fa0a5cf",
+    "name": "Wrapped BTC",
+    "symbol": "WBTC",
+    "decimals": 8,
+    "logoURI": "https://ethereum-optimism.github.io/data/WBTC/logo.svg",
+    "extensions": {
+      "modeBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "default",
+      "opTokenId": "WBTC"
     }
   },
   {
