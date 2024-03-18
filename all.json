@@ -30463,6 +30463,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x50b0696468f42cab1ddc76413a1312aff3cabdf6",
+    "name": "ClosedAI",
+    "symbol": "CLOSEDAI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/36143/thumb/CLOSEDAI.jpg?1710689243"
+  },
+  {
+    "chainId": 1,
     "name": "StorageChain",
     "address": "0x50b275a15e4f5004aa96f972a30e6a9c718b203f",
     "decimals": 18,
@@ -39916,14 +39924,6 @@
     "decimals": 18,
     "symbol": "XRUNE",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/10260.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x69fa10cac03047a47ff32d7cddd6085ff1583d03",
-    "name": "Hyper",
-    "symbol": "HYPER",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/30255/thumb/Hyper.png?1696529164"
   },
   {
     "chainId": 1,
@@ -70542,14 +70542,6 @@
   },
   {
     "chainId": 1,
-    "address": "0xbe74a95d159e8e323b8c1a70f825efc85fed27c4",
-    "name": "SharesGram",
-    "symbol": "SG",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/31589/thumb/LOGOSHARESGRAM_%282%29.png?1696530406"
-  },
-  {
-    "chainId": 1,
     "name": "SupplyCon",
     "address": "0xbe7a4f88c6b15a722aa960b487badf9880184ec5",
     "decimals": 18,
@@ -82922,7 +82914,7 @@
   {
     "chainId": 1,
     "address": "0xe13cd1c9d52126afc33976401aed4072597c97f8",
-    "name": "Ordinal HODL",
+    "name": "ORDINAL HODL MEME",
     "symbol": "HODL",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/35285/thumb/200_x_200.jpg?1709644211"
@@ -93901,6 +93893,14 @@
   },
   {
     "chainId": 10,
+    "address": "0x374ad0f47f4ca39c78e5cc54f1c9e426ff8f231a",
+    "symbol": "PREMIA",
+    "name": "Premia",
+    "decimals": 18,
+    "logoURI": "ipfs://Qmbef33x648zGE9v9rthiyz4w9jpGsRSsy39UFGBjhpgts"
+  },
+  {
+    "chainId": 10,
     "address": "0x395ae52bb17aef68c2888d941736a71dc6d4e125",
     "symbol": "POOL",
     "name": "PoolTogether",
@@ -94010,6 +94010,22 @@
     "name": "Pendle",
     "decimals": 18,
     "logoURI": "ipfs://QmUgLTHTMw5TD3NmeH4L9VAcRH7EAevahe5AtP7vPVL4Gc"
+  },
+  {
+    "chainId": 10,
+    "address": "0xbfd5206962267c7b4b4a8b3d76ac2e1b2a5c4d5e",
+    "symbol": "OSAK",
+    "name": "Osaka Protocol",
+    "decimals": 18,
+    "logoURI": "ipfs://QmUng1scXVJSCH1MpqK4RanCsW1aXYew8KUZphtj3WUpah"
+  },
+  {
+    "chainId": 10,
+    "address": "0xc40f949f8a4e094d1b49a23ea9241d289b7b2819",
+    "symbol": "LUSD",
+    "name": "Liquity USD",
+    "decimals": 18,
+    "logoURI": "ipfs://QmPzBCxWo5xMA8Wif7wCQQmuZ5ajP5sw4JSHthMxvxY2uR"
   },
   {
     "chainId": 10,
@@ -94138,6 +94154,14 @@
     "name": "1inch Network",
     "decimals": 18,
     "logoURI": "ipfs://QmdUjFYL2izDVe4PLKArg7GtoHmsSqX6Bcsv9fmaVMcbLF"
+  },
+  {
+    "chainId": 56,
+    "address": "0x11cd72f7a4b699c67f225ca8abb20bc9f8db90c7",
+    "symbol": "OSAK",
+    "name": "Osaka Protocol",
+    "decimals": 18,
+    "logoURI": "ipfs://QmUng1scXVJSCH1MpqK4RanCsW1aXYew8KUZphtj3WUpah"
   },
   {
     "chainId": 56,
@@ -94757,6 +94781,14 @@
   },
   {
     "chainId": 56,
+    "address": "0xc17c30e98541188614df99239cabd40280810ca3",
+    "symbol": "RISE",
+    "name": "EverRise",
+    "decimals": 18,
+    "logoURI": "ipfs://QmU6dKNHUySjmVh9FJFMT1cRZ54aoQ7fpJ4q2a6qFPHsbU"
+  },
+  {
+    "chainId": 56,
     "address": "0xc5f0f7b66764f6ec8c8dff7ba683102295e16409",
     "symbol": "FDUSD",
     "name": "First Digital USD",
@@ -94829,6 +94861,14 @@
   },
   {
     "chainId": 56,
+    "address": "0xd40bedb44c081d2935eeba6ef5a3c8a31a1bbe13",
+    "symbol": "HERO",
+    "name": "Metahero",
+    "decimals": 18,
+    "logoURI": "ipfs://QmYoSCsjyJ6aqb3SQxETSkjZuP8oMt36rYTNw2s9KVrmzF"
+  },
+  {
+    "chainId": 56,
     "address": "0xd41fdb03ba84762dd66a0af1a6c8540ff1ba5dfb",
     "symbol": "SFP",
     "name": "SafePal",
@@ -94866,6 +94906,14 @@
     "name": "Ankr Staked ETH",
     "decimals": 18,
     "logoURI": "ipfs://Qmbe4jVgB3fQZeJa166jodSYNaK9pq9CfVUZrnvvJFfL5h"
+  },
+  {
+    "chainId": 56,
+    "address": "0xe37dbf20a4fff3b88233e456355dc49b76b6fe19",
+    "symbol": "LEE",
+    "name": "Love Earn Enjoy",
+    "decimals": 18,
+    "logoURI": "ipfs://QmTLL5D5qQfj5t5nhMHdxKddD3FmYuy6F39n5WuxejcV4B"
   },
   {
     "chainId": 56,
@@ -96213,6 +96261,14 @@
   },
   {
     "chainId": 250,
+    "address": "0x3028b4395f98777123c7da327010c40f3c7cc4ef",
+    "symbol": "PREMIA",
+    "name": "Premia",
+    "decimals": 18,
+    "logoURI": "ipfs://Qmbef33x648zGE9v9rthiyz4w9jpGsRSsy39UFGBjhpgts"
+  },
+  {
+    "chainId": 250,
     "address": "0x468003b688943977e6130f4f68f23aad939a1040",
     "symbol": "SPELL",
     "name": "Spell",
@@ -96330,6 +96386,14 @@
     "name": "Tarot",
     "decimals": 18,
     "logoURI": "ipfs://QmenPX7UnjGeCrfGjsNUWX6tJj3o6QXXw9co5WL8aNP9UF"
+  },
+  {
+    "chainId": 250,
+    "address": "0xc17c30e98541188614df99239cabd40280810ca3",
+    "symbol": "RISE",
+    "name": "EverRise",
+    "decimals": 18,
+    "logoURI": "ipfs://QmU6dKNHUySjmVh9FJFMT1cRZ54aoQ7fpJ4q2a6qFPHsbU"
   },
   {
     "chainId": 250,
@@ -96557,6 +96621,14 @@
   },
   {
     "chainId": 42161,
+    "address": "0x20547341e58fb558637fa15379c92e11f7b7f710",
+    "symbol": "MOZ",
+    "name": "Mozaic",
+    "decimals": 18,
+    "logoURI": "ipfs://QmXC2NamcsJE5ZUTpRGujnBoNDUL4is2xuTNAZQ1qCYtm4"
+  },
+  {
+    "chainId": 42161,
     "address": "0x23ee2343b892b1bb63503a4fabc840e0e2c6810f",
     "symbol": "AXL",
     "name": "Axelar",
@@ -96613,6 +96685,14 @@
   },
   {
     "chainId": 42161,
+    "address": "0x51fc0f6660482ea73330e414efd7808811a57fa2",
+    "symbol": "PREMIA",
+    "name": "Premia",
+    "decimals": 18,
+    "logoURI": "ipfs://Qmbef33x648zGE9v9rthiyz4w9jpGsRSsy39UFGBjhpgts"
+  },
+  {
+    "chainId": 42161,
     "address": "0x6694340fc020c5e6b96567843da2df01b2ce1eb6",
     "symbol": "STG",
     "name": "Stargate Finance",
@@ -96650,6 +96730,14 @@
     "name": "Arbitrum",
     "decimals": 18,
     "logoURI": "ipfs://QmZTMxDWvgVfYhuvVaE1opHmgknz26AcauHU3k2wGVDYkv"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x93b346b6bc2548da6a1e7d98e9a421b42541425b",
+    "symbol": "LUSD",
+    "name": "Liquity USD",
+    "decimals": 18,
+    "logoURI": "ipfs://QmPzBCxWo5xMA8Wif7wCQQmuZ5ajP5sw4JSHthMxvxY2uR"
   },
   {
     "chainId": 42161,
@@ -96789,6 +96877,14 @@
   },
   {
     "chainId": 42161,
+    "address": "0xfb9e5d956d889d91a82737b9bfcdac1dce3e1449",
+    "symbol": "LQTY",
+    "name": "Liquity",
+    "decimals": 18,
+    "logoURI": "ipfs://QmV1bZrR5WNRC5mntEETpHX8sKMft1vtssk38FWWkkgocf"
+  },
+  {
+    "chainId": 42161,
     "address": "0xfc5a1a6eb076a2c7ad06ed22c90d7e710e35ad0a",
     "symbol": "GMX",
     "name": "GMX",
@@ -96898,6 +96994,14 @@
     "name": "USD Coin",
     "decimals": 6,
     "logoURI": "ipfs://QmWbGfqePP3uAvPNHdYSP69aDznHGknsypTPRaiJT9NZF8"
+  },
+  {
+    "chainId": 43114,
+    "address": "0xc17c30e98541188614df99239cabd40280810ca3",
+    "symbol": "RISE",
+    "name": "EverRise",
+    "decimals": 18,
+    "logoURI": "ipfs://QmU6dKNHUySjmVh9FJFMT1cRZ54aoQ7fpJ4q2a6qFPHsbU"
   },
   {
     "chainId": 43114,
