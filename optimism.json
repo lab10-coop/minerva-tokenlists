@@ -1031,6 +1031,7 @@
     "decimals": 18,
     "logoURI": "https://ethereum-optimism.github.io/data/SEAM/logo.svg",
     "extensions": {
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
       "opListId": "extended",
       "opTokenId": "SEAM"
     }
@@ -4270,6 +4271,7 @@
     "decimals": 18,
     "logoURI": "https://ethereum-optimism.github.io/data/SEAM/logo.svg",
     "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "extended",
       "opTokenId": "SEAM"
     }
@@ -5312,6 +5314,19 @@
   },
   {
     "chainId": 84532,
+    "address": "0x178898686f23a50ccac17962df41395484804a6b",
+    "name": "Seamless",
+    "symbol": "SEAM",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/SEAM/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "SEAM"
+    }
+  },
+  {
+    "chainId": 84532,
     "address": "0x37b797ebe14b4490fe64c67390aecfe20d650953",
     "name": "SubQueryToken",
     "symbol": "SQT",
@@ -5450,6 +5465,19 @@
       "baseBridgeAddress": "0xfd0Bf71F60660E2f608ed56e1659C450eB113120",
       "opListId": "extended",
       "opTokenId": "SQT"
+    }
+  },
+  {
+    "chainId": 11155111,
+    "address": "0xf01901ad15fcd248a7175e03c0eccc0fd1d943eb",
+    "name": "Seamless",
+    "symbol": "SEAM",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/SEAM/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0xfd0Bf71F60660E2f608ed56e1659C450eB113120",
+      "opListId": "extended",
+      "opTokenId": "SEAM"
     }
   },
   {
