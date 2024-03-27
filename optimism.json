@@ -47,6 +47,7 @@
     "logoURI": "https://ethereum-optimism.github.io/data/OLAS/logo.svg",
     "extensions": {
       "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1",
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
       "opListId": "extended",
       "opTokenId": "OLAS"
     }
@@ -754,6 +755,7 @@
     "logoURI": "https://ethereum-optimism.github.io/data/FOAM/logo.svg",
     "extensions": {
       "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1",
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
       "opListId": "extended",
       "opTokenId": "FOAM"
     }
@@ -1536,6 +1538,20 @@
       "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
       "opListId": "extended",
       "opTokenId": "MTA"
+    }
+  },
+  {
+    "chainId": 1,
+    "address": "0xa4ffdf3208f46898ce063e25c1c43056fa754739",
+    "name": "AthenaDAO Token",
+    "symbol": "ATH",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/ATH/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1",
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "opListId": "extended",
+      "opTokenId": "ATH"
     }
   },
   {
@@ -3801,6 +3817,19 @@
   },
   {
     "chainId": 10,
+    "address": "0xc62c9b7be5d4e5d415f682b2331bfa5f0c8d061a",
+    "name": "AthenaDAO Token",
+    "symbol": "ATH",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/ATH/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "ATH"
+    }
+  },
+  {
+    "chainId": 10,
     "address": "0xc81d1f0eb955b0c020e5d5b264e1ff72c14d1401",
     "name": "Rocket Pool Protocol",
     "symbol": "RPL",
@@ -4584,6 +4613,32 @@
   },
   {
     "chainId": 8453,
+    "address": "0x54330d28ca3357f294334bdc454a032e7f353416",
+    "name": "Autonolas",
+    "symbol": "OLAS",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/OLAS/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "OLAS"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0x58d75a1c4477914f9a98a8708feaed1dbe40b8a3",
+    "name": "AthenaDAO Token",
+    "symbol": "ATH",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/ATH/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "ATH"
+    }
+  },
+  {
+    "chainId": 8453,
     "address": "0x5a01bdaa010938eb7615c63cb22cf3e94e8505df",
     "name": "DRODEC",
     "symbol": "DRODEC",
@@ -4605,6 +4660,19 @@
       "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "extended",
       "opTokenId": "TETU"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0x6059d0ed9368c36941514d2864fd114a84853d5a",
+    "name": "FOAM Token",
+    "symbol": "FOAM",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/FOAM/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "FOAM"
     }
   },
   {
