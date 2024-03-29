@@ -1058,7 +1058,7 @@
     "decimals": 8,
     "logoURI": "https://ethereum-optimism.github.io/data/BITCOIN/logo.svg",
     "extensions": {
-      "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1",
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
       "opListId": "extended",
       "opTokenId": "BITCOIN"
     }
@@ -3328,19 +3328,6 @@
   },
   {
     "chainId": 10,
-    "address": "0x8a6039fc7a479928b1d73f88040362e9c50db275",
-    "name": "HarryPotterObamaSonic10Inu",
-    "symbol": "BITCOIN",
-    "decimals": 8,
-    "logoURI": "https://ethereum-optimism.github.io/data/BITCOIN/logo.svg",
-    "extensions": {
-      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
-      "opListId": "extended",
-      "opTokenId": "BITCOIN"
-    }
-  },
-  {
-    "chainId": 10,
     "address": "0x8ae125e8653821e851f12a49f7765db9a9ce7384",
     "name": "Dola USD Stablecoin",
     "symbol": "DOLA",
@@ -4391,6 +4378,19 @@
       "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "extended",
       "opTokenId": "SMT"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0x2a06a17cbc6d0032cac2c6696da90f29d39a1a29",
+    "name": "HarryPotterObamaSonic10Inu",
+    "symbol": "BITCOIN",
+    "decimals": 8,
+    "logoURI": "https://ethereum-optimism.github.io/data/BITCOIN/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "BITCOIN"
     }
   },
   {
