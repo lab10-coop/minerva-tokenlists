@@ -3162,17 +3162,12 @@
     }
   },
   {
-    "chainId": 10,
     "address": "0x7a1263ec3bf0a19e25c553b8a2c312e903262c5e",
-    "name": "SAIL Token",
-    "symbol": "SAIL",
+    "chainId": 10,
     "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/data/SAIL/logo.png",
-    "extensions": {
-      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
-      "opListId": "extended",
-      "opTokenId": "SAIL"
-    }
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/optimism/0x7a1263eC3Bf0a19e25C553B8A2C312e903262C5E.jpg",
+    "name": "SAIL Token",
+    "symbol": "SAIL"
   },
   {
     "chainId": 10,
