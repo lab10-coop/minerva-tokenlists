@@ -1582,6 +1582,19 @@
   },
   {
     "chainId": 1,
+    "address": "0xaaee1a9723aadb7afa2810263653a34ba2c21c7a",
+    "name": "Mog Coin",
+    "symbol": "Mog",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/MOG/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "opListId": "extended",
+      "opTokenId": "MOG"
+    }
+  },
+  {
+    "chainId": 1,
     "address": "0xac3e018457b222d93114458476f3e3416abbe38f",
     "name": "Staked Frax Ether",
     "symbol": "sfrxETH",
@@ -3694,6 +3707,14 @@
     "logoURI": "https://ethereum-optimism.github.io/data/USX/logo.svg"
   },
   {
+    "address": "0xbfd5206962267c7b4b4a8b3d76ac2e1b2a5c4d5e",
+    "chainId": 10,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/optimism/0xbFd5206962267c7b4b4A8B3D76AC2E1b2A5c4d5e.jpg",
+    "name": "Osaka Protocol",
+    "symbol": "OSAK"
+  },
+  {
     "chainId": 10,
     "address": "0xc1c167cc44f7923cd0062c4370df962f9ddb16f5",
     "name": "Pepe",
@@ -4399,6 +4420,19 @@
       "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "default",
       "opTokenId": "cbETH"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0x2da56acb9ea78330f947bd57c54119debda7af71",
+    "name": "Mog Coin",
+    "symbol": "Mog",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/MOG/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "MOG"
     }
   },
   {
