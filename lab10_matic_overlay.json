@@ -290,6 +290,15 @@
   },
   {
     "chainId": 137,
+    "name": "Super Bonsai",
+    "address": "0x48a7908771C752AaCF5Cd0088dad0A0dAAEA3716",
+    "decimals": 18,
+    "symbol": "BONSAIx",
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-tokenlists/master/images/bonsai.png",
+    "tags": [ "SuperToken", "WrapperToken" ]
+  },
+  {
+    "chainId": 137,
     "name": "Placeholder",
     "address": "0x0000000000000000000000000000000000000000",
     "decimals": 18,
