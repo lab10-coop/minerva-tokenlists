@@ -13620,14 +13620,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x244b36af168cc3b3a24b1e6ade3a90817cf07d22",
-    "name": "Copybot",
-    "symbol": "COPYBOT",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/32086/thumb/Copybot.png?1696530884"
-  },
-  {
-    "chainId": 1,
     "name": "FourCoin",
     "address": "0x244b797d622d4dee8b188b03546acaabd0cf91a0",
     "decimals": 18,
@@ -15612,6 +15604,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x292fcdd1b104de5a00250febba9bc6a5092a0076",
+    "name": "HashAI",
+    "symbol": "HASHAI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/36743/thumb/HashAI.png?1712212747"
+  },
+  {
+    "chainId": 1,
     "name": "xSNXa",
     "address": "0x2934443c1749dcc0cdcabbd77098eea31d2ea6c3",
     "decimals": 18,
@@ -16833,14 +16833,6 @@
     "symbol": "CUTE",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/33691/thumb/Resized_AvEWEWA5_200x200_%281%29.png?1702796454"
-  },
-  {
-    "chainId": 1,
-    "address": "0x2cbbce628af16de2fcaad681a3c79ec25043f279",
-    "name": "Scarab DAO",
-    "symbol": "SCARAB",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/32085/thumb/scarab_logo.png?1696530883"
   },
   {
     "chainId": 1,
@@ -25016,6 +25008,14 @@
     "decimals": 18,
     "symbol": "SRT",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/8523.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x420698ebc9b7c225731c02d887d0729057339d39",
+    "name": "Chuck on ETH",
+    "symbol": "CHUCK",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/36750/thumb/IMG_0741.jpeg?1712218300"
   },
   {
     "chainId": 1,
@@ -38885,14 +38885,6 @@
     "decimals": 18,
     "symbol": "UBEX",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3140.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x670b73820441b54c118ae4546aaee401d4dc7aa0",
-    "name": "AppifySite",
-    "symbol": "APP",
-    "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/32082/thumb/5_200x200.png?1696530881"
   },
   {
     "chainId": 1,
@@ -73069,14 +73061,6 @@
   },
   {
     "chainId": 1,
-    "address": "0xc4136c364289cc5b42acae1442ea28c1e994aab5",
-    "name": "FineBot",
-    "symbol": "FBOT",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/32075/thumb/FineBot.png?1696530872"
-  },
-  {
-    "chainId": 1,
     "name": "Kryptomon",
     "address": "0xc4170fd71eced3c80badca77f4e12e8aac1e3436",
     "decimals": 18,
@@ -84979,6 +84963,14 @@
   },
   {
     "chainId": 1,
+    "address": "0xe5c6f5fef89b64f36bfccb063962820136bac42f",
+    "name": "Hoppy The Frog",
+    "symbol": "HOPPY",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/36745/thumb/1000012607.png?1712217627"
+  },
+  {
+    "chainId": 1,
     "name": "Genius Playboy Billionaire Philanthropis",
     "address": "0xe5ca70281149be03da30778fb5ec6183d339f7a5",
     "decimals": 9,
@@ -93681,14 +93673,6 @@
   },
   {
     "chainId": 1,
-    "address": "0xfdf7af616091a05b9cd3b5aedd3e88d4e8cd882e",
-    "name": "No ticker",
-    "symbol": "NOTICKER",
-    "decimals": 8,
-    "logoURI": "https://assets.coingecko.com/coins/images/31548/thumb/photo_2023-08-30_12.44.30.jpeg?1696530361"
-  },
-  {
-    "chainId": 1,
     "name": "Skraps",
     "address": "0xfdfe8b7ab6cf1bd1e3d14538ef40686296c42052",
     "decimals": 18,
@@ -101393,6 +101377,18 @@
     "symbol": "jPHP",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-tokenlists/master/images/jPHP.svg"
+  },
+  {
+    "chainId": 137,
+    "name": "Super Bonsai",
+    "address": "0x48a7908771c752aacf5cd0088dad0a0daaea3716",
+    "decimals": 18,
+    "symbol": "BONSAIx",
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-tokenlists/master/images/bonsai.png",
+    "tags": [
+      "SuperToken",
+      "WrapperToken"
+    ]
   },
   {
     "chainId": 137,

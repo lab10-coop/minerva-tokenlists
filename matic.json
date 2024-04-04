@@ -616,6 +616,18 @@
   },
   {
     "chainId": 137,
+    "name": "Super Bonsai",
+    "address": "0x48a7908771c752aacf5cd0088dad0a0daaea3716",
+    "decimals": 18,
+    "symbol": "BONSAIx",
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-tokenlists/master/images/bonsai.png",
+    "tags": [
+      "SuperToken",
+      "WrapperToken"
+    ]
+  },
+  {
+    "chainId": 137,
     "address": "0x4964b3b599b82c3fddc56e3a9ffd77d48c6af0f0",
     "name": "Polycluster",
     "symbol": "DPOL",
