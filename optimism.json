@@ -2065,6 +2065,19 @@
   },
   {
     "chainId": 1,
+    "address": "0xc28eb2250d1ae32c7e74cfb6d6b86afc9beb6509",
+    "name": "Open Ecosystem Token",
+    "symbol": "OPN",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/OPN/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "opListId": "extended",
+      "opTokenId": "OPN"
+    }
+  },
+  {
+    "chainId": 1,
     "address": "0xc4c2614e694cf534d407ee49f8e44d125e4681c4",
     "name": "Chain Games",
     "symbol": "CHAIN",
@@ -5342,6 +5355,19 @@
       "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "extended",
       "opTokenId": "sDAI"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0x9a6d24c02ec35ad970287ee8296d4d6552a31dbe",
+    "name": "Open Ecosystem Token",
+    "symbol": "OPN",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/OPN/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "OPN"
     }
   },
   {
