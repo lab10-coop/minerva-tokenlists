@@ -10496,14 +10496,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x1b5e16c5b20fb5ee87c61fe9afe735cca3b21a65",
-    "name": "Index Coop Large Cap Index",
-    "symbol": "IC21",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/31698/thumb/ic21_token_logo.png?1696530516"
-  },
-  {
-    "chainId": 1,
     "name": "Evany",
     "address": "0x1b61c055fb1d9c719895187e4f19f45a623baeb1",
     "decimals": 8,
@@ -13281,6 +13273,14 @@
     "symbol": "COF",
     "decimals": 9,
     "logoURI": "https://assets.coingecko.com/coins/images/32855/thumb/IMG_20231108_221331_196.png?1699665059"
+  },
+  {
+    "chainId": 1,
+    "name": "PEPE CAT",
+    "address": "0x23113c8aa9db1f583ea1f17563dd927819f49cfe",
+    "decimals": 4,
+    "symbol": "PEPECAT",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/30790.png"
   },
   {
     "chainId": 1,
@@ -21633,6 +21633,14 @@
     "decimals": 9,
     "symbol": "HDRN",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/18687.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x3824255df9eabc9347abcaa5872b1763fe9d47bc",
+    "name": "NodeStation AI",
+    "symbol": "NDS",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/37187/thumb/NodeStation_AI_200x200.png?1713666678"
   },
   {
     "chainId": 1,
@@ -38936,6 +38944,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x661c70333aa1850ccdbae82776bb436a0fcfeefb",
+    "name": "eBTC",
+    "symbol": "EBTC",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/37189/thumb/ebtc-logo_3.png?1713669815"
+  },
+  {
+    "chainId": 1,
     "name": "0xNude",
     "address": "0x661ecf29b533e7d09f67f597af77eeaf3cc6b1e7",
     "decimals": 9,
@@ -42277,6 +42293,14 @@
     "decimals": 18,
     "symbol": "KANGAL",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/8543.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x6e79b51959cf968d87826592f46f819f92466615",
+    "name": "Hoppy",
+    "symbol": "HOPPY",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/37197/thumb/IMG_20240419_013423_844.jpg?1713677587"
   },
   {
     "chainId": 1,
@@ -48525,6 +48549,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x7fd4d7737597e7b4ee22acbf8d94362343ae0a79",
+    "name": "Wrapped MistCoin",
+    "symbol": "WMC",
+    "decimals": 2,
+    "logoURI": "https://assets.coingecko.com/coins/images/32490/thumb/MistCOin200.png?1698293182"
+  },
+  {
+    "chainId": 1,
     "name": "TrumpJr",
     "address": "0x7fe0b79c1c17fe676223eb7f526b0038e6b419d6",
     "decimals": 18,
@@ -53786,14 +53818,6 @@
     "decimals": 18,
     "symbol": "WSB",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/18622.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x8df60cfc67c1bf51fe3dd61b34b156f14f538f5d",
-    "name": "Wojak 2 69",
-    "symbol": "WOJAK269",
-    "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/31660/thumb/IMG_9266.jpeg?1696530477"
   },
   {
     "chainId": 1,
@@ -67543,14 +67567,6 @@
     "decimals": 8,
     "symbol": "PLX",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2228.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xb3207935ff56120f3499e8ad08461dd403bf16b8",
-    "name": "dAMM",
-    "symbol": "DAMM",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/28082/thumb/dAMM_logo_round_-_dark.png?1696527092"
   },
   {
     "chainId": 1,
@@ -82431,7 +82447,7 @@
     "name": "Zentry",
     "symbol": "ZENT",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/36979/thumb/Primary_Tranparent.png?1712931983"
+    "logoURI": "https://assets.coingecko.com/coins/images/36979/thumb/Zentry-rebrand-Primary_200px.png?1713743277"
   },
   {
     "chainId": 1,
@@ -92297,10 +92313,10 @@
   {
     "chainId": 1,
     "address": "0xf6c0aa7ebfe9992200c67e5388e4f42da49e1783",
-    "name": "Psyche",
     "symbol": "USD1",
+    "name": "Psyche",
     "decimals": 2,
-    "logoURI": "https://assets.coingecko.com/coins/images/13661/thumb/Psyche-logo-256.png?1696513411"
+    "logoURI": "ipfs://QmXq4YyV7jLGDyvXUAp6webBAtGAGTasu4Gx41Li1geGq4"
   },
   {
     "chainId": 1,
@@ -92797,6 +92813,14 @@
     "decimals": 18,
     "symbol": "UC",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3259.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xf857c938829c2a53557fb3fbb1c85d10a5227e03",
+    "name": "ECL",
+    "symbol": "ECL",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/37194/thumb/Eucild-200.png?1713675682"
   },
   {
     "chainId": 1,
