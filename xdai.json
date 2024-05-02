@@ -48,7 +48,7 @@
     "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0x0905ab807f8fd040255f0cf8fa14756c1d824931/logo.png"
   },
   {
-    "name": "VitaDAO from Mainnet",
+    "name": "VitaDAO on Gnosis",
     "address": "0x0939a7c3f8d37c1ce67fada4963ae7e0bd112ff3",
     "symbol": "VITA",
     "decimals": 18,
@@ -96,7 +96,7 @@
     "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0x0dcfed2c3041e66b2d8c4ea39782c60355716316/logo.png"
   },
   {
-    "name": "Wrapped XRP from Mainnet",
+    "name": "Wrapped XRP on Gnosis",
     "address": "0x10a82313a4daef47c1ab9ef2bb00b22b3b0cc14c",
     "symbol": "WXRP",
     "decimals": 18,
@@ -104,7 +104,7 @@
     "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0x10a82313a4daef47c1ab9ef2bb00b22b3b0cc14c/logo.png"
   },
   {
-    "name": "PILLAR from Ethereum",
+    "name": "PILLAR on Gnosis",
     "address": "0x10beea85519a704a63765d396415f9ea5aa30a17",
     "symbol": "PLR",
     "decimals": 18,
@@ -196,7 +196,7 @@
     "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-tokenlists/master/images/vCOW.svg"
   },
   {
-    "name": "Raid Guild Token from Ethereum",
+    "name": "Raid Guild Token on Gnosis",
     "address": "0x18e9262e68cc6c6004db93105cc7c001bb103e49",
     "symbol": "RAID",
     "decimals": 18,
@@ -244,7 +244,7 @@
     "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-tokenlists/master/images/Monerium-USD.svg"
   },
   {
-    "name": "FOX from Ethereum",
+    "name": "FOX on Gnosis",
     "address": "0x21a42669643f45bc0e086b8fc2ed70c23d67509d",
     "symbol": "FOX",
     "decimals": 18,
@@ -567,7 +567,7 @@
     "logoURI": "https://bridge.connext.network/logos/assets/nextusdc.png"
   },
   {
-    "name": "Dai Stablecoin from Ethereum",
+    "name": "Dai Stablecoin on Gnosis",
     "address": "0x44fa8e6f47987339850636f88629646662444217",
     "symbol": "DAI",
     "decimals": 18,
@@ -639,6 +639,14 @@
     "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0x4be85acc1cd711f403dc7bde9e6cadfc5a94744b/logo.png"
   },
   {
+    "name": "Safe Token on Gnosis",
+    "address": "0x4d18815d14fe5c3304e87b3fa18318baa5c23820",
+    "symbol": "SAFE",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0x4d18815d14fe5c3304e87b3fa18318baa5c23820/logo.png"
+  },
+  {
     "name": "Mask Network on Gnosis",
     "address": "0x4e1a2bffe81000f7be4807faf0315173c817d6f4",
     "symbol": "MASK",
@@ -679,7 +687,7 @@
     "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0x4efdfbb7cca540a79a7e4dcad1cb6ed14f21c43e/logo.png"
   },
   {
-    "name": "Giveth from Mainnet",
+    "name": "Giveth on Gnosis",
     "address": "0x4f4f9b8d5b4d0dc10506e5551b0513b61fd59e75",
     "symbol": "GIV",
     "decimals": 18,
@@ -733,6 +741,22 @@
     "decimals": 18,
     "chainId": 100,
     "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0x53ef00be819a062533a0e699077c621a28eaded1/logo.png"
+  },
+  {
+    "name": "Bridged EURC (Gnosis)",
+    "address": "0x54e4cb2a4fa0ee46e3d9a98d13bea119666e09f6",
+    "symbol": "EURC.e",
+    "decimals": 6,
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0x54e4cb2a4fa0ee46e3d9a98d13bea119666e09f6/logo.png"
+  },
+  {
+    "name": "Curve.fi DAI/USDC/USDT on Gnosis",
+    "address": "0x572036691d7c36cfd461ff936aa0e48db4ee9d3c",
+    "symbol": "3Crv",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0x572036691d7c36cfd461ff936aa0e48db4ee9d3c/logo.png"
   },
   {
     "name": "Rare Coin v2",
@@ -851,6 +875,14 @@
     "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0x5fe9885226677f3eb5c9ad8ab6c421b4ea38535d/logo.png"
   },
   {
+    "name": "Index on Gnosis",
+    "address": "0x6052245ec516d0f653794052d24efca8a39fcbc3",
+    "symbol": "INDEX",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0x6052245ec516d0f653794052d24efca8a39fcbc3/logo.png"
+  },
+  {
     "name": "lien on Gnosis",
     "address": "0x6062ec2a1ecfcd0026d9bd67aa5ad743adc03995",
     "symbol": "LIEN",
@@ -894,12 +926,20 @@
     ]
   },
   {
-    "name": "CFX Quantum from Ethereum",
+    "name": "CFX Quantum on Gnosis",
     "address": "0x64b17a95e6c45306fb23bc526eb2dc9e1331a1b1",
     "symbol": "CFXQ",
     "decimals": 6,
     "chainId": 100,
     "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0x64b17a95e6c45306fb23bc526eb2dc9e1331a1b1/logo.png"
+  },
+  {
+    "name": "Ajna Token on Gnosis",
+    "address": "0x67ee2155601e168f7777f169cd74f3e22bb5e0ce",
+    "symbol": "AJNA",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0x67ee2155601e168f7777f169cd74f3e22bb5e0ce/logo.png"
   },
   {
     "name": "Base Protocol on Gnosis",
@@ -910,7 +950,7 @@
     "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0x699d001ef13b15335193bc5fad6cfc6747eee8be/logo.png"
   },
   {
-    "name": "Wrapped Ether from Ethereum",
+    "name": "Wrapped Ether on Gnosis",
     "address": "0x6a023ccd1ff6f2045c3309768ead9e68f978f6e1",
     "symbol": "WETH",
     "decimals": 18,
@@ -1012,6 +1052,14 @@
     "decimals": 18,
     "chainId": 100,
     "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0x71850b7e9ee3f13ab46d67167341e4bdc905eef9/logo.png"
+  },
+  {
+    "name": "Wrapped CHI on Gnosis",
+    "address": "0x7211ab649a4139561a152b787de52d257cbaaee9",
+    "symbol": "WCHI",
+    "decimals": 8,
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0x7211ab649a4139561a152b787de52d257cbaaee9/logo.png"
   },
   {
     "chainId": 100,
@@ -1178,7 +1226,7 @@
     "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0x8395f7123ba3ffad52e7414433d825931c81c879/logo.png"
   },
   {
-    "name": "Bright from Ethereum",
+    "name": "Bright on Gnosis",
     "address": "0x83ff60e2f93f8edd0637ef669c69d5fb4f64ca8e",
     "symbol": "BRIGHT",
     "decimals": 18,
@@ -1202,7 +1250,7 @@
     "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0x8a95ea379e1fa4c749dd0a7a21377162028c479e/logo.png"
   },
   {
-    "name": "0xMonero from Ethereum",
+    "name": "0xMonero on Gnosis",
     "address": "0x8c88ea1fd60462ef7004b9e288afcb4680a3c50c",
     "symbol": "0xMR",
     "decimals": 18,
@@ -1266,7 +1314,7 @@
     "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0x915742cb77124761015f63e079089ad0eff1b57c/logo.png"
   },
   {
-    "name": "Prime from Mainnet",
+    "name": "Prime on Gnosis",
     "address": "0x921557ac88f770aab08eef6ac32106f00c7a5e72",
     "symbol": "D2D",
     "decimals": 18,
@@ -1286,7 +1334,7 @@
     ]
   },
   {
-    "name": "DAOSquare Governance Token from Ethereum",
+    "name": "DAOSquare Governance Token on Gnosis",
     "address": "0x97edc0e345fbbbd8460847fcfa3bc2a13bf8641f",
     "symbol": "RICE",
     "decimals": 18,
@@ -1326,7 +1374,7 @@
     "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0x9bd5e0ce813d5172859b0b70ff7bb3c325cee913/logo.png"
   },
   {
-    "name": "Gnosis from Ethereum",
+    "name": "Gnosis on Gnosis",
     "address": "0x9c58bacc331c9aa871afd802db6379a98e80cedb",
     "symbol": "GNO",
     "decimals": 18,
@@ -1382,7 +1430,7 @@
     "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0xa9e5cd4efc86c01fae9a9fcd6e8669b97c92a937/logo.jpg"
   },
   {
-    "name": "Tellor Tributes from Mainnet",
+    "name": "Tellor Tributes on Gnosis",
     "address": "0xaad66432d27737ecf6ed183160adc5ef36ab99f2",
     "symbol": "TRB",
     "decimals": 18,
@@ -1390,7 +1438,7 @@
     "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0xaad66432d27737ecf6ed183160adc5ef36ab99f2/logo.png"
   },
   {
-    "name": "Curve.Fi USD Stablecoin from Mainnet",
+    "name": "Curve.Fi USD Stablecoin on Gnosis",
     "address": "0xabef652195f98a91e490f047a5006b71c85f058d",
     "symbol": "crvUSD",
     "decimals": 18,
@@ -1414,7 +1462,15 @@
     "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0xaf204776c7245bf4147c2612bf6e5972ee483701/logo.png"
   },
   {
-    "name": "Haus",
+    "name": "MATH Token on Gnosis",
+    "address": "0xaf4d17a2077e1de12de66a44de1b4f14c120d32d",
+    "symbol": "MATH",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0xaf4d17a2077e1de12de66a44de1b4f14c120d32d/logo.png"
+  },
+  {
+    "name": "DAOhaus Token on Gnosis",
     "address": "0xb0c5f3100a4d9d9532a4cfd68c55f1ae8da987eb",
     "symbol": "HAUS",
     "decimals": 18,
@@ -1478,7 +1534,7 @@
     "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0xb714654e905edad1ca1940b7790a8239ece5a9ff/logo.png"
   },
   {
-    "name": "Stake Token on Gnosis",
+    "name": "STAKE on Gnosis",
     "address": "0xb7d311e2eb55f2f68a9440da38e7989210b9a05e",
     "symbol": "STAKE",
     "decimals": 18,
@@ -1486,7 +1542,7 @@
     "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0xb7d311e2eb55f2f68a9440da38e7989210b9a05e/logo.png"
   },
   {
-    "name": "DXdao from Ethereum",
+    "name": "DXdao on Gnosis",
     "address": "0xb90d6bec20993be5d72a5ab353343f7a0281f158",
     "symbol": "DXD",
     "decimals": 18,
@@ -1494,7 +1550,7 @@
     "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0xb90d6bec20993be5d72a5ab353343f7a0281f158/logo.png"
   },
   {
-    "name": "MEDOOZA Ecosystem v2.0 from Ethereum",
+    "name": "MEDOOZA Ecosystem v2.0 on Gnosis",
     "address": "0xbab3cbdcbcc578445480a79ed80269c50bb5b718",
     "symbol": "MDZA",
     "decimals": 18,
@@ -1554,7 +1610,7 @@
     ]
   },
   {
-    "name": "SURF.Finance from Ethereum",
+    "name": "SURF.Finance on Gnosis",
     "address": "0xc12956b840b403b600014a3092f6ebd9259738fe",
     "symbol": "SURF",
     "decimals": 18,
@@ -1618,7 +1674,7 @@
     "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0xc577cddabb7893cc2ca15ef4b5d5e5e13c3feed3/logo.png"
   },
   {
-    "name": "DAppNode DAO Token from Ethereum",
+    "name": "DAppNode DAO Token on Gnosis",
     "address": "0xc60e38c6352875c051b481cbe79dd0383adb7817",
     "symbol": "NODE",
     "decimals": 18,
@@ -1650,7 +1706,7 @@
     "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0xc84dd5b971521b6c9fa5e10d25e6428b19710e05/logo.png"
   },
   {
-    "name": "Colony Network Token from Ethereum",
+    "name": "Colony Network Token on Gnosis",
     "address": "0xc9b6218affe8aba68a13899cbf7cf7f14ddd304c",
     "symbol": "CLNY",
     "decimals": 18,
@@ -1680,6 +1736,14 @@
     "decimals": 18,
     "chainId": 100,
     "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0xcc043d8820a6dc3e74ef6fb4772fae00c1563489/logo.png"
+  },
+  {
+    "name": "Autonolas on Gnosis",
+    "address": "0xce11e14225575945b8e6dc0d4f2dd4c570f79d9f",
+    "symbol": "OLAS",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0xce11e14225575945b8e6dc0d4f2dd4c570f79d9f/logo.png"
   },
   {
     "name": "Layer 2 Index on Gnosis",
@@ -1730,7 +1794,7 @@
     "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0xd3b93ff74e43ba9568e5019b38addb804fef719b/logo.png"
   },
   {
-    "name": "DefiPulse Index from Ethereum",
+    "name": "DefiPulse Index on Gnosis",
     "address": "0xd3d47d5578e55c880505dc40648f7f9307c3e7a8",
     "symbol": "DPI",
     "decimals": 18,
@@ -1770,7 +1834,7 @@
     "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0xd51e1ddd116fff9a71c1b8feeb58113afa2b4d93/logo.png"
   },
   {
-    "name": "Flex Ungovernance Token from Mainnet",
+    "name": "Flex Ungovernance Token on Gnosis",
     "address": "0xd87eaa26dcfb0c0a6160ccf8c8a01beb1c15fb00",
     "symbol": "FLX",
     "decimals": 18,
@@ -1802,7 +1866,7 @@
     "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0xdbcade285846131a5e7384685eaddbdfd9625557/logo.png"
   },
   {
-    "name": "BZZ from Ethereum",
+    "name": "BZZ on Gnosis",
     "address": "0xdbf3ea6f5bee45c02255b2c26a16f300502f68da",
     "symbol": "BZZ",
     "decimals": 16,
@@ -1818,7 +1882,7 @@
     "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0xdd96b45877d0e8361a4ddb732da741e97f3191ff/logo.png"
   },
   {
-    "name": "USDC from Ethereum",
+    "name": "USD//C on Gnosis",
     "address": "0xddafbb505ad214d7b80b1f830fccc89b60fb7a83",
     "symbol": "USDC",
     "decimals": 6,
@@ -1858,7 +1922,7 @@
     "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0xdfc20ae04ed70bd9c7d720f449eedae19f659d65/logo.png"
   },
   {
-    "name": "Coinbase Wrapped Staked ETH from Mainnet",
+    "name": "Coinbase Wrapped Staked ETH on Gnosis",
     "address": "0xe0cf6c7ed5ca334bd39f86366defbc3fc6dbbcab",
     "symbol": "cbETH",
     "decimals": 18,
@@ -1882,7 +1946,7 @@
     "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0xe154a435408211ac89757b76c4fbe4dc9ed2ef27/logo.png"
   },
   {
-    "name": "ChainLink Token from Ethereum",
+    "name": "ChainLink Token on Gnosis",
     "address": "0xe2e73a1c69ecf83f464efce6a5be353a37ca09b2",
     "symbol": "LINK",
     "decimals": 18,
@@ -1906,7 +1970,7 @@
     "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0xe6ff35dc3227a0c46e92b640bcb5c5895ad8c687/logo.png"
   },
   {
-    "name": "Bincentive Token from Mainnet",
+    "name": "Bincentive Token on Gnosis",
     "address": "0xe746a0476b833f2fa658e2b549dcfa5abbb9c3c9",
     "symbol": "BCNT",
     "decimals": 18,
@@ -1933,7 +1997,7 @@
     ]
   },
   {
-    "name": "Mai Stablecoin from Mainnet",
+    "name": "Mai Stablecoin on Gnosis",
     "address": "0xe959db3c04376b017b37c95618bbaeb59f51abba",
     "symbol": "MAI",
     "decimals": 18,
@@ -2029,7 +2093,7 @@
     "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0xfadc59d012ba3c110b08a15b7755a5cb7cbe77d7/logo.png"
   },
   {
-    "name": "AlbCoin from Ethereum",
+    "name": "AlbCoin on Gnosis",
     "address": "0xfb23cfd35046466fdba7f73dc2fccb5b17abf1aa",
     "symbol": "ALBC",
     "decimals": 18,
