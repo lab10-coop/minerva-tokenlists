@@ -5341,7 +5341,7 @@
     "name": "Curio Gas Token",
     "symbol": "CGT",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/37476/thumb/cgt.jpeg?1714466387"
+    "logoURI": "https://assets.coingecko.com/coins/images/37476/thumb/Screenshot_2024-05-04_004346.png?1714754678"
   },
   {
     "chainId": 1,
@@ -7366,14 +7366,6 @@
     "decimals": 18,
     "symbol": "EP",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/24774.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x13832bec9b7029a82988017a7f6095bdf0207d62",
-    "name": "Milk",
-    "symbol": "MILK",
-    "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/32681/thumb/output-onlinepngtools-2.png?1698934572"
   },
   {
     "chainId": 1,
@@ -12320,7 +12312,7 @@
     "name": "BANDS",
     "symbol": "BANDS",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/35693/thumb/Bands_Crypto_Logo_200x200_transparent.png?1709535684"
+    "logoURI": "https://assets.coingecko.com/coins/images/35693/thumb/band.png?1714758222"
   },
   {
     "chainId": 1,
@@ -21532,6 +21524,14 @@
   },
   {
     "chainId": 1,
+    "name": "Ethereum Meta",
+    "address": "0x37f04733c7e1c762f0ed86533c9052be5822c1fd",
+    "decimals": 18,
+    "symbol": "ETHM",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3589.png"
+  },
+  {
+    "chainId": 1,
     "name": "VestChain",
     "address": "0x37f04d2c3ae075fad5483bb918491f656b12bdb6",
     "decimals": 8,
@@ -24304,6 +24304,14 @@
     "decimals": 18,
     "symbol": "FIRE",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/5933.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x3f91ad19af450b44cf5176b4de719d77cb19eec7",
+    "name": "Luxury Travel Token",
+    "symbol": "LTT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/37545/thumb/LTT_logo_200x200.png?1714733838"
   },
   {
     "chainId": 1,
@@ -29954,14 +29962,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x4de914f49f04c943dbde7e4f8017d08b51ad657c",
-    "name": "Oracle Layer2",
-    "symbol": "ORACLE",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/32702/thumb/20231101_235814.png?1698985290"
-  },
-  {
-    "chainId": 1,
     "name": "SmartChain Protocol",
     "address": "0x4df2c7ec048f69bba12098bf71a15afeeaaf0c4b",
     "decimals": 18,
@@ -32457,14 +32457,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x5526f0cab9f260023e94cf01e353e70d2f45ed81",
-    "name": "CockBoxing",
-    "symbol": "COCKS",
-    "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/32699/thumb/IMG_20231031_171642_092.png?1698984813"
-  },
-  {
-    "chainId": 1,
     "name": "Moonprinter",
     "address": "0x552754cbd16264c5141cb5fdaf34246553a10c49",
     "decimals": 18,
@@ -33689,14 +33681,6 @@
   },
   {
     "chainId": 1,
-    "name": "AirDAO",
-    "address": "0x586ee5df24c5a426e42ed7ea6e3eb0f00a4a2256",
-    "decimals": 18,
-    "symbol": "AMB",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2081.png"
-  },
-  {
-    "chainId": 1,
     "name": "9GAG",
     "address": "0x5870e247d9910f153b7ee004702f0cdc769a60ef",
     "decimals": 9,
@@ -34662,14 +34646,6 @@
     "decimals": 5,
     "symbol": "MESA",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/17737.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x5b060754b27844dbc3578382886828be224b804f",
-    "name": "Loong",
-    "symbol": "LOONG",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/32308/thumb/Ow2kjQo7_400x400.jpg?1697188397"
   },
   {
     "chainId": 1,
@@ -43465,14 +43441,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x7199f1dffe926c8fd36567d8df6f41edb01bf632",
-    "name": "Okiku",
-    "symbol": "OKIKU",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/32683/thumb/200.png?1698937633"
-  },
-  {
-    "chainId": 1,
     "name": "Musk Dao",
     "address": "0x719e7f0dadfdea25b78595da944f44d15d7e6795",
     "decimals": 18,
@@ -47937,7 +47905,7 @@
     "name": "Gomining",
     "address": "0x7ddc52c4de30e94be3a6a0a2b259b2850f421989",
     "decimals": 18,
-    "symbol": "GMT",
+    "symbol": "Gomining",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/10180.png"
   },
   {
@@ -57285,6 +57253,14 @@
   },
   {
     "chainId": 1,
+    "name": "Arky",
+    "address": "0x9727eaf447203be268e5d471b6503bf47a71ea72",
+    "decimals": 9,
+    "symbol": "ARKY",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/31065.png"
+  },
+  {
+    "chainId": 1,
     "name": "TOTO",
     "address": "0x973e00eee6d180b5a0eb08ce3047ac4ea7a45cd5",
     "decimals": 9,
@@ -64708,7 +64684,7 @@
   },
   {
     "chainId": 1,
-    "name": "MOG Coin",
+    "name": "Mog Coin",
     "address": "0xaaee1a9723aadb7afa2810263653a34ba2c21c7a",
     "decimals": 18,
     "symbol": "MOG",
@@ -66148,11 +66124,11 @@
   },
   {
     "chainId": 1,
-    "name": "Pawthereum",
     "address": "0xaecc217a749c2405b5ebc9857a16d58bdc1c367f",
-    "decimals": 18,
+    "name": "Pawthereum  OLD ",
     "symbol": "PAWTH",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/12983.png"
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/19275/thumb/pawth.png?1696518718"
   },
   {
     "chainId": 1,
@@ -78006,14 +77982,6 @@
   },
   {
     "chainId": 1,
-    "address": "0xcfb65079138878b9dd29b99c151b286464f81276",
-    "name": "Bobi",
-    "symbol": "BOBI",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/32682/thumb/200F9d1nhqWwAA4M5r.jpeg?1698936285"
-  },
-  {
-    "chainId": 1,
     "name": "WinStars.live",
     "address": "0xcfbf70e33d5163e25b0dad73955c1bd9e8cd8ba2",
     "decimals": 18,
@@ -85077,14 +85045,6 @@
   },
   {
     "chainId": 1,
-    "address": "0xe308a6a13a74fae24f542a6c4c3d6fc2cd8e664a",
-    "name": "The Roman Empire",
-    "symbol": "ROME",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/32708/thumb/rome.png?1698986439"
-  },
-  {
-    "chainId": 1,
     "name": "DCORP Utility",
     "address": "0xe30e02f049957e2a5907589e06ba646fb2c321ba",
     "decimals": 8,
@@ -91563,6 +91523,14 @@
   },
   {
     "chainId": 1,
+    "name": "AirDAO",
+    "address": "0xf4fb9bf10e489ea3edb03e094939341399587b0c",
+    "decimals": 18,
+    "symbol": "AMB",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2081.png"
+  },
+  {
+    "chainId": 1,
     "name": "WHEN Token",
     "address": "0xf4fe95603881d0e07954fd7605e0e9a916e42c44",
     "decimals": 18,
@@ -94602,11 +94570,11 @@
   },
   {
     "chainId": 1,
-    "name": "Ethereum Meta",
     "address": "0xfd957f21bd95e723645c07c48a2d8acb8ffb3794",
-    "decimals": 18,
+    "name": "Ethereum Meta",
     "symbol": "ETHM",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3589.png"
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/6586/thumb/ethereum-meta.png?1696506937"
   },
   {
     "chainId": 1,
