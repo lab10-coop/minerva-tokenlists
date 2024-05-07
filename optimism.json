@@ -235,6 +235,19 @@
   },
   {
     "chainId": 1,
+    "address": "0x0b6a24a288ef6e1bffd94ebe0ee026d80cb4ce82",
+    "name": "Chad USD",
+    "symbol": "CUSD",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/CUSD/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "opListId": "extended",
+      "opTokenId": "CUSD"
+    }
+  },
+  {
+    "chainId": 1,
     "address": "0x0b6f3c17e1626a7cbfa4302ce4e3c45522d23a83",
     "name": "WardenSwap",
     "symbol": "WAD",
@@ -299,6 +312,18 @@
       "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
       "opListId": "default",
       "opTokenId": "POOL"
+    }
+  },
+  {
+    "chainId": 1,
+    "address": "0x0d505c03d30e65f6e9b4ef88855a47a89e4b7676",
+    "name": "ZoomerCoin",
+    "symbol": "ZOOMER",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/ZOOMER/logo.png",
+    "extensions": {
+      "opListId": "extended",
+      "opTokenId": "ZOOMER"
     }
   },
   {
@@ -1131,6 +1156,19 @@
   },
   {
     "chainId": 1,
+    "address": "0x617ead3c59ded3ea1bb17881118cf310144b450f",
+    "name": "The Secret Coin",
+    "symbol": "TSC",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/TSC/logo.png",
+    "extensions": {
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "opListId": "extended",
+      "opTokenId": "TSC"
+    }
+  },
+  {
+    "chainId": 1,
     "address": "0x6399c842dd2be3de30bf99bc7d1bbf6fa3650e70",
     "name": "Premia",
     "symbol": "PREMIA",
@@ -1673,6 +1711,20 @@
       "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1",
       "opListId": "extended",
       "opTokenId": "COLLAB"
+    }
+  },
+  {
+    "chainId": 1,
+    "address": "0x8c0d76c9b18779665475f3e212d9ca1ed6a1a0e6",
+    "name": "Zunami USD",
+    "symbol": "zunUSD",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/zunUSD/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1",
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "opListId": "extended",
+      "opTokenId": "zunUSD"
     }
   },
   {
@@ -2341,6 +2393,20 @@
       "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
       "opListId": "extended",
       "opTokenId": "OPN"
+    }
+  },
+  {
+    "chainId": 1,
+    "address": "0xc2e660c62f72c2ad35ace6db78a616215e2f2222",
+    "name": "Zunami ETH",
+    "symbol": "zunETH",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/zunETH/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1",
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "opListId": "extended",
+      "opTokenId": "zunETH"
     }
   },
   {
@@ -3883,6 +3949,19 @@
   },
   {
     "chainId": 10,
+    "address": "0x805b93d5ff318cc054b46d6850af12feb55472d6",
+    "name": "Zunami ETH",
+    "symbol": "zunETH",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/zunETH/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "zunETH"
+    }
+  },
+  {
+    "chainId": 10,
     "address": "0x819845b60a192167ed1139040b4f8eca31834f27",
     "name": "MetaPoolETH",
     "symbol": "mpETH",
@@ -4021,6 +4100,19 @@
       "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "extended",
       "opTokenId": "MTA"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0x93c3e0fa191141c957c2632752ec35c84d0c440a",
+    "name": "Zunami USD",
+    "symbol": "zunUSD",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/zunUSD/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "zunUSD"
     }
   },
   {
@@ -4260,6 +4352,18 @@
       "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "extended",
       "opTokenId": "SIPHER"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0xb962150760f9a3bb00e3e9cf48297ee20ada4a33",
+    "name": "xZoomerCoin",
+    "symbol": "xZOOMER",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/ZOOMER/logo.png",
+    "extensions": {
+      "opListId": "extended",
+      "opTokenId": "ZOOMER"
     }
   },
   {
@@ -5510,6 +5614,19 @@
   },
   {
     "chainId": 8453,
+    "address": "0x40aeed4852df0ae3624e7027deddfb972dbc8852",
+    "name": "Zunami ETH",
+    "symbol": "zunETH",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/zunETH/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "zunETH"
+    }
+  },
+  {
+    "chainId": 8453,
     "address": "0x4158734d47fc9692176b5085e0f52ee0da5d47f1",
     "name": "Balancer",
     "symbol": "BAL",
@@ -5569,6 +5686,19 @@
       "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "extended",
       "opTokenId": "REACH"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0x4493fae71502871245b7049580b3195bc930e661",
+    "name": "Chad USD",
+    "symbol": "CUSD",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/CUSD/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "CUSD"
     }
   },
   {
@@ -5800,6 +5930,19 @@
       "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "extended",
       "opTokenId": "RAZOR"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0x6ef3864876424ade834a7c1be8c0cf3d71208b84",
+    "name": "Zunami USD",
+    "symbol": "zunUSD",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/zunUSD/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "zunUSD"
     }
   },
   {
@@ -6474,6 +6617,18 @@
   },
   {
     "chainId": 8453,
+    "address": "0xd1db4851bcf5b41442caa32025ce0afe6b8eabc2",
+    "name": "Based ZoomerCoin",
+    "symbol": "ZOOMER",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/ZOOMER/logo.png",
+    "extensions": {
+      "opListId": "extended",
+      "opTokenId": "ZOOMER"
+    }
+  },
+  {
+    "chainId": 8453,
     "address": "0xd652c5425aea2afd5fb142e120fecf79e18fafc3",
     "name": "PoolTogether",
     "symbol": "POOL",
@@ -6689,6 +6844,19 @@
       "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "extended",
       "opTokenId": "RSC"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0xfee5178bb6ad41e7d5bbc7f6145feb27460dd1ed",
+    "name": "The Secret Coin",
+    "symbol": "TSC",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/TSC/logo.png",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "TSC"
     }
   },
   {

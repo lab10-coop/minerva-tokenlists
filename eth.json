@@ -1725,7 +1725,7 @@
     "name": "Major Dog",
     "symbol": "MAJOR",
     "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/37436/thumb/0x03cce75a4795c1cfab8b7c0a1fb38df46d2f4159.jpg?1714380105"
+    "logoURI": "https://assets.coingecko.com/coins/images/37436/thumb/CC_20240503_195115.png?1715028421"
   },
   {
     "chainId": 1,
@@ -6201,14 +6201,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x103bb3ebc6f61b3db2d6e01e54ef7d9899a2e16b",
-    "name": "Arch Ethereum Div  Yield",
-    "symbol": "AEDY",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/30483/thumb/AEDY-512x512.png?1696529369"
-  },
-  {
-    "chainId": 1,
     "name": "Genesis Vision",
     "address": "0x103c3a209da59d3e7c4a89307e66521e081cfdf0",
     "decimals": 18,
@@ -9102,6 +9094,14 @@
     "decimals": 18,
     "symbol": "NFAI",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/23267.png"
+  },
+  {
+    "chainId": 1,
+    "name": "XENT",
+    "address": "0x17caa121f5f95ee9b85f756e41ad9e09fe449964",
+    "decimals": 18,
+    "symbol": "XENT",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/13813.png"
   },
   {
     "chainId": 1,
@@ -12309,7 +12309,7 @@
   {
     "chainId": 1,
     "address": "0x2048e0d048224381cac3ea06012ced4a6f122d32",
-    "name": "BANDS",
+    "name": "BANDS  OLD ",
     "symbol": "BANDS",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/35693/thumb/band.png?1714758222"
@@ -20188,6 +20188,14 @@
   },
   {
     "chainId": 1,
+    "name": "HyperHash AI",
+    "address": "0x34b64fd41675520bf5098bbcc37c679ca55fb5df",
+    "decimals": 9,
+    "symbol": "HYPERAI",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/31079.png"
+  },
+  {
+    "chainId": 1,
     "address": "0x34ba042827996821cffeb06477d48a2ff9474483",
     "name": "Shib2 0",
     "symbol": "SHIB20",
@@ -24019,11 +24027,11 @@
   },
   {
     "chainId": 1,
-    "name": "ENTERBUTTON",
     "address": "0x3ecab35b64345bfc472477a653e4a3abe70532d9",
-    "decimals": 18,
+    "name": "EnterButton",
     "symbol": "ENTC",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/13813.png"
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/19677/thumb/ENTC_symbol.png?1696519104"
   },
   {
     "chainId": 1,
@@ -27322,11 +27330,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x46c0f8259c4e4d50320124e52f3040cb9e4d04c7",
     "name": "Chatter Shield",
-    "symbol": "SHIELD",
+    "address": "0x46c0f8259c4e4d50320124e52f3040cb9e4d04c7",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/37166/thumb/Shield_Logo_200X200.png?1713989944"
+    "symbol": "SHIELD",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/27705.png"
   },
   {
     "chainId": 1,
@@ -42849,6 +42857,14 @@
   },
   {
     "chainId": 1,
+    "name": "HOPPY",
+    "address": "0x700d0e92ea7db8362a4449696d2d84a658f7808d",
+    "decimals": 18,
+    "symbol": "HOPPY",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/31086.png"
+  },
+  {
+    "chainId": 1,
     "name": "POLBOT",
     "address": "0x700e4abcd9264bf1b03da79cf875650f42552d24",
     "decimals": 18,
@@ -49558,6 +49574,14 @@
   },
   {
     "chainId": 1,
+    "name": "EYESECU AI",
+    "address": "0x83111542c8eaca0c87731dc9f34f97a164e61381",
+    "decimals": 9,
+    "symbol": "ESCU",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/31080.png"
+  },
+  {
+    "chainId": 1,
     "name": "MMAON",
     "address": "0x8315472bae77f9a2b856a67eb0796480aafcd51c",
     "decimals": 18,
@@ -50219,6 +50243,14 @@
     "decimals": 18,
     "symbol": "KONO",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/8697.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Daredevil Dog",
+    "address": "0x850ea4000059b103f987b592bc25ba2e9a108a1a",
+    "decimals": 9,
+    "symbol": "MASK",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/31073.png"
   },
   {
     "chainId": 1,
@@ -54523,14 +54555,6 @@
     "decimals": 18,
     "symbol": "IPM",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7247.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x8ff62c1b0868e1a8905eb0d0cbb04f20667dcf88",
-    "name": "BTCrewards",
-    "symbol": "BTCR",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/32741/thumb/Bitcoin_Rewards_Logo_-_200x200.png?1699239519"
   },
   {
     "chainId": 1,
@@ -65713,6 +65737,14 @@
     "decimals": 18,
     "symbol": "RIFT",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/5110.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xadf7c35560035944e805d98ff17d58cde2449389",
+    "name": "Spectral",
+    "symbol": "SPEC",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/36138/thumb/spectral_logo_200x200.png?1710684002"
   },
   {
     "chainId": 1,
@@ -76982,11 +77014,11 @@
   },
   {
     "chainId": 1,
-    "address": "0xcd24ba0e3364233ee9301c1d608a14753c8739c5",
     "name": "DeepSouth AI",
-    "symbol": "SOUTH",
+    "address": "0xcd24ba0e3364233ee9301c1d608a14753c8739c5",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/34348/thumb/CGpng.png?1704701256"
+    "symbol": "SOUTH",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/31095.png"
   },
   {
     "chainId": 1,
@@ -79035,6 +79067,14 @@
     "decimals": 18,
     "symbol": "AITEK",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29321.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xd28cca138166f1d6dae560a0e15e5be2a97c819d",
+    "name": "BANDS",
+    "symbol": "BANDS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/37587/thumb/bands.jpeg?1714976058"
   },
   {
     "chainId": 1,
@@ -81381,11 +81421,11 @@
   },
   {
     "chainId": 1,
-    "name": "Chatter Shield",
     "address": "0xd8b90d2e680ea535eacce1b025c998b347892f68",
-    "decimals": 18,
+    "name": "Chatter Shield  OLD ",
     "symbol": "SHIELD",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/27705.png"
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/31140/thumb/SHIELD.png?1713491221"
   },
   {
     "chainId": 1,
