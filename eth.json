@@ -1953,6 +1953,14 @@
   },
   {
     "chainId": 1,
+    "name": "ArchLoot",
+    "address": "0x046bad07658f3b6cad9a396cfcbc1243af452ec1",
+    "decimals": 18,
+    "symbol": "AL",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/22765.png"
+  },
+  {
+    "chainId": 1,
     "name": "Rollbit Coin",
     "address": "0x046eee2cc3188071c02bfc1745a6b17c656e3f3d",
     "decimals": 18,
@@ -6635,7 +6643,7 @@
     "chainId": 1,
     "name": "Yaku",
     "address": "0x1155db64b59265f57533bc0f9ae012fffd34eb7f",
-    "decimals": 18,
+    "decimals": 9,
     "symbol": "$YAKU",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/21348.png"
   },
@@ -10684,11 +10692,11 @@
   },
   {
     "chainId": 1,
-    "name": "ArchLoot",
     "address": "0x1bd55090b8878630e57fae6ebd11fd61d16dfc9f",
-    "decimals": 18,
+    "name": "ArchLoot",
     "symbol": "ALT",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/22765.png"
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/28919/thumb/7.png?1696527894"
   },
   {
     "chainId": 1,
@@ -14052,14 +14060,6 @@
   },
   {
     "chainId": 1,
-    "name": "Dotmoovs",
-    "address": "0x24ec2ca132abf8f6f8a6e24a1b97943e31f256a7",
-    "decimals": 18,
-    "symbol": "MOOV",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/10046.png"
-  },
-  {
-    "chainId": 1,
     "name": "SECTBOT",
     "address": "0x24edded3f03abb2e9d047464294133378bddb596",
     "decimals": 18,
@@ -17332,6 +17332,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x2dd1b9410c73e16b60240e529e38e30425f00d4e",
+    "name": "Kay Pacha",
+    "symbol": "PACHA",
+    "decimals": 10,
+    "logoURI": "https://assets.coingecko.com/coins/images/27194/thumb/0_Lzf-8HxwOnPjYWi-.jpeg?1696526243"
+  },
+  {
+    "chainId": 1,
     "name": "Poope",
     "address": "0x2dd7144b701bd66bc12ec17f1afaad409f0e32cf",
     "decimals": 18,
@@ -19217,6 +19225,14 @@
     "decimals": 18,
     "symbol": "EMAID",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/22862.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x329cae8c175ac6773d5e79bd30624b953c68a308",
+    "name": "Misty Meets Pepe",
+    "symbol": "MISTY",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/37647/thumb/logo_200px.png?1715145235"
   },
   {
     "chainId": 1,
@@ -24955,11 +24971,11 @@
   },
   {
     "chainId": 1,
+    "name": "Dotmoovs",
     "address": "0x4116f14b6d462b32a1c10f98049e4b1765e34fa9",
-    "name": "dotmoovs",
-    "symbol": "MOOV",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/15817/thumb/token.png?1714928800"
+    "symbol": "MOOV",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/10046.png"
   },
   {
     "chainId": 1,
@@ -35625,6 +35641,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x5d6f4e7b3f57b238eea545f16f9d6d17b77ec2fb",
+    "name": "Basix",
+    "symbol": "BSX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/37666/thumb/basix-usdx-logo-200x200.png?1715176576"
+  },
+  {
+    "chainId": 1,
     "address": "0x5d74468b69073f809d4fae90afec439e69bf6263",
     "name": "ClayStack Staked ETH",
     "symbol": "CSETH",
@@ -37566,6 +37590,14 @@
     "decimals": 18,
     "symbol": "AIOZ",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/9104.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Tomwifhat",
+    "address": "0x62760e76dce6b500349ec5f6119228d047913350",
+    "decimals": 9,
+    "symbol": "TWIF",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/31141.png"
   },
   {
     "chainId": 1,
@@ -40105,6 +40137,14 @@
   },
   {
     "chainId": 1,
+    "name": "Cryptopia",
+    "address": "0x68ccaca9adf1552b3316d6067690ec27397c8ea8",
+    "decimals": 18,
+    "symbol": "TOS",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/21066.png"
+  },
+  {
+    "chainId": 1,
     "name": "Credmark",
     "address": "0x68cfb82eacb9f198d508b514d898a403c449533e",
     "decimals": 18,
@@ -41681,14 +41721,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x6cb7d80bdefef3f820a3a77ee56f06afcb20ea7e",
-    "name": "HUNDRED  ETH ",
-    "symbol": "HUNDRED",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/31992/thumb/mQM7_dCk_400x400.jpg?1696530793"
-  },
-  {
-    "chainId": 1,
     "name": "DeepCloud AI",
     "address": "0x6cbedec4f1ac9d874987d2769596544e0d9161ab",
     "decimals": 18,
@@ -42283,7 +42315,7 @@
     "chainId": 1,
     "name": "Hoppy",
     "address": "0x6e79b51959cf968d87826592f46f819f92466615",
-    "decimals": 9,
+    "decimals": 18,
     "symbol": "HOPPY",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/30859.png"
   },
@@ -60077,14 +60109,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x9e976f211daea0d652912ab99b0dc21a7fd728e4",
-    "name": "MAP Protocol",
-    "symbol": "MAPO",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/10085/thumb/logos_%283%29.png?1714041325"
-  },
-  {
-    "chainId": 1,
     "name": "Pandora",
     "address": "0x9e9fbde7c7a83c43913bddc8779158f1368f0413",
     "decimals": 18,
@@ -60743,7 +60767,7 @@
     "chainId": 1,
     "name": "Three Protocol Token",
     "address": "0xa059b81568fee88791de88232e838465826cf419",
-    "decimals": 9,
+    "decimals": 18,
     "symbol": "THREE",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/31008.png"
   },
@@ -64572,11 +64596,11 @@
   },
   {
     "chainId": 1,
-    "address": "0xaa95f26e30001251fb905d264aa7b00ee9df6c18",
     "name": "Kendu Inu",
-    "symbol": "KENDU",
+    "address": "0xaa95f26e30001251fb905d264aa7b00ee9df6c18",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/35722/thumb/photo_2024-03-05_01-23-59_%281%29.jpg?1709632285"
+    "symbol": "KENDU",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/31152.png"
   },
   {
     "chainId": 1,
@@ -68699,7 +68723,7 @@
   },
   {
     "chainId": 1,
-    "name": "Sabai Ecoverse",
+    "name": "Sabai Protocol",
     "address": "0xb5d730d442e1d5b119fb4e5c843c48a64202ef92",
     "decimals": 18,
     "symbol": "SABAI",
@@ -70699,7 +70723,7 @@
   },
   {
     "chainId": 1,
-    "name": "Ethernity",
+    "name": "Ethernity Chain",
     "address": "0xbbc2ae13b23d715c30720f079fcd9b4a74093505",
     "decimals": 18,
     "symbol": "ERN",
@@ -75604,6 +75628,14 @@
     "decimals": 18,
     "symbol": "LVN",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/5853.png"
+  },
+  {
+    "chainId": 1,
+    "name": "CrossFi",
+    "address": "0xc8ceed65e236f7d6fb378b8715f9e6912e486a54",
+    "decimals": 18,
+    "symbol": "XFI",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/26202.png"
   },
   {
     "chainId": 1,
