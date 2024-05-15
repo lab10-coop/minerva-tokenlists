@@ -565,6 +565,19 @@
   },
   {
     "chainId": 1,
+    "address": "0x23894dc9da6c94ecb439911caf7d337746575a72",
+    "name": "Geojam",
+    "symbol": "JAM",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/JAM/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "opListId": "extended",
+      "opTokenId": "JAM"
+    }
+  },
+  {
+    "chainId": 1,
     "address": "0x24fcfc492c1393274b6bcd568ac9e225bec93584",
     "name": "Heroes of Mavia",
     "symbol": "MAVIA",
@@ -1317,6 +1330,20 @@
   },
   {
     "chainId": 1,
+    "address": "0x6b5204b0be36771253cc38e88012e02b752f0f36",
+    "name": "Zunami Governance Token",
+    "symbol": "ZUN",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/ZUN/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1",
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "opListId": "extended",
+      "opTokenId": "ZUN"
+    }
+  },
+  {
+    "chainId": 1,
     "address": "0x6b66ccd1340c479b07b390d326eadcbb84e726ba",
     "name": "Seamless",
     "symbol": "SEAM",
@@ -1497,6 +1524,19 @@
       "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
       "opListId": "extended",
       "opTokenId": "GENOME"
+    }
+  },
+  {
+    "chainId": 1,
+    "address": "0x7c8e7a5ca7c6edcec00b6bf12da207aee4af5513",
+    "name": "Wrapped HOGE",
+    "symbol": "wHOGE",
+    "decimals": 9,
+    "logoURI": "https://ethereum-optimism.github.io/data/wHOGE/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "opListId": "extended",
+      "opTokenId": "wHOGE"
     }
   },
   {
@@ -3534,6 +3574,19 @@
     "extensions": {
       "opListId": "extended",
       "opTokenId": "sfrxETH"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0x4a36562d5d7074f8ee664922b320e066e67c2a24",
+    "name": "Zunami Governance Token",
+    "symbol": "ZUN",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/ZUN/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "ZUN"
     }
   },
   {
@@ -6569,6 +6622,19 @@
   },
   {
     "chainId": 8453,
+    "address": "0xb5617ac8918cdc0e877c9fb7e75b9df62dbd539b",
+    "name": "Zunami Governance Token",
+    "symbol": "ZUN",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/ZUN/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "ZUN"
+    }
+  },
+  {
+    "chainId": 8453,
     "address": "0xb6fe221fe9eef5aba221c348ba20a1bf5e73624c",
     "name": "Rocket Pool ETH",
     "symbol": "rETH",
@@ -6839,6 +6905,19 @@
   },
   {
     "chainId": 8453,
+    "address": "0xdf690c65d067035364a58369c26820d3696d7799",
+    "name": "Wrapped HOGE",
+    "symbol": "wHOGE",
+    "decimals": 9,
+    "logoURI": "https://ethereum-optimism.github.io/data/wHOGE/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "wHOGE"
+    }
+  },
+  {
+    "chainId": 8453,
     "address": "0xe0231bb166d09a3f0739f7afad68438c0fa142a5",
     "name": "Ponder",
     "symbol": "PNDR",
@@ -6989,6 +7068,19 @@
       "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "extended",
       "opTokenId": "TSC"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0xff9957816c813c5ad0b9881a8990df1e3aa2a057",
+    "name": "Geojam",
+    "symbol": "JAM",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/JAM/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "JAM"
     }
   },
   {
