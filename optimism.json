@@ -506,6 +506,7 @@
     "extensions": {
       "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1",
       "modeBridgeAddress": "0x735aDBbE72226BD52e818E7181953f42E3b0FF21",
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
       "opListId": "default",
       "opTokenId": "UNI"
     }
@@ -6695,6 +6696,19 @@
     "extensions": {
       "opListId": "extended",
       "opTokenId": "NFTE"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0xc3de830ea07524a0761646a6a4e4be0e114a3c83",
+    "name": "Uniswap",
+    "symbol": "UNI",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/UNI/logo.png",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "default",
+      "opTokenId": "UNI"
     }
   },
   {
