@@ -13724,6 +13724,14 @@
   },
   {
     "chainId": 1,
+    "name": "Brett",
+    "address": "0x240d6faf8c3b1a7394e371792a3bf9d28dd65515",
+    "decimals": 9,
+    "symbol": "BRETT",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/31343.png"
+  },
+  {
+    "chainId": 1,
     "address": "0x2411802d8bea09be0af8fd8d08314a63e706b29c",
     "name": "Fluid Wrapped Staked ETH",
     "symbol": "FWSTETH",
@@ -18129,6 +18137,14 @@
     "decimals": 9,
     "symbol": "TABI",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/19824.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x2fbf61e5236126871018bfbf368ba4cfce0d4512",
+    "name": "Bitclouds",
+    "symbol": "BCS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/38054/thumb/logo.png?1716406702"
   },
   {
     "chainId": 1,
@@ -26575,6 +26591,14 @@
     "decimals": 18,
     "symbol": "BASEDAI",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/30584.png"
+  },
+  {
+    "chainId": 1,
+    "name": "MEGA",
+    "address": "0x449a917fb4910cb2f57335d619e71674ffb8bc44",
+    "decimals": 9,
+    "symbol": "MEGA",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/31363.png"
   },
   {
     "chainId": 1,
@@ -39145,11 +39169,11 @@
   },
   {
     "chainId": 1,
+    "name": "IVEX Financial",
     "address": "0x663962c0d2b624776d6fd1bf6ba41236761e76a9",
-    "name": "IVEX",
+    "decimals": 8,
     "symbol": "IVEX",
-    "decimals": 21,
-    "logoURI": "https://assets.coingecko.com/coins/images/38018/thumb/IVEX.jpg?1716277730"
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/31347.png"
   },
   {
     "chainId": 1,
@@ -44969,11 +44993,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x74d2d73b455540b037298c0e0925bc702aedbe4a",
     "name": "Schrodinger",
-    "symbol": "MEOW",
+    "address": "0x74d2d73b455540b037298c0e0925bc702aedbe4a",
     "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/19649/thumb/kitty_dinger.png?1696519077"
+    "symbol": "MEOW",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/31346.png"
   },
   {
     "chainId": 1,
@@ -47651,6 +47675,14 @@
     "decimals": 18,
     "symbol": "SHPING",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3422.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Rescue",
+    "address": "0x7c851d60b26a4f2a6f2c628ef3b65ed282c54e52",
+    "decimals": 18,
+    "symbol": "RESCUE",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/31348.png"
   },
   {
     "chainId": 1,
@@ -56006,6 +56038,14 @@
   },
   {
     "chainId": 1,
+    "name": "BARRON",
+    "address": "0x9361adf2b72f413d96f81ff40d794b47ce13b331",
+    "decimals": 9,
+    "symbol": "BARRON",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/31345.png"
+  },
+  {
+    "chainId": 1,
     "name": "Vestoria",
     "address": "0x9363e6eadf5e307b96f26dfd94f355b95a0e2498",
     "decimals": 8,
@@ -62565,6 +62605,14 @@
   },
   {
     "chainId": 1,
+    "address": "0xa469b7ee9ee773642b3e93e842e5d9b5baa10067",
+    "name": "Anzen USDz",
+    "symbol": "USDZ",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/38039/thumb/usdz-image-200x200.png?1716334412"
+  },
+  {
+    "chainId": 1,
     "name": "Bitcoin SB",
     "address": "0xa478a13242b64629bff309125770b69f75bd77cb",
     "decimals": 18,
@@ -64724,6 +64772,14 @@
   },
   {
     "chainId": 1,
+    "address": "0xaa2ba423875baa1c74abe77df0b6ac655ce151e6",
+    "name": "Crow",
+    "symbol": "CROW",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/38055/thumb/Crow.png?1716407151"
+  },
+  {
+    "chainId": 1,
     "name": "suterusu",
     "address": "0xaa2ce7ae64066175e0b90497ce7d9c190c315db4",
     "decimals": 18,
@@ -65644,14 +65700,6 @@
   },
   {
     "chainId": 1,
-    "address": "0xacdbfcbd4d6d4e9fe72c3ba4280d728ab2ace30f",
-    "name": "TargetWatch Bot",
-    "symbol": "TWB",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/33086/thumb/TARGET_%283%29.png?1700602262"
-  },
-  {
-    "chainId": 1,
     "address": "0xacdf0dba4b9839b96221a8487e9ca660a48212be",
     "name": "High Yield USD",
     "symbol": "HYUSD",
@@ -66193,6 +66241,14 @@
     "decimals": 18,
     "symbol": "BB-A-DAI",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/20597.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xae3e12b3a07393a5be2f5e980c585f95d5334a08",
+    "name": "LuminAi",
+    "symbol": "LUMAI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/38053/thumb/Emblem-Color.png?1716406523"
   },
   {
     "chainId": 1,
@@ -67776,7 +67832,7 @@
     "name": "Gaga  Pepe ",
     "symbol": "GAGA",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/36546/thumb/gaga200x200.png?1711734371"
+    "logoURI": "https://assets.coingecko.com/coins/images/36546/thumb/200x200.png?1716353750"
   },
   {
     "chainId": 1,
@@ -78126,6 +78182,14 @@
   },
   {
     "chainId": 1,
+    "address": "0xcf078da6e85389de507ceede0e3d217e457b9d49",
+    "name": "SKAI",
+    "symbol": "SKAI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/38056/thumb/Vector.png?1716407390"
+  },
+  {
+    "chainId": 1,
     "name": "FLOKI",
     "address": "0xcf0c122c6b73ff809c693db761e7baebe62b6a2e",
     "decimals": 18,
@@ -83149,6 +83213,14 @@
   },
   {
     "chainId": 1,
+    "name": "Monkas",
+    "address": "0xdc7ac5d5d4a9c3b5d8f3183058a92776dc12f4f3",
+    "decimals": 9,
+    "symbol": "MONKAS",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/31368.png"
+  },
+  {
+    "chainId": 1,
     "address": "0xdc7d16b1e7c54f35a67af95d5a6eecaec27b2a62",
     "name": "Pulse AI",
     "symbol": "PULSE",
@@ -83330,6 +83402,14 @@
     "symbol": "PRIMAL",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/28435/thumb/PRIMAL_ICON_200px.jpg?1696527432"
+  },
+  {
+    "chainId": 1,
+    "name": "GameStop",
+    "address": "0xdd157bd06c1840fa886da18a138c983a7d74c1d7",
+    "decimals": 18,
+    "symbol": "GSTOP",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/31364.png"
   },
   {
     "chainId": 1,
@@ -94848,6 +94928,14 @@
     "decimals": 18,
     "symbol": "CYSHI",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/17853.png"
+  },
+  {
+    "chainId": 1,
+    "name": "TUBES",
+    "address": "0xfcc24ec0cce31306a9541bfbfe45ff8a0f34f36e",
+    "decimals": 18,
+    "symbol": "TUBES",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/31353.png"
   },
   {
     "chainId": 1,
