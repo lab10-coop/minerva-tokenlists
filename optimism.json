@@ -2623,6 +2623,19 @@
   },
   {
     "chainId": 1,
+    "address": "0xcb56b52316041a62b6b5d0583dce4a8ae7a3c629",
+    "name": "Cigarette Token",
+    "symbol": "CIG",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/CIG/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "opListId": "extended",
+      "opTokenId": "CIG"
+    }
+  },
+  {
+    "chainId": 1,
     "address": "0xcb9f85730f57732fc899fb158164b9ed60c77d49",
     "name": "Staked Lyra",
     "symbol": "stkLYRA",
@@ -7137,6 +7150,19 @@
   },
   {
     "chainId": 8453,
+    "address": "0xf88cf71b891a89a1cb02ec17ce3ad80e5ae31e1b",
+    "name": "Cigarette Token",
+    "symbol": "CIG",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/CIG/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "CIG"
+    }
+  },
+  {
+    "chainId": 8453,
     "address": "0xfa980ced6895ac314e7de34ef1bfae90a5add21b",
     "name": "Prime",
     "symbol": "PRIME",
@@ -7145,6 +7171,18 @@
     "extensions": {
       "opListId": "extended",
       "opTokenId": "PRIME"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0xfb18511f1590a494360069f3640c27d55c2b5290",
+    "name": "Wild Goat Coin",
+    "symbol": "WGC",
+    "decimals": 6,
+    "logoURI": "https://ethereum-optimism.github.io/data/WGC/logo.svg",
+    "extensions": {
+      "opListId": "extended",
+      "opTokenId": "WGC"
     }
   },
   {
