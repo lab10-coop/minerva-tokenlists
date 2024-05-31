@@ -939,6 +939,14 @@
     "logoURI": "https://d19z9f49qtk8r2.cloudfront.net/assets/derc-logo-white-200x200.png"
   },
   {
+    "name": "RoboHero",
+    "address": "0xb3886b3aaa6087b3d185daeb89ac113d195b5eb9",
+    "symbol": "ROBO",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://i.ibb.co/jZT78qh/a-1.png"
+  },
+  {
     "name": "QuickSwap(NEW)",
     "address": "0xb5c064f955d8e7f38fe0460c556a72987494ee17",
     "symbol": "QUICK(NEW)",
@@ -1221,6 +1229,14 @@
     "logoURI": "https://assets.coingecko.com/coins/images/20927/small/IXT_SYMBOL_SVG_RGB_BLACK.png?1637934555"
   },
   {
+    "name": "zkRace",
+    "address": "0xe1b3eb06806601828976e491914e3de18b5d6b28",
+    "symbol": "ZERC",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://d19z9f49qtk8r2.cloudfront.net/assets/images/logos/zk-Race-logomark-bordered-256x256.png"
+  },
+  {
     "name": "WiFi Map",
     "address": "0xe238ecb42c424e877652ad82d8a939183a04c35f",
     "symbol": "WIFI",
@@ -1397,6 +1413,14 @@
     "logoURI": "https://i.imgur.com/uIExoAr.png"
   },
   {
+    "name": "mBTC",
+    "address": "0x1468177dbcb2a772f3d182d2f1358d442b553089",
+    "symbol": "mBTC",
+    "decimals": 18,
+    "chainId": 169,
+    "logoURI": "https://raw.githubusercontent.com/Manta-Network/manta-pacific-token-list/main/logos/token_m_btc.png"
+  },
+  {
     "name": "Dai Stablecoin",
     "address": "0x1c466b9371f8aba0d7c458be10a62192fcb8aa71",
     "symbol": "DAI",
@@ -1429,12 +1453,28 @@
     "logoURI": "https://raw.githubusercontent.com/Goku-Money/Media-kit/main/token_GOK.png"
   },
   {
+    "name": "mUSD",
+    "address": "0x649d4524897ce85a864dc2a2d5a11adb3044f44a",
+    "symbol": "mUSD",
+    "decimals": 18,
+    "chainId": 169,
+    "logoURI": "https://raw.githubusercontent.com/Manta-Network/manta-pacific-token-list/main/logos/token_m_usd.png"
+  },
+  {
     "name": "Manta",
     "address": "0x95cef13441be50d20ca4558cc0a27b601ac544e5",
     "symbol": "MANTA",
     "decimals": 18,
     "chainId": 169,
     "logoURI": "https://i.imgur.com/QMlGUKa.png"
+  },
+  {
+    "name": "mETH",
+    "address": "0xaccbc418a994a27a75644d8d591afc22faba594e",
+    "symbol": "mETH",
+    "decimals": 18,
+    "chainId": 169,
+    "logoURI": "https://raw.githubusercontent.com/Manta-Network/manta-pacific-token-list/main/logos/token_m_eth.png"
   },
   {
     "name": "USD Coin",

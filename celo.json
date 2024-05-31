@@ -212,6 +212,14 @@
     "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_SBR.png"
   },
   {
+    "address": "0x48065fbbe25f71c9282ddf5e1cd6d6a887483d5e",
+    "name": "Tether USD",
+    "symbol": "USDT",
+    "decimals": 6,
+    "chainId": 42220,
+    "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_USDT.png"
+  },
+  {
     "chainId": 42220,
     "name": "Glo Dollar",
     "address": "0x4f604735c1cf31399c6e711d5962b2b3e0225ad3",
@@ -286,6 +294,14 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/mcelo.jpg",
     "name": "Moola CELO",
     "symbol": "mCELO"
+  },
+  {
+    "address": "0x71e26d0e519d14591b9de9a0fe9513a398101490",
+    "name": "Ubeswap",
+    "symbol": "UBE",
+    "chainId": 42220,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_UBE.png"
   },
   {
     "address": "0x73a210637f6f6b7005512677ba6b3c96bb4aa44b",
