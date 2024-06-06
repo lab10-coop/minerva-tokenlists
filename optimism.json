@@ -696,6 +696,19 @@
   },
   {
     "chainId": 1,
+    "address": "0x321c2fe4446c7c963dc41dd58879af648838f98d",
+    "name": "Cryptex",
+    "symbol": "CTX",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/CTX/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "opListId": "extended",
+      "opTokenId": "CTX"
+    }
+  },
+  {
+    "chainId": 1,
     "address": "0x3432b6a60d23ca0dfca7761b7ab56459d9c964d0",
     "name": "FXS",
     "symbol": "FXS",
@@ -756,6 +769,19 @@
       "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
       "opListId": "extended",
       "opTokenId": "FXN"
+    }
+  },
+  {
+    "chainId": 1,
+    "address": "0x38547d918b9645f2d94336b6b61aeb08053e142c",
+    "name": "USC",
+    "symbol": "USC",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/USC/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "opListId": "extended",
+      "opTokenId": "USC"
     }
   },
   {
@@ -1102,6 +1128,19 @@
       "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1",
       "opListId": "default",
       "opTokenId": "LDO"
+    }
+  },
+  {
+    "chainId": 1,
+    "address": "0x5c1760c98be951a4067df234695c8014d8e7619c",
+    "name": "Nouns",
+    "symbol": "NOUNS",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/NOUNS/logo.png",
+    "extensions": {
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "opListId": "extended",
+      "opTokenId": "NOUNS"
     }
   },
   {
@@ -1921,6 +1960,19 @@
       "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1",
       "opListId": "extended",
       "opTokenId": "rETH_StaFi"
+    }
+  },
+  {
+    "chainId": 1,
+    "address": "0x966f17cd63c93c39f38897e5c633e59cef0591f1",
+    "name": "BOOK OF MEME",
+    "symbol": "BOME",
+    "decimals": 6,
+    "logoURI": "https://ethereum-optimism.github.io/data/BOME/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "opListId": "extended",
+      "opTokenId": "BOME"
     }
   },
   {
@@ -3159,6 +3211,19 @@
       "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
       "opListId": "extended",
       "opTokenId": "PSTAKE"
+    }
+  },
+  {
+    "chainId": 1,
+    "address": "0xfc169284da39e8d337d01ab011c3e5d92f7ddba6",
+    "name": "GenRize",
+    "symbol": "RIZE",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/RIZE/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "opListId": "extended",
+      "opTokenId": "RIZE"
     }
   },
   {
@@ -5232,6 +5297,45 @@
   },
   {
     "chainId": 8453,
+    "address": "0x0956cb4a1d8924680feb671d2e4a122e2114313e",
+    "name": "BOOK OF MEME",
+    "symbol": "BOME",
+    "decimals": 6,
+    "logoURI": "https://ethereum-optimism.github.io/data/BOME/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "BOME"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0x0a4c8ee5a092ba333b54c142634c871768891558",
+    "name": "GenRize",
+    "symbol": "RIZE",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/RIZE/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "RIZE"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0x0a93a7be7e7e426fc046e204c44d6b03a302b631",
+    "name": "Nouns",
+    "symbol": "NOUNS",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/NOUNS/logo.png",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "NOUNS"
+    }
+  },
+  {
+    "chainId": 8453,
     "address": "0x0bbbead62f7647ae8323d2cb243a0db74b7c2b80",
     "name": "Ambire Wallet",
     "symbol": "WALLET",
@@ -5756,6 +5860,19 @@
       "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "extended",
       "opTokenId": "PRE"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0x38547d918b9645f2d94336b6b61aeb08053e142c",
+    "name": "USC",
+    "symbol": "USC",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/USC/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "USC"
     }
   },
   {
@@ -6747,6 +6864,19 @@
       "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "extended",
       "opTokenId": "MTA"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0xbb22ff867f8ca3d5f2251b4084f6ec86d4666e14",
+    "name": "Cryptex",
+    "symbol": "CTX",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/CTX/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "CTX"
     }
   },
   {
