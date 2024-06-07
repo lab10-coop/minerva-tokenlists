@@ -1557,6 +1557,14 @@
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
   },
   {
+    "name": "rsETHWrapper",
+    "address": "0x5a71f5888ee05b36ded9149e6d32ee93812ee5e9",
+    "symbol": "wrsETH",
+    "decimals": 18,
+    "chainId": 196,
+    "logoURI": "https://i.imgur.com/w4wBKxr.png"
+  },
+  {
     "name": "Wrapped Ether",
     "address": "0x5a77f1443d16ee5761d310e38b62f77f726bc71c",
     "symbol": "WETH",
