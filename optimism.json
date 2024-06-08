@@ -3762,17 +3762,12 @@
     "logoURI": "https://ethereum-optimism.github.io/data/LYRA/logo.png"
   },
   {
-    "chainId": 10,
     "address": "0x528cdc92eab044e1e39fe43b9514bfdab4412b98",
-    "name": "Giveth Token",
-    "symbol": "GIV",
+    "chainId": 10,
     "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/data/GIV/logo.svg",
-    "extensions": {
-      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
-      "opListId": "extended",
-      "opTokenId": "GIV"
-    }
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/optimism/0x528CDc92eAB044E1E39FE43B9514bfdAB4412B98.jpg",
+    "name": "Giveth Token",
+    "symbol": "GIV"
   },
   {
     "chainId": 10,
