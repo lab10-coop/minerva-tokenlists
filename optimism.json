@@ -2105,7 +2105,6 @@
     "logoURI": "https://ethereum-optimism.github.io/data/MKR/logo.png",
     "extensions": {
       "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1",
-      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
       "opListId": "extended",
       "opTokenId": "MKR"
     }
@@ -2489,6 +2488,9 @@
     "decimals": 18,
     "logoURI": "https://ethereum-optimism.github.io/data/SNX/logo.svg",
     "extensions": {
+      "optimismBridgeAddress": "0x39Ea01a0298C315d149a490E34B59Dbf2EC7e48F",
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "modeBridgeAddress": "0x735aDBbE72226BD52e818E7181953f42E3b0FF21",
       "opListId": "default",
       "opTokenId": "SNX"
     }
@@ -5650,6 +5652,7 @@
     "decimals": 18,
     "logoURI": "https://ethereum-optimism.github.io/data/SNX/logo.svg",
     "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "default",
       "opTokenId": "SNX"
     }
@@ -6788,19 +6791,6 @@
   },
   {
     "chainId": 8453,
-    "address": "0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2",
-    "name": "Maker",
-    "symbol": "MKR",
-    "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/data/MKR/logo.png",
-    "extensions": {
-      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
-      "opListId": "extended",
-      "opTokenId": "MKR"
-    }
-  },
-  {
-    "chainId": 8453,
     "address": "0xa7d68d155d17cb30e311367c2ef1e82ab6022b67",
     "name": "BTRST",
     "symbol": "BTRST",
@@ -7527,6 +7517,7 @@
     "decimals": 18,
     "logoURI": "https://ethereum-optimism.github.io/data/SNX/logo.svg",
     "extensions": {
+      "modeBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "default",
       "opTokenId": "SNX"
     }
@@ -7683,6 +7674,19 @@
       "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "extended",
       "opTokenId": "SQT"
+    }
+  },
+  {
+    "chainId": 84532,
+    "address": "0x5a2318a2a3d403e2f428e107a8b808f7f57aade9",
+    "name": "TYBENG",
+    "symbol": "TYBENG",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/TYBENG/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "TYBENG"
     }
   },
   {
@@ -7929,6 +7933,19 @@
       "baseBridgeAddress": "0xfd0Bf71F60660E2f608ed56e1659C450eB113120",
       "opListId": "extended",
       "opTokenId": "DF"
+    }
+  },
+  {
+    "chainId": 11155111,
+    "address": "0x70069dbdcde634fafc827661e579e34194b39d51",
+    "name": "TYBENG",
+    "symbol": "TYBENG",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/TYBENG/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0xfd0Bf71F60660E2f608ed56e1659C450eB113120",
+      "opListId": "extended",
+      "opTokenId": "TYBENG"
     }
   },
   {
