@@ -851,6 +851,19 @@
   },
   {
     "chainId": 1,
+    "address": "0x4116f14b6d462b32a1c10f98049e4b1765e34fa9",
+    "name": "dotmoovs",
+    "symbol": "MOOV",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/MOOV/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "opListId": "extended",
+      "opTokenId": "MOOV"
+    }
+  },
+  {
+    "chainId": 1,
     "address": "0x42bbfa2e77757c645eeaad1655e0911a7553efbc",
     "name": "Boba Token",
     "symbol": "BOBA",
@@ -1232,6 +1245,19 @@
       "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
       "opListId": "extended",
       "opTokenId": "DIMO"
+    }
+  },
+  {
+    "chainId": 1,
+    "address": "0x60eb57d085c59932d5faa6c6026268a4386927d0",
+    "name": "LOCGame",
+    "symbol": "LOCG",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/LOCG/logo.png",
+    "extensions": {
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "opListId": "extended",
+      "opTokenId": "LOCG"
     }
   },
   {
@@ -1711,6 +1737,19 @@
       "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
       "opListId": "extended",
       "opTokenId": "VITA"
+    }
+  },
+  {
+    "chainId": 1,
+    "address": "0x8207c1ffc5b6804f6024322ccf34f29c3541ae26",
+    "name": "OriginToken",
+    "symbol": "OGN",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/OGN/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "opListId": "extended",
+      "opTokenId": "OGN"
     }
   },
   {
@@ -2989,6 +3028,19 @@
       "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1",
       "opListId": "extended",
       "opTokenId": "UBI"
+    }
+  },
+  {
+    "chainId": 1,
+    "address": "0xdd66781d0e9a08d4fbb5ec7bac80b691be27f21d",
+    "name": "AxonDAO Governance Token",
+    "symbol": "AXGT",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/AXGT/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "opListId": "extended",
+      "opTokenId": "AXGT"
     }
   },
   {
@@ -6403,6 +6455,19 @@
   },
   {
     "chainId": 8453,
+    "address": "0x6b20e045cd881eef5853eb6c148e1c88a20ab395",
+    "name": "dotmoovs",
+    "symbol": "MOOV",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/MOOV/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "MOOV"
+    }
+  },
+  {
+    "chainId": 8453,
     "address": "0x6ef3864876424ade834a7c1be8c0cf3d71208b84",
     "name": "Zunami USD",
     "symbol": "zunUSD",
@@ -6412,6 +6477,19 @@
       "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "extended",
       "opTokenId": "zunUSD"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0x7002458b1df59eccb57387bc79ffc7c29e22e6f7",
+    "name": "OriginToken",
+    "symbol": "OGN",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/OGN/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "OGN"
     }
   },
   {
@@ -6700,6 +6778,19 @@
   },
   {
     "chainId": 8453,
+    "address": "0x977ad78482888ce57846b0a19b07cf8d1aac6038",
+    "name": "LOCGame",
+    "symbol": "LOCG",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/LOCG/logo.png",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "LOCG"
+    }
+  },
+  {
+    "chainId": 8453,
     "address": "0x97c806e7665d3afd84a8fe1837921403d59f3dcc",
     "name": "Artificial Liquid Intelligence Token",
     "symbol": "ALI",
@@ -6748,6 +6839,19 @@
       "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "extended",
       "opTokenId": "OPN"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0x9b700b043e9587dde9a0c29a9483e2f8fa450d54",
+    "name": "AxonDAO Governance Token",
+    "symbol": "AXGT",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/AXGT/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "AXGT"
     }
   },
   {
@@ -7652,6 +7756,19 @@
   },
   {
     "chainId": 84532,
+    "address": "0x27229e11d98e5a431cb71f7a0a874480299c9c57",
+    "name": "LOCGame",
+    "symbol": "LOCG",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/LOCG/logo.png",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "LOCG"
+    }
+  },
+  {
+    "chainId": 84532,
     "address": "0x3011f9ef02c27a6a678e0099584c1c5be64134a1",
     "name": "MANTRA DAO",
     "symbol": "OM",
@@ -7817,6 +7934,19 @@
       "baseBridgeAddress": "0xfd0Bf71F60660E2f608ed56e1659C450eB113120",
       "opListId": "extended",
       "opTokenId": "PRE"
+    }
+  },
+  {
+    "chainId": 11155111,
+    "address": "0x10d8432b6afe1096ee0b74f21f827f8f1ae09e96",
+    "name": "LOCGame",
+    "symbol": "LOCG",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/LOCG/logo.png",
+    "extensions": {
+      "baseBridgeAddress": "0xfd0Bf71F60660E2f608ed56e1659C450eB113120",
+      "opListId": "extended",
+      "opTokenId": "LOCG"
     }
   },
   {
