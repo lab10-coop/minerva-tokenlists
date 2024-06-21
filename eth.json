@@ -3193,6 +3193,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x07d1718ff05a8c53c8f05adaed57c0d672945f9a",
+    "name": "Aladdin rUSD",
+    "symbol": "ARUSD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/38795/thumb/Screenshot_2024-06-20_at_2.41.40%E2%80%AFPM.png?1718880106"
+  },
+  {
+    "chainId": 1,
     "name": "Dalecoin",
     "address": "0x07d9e49ea402194bf48a8276dafb16e4ed633317",
     "decimals": 8,
@@ -9585,11 +9593,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x193f4a4a6ea24102f49b931deeeb931f6e32405d",
     "name": "Telos",
-    "symbol": "TLOS",
+    "address": "0x193f4a4a6ea24102f49b931deeeb931f6e32405d",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/7588/thumb/TLOS.png?1704499537"
+    "symbol": "TLOS",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/4660.png"
   },
   {
     "chainId": 1,
@@ -31266,7 +31274,7 @@
   },
   {
     "chainId": 1,
-    "name": "XGPT",
+    "name": "XGPT AI",
     "address": "0x51fe05eac152494908ff1ebbd50e116e960baf64",
     "decimals": 18,
     "symbol": "XGPT",
@@ -33663,6 +33671,14 @@
     "decimals": 18,
     "symbol": "POLAR",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/11540.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Flappy",
+    "address": "0x590246bfbf89b113d8ac36faeea12b7589f7fe5b",
+    "decimals": 9,
+    "symbol": "FLAPPY",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/31913.png"
   },
   {
     "chainId": 1,
@@ -37090,6 +37106,14 @@
   },
   {
     "chainId": 1,
+    "name": "NeuraSimpson",
+    "address": "0x61ed954ce5b7199e8f13cde2ec9bfa7a009ffc77",
+    "decimals": 9,
+    "symbol": "NSIMPSON",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/31924.png"
+  },
+  {
+    "chainId": 1,
     "name": "Cybereits",
     "address": "0x61f33da40594cec1e3dc900faf99f861d01e2e7d",
     "decimals": 18,
@@ -40207,6 +40231,14 @@
     "decimals": 18,
     "symbol": "PEPE",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/24478.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x6985884c4392d348587b19cb9eaaf157f13271cd",
+    "name": "LayerZero",
+    "symbol": "ZRO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/28206/thumb/ftxG9_TJ_400x400.jpeg?1696527208"
   },
   {
     "chainId": 1,
@@ -45816,11 +45848,11 @@
   },
   {
     "chainId": 1,
-    "name": "Telos",
     "address": "0x7825e833d495f3d1c28872415a4aee339d26ac88",
+    "name": "Wrapped Telos",
+    "symbol": "WTLOS",
     "decimals": 18,
-    "symbol": "TLOS",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/4660.png"
+    "logoURI": "https://assets.coingecko.com/coins/images/23952/thumb/TLOS.png?1705598803"
   },
   {
     "chainId": 1,
@@ -50885,6 +50917,14 @@
     "decimals": 18,
     "symbol": "AXUS",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/14965.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x873259322be8e50d80a4b868d186cc5ab148543a",
+    "name": "PonzioTheCat",
+    "symbol": "PONZIO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/38784/thumb/ponzio_200x200.png?1718855627"
   },
   {
     "chainId": 1,
@@ -57111,6 +57151,14 @@
   },
   {
     "chainId": 1,
+    "name": "EaveAI",
+    "address": "0x974d796e0bea47038f39c3f98b1aa2c5240b5495",
+    "decimals": 18,
+    "symbol": "EAVE",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/31912.png"
+  },
+  {
+    "chainId": 1,
     "name": "Derivex",
     "address": "0x975769557510167d25beed6e32806537173e292c",
     "decimals": 18,
@@ -59783,11 +59831,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x9e6be44cc1236eef7e1f197418592d363bedcd5a",
     "name": "Azuro Protocol",
-    "symbol": "AZUR",
+    "address": "0x9e6be44cc1236eef7e1f197418592d363bedcd5a",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/38499/thumb/azuro.jpeg?1717727357"
+    "symbol": "AZUR",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/31775.png"
   },
   {
     "chainId": 1,
@@ -59967,11 +60015,11 @@
   },
   {
     "chainId": 1,
+    "name": "aUSDT",
     "address": "0x9eead9ce15383caeed975427340b3a369410cfbf",
-    "name": "Alloy Tether",
-    "symbol": "AUSDT",
     "decimals": 6,
-    "logoURI": "https://assets.coingecko.com/coins/images/38747/thumb/ausdt.png?1718681185"
+    "symbol": "aUSDT",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/31909.png"
   },
   {
     "chainId": 1,
@@ -62364,14 +62412,6 @@
     "symbol": "MAUSDC",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/29835/thumb/maUSDC.jpg?1696528762"
-  },
-  {
-    "chainId": 1,
-    "address": "0xa52b7ea0365310ca87ab73aef4f2f75c9a999af3",
-    "name": "Mass Protocol",
-    "symbol": "MASS",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/33788/thumb/Mass_200x200.jpeg?1702988300"
   },
   {
     "chainId": 1,
@@ -69453,11 +69493,11 @@
   },
   {
     "chainId": 1,
-    "address": "0xb91d822dfef943165f368d92c16bac9bd5ec6842",
     "name": "ZKX",
-    "symbol": "ZKX",
+    "address": "0xb91d822dfef943165f368d92c16bac9bd5ec6842",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/35205/thumb/ZKX_token_logo200x200.png?1717977366"
+    "symbol": "ZKX",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/31865.png"
   },
   {
     "chainId": 1,
@@ -71746,6 +71786,14 @@
     "decimals": 18,
     "symbol": "MORE",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/21339.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xbeef698bd78139829e540622d5863e723e8715f1",
+    "name": "PepeBull",
+    "symbol": "BEEF",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/38801/thumb/photo_2024-06-19_17-20-42.png?1718917274"
   },
   {
     "chainId": 1,
@@ -79352,14 +79400,6 @@
   },
   {
     "chainId": 1,
-    "address": "0xd3b9a9e5ee4aab3963c95dd715882def4f22b449",
-    "name": "Revhub",
-    "symbol": "REVHUB",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/31841/thumb/Revhub.jpg?1696530655"
-  },
-  {
-    "chainId": 1,
     "name": "Wild Crypto",
     "address": "0xd3c00772b24d997a812249ca637a921e81357701",
     "decimals": 18,
@@ -85503,6 +85543,14 @@
   },
   {
     "chainId": 1,
+    "name": "BitcoinBR",
+    "address": "0xe57425f1598f9b0d6219706b77f4b3da573a3695",
+    "decimals": 18,
+    "symbol": "BTCBR",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/16251.png"
+  },
+  {
+    "chainId": 1,
     "name": "SafeMoon V2",
     "address": "0xe574c0c33a7a67d9b09f9f0addbb3dca71a8f3e0",
     "decimals": 18,
@@ -90744,7 +90792,7 @@
     "chainId": 1,
     "name": "King Of Meme",
     "address": "0xf3c3745894d979f8f85761bd060520bddbc464e9",
-    "decimals": 9,
+    "decimals": 18,
     "symbol": "LION",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/31772.png"
   },
