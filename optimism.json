@@ -1964,6 +1964,19 @@
   },
   {
     "chainId": 1,
+    "address": "0x8dce83eca4af45dbe618da1779f9aaca43201084",
+    "name": "AlphaKEK.AI",
+    "symbol": "AIKEK",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/AIKEK/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "opListId": "extended",
+      "opTokenId": "AIKEK"
+    }
+  },
+  {
+    "chainId": 1,
     "address": "0x900db999074d9277c5da2a43f252d74366230da0",
     "name": "Giveth",
     "symbol": "GIV",
@@ -3292,6 +3305,19 @@
       "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
       "opListId": "extended",
       "opTokenId": "crvUSD"
+    }
+  },
+  {
+    "chainId": 1,
+    "address": "0xfa99a87b14b02e2240c79240c5a20f945ca5ef76",
+    "name": "GGToken",
+    "symbol": "GGTK",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/GGTK/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "opListId": "extended",
+      "opTokenId": "GGTK"
     }
   },
   {
@@ -6424,6 +6450,19 @@
   },
   {
     "chainId": 8453,
+    "address": "0x681a09a902d9c7445b3b1ab282c38d60c72f1f09",
+    "name": "AlphaKEK.AI",
+    "symbol": "AIKEK",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/AIKEK/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "AIKEK"
+    }
+  },
+  {
+    "chainId": 8453,
     "address": "0x6a38905c6eb562bae76f1af0d0f98f2801fb2490",
     "name": "Current Thing",
     "symbol": "THING",
@@ -7439,6 +7478,19 @@
       "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "extended",
       "opTokenId": "USD3"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0xf0345ba710f1354e41b808737a35a517de5397db",
+    "name": "GG Token",
+    "symbol": "GGTK",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/GGTK/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "GGTK"
     }
   },
   {
