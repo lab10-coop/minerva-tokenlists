@@ -2190,6 +2190,19 @@
   },
   {
     "chainId": 1,
+    "address": "0xa2fe5e51729be71261bcf42854012827bc44c044",
+    "name": "Burn",
+    "symbol": "BURN",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/BURN/logo.png",
+    "extensions": {
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "opListId": "extended",
+      "opTokenId": "BURN"
+    }
+  },
+  {
+    "chainId": 1,
     "address": "0xa3bed4e1c75d00fa6f4e5e6922db7261b5e9acd2",
     "name": "Meta",
     "symbol": "MTA",
@@ -2822,6 +2835,19 @@
   },
   {
     "chainId": 1,
+    "address": "0xcf078da6e85389de507ceede0e3d217e457b9d49",
+    "name": "Skillful AI",
+    "symbol": "SKAI",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/SKAI/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "opListId": "extended",
+      "opTokenId": "SKAI"
+    }
+  },
+  {
+    "chainId": 1,
     "address": "0xcf3c8be2e2c42331da80ef210e9b1b307c03d36a",
     "name": "Bepro Token",
     "symbol": "BEPRO",
@@ -3264,6 +3290,19 @@
       "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1",
       "opListId": "extended",
       "opTokenId": "HAUS"
+    }
+  },
+  {
+    "chainId": 1,
+    "address": "0xf31698ddad0d11160fe85c500397a470cd3d492e",
+    "name": "WEXO",
+    "symbol": "WEXO",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/WEXO/logo.png",
+    "extensions": {
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "opListId": "extended",
+      "opTokenId": "WEXO"
     }
   },
   {
@@ -6993,6 +7032,19 @@
   },
   {
     "chainId": 8453,
+    "address": "0xac12f930318be4f9d37f602cbf89cd33e99aa9d4",
+    "name": "WEXO",
+    "symbol": "WEXO",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/WEXO/logo.png",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "WEXO"
+    }
+  },
+  {
+    "chainId": 8453,
     "address": "0xacad1d3107808577022387c07512e7828694b2a2",
     "name": "Ethix",
     "symbol": "ETHIX",
@@ -7439,6 +7491,32 @@
       "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "extended",
       "opTokenId": "COC"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0xe678215723a44647f4729e92e0032e1634105cab",
+    "name": "Burn",
+    "symbol": "BURN",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/BURN/logo.png",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "BURN"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0xe7399151b688a265f347693d358821a5a8c213ec",
+    "name": "Skillful AI",
+    "symbol": "SKAI",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/SKAI/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "SKAI"
     }
   },
   {
