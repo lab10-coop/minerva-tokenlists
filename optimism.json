@@ -3163,6 +3163,19 @@
   },
   {
     "chainId": 1,
+    "address": "0xe632ea2ef2cfd8fc4a2731c76f99078aef6a4b31",
+    "name": "THX Network",
+    "symbol": "THX",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/THX/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "opListId": "extended",
+      "opTokenId": "THX"
+    }
+  },
+  {
+    "chainId": 1,
     "address": "0xec213f83defb583af3a000b1c0ada660b1902a0f",
     "name": "Presearch",
     "symbol": "PRE",
@@ -7092,6 +7105,19 @@
       "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "extended",
       "opTokenId": "IYKYK"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb363c1235734f4c036eb82c84c87e099c316fb48",
+    "name": "THX Network",
+    "symbol": "THX",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/THX/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "THX"
     }
   },
   {
