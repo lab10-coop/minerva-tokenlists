@@ -21892,14 +21892,6 @@
   },
   {
     "chainId": 1,
-    "name": "Global Token",
-    "address": "0x38e3ea1f41accef53274f9544ed678a64c6ebd49",
-    "decimals": 18,
-    "symbol": "GBL",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/27927.png"
-  },
-  {
-    "chainId": 1,
     "address": "0x38e491a71291cd43e8de63b7253e482622184894",
     "name": "Aave AMM UniSNXWETH",
     "symbol": "AAMMUNISNXWETH",
@@ -26480,6 +26472,14 @@
     "decimals": 18,
     "symbol": "LIBREF",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7752.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Zazzles",
+    "address": "0x44a023a4c32bdd2c89ee87ee76a2332b1a883012",
+    "decimals": 9,
+    "symbol": "ZAZZLES",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/32082.png"
   },
   {
     "chainId": 1,
@@ -36866,6 +36866,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x6096b8765eb48cd2193f840a977f3727e7800356",
+    "name": "CRABBY",
+    "symbol": "CRAB",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/39035/thumb/unnamed.jpg?1720038984"
+  },
+  {
+    "chainId": 1,
     "name": "Precium",
     "address": "0x6096d2460cf5177e40b515223428dc005ad35123",
     "decimals": 18,
@@ -37967,6 +37975,14 @@
     "decimals": 18,
     "symbol": "XTP",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/5070.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x63696fc66795b51d02c1590b536484a41fbddf9a",
+    "name": "WELL3",
+    "symbol": "WELL",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/39028/thumb/WELL3_Icon_for_CoinGecko_200px.png?1720020178"
   },
   {
     "chainId": 1,
@@ -41399,14 +41415,6 @@
     "decimals": 18,
     "symbol": "VEUR",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/24228.png"
-  },
-  {
-    "chainId": 1,
-    "name": "USDC Savings Vault",
-    "address": "0x6bad6a9bcfda3fd60da6834ace5f93b8cfed9598",
-    "decimals": 18,
-    "symbol": "USV",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/22092.png"
   },
   {
     "chainId": 1,
@@ -66486,14 +66494,6 @@
   },
   {
     "chainId": 1,
-    "address": "0xaf4ce7cd4f8891ecf1799878c3e9a35b8be57e09",
-    "name": "KUMA Protocol Wrapped USK",
-    "symbol": "WUSK",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/33446/thumb/USK.png?1701888542"
-  },
-  {
-    "chainId": 1,
     "name": "Monetha",
     "address": "0xaf4dce16da2877f8c9e00544c93b62ac40631f16",
     "decimals": 18,
@@ -87575,14 +87575,6 @@
   },
   {
     "chainId": 1,
-    "name": "Froge",
-    "address": "0xe9a97b0798b1649045c1d7114f8c432846828404",
-    "decimals": 18,
-    "symbol": "FROGE",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28589.png"
-  },
-  {
-    "chainId": 1,
     "name": "Unification",
     "address": "0xe9b076b476d8865cdf79d1cf7df420ee397a7f75",
     "decimals": 9,
@@ -91359,11 +91351,11 @@
   },
   {
     "chainId": 1,
+    "name": "FEED EVERY GORILLA",
     "address": "0xf3c7cecf8cbc3066f9a87b310cebe198d00479ac",
-    "name": "FEG ETH",
-    "symbol": "FEG",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/29643/thumb/feg.png?1696528580"
+    "symbol": "FEG",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/32074.png"
   },
   {
     "chainId": 1,
