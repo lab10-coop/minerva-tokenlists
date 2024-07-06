@@ -9913,14 +9913,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x19de6b897ed14a376dda0fe53a5420d2ac828a28",
-    "name": "Bitget Token",
-    "symbol": "BGB",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/11610/thumb/icon_colour.png?1696511504"
-  },
-  {
-    "chainId": 1,
     "address": "0x19e2a43fbbc643c3b2d9667d858d49cad17bc2b5",
     "name": "BNS",
     "symbol": "BNS",
@@ -16577,6 +16569,14 @@
     "decimals": 18,
     "symbol": "TON",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/6731.png"
+  },
+  {
+    "chainId": 1,
+    "name": "monkey shit inu",
+    "address": "0x2be8e422cb4a5a7f217a8f1b0658952a79132f28",
+    "decimals": 18,
+    "symbol": "MSI",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/32128.png"
   },
   {
     "chainId": 1,
@@ -25396,11 +25396,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x420b879b0d18cc182e7e82ad16a13877c3a88420",
     "name": "Big Bud",
-    "symbol": "BUD",
+    "address": "0x420b879b0d18cc182e7e82ad16a13877c3a88420",
     "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/38963/thumb/bigbud_%283%29_%281%29.png?1719710107"
+    "symbol": "BUD",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/32124.png"
   },
   {
     "chainId": 1,
@@ -25960,14 +25960,6 @@
     "symbol": "USTB",
     "decimals": 6,
     "logoURI": "https://assets.coingecko.com/coins/images/35012/thumb/ustb.jpeg?1707102680"
-  },
-  {
-    "chainId": 1,
-    "name": "Caduceus",
-    "address": "0x4349929808e515936a68903f6085f5e2b143ff3d",
-    "decimals": 18,
-    "symbol": "CMP",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/20056.png"
   },
   {
     "chainId": 1,
@@ -28296,6 +28288,14 @@
     "decimals": 18,
     "symbol": "USDQ",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/4020.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x4957805230831401caad5b690aa138143b711358",
+    "name": "Dora Factory",
+    "symbol": "DORA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/31552/thumb/DORA.jpg?1696530364"
   },
   {
     "chainId": 1,
@@ -30882,7 +30882,7 @@
   },
   {
     "chainId": 1,
-    "name": "Love Power Movement",
+    "name": "Love Power Market",
     "address": "0x504624040e0642921c2c266a9ac37cafbd8cda4e",
     "decimals": 18,
     "symbol": "LPM",
@@ -37834,6 +37834,14 @@
   },
   {
     "chainId": 1,
+    "name": "Fox",
+    "address": "0x62e3b3c557c792c4a70765b3cdb5b56b1879f82d",
+    "decimals": 9,
+    "symbol": "FOX",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/32121.png"
+  },
+  {
+    "chainId": 1,
     "name": "DogeVerse",
     "address": "0x62f03b52c377fea3eb71d451a95ad86c818755d1",
     "decimals": 18,
@@ -40127,6 +40135,14 @@
     "decimals": 9,
     "symbol": "MINISHIB",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/13182.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Max on ETH",
+    "address": "0x68ad75469db9181a1144e769c16adf47f2f32cae",
+    "decimals": 18,
+    "symbol": "MAXETH",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/32122.png"
   },
   {
     "chainId": 1,
@@ -46864,6 +46880,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x7a486f809c952a6f8dec8cb0ff68173f2b8ed56c",
+    "name": "Hex Trust USD",
+    "symbol": "USDX",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/38997/thumb/USDX.png?1719809776"
+  },
+  {
+    "chainId": 1,
     "name": "iShop Token",
     "address": "0x7a4d70528c0b8d376c206b0fb2c9db1d26315c2d",
     "decimals": 18,
@@ -51496,11 +51520,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x87b46212e805a3998b7e8077e9019c90759ea88c",
     "name": "AgoraHub",
-    "symbol": "AGA",
+    "address": "0x87b46212e805a3998b7e8077e9019c90759ea88c",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/38230/thumb/agora-avatar-black.png?1716828738"
+    "symbol": "AGA",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/32129.png"
   },
   {
     "chainId": 1,
@@ -53325,6 +53349,14 @@
     "decimals": 18,
     "symbol": "SMPL",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7568.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Peace Network",
+    "address": "0x8c024cd50a94978537bde537a1fa25ad89444222",
+    "decimals": 18,
+    "symbol": "PC",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/32116.png"
   },
   {
     "chainId": 1,
@@ -59487,6 +59519,14 @@
   },
   {
     "chainId": 1,
+    "name": "Gravity",
+    "address": "0x9c7beba8f6ef6643abd725e45a4e8387ef260649",
+    "decimals": 18,
+    "symbol": "G",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/32120.png"
+  },
+  {
+    "chainId": 1,
     "name": "Landwolf",
     "address": "0x9c7d4fb43919def524c1a9d92fe836169eaf0615",
     "decimals": 18,
@@ -60428,6 +60468,14 @@
     "symbol": "AITAX",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/37613/thumb/AITaxBot.png?1715058483"
+  },
+  {
+    "chainId": 1,
+    "name": "Wynn",
+    "address": "0x9f13240c95694f203a94e4670a5c5d742b318e58",
+    "decimals": 18,
+    "symbol": "WYNN",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/32114.png"
   },
   {
     "chainId": 1,
@@ -63575,14 +63623,6 @@
   },
   {
     "chainId": 1,
-    "name": "MeowCat",
-    "address": "0xa73595d936daf28b691fbfdeed598f6a2163ab8b",
-    "decimals": 18,
-    "symbol": "MEOW",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/25387.png"
-  },
-  {
-    "chainId": 1,
     "name": "Image Generation AI",
     "address": "0xa735a3af76cc30791c61c10d585833829d36cbe0",
     "decimals": 9,
@@ -66398,11 +66438,11 @@
   },
   {
     "chainId": 1,
-    "name": "Fasttoken",
     "address": "0xaedf386b755465871ff874e3e37af5976e247064",
-    "decimals": 18,
+    "name": "Fasttoken",
     "symbol": "FTN",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/22615.png"
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/28478/thumb/lightenicon_200x200.png?1696527472"
   },
   {
     "chainId": 1,
@@ -67088,7 +67128,7 @@
     "chainId": 1,
     "name": "Win",
     "address": "0xb10cb07ca2cdac77fbb5707f6690301f9d036f45",
-    "decimals": 18,
+    "decimals": 8,
     "symbol": "WIN",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28992.png"
   },
@@ -71682,6 +71722,14 @@
     "symbol": "BDXN",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/38909/thumb/bondex_logo_copy.jpg?1719473774"
+  },
+  {
+    "chainId": 1,
+    "name": "Molly",
+    "address": "0xbdbe9f26918918bd3f43a0219d54e5fda9ce1bb3",
+    "decimals": 9,
+    "symbol": "MOLLY",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/32119.png"
   },
   {
     "chainId": 1,
@@ -88535,6 +88583,14 @@
   },
   {
     "chainId": 1,
+    "address": "0xec56840be7c495cbf98c0157b458cd207ff85da1",
+    "name": "Wrapped RUNI",
+    "symbol": "WRUNI",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/39066/thumb/wruni.jpeg?1720171780"
+  },
+  {
+    "chainId": 1,
     "name": "AIDUS TOKEN",
     "address": "0xec5980b1361127287f64fdd41f88c75dd244cfda",
     "decimals": 18,
@@ -91799,14 +91855,6 @@
   },
   {
     "chainId": 1,
-    "address": "0xf4d10729474adff518a0106cf82c616b3698a5c8",
-    "name": "Gify AI",
-    "symbol": "GIFY",
-    "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/34273/thumb/logo-200px.png?1704392067"
-  },
-  {
-    "chainId": 1,
     "name": "LooksRare",
     "address": "0xf4d2888d29d722226fafa5d9b24f9164c092421e",
     "decimals": 18,
@@ -93455,7 +93503,7 @@
   {
     "chainId": 1,
     "address": "0xf944e35f95e819e752f3ccb5faf40957d311e8c5",
-    "name": "Moca Network",
+    "name": "Moca",
     "symbol": "MOCA",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/39017/thumb/MOCA_Token_Image.png?1719935812"
