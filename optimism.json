@@ -1463,6 +1463,19 @@
   },
   {
     "chainId": 1,
+    "address": "0x6f80310ca7f2c654691d1383149fa1a57d8ab1f8",
+    "name": "Silo Governance Token",
+    "symbol": "Silo",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/Silo/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "opListId": "extended",
+      "opTokenId": "Silo"
+    }
+  },
+  {
+    "chainId": 1,
     "address": "0x6fb3e0a217407efff7ca062d46c26e5d60a14d69",
     "name": "IoTeX Network",
     "symbol": "IOTX",
@@ -7642,6 +7655,19 @@
       "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "extended",
       "opTokenId": "SARCO"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0xf734efde0c424ba2b547b186586de417b0954802",
+    "name": "Silo Governance Token",
+    "symbol": "Silo",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/Silo/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "Silo"
     }
   },
   {
