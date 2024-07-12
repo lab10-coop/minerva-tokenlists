@@ -3651,9 +3651,31 @@
     ]
   },
   {
+    "name": "GBP / British pound sterling",
+    "chainId": 10200,
+    "address": "0x436af2954bb436b6821ab401112092e14cdbd546",
+    "symbol": "GBPe",
+    "decimals": 18,
+    "logoURI": "https://monerium.app/tokens/gbp/gbp.png",
+    "tags": [
+      "gbp"
+    ]
+  },
+  {
+    "name": "EUR / Euro",
+    "chainId": 10200,
+    "address": "0x7a47605930002cc2cd2c3c408d1f33fc2a18ab71",
+    "symbol": "EURe",
+    "decimals": 18,
+    "logoURI": "https://monerium.app/tokens/eur/eur.png",
+    "tags": [
+      "eur"
+    ]
+  },
+  {
     "name": "ISK / Icelandic Krona",
     "chainId": 10200,
-    "address": "0x2fada6c9aeaa03bbaee07f4761fb30c097367dc4",
+    "address": "0x7e8e03b84eacb1798493145cc4ab9b562563456c",
     "symbol": "ISKe",
     "decimals": 18,
     "logoURI": "https://monerium.app/tokens/isk/isk.png",
@@ -3664,34 +3686,12 @@
   {
     "name": "USD / US Dollar",
     "chainId": 10200,
-    "address": "0xa8c6bd0b147f9c612c43629ead1784aa57ed60e7",
+    "address": "0x8bf987c9d041176758fe9c1180885bd4da011a5a",
     "symbol": "USDe",
     "decimals": 18,
     "logoURI": "https://monerium.app/tokens/usd/usd.png",
     "tags": [
       "usd"
-    ]
-  },
-  {
-    "name": "EUR / Euro",
-    "chainId": 10200,
-    "address": "0xb106ed7587365a16b6691a3d4b2a734f4e8268a2",
-    "symbol": "EURe",
-    "decimals": 18,
-    "logoURI": "https://monerium.app/tokens/eur/eur.png",
-    "tags": [
-      "eur"
-    ]
-  },
-  {
-    "name": "GBP / British pound sterling",
-    "chainId": 10200,
-    "address": "0xf649dc9b2df316ba82b1a35b507dea405b9b4d34",
-    "symbol": "GBPe",
-    "decimals": 18,
-    "logoURI": "https://monerium.app/tokens/gbp/gbp.png",
-    "tags": [
-      "gbp"
     ]
   },
   {
@@ -4227,9 +4227,20 @@
     ]
   },
   {
+    "name": "GBP / British pound sterling",
+    "chainId": 80002,
+    "address": "0x2f97087880bd01da04ad626e21c8a427af8d1902",
+    "symbol": "GBPe",
+    "decimals": 18,
+    "logoURI": "https://monerium.app/tokens/gbp/gbp.png",
+    "tags": [
+      "gbp"
+    ]
+  },
+  {
     "name": "USD / US Dollar",
     "chainId": 80002,
-    "address": "0x890e629d2728f470811addc84990de9f5e91bc72",
+    "address": "0x891c6a585a4378ebe861f77043463c27073be5fb",
     "symbol": "USDe",
     "decimals": 18,
     "logoURI": "https://monerium.app/tokens/usd/usd.png",
@@ -4240,7 +4251,7 @@
   {
     "name": "ISK / Icelandic Krona",
     "chainId": 80002,
-    "address": "0x8ba8662a7c5c6be4b4ad7049c5dbf59aacc2cf1e",
+    "address": "0xd8875de44acd5039b43eab9f78059b7317580b13",
     "symbol": "ISKe",
     "decimals": 18,
     "logoURI": "https://monerium.app/tokens/isk/isk.png",
@@ -4251,23 +4262,12 @@
   {
     "name": "EUR / Euro",
     "chainId": 80002,
-    "address": "0xf011267f494cf371ccd8016927723065072615a9",
+    "address": "0xed5d0b6c5beffdd607639094397c223536b0bae7",
     "symbol": "EURe",
     "decimals": 18,
     "logoURI": "https://monerium.app/tokens/eur/eur.png",
     "tags": [
       "eur"
-    ]
-  },
-  {
-    "name": "GBP / British pound sterling",
-    "chainId": 80002,
-    "address": "0xf649dc9b2df316ba82b1a35b507dea405b9b4d34",
-    "symbol": "GBPe",
-    "decimals": 18,
-    "logoURI": "https://monerium.app/tokens/gbp/gbp.png",
-    "tags": [
-      "gbp"
     ]
   },
   {
@@ -4287,20 +4287,9 @@
     ]
   },
   {
-    "name": "GBP / British pound sterling",
-    "chainId": 11155111,
-    "address": "0x0d43441ea7c6d684a74ea63958a7ab5c2831959d",
-    "symbol": "GBPe",
-    "decimals": 18,
-    "logoURI": "https://monerium.app/tokens/gbp/gbp.png",
-    "tags": [
-      "gbp"
-    ]
-  },
-  {
     "name": "ISK / Icelandic Krona",
     "chainId": 11155111,
-    "address": "0x771c595daa3be7389ac768001dff1a7b82c700b3",
+    "address": "0x429d7bae4436394150fdfbbfb01abc9270b6f2b8",
     "symbol": "ISKe",
     "decimals": 18,
     "logoURI": "https://monerium.app/tokens/isk/isk.png",
@@ -4309,25 +4298,36 @@
     ]
   },
   {
-    "name": "USD / US Dollar",
+    "name": "GBP / British pound sterling",
     "chainId": 11155111,
-    "address": "0x8ba8662a7c5c6be4b4ad7049c5dbf59aacc2cf1e",
-    "symbol": "USDe",
+    "address": "0x539fa90d0a29eb2a513f6b88fed30b529df071ca",
+    "symbol": "GBPe",
     "decimals": 18,
-    "logoURI": "https://monerium.app/tokens/usd/usd.png",
+    "logoURI": "https://monerium.app/tokens/gbp/gbp.png",
     "tags": [
-      "usd"
+      "gbp"
     ]
   },
   {
     "name": "EUR / Euro",
     "chainId": 11155111,
-    "address": "0xd58c5db52b5b3eb24ee38af287d2cb0f424172a5",
+    "address": "0x67b34b93ac295c985e856e5b8a20d83026b580eb",
     "symbol": "EURe",
     "decimals": 18,
     "logoURI": "https://monerium.app/tokens/eur/eur.png",
     "tags": [
       "eur"
+    ]
+  },
+  {
+    "name": "USD / US Dollar",
+    "chainId": 11155111,
+    "address": "0xec262c76ff70330bba90e2c477b185d6665c4aa2",
+    "symbol": "USDe",
+    "decimals": 18,
+    "logoURI": "https://monerium.app/tokens/usd/usd.png",
+    "tags": [
+      "usd"
     ]
   },
   {

@@ -31514,14 +31514,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x51d29b072ff42c712e4185723a5a7974920995ed",
-    "name": "ChartHub",
-    "symbol": "CHT",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/34456/thumb/photo_2024-01-08_00-43-08_%282%29.jpg?1704933058"
-  },
-  {
-    "chainId": 1,
     "name": "Moeda Loyalty Points",
     "address": "0x51db5ad35c671a87207d88fc11d593ac0c8415bd",
     "decimals": 18,
@@ -43250,7 +43242,7 @@
   },
   {
     "chainId": 1,
-    "name": "Super Trump",
+    "name": "Super Trump Coin",
     "address": "0x7039cd6d7966672f194e8139074c3d5c4e6dcf65",
     "decimals": 9,
     "symbol": "STRUMP",
@@ -45665,14 +45657,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x76952fc1087fdae2e6aa4e5a1cec9e1117a60b00",
-    "name": "NY Blockchain",
-    "symbol": "NYBC",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/34462/thumb/NYBC-200X200_%E7%94%BB%E6%9D%BF_1_%E5%89%AF%E6%9C%AC_29.jpg?1704961756"
-  },
-  {
-    "chainId": 1,
     "name": "RED",
     "address": "0x76960dccd5a1fe799f7c29be9f19ceb4627aeb2f",
     "decimals": 18,
@@ -46574,6 +46558,14 @@
     "decimals": 18,
     "symbol": "SCPT",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/5141.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Matt Furie",
+    "address": "0x790814cd782983fab4d7b92cf155187a865d9f18",
+    "decimals": 9,
+    "symbol": "MATT",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/32183.png"
   },
   {
     "chainId": 1,
@@ -64980,6 +64972,14 @@
     "decimals": 18,
     "symbol": "EVC",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/4112.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xaa8da83b0b8fca779c36f3e39fa93df2a3906617",
+    "name": "TONKIT",
+    "symbol": "TONT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/39134/thumb/FG7JKA6E_400x400.jpg?1720685159"
   },
   {
     "chainId": 1,
@@ -90856,6 +90856,14 @@
   },
   {
     "chainId": 1,
+    "address": "0xf197ffc28c23e0309b5559e7a166f2c6164c80aa",
+    "name": "MXNB",
+    "symbol": "MXNB",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/39136/thumb/MXNB_FULL.png?1720686155"
+  },
+  {
+    "chainId": 1,
     "name": "Arena Match Gold",
     "address": "0xf1ac7a375429719de0dde33528e2639b9a206eba",
     "decimals": 18,
@@ -93735,11 +93743,11 @@
   },
   {
     "chainId": 1,
+    "name": "Mocaverse",
     "address": "0xf944e35f95e819e752f3ccb5faf40957d311e8c5",
-    "name": "Moca",
-    "symbol": "MOCA",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/39017/thumb/MOCA_Token_Image.png?1719935812"
+    "symbol": "MOCA",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/31526.png"
   },
   {
     "chainId": 1,
@@ -101638,6 +101646,14 @@
     "logoURI": "https://tokens.pancakeswap.finance/images/0x4CfbBdfBd5BF0814472fF35C72717Bd095ADa055.png"
   },
   {
+    "name": "DAO Maker",
+    "symbol": "DAO",
+    "address": "0x4d2d32d8652058bf98c772953e1df5c5c85d9f45",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x4d2d32d8652058Bf98c772953E1Df5c5c85D9F45.png"
+  },
+  {
     "name": "Refinable",
     "symbol": "FINE",
     "address": "0x4e6415a5727ea08aae4580057187923aec331227",
@@ -102704,6 +102720,14 @@
     "chainId": 56,
     "decimals": 18,
     "logoURI": "https://tokens.pancakeswap.finance/images/0x9f589e3eabe42ebC94A44727b3f3531C0c877809.png"
+  },
+  {
+    "name": "BOXY",
+    "symbol": "BOXY",
+    "address": "0x9f5d4479b783327b61718fa13b3a0583869a80c1",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x9F5d4479b783327b61718fa13B3a0583869a80c1.png"
   },
   {
     "name": "MX Token",
@@ -121217,9 +121241,31 @@
     ]
   },
   {
+    "name": "GBP / British pound sterling",
+    "chainId": 10200,
+    "address": "0x436af2954bb436b6821ab401112092e14cdbd546",
+    "symbol": "GBPe",
+    "decimals": 18,
+    "logoURI": "https://monerium.app/tokens/gbp/gbp.png",
+    "tags": [
+      "gbp"
+    ]
+  },
+  {
+    "name": "EUR / Euro",
+    "chainId": 10200,
+    "address": "0x7a47605930002cc2cd2c3c408d1f33fc2a18ab71",
+    "symbol": "EURe",
+    "decimals": 18,
+    "logoURI": "https://monerium.app/tokens/eur/eur.png",
+    "tags": [
+      "eur"
+    ]
+  },
+  {
     "name": "ISK / Icelandic Krona",
     "chainId": 10200,
-    "address": "0x2fada6c9aeaa03bbaee07f4761fb30c097367dc4",
+    "address": "0x7e8e03b84eacb1798493145cc4ab9b562563456c",
     "symbol": "ISKe",
     "decimals": 18,
     "logoURI": "https://monerium.app/tokens/isk/isk.png",
@@ -121230,34 +121276,12 @@
   {
     "name": "USD / US Dollar",
     "chainId": 10200,
-    "address": "0xa8c6bd0b147f9c612c43629ead1784aa57ed60e7",
+    "address": "0x8bf987c9d041176758fe9c1180885bd4da011a5a",
     "symbol": "USDe",
     "decimals": 18,
     "logoURI": "https://monerium.app/tokens/usd/usd.png",
     "tags": [
       "usd"
-    ]
-  },
-  {
-    "name": "EUR / Euro",
-    "chainId": 10200,
-    "address": "0xb106ed7587365a16b6691a3d4b2a734f4e8268a2",
-    "symbol": "EURe",
-    "decimals": 18,
-    "logoURI": "https://monerium.app/tokens/eur/eur.png",
-    "tags": [
-      "eur"
-    ]
-  },
-  {
-    "name": "GBP / British pound sterling",
-    "chainId": 10200,
-    "address": "0xf649dc9b2df316ba82b1a35b507dea405b9b4d34",
-    "symbol": "GBPe",
-    "decimals": 18,
-    "logoURI": "https://monerium.app/tokens/gbp/gbp.png",
-    "tags": [
-      "gbp"
     ]
   },
   {
@@ -121793,9 +121817,20 @@
     ]
   },
   {
+    "name": "GBP / British pound sterling",
+    "chainId": 80002,
+    "address": "0x2f97087880bd01da04ad626e21c8a427af8d1902",
+    "symbol": "GBPe",
+    "decimals": 18,
+    "logoURI": "https://monerium.app/tokens/gbp/gbp.png",
+    "tags": [
+      "gbp"
+    ]
+  },
+  {
     "name": "USD / US Dollar",
     "chainId": 80002,
-    "address": "0x890e629d2728f470811addc84990de9f5e91bc72",
+    "address": "0x891c6a585a4378ebe861f77043463c27073be5fb",
     "symbol": "USDe",
     "decimals": 18,
     "logoURI": "https://monerium.app/tokens/usd/usd.png",
@@ -121806,7 +121841,7 @@
   {
     "name": "ISK / Icelandic Krona",
     "chainId": 80002,
-    "address": "0x8ba8662a7c5c6be4b4ad7049c5dbf59aacc2cf1e",
+    "address": "0xd8875de44acd5039b43eab9f78059b7317580b13",
     "symbol": "ISKe",
     "decimals": 18,
     "logoURI": "https://monerium.app/tokens/isk/isk.png",
@@ -121817,23 +121852,12 @@
   {
     "name": "EUR / Euro",
     "chainId": 80002,
-    "address": "0xf011267f494cf371ccd8016927723065072615a9",
+    "address": "0xed5d0b6c5beffdd607639094397c223536b0bae7",
     "symbol": "EURe",
     "decimals": 18,
     "logoURI": "https://monerium.app/tokens/eur/eur.png",
     "tags": [
       "eur"
-    ]
-  },
-  {
-    "name": "GBP / British pound sterling",
-    "chainId": 80002,
-    "address": "0xf649dc9b2df316ba82b1a35b507dea405b9b4d34",
-    "symbol": "GBPe",
-    "decimals": 18,
-    "logoURI": "https://monerium.app/tokens/gbp/gbp.png",
-    "tags": [
-      "gbp"
     ]
   },
   {
@@ -121853,20 +121877,9 @@
     ]
   },
   {
-    "name": "GBP / British pound sterling",
-    "chainId": 11155111,
-    "address": "0x0d43441ea7c6d684a74ea63958a7ab5c2831959d",
-    "symbol": "GBPe",
-    "decimals": 18,
-    "logoURI": "https://monerium.app/tokens/gbp/gbp.png",
-    "tags": [
-      "gbp"
-    ]
-  },
-  {
     "name": "ISK / Icelandic Krona",
     "chainId": 11155111,
-    "address": "0x771c595daa3be7389ac768001dff1a7b82c700b3",
+    "address": "0x429d7bae4436394150fdfbbfb01abc9270b6f2b8",
     "symbol": "ISKe",
     "decimals": 18,
     "logoURI": "https://monerium.app/tokens/isk/isk.png",
@@ -121875,25 +121888,36 @@
     ]
   },
   {
-    "name": "USD / US Dollar",
+    "name": "GBP / British pound sterling",
     "chainId": 11155111,
-    "address": "0x8ba8662a7c5c6be4b4ad7049c5dbf59aacc2cf1e",
-    "symbol": "USDe",
+    "address": "0x539fa90d0a29eb2a513f6b88fed30b529df071ca",
+    "symbol": "GBPe",
     "decimals": 18,
-    "logoURI": "https://monerium.app/tokens/usd/usd.png",
+    "logoURI": "https://monerium.app/tokens/gbp/gbp.png",
     "tags": [
-      "usd"
+      "gbp"
     ]
   },
   {
     "name": "EUR / Euro",
     "chainId": 11155111,
-    "address": "0xd58c5db52b5b3eb24ee38af287d2cb0f424172a5",
+    "address": "0x67b34b93ac295c985e856e5b8a20d83026b580eb",
     "symbol": "EURe",
     "decimals": 18,
     "logoURI": "https://monerium.app/tokens/eur/eur.png",
     "tags": [
       "eur"
+    ]
+  },
+  {
+    "name": "USD / US Dollar",
+    "chainId": 11155111,
+    "address": "0xec262c76ff70330bba90e2c477b185d6665c4aa2",
+    "symbol": "USDe",
+    "decimals": 18,
+    "logoURI": "https://monerium.app/tokens/usd/usd.png",
+    "tags": [
+      "usd"
     ]
   },
   {
