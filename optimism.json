@@ -1275,6 +1275,18 @@
   },
   {
     "chainId": 1,
+    "address": "0x616e8bfa43f920657b3497dbf40d6b1a02d4608d",
+    "name": "Aura BAL",
+    "symbol": "auraBAL",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/auraBAL/logo.svg",
+    "extensions": {
+      "opListId": "extended",
+      "opTokenId": "auraBAL"
+    }
+  },
+  {
+    "chainId": 1,
     "address": "0x617ead3c59ded3ea1bb17881118cf310144b450f",
     "name": "The Secret Coin",
     "symbol": "TSC",
@@ -5792,6 +5804,18 @@
   },
   {
     "chainId": 8453,
+    "address": "0x223738a747383d6f9f827d95964e4d8e8ac754ce",
+    "name": "Aura BAL",
+    "symbol": "auraBAL",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/auraBAL/logo.svg",
+    "extensions": {
+      "opListId": "extended",
+      "opTokenId": "auraBAL"
+    }
+  },
+  {
+    "chainId": 8453,
     "address": "0x224114c444e3c3d936532fe08351648700570909",
     "name": "Paladin Token",
     "symbol": "PAL",
@@ -7915,6 +7939,19 @@
   },
   {
     "chainId": 84532,
+    "address": "0x0c6cfdd69dd6117f9cd34437d551ffa9e0d92c94",
+    "name": "YYY",
+    "symbol": "YYY",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/YYY/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "YYY"
+    }
+  },
+  {
+    "chainId": 84532,
     "address": "0x0d73bec7b116c3053b7f0fa108e45a8ae9a038e9",
     "name": "dForce",
     "symbol": "DF",
@@ -8287,6 +8324,19 @@
       "baseBridgeAddress": "0xfd0Bf71F60660E2f608ed56e1659C450eB113120",
       "opListId": "extended",
       "opTokenId": "BKN"
+    }
+  },
+  {
+    "chainId": 11155111,
+    "address": "0xb6c690b6fa95491cb84e2fea759c714aa740d060",
+    "name": "YYY",
+    "symbol": "YYY",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/YYY/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0xfd0Bf71F60660E2f608ed56e1659C450eB113120",
+      "opListId": "extended",
+      "opTokenId": "YYY"
     }
   },
   {
