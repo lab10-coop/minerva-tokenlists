@@ -1889,14 +1889,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x04506dddbf689714487f91ae1397047169afcf34",
-    "name": "Unlock Maverick",
-    "symbol": "UNKMAV",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/31264/thumb/clean.jpg?1696530088"
-  },
-  {
-    "chainId": 1,
     "name": "Elevate",
     "address": "0x045109cf1be9edec048aa0b3d7a323154a1aea65",
     "decimals": 18,
@@ -26059,6 +26051,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x4346139e71ba7b4b6abd405782703006cc180988",
+    "name": "TonGPU",
+    "symbol": "TGPU",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/39193/thumb/logo.jpeg?1720991504"
+  },
+  {
+    "chainId": 1,
     "name": "ALLPAYCOIN",
     "address": "0x434cb4fc4b952872967914d430878eee53ebd502",
     "decimals": 18,
@@ -31366,7 +31366,7 @@
     "name": "Kernel Staked ETH",
     "symbol": "KSETH",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/39085/thumb/Kernel_Staked_ETH.png?1720456966"
+    "logoURI": "https://assets.coingecko.com/coins/images/39085/thumb/ksETH.png?1720993025"
   },
   {
     "chainId": 1,
@@ -38122,11 +38122,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x63696fc66795b51d02c1590b536484a41fbddf9a",
     "name": "WELL3",
-    "symbol": "WELL",
+    "address": "0x63696fc66795b51d02c1590b536484a41fbddf9a",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/39028/thumb/WELL3_Icon_for_CoinGecko_200px.png?1720020178"
+    "symbol": "$WELL",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/32211.png"
   },
   {
     "chainId": 1,
@@ -45890,7 +45890,7 @@
   {
     "chainId": 1,
     "address": "0x77163c968c2506077dbe74838dea72314a2d5760",
-    "name": "SOMA",
+    "name": "SOMA finance",
     "symbol": "SOMA",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/38833/thumb/somatoken-soma.png?1719197680"
@@ -79398,14 +79398,6 @@
     "decimals": 18,
     "symbol": "PETC",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/4221.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xd1d92f1c5524d93ced7bf6f418c8bf8abf68ac66",
-    "name": "Bull Frog",
-    "symbol": "BULL",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/31612/thumb/Bull200.png?1696530428"
   },
   {
     "chainId": 1,
