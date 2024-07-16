@@ -339,6 +339,14 @@
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
   },
   {
+    "name": "Morpheus.Network",
+    "address": "0x3c59798620e5fec0ae6df1a19c6454094572ab92",
+    "symbol": "MNW",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://i.ibb.co/HY07xZV/MNW.png"
+  },
+  {
     "name": "UnirisToken",
     "address": "0x3c720206bfacb2d16fa3ac0ed87d2048dbc401fc",
     "symbol": "UCO",
@@ -769,6 +777,14 @@
     "symbol": "jJPY",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-tokenlists/master/images/jJPY.svg"
+  },
+  {
+    "name": "Axion",
+    "address": "0x839f1a22a59eaaf26c85958712ab32f80fea23d9",
+    "symbol": "AXN",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://i.imgur.com/nVgJJfN.png"
   },
   {
     "name": "SHEESHA POLYGON",
@@ -1541,6 +1557,14 @@
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
   },
   {
+    "name": "Davos.xyz USD",
+    "address": "0x0a2f62fa25a19e5f860d150735d52b19ede10273",
+    "symbol": "DUSD",
+    "decimals": 18,
+    "chainId": 195,
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/23515.png"
+  },
+  {
     "name": "Wrapped OKB",
     "address": "0x87a851c652e5d772ba61ec320753c6349bb3c1e3",
     "symbol": "WOKB",
@@ -1555,6 +1579,14 @@
     "decimals": 6,
     "chainId": 195,
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+  },
+  {
+    "name": "Davos.xyz USD",
+    "address": "0x0a2f62fa25a19e5f860d150735d52b19ede10273",
+    "symbol": "DUSD",
+    "decimals": 18,
+    "chainId": 196,
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/23515.png"
   },
   {
     "name": "Tether USD",
@@ -1869,6 +1901,14 @@
     "logoURI": "https://i.imgur.com/WH22eKZ.png"
   },
   {
+    "name": "USDC",
+    "address": "0x97eec1c29f745dc7c267f90292aa663d997a601d",
+    "symbol": "USDC",
+    "decimals": 6,
+    "chainId": 2000,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+  },
+  {
     "name": "QuickSwap",
     "address": "0xb12c13e66ade1f72f71834f2fc5082db8c091358",
     "symbol": "QUICK",
@@ -1877,12 +1917,12 @@
     "logoURI": "https://i.ibb.co/HGWTLM7/Quick-Icon-V2.png"
   },
   {
-    "name": "Ether",
-    "address": "0xb44a9b6905af7c801311e8f4e76932ee959c663c",
-    "symbol": "ETH",
-    "decimals": 18,
+    "name": "Tether USD",
+    "address": "0xb6dc6c8b71e88642cead3be1025565a9ee74d1c6",
+    "symbol": "USDT",
+    "decimals": 6,
     "chainId": 2000,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
   },
   {
     "name": "Wrapped WDOGE",
@@ -1931,6 +1971,14 @@
     "decimals": 6,
     "chainId": 2000,
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png"
+  },
+  {
+    "name": "Wrapped Ether",
+    "address": "0xff13a7a12fd485bc9687ff88d8ae1a6b655ab469",
+    "symbol": "WETH",
+    "decimals": 18,
+    "chainId": 2000,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
   },
   {
     "name": "Tether USD",
