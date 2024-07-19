@@ -2612,6 +2612,18 @@
   },
   {
     "chainId": 1,
+    "address": "0xc0c293ce456ff0ed870add98a0828dd4d2903dbf",
+    "name": "Aura",
+    "symbol": "AURA",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/AURA/logo.svg",
+    "extensions": {
+      "opListId": "extended",
+      "opTokenId": "AURA"
+    }
+  },
+  {
+    "chainId": 1,
     "address": "0xc18360217d8f7ab5e7c516566761ea12ce7f9d72",
     "name": "Ethereum Name Service",
     "symbol": "ENS",
@@ -3648,6 +3660,18 @@
     "symbol": "GYSR",
     "decimals": 18,
     "logoURI": "https://ethereum-optimism.github.io/data/GYSR/logo.png"
+  },
+  {
+    "chainId": 10,
+    "address": "0x1509706a6c66ca549ff0cb464de88231ddbe213b",
+    "name": "Aura",
+    "symbol": "AURA",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/AURA/logo.svg",
+    "extensions": {
+      "opListId": "extended",
+      "opTokenId": "AURA"
+    }
   },
   {
     "chainId": 10,
@@ -5635,6 +5659,18 @@
   },
   {
     "chainId": 8453,
+    "address": "0x1509706a6c66ca549ff0cb464de88231ddbe213b",
+    "name": "Aura",
+    "symbol": "AURA",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/AURA/logo.svg",
+    "extensions": {
+      "opListId": "extended",
+      "opTokenId": "AURA"
+    }
+  },
+  {
+    "chainId": 8453,
     "address": "0x178929287b25fe1ac9e0b112ce3899312b6d0557",
     "name": "dForce",
     "symbol": "DF",
@@ -6030,6 +6066,18 @@
       "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "extended",
       "opTokenId": "HOBA"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0x2fa824bb2e06d6cac7dbab00be37dc0f3d440e8b",
+    "name": "One Cent Coin",
+    "symbol": "🇺🇸",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/CENT/logo.svg",
+    "extensions": {
+      "opListId": "extended",
+      "opTokenId": "CENT"
     }
   },
   {
