@@ -129,6 +129,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x00000000efe302beaa2b3e6e1b18d08d69a9012a",
+    "name": "Agora Dollar",
+    "symbol": "AUSD",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/39284/thumb/Agora_Olive.png?1721453639"
+  },
+  {
+    "chainId": 1,
     "name": "delta.theta",
     "address": "0x0000000de40dfa9b17854cbc7869d80f9f98d823",
     "decimals": 18,
@@ -21900,14 +21908,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x38b7bf4eecf3eb530b1529c9401fc37d2a71a912",
-    "name": "ClayStack Staked MATIC",
-    "symbol": "CSMATIC",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/28352/thumb/csMatic.png?1696527356"
-  },
-  {
-    "chainId": 1,
     "name": "QUEENBEE",
     "address": "0x38bc89cf1f634c71896620bcd807af235cbdecd1",
     "decimals": 18,
@@ -35808,14 +35808,6 @@
     "symbol": "BSX",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/37666/thumb/basix-usdx-logo-200x200.png?1715176576"
-  },
-  {
-    "chainId": 1,
-    "address": "0x5d74468b69073f809d4fae90afec439e69bf6263",
-    "name": "ClayStack Staked ETH",
-    "symbol": "CSETH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/33205/thumb/csETH-coingecko.png?1701080702"
   },
   {
     "chainId": 1,
@@ -53871,14 +53863,6 @@
     "decimals": 18,
     "symbol": "VIND",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/26520.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x8c3fcec4866769ea2c31a5fba300671bfc7a78f7",
-    "name": "Grumpy Meme",
-    "symbol": "GRUMPY",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/38330/thumb/grumpy_cat_simple_face.png?1717097858"
   },
   {
     "chainId": 1,
@@ -116261,7 +116245,7 @@
     "chainId": 43114,
     "address": "0x8ad25b0083c9879942a64f00f20a70d3278f6187",
     "decimals": 18,
-    "name": "Meow Cat",
+    "name": "MeowCat",
     "symbol": "MEOW",
     "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0x8aD25B0083C9879942A64f00F20a70D3278f6187/logo_24.png"
   },
