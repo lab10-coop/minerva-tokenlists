@@ -185,6 +185,14 @@
   },
   {
     "chainId": 1,
+    "name": "SAITAMA INU",
+    "address": "0x0000e3705d8735ee724a76f3440c0a7ea721ed00",
+    "decimals": 9,
+    "symbol": "SAITAMA",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/32310.png"
+  },
+  {
+    "chainId": 1,
     "name": "Autonolas",
     "address": "0x0001a500a6b18995b03f44bb040a5ffc28e45cb0",
     "decimals": 18,
@@ -23500,14 +23508,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x3d0293f06daf4311b482564330d57c8db6c10893",
-    "name": "Y Coin",
-    "symbol": "YCO",
-    "decimals": 8,
-    "logoURI": "https://assets.coingecko.com/coins/images/14128/thumb/BIG-POTAT-200x200-removebg-preview.png?1696513849"
-  },
-  {
-    "chainId": 1,
     "name": "CreaEther",
     "address": "0x3d166dd13dfdca66879bdd45dc224d07c8855cdb",
     "decimals": 18,
@@ -40627,6 +40627,14 @@
   },
   {
     "chainId": 1,
+    "name": "Girls Club",
+    "address": "0x69420bad4e6f844c023488ffd44433626602bd69",
+    "decimals": 9,
+    "symbol": "GIRLS",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/32315.png"
+  },
+  {
+    "chainId": 1,
     "name": "Elon",
     "address": "0x69420e3a3aa9e17dea102bb3a9b3b73dcddb9528",
     "decimals": 9,
@@ -42928,14 +42936,6 @@
     "decimals": 18,
     "symbol": "DOGPAD",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/23331.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x6f38e0f1a73c96cb3f42598613ea3474f09cb200",
-    "name": "Draggable Aktionariat AG",
-    "symbol": "DAKS",
-    "decimals": 0,
-    "logoURI": "https://assets.coingecko.com/coins/images/28988/thumb/AKS.png?1696527961"
   },
   {
     "chainId": 1,
@@ -74299,14 +74299,6 @@
   },
   {
     "chainId": 1,
-    "address": "0xc30769d445d1cbbc5f85fcdb4294b827bd3e7dda",
-    "name": "MissionMars",
-    "symbol": "MMARS",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/33942/thumb/image_2023-12-21_15-40-16__2_-removebg-preview.png?1703509049"
-  },
-  {
-    "chainId": 1,
     "name": "MAX WILL PUMP IT",
     "address": "0xc308f75551763b3663de4e34cfff636b0869f8ca",
     "decimals": 8,
@@ -88353,6 +88345,14 @@
   },
   {
     "chainId": 1,
+    "address": "0xea4170a365952c666a9f34950771e51841732de9",
+    "name": "Filter AI",
+    "symbol": "FILTER",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/39298/thumb/filter_logo.png?1721626025"
+  },
+  {
+    "chainId": 1,
     "address": "0xea46bf7fe6c9a2e29a97d2da2775131067b4ba0c",
     "name": "LE7EL",
     "symbol": "L7L",
@@ -91113,11 +91113,11 @@
   },
   {
     "chainId": 1,
-    "address": "0xf197ffc28c23e0309b5559e7a166f2c6164c80aa",
     "name": "MXNB",
-    "symbol": "MXNB",
+    "address": "0xf197ffc28c23e0309b5559e7a166f2c6164c80aa",
     "decimals": 6,
-    "logoURI": "https://assets.coingecko.com/coins/images/39136/thumb/MXNB_FULL.png?1720686155"
+    "symbol": "MXNB",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/32323.png"
   },
   {
     "chainId": 1,
@@ -106950,6 +106950,19 @@
   },
   {
     "chainId": 1,
+    "address": "0x6033f7f88332b8db6ad452b7c6d5bb643990ae3f",
+    "name": "Lisk",
+    "symbol": "LSK",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/LSK/logo.svg",
+    "extensions": {
+      "liskBridgeAddress": "0x2658723Bf70c7667De6B25F99fcce13A16D25d08",
+      "opListId": "extended",
+      "opTokenId": "LSK"
+    }
+  },
+  {
+    "chainId": 1,
     "address": "0x60eb57d085c59932d5faa6c6026268a4386927d0",
     "name": "LOCGame",
     "symbol": "LOCG",
@@ -111204,6 +111217,32 @@
     }
   },
   {
+    "chainId": 1135,
+    "address": "0xac485391eb2d7d88253a7f1ef18c37f4242d1a24",
+    "name": "Lisk",
+    "symbol": "LSK",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/LSK/logo.svg",
+    "extensions": {
+      "liskBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "LSK"
+    }
+  },
+  {
+    "chainId": 4202,
+    "address": "0x8a21cf9ba08ae709d64cb25afaa951183ec9ff6d",
+    "name": "Lisk",
+    "symbol": "LSK",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/LSK/logo.svg",
+    "extensions": {
+      "liskBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "LSK"
+    }
+  },
+  {
     "chainId": 8453,
     "address": "0x029a3b0532871735809a51e8653d6017ef04b6fa",
     "name": "TYBENG",
@@ -113969,6 +114008,19 @@
       "baseBridgeAddress": "0xfd0Bf71F60660E2f608ed56e1659C450eB113120",
       "opListId": "extended",
       "opTokenId": "MCADE"
+    }
+  },
+  {
+    "chainId": 11155111,
+    "address": "0x16b840ba01e2b05fc2268eaf6d18892a11ec29d6",
+    "name": "Lisk",
+    "symbol": "LSK",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/LSK/logo.svg",
+    "extensions": {
+      "liskBridgeAddress": "0x1Fb30e446eA791cd1f011675E5F3f5311b70faF5",
+      "opListId": "extended",
+      "opTokenId": "LSK"
     }
   },
   {
