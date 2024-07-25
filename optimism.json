@@ -2321,6 +2321,19 @@
   },
   {
     "chainId": 1,
+    "address": "0xab814ce69e15f6b9660a3b184c0b0c97b9394a6b",
+    "name": "Cerebrum DAO Token",
+    "symbol": "NEURON",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/NEURON/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "opListId": "extended",
+      "opTokenId": "NEURON"
+    }
+  },
+  {
+    "chainId": 1,
     "address": "0xab846fb6c81370327e784ae7cbb6d6a6af6ff4bf",
     "name": "Paladin Token",
     "symbol": "PAL",
@@ -6146,6 +6159,19 @@
   },
   {
     "chainId": 8453,
+    "address": "0x3568c7a4f7545805e379c264303239781b4e9a79",
+    "name": "Cerebrum DAO Token",
+    "symbol": "NEURON",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/NEURON/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "NEURON"
+    }
+  },
+  {
+    "chainId": 8453,
     "address": "0x368181499736d0c0cc614dbb145e2ec1ac86b8c6",
     "name": "LUSD Stablecoin",
     "symbol": "LUSD",
@@ -8181,6 +8207,19 @@
   },
   {
     "chainId": 84532,
+    "address": "0x9acd8e640636b616844c57569028359e46beed43",
+    "name": "Open Loot",
+    "symbol": "OPENLOOT",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/OPENLOOT/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "OPENLOOT"
+    }
+  },
+  {
+    "chainId": 84532,
     "address": "0xb01701025c3b12e0b5022d8a98f15f8ad3602a7b",
     "name": "Everyrealm Token",
     "symbol": "EVERY",
@@ -8410,6 +8449,19 @@
       "baseBridgeAddress": "0xfd0Bf71F60660E2f608ed56e1659C450eB113120",
       "opListId": "extended",
       "opTokenId": "DF"
+    }
+  },
+  {
+    "chainId": 11155111,
+    "address": "0x51fe233c9c4518a84dc14ef8033d804fae35a25d",
+    "name": "Open Loot",
+    "symbol": "OPENLOOT",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/OPENLOOT/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0xfd0Bf71F60660E2f608ed56e1659C450eB113120",
+      "opListId": "extended",
+      "opTokenId": "OPENLOOT"
     }
   },
   {
