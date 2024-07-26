@@ -1185,6 +1185,19 @@
   },
   {
     "chainId": 1,
+    "address": "0x5c1d9aa868a30795f92fae903edc9eff269044bf",
+    "name": "Changer",
+    "symbol": "CNG",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/CNG/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1",
+      "opListId": "extended",
+      "opTokenId": "CNG"
+    }
+  },
+  {
+    "chainId": 1,
     "address": "0x5ca135cb8527d76e932f34b5145575f9d8cbe08e",
     "name": "Frax Price Index",
     "symbol": "FPI",
@@ -3697,6 +3710,19 @@
     "extensions": {
       "opListId": "extended",
       "opTokenId": "AURA"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0x1d015bf7d8a6fb0fc30959f3e12355530086b2a5",
+    "name": "Changer",
+    "symbol": "CNG",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/CNG/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "CNG"
     }
   },
   {
