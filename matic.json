@@ -1054,6 +1054,14 @@
     "logoURI": "https://i.imgur.com/KTS2F7I.png"
   },
   {
+    "name": "Landshare",
+    "address": "0xc03e6ad83de7c58c9166ff08d66b960d78e64105",
+    "symbol": "LAND",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://i.imgur.com/rGckBgo.png"
+  },
+  {
     "chainId": 137,
     "address": "0xc0b2983a17573660053beeed6fdb1053107cf387",
     "name": "Minerva Wallet SuperToken",
@@ -1405,6 +1413,14 @@
     "logoURI": "https://i.imgur.com/gwmgrf0.png"
   },
   {
+    "name": "DerbyStarsRUN",
+    "address": "0xff76c0b48363a7c7307868a81548d340049b0023",
+    "symbol": "DSRUN",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://resource.derbystars.com/tokens/icon/token_run_32_C.png"
+  },
+  {
     "name": "Wefi",
     "address": "0xffa188493c15dfaf2c206c97d8633377847b6a52",
     "symbol": "WEFI",
@@ -1611,6 +1627,14 @@
     "decimals": 18,
     "chainId": 196,
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+  },
+  {
+    "name": "InceptionLRT restaked ETH",
+    "address": "0x5a7a183b6b44dc4ec2e3d2ef43f98c5152b1d76d",
+    "symbol": "inETH",
+    "decimals": 18,
+    "chainId": 196,
+    "logoURI": "https://docs.inceptionlrt.com/~gitbook/image?url=https%3A%2F%2F2674700783-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FH5cQR703CA1JD1dlB1kD%252Fuploads%252FJKFfvXYUNPZT5NirlaNR%252FING%2520token.png%3Falt%3Dmedia%26token%3D11c14c50-300d-44b4-8611-d70c27c92351&width=768&dpr=4&quality=100&sign=fba76ad7&sv=1"
   },
   {
     "name": "USDC",
@@ -2069,12 +2093,36 @@
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png"
   },
   {
+    "name": "Governance Health Token",
+    "address": "0xfbd5c70754c1d3ad24d29cc1c06418019b47da19",
+    "symbol": "GHT",
+    "decimals": 18,
+    "chainId": 3776,
+    "logoURI": "https://i.imgur.com/H9BmSFr.png"
+  },
+  {
+    "name": "Utility Health Token",
+    "address": "0xff49419c7c8095fec612ce817de75c8c6e22719a",
+    "symbol": "UHT",
+    "decimals": 18,
+    "chainId": 3776,
+    "logoURI": "https://i.imgur.com/Sp37vt7.png"
+  },
+  {
     "name": "Wrapped BTC",
     "address": "0x235f9a2dc29e51ce7d103bcc5dfb4f5c9c3371de",
     "symbol": "WBTC",
     "decimals": 8,
     "chainId": 13371,
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png"
+  },
+  {
+    "name": "METAL",
+    "address": "0x2a644d2d996820ce5ca4256cc68e53f4de29b444",
+    "symbol": "METAL",
+    "decimals": 18,
+    "chainId": 13371,
+    "logoURI": "https://i.imgur.com/RvSvaBH.png"
   },
   {
     "name": "Wrapped IMX",
