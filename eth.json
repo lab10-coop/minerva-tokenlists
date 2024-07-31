@@ -2809,7 +2809,7 @@
   },
   {
     "chainId": 1,
-    "name": "BVM",
+    "name": "Bitcoin Virtual Machine",
     "address": "0x069d89974f4edabde69450f9cf5cf7d8cbd2568d",
     "decimals": 18,
     "symbol": "BVM",
@@ -6073,6 +6073,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x0f6d4d4643a514132f84f4a270946db3c7cb701c",
+    "name": "Lovely Inu Finance",
+    "symbol": "LOVELY",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/19053/thumb/lovely-inu-logo-new.png?1696518503"
+  },
+  {
+    "chainId": 1,
     "name": "Arcona",
     "address": "0x0f71b8de197a1c84d31de0f1fa7926c365f052b3",
     "decimals": 18,
@@ -8475,7 +8483,7 @@
     "chainId": 1,
     "name": "DedaCoin",
     "address": "0x15f9eb4b9beafa9db35341c5694c0b6573809808",
-    "decimals": 8,
+    "decimals": 18,
     "symbol": "DEDA",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/32381.png"
   },
@@ -13676,11 +13684,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x23f3d4625aef6f0b84d50db1d53516e6015c0c9b",
     "name": "Thetanuts Finance",
-    "symbol": "NUTS",
+    "address": "0x23f3d4625aef6f0b84d50db1d53516e6015c0c9b",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/33021/thumb/Thetanuts_Profile_Green.png?1700208652"
+    "symbol": "NUTS",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/32479.png"
   },
   {
     "chainId": 1,
@@ -44499,7 +44507,7 @@
   },
   {
     "chainId": 1,
-    "name": "Ctrl Wallet",
+    "name": "XDEFI Wallet",
     "address": "0x72b886d09c117654ab7da13a14d603001de0b777",
     "decimals": 18,
     "symbol": "XDEFI",
@@ -46354,11 +46362,19 @@
   },
   {
     "chainId": 1,
-    "address": "0x777be1c6075c20184c4fd76344b7b0b7c858fe6b",
-    "name": "Gold Standard",
-    "symbol": "BAR",
+    "address": "0x777b6d4730a8a890dc64bf202514ce03ab001c02",
+    "name": "Silver Standard",
+    "symbol": "BARS",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/39374/thumb/BAR.jpg?1721956351"
+    "logoURI": "https://assets.coingecko.com/coins/images/39440/thumb/0x777b6d4730a8a890dc64bf202514ce03ab001c02.png?1722308609"
+  },
+  {
+    "chainId": 1,
+    "name": "Gold Standard",
+    "address": "0x777be1c6075c20184c4fd76344b7b0b7c858fe6b",
+    "decimals": 18,
+    "symbol": "BAR",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/32477.png"
   },
   {
     "chainId": 1,
@@ -52482,11 +52498,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x88909d489678dd17aa6d9609f89b0419bf78fd9a",
     "name": "Layer3",
-    "symbol": "L3",
+    "address": "0x88909d489678dd17aa6d9609f89b0419bf78fd9a",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/37768/thumb/Square.png?1722045128"
+    "symbol": "L3",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/32470.png"
   },
   {
     "chainId": 1,
@@ -58481,6 +58497,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x986df267bb88a0a0be06dd4a1052e1bdec1a6172",
+    "name": "HyperQuant",
+    "symbol": "HQ",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/39439/thumb/om93ubto_%281%29.png?1722308377"
+  },
+  {
+    "chainId": 1,
     "name": "BitMart Token",
     "address": "0x986ee2b944c42d017f52af21c4c69b84dbea35d8",
     "decimals": 18,
@@ -64286,14 +64310,6 @@
     "decimals": 18,
     "symbol": "STA",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/5868.png"
-  },
-  {
-    "chainId": 1,
-    "name": "MUNI",
-    "address": "0xa7de94227eb6828497f4343b9923959e41ae9cd1",
-    "decimals": 18,
-    "symbol": "MUNI",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/22652.png"
   },
   {
     "chainId": 1,
@@ -70295,6 +70311,14 @@
   },
   {
     "chainId": 1,
+    "name": "DRIP",
+    "address": "0xb8a914a00664e9361eae187468eff94905dfbc15",
+    "decimals": 9,
+    "symbol": "DRIP",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/32467.png"
+  },
+  {
+    "chainId": 1,
     "address": "0xb8b295df2cd735b15be5eb419517aa626fc43cd5",
     "name": "Staked LINK",
     "symbol": "STLINK",
@@ -71972,14 +71996,6 @@
     "decimals": 18,
     "symbol": "TKNT",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7238.png"
-  },
-  {
-    "chainId": 1,
-    "name": "Metal DAO",
-    "address": "0xbcfc435d8f276585f6431fc1b9ee9a850b5c00a9",
-    "decimals": 18,
-    "symbol": "MTL",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/1788.png"
   },
   {
     "chainId": 1,
@@ -79263,6 +79279,14 @@
     "decimals": 18,
     "symbol": "EGG",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/14724.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Dogecoin 2.0",
+    "address": "0xd09e2a8382a4a406d3ee83edff38900298eb416e",
+    "decimals": 9,
+    "symbol": "DOGE2",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/32475.png"
   },
   {
     "chainId": 1,
@@ -90649,14 +90673,6 @@
   },
   {
     "chainId": 1,
-    "address": "0xf024e6387392a3c3a03ebd0b9d6b747ff5359417",
-    "name": "Ordi Launch",
-    "symbol": "ORLA",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/34889/thumb/Ordinal_Launch.png?1706540288"
-  },
-  {
-    "chainId": 1,
     "name": "Camel Coin",
     "address": "0xf026d795a7f28e0197bf9ae6fbe8c8f8a25277bc",
     "decimals": 18,
@@ -95829,14 +95845,6 @@
     "decimals": 18,
     "symbol": "MOSES",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/27874.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xfe38fd8d710b0ad367f60cb9fc4de5e7ba95633b",
-    "name": "Lena",
-    "symbol": "LENA",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/34900/thumb/lena.jpeg?1706583908"
   },
   {
     "chainId": 1,
