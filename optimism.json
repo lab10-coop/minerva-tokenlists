@@ -793,6 +793,7 @@
     "logoURI": "https://ethereum-optimism.github.io/data/KROM/logo.png",
     "extensions": {
       "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1",
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
       "opListId": "extended",
       "opTokenId": "KROM"
     }
@@ -3407,6 +3408,19 @@
       "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
       "opListId": "extended",
       "opTokenId": "CRYO"
+    }
+  },
+  {
+    "chainId": 1,
+    "address": "0xf55a93b613d172b86c2ba3981a849dae2aecde2f",
+    "name": "YFX",
+    "symbol": "YFX",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/YFX/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "opListId": "extended",
+      "opTokenId": "YFX"
     }
   },
   {
@@ -6765,6 +6779,19 @@
   },
   {
     "chainId": 8453,
+    "address": "0x6f74baf5a0f209609e5826acbebc90d394830cf7",
+    "name": "YFX Token",
+    "symbol": "YFX",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/YFX/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "YFX"
+    }
+  },
+  {
+    "chainId": 8453,
     "address": "0x7002458b1df59eccb57387bc79ffc7c29e22e6f7",
     "name": "OriginToken",
     "symbol": "OGN",
@@ -7676,6 +7703,19 @@
       "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "extended",
       "opTokenId": "wHOGE"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0xdff3c626de2ccd1ecf67e97abc8a74c102c86545",
+    "name": "Kromatika",
+    "symbol": "KROM",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/KROM/logo.png",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "KROM"
     }
   },
   {
