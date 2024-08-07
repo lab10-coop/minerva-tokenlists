@@ -133,7 +133,7 @@
     "name": "AUSD",
     "symbol": "AUSD",
     "decimals": 6,
-    "logoURI": "https://assets.coingecko.com/coins/images/39284/thumb/Agora_Olive.png?1721453639"
+    "logoURI": "https://assets.coingecko.com/coins/images/39284/thumb/Circle_Agora_White_on_Olive_1080px.png?1722961274"
   },
   {
     "chainId": 1,
@@ -5686,6 +5686,14 @@
     "decimals": 18,
     "symbol": "MTK",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/31302.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Ultiverse",
+    "address": "0x0e7779e698052f8fe56c415c3818fcf89de9ac6d",
+    "decimals": 18,
+    "symbol": "ULTI",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/31504.png"
   },
   {
     "chainId": 1,
@@ -13121,6 +13129,14 @@
     "decimals": 18,
     "symbol": "DRGNBEAR",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/6098.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x2242328a9e9a2dea3b9ef5952b9614f45c7585d6",
+    "name": "Diamond castle",
+    "symbol": "DMCK",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/39573/thumb/DMCk_%EB%A1%9C%EA%B3%A0%28%EB%A9%94%EC%9D%B8_%EC%BD%94%EC%9D%B8%29_%EB%8C%80%EC%A7%80_1_%EC%82%AC%EB%B3%B8_7.png?1722958221"
   },
   {
     "chainId": 1,
@@ -46283,7 +46299,7 @@
   },
   {
     "chainId": 1,
-    "name": "KAMALA HARRIS",
+    "name": "KAMALA HARRIS TOKEN",
     "address": "0x7753cfe88bb3d8dbe2ce0b2c37f098b0eae50139",
     "decimals": 9,
     "symbol": "HARRIS",
@@ -48539,11 +48555,11 @@
   },
   {
     "chainId": 1,
-    "name": "Worldcore Coin",
     "address": "0x7d7513bba1af295574c24bbe425873d0c431ff9f",
-    "decimals": 18,
+    "name": "Worldcore coin",
     "symbol": "WCC",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/22237.png"
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/35511/thumb/1000956327.png?1709637554"
   },
   {
     "chainId": 1,
@@ -90109,7 +90125,7 @@
     "chainId": 1,
     "name": "Neiro Ethereum",
     "address": "0xee2a03aa6dacf51c18679c516ad5283d8e7c2637",
-    "decimals": 9,
+    "decimals": 18,
     "symbol": "NEIRO",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/32461.png"
   },
@@ -91891,11 +91907,11 @@
   },
   {
     "chainId": 1,
-    "address": "0xf2c5780e2dda407781c0c5eccc9320d5988ea0a6",
     "name": "Decentra Ecosystem",
-    "symbol": "DCE",
+    "address": "0xf2c5780e2dda407781c0c5eccc9320d5988ea0a6",
     "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/35499/thumb/dce_logo.png?1722188122"
+    "symbol": "DCE",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/32579.png"
   },
   {
     "chainId": 1,
@@ -95714,6 +95730,14 @@
   },
   {
     "chainId": 1,
+    "address": "0xfd418e42783382e86ae91e445406600ba144d162",
+    "name": "Zircuit",
+    "symbol": "ZRC",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/35960/thumb/zircuit.png?1711719103"
+  },
+  {
+    "chainId": 1,
     "name": "CoinPark Token",
     "address": "0xfd45e61e085b3e7a1990a47828d757755b206eee",
     "decimals": 18,
@@ -96145,11 +96169,11 @@
   },
   {
     "chainId": 1,
+    "name": "Wiener AI",
     "address": "0xfe8526a77a2c3590e5973ba81308b90bea21fbff",
-    "name": "WienerAI",
-    "symbol": "WAI",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/37786/thumb/wiener.jpg?1722843644"
+    "symbol": "WAI",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/32578.png"
   },
   {
     "chainId": 1,
@@ -104497,6 +104521,14 @@
     "logoURI": "https://tokens.pancakeswap.finance/images/0xF5d8A096CcCb31b9D7bcE5afE812BE23e3D4690d.png"
   },
   {
+    "name": "Lorenzo stBTC",
+    "symbol": "stBTC",
+    "address": "0xf6718b2701d4a6498ef77d7c152b2137ab28b8a3",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0xf6718b2701D4a6498eF77D7c152b2137Ab28b8A3.png"
+  },
+  {
     "name": "Galactic Quadrant",
     "symbol": "GQ",
     "address": "0xf700d4c708c2be1463e355f337603183d20e0808",
@@ -108325,6 +108357,7 @@
     "extensions": {
       "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
       "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1",
+      "redstoneBridgeAddress": "0xc473ca7E02af24c129c2eEf51F2aDf0411c1Df69",
       "opListId": "extended",
       "opTokenId": "BridgedUSDC"
     }
@@ -111655,6 +111688,19 @@
       "pgnBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "default",
       "opTokenId": "DAI"
+    }
+  },
+  {
+    "chainId": 690,
+    "address": "0xd5d59fc063e7548b6015a36feb10b875924a19be",
+    "name": "Bridged USDC (Lattice)",
+    "symbol": "USDC.e",
+    "decimals": 6,
+    "logoURI": "https://ethereum-optimism.github.io/data/BridgedUSDC/logo.png",
+    "extensions": {
+      "redstoneBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "BridgedUSDC"
     }
   },
   {
