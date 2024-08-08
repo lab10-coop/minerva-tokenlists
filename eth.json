@@ -369,6 +369,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x004e9c3ef86bc1ca1f0bb5c7662861ee93350568",
+    "name": "Universal BTC",
+    "symbol": "UNIBTC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/39599/thumb/uniBTC_200px.png?1723064455"
+  },
+  {
+    "chainId": 1,
     "address": "0x0058c8581b9fed6864faa654505bc89890cdb2dd",
     "name": "BabySmurf9000",
     "symbol": "BS9000",
@@ -9217,14 +9225,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x17be403329ced6df4fdb8278f039bc6ffd3d537f",
-    "name": "EMMI GG",
-    "symbol": "EMMI",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/33286/thumb/EMMI.jpg?1701391439"
-  },
-  {
-    "chainId": 1,
     "name": "Rokkor Project",
     "address": "0x17bf26a81e8b86ad7553089447405b787e9ad28e",
     "decimals": 18,
@@ -16532,14 +16532,6 @@
   },
   {
     "chainId": 1,
-    "name": "HARRIS",
-    "address": "0x2b640a99991dea2916205ecdc9f9c58f80017ed8",
-    "decimals": 9,
-    "symbol": "KAMALA",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/32382.png"
-  },
-  {
-    "chainId": 1,
     "name": "Meta Miner",
     "address": "0x2b645a57e82123796c3ea7d78de27c3e3ff7f016",
     "decimals": 18,
@@ -16721,6 +16713,14 @@
     "decimals": 18,
     "symbol": "ADB",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2501.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x2bb0c32101456f5960d4e994bac183fe0dc6c82c",
+    "name": "Leveraged frxETH",
+    "symbol": "XFRXETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/39602/thumb/xfrxETH.png?1723065434"
   },
   {
     "chainId": 1,
@@ -17604,6 +17604,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x2e3cfe45e3ee7c017277f22e35d2f29edc99d570",
+    "name": "Wrapped DAG",
+    "symbol": "WDAG",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/39576/thumb/Constellation_Network_Logo.png?1723003801"
+  },
+  {
+    "chainId": 1,
     "address": "0x2e4e1093b4e80e3cc73c92264715ca984bad7e55",
     "name": "ZionWallet",
     "symbol": "ZION",
@@ -17617,6 +17625,14 @@
     "decimals": 18,
     "symbol": "EGGS",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/23492.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x2e5a5af7ee900d34bcfb70c47023bf1d6be35cf5",
+    "name": "Leveraged ezETH",
+    "symbol": "XEZETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/39605/thumb/Screenshot_2024-08-07_at_8.15.59_PM-removebg-preview.png?1723065481"
   },
   {
     "chainId": 1,
@@ -22300,11 +22316,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x393bf304dd474f48210f5ce741f19a2a851703ca",
     "name": "Game 5 BALL",
-    "symbol": "BALL",
+    "address": "0x393bf304dd474f48210f5ce741f19a2a851703ca",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/39536/thumb/ball_box-200x200.png?1722841351"
+    "symbol": "BALL",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/32586.png"
   },
   {
     "chainId": 1,
@@ -34564,6 +34580,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x5a097b014c547718e79030a077a91ae37679eff5",
+    "name": "Leveraged stETH",
+    "symbol": "XSTETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/39601/thumb/Screenshot_2024-08-07_at_7.23.59%E2%80%AFPM.png?1723065407"
+  },
+  {
+    "chainId": 1,
     "name": "PWAY",
     "address": "0x5a14fe6923e767a8238f29d3e1fb1a913975f0d7",
     "decimals": 18,
@@ -46299,14 +46323,6 @@
   },
   {
     "chainId": 1,
-    "name": "KAMALA HARRIS TOKEN",
-    "address": "0x7753cfe88bb3d8dbe2ce0b2c37f098b0eae50139",
-    "decimals": 9,
-    "symbol": "HARRIS",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/32550.png"
-  },
-  {
-    "chainId": 1,
     "name": "SnailMoon",
     "address": "0x77571a64342667f7818520ef004b2b91f47a266b",
     "decimals": 18,
@@ -56355,6 +56371,14 @@
   },
   {
     "chainId": 1,
+    "name": "PINs Network Token",
+    "address": "0x92aca969b77bd899c05ca0e1dc050cd003457d60",
+    "decimals": 18,
+    "symbol": "PINS",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/32588.png"
+  },
+  {
+    "chainId": 1,
     "name": "Aurei",
     "address": "0x92afba413bf9e5da3919a522e371884beac76309",
     "decimals": 8,
@@ -61146,6 +61170,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x9f23562ec47249761222ef7ac02b327a8c45ba7d",
+    "name": "Leverage WBTC",
+    "symbol": "XWBTC",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/39603/thumb/Screenshot_2024-08-07_at_7.58.00_PM-removebg-preview.png?1723065441"
+  },
+  {
+    "chainId": 1,
     "name": "Darwinia Commitment Token",
     "address": "0x9f284e1337a815fe77d2ff4ae46544645b20c5ff",
     "decimals": 18,
@@ -63175,6 +63207,14 @@
     "symbol": "EUSD",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/32422/thumb/ARYZE_eUSD.png?1698118313"
+  },
+  {
+    "chainId": 1,
+    "address": "0xa43a7c62d56df036c187e1966c03e2799d8987ed",
+    "name": "TruFin Staked MATIC",
+    "symbol": "TRUMATIC",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/32416/thumb/TruMATIC_logo_250px_%281%29.png?1698114190"
   },
   {
     "chainId": 1,
@@ -66266,6 +66306,14 @@
   },
   {
     "chainId": 1,
+    "address": "0xacb3604aadf26e6c0bb8c720420380629a328d2c",
+    "name": "Leveraged eETH",
+    "symbol": "XEETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/39604/thumb/Screenshot_2024-08-07_at_8.08.08_PM-removebg-preview.png?1723065454"
+  },
+  {
+    "chainId": 1,
     "name": "Swipe Bot",
     "address": "0xacb47686b92fdde6d233ec6445c1f8d4d0d59c38",
     "decimals": 8,
@@ -68530,14 +68578,6 @@
   },
   {
     "chainId": 1,
-    "address": "0xb2fd1e0478dbf61772996bcce8a2f1151eeeda37",
-    "name": "Wrapped Pepe",
-    "symbol": "WPEPE",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/30961/thumb/200.png?1706775966"
-  },
-  {
-    "chainId": 1,
     "name": "yUSD Synthetic Token Expiring 1 October ",
     "address": "0xb2fdd60ad80ca7ba89b9bab3b5336c2601c020b4",
     "decimals": 18,
@@ -70614,6 +70654,14 @@
     "decimals": 18,
     "symbol": "AUDT",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/19058.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xb90d347e10a085b591955cbd0603ac7866fcadc8",
+    "name": "Leveraged CVX",
+    "symbol": "XCVX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/39606/thumb/Screenshot_2024-08-07_at_8.31.16_PM-removebg-preview.png?1723065695"
   },
   {
     "chainId": 1,
@@ -89696,6 +89744,14 @@
     "decimals": 18,
     "symbol": "HEX2T",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/5723.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xed11c9bcf69fdd2eefd9fe751bfca32f171d53ae",
+    "name": "Koinos",
+    "symbol": "KOIN",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/13116/thumb/koinos-mark-circle-250px.png?1696512903"
   },
   {
     "chainId": 1,
