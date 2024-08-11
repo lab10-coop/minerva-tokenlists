@@ -6345,11 +6345,27 @@
   },
   {
     "chainId": 1,
+    "address": "0x1001271083c249bd771e1bb76c22d935809a61ee",
+    "name": "Fuku Kun",
+    "symbol": "FUKU",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/39632/thumb/fukuwhite.jpg?1723250967"
+  },
+  {
+    "chainId": 1,
     "name": "The Midas Touch Gold",
     "address": "0x10086399dd8c1e3de736724af52587a2044c9fa2",
     "decimals": 18,
     "symbol": "TMTG",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3356.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x100891bf73ba8274c234aa34621bc626ed6eca8e",
+    "name": "HACHI KUN",
+    "symbol": "HACHI",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/39634/thumb/Screenshot_2024-08-08_211348.png?1723266946"
   },
   {
     "chainId": 1,
@@ -38004,14 +38020,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x6293bbe52c3682057163172850002f18f993da6a",
-    "name": "TruthGPT  ETH ",
-    "symbol": "TRUTH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/30993/thumb/LOGO_200.png?1696529831"
-  },
-  {
-    "chainId": 1,
     "name": "DeFine",
     "address": "0x62959c699a52ec647622c91e79ce73344e4099f5",
     "decimals": 18,
@@ -56547,6 +56555,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x9305d3d847e4cf950d43c99094a93314833cf3a9",
+    "name": "Sweepr",
+    "symbol": "SWEEPR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/39641/thumb/2024-08-09_14.28.39.jpg?1723279785"
+  },
+  {
+    "chainId": 1,
     "name": "Colletrix",
     "address": "0x93065b5c7eb63333b8e57a73012d25f687895785",
     "decimals": 18,
@@ -74669,6 +74685,14 @@
   },
   {
     "chainId": 1,
+    "address": "0xc2eb40516ecaac04ae9964934983d1e9ebdf51fd",
+    "name": "99 Bitcoins",
+    "symbol": "99BTC",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/39633/thumb/99BTC_Logo_%282%29.png?1723266382"
+  },
+  {
+    "chainId": 1,
     "name": "Electric Arena",
     "address": "0xc30590a879c7dd78bcd9a18e48de446a3c7c98b8",
     "decimals": 18,
@@ -77985,14 +78009,6 @@
     "decimals": 18,
     "symbol": "SPACE",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/11026.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xcc802c45b55581713cecd1eb17be9ab7fccb0844",
-    "name": "SBU Honey",
-    "symbol": "BHNY",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/26079/thumb/honey.png?1696525163"
   },
   {
     "chainId": 1,
@@ -82025,6 +82041,14 @@
     "symbol": "BRETTEI",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/38596/thumb/IMAGE_2024-06-08_22_47_06.jpg?1718094678"
+  },
+  {
+    "chainId": 1,
+    "name": "Trump Fight",
+    "address": "0xd7512b3e3c7b1432d0adb4310b5488c3f9397e16",
+    "decimals": 9,
+    "symbol": "FIGHT",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/32619.png"
   },
   {
     "chainId": 1,
@@ -96473,6 +96497,14 @@
   },
   {
     "chainId": 1,
+    "address": "0xfefe157c9d0ae025213092ff9a5cb56ab492bab8",
+    "name": "Fefe",
+    "symbol": "FEFE",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/39637/thumb/Fefe.jpg?1723268787"
+  },
+  {
+    "chainId": 1,
     "address": "0xfeff7b68bc540826da22b296c82a4b8b6b845f41",
     "name": "United Emirates Of Fun",
     "symbol": "UEFN",
@@ -105500,6 +105532,14 @@
     "symbol": "OPEN"
   },
   {
+    "address": "0x5979d7b546e38e414f7e9822514be443a4800529",
+    "chainId": 42161,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x5979D7b546E38E414F7E9822514be443A4800529.jpg",
+    "name": "Wrapped liquid staked Ether 2.0",
+    "symbol": "wstETH"
+  },
+  {
     "address": "0x5c816d4582c857dcadb1bb1f62ad6c9dede4576a",
     "chainId": 42161,
     "decimals": 18,
@@ -105570,6 +105610,14 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/arbitrum/assets/0x6C2C06790b3E3E3c38e12Ee22F8183b37a13EE55/logo.png",
     "name": "Dopex Governance Token",
     "symbol": "DPX"
+  },
+  {
+    "address": "0x6c84a8f1c29108f47a79964b5fe888d4f4d0de40",
+    "chainId": 42161,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x6c84a8f1c29108F47a79964b5Fe888D4f4D0dE40.jpg",
+    "name": "Arbitrum tBTC v2",
+    "symbol": "tBTC"
   },
   {
     "address": "0x73700aecfc4621e112304b6edc5ba9e36d7743d3",
