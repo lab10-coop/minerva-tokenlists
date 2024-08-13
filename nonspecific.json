@@ -24,7 +24,8 @@
     "decimals": 18,
     "logoURI": "https://monerium.app/tokens/eur/eur.png",
     "tags": [
-      "eur"
+      "eur",
+      "https://github.com/monerium/smart-contracts/tree/v1.2.2"
     ]
   },
   {
@@ -108,7 +109,8 @@
     "decimals": 18,
     "logoURI": "https://monerium.app/tokens/gbp/gbp.png",
     "tags": [
-      "gbp"
+      "gbp",
+      "https://github.com/monerium/smart-contracts/tree/v1.0.3"
     ]
   },
   {
@@ -158,7 +160,8 @@
     "decimals": 18,
     "logoURI": "https://monerium.app/tokens/usd/usd.png",
     "tags": [
-      "usd"
+      "usd",
+      "https://github.com/monerium/smart-contracts/tree/v1.0.2"
     ]
   },
   {
@@ -196,7 +199,8 @@
     "decimals": 18,
     "logoURI": "https://monerium.app/tokens/isk/isk.png",
     "tags": [
-      "isk"
+      "isk",
+      "https://github.com/monerium/smart-contracts/tree/v1.0.2"
     ]
   },
   {
@@ -526,7 +530,8 @@
     "decimals": 18,
     "logoURI": "https://monerium.app/tokens/usd/usd.png",
     "tags": [
-      "usd"
+      "usd",
+      "https://github.com/monerium/smart-contracts/tree/v1.0.2"
     ]
   },
   {
@@ -607,7 +612,8 @@
     "decimals": 18,
     "logoURI": "https://monerium.app/tokens/gbp/gbp.png",
     "tags": [
-      "gbp"
+      "gbp",
+      "https://github.com/monerium/smart-contracts/tree/v1.1.0"
     ]
   },
   {
@@ -894,7 +900,8 @@
     "decimals": 18,
     "logoURI": "https://monerium.app/tokens/eur/eur.png",
     "tags": [
-      "eur"
+      "eur",
+      "https://github.com/monerium/smart-contracts/tree/v1.2.2"
     ]
   },
   {
@@ -916,7 +923,8 @@
     "decimals": 18,
     "logoURI": "https://monerium.app/tokens/isk/isk.png",
     "tags": [
-      "isk"
+      "isk",
+      "https://github.com/monerium/smart-contracts/tree/v1.0.2"
     ]
   },
   {
@@ -1890,7 +1898,8 @@
     "decimals": 18,
     "logoURI": "https://monerium.app/tokens/usd/usd.png",
     "tags": [
-      "usd"
+      "usd",
+      "https://github.com/monerium/smart-contracts/tree/v1.0.2"
     ]
   },
   {
@@ -2001,7 +2010,8 @@
     "decimals": 18,
     "logoURI": "https://monerium.app/tokens/gbp/gbp.png",
     "tags": [
-      "gbp"
+      "gbp",
+      "https://github.com/monerium/smart-contracts/tree/v1.0.3"
     ]
   },
   {
@@ -3140,7 +3150,8 @@
     "decimals": 18,
     "logoURI": "https://monerium.app/tokens/isk/isk.png",
     "tags": [
-      "isk"
+      "isk",
+      "https://github.com/monerium/smart-contracts/tree/v1.0.2"
     ]
   },
   {
@@ -3707,50 +3718,6 @@
     ]
   },
   {
-    "name": "GBP / British pound sterling",
-    "chainId": 10200,
-    "address": "0x436af2954bb436b6821ab401112092e14cdbd546",
-    "symbol": "GBPe",
-    "decimals": 18,
-    "logoURI": "https://monerium.app/tokens/gbp/gbp.png",
-    "tags": [
-      "gbp"
-    ]
-  },
-  {
-    "name": "EUR / Euro",
-    "chainId": 10200,
-    "address": "0x7a47605930002cc2cd2c3c408d1f33fc2a18ab71",
-    "symbol": "EURe",
-    "decimals": 18,
-    "logoURI": "https://monerium.app/tokens/eur/eur.png",
-    "tags": [
-      "eur"
-    ]
-  },
-  {
-    "name": "ISK / Icelandic Krona",
-    "chainId": 10200,
-    "address": "0x7e8e03b84eacb1798493145cc4ab9b562563456c",
-    "symbol": "ISKe",
-    "decimals": 18,
-    "logoURI": "https://monerium.app/tokens/isk/isk.png",
-    "tags": [
-      "isk"
-    ]
-  },
-  {
-    "name": "USD / US Dollar",
-    "chainId": 10200,
-    "address": "0x8bf987c9d041176758fe9c1180885bd4da011a5a",
-    "symbol": "USDe",
-    "decimals": 18,
-    "logoURI": "https://monerium.app/tokens/usd/usd.png",
-    "tags": [
-      "usd"
-    ]
-  },
-  {
     "address": "0x1dbc1809486460dcd189b8a15990bca3272ee04e",
     "name": "Super USD Coin (Arb1)",
     "symbol": "USDC.ex",
@@ -4311,50 +4278,6 @@
     ]
   },
   {
-    "name": "GBP / British pound sterling",
-    "chainId": 80002,
-    "address": "0x2f97087880bd01da04ad626e21c8a427af8d1902",
-    "symbol": "GBPe",
-    "decimals": 18,
-    "logoURI": "https://monerium.app/tokens/gbp/gbp.png",
-    "tags": [
-      "gbp"
-    ]
-  },
-  {
-    "name": "USD / US Dollar",
-    "chainId": 80002,
-    "address": "0x891c6a585a4378ebe861f77043463c27073be5fb",
-    "symbol": "USDe",
-    "decimals": 18,
-    "logoURI": "https://monerium.app/tokens/usd/usd.png",
-    "tags": [
-      "usd"
-    ]
-  },
-  {
-    "name": "ISK / Icelandic Krona",
-    "chainId": 80002,
-    "address": "0xd8875de44acd5039b43eab9f78059b7317580b13",
-    "symbol": "ISKe",
-    "decimals": 18,
-    "logoURI": "https://monerium.app/tokens/isk/isk.png",
-    "tags": [
-      "isk"
-    ]
-  },
-  {
-    "name": "EUR / Euro",
-    "chainId": 80002,
-    "address": "0xed5d0b6c5beffdd607639094397c223536b0bae7",
-    "symbol": "EURe",
-    "decimals": 18,
-    "logoURI": "https://monerium.app/tokens/eur/eur.png",
-    "tags": [
-      "eur"
-    ]
-  },
-  {
     "address": "0x483c1716b6133cda01237ebbf19c5a92898204b7",
     "name": "Super ETH",
     "symbol": "ETHx",
@@ -4368,50 +4291,6 @@
     "logoURI": "https://raw.githubusercontent.com/superfluid-finance/assets/master/public/tokens/eth/icon.svg",
     "tags": [
       "supertoken"
-    ]
-  },
-  {
-    "name": "ISK / Icelandic Krona",
-    "chainId": 11155111,
-    "address": "0x429d7bae4436394150fdfbbfb01abc9270b6f2b8",
-    "symbol": "ISKe",
-    "decimals": 18,
-    "logoURI": "https://monerium.app/tokens/isk/isk.png",
-    "tags": [
-      "isk"
-    ]
-  },
-  {
-    "name": "GBP / British pound sterling",
-    "chainId": 11155111,
-    "address": "0x539fa90d0a29eb2a513f6b88fed30b529df071ca",
-    "symbol": "GBPe",
-    "decimals": 18,
-    "logoURI": "https://monerium.app/tokens/gbp/gbp.png",
-    "tags": [
-      "gbp"
-    ]
-  },
-  {
-    "name": "EUR / Euro",
-    "chainId": 11155111,
-    "address": "0x67b34b93ac295c985e856e5b8a20d83026b580eb",
-    "symbol": "EURe",
-    "decimals": 18,
-    "logoURI": "https://monerium.app/tokens/eur/eur.png",
-    "tags": [
-      "eur"
-    ]
-  },
-  {
-    "name": "USD / US Dollar",
-    "chainId": 11155111,
-    "address": "0xec262c76ff70330bba90e2c477b185d6665c4aa2",
-    "symbol": "USDe",
-    "decimals": 18,
-    "logoURI": "https://monerium.app/tokens/usd/usd.png",
-    "tags": [
-      "usd"
     ]
   },
   {
