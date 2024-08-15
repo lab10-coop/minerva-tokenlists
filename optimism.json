@@ -2940,6 +2940,19 @@
   },
   {
     "chainId": 1,
+    "address": "0xcf7801cef3e91a7e366cf77ed3d0b6439bb34766",
+    "name": "U-Coin",
+    "symbol": "U",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/U/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "opListId": "extended",
+      "opTokenId": "U"
+    }
+  },
+  {
+    "chainId": 1,
     "address": "0xd0cd466b34a24fcb2f87676278af2005ca8a78c4",
     "name": "Popcorn",
     "symbol": "POP",
@@ -5633,6 +5646,19 @@
       "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "extended",
       "opTokenId": "SOFT"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0x06de990abc8e6dc2e1a9ee10e402b3afcef5cdb0",
+    "name": "U-Coin",
+    "symbol": "U",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/U/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "U"
     }
   },
   {

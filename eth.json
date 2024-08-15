@@ -9345,6 +9345,14 @@
   },
   {
     "chainId": 1,
+    "name": "KABOSU",
+    "address": "0x180000dda70eb7fb7f3e10e52e88ce88f46e3b3a",
+    "decimals": 9,
+    "symbol": "KABOSU",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/32650.png"
+  },
+  {
+    "chainId": 1,
     "name": "tBTC",
     "address": "0x18084fba666a33d37592fa2633fd49a74dd93a88",
     "decimals": 18,
@@ -15556,11 +15564,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x283344eea472f0fe04d6f722595a2fffefe1901a",
     "name": "Code Token",
-    "symbol": "CODE",
+    "address": "0x283344eea472f0fe04d6f722595a2fffefe1901a",
     "decimals": 13,
-    "logoURI": "https://assets.coingecko.com/coins/images/39512/thumb/logopng.png?1722659773"
+    "symbol": "$CODE",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/32679.png"
   },
   {
     "chainId": 1,
@@ -22364,6 +22372,14 @@
   },
   {
     "chainId": 1,
+    "name": "GUA",
+    "address": "0x393f1d49425d94f47b26e591a9d111df5cd61065",
+    "decimals": 18,
+    "symbol": "GUA",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/32682.png"
+  },
+  {
+    "chainId": 1,
     "name": "RAKSUR",
     "address": "0x393fac0773c765c80dc887451377d553c46f83b1",
     "decimals": 18,
@@ -23220,7 +23236,7 @@
   },
   {
     "chainId": 1,
-    "name": "Gora",
+    "name": "Gora Network",
     "address": "0x3b9b5ad79cbb7649143decd5afc749a75f8e6c7f",
     "decimals": 18,
     "symbol": "GORA",
@@ -48541,7 +48557,7 @@
     "chainId": 1,
     "name": "Stonks",
     "address": "0x7d4a23832fad83258b32ce4fd3109ceef4332af4",
-    "decimals": 9,
+    "decimals": 18,
     "symbol": "STONKS",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/31802.png"
   },
@@ -54664,6 +54680,14 @@
     "decimals": 18,
     "symbol": "ETHPAD",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/10747.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x8db2350d78abc13f5673a411d4700bcf87864dde",
+    "name": "Swell Restaked BTC",
+    "symbol": "SWBTC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/39682/thumb/swBTC200x200.png?1723652322"
   },
   {
     "chainId": 1,
@@ -63303,6 +63327,14 @@
     "symbol": "EUSD",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/32422/thumb/ARYZE_eUSD.png?1698118313"
+  },
+  {
+    "chainId": 1,
+    "address": "0xa43a7c62d56df036c187e1966c03e2799d8987ed",
+    "name": "TruFin Staked MATIC",
+    "symbol": "TRUMATIC",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/32416/thumb/TruMATIC_logo_250px_%281%29.png?1698114190"
   },
   {
     "chainId": 1,
@@ -75253,6 +75285,14 @@
   },
   {
     "chainId": 1,
+    "name": "CORGI",
+    "address": "0xc48cf59c059239e032470948f96535818f8fb675",
+    "decimals": 9,
+    "symbol": "CORGI",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/32683.png"
+  },
+  {
+    "chainId": 1,
     "name": "FLOKEI",
     "address": "0xc493f874d79265f983c935f3ba2ac4cd84dcf3aa",
     "decimals": 8,
@@ -79353,6 +79393,14 @@
     "decimals": 9,
     "symbol": "DIAMOND",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/31133.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Hemera",
+    "address": "0xd0054b65b683dbdd324b51f5f1f16aadeb99a74b",
+    "decimals": 18,
+    "symbol": "HEM",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/32662.png"
   },
   {
     "chainId": 1,
@@ -85924,6 +85972,14 @@
   },
   {
     "chainId": 1,
+    "address": "0xe1b4d34e8754600962cd944b535180bd758e6c2e",
+    "name": "Kelp Gain",
+    "symbol": "AGETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/39677/thumb/Icon___Dark.png?1723610897"
+  },
+  {
+    "chainId": 1,
     "name": "Mercurity Swap Protocol",
     "address": "0xe1b583dc66e0a24fd9af2dc665f6f5e48978e106",
     "decimals": 18,
@@ -90243,6 +90299,14 @@
   },
   {
     "chainId": 1,
+    "name": "Batonex Token",
+    "address": "0xedd8d60bd6d5bc69b97995c071c721c4d2ded737",
+    "decimals": 18,
+    "symbol": "BTX",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/32676.png"
+  },
+  {
+    "chainId": 1,
     "name": "Mars Network",
     "address": "0xedd8da5c20eb014e550008df3304213dde5e29f0",
     "decimals": 8,
@@ -92024,14 +92088,6 @@
     "decimals": 18,
     "symbol": "CITY",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7754.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xf282484234d905d7229a6c22a0e46bb4b0363ee0",
-    "name": "Revswap",
-    "symbol": "RVS",
-    "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/33437/thumb/20231205_174957.png?1701847754"
   },
   {
     "chainId": 1,
