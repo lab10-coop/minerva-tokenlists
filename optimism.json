@@ -3255,6 +3255,19 @@
   },
   {
     "chainId": 1,
+    "address": "0xe485e2f1bab389c08721b291f6b59780fec83fd7",
+    "name": "Shutter Token",
+    "symbol": "SHU",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/SHU/logo.png",
+    "extensions": {
+      "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1",
+      "opListId": "extended",
+      "opTokenId": "SHU"
+    }
+  },
+  {
+    "chainId": 1,
     "address": "0xe632ea2ef2cfd8fc4a2731c76f99078aef6a4b31",
     "name": "THX Network",
     "symbol": "THX",
@@ -4852,6 +4865,19 @@
       "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "extended",
       "opTokenId": "SDL"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0xaf1d71bf947709315655514467d5158e5d3046d5",
+    "name": "Shutter Token",
+    "symbol": "SHU",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/SHU/logo.png",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "SHU"
     }
   },
   {
