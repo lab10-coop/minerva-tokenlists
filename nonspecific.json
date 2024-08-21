@@ -1919,6 +1919,18 @@
     ]
   },
   {
+    "name": "GBP / British pound sterling",
+    "chainId": 137,
+    "address": "0x646beea7a02fdada34c8e118949fe32350ab2206",
+    "symbol": "GBPe",
+    "decimals": 18,
+    "logoURI": "https://monerium.app/tokens/gbp/gbp.png",
+    "tags": [
+      "gbp",
+      "https://github.com/monerium/smart-contracts/tree/v2.0.0"
+    ]
+  },
+  {
     "name": "USD / US Dollar",
     "chainId": 137,
     "address": "0x64e97c1a6535afd4a313ef46f88a64a34250b719",
@@ -1927,7 +1939,8 @@
     "logoURI": "https://monerium.app/tokens/usd/usd.png",
     "tags": [
       "usd",
-      "https://github.com/monerium/smart-contracts/tree/v1.0.2"
+      "https://github.com/monerium/smart-contracts/tree/v1.0.2",
+      "legacy"
     ]
   },
   {
@@ -2039,7 +2052,8 @@
     "logoURI": "https://monerium.app/tokens/gbp/gbp.png",
     "tags": [
       "gbp",
-      "https://github.com/monerium/smart-contracts/tree/v1.0.3"
+      "https://github.com/monerium/smart-contracts/tree/v1.0.3",
+      "legacy"
     ]
   },
   {
@@ -2256,6 +2270,18 @@
     "logoURI": "https://raw.githubusercontent.com/superfluid-finance/assets/master/public/tokens/dai/icon.svg",
     "tags": [
       "underlying"
+    ]
+  },
+  {
+    "name": "USD / US Dollar",
+    "chainId": 137,
+    "address": "0x91e2b584908c2807efc9f846e0c2a1fe875c5141",
+    "symbol": "USDe",
+    "decimals": 18,
+    "logoURI": "https://monerium.app/tokens/usd/usd.png",
+    "tags": [
+      "usd",
+      "https://github.com/monerium/smart-contracts/tree/v2.0.0"
     ]
   },
   {
@@ -2816,6 +2842,18 @@
     ]
   },
   {
+    "name": "ISK / Icelandic Krona",
+    "chainId": 137,
+    "address": "0xd053fc09e8f05a43da4ecc40a750559c938c8131",
+    "symbol": "ISKe",
+    "decimals": 18,
+    "logoURI": "https://monerium.app/tokens/isk/isk.png",
+    "tags": [
+      "isk",
+      "https://github.com/monerium/smart-contracts/tree/v2.0.0"
+    ]
+  },
+  {
     "address": "0xd1d410db734d634414594898b39608b27f166aab",
     "name": "Sunny Jaycer Token",
     "symbol": "SUNNY",
@@ -2923,6 +2961,18 @@
     "logoURI": "https://raw.githubusercontent.com/superfluid-finance/assets/master/public/tokens/agold/icon.svg",
     "tags": [
       "underlying"
+    ]
+  },
+  {
+    "name": "EUR / Euro",
+    "chainId": 137,
+    "address": "0xe0aea583266584dafbb3f9c3211d5588c73fea8d",
+    "symbol": "EURe",
+    "decimals": 18,
+    "logoURI": "https://monerium.app/tokens/eur/eur.png",
+    "tags": [
+      "eur",
+      "https://github.com/monerium/smart-contracts/tree/v2.0.0"
     ]
   },
   {
@@ -3179,7 +3229,8 @@
     "logoURI": "https://monerium.app/tokens/isk/isk.png",
     "tags": [
       "isk",
-      "https://github.com/monerium/smart-contracts/tree/v1.0.2"
+      "https://github.com/monerium/smart-contracts/tree/v1.0.2",
+      "legacy"
     ]
   },
   {

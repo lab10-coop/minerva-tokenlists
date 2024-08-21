@@ -43996,11 +43996,11 @@
   },
   {
     "chainId": 1,
-    "name": "Fofar",
     "address": "0x716bb5e0839451068885250442a5b8377f582933",
-    "decimals": 9,
+    "name": "Fofar0x71",
     "symbol": "FOFAR",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/31568.png"
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/38392/thumb/20240601_012800.jpg?1717421870"
   },
   {
     "chainId": 1,
@@ -65899,6 +65899,14 @@
   },
   {
     "chainId": 1,
+    "address": "0xabd4c63d2616a5201454168269031355f4764337",
+    "name": "Orderly Network",
+    "symbol": "ORDER",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/38501/thumb/Orderly_Network_Coingecko_200*200.png?1717751359"
+  },
+  {
+    "chainId": 1,
     "name": "Squeeze Token",
     "address": "0xabd4dc8fde9848cbc4ff2c0ee81d4a49f4803da4",
     "decimals": 18,
@@ -68763,11 +68771,11 @@
   },
   {
     "chainId": 1,
-    "name": "MEVerse",
     "address": "0xb3cb8d5aeff0f4d1f432f353309f47b885e404e3",
-    "decimals": 18,
+    "name": "MEVerse",
     "symbol": "MEV",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/19063.png"
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/24566/thumb/0sp1DWVw_400x400.png?1696523742"
   },
   {
     "chainId": 1,
@@ -77725,14 +77733,6 @@
   },
   {
     "chainId": 1,
-    "address": "0xcc09f34accdb36ee3ed98358a3b8a6ae5c29ea07",
-    "name": "Anon Web3",
-    "symbol": "AW3",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/31814/thumb/IMG_2336.png?1696530628"
-  },
-  {
-    "chainId": 1,
     "name": "EURB",
     "address": "0xcc0a71ba8ba5a638fe30da6b7bf079acd09d6dc8",
     "decimals": 18,
@@ -78138,6 +78138,14 @@
     "decimals": 9,
     "symbol": "DYNEX",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/30129.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xcd7c6ed75151745c893dfc1dca1daa1d55034e67",
+    "name": "Dinari RIOT",
+    "symbol": "RIOTD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/39812/thumb/RIOT.d-200.png?1724166370"
   },
   {
     "chainId": 1,
@@ -86173,14 +86181,6 @@
   },
   {
     "chainId": 1,
-    "address": "0xe2f95ee8b72ffed59bc4d2f35b1d19b909a6e6b3",
-    "name": "EGGX",
-    "symbol": "EGGX",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/35372/thumb/Eggx_item_200x200.png?1708401789"
-  },
-  {
-    "chainId": 1,
     "name": "Hold On for Dear Life",
     "address": "0xe2f98dd7506807ef82d1988aa77c320bc52f8df4",
     "decimals": 9,
@@ -86685,7 +86685,7 @@
   },
   {
     "chainId": 1,
-    "name": "R-DEE Protocol",
+    "name": "R-DEE Protocol Token",
     "address": "0xe4cbd3ff926796e6e95e81f1268258418a0c5cda",
     "decimals": 18,
     "symbol": "RDGX",
@@ -90796,11 +90796,11 @@
   },
   {
     "chainId": 1,
-    "name": "Fofar",
     "address": "0xeff49b0f56a97c7fd3b51f0ecd2ce999a7861420",
-    "decimals": 9,
+    "name": "Fofar",
     "symbol": "FOFAR",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/30578.png"
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/36862/thumb/Fofar_Coin_Logo_Transparent.png?1718074746"
   },
   {
     "chainId": 1,
@@ -103303,6 +103303,14 @@
     "logoURI": "https://tokens.pancakeswap.finance/images/0x928e55daB735aa8260AF3cEDadA18B5f70C72f1b.png"
   },
   {
+    "name": "Kinza Babylon Staked BTC",
+    "symbol": "kBTC",
+    "address": "0x9356f6d95b8e109f4b7ce3e49d672967d3b48383",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x9356f6d95b8E109F4b7Ce3E49D672967d3B48383.png"
+  },
+  {
     "name": "CO",
     "symbol": "CO",
     "address": "0x936b6659ad0c1b244ba8efe639092acae30dc8d6",
@@ -109608,6 +109616,19 @@
   },
   {
     "chainId": 1,
+    "address": "0xf43f21384d03b5cbbddd58d2de64071e4ce76ab0",
+    "name": "GIGACHAD",
+    "symbol": "GIGACHAD",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/GIGACHAD/logo.png",
+    "extensions": {
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "opListId": "extended",
+      "opTokenId": "GIGACHAD"
+    }
+  },
+  {
+    "chainId": 1,
     "address": "0xf55a93b613d172b86c2ba3981a849dae2aecde2f",
     "name": "YFX",
     "symbol": "YFX",
@@ -112626,6 +112647,19 @@
       "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "extended",
       "opTokenId": "send"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0x4032758a0a5dadc52ea7206fba72ae3bbf2a44e1",
+    "name": "GigaChad",
+    "symbol": "GIGACHAD",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/GIGACHAD/logo.png",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "GIGACHAD"
     }
   },
   {
@@ -116554,6 +116588,14 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/avalanche/0x49D5c2BdFfac6CE2BFdB6640F4F80f226bc10bAB.jpg",
     "name": "Wrapped Ether",
     "symbol": "WETH"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x4afc7838167b77530278483c3d8c1ffe698a912e",
+    "decimals": 18,
+    "name": "Balln Chikn",
+    "symbol": "Balln",
+    "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0x4Afc7838167b77530278483c3d8c1fFe698a912E/logo_24.png"
   },
   {
     "chainId": 43114,
@@ -120674,6 +120716,18 @@
     ]
   },
   {
+    "name": "GBP / British pound sterling",
+    "chainId": 137,
+    "address": "0x646beea7a02fdada34c8e118949fe32350ab2206",
+    "symbol": "GBPe",
+    "decimals": 18,
+    "logoURI": "https://monerium.app/tokens/gbp/gbp.png",
+    "tags": [
+      "gbp",
+      "https://github.com/monerium/smart-contracts/tree/v2.0.0"
+    ]
+  },
+  {
     "name": "USD / US Dollar",
     "chainId": 137,
     "address": "0x64e97c1a6535afd4a313ef46f88a64a34250b719",
@@ -120682,7 +120736,8 @@
     "logoURI": "https://monerium.app/tokens/usd/usd.png",
     "tags": [
       "usd",
-      "https://github.com/monerium/smart-contracts/tree/v1.0.2"
+      "https://github.com/monerium/smart-contracts/tree/v1.0.2",
+      "legacy"
     ]
   },
   {
@@ -120794,7 +120849,8 @@
     "logoURI": "https://monerium.app/tokens/gbp/gbp.png",
     "tags": [
       "gbp",
-      "https://github.com/monerium/smart-contracts/tree/v1.0.3"
+      "https://github.com/monerium/smart-contracts/tree/v1.0.3",
+      "legacy"
     ]
   },
   {
@@ -121011,6 +121067,18 @@
     "logoURI": "https://raw.githubusercontent.com/superfluid-finance/assets/master/public/tokens/dai/icon.svg",
     "tags": [
       "underlying"
+    ]
+  },
+  {
+    "name": "USD / US Dollar",
+    "chainId": 137,
+    "address": "0x91e2b584908c2807efc9f846e0c2a1fe875c5141",
+    "symbol": "USDe",
+    "decimals": 18,
+    "logoURI": "https://monerium.app/tokens/usd/usd.png",
+    "tags": [
+      "usd",
+      "https://github.com/monerium/smart-contracts/tree/v2.0.0"
     ]
   },
   {
@@ -121571,6 +121639,18 @@
     ]
   },
   {
+    "name": "ISK / Icelandic Krona",
+    "chainId": 137,
+    "address": "0xd053fc09e8f05a43da4ecc40a750559c938c8131",
+    "symbol": "ISKe",
+    "decimals": 18,
+    "logoURI": "https://monerium.app/tokens/isk/isk.png",
+    "tags": [
+      "isk",
+      "https://github.com/monerium/smart-contracts/tree/v2.0.0"
+    ]
+  },
+  {
     "address": "0xd1d410db734d634414594898b39608b27f166aab",
     "name": "Sunny Jaycer Token",
     "symbol": "SUNNY",
@@ -121678,6 +121758,18 @@
     "logoURI": "https://raw.githubusercontent.com/superfluid-finance/assets/master/public/tokens/agold/icon.svg",
     "tags": [
       "underlying"
+    ]
+  },
+  {
+    "name": "EUR / Euro",
+    "chainId": 137,
+    "address": "0xe0aea583266584dafbb3f9c3211d5588c73fea8d",
+    "symbol": "EURe",
+    "decimals": 18,
+    "logoURI": "https://monerium.app/tokens/eur/eur.png",
+    "tags": [
+      "eur",
+      "https://github.com/monerium/smart-contracts/tree/v2.0.0"
     ]
   },
   {
@@ -121934,7 +122026,8 @@
     "logoURI": "https://monerium.app/tokens/isk/isk.png",
     "tags": [
       "isk",
-      "https://github.com/monerium/smart-contracts/tree/v1.0.2"
+      "https://github.com/monerium/smart-contracts/tree/v1.0.2",
+      "legacy"
     ]
   },
   {

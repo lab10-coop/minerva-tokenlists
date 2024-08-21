@@ -3439,6 +3439,19 @@
   },
   {
     "chainId": 1,
+    "address": "0xf43f21384d03b5cbbddd58d2de64071e4ce76ab0",
+    "name": "GIGACHAD",
+    "symbol": "GIGACHAD",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/GIGACHAD/logo.png",
+    "extensions": {
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "opListId": "extended",
+      "opTokenId": "GIGACHAD"
+    }
+  },
+  {
+    "chainId": 1,
     "address": "0xf55a93b613d172b86c2ba3981a849dae2aecde2f",
     "name": "YFX",
     "symbol": "YFX",
@@ -6457,6 +6470,19 @@
       "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "extended",
       "opTokenId": "send"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0x4032758a0a5dadc52ea7206fba72ae3bbf2a44e1",
+    "name": "GigaChad",
+    "symbol": "GIGACHAD",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/GIGACHAD/logo.png",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "GIGACHAD"
     }
   },
   {
