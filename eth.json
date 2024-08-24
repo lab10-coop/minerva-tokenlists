@@ -2001,6 +2001,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x046029f68b0e00ebec2e394d17f70ec848fcf1d2",
+    "name": "Stable com USD3",
+    "symbol": "USD3",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/39865/thumb/2024-04-stable_com-usd3_coin.png?1724379520"
+  },
+  {
+    "chainId": 1,
     "name": "ArchLoot",
     "address": "0x046bad07658f3b6cad9a396cfcbc1243af452ec1",
     "decimals": 18,
@@ -8598,14 +8606,6 @@
     "decimals": 18,
     "symbol": "FKX",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3241.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x1650978997e5898db8eeffdb7c530bb223b71c79",
-    "name": "Flashpad Token",
-    "symbol": "FLASH",
-    "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/34835/thumb/200.jpg?1706230764"
   },
   {
     "chainId": 1,
@@ -15396,10 +15396,10 @@
   },
   {
     "chainId": 1,
-    "name": "PawFury",
+    "name": "Paw",
     "address": "0x27f465e99725071c671c346e08bd99ef93567b8c",
     "decimals": 18,
-    "symbol": "PAW",
+    "symbol": "Pawfury",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/31178.png"
   },
   {
@@ -16665,6 +16665,14 @@
     "decimals": 18,
     "symbol": "CREAM",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/6193.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Good Morning",
+    "address": "0x2ba6558dc1d9319577de7fb1ad44edd6b06311e0",
+    "decimals": 18,
+    "symbol": "GM",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/32802.png"
   },
   {
     "chainId": 1,
@@ -30924,6 +30932,14 @@
   },
   {
     "chainId": 1,
+    "name": "METAPLUS",
+    "address": "0x4fdb4cde0268d5941ef57afedb22e050b5be2955",
+    "decimals": 18,
+    "symbol": "PLUS",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/32800.png"
+  },
+  {
+    "chainId": 1,
     "name": "IOTW",
     "address": "0x4fe327c5a809fa721d47b80c5038a0b393e61305",
     "decimals": 6,
@@ -32801,6 +32817,14 @@
     "decimals": 18,
     "symbol": "KAWA",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/10640.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Cat Life",
+    "address": "0x555a29d0e0e00d573a63fb11dc37b61a9da52f86",
+    "decimals": 18,
+    "symbol": "CATLIFE",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/32581.png"
   },
   {
     "chainId": 1,
@@ -44892,7 +44916,7 @@
   },
   {
     "chainId": 1,
-    "name": "Usual",
+    "name": "Usual Stablecoin",
     "address": "0x73a15fed60bf67631dc6cd7bc5b6e8da8190acf5",
     "decimals": 18,
     "symbol": "USD0",
@@ -51332,14 +51356,6 @@
   },
   {
     "chainId": 1,
-    "name": "ASKOBAR NETWORK",
-    "address": "0x8613d221fcc0b8ccfb6a0252f5f4d5dd49072b94",
-    "decimals": 18,
-    "symbol": "ASKO",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/5833.png"
-  },
-  {
-    "chainId": 1,
     "name": "Bancacy",
     "address": "0x86149c67e57c749d0a12e6d6c2bf1b616619bb29",
     "decimals": 18,
@@ -55825,6 +55841,14 @@
     "decimals": 18,
     "symbol": "DEF",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7731.png"
+  },
+  {
+    "chainId": 1,
+    "name": "CoreConnect",
+    "address": "0x90edf25b14393350f0c1b5b12b6cb3cd3781fb4a",
+    "decimals": 18,
+    "symbol": "CORE",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/32803.png"
   },
   {
     "chainId": 1,
@@ -63712,14 +63736,6 @@
     "decimals": 18,
     "symbol": "UNDG",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/8400.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xa599ab9ee3837be7c5f7b8abf0ce10bc49a2b779",
-    "name": "Spider",
-    "symbol": "SPIDER",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/35450/thumb/Black_BG_Spider-Logo.png?1708664882"
   },
   {
     "chainId": 1,
@@ -77861,11 +77877,11 @@
   },
   {
     "chainId": 1,
-    "address": "0xcc54ac31164b5b3c39db4eef26d89275c468ec9d",
     "name": "Fuel",
-    "symbol": "FUELX",
+    "address": "0xcc54ac31164b5b3c39db4eef26d89275c468ec9d",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/27191/thumb/Fuel-Icon-200x200.png?1724270877"
+    "symbol": "FUELX",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/32799.png"
   },
   {
     "chainId": 1,
@@ -79458,6 +79474,14 @@
     "decimals": 4,
     "symbol": "RFR",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2553.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Ethereumdog",
+    "address": "0xd093979c553320850967229e8059e68de8d2735a",
+    "decimals": 18,
+    "symbol": "ETHDOG",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/32806.png"
   },
   {
     "chainId": 1,
@@ -91193,6 +91217,14 @@
     "decimals": 9,
     "symbol": "TICKR",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/23327.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xf0a949b935e367a94cdfe0f2a54892c2bc7b2131",
+    "name": "Affine ultraETHs 2 0",
+    "symbol": "ULTRAETHS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/39864/thumb/affine-ultra-eths-cg-logo.png?1724379373"
   },
   {
     "chainId": 1,
