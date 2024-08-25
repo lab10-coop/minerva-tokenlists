@@ -5629,7 +5629,7 @@
     "name": "AssetLink",
     "symbol": "ASET",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/33907/thumb/Logo3D-NOBG.png?1703241821"
+    "logoURI": "https://assets.coingecko.com/coins/images/33907/thumb/logo-dark-round_%281%29.png?1724462396"
   },
   {
     "chainId": 1,
@@ -6309,7 +6309,7 @@
     "name": "Fuku Kun",
     "symbol": "FUKU",
     "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/39632/thumb/logofuku_%281%29.jpg?1723412584"
+    "logoURI": "https://assets.coingecko.com/coins/images/39632/thumb/FUKU_200.png?1724470047"
   },
   {
     "chainId": 1,
@@ -28037,7 +28037,7 @@
   {
     "chainId": 1,
     "address": "0x47e5c76f155083f1aee39578311a2a5faa938a82",
-    "name": "Trinique",
+    "name": "TNQ Token",
     "symbol": "TNQ",
     "decimals": 6,
     "logoURI": "https://assets.coingecko.com/coins/images/36533/thumb/TNQ_LOGO.png?1711705168"
@@ -29553,6 +29553,14 @@
     "decimals": 8,
     "symbol": "TRU",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7725.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Bufficorn",
+    "address": "0x4c1b1302220d7de5c22b495e78b72f2dd2457d45",
+    "decimals": 9,
+    "symbol": "BUFFI",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/32813.png"
   },
   {
     "chainId": 1,
@@ -49644,14 +49652,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x80d69e79258fe9d056c822461c4eb0b4ca8802e2",
-    "name": "Inception rETH",
-    "symbol": "INRETH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/34956/thumb/rETH.png?1706773577"
-  },
-  {
-    "chainId": 1,
     "name": "Trendercoin",
     "address": "0x80e82dd8707a68d9f26a3035c1bbf2b704549801",
     "decimals": 3,
@@ -65963,11 +65963,11 @@
   },
   {
     "chainId": 1,
-    "address": "0xabd4c63d2616a5201454168269031355f4764337",
     "name": "Orderly Network",
-    "symbol": "ORDER",
+    "address": "0xabd4c63d2616a5201454168269031355f4764337",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/38501/thumb/Orderly_Network_Coingecko_200*200.png?1717751359"
+    "symbol": "ORDER",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/32809.png"
   },
   {
     "chainId": 1,
@@ -68696,14 +68696,6 @@
     "decimals": 18,
     "symbol": "TELE",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/4145.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xb369daca21ee035312176eb8cf9d88ce97e0aa95",
-    "name": "Skol",
-    "symbol": "SKOL",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/35934/thumb/skollogo_200x200.png?1710264034"
   },
   {
     "chainId": 1,
@@ -87684,14 +87676,6 @@
   },
   {
     "chainId": 1,
-    "address": "0xe73d2faeeb9dec890c905b707b574627d5302cb3",
-    "name": "Defi Radar",
-    "symbol": "DRADAR",
-    "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/34304/thumb/Safeimagekit-resized-img_%2819%29.png?1704612554"
-  },
-  {
-    "chainId": 1,
     "name": "CARBON",
     "address": "0xe74ac81b14021d0cfb835f269f48f25918c5cae6",
     "decimals": 18,
@@ -102941,6 +102925,14 @@
     "chainId": 56,
     "decimals": 18,
     "logoURI": "https://tokens.pancakeswap.finance/images/0x67ee3Cb086F8a16f34beE3ca72FAD36F7Db929e2.png"
+  },
+  {
+    "name": "Simons Cat",
+    "symbol": "CAT",
+    "address": "0x6894cde390a3f51155ea41ed24a33a4827d3063d",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x6894CDe390a3f51155ea41Ed24a33A4827d3063D.png"
   },
   {
     "name": "LayerZero",
