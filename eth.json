@@ -4169,14 +4169,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x0a6e481cb5f2d976b2edac4f67dcc824ccdae4af",
-    "name": "Audify",
-    "symbol": "AUDI",
-    "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/34251/thumb/emoji.png?1704339102"
-  },
-  {
-    "chainId": 1,
     "name": "Ethereum Lite",
     "address": "0x0a76aad21948ea1ef447d26dee91a54370e151e0",
     "decimals": 18,
@@ -29737,6 +29729,14 @@
     "decimals": 18,
     "symbol": "RYO",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/32531.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Vitalik's Casper",
+    "address": "0x4c98c4626aabe18fb875b73e33e504497081bce7",
+    "decimals": 9,
+    "symbol": "CASPER",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/32820.png"
   },
   {
     "chainId": 1,
@@ -68696,6 +68696,14 @@
     "decimals": 18,
     "symbol": "TELE",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/4145.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xb369daca21ee035312176eb8cf9d88ce97e0aa95",
+    "name": "Skol",
+    "symbol": "SKOL",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/35934/thumb/skollogo_200x200.png?1710264034"
   },
   {
     "chainId": 1,

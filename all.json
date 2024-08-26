@@ -4169,14 +4169,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x0a6e481cb5f2d976b2edac4f67dcc824ccdae4af",
-    "name": "Audify",
-    "symbol": "AUDI",
-    "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/34251/thumb/emoji.png?1704339102"
-  },
-  {
-    "chainId": 1,
     "name": "Ethereum Lite",
     "address": "0x0a76aad21948ea1ef447d26dee91a54370e151e0",
     "decimals": 18,
@@ -29737,6 +29729,14 @@
     "decimals": 18,
     "symbol": "RYO",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/32531.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Vitalik's Casper",
+    "address": "0x4c98c4626aabe18fb875b73e33e504497081bce7",
+    "decimals": 9,
+    "symbol": "CASPER",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/32820.png"
   },
   {
     "chainId": 1,
@@ -68696,6 +68696,14 @@
     "decimals": 18,
     "symbol": "TELE",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/4145.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xb369daca21ee035312176eb8cf9d88ce97e0aa95",
+    "name": "Skol",
+    "symbol": "SKOL",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/35934/thumb/skollogo_200x200.png?1710264034"
   },
   {
     "chainId": 1,
@@ -116378,6 +116386,14 @@
     "symbol": "MIM"
   },
   {
+    "chainId": 43114,
+    "address": "0x13b1f0579bc895b2ffb835f295fd9b63fef36da0",
+    "decimals": 18,
+    "name": "B4FWX",
+    "symbol": "B4FWX",
+    "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0x13B1f0579bc895B2ffb835F295FD9b63fEF36dA0/logo_24.png"
+  },
+  {
     "address": "0x152b9d0fdc40c096757f570a51e494bd4b943e50",
     "chainId": 43114,
     "decimals": 8,
@@ -119524,7 +119540,8 @@
     "logoURI": "https://monerium.app/tokens/usd/usd.png",
     "tags": [
       "usd",
-      "https://github.com/monerium/smart-contracts/tree/v1.0.2"
+      "https://github.com/monerium/smart-contracts/tree/v1.0.2",
+      "legacy"
     ]
   },
   {
@@ -119581,6 +119598,30 @@
     ]
   },
   {
+    "name": "EUR / Euro",
+    "chainId": 100,
+    "address": "0x420ca0f9b9b604ce0fd9c18ef134c705e5fa3430",
+    "symbol": "EURe",
+    "decimals": 18,
+    "logoURI": "https://monerium.app/tokens/eur/eur.png",
+    "tags": [
+      "eur",
+      "https://github.com/monerium/smart-contracts/tree/v2.0.0"
+    ]
+  },
+  {
+    "name": "USD / US Dollar",
+    "chainId": 100,
+    "address": "0x50d1a74f4b6dcacddd97fd442c0e22a4c97f2b7f",
+    "symbol": "USDe",
+    "decimals": 18,
+    "logoURI": "https://monerium.app/tokens/usd/usd.png",
+    "tags": [
+      "usd",
+      "https://github.com/monerium/smart-contracts/tree/v2.0.0"
+    ]
+  },
+  {
     "address": "0x59988e47a3503aafaa0368b9def095c818fdca01",
     "name": "Super xDAI",
     "symbol": "xDAIx",
@@ -119606,7 +119647,8 @@
     "logoURI": "https://monerium.app/tokens/gbp/gbp.png",
     "tags": [
       "gbp",
-      "https://github.com/monerium/smart-contracts/tree/v1.1.0"
+      "https://github.com/monerium/smart-contracts/tree/v1.1.0",
+      "legacy"
     ]
   },
   {
@@ -119633,6 +119675,18 @@
     "logoURI": "https://raw.githubusercontent.com/superfluid-finance/assets/master/public/tokens/ntdl/icon.svg",
     "tags": [
       "supertoken"
+    ]
+  },
+  {
+    "name": "ISK / Icelandic Krona",
+    "chainId": 100,
+    "address": "0x614bd419d3735c9eb51542c06e5acc09a9953f61",
+    "symbol": "ISKe",
+    "decimals": 18,
+    "logoURI": "https://monerium.app/tokens/isk/isk.png",
+    "tags": [
+      "isk",
+      "https://github.com/monerium/smart-contracts/tree/v2.0.0"
     ]
   },
   {
@@ -119769,6 +119823,18 @@
     ]
   },
   {
+    "name": "GBP / British pound sterling",
+    "chainId": 100,
+    "address": "0x8e34bfec4f6eb781f9743d9b4af99cd23f9b7053",
+    "symbol": "GBPe",
+    "decimals": 18,
+    "logoURI": "https://monerium.app/tokens/gbp/gbp.png",
+    "tags": [
+      "gbp",
+      "https://github.com/monerium/smart-contracts/tree/v2.0.0"
+    ]
+  },
+  {
     "address": "0x9757d68a4273635c69d93b84ee3cdac2304dd467",
     "name": "Super ETH",
     "symbol": "ETHx",
@@ -119894,7 +119960,8 @@
     "logoURI": "https://monerium.app/tokens/eur/eur.png",
     "tags": [
       "eur",
-      "https://github.com/monerium/smart-contracts/tree/v1.2.2"
+      "https://github.com/monerium/smart-contracts/tree/v1.2.2",
+      "legacy"
     ]
   },
   {
@@ -119917,7 +119984,8 @@
     "logoURI": "https://monerium.app/tokens/isk/isk.png",
     "tags": [
       "isk",
-      "https://github.com/monerium/smart-contracts/tree/v1.0.2"
+      "https://github.com/monerium/smart-contracts/tree/v1.0.2",
+      "legacy"
     ]
   },
   {
