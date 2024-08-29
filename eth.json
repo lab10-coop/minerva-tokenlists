@@ -129,11 +129,11 @@
   },
   {
     "chainId": 1,
+    "name": "Agora",
     "address": "0x00000000efe302beaa2b3e6e1b18d08d69a9012a",
-    "name": "AUSD",
-    "symbol": "AUSD",
     "decimals": 6,
-    "logoURI": "https://assets.coingecko.com/coins/images/39284/thumb/Circle_Agora_White_on_Olive_1080px.png?1722961274"
+    "symbol": "AUSD",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/32864.png"
   },
   {
     "chainId": 1,
@@ -31612,6 +31612,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x516d339afa72f6959b8e06a31fbc32da3e49348b",
+    "name": "Connect",
+    "symbol": "CNCT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/39932/thumb/IMG_4033.jpeg?1724836586"
+  },
+  {
+    "chainId": 1,
     "name": "Smudge Lord",
     "address": "0x516e2758b044433371076a48127b8cfa7b0bdb43",
     "decimals": 18,
@@ -34828,6 +34836,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x5aa7b9be58d4001a7065718641ce7b121b41ef9b",
+    "name": "AlphPad",
+    "symbol": "APAD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/39931/thumb/icon.png?1724836252"
+  },
+  {
+    "chainId": 1,
     "name": "Ibiza Token",
     "address": "0x5aa7c403c7de4b3bb0cc07079a03e389671a4771",
     "decimals": 18,
@@ -37225,6 +37241,14 @@
     "decimals": 9,
     "symbol": "SILVER",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28239.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x60b9c41d99fe3eb64ecc1344bad31d87f1bced6d",
+    "name": "Stable",
+    "symbol": "STABLE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/31148/thumb/stable_200.png?1696529976"
   },
   {
     "chainId": 1,
@@ -40644,6 +40668,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x69000405f9dce69bd4cbf4f2865b79144a69bfe0",
+    "name": "ZAI Stablecoin",
+    "symbol": "USDZ",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/39733/thumb/Group_4.png?1723771588"
+  },
+  {
+    "chainId": 1,
     "name": "QPay",
     "address": "0x6911270d4bc1915744aedd785d41d44f47245bd0",
     "decimals": 18,
@@ -41257,6 +41289,14 @@
     "decimals": 18,
     "symbol": "BEAR",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/26919.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x6a159543abfc7baf816fdbc99efd48e4ee7acc63",
+    "name": "FUKU",
+    "symbol": "FUKU",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/39923/thumb/logo_copy_200x200.png?1724813183"
   },
   {
     "chainId": 1,
@@ -56604,6 +56644,14 @@
   },
   {
     "chainId": 1,
+    "name": "WX Token",
+    "address": "0x934ac3ffdc82a3abcc71c1831bdf5c766f6ee8a9",
+    "decimals": 18,
+    "symbol": "WX",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/15691.png"
+  },
+  {
+    "chainId": 1,
     "name": "Perry the Platypus",
     "address": "0x934b609633c0c6ef3ea7252eb8b603f1001be0ae",
     "decimals": 18,
@@ -61827,14 +61875,6 @@
   },
   {
     "chainId": 1,
-    "address": "0xa0c7e61ee4faa9fcefdc8e8fc5697d54bf8c8141",
-    "name": "CuriosityAnon",
-    "symbol": "CA",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/35543/thumb/1000005706.jpg?1709093165"
-  },
-  {
-    "chainId": 1,
     "name": "Purple AI",
     "address": "0xa0cc4428fbb652c396f28dce8868b8743742a71c",
     "decimals": 18,
@@ -64440,6 +64480,14 @@
     "decimals": 18,
     "symbol": "LXF",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/14088.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xa7a0b3fe94121e366d774d60d075f6386f750884",
+    "name": "USDFI",
+    "symbol": "USDFI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/31149/thumb/USDFI_200.png?1696529977"
   },
   {
     "chainId": 1,
@@ -94776,14 +94824,6 @@
     "decimals": 18,
     "symbol": "SAITO",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/9194.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xfa219a9bd37712ef04e5b04abce9ace538ffafb7",
-    "name": "Pet the Dog",
-    "symbol": "DOGPET",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/35097/thumb/s01PN6T7_400x400.jpg?1707374459"
   },
   {
     "chainId": 1,

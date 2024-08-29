@@ -786,6 +786,19 @@
   },
   {
     "chainId": 1,
+    "address": "0x39b46b212bdf15b42b166779b9d1787a68b9d0c3",
+    "name": "Dypius",
+    "symbol": "DYP",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/DYP/logo.png",
+    "extensions": {
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "opListId": "extended",
+      "opTokenId": "DYP"
+    }
+  },
+  {
+    "chainId": 1,
     "address": "0x3af33bef05c2dcb3c7288b77fe1c8d2aeba4d789",
     "name": "Kromatika",
     "symbol": "KROM",
@@ -2666,6 +2679,18 @@
   },
   {
     "chainId": 1,
+    "address": "0xc11158c5da9db1d553ed28f0c2ba1cbedd42cfcb",
+    "name": "Wrapped PAW",
+    "symbol": "wPAW",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/WPAW/logo.svg",
+    "extensions": {
+      "opListId": "extended",
+      "opTokenId": "WPAW"
+    }
+  },
+  {
+    "chainId": 1,
     "address": "0xc18360217d8f7ab5e7c516566761ea12ce7f9d72",
     "name": "Ethereum Name Service",
     "symbol": "ENS",
@@ -2949,6 +2974,19 @@
       "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
       "opListId": "extended",
       "opTokenId": "U"
+    }
+  },
+  {
+    "chainId": 1,
+    "address": "0xd0a6053f087e87a25dc60701ba6e663b1a548e85",
+    "name": "BLOCKLORDS",
+    "symbol": "LRDS",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/LRDS/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "opListId": "extended",
+      "opTokenId": "LRDS"
     }
   },
   {
@@ -6717,6 +6755,19 @@
   },
   {
     "chainId": 8453,
+    "address": "0x5b2124d427fac9c80c902cbdd74b03dd85d7d3fe",
+    "name": "Dypius",
+    "symbol": "DYP",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/DYP/logo.png",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "DYP"
+    }
+  },
+  {
+    "chainId": 8453,
     "address": "0x5e42c17caeab64527d9d80d506a3fe01179afa02",
     "name": "Tetu Token",
     "symbol": "TETU",
@@ -7464,6 +7515,19 @@
   },
   {
     "chainId": 8453,
+    "address": "0xb676f87a6e701f0de8de5ab91b56b66109766db1",
+    "name": "BLOCKLORDS",
+    "symbol": "LRDS",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/LRDS/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "LRDS"
+    }
+  },
+  {
+    "chainId": 8453,
     "address": "0xb6fe221fe9eef5aba221c348ba20a1bf5e73624c",
     "name": "Rocket Pool ETH",
     "symbol": "rETH",
@@ -7512,6 +7576,18 @@
       "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "extended",
       "opTokenId": "IOTX"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0xc11158c5da9db1d553ed28f0c2ba1cbedd42cfcb",
+    "name": "Wrapped PAW",
+    "symbol": "wPAW",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/WPAW/logo.svg",
+    "extensions": {
+      "opListId": "extended",
+      "opTokenId": "WPAW"
     }
   },
   {
@@ -8379,6 +8455,19 @@
   },
   {
     "chainId": 84532,
+    "address": "0x9a7be36df8221f5a3971693f5d71d2c471785478",
+    "name": "BLOCKLORDS",
+    "symbol": "LRDS",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/LRDS/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "LRDS"
+    }
+  },
+  {
+    "chainId": 84532,
     "address": "0x9acd8e640636b616844c57569028359e46beed43",
     "name": "Open Loot",
     "symbol": "OPENLOOT",
@@ -8712,6 +8801,19 @@
       "baseBridgeAddress": "0xfd0Bf71F60660E2f608ed56e1659C450eB113120",
       "opListId": "extended",
       "opTokenId": "OM"
+    }
+  },
+  {
+    "chainId": 11155111,
+    "address": "0xdfcffff1b184f2051cbea17df11d4e074ab5271e",
+    "name": "BLOCKLORDS",
+    "symbol": "LRDS",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/LRDS/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0xfd0Bf71F60660E2f608ed56e1659C450eB113120",
+      "opListId": "extended",
+      "opTokenId": "LRDS"
     }
   },
   {
