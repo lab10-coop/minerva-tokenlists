@@ -129,9 +129,9 @@
   },
   {
     "chainId": 1,
-    "name": "Agora",
+    "name": "AUSD",
     "address": "0x00000000efe302beaa2b3e6e1b18d08d69a9012a",
-    "decimals": 6,
+    "decimals": 18,
     "symbol": "AUSD",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/32864.png"
   },
@@ -10525,6 +10525,14 @@
     "decimals": 18,
     "symbol": "BEST",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/4361.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x1b141e732a33d793d788ae65e1378013d49e0160",
+    "name": "GENUINE AI",
+    "symbol": "GENAI",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/39955/thumb/Genuine_ai_200x200.png?1724903570"
   },
   {
     "chainId": 1,
@@ -39620,6 +39628,14 @@
   },
   {
     "chainId": 1,
+    "name": "Resolv USR",
+    "address": "0x66a1e37c9b0eaddca17d3662d6c05f4decf3e110",
+    "decimals": 18,
+    "symbol": "USR",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/32873.png"
+  },
+  {
+    "chainId": 1,
     "name": "YAMA Inu",
     "address": "0x66a3a58f812d0f433daaf1d96e14fd72d1d03d67",
     "decimals": 18,
@@ -50108,6 +50124,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x8236a87084f8b84306f72007f36f2618a5634494",
+    "name": "Lombard Staked BTC",
+    "symbol": "LBTC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/39969/thumb/LBTC_Logo.png?1724959872"
+  },
+  {
+    "chainId": 1,
     "name": "Coil",
     "address": "0x823e1b82ce1dc147bbdb25a203f046afab1ce918",
     "decimals": 18,
@@ -54356,11 +54380,11 @@
   },
   {
     "chainId": 1,
+    "name": "MNEE",
     "address": "0x8ccedbae4916b79da7f3f612efb2eb93a2bfd6cf",
-    "name": "MNEE USD Stablecoin",
-    "symbol": "MNEE",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/39459/thumb/MNEE.jpg?1722393629"
+    "symbol": "MNEE",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/32878.png"
   },
   {
     "chainId": 1,
@@ -55604,11 +55628,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x901a020915bc3577d85d29f68024b4c5e240b8cd",
     "name": "BlastUP",
-    "symbol": "BLASTUP",
+    "address": "0x901a020915bc3577d85d29f68024b4c5e240b8cd",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/36054/thumb/blastup_icon_logo.png?1710403683"
+    "symbol": "BLASTUP",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/32787.png"
   },
   {
     "chainId": 1,
@@ -65532,7 +65556,7 @@
   {
     "chainId": 1,
     "address": "0xaa6624d7363ef8284aa8ce4e18146ded5f421b2c",
-    "name": "0dog",
+    "name": "Bitcoin Dogs",
     "symbol": "0DOG",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/39840/thumb/0DOG.png?1724288227"
@@ -66799,7 +66823,7 @@
     "name": "Spectral",
     "symbol": "SPEC",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/36138/thumb/spectral_logo_200x200.png?1710684002"
+    "logoURI": "https://assets.coingecko.com/coins/images/36138/thumb/ls7wS7vf_400x400.jpg?1724975224"
   },
   {
     "chainId": 1,
@@ -74726,6 +74750,14 @@
   },
   {
     "chainId": 1,
+    "address": "0xc328a59e7321747aebbc49fd28d1b32c1af8d3b2",
+    "name": "Phil",
+    "symbol": "PHIL",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/39975/thumb/yr0kMUrz_400x400.jpg?1724971221"
+  },
+  {
+    "chainId": 1,
     "name": "IterationSyndicate",
     "address": "0xc32cc5b70bee4bd54aa62b9aefb91346d18821c4",
     "decimals": 18,
@@ -75083,6 +75115,14 @@
     "decimals": 18,
     "symbol": "DHP",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/14319.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xc4116efc9e279d4bbf577d92f224508f13637c6c",
+    "name": "DevHub AI",
+    "symbol": "DHUB",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/39956/thumb/DevHub_Logo.png?1724905592"
   },
   {
     "chainId": 1,
@@ -76299,14 +76339,6 @@
     "decimals": 9,
     "symbol": "QUBY",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/26694.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xc78a697ca2eec28682d6784ce588ab774c101cd2",
-    "name": "DupeBot",
-    "symbol": "DUPE",
-    "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/38628/thumb/Dupe.jpeg?1718169874"
   },
   {
     "chainId": 1,
@@ -80026,6 +80058,14 @@
     "decimals": 18,
     "symbol": "CZ",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/6643.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xd1d2c1bc0d97880b67c504e20ae6f4fa2e03b823",
+    "name": "SCALEX",
+    "symbol": "SCALEX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/39967/thumb/SCALEX.jpeg?1724958463"
   },
   {
     "chainId": 1,
@@ -83914,14 +83954,6 @@
     "decimals": 9,
     "symbol": "KISHUTAMA",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/17913.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xdc1de096ed4ec5b48f4b0496a6ecee3d63e74f53",
-    "name": "ERROR404",
-    "symbol": "PNF",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/35144/thumb/IMG_20240209_071114_878.jpg?1707468943"
   },
   {
     "chainId": 1,
@@ -88769,14 +88801,6 @@
     "decimals": 18,
     "symbol": "UFR",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2178.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xea18dc833653172bbe819feb5320d9da9f99799a",
-    "name": "Dogelon Mars 2 0",
-    "symbol": "ELON20",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/30963/thumb/ABE04427-81C7-4AF2-9308-AE35C661E66E.jpeg?1696529803"
   },
   {
     "chainId": 1,
@@ -94920,6 +94944,14 @@
     "decimals": 18,
     "symbol": "FRIES",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/18658.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xfa5a6e1347f6d99c57a53416c5c4645128909b62",
+    "name": "DupeBot",
+    "symbol": "DUPE",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/38628/thumb/Dupe.jpeg?1718169874"
   },
   {
     "chainId": 1,
@@ -107262,6 +107294,19 @@
   },
   {
     "chainId": 1,
+    "address": "0x37fc4b48ce93469dbea9918468993c735049642a",
+    "name": "CropBytes",
+    "symbol": "CBX",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/CBX/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "opListId": "extended",
+      "opTokenId": "CBX"
+    }
+  },
+  {
+    "chainId": 1,
     "address": "0x38547d918b9645f2d94336b6b61aeb08053e142c",
     "name": "USC",
     "symbol": "USC",
@@ -109072,6 +109117,19 @@
       "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1",
       "opListId": "default",
       "opTokenId": "PERP"
+    }
+  },
+  {
+    "chainId": 1,
+    "address": "0xbd9908b0cdd50386f92efcc8e1d71766c2782df0",
+    "name": "DAOSquare Governance Token",
+    "symbol": "RICE",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/RICE/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "opListId": "extended",
+      "opTokenId": "RICE"
     }
   },
   {
@@ -114312,6 +114370,19 @@
   },
   {
     "chainId": 8453,
+    "address": "0xd988824d7fa1998d0abbab2f79a82af762886cac",
+    "name": "CropBytes",
+    "symbol": "CBX",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/CBX/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "CBX"
+    }
+  },
+  {
+    "chainId": 8453,
     "address": "0xd9aaec86b65d86f6a7b5b1b0c42ffa531710b6ca",
     "name": "USD Base Coin",
     "symbol": "USDbC",
@@ -114528,6 +114599,19 @@
       "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "extended",
       "opTokenId": "SARCO"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0xf501e4c51dbd89b95de24b9d53778ff97934cd9c",
+    "name": "DAOSquare Governance Token",
+    "symbol": "RICE",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/RICE/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "RICE"
     }
   },
   {
