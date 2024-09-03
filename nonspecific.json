@@ -3910,6 +3910,34 @@
     ]
   },
   {
+    "address": "0x22389dd0df30487a8feaa4eebf98cc64d3273294",
+    "name": "Super Livepeer Token",
+    "symbol": "LPTx",
+    "decimals": 18,
+    "chainId": 42161,
+    "extensions": {
+      "superTokenInfo": {
+        "type": "Wrapper",
+        "underlyingTokenAddress": "0x289ba1701c2f088cf0faf8b3705246331cb8a839"
+      }
+    },
+    "logoURI": "https://raw.githubusercontent.com/superfluid-finance/assets/master/public/tokens/lpt/icon.svg",
+    "tags": [
+      "supertoken"
+    ]
+  },
+  {
+    "address": "0x289ba1701c2f088cf0faf8b3705246331cb8a839",
+    "name": "Livepeer Token",
+    "symbol": "LPT",
+    "decimals": 18,
+    "chainId": 42161,
+    "logoURI": "https://raw.githubusercontent.com/superfluid-finance/assets/master/public/tokens/lpt/icon.svg",
+    "tags": [
+      "underlying"
+    ]
+  },
+  {
     "address": "0x2bf2ba13735160624a0feae98f6ac8f70885ea61",
     "name": "Own a fraction",
     "symbol": "FRACTION",
