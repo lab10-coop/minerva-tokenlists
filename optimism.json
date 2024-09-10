@@ -459,6 +459,19 @@
   },
   {
     "chainId": 1,
+    "address": "0x1bed97cbc3c24a4fb5c069c6e311a967386131f7",
+    "name": "Yearn Ether",
+    "symbol": "yETH",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/yETH/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "opListId": "extended",
+      "opTokenId": "yETH"
+    }
+  },
+  {
+    "chainId": 1,
     "address": "0x1c9922314ed1415c95b9fd453c3818fd41867d0b",
     "name": "TOWER",
     "symbol": "TOWER",
@@ -7729,6 +7742,19 @@
       "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "extended",
       "opTokenId": "KIBSHI"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0xcaf1c21de4214ab2bcdb3a55deeb0114c8eeada1",
+    "name": "Yearn Ether",
+    "symbol": "yETH",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/yETH/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "yETH"
     }
   },
   {
