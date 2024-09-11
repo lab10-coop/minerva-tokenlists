@@ -3222,6 +3222,7 @@
       "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1",
       "pgnBridgeAddress": "0xD0204B9527C1bA7bD765Fa5CCD9355d38338272b",
       "modeBridgeAddress": "0x735aDBbE72226BD52e818E7181953f42E3b0FF21",
+      "liskBridgeAddress": "0x2658723Bf70c7667De6B25F99fcce13A16D25d08",
       "opListId": "default",
       "opTokenId": "USDT"
     }
@@ -5740,6 +5741,19 @@
   },
   {
     "chainId": 1135,
+    "address": "0x05d032ac25d322df992303dca074ee7392c117b9",
+    "name": "Tether USD",
+    "symbol": "USDT",
+    "decimals": 6,
+    "logoURI": "https://ethereum-optimism.github.io/data/USDT/logo.png",
+    "extensions": {
+      "liskBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "default",
+      "opTokenId": "USDT"
+    }
+  },
+  {
+    "chainId": 1135,
     "address": "0xac485391eb2d7d88253a7f1ef18c37f4242d1a24",
     "name": "Lisk",
     "symbol": "LSK",
@@ -5762,6 +5776,19 @@
       "liskBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "extended",
       "opTokenId": "LSK"
+    }
+  },
+  {
+    "chainId": 4202,
+    "address": "0xd26be7331edd458c7afa6d8b7fcb7a9e1bb68909",
+    "name": "Tether USD",
+    "symbol": "USDT",
+    "decimals": 6,
+    "logoURI": "https://ethereum-optimism.github.io/data/USDT/logo.png",
+    "extensions": {
+      "liskBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "default",
+      "opTokenId": "USDT"
     }
   },
   {
