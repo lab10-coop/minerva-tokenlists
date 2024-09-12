@@ -945,6 +945,14 @@
   },
   {
     "chainId": 1,
+    "name": "Unio Coin",
+    "address": "0x01aac2b594f7bdbec740f0f1aa22910ebb4b74ab",
+    "decimals": 18,
+    "symbol": "UNIO",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/32984.png"
+  },
+  {
+    "chainId": 1,
     "name": "Brother Music Platform",
     "address": "0x01b23286ff60a543ec29366ae8d6b6274ca20541",
     "decimals": 18,
@@ -16236,14 +16244,6 @@
   },
   {
     "chainId": 1,
-    "name": "Vitalik Smart Gas",
-    "address": "0x2a5fa016ffb20c70e2ef36058c08547f344677aa",
-    "decimals": 18,
-    "symbol": "VSG",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29350.png"
-  },
-  {
-    "chainId": 1,
     "name": "WAX",
     "address": "0x2a79324c19ef2b89ea98b23bc669b7e7c9f8a517",
     "decimals": 8,
@@ -20305,6 +20305,14 @@
     "symbol": "CVXPRISMA",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/32961/thumb/cvxprisma.png?1700026172"
+  },
+  {
+    "chainId": 1,
+    "address": "0x346b46280f559def274f80c5d16471b4b7ef2f14",
+    "name": "StorageChain",
+    "symbol": "WSTOR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/33844/thumb/coinmarketcaplogo.png?1703121289"
   },
   {
     "chainId": 1,
@@ -34252,11 +34260,11 @@
   },
   {
     "chainId": 1,
+    "name": "Vector Smart Gas",
     "address": "0x58aea10748a00d1781d6651f9d78a414ea32ca46",
-    "name": "Vitalik Smart Gas",
-    "symbol": "VSG",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/35275/thumb/photo_2024-09-07_14.54.06.jpeg?1725717274"
+    "symbol": "VSG",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29350.png"
   },
   {
     "chainId": 1,
@@ -64203,14 +64211,6 @@
   },
   {
     "chainId": 1,
-    "name": "Sodality Coin",
-    "address": "0xa644f85690b2cb5486aa6fca20263f9025719d03",
-    "decimals": 18,
-    "symbol": "SODAL",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/32930.png"
-  },
-  {
-    "chainId": 1,
     "address": "0xa64bd6c70cb9051f6a9ba1f163fdc07e0dfb5f84",
     "name": "Aave LINK v1",
     "symbol": "ALINK",
@@ -67027,6 +67027,14 @@
   },
   {
     "chainId": 1,
+    "name": "MAGA CAT",
+    "address": "0xae0fe8474cf5b1b412b3e4327a1c535ea12b77b7",
+    "decimals": 18,
+    "symbol": "MAGACAT",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/32988.png"
+  },
+  {
+    "chainId": 1,
     "name": "Adalend",
     "address": "0xae1107fc7cef1294f09185ac475c9886527dcd8a",
     "decimals": 18,
@@ -69720,6 +69728,14 @@
     "decimals": 18,
     "symbol": "ACYC",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/15442.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xb56aaac80c931161548a49181c9e000a19489c44",
+    "name": "ABDS Token",
+    "symbol": "ABDS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/40154/thumb/photo_2024-09-10_20-06-22.jpg?1726075708"
   },
   {
     "chainId": 1,
@@ -80026,6 +80042,14 @@
     "decimals": 18,
     "symbol": "RAPTOR",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/26923.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xd11c452fc99cf405034ee446803b6f6c1f6d5ed8",
+    "name": "Treehouse ETH",
+    "symbol": "TETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/40155/thumb/tETH_logo_2_%281%29.png?1726079209"
   },
   {
     "chainId": 1,
@@ -103693,6 +103717,14 @@
     "logoURI": "https://tokens.pancakeswap.finance/images/0x6b23C89196DeB721e6Fd9726E6C76E4810a464bc.png"
   },
   {
+    "name": "uniBTC",
+    "symbol": "uniBTC",
+    "address": "0x6b2a01a5f79deb4c2f3c0eda7b01df456fbd726a",
+    "chainId": 56,
+    "decimals": 8,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x6B2a01A5f79dEb4c2f3c0eDa7b01DF456FbD726a.png"
+  },
+  {
     "name": "AdEx Network",
     "symbol": "ADX",
     "address": "0x6bff4fb161347ad7de4a625ae5aa3a1ca7077819",
@@ -104739,6 +104771,14 @@
     "chainId": 56,
     "decimals": 8,
     "logoURI": "https://tokens.pancakeswap.finance/images/0xbA2aE424d960c26247Dd6c32edC70B295c744C43.png"
+  },
+  {
+    "name": "Poolz Finance",
+    "symbol": "POOLX",
+    "address": "0xbaea9aba1454df334943951d51116ae342eab255",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0xbAeA9aBA1454DF334943951d51116aE342eAB255.png"
   },
   {
     "name": "WBNB Token",
@@ -112847,19 +112887,6 @@
       "liskBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "extended",
       "opTokenId": "LSK"
-    }
-  },
-  {
-    "chainId": 4202,
-    "address": "0xd26be7331edd458c7afa6d8b7fcb7a9e1bb68909",
-    "name": "Tether USD",
-    "symbol": "USDT",
-    "decimals": 6,
-    "logoURI": "https://ethereum-optimism.github.io/data/USDT/logo.png",
-    "extensions": {
-      "liskBridgeAddress": "0x4200000000000000000000000000000000000010",
-      "opListId": "default",
-      "opTokenId": "USDT"
     }
   },
   {
