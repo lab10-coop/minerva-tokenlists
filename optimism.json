@@ -1845,6 +1845,19 @@
   },
   {
     "chainId": 1,
+    "address": "0x82967568a57625675b260ebab1294038c9accc6e",
+    "name": "Nova DAO",
+    "symbol": "NOVA",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/NOVA/logo.png",
+    "extensions": {
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "opListId": "extended",
+      "opTokenId": "NOVA"
+    }
+  },
+  {
+    "chainId": 1,
     "address": "0x82d09e30d5d682d69b4a5d97c61b7ba651457625",
     "name": "Token Name Service",
     "symbol": "TKN",
@@ -7126,6 +7139,19 @@
     "extensions": {
       "opListId": "extended",
       "opTokenId": "PLG"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0x7cea109fc3516ed1248ae9aa67b5a352cf74075e",
+    "name": "Nova DAO",
+    "symbol": "NOVA",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/NOVA/logo.png",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "NOVA"
     }
   },
   {
