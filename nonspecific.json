@@ -337,6 +337,16 @@
     ]
   },
   {
+    "address": "0x4f604735c1cf31399c6e711d5962b2b3e0225ad3",
+    "name": "Glo Dollar",
+    "symbol": "USDGLO",
+    "decimals": 18,
+    "chainId": 10,
+    "tags": [
+      "underlying"
+    ]
+  },
+  {
     "address": "0x528cdc92eab044e1e39fe43b9514bfdab4412b98",
     "name": "Giveth Token",
     "symbol": "GIV",
@@ -421,6 +431,22 @@
     ]
   },
   {
+    "address": "0x9f41d0aa24e599fd8d0c180ee3c0f609dc41c622",
+    "name": "Super Glo Dollar",
+    "symbol": "USDGLOx",
+    "decimals": 18,
+    "chainId": 10,
+    "extensions": {
+      "superTokenInfo": {
+        "type": "Wrapper",
+        "underlyingTokenAddress": "0x4f604735c1cf31399c6e711d5962b2b3e0225ad3"
+      }
+    },
+    "tags": [
+      "supertoken"
+    ]
+  },
+  {
     "address": "0xbd80cfa9d93a87d1bb895f810ea348e496611cd4",
     "name": "Own a fraction",
     "symbol": "FRACTION",
@@ -460,6 +486,23 @@
     "logoURI": "https://raw.githubusercontent.com/superfluid-finance/assets/master/public/tokens/dai/icon.svg",
     "tags": [
       "underlying"
+    ]
+  },
+  {
+    "address": "0x0419e1fa3671754f77ec7d5416219a5f9a08b530",
+    "name": "Super Binance-Peg USD coin",
+    "symbol": "USDCx",
+    "decimals": 18,
+    "chainId": 56,
+    "extensions": {
+      "superTokenInfo": {
+        "type": "Wrapper",
+        "underlyingTokenAddress": "0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d"
+      }
+    },
+    "logoURI": "https://raw.githubusercontent.com/superfluid-finance/assets/master/public/tokens/usdc/icon.svg",
+    "tags": [
+      "supertoken"
     ]
   },
   {
@@ -504,6 +547,17 @@
     "logoURI": "https://raw.githubusercontent.com/superfluid-finance/assets/master/public/tokens/rb/icon.png",
     "tags": [
       "supertoken"
+    ]
+  },
+  {
+    "address": "0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d",
+    "name": "USD Coin",
+    "symbol": "USDC",
+    "decimals": 18,
+    "chainId": 56,
+    "logoURI": "https://raw.githubusercontent.com/superfluid-finance/assets/master/public/tokens/usdc/icon.svg",
+    "tags": [
+      "underlying"
     ]
   },
   {
@@ -2259,6 +2313,16 @@
     ]
   },
   {
+    "address": "0x8906365c65589e87870040d681e51a69e9c6f91e",
+    "name": "ZURF",
+    "symbol": "ZURF",
+    "decimals": 18,
+    "chainId": 137,
+    "tags": [
+      "underlying"
+    ]
+  },
+  {
     "address": "0x8c36336211916c58860f1edf20b0f50ea66d8bd5",
     "name": "Doodle 4081",
     "symbol": "Dood",
@@ -2752,6 +2816,22 @@
     "logoURI": "https://raw.githubusercontent.com/superfluid-finance/assets/master/public/tokens/iballuousd/icon.svg",
     "tags": [
       "underlying"
+    ]
+  },
+  {
+    "address": "0xc3fa1e27a2a58ee476f04d4f4867f06b6e906cc5",
+    "name": "Super Zurf",
+    "symbol": "ZURFx",
+    "decimals": 18,
+    "chainId": 137,
+    "extensions": {
+      "superTokenInfo": {
+        "type": "Wrapper",
+        "underlyingTokenAddress": "0x8906365c65589e87870040d681e51a69e9c6f91e"
+      }
+    },
+    "tags": [
+      "supertoken"
     ]
   },
   {
@@ -3794,6 +3874,17 @@
     ]
   },
   {
+    "address": "0xa411c9aa00e020e4f88bc19996d29c5b7adb4acf",
+    "name": "Xocolatl MXN Stablecoin",
+    "symbol": "XOC",
+    "decimals": 18,
+    "chainId": 8453,
+    "logoURI": "https://raw.githubusercontent.com/superfluid-finance/assets/master/public/tokens/xoc/icon.png",
+    "tags": [
+      "underlying"
+    ]
+  },
+  {
     "address": "0xbf4db8b7a679f89ef38125d5f84dd1446af2ea3b",
     "name": "LeBleuElefant",
     "symbol": "BLEU",
@@ -3873,6 +3964,23 @@
     "chainId": 8453,
     "tags": [
       "underlying"
+    ]
+  },
+  {
+    "address": "0xedf89f2612a5b07fef051e1a0444342b5410c405",
+    "name": "Super Xocolatl MXN Stablecoin",
+    "symbol": "XOCx",
+    "decimals": 18,
+    "chainId": 8453,
+    "extensions": {
+      "superTokenInfo": {
+        "type": "Wrapper",
+        "underlyingTokenAddress": "0xa411c9aa00e020e4f88bc19996d29c5b7adb4acf"
+      }
+    },
+    "logoURI": "https://raw.githubusercontent.com/superfluid-finance/assets/master/public/tokens/xoc/icon.png",
+    "tags": [
+      "supertoken"
     ]
   },
   {

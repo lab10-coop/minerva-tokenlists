@@ -144,6 +144,19 @@
   },
   {
     "chainId": 1,
+    "address": "0x06f3c323f0238c72bf35011071f2b5b7f43a054c",
+    "name": "MASQ",
+    "symbol": "MASQ",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/MASQ/logo.png",
+    "extensions": {
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "opListId": "extended",
+      "opTokenId": "MASQ"
+    }
+  },
+  {
+    "chainId": 1,
     "address": "0x0763fdccf1ae541a5961815c0872a8c5bc6de4d7",
     "name": "SUKU",
     "symbol": "SUKU",
@@ -6720,6 +6733,19 @@
   },
   {
     "chainId": 8453,
+    "address": "0x45d9c101a3870ca5024582fd788f4e1e8f7971c3",
+    "name": "MASQ",
+    "symbol": "MASQ",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/MASQ/logo.png",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "MASQ"
+    }
+  },
+  {
+    "chainId": 8453,
     "address": "0x4621b7a9c75199271f773ebd9a499dbd165c3191",
     "name": "Dola USD Stablecoin",
     "symbol": "DOLA",
@@ -8613,6 +8639,19 @@
   },
   {
     "chainId": 84532,
+    "address": "0x898e1ce720084a902bc37dd822ed6d6a5f027e10",
+    "name": "tMASQ",
+    "symbol": "tMASQ",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/MASQ/logo.png",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "MASQ"
+    }
+  },
+  {
+    "chainId": 84532,
     "address": "0x9a7be36df8221f5a3971693f5d71d2c471785478",
     "name": "BLOCKLORDS",
     "symbol": "LRDS",
@@ -8881,6 +8920,19 @@
       "baseBridgeAddress": "0xfd0Bf71F60660E2f608ed56e1659C450eB113120",
       "opListId": "extended",
       "opTokenId": "OPENLOOT"
+    }
+  },
+  {
+    "chainId": 11155111,
+    "address": "0x574338ffb9471c7a260e338478409ed0f8900ea5",
+    "name": "tMASQ",
+    "symbol": "tMASQ",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/MASQ/logo.png",
+    "extensions": {
+      "baseBridgeAddress": "0xfd0Bf71F60660E2f608ed56e1659C450eB113120",
+      "opListId": "extended",
+      "opTokenId": "MASQ"
     }
   },
   {
