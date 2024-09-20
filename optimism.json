@@ -1972,6 +1972,7 @@
     "logoURI": "https://ethereum-optimism.github.io/data/TRB/logo.png",
     "extensions": {
       "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1",
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
       "opListId": "extended",
       "opTokenId": "TRB"
     }
@@ -2464,6 +2465,19 @@
       "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
       "opListId": "default",
       "opTokenId": "rETH"
+    }
+  },
+  {
+    "chainId": 1,
+    "address": "0xaea46a60368a7bd060eec7df8cba43b7ef41ad85",
+    "name": "Fetch",
+    "symbol": "FET",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/ASI/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "opListId": "extended",
+      "opTokenId": "ASI"
     }
   },
   {
@@ -7105,6 +7119,19 @@
   },
   {
     "chainId": 8453,
+    "address": "0x74f804b4140ee70830b3eef4e690325841575f89",
+    "name": "Fetch",
+    "symbol": "FET",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/ASI/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "ASI"
+    }
+  },
+  {
+    "chainId": 8453,
     "address": "0x76ff2ab6b34142421f44a68cc8dd08f45f9ee2f2",
     "name": "PIP",
     "symbol": "PIP",
@@ -8266,6 +8293,19 @@
   },
   {
     "chainId": 8453,
+    "address": "0xf8e9e61ffb2b491f7df29823a76009743671cd96",
+    "name": "Tellor",
+    "symbol": "TRB",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/TRB/logo.png",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "TRB"
+    }
+  },
+  {
+    "chainId": 8453,
     "address": "0xfa980ced6895ac314e7de34ef1bfae90a5add21b",
     "name": "Prime",
     "symbol": "PRIME",
@@ -8742,6 +8782,19 @@
     }
   },
   {
+    "chainId": 84532,
+    "address": "0xfe8b6a4586a67160d27962dc153bf0e7e76fbf68",
+    "name": "True",
+    "symbol": "TRUE",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/TRUE/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "TRUE"
+    }
+  },
+  {
     "chainId": 11155111,
     "address": "0x0000000000000000000000000000000000000000",
     "name": "Ether",
@@ -8946,6 +8999,19 @@
       "baseBridgeAddress": "0xfd0Bf71F60660E2f608ed56e1659C450eB113120",
       "opListId": "extended",
       "opTokenId": "TYBENG"
+    }
+  },
+  {
+    "chainId": 11155111,
+    "address": "0x90c9155ec3c2c4ad624db896864fc62eb3d62626",
+    "name": "True",
+    "symbol": "TRUE",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/TRUE/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0xfd0Bf71F60660E2f608ed56e1659C450eB113120",
+      "opListId": "extended",
+      "opTokenId": "TRUE"
     }
   },
   {
