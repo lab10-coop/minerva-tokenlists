@@ -1073,6 +1073,14 @@
   },
   {
     "chainId": 1,
+    "name": "Burger",
+    "address": "0x01e7cd5ce65bdf04de97c22f817123cd0e9eca0d",
+    "decimals": 18,
+    "symbol": "BURGER",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/33090.png"
+  },
+  {
+    "chainId": 1,
     "name": "Sonic",
     "address": "0x01e87d74b11f656a673a3e7c441425816213eb0c",
     "decimals": 18,
@@ -5462,14 +5470,6 @@
     "decimals": 9,
     "symbol": "REEE",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/31720.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x0d827543d120f49f0614ca1cb2fa18f96ac817f0",
-    "name": "Samurai Bot",
-    "symbol": "SAMBO",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/36047/thumb/6523753be331313328630eae_Sambo_logo_stacked_transparent-p-500.png?1710401756"
   },
   {
     "chainId": 1,
@@ -11132,11 +11132,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x1bb4afbf2ce0c9ec86e6414ad4ba4d9aab1c0de4",
     "name": "TORA NEKO",
-    "symbol": "TORA",
+    "address": "0x1bb4afbf2ce0c9ec86e6414ad4ba4d9aab1c0de4",
     "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/50250/thumb/YaRSKn4Q_400x400.jpg?1726693699"
+    "symbol": "TORA",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/33086.png"
   },
   {
     "chainId": 1,
@@ -12353,6 +12353,14 @@
     "name": "TrueFi Binance USD",
     "decimals": 18,
     "logoURI": "ipfs://QmThfRPR6AYrkDFNZ5rkudRmD3Xcu3WNhbQ5za3g3ueJVX"
+  },
+  {
+    "chainId": 1,
+    "address": "0x1ed5cf624240296d941796970ac745bc24bd4a06",
+    "name": "Poshi World",
+    "symbol": "POSHI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/50283/thumb/Poshi.jpg?1726809501"
   },
   {
     "chainId": 1,
@@ -19692,6 +19700,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x31b6100f5f4466e6daeb1edb2f2ce6e548cf8938",
+    "name": "Puff The Dragon",
+    "symbol": "PUFF",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/35950/thumb/photo_2024-03-11_10.18.27.jpeg?1710240090"
+  },
+  {
+    "chainId": 1,
     "address": "0x31bd628c038f08537e0229f0d8c0a7b18b0cda7b",
     "name": "IntelliQuant",
     "symbol": "INQU",
@@ -22348,11 +22364,11 @@
   },
   {
     "chainId": 1,
+    "name": "Ginnan Doge's Brother",
     "address": "0x375e104af98872e5b4fe951919e504a47db1757c",
-    "name": "Ginnan Doge s Brother",
-    "symbol": "GINNAN",
     "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/50262/thumb/Ginnan_Doge's_Brother.png?1726725076"
+    "symbol": "GINNAN",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/33091.png"
   },
   {
     "chainId": 1,
@@ -46092,6 +46108,14 @@
   },
   {
     "chainId": 1,
+    "name": "RUNEVM",
+    "address": "0x72d4bc91fbd9b257eae62a5758288d9797c9a76a",
+    "decimals": 9,
+    "symbol": "RUNEVM",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/33083.png"
+  },
+  {
+    "chainId": 1,
     "name": "Mishka",
     "address": "0x72d7b17bf63322a943d4a2873310a83dcdbc3c8d",
     "decimals": 18,
@@ -46374,7 +46398,7 @@
     "chainId": 1,
     "name": "Agoras: Currency of Tau",
     "address": "0x738865301a9b7dd80dc3666dd48cf034ec42bdda",
-    "decimals": 8,
+    "decimals": 18,
     "symbol": "AGRS",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/1037.png"
   },
@@ -68043,14 +68067,6 @@
   },
   {
     "chainId": 1,
-    "address": "0xab97bf5fb097e503bba2c86b7c56c0059ac0dc06",
-    "name": "Chanalog",
-    "symbol": "CHAN",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/32997/thumb/chanalog_token_logo_200.png?1700111084"
-  },
-  {
-    "chainId": 1,
     "name": "YAM V2",
     "address": "0xaba8cac6866b83ae4eec97dd07ed254282f6ad8a",
     "decimals": 24,
@@ -71616,14 +71632,6 @@
     "decimals": 8,
     "symbol": "EGAS",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2128.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xb53b9e28b98c47e87acfd5a85eeb44a0940ecb12",
-    "name": "Ordible",
-    "symbol": "ORB",
-    "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/34524/thumb/IMG_5471.PNG?1705303671"
   },
   {
     "chainId": 1,
@@ -80458,6 +80466,14 @@
     "decimals": 18,
     "symbol": "SPACE",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/11026.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xcc7ed2ab6c3396ddbc4316d2d7c1b59ff9d2091f",
+    "name": "HYDRA",
+    "symbol": "HYDRA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/50284/thumb/IMG_4909.png?1726810420"
   },
   {
     "chainId": 1,
@@ -91348,6 +91364,14 @@
   },
   {
     "chainId": 1,
+    "address": "0xe97ad6cf19f5164ea98db503811f21fdd0257bcd",
+    "name": "VidifyAI",
+    "symbol": "VIDAI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/50282/thumb/200x200.png?1726809361"
+  },
+  {
+    "chainId": 1,
     "address": "0xe97db8503dd3e3eb0286aafc50327c598efdb578",
     "name": "Jinko AI",
     "symbol": "JINKO",
@@ -91924,11 +91948,11 @@
   },
   {
     "chainId": 1,
-    "address": "0xeae00d6f9b16deb1bd584c7965e4c7d762f178a1",
     "name": "XBorg",
-    "symbol": "XBG",
+    "address": "0xeae00d6f9b16deb1bd584c7965e4c7d762f178a1",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/39830/thumb/XBorg_Logo.png?1724209192"
+    "symbol": "XBG",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/33081.png"
   },
   {
     "chainId": 1,
@@ -92516,11 +92540,11 @@
   },
   {
     "chainId": 1,
+    "name": "Lush AI",
     "address": "0xec9333e7dadeebf82d290d6cb12e66cc30ce46b0",
-    "name": "LushAI",
-    "symbol": "LUSH",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/35342/thumb/tokenIcon200x200.png?1708317375"
+    "symbol": "LUSH",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29517.png"
   },
   {
     "chainId": 1,
@@ -96928,14 +96952,6 @@
     "decimals": 18,
     "symbol": "CLUB",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/16802.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xf7790914dc335b20aa19d7c9c9171e14e278a134",
-    "name": "Euro Coinvertible",
-    "symbol": "EUR-C",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/29903/thumb/Screenshot_2023-04-20_at_5.57.42_PM.png?1696528832"
   },
   {
     "chainId": 1,
@@ -105178,6 +105194,14 @@
   },
   {
     "chainId": 250,
+    "address": "0x606ba50fa9fbad28d714d49a43b9028a84ad36ac",
+    "symbol": "BCAT",
+    "name": "BugCat",
+    "decimals": 18,
+    "logoURI": "ipfs://QmXrpWapCqQXPvxSPnCKf1bJ9f7VRVcmK4XLNhixyBXKhz"
+  },
+  {
+    "chainId": 250,
     "address": "0x6626c47c00f1d87902fc13eecfac3ed06d5e8d8a",
     "symbol": "WOO",
     "name": "WOO Network",
@@ -105330,6 +105354,14 @@
   },
   {
     "chainId": 250,
+    "address": "0xb8a32897016c1b2ee0797090162eafe58f032795",
+    "symbol": "ECO",
+    "name": "FantomEco",
+    "decimals": 18,
+    "logoURI": "ipfs://QmcU99MJAa8SvYZqDXUxeaoYCoXQS47Mw58ZfutaKXoFzM"
+  },
+  {
+    "chainId": 250,
     "address": "0xc165d941481e68696f43ee6e99bfb2b23e0e3114",
     "symbol": "OXD",
     "name": "0xDAO",
@@ -105474,6 +105506,14 @@
   },
   {
     "chainId": 324,
+    "address": "0x160e07e42adbc1fce92d505b579bcd8a3fbea77d",
+    "symbol": "FANG",
+    "name": "DraculaFi",
+    "decimals": 18,
+    "logoURI": "ipfs://QmYfB2GbPnMkdgH4ByPwbaApdxuQqNdwiptABV4K7NSW6W"
+  },
+  {
+    "chainId": 324,
     "address": "0x16a9494e257703797d747540f01683952547ee5b",
     "symbol": "iZi",
     "name": "iZUMi",
@@ -105495,6 +105535,14 @@
     "name": "Binance USD",
     "decimals": 18,
     "logoURI": "ipfs://QmP5x1DrWEC5Ku7d5nRjVC52oyHGJMbbHSzYfEmgLqCuap"
+  },
+  {
+    "chainId": 324,
+    "address": "0x240f765af2273b0cab6caff2880d6d8f8b285fa4",
+    "symbol": "SWORD",
+    "name": "eZKalibur",
+    "decimals": 18,
+    "logoURI": "ipfs://QmWtgRmhSrm3riUeZCG8jPrtLu4Z1NjDUR7TqEwHh5WeEh"
   },
   {
     "chainId": 324,
@@ -105583,6 +105631,14 @@
     "name": "Gravita Protocol",
     "decimals": 18,
     "logoURI": "ipfs://QmXneQLdTxNiGMZjR1uneArSKyWBi4eypZ6jNJrHLNTSP2"
+  },
+  {
+    "chainId": 324,
+    "address": "0x5fd37f12029511f17c1898477f7fb685cf6c0c0f",
+    "symbol": "KZ",
+    "name": "KZ",
+    "decimals": 18,
+    "logoURI": "ipfs://QmNoEfjPBuWPnVXXmZAsA6RieX9pTPBxfzhyJjR1jLJMPv"
   },
   {
     "chainId": 324,
