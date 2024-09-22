@@ -2237,7 +2237,7 @@
     "name": "Mugi",
     "symbol": "MUGI",
     "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/50253/thumb/mugicoingecko.png?1726721976"
+    "logoURI": "https://assets.coingecko.com/coins/images/50253/thumb/mugicg.png?1726899935"
   },
   {
     "chainId": 1,
@@ -23713,6 +23713,14 @@
     "decimals": 18,
     "symbol": "CJT",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2715.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x3abe404faa776d2a833d554a068ef1a58193f080",
+    "name": "Kozue",
+    "symbol": "KOZUE",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/50288/thumb/photo_2024-09-21_01-06-33.jpg?1726884978"
   },
   {
     "chainId": 1,
@@ -52964,6 +52972,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x85bea4ee627b795a79583fcede229e198aa57055",
+    "name": "Marvin Inu",
+    "symbol": "MARVIN",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/50295/thumb/1000000558.jpg?1726932121"
+  },
+  {
+    "chainId": 1,
     "address": "0x85c4edc43724e954e5849caaab61a26a9cb65f1b",
     "symbol": "BBCH",
     "name": "Binance Wrapped BCH",
@@ -54737,6 +54753,14 @@
     "decimals": 18,
     "symbol": "CGT",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/15622.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x898843fb909e3562c82f2b96f4e3d0693af041df",
+    "name": "Lemonrocks",
+    "symbol": "LEMON",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/50291/thumb/Lemonrocks.png?1726904184"
   },
   {
     "chainId": 1,
@@ -80473,7 +80497,7 @@
     "name": "HYDRA",
     "symbol": "HYDRA",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/50284/thumb/IMG_4909.png?1726810420"
+    "logoURI": "https://assets.coingecko.com/coins/images/50284/thumb/IMG_4950.png?1726895683"
   },
   {
     "chainId": 1,
@@ -82170,14 +82194,6 @@
     "decimals": 18,
     "symbol": "NOVA",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/27537.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xd0bcb2c156a3507670f9bedc319a6409c41ba68e",
-    "name": "DeepL",
-    "symbol": "DEEPL",
-    "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/35525/thumb/photo_2024-02-23_17-54-05.jpg?1709015938"
   },
   {
     "chainId": 1,
@@ -125643,6 +125659,18 @@
       "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "extended",
       "opTokenId": "WEXO"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0xac27fa800955849d6d17cc8952ba9dd6eaa66187",
+    "name": "UnlockProtocolToken",
+    "symbol": "UP",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/UP/logo.svg",
+    "extensions": {
+      "opListId": "extended",
+      "opTokenId": "UP"
     }
   },
   {
