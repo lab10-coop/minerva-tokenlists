@@ -3557,6 +3557,20 @@
   },
   {
     "chainId": 1,
+    "address": "0xf35155e38c8750372ca024a3d1b5cc7174aaabbc",
+    "name": "Travel Deals",
+    "symbol": "CTRAVL",
+    "decimals": 4,
+    "logoURI": "https://ethereum-optimism.github.io/data/CTRAVL/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1",
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "opListId": "extended",
+      "opTokenId": "CTRAVL"
+    }
+  },
+  {
+    "chainId": 1,
     "address": "0xf4308b0263723b121056938c2172868e408079d0",
     "name": "CryoDAO",
     "symbol": "CRYO",
@@ -5651,6 +5665,19 @@
   },
   {
     "chainId": 10,
+    "address": "0xefcc1bacd639619135746bd8113b70abbfa6c7b0",
+    "name": "Travel Deals",
+    "symbol": "CTRAVL",
+    "decimals": 4,
+    "logoURI": "https://ethereum-optimism.github.io/data/CTRAVL/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "CTRAVL"
+    }
+  },
+  {
+    "chainId": 10,
     "address": "0xf1a0da3367bc7aa04f8d94ba57b862ff37ced174",
     "name": "ShapeShift FOX",
     "symbol": "FOX",
@@ -5959,6 +5986,19 @@
       "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "extended",
       "opTokenId": "TKAI"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0x136b80f6aa5d03456eaae779747cc0a5f6835899",
+    "name": "Travel Deals",
+    "symbol": "CTRAVL",
+    "decimals": 4,
+    "logoURI": "https://ethereum-optimism.github.io/data/CTRAVL/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "CTRAVL"
     }
   },
   {
