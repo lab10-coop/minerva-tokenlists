@@ -1379,6 +1379,19 @@
   },
   {
     "chainId": 1,
+    "address": "0x61cc6af18c351351148815c5f4813a16dee7a7e4",
+    "name": "WalletConnect",
+    "symbol": "WCT",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/WCT/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1",
+      "opListId": "extended",
+      "opTokenId": "WCT"
+    }
+  },
+  {
+    "chainId": 1,
     "address": "0x6399c842dd2be3de30bf99bc7d1bbf6fa3650e70",
     "name": "Premia",
     "symbol": "PREMIA",
@@ -3865,6 +3878,19 @@
       "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "extended",
       "opTokenId": "LPF"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0x0b432610c50ab5794ed030708a811a7ea71df58f",
+    "name": "WalletConnect",
+    "symbol": "WCT",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/WCT/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "WCT"
     }
   },
   {
