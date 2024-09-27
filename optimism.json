@@ -1985,6 +1985,7 @@
     "logoURI": "https://ethereum-optimism.github.io/data/TRB/logo.png",
     "extensions": {
       "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1",
+      "liskBridgeAddress": "0x2658723Bf70c7667De6B25F99fcce13A16D25d08",
       "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
       "opListId": "extended",
       "opTokenId": "TRB"
@@ -2117,6 +2118,7 @@
     "extensions": {
       "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1",
       "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "metall2BridgeAddress": "0x6d0f65D59b55B0FEC5d2d15365154DcADC140BF3",
       "opListId": "extended",
       "opTokenId": "MUGLOO"
     }
@@ -3370,6 +3372,19 @@
       "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
       "opListId": "extended",
       "opTokenId": "FACTR"
+    }
+  },
+  {
+    "chainId": 1,
+    "address": "0xe0f63a424a4439cbe457d80e4f4b51ad25b2c56c",
+    "name": "SPX6900",
+    "symbol": "SPX",
+    "decimals": 8,
+    "logoURI": "https://ethereum-optimism.github.io/data/SPX/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x3ee18b2214aff97000d974cf647e7c347e8fa585",
+      "opListId": "extended",
+      "opTokenId": "SPX"
     }
   },
   {
@@ -5848,6 +5863,19 @@
   },
   {
     "chainId": 1135,
+    "address": "0x665060707c3ea3c31b3eabad7f409072446e1d50",
+    "name": "Tellor",
+    "symbol": "TRB",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/TRB/logo.png",
+    "extensions": {
+      "liskBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "TRB"
+    }
+  },
+  {
+    "chainId": 1135,
     "address": "0xac485391eb2d7d88253a7f1ef18c37f4242d1a24",
     "name": "Lisk",
     "symbol": "LSK",
@@ -5857,6 +5885,19 @@
       "liskBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "extended",
       "opTokenId": "LSK"
+    }
+  },
+  {
+    "chainId": 1750,
+    "address": "0xf1f9ccc7638f124c3d9354be0ede2acb5f0a15bc",
+    "name": "Mugloo",
+    "symbol": "MUGLOO",
+    "decimals": 4,
+    "logoURI": "https://ethereum-optimism.github.io/data/MUGLOO/logo.svg",
+    "extensions": {
+      "metall2BridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "MUGLOO"
     }
   },
   {
@@ -6899,6 +6940,19 @@
       "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "default",
       "opTokenId": "DAI"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0x50da645f148798f68ef2d7db7c1cb22a6819bb2c",
+    "name": "SPX6900",
+    "symbol": "SPX",
+    "decimals": 8,
+    "logoURI": "https://ethereum-optimism.github.io/data/SPX/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x8d2de8d2f73f1f4cab472ac9a881c9b123c79627",
+      "opListId": "extended",
+      "opTokenId": "SPX"
     }
   },
   {
