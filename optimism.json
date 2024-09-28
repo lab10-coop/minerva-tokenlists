@@ -917,6 +917,19 @@
   },
   {
     "chainId": 1,
+    "address": "0x423071774c43c0aaf4210b439e7cda8c797e2f26",
+    "name": "GALAXIS Token",
+    "symbol": "GALAXIS",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/GALAXIS/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "opListId": "extended",
+      "opTokenId": "GALAXIS"
+    }
+  },
+  {
+    "chainId": 1,
     "address": "0x42bbfa2e77757c645eeaad1655e0911a7553efbc",
     "name": "Boba Token",
     "symbol": "BOBA",
@@ -6464,6 +6477,19 @@
       "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "default",
       "opTokenId": "cbETH"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0x2d189eabb667aa1ecfc01963a6a3a5d83960f558",
+    "name": "GALAXIS Token",
+    "symbol": "GALAXIS",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/GALAXIS/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "GALAXIS"
     }
   },
   {

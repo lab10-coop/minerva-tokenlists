@@ -1655,8 +1655,8 @@
   },
   {
     "address": "0x3ad736904e9e65189c3000c7dd2c8ac8bb7cd4e3",
-    "name": "Super MATIC",
-    "symbol": "MATICx",
+    "name": "Super POL",
+    "symbol": "POLx",
     "decimals": 18,
     "chainId": 137,
     "extensions": {
@@ -1665,7 +1665,7 @@
         "underlyingTokenAddress": "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270"
       }
     },
-    "logoURI": "https://superfluid-finance.github.io/tokenlist/icons/matic.svg",
+    "logoURI": "https://superfluid-finance.github.io/tokenlist/icons/pol.svg",
     "tags": [
       "supertoken"
     ]
@@ -3927,6 +3927,17 @@
     ]
   },
   {
+    "address": "0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf",
+    "name": "Coinbase Wrapped BTC",
+    "symbol": "cbBTC",
+    "decimals": 8,
+    "chainId": 8453,
+    "logoURI": "https://superfluid-finance.github.io/tokenlist/icons/cbbtc.svg",
+    "tags": [
+      "underlying"
+    ]
+  },
+  {
     "address": "0xcff9afb51c235318874a03dc206223bfa2ed9e50",
     "name": "Super King Token",
     "symbol": "KINGx",
@@ -3968,6 +3979,23 @@
     "chainId": 8453,
     "tags": [
       "underlying"
+    ]
+  },
+  {
+    "address": "0xdfd428908909cb5e24f5e79e6ad6bde10bdf2327",
+    "name": "Super Coinbase Wrapped BTC",
+    "symbol": "cbBTCx",
+    "decimals": 18,
+    "chainId": 8453,
+    "extensions": {
+      "superTokenInfo": {
+        "type": "Wrapper",
+        "underlyingTokenAddress": "0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf"
+      }
+    },
+    "logoURI": "https://superfluid-finance.github.io/tokenlist/icons/cbbtc.svg",
+    "tags": [
+      "supertoken"
     ]
   },
   {

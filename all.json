@@ -5273,6 +5273,14 @@
   },
   {
     "chainId": 1,
+    "name": "MISHA",
+    "address": "0x0ccae1bc46fb018dd396ed4c45565d4cb9d41098",
+    "decimals": 9,
+    "symbol": "MISHA",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/33201.png"
+  },
+  {
+    "chainId": 1,
     "name": "VertexMarket",
     "address": "0x0cdcda4e7fcdd461ba82b61cbc4163e1022f22e4",
     "decimals": 5,
@@ -7070,6 +7078,14 @@
     "decimals": 9,
     "symbol": "NYXT",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/16739.png"
+  },
+  {
+    "chainId": 1,
+    "name": "GOAT",
+    "address": "0x119533669866cfc69cbc41dd77db7e634b92c0a7",
+    "decimals": 18,
+    "symbol": "GOAT",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/33202.png"
   },
   {
     "chainId": 1,
@@ -10222,6 +10238,14 @@
     "decimals": 18,
     "symbol": "DRE",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/12317.png"
+  },
+  {
+    "chainId": 1,
+    "name": "eMetals",
+    "address": "0x197dc7a8a58a7e4f6a5cb82302e8646a125798e7",
+    "decimals": 18,
+    "symbol": "MTLS",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/33189.png"
   },
   {
     "chainId": 1,
@@ -24636,14 +24660,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x3d1e5cf16077f349e999d6b21a4f646e83cd90c5",
-    "name": "Stakehouse dETH",
-    "symbol": "DETH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/33657/thumb/dETH.png?1702598011"
-  },
-  {
-    "chainId": 1,
     "name": "OMEGA FINANCE",
     "address": "0x3d1f5e133c2988d14a0c13bdd2b58d260e74ef9a",
     "decimals": 9,
@@ -35713,6 +35729,14 @@
     "decimals": 9,
     "symbol": "CHGPT",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/24472.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x5972169d49654dda92af57d11d4362fa72c15b03",
+    "name": "Zegent AI",
+    "symbol": "ZGEN",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/50380/thumb/full_logo_dark.png?1727410850"
   },
   {
     "chainId": 1,
@@ -66635,11 +66659,11 @@
   },
   {
     "chainId": 1,
+    "name": "Ceremonies AI",
     "address": "0xa71261c2b51cb8030700f5601ca597c522dc232e",
-    "name": "Sage Market",
-    "symbol": "SAGE",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/38811/thumb/Logo_for_CMC_200x200.png?1719069825"
+    "symbol": "SAGE",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/33191.png"
   },
   {
     "chainId": 1,
@@ -78750,14 +78774,6 @@
   },
   {
     "chainId": 1,
-    "address": "0xc71d8baaa436aa7e42da1f40bec48f11ab3c9e4a",
-    "name": "iEthereum",
-    "symbol": "IETH",
-    "decimals": 8,
-    "logoURI": "https://assets.coingecko.com/coins/images/1065/thumb/ieth.png?1696502169"
-  },
-  {
-    "chainId": 1,
     "name": "INRx",
     "address": "0xc71dac923823d748a86d0a3618abda2d6dcd6bf4",
     "decimals": 18,
@@ -87261,14 +87277,6 @@
   },
   {
     "chainId": 1,
-    "address": "0xdd23410f1fff27279c7314ff4735e71852084ddf",
-    "name": "Volume AI",
-    "symbol": "VAI",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/35869/thumb/photo_2024-02-29_17-06-28.jpg?1709973817"
-  },
-  {
-    "chainId": 1,
     "name": "WELD",
     "address": "0xdd2a36ae937bc134ea694d77fc7e2e36f5d86de0",
     "decimals": 18,
@@ -90457,6 +90465,14 @@
     "decimals": 9,
     "symbol": "NAMI",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/12563.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Elon's First Dog",
+    "address": "0xe624f7fc8596fdca5fdb745c570633a962c6d5f8",
+    "decimals": 18,
+    "symbol": "GATSBY",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/33200.png"
   },
   {
     "chainId": 1,
@@ -110923,13 +110939,22 @@
     "trending": false
   },
   {
+    "name": "Oshi Token",
+    "address": "0x09cad96bc28f55e9253cfb9a84a3a1ab79061e54",
+    "symbol": "OSHI",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://i.imgur.com/EcvUnvH.png",
+    "trending": false
+  },
+  {
     "name": "Wrapped Polygon Ecosystem Token",
     "address": "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270",
     "symbol": "WPOL",
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://i.imgur.com/uIExoAr.png",
-    "trending": true
+    "trending": false
   },
   {
     "name": "pBORA",
@@ -111029,7 +111054,7 @@
     "decimals": 8,
     "chainId": 137,
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png",
-    "trending": true
+    "trending": false
   },
   {
     "name": "ROND Coin",
@@ -111213,7 +111238,7 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7046.png",
-    "trending": false
+    "trending": true
   },
   {
     "chainId": 137,
@@ -111470,7 +111495,7 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x514910771AF9Ca656af840dff83E8264EcF986CA/logo.png",
-    "trending": false
+    "trending": true
   },
   {
     "name": "Virtuswap Token",
@@ -111496,15 +111521,6 @@
     "decimals": 18,
     "symbol": "NEXT",
     "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-dapplist/main/images/dapp_connextbridge.png"
-  },
-  {
-    "name": "3A Utility Token",
-    "address": "0x58c7b2828e7f2b2caa0cc7feef242fa3196d03df",
-    "symbol": "A3A",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://1453456140-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FGbmVIsiJFchsVf8GkrQQ%2Fuploads%2FRgMuxRx6ZSaL6tvYjz18%2FA3A%20Black%20Logo.svg?alt=media&token=874a31a9-323c-4541-8634-1c097a8993c0",
-    "trending": false
   },
   {
     "name": "Revolt 2 Earn",
@@ -111604,15 +111620,6 @@
     "trending": false
   },
   {
-    "name": "Axelar",
-    "address": "0x6e4e624106cb12e168e6533f8ec7c82263358940",
-    "symbol": "AXL",
-    "decimals": 6,
-    "chainId": 137,
-    "logoURI": "https://assets.coingecko.com/coins/images/27277/small/V-65_xQ1_400x400.jpeg?1663121730",
-    "trending": false
-  },
-  {
     "name": "FoodChain Global",
     "address": "0x6f06e6bed64cf4c4187c06ee2a4732f6a171bc4e",
     "symbol": "FOOD",
@@ -111706,7 +111713,7 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
-    "trending": true
+    "trending": false
   },
   {
     "name": "SOL",
@@ -111804,7 +111811,7 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://polydoge.com/doge-webpage_files/doge.png",
-    "trending": false
+    "trending": true
   },
   {
     "name": "Kinetix Finance",
@@ -111883,24 +111890,6 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/24232.png",
-    "trending": false
-  },
-  {
-    "name": "Bullieverse",
-    "address": "0x9f95e17b2668afe01f8fbd157068b0a4405cc08d",
-    "symbol": "BULL",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://i.imgur.com/La2jNVp.png",
-    "trending": false
-  },
-  {
-    "name": "EURO3",
-    "address": "0xa0e4c84693266a9d3bbef2f394b33712c76599ab",
-    "symbol": "EURO3",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://1453456140-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FGbmVIsiJFchsVf8GkrQQ%2Fuploads%2FJFuzcTfT6VY07JRY5cX7%2FEURO3%20Black%20Logo.svg?alt=media&token=c3cdfe3d-e847-4ff2-a2fa-d738a1386453",
     "trending": false
   },
   {
@@ -112118,7 +112107,7 @@
     "decimals": 6,
     "chainId": 137,
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png",
-    "trending": true
+    "trending": false
   },
   {
     "name": "Lucidao",
@@ -112154,15 +112143,6 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://adamant.finance/img/adamant.png",
-    "trending": false
-  },
-  {
-    "name": "Borderless Money",
-    "address": "0xc59132fbdf8de8fbe510f568a5d831c991b4fc38",
-    "symbol": "BOM",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://www.borderless.money/logo-200x200.png",
     "trending": false
   },
   {
@@ -112309,7 +112289,7 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://assets.coingecko.com/coins/images/20927/small/IXT_SYMBOL_SVG_RGB_BLACK.png?1637934555",
-    "trending": false
+    "trending": true
   },
   {
     "name": "zkRace",
@@ -112380,7 +112360,7 @@
     "decimals": 9,
     "chainId": 137,
     "logoURI": "https://i.imgur.com/egPMCht.png",
-    "trending": false
+    "trending": true
   },
   {
     "name": "MEE Governance Token",
@@ -112559,15 +112539,6 @@
     "decimals": 8,
     "chainId": 169,
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png",
-    "trending": false
-  },
-  {
-    "name": "GOK",
-    "address": "0x387660bc95682587efc12c543c987abf0fb9778f",
-    "symbol": "GOK",
-    "decimals": 18,
-    "chainId": 169,
-    "logoURI": "https://raw.githubusercontent.com/Goku-Money/Media-kit/main/token_GOK.png",
     "trending": false
   },
   {
@@ -112841,6 +112812,15 @@
     "trending": false
   },
   {
+    "name": "Polygon Ecosystem Token",
+    "address": "0x22b21beddef74fe62f031d2c5c8f7a9f8a4b304d",
+    "symbol": "POL",
+    "decimals": 18,
+    "chainId": 1101,
+    "logoURI": "https://zkevm.polygonscan.com/token/images/pol_32.png",
+    "trending": false
+  },
+  {
     "name": "USD Coin",
     "address": "0x37eaa0ef3549a5bb7d431be78a3d99bd360d19e5",
     "symbol": "USDC.E",
@@ -112904,15 +112884,6 @@
     "trending": false
   },
   {
-    "name": "Frax Share",
-    "address": "0x6b856a14cea1d7dcfaf80fa6936c0b75972ccace",
-    "symbol": "FXS",
-    "decimals": 18,
-    "chainId": 1101,
-    "logoURI": "https://assets.coingecko.com/coins/images/13423/small/Frax_Shares_icon.png?1679886947",
-    "trending": false
-  },
-  {
     "name": "Dai Stablecoin",
     "address": "0x744c5860ba161b5316f7e80d9ec415e2727e5bd5",
     "symbol": "DAI.E",
@@ -112928,15 +112899,6 @@
     "decimals": 18,
     "chainId": 1101,
     "logoURI": "https://i.ibb.co/RpQ65xN/imgonline-com-ua-Resize-s-Hpa1-XPD6-NKFN4-P.png",
-    "trending": false
-  },
-  {
-    "name": "Staked MATIC",
-    "address": "0x83b874c1e09d316059d929da402dcb1a98e92082",
-    "symbol": "stMATIC",
-    "decimals": 18,
-    "chainId": 1101,
-    "logoURI": "https://assets.coingecko.com/coins/images/24185/small/stMATIC.png?1646789287",
     "trending": false
   },
   {
@@ -112973,24 +112935,6 @@
     "decimals": 18,
     "chainId": 1101,
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png",
-    "trending": false
-  },
-  {
-    "name": "Wrapped eETH",
-    "address": "0xcd68dff4415358c35a28f96fd5bf7083b22de1d6",
-    "symbol": "weETH",
-    "decimals": 18,
-    "chainId": 1101,
-    "logoURI": "https://etherfi-membership-metadata.s3.ap-southeast-1.amazonaws.com/weETH.png",
-    "trending": false
-  },
-  {
-    "name": "Frax Ether",
-    "address": "0xcf7ecee185f19e2e970a301ee37f93536ed66179",
-    "symbol": "frxETH",
-    "decimals": 18,
-    "chainId": 1101,
-    "logoURI": "https://assets.coingecko.com/coins/images/28284/small/frxETH_icon.png?1679886981",
     "trending": false
   },
   {
@@ -113126,15 +113070,6 @@
     "decimals": 9,
     "chainId": 2000,
     "logoURI": "https://i.imgur.com/X753Wko.jpg",
-    "trending": false
-  },
-  {
-    "name": "Wrapped Bitcoin",
-    "address": "0xfa9343c3897324496a05fc75abed6bac29f8a40f",
-    "symbol": "WBTC",
-    "decimals": 6,
-    "chainId": 2000,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png",
     "trending": false
   },
   {
@@ -113324,6 +113259,15 @@
     "decimals": 18,
     "chainId": 13371,
     "logoURI": "https://i.imgur.com/aoXxQmo.jpeg",
+    "trending": false
+  },
+  {
+    "name": "Nifty League",
+    "address": "0xb0d7e9ff5fb8e739c4990f7920d8047acfae4884",
+    "symbol": "NFTL",
+    "decimals": 18,
+    "chainId": 13371,
+    "logoURI": "https://niftyleague.com/img/logo/NFTL.png",
     "trending": false
   },
   {
@@ -119437,6 +119381,19 @@
   },
   {
     "chainId": 1,
+    "address": "0x423071774c43c0aaf4210b439e7cda8c797e2f26",
+    "name": "GALAXIS Token",
+    "symbol": "GALAXIS",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/GALAXIS/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "opListId": "extended",
+      "opTokenId": "GALAXIS"
+    }
+  },
+  {
+    "chainId": 1,
     "address": "0x42bbfa2e77757c645eeaad1655e0911a7553efbc",
     "name": "Boba Token",
     "symbol": "BOBA",
@@ -124984,6 +124941,19 @@
       "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "default",
       "opTokenId": "cbETH"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0x2d189eabb667aa1ecfc01963a6a3a5d83960f558",
+    "name": "GALAXIS Token",
+    "symbol": "GALAXIS",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/GALAXIS/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "GALAXIS"
     }
   },
   {
@@ -133313,8 +133283,8 @@
   },
   {
     "address": "0x3ad736904e9e65189c3000c7dd2c8ac8bb7cd4e3",
-    "name": "Super MATIC",
-    "symbol": "MATICx",
+    "name": "Super POL",
+    "symbol": "POLx",
     "decimals": 18,
     "chainId": 137,
     "extensions": {
@@ -133323,7 +133293,7 @@
         "underlyingTokenAddress": "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270"
       }
     },
-    "logoURI": "https://superfluid-finance.github.io/tokenlist/icons/matic.svg",
+    "logoURI": "https://superfluid-finance.github.io/tokenlist/icons/pol.svg",
     "tags": [
       "supertoken"
     ]
@@ -135585,6 +135555,17 @@
     ]
   },
   {
+    "address": "0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf",
+    "name": "Coinbase Wrapped BTC",
+    "symbol": "cbBTC",
+    "decimals": 8,
+    "chainId": 8453,
+    "logoURI": "https://superfluid-finance.github.io/tokenlist/icons/cbbtc.svg",
+    "tags": [
+      "underlying"
+    ]
+  },
+  {
     "address": "0xcff9afb51c235318874a03dc206223bfa2ed9e50",
     "name": "Super King Token",
     "symbol": "KINGx",
@@ -135626,6 +135607,23 @@
     "chainId": 8453,
     "tags": [
       "underlying"
+    ]
+  },
+  {
+    "address": "0xdfd428908909cb5e24f5e79e6ad6bde10bdf2327",
+    "name": "Super Coinbase Wrapped BTC",
+    "symbol": "cbBTCx",
+    "decimals": 18,
+    "chainId": 8453,
+    "extensions": {
+      "superTokenInfo": {
+        "type": "Wrapper",
+        "underlyingTokenAddress": "0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf"
+      }
+    },
+    "logoURI": "https://superfluid-finance.github.io/tokenlist/icons/cbbtc.svg",
+    "tags": [
+      "supertoken"
     ]
   },
   {
