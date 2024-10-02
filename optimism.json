@@ -472,6 +472,19 @@
   },
   {
     "chainId": 1,
+    "address": "0x1b40183efb4dd766f11bda7a7c3ad8982e998421",
+    "name": "VesperToken",
+    "symbol": "VSP",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/VSP/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "opListId": "extended",
+      "opTokenId": "VSP"
+    }
+  },
+  {
+    "chainId": 1,
     "address": "0x1bed97cbc3c24a4fb5c069c6e311a967386131f7",
     "name": "Yearn Ether",
     "symbol": "yETH",
@@ -7994,6 +8007,19 @@
       "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "extended",
       "opTokenId": "KIBSHI"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0xc8a7b50498f7d3da97249de165908f0f588490ed",
+    "name": "VesperToken",
+    "symbol": "VSP",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/VSP/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "VSP"
     }
   },
   {
