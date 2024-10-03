@@ -1444,6 +1444,19 @@
   },
   {
     "chainId": 1,
+    "address": "0x677ddbd918637e5f2c79e164d402454de7da8619",
+    "name": "VUSD",
+    "symbol": "VUSD",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/VUSD/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "opListId": "extended",
+      "opTokenId": "VUSD"
+    }
+  },
+  {
+    "chainId": 1,
     "address": "0x6789d8a7a7871923fc6430432a602879ecb6520a",
     "name": "veKwenta",
     "symbol": "veKWENTA",
@@ -1987,6 +2000,19 @@
       "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
       "opListId": "extended",
       "opTokenId": "DOLA"
+    }
+  },
+  {
+    "chainId": 1,
+    "address": "0x86ed939b500e121c0c5f493f399084db596dad20",
+    "name": "SpaceChainV2",
+    "symbol": "SPC",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/SPC/logo.png",
+    "extensions": {
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "opListId": "extended",
+      "opTokenId": "SPC"
     }
   },
   {
@@ -6005,6 +6031,19 @@
   },
   {
     "chainId": 8453,
+    "address": "0x0937876efd6c4101be68cd89ba58d5ecf0d53a64",
+    "name": "VUSD",
+    "symbol": "VUSD",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/VUSD/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "VUSD"
+    }
+  },
+  {
+    "chainId": 8453,
     "address": "0x0956cb4a1d8924680feb671d2e4a122e2114313e",
     "name": "BOOK OF MEME",
     "symbol": "BOME",
@@ -7675,6 +7714,19 @@
       "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "extended",
       "opTokenId": "YFI"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0xa5649b56aa4e74d8661ee9656130072df7666784",
+    "name": "SpaceChainV2",
+    "symbol": "SPC",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/SPC/logo.png",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "SPC"
     }
   },
   {
