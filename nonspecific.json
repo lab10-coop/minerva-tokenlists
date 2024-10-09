@@ -3659,6 +3659,17 @@
     ]
   },
   {
+    "address": "0x3ee5e23eee121094f1cfc0ccc79d6c809ebd22e5",
+    "name": "Ionic",
+    "symbol": "ION",
+    "decimals": 18,
+    "chainId": 8453,
+    "logoURI": "https://superfluid-finance.github.io/tokenlist/icons/ion.png",
+    "tags": [
+      "underlying"
+    ]
+  },
+  {
     "address": "0x46fd5cfb4c12d87acd3a13e92baa53240c661d93",
     "name": "Super ETH",
     "symbol": "ETHx",
@@ -3675,6 +3686,17 @@
     ]
   },
   {
+    "address": "0x48c6740bcf807d6c47c864faeea15ed4da3910ab",
+    "name": "Nounspace",
+    "symbol": "SPACE",
+    "decimals": 18,
+    "chainId": 8453,
+    "logoURI": "https://superfluid-finance.github.io/tokenlist/icons/space.png",
+    "tags": [
+      "underlying"
+    ]
+  },
+  {
     "address": "0x4db26c973fae52f43bd96a8776c2bf1b0dc29556",
     "name": "Super USD Base Coin",
     "symbol": "USDbCx",
@@ -3686,6 +3708,23 @@
         "underlyingTokenAddress": "0xd9aaec86b65d86f6a7b5b1b0c42ffa531710b6ca"
       }
     },
+    "tags": [
+      "supertoken"
+    ]
+  },
+  {
+    "address": "0x4e395ec7b71dd87a23dd836edb3efe15a6c2002b",
+    "name": "Super Nounspace",
+    "symbol": "SPACEx",
+    "decimals": 18,
+    "chainId": 8453,
+    "extensions": {
+      "superTokenInfo": {
+        "type": "Wrapper",
+        "underlyingTokenAddress": "0x48c6740bcf807d6c47c864faeea15ed4da3910ab"
+      }
+    },
+    "logoURI": "https://superfluid-finance.github.io/tokenlist/icons/space.png",
     "tags": [
       "supertoken"
     ]
@@ -3857,6 +3896,23 @@
     ]
   },
   {
+    "address": "0x9097e4a4d75a611b65ab21d98a7d5b1177c050f7",
+    "name": "Super mfercoin",
+    "symbol": "$mferx",
+    "decimals": 18,
+    "chainId": 8453,
+    "extensions": {
+      "superTokenInfo": {
+        "type": "Wrapper",
+        "underlyingTokenAddress": "0xe3086852a4b125803c815a158249ae468a3254ca"
+      }
+    },
+    "logoURI": "https://superfluid-finance.github.io/tokenlist/icons/mfer.png",
+    "tags": [
+      "supertoken"
+    ]
+  },
+  {
     "address": "0x940181a94a35a4569e4529a3cdfb74e38fd98631",
     "name": "Aerodrome",
     "symbol": "AERO",
@@ -3994,6 +4050,34 @@
       }
     },
     "logoURI": "https://superfluid-finance.github.io/tokenlist/icons/cbbtc.svg",
+    "tags": [
+      "supertoken"
+    ]
+  },
+  {
+    "address": "0xe3086852a4b125803c815a158249ae468a3254ca",
+    "name": "mfercoin",
+    "symbol": "$mfer",
+    "decimals": 18,
+    "chainId": 8453,
+    "logoURI": "https://superfluid-finance.github.io/tokenlist/icons/mfer.png",
+    "tags": [
+      "underlying"
+    ]
+  },
+  {
+    "address": "0xe58267cd7299c29a1b77f4e66cd12dd24a2cd2fd",
+    "name": "Super Ionic",
+    "symbol": "IONx",
+    "decimals": 18,
+    "chainId": 8453,
+    "extensions": {
+      "superTokenInfo": {
+        "type": "Wrapper",
+        "underlyingTokenAddress": "0x3ee5e23eee121094f1cfc0ccc79d6c809ebd22e5"
+      }
+    },
+    "logoURI": "https://superfluid-finance.github.io/tokenlist/icons/ion.png",
     "tags": [
       "supertoken"
     ]

@@ -4473,14 +4473,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x0ab902bd4de7521a565f3058fb43d6d01d0d2670",
-    "name": "CogniTechAI",
-    "symbol": "CTI",
-    "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/36672/thumb/dp.png?1712061998"
-  },
-  {
-    "chainId": 1,
     "name": "district0x",
     "address": "0x0abdace70d3790235af448c88547603b945604ea",
     "decimals": 18,
@@ -7129,6 +7121,14 @@
   },
   {
     "chainId": 1,
+    "name": "TAXI",
+    "address": "0x119800a925217ba9a2d656e868483a050c2f919f",
+    "decimals": 9,
+    "symbol": "ROBOTAXI",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/33354.png"
+  },
+  {
+    "chainId": 1,
     "name": "Orbicular",
     "address": "0x11a2ab94ade17e96197c78f9d5f057332a19a0b9",
     "decimals": 9,
@@ -9701,7 +9701,7 @@
     "name": "InnoviaTrust",
     "symbol": "INVA",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/37425/thumb/IMG_20240426_165247_519.jpg?1714378573"
+    "logoURI": "https://assets.coingecko.com/coins/images/37425/thumb/INVA_Icon_500x500.png?1728373307"
   },
   {
     "chainId": 1,
@@ -15028,14 +15028,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x256f2d67e52fe834726d2ddcd8413654f5eb8b53",
-    "name": "Solv Protocol",
-    "symbol": "SOLV",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/27987/thumb/SOLV_LOGO_purple.png?1696527004"
-  },
-  {
-    "chainId": 1,
     "name": "Sponge",
     "address": "0x25722cd432d02895d9be45f5deb60fc479c8781e",
     "decimals": 18,
@@ -15089,6 +15081,14 @@
     "decimals": 18,
     "symbol": "FTRB",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/18386.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Robotaxi",
+    "address": "0x2597342ff387b63846eb456419590781c4bfcdaf",
+    "decimals": 18,
+    "symbol": "TAXI",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/33343.png"
   },
   {
     "chainId": 1,
@@ -15777,6 +15777,14 @@
     "decimals": 4,
     "symbol": "AST",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2058.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x270b7748cdf8243bfe68face7230ef0fce695389",
+    "name": "Hinkal Staked ETH",
+    "symbol": "HETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/50579/thumb/hETH_Icon_CG.png?1728408977"
   },
   {
     "chainId": 1,
@@ -17489,6 +17497,14 @@
     "symbol": "SVM",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/50465/thumb/Group_247_%282%29.png?1727843810"
+  },
+  {
+    "chainId": 1,
+    "address": "0x2bcbec0296cddda988ea88031e43fe247fa6d341",
+    "name": "Moo Tun",
+    "symbol": "MOOTUN",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/50553/thumb/photo_2024-10-07_18.54.17.jpeg?1728351721"
   },
   {
     "chainId": 1,
@@ -20772,14 +20788,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x339e6c8d204b1aaa3fb74bc7ba15b9fb6648b7d2",
-    "name": "Omega Cloud",
-    "symbol": "OMEGA",
-    "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/35930/thumb/2024-03-10_00.16.57.jpg?1710225569"
-  },
-  {
-    "chainId": 1,
     "name": "Pee-Pee",
     "address": "0x33a144cebae0b7f67ffb47fd9dd24f4f4a12cc2d",
     "decimals": 9,
@@ -21700,14 +21708,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x3585c1ee4a9c2144510084182b96af961f4ce10d",
-    "name": "GenAi",
-    "symbol": "GENAI",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/36811/thumb/-yaP5LZ9_400x400.jpg?1712547717"
-  },
-  {
-    "chainId": 1,
     "name": "E1337",
     "address": "0x35872fea6a4843facbcdbce99e3b69596a3680b8",
     "decimals": 4,
@@ -21750,7 +21750,7 @@
     "chainId": 1,
     "name": "Digitra.com Token",
     "address": "0x3590801ecfdf8c2f5e7a4fd171c2e3af964f8b0d",
-    "decimals": 8,
+    "decimals": 18,
     "symbol": "DGTA",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/32293.png"
   },
@@ -22476,11 +22476,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x3739426e21d912b604c106f852d136ba58f61517",
     "name": "Doggo Inu",
-    "symbol": "DOGGO",
+    "address": "0x3739426e21d912b604c106f852d136ba58f61517",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/50541/thumb/doggo_Inu_logo_200x200.png?1728285038"
+    "symbol": "DOGGO",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/33353.png"
   },
   {
     "chainId": 1,
@@ -26644,11 +26644,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x41d06390b935356b46ad6750bda30148ad2044a4",
     "name": "HUSBY",
-    "symbol": "HUSBY",
+    "address": "0x41d06390b935356b46ad6750bda30148ad2044a4",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/40115/thumb/Copy_of_HUSBY-logo_%28500_x_500_px%29_%28200_x_200_px%29.png?1725829546"
+    "symbol": "HUSBY",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/33359.png"
   },
   {
     "chainId": 1,
@@ -26737,6 +26737,14 @@
     "decimals": 18,
     "symbol": "SRT",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/8523.png"
+  },
+  {
+    "chainId": 1,
+    "name": "MSTR2100",
+    "address": "0x42069026eac8eee0fd9b5f7adfa4f6e6d69a2b39",
+    "decimals": 9,
+    "symbol": "MSTR",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/33356.png"
   },
   {
     "chainId": 1,
@@ -29355,7 +29363,7 @@
   {
     "chainId": 1,
     "address": "0x47e5c76f155083f1aee39578311a2a5faa938a82",
-    "name": "TNQ Token",
+    "name": "TNQ",
     "symbol": "TNQ",
     "decimals": 6,
     "logoURI": "https://assets.coingecko.com/coins/images/36533/thumb/TNQ_LOGO.png?1711705168"
@@ -30983,6 +30991,14 @@
     "decimals": 18,
     "symbol": "AUTUMN",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/22601.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x4c44a8b7823b80161eb5e6d80c014024752607f2",
+    "name": "America Pac",
+    "symbol": "PAC",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/50552/thumb/logo-transparent.png?1728350358"
   },
   {
     "chainId": 1,
@@ -34735,6 +34751,14 @@
     "decimals": 8,
     "symbol": "TVNT",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3644.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x5640e0560e6afd6a9f4ddb41230d0201d181fea7",
+    "name": "dark maga",
+    "symbol": "DMAGA",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/50583/thumb/elon.webp?1728416540"
   },
   {
     "chainId": 1,
@@ -42450,6 +42474,14 @@
   },
   {
     "chainId": 1,
+    "name": "US Degen Index 6900",
+    "address": "0x6900f7b42fb4abb615c938db6a26d73a9afbed69",
+    "decimals": 18,
+    "symbol": "DXY",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/33355.png"
+  },
+  {
+    "chainId": 1,
     "name": "QPay",
     "address": "0x6911270d4bc1915744aedd785d41d44f47245bd0",
     "decimals": 18,
@@ -46355,7 +46387,7 @@
   {
     "chainId": 1,
     "address": "0x724af984b63fd53fdedb5ded17063001e3afc3e5",
-    "name": "Rock",
+    "name": "ROCK",
     "symbol": "ROCK",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/39046/thumb/new_logo_rock_200x200.png?1727591245"
@@ -59202,6 +59234,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x93c2bd80cadcfeb541eb5af4052375bde8d6f24f",
+    "name": "Bitcoin Cat",
+    "symbol": "SASHA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/50563/thumb/1000016576.png?1728371014"
+  },
+  {
+    "chainId": 1,
     "name": "Voidz",
     "address": "0x93c5a00b41fb5f3906b421b2399ac64b79fdbd42",
     "decimals": 18,
@@ -62433,11 +62473,11 @@
   },
   {
     "chainId": 1,
-    "name": "Mumu the Bull",
     "address": "0x9b7331c6e98bad1dc8f096ff3d98c93b3b9b1173",
-    "decimals": 18,
+    "name": "Mumu the Bull",
     "symbol": "BULL",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28415.png"
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/32978/thumb/mumu-the-bull_200x200.png?1700071396"
   },
   {
     "chainId": 1,
@@ -76624,6 +76664,14 @@
   },
   {
     "chainId": 1,
+    "address": "0xc08cd26474722ce93f4d0c34d16201461c10aa8c",
+    "name": "CARV",
+    "symbol": "CARV",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/37689/thumb/CARV_%281%29.png?1728418485"
+  },
+  {
+    "chainId": 1,
     "name": "XUSD",
     "address": "0xc08e7e23c235073c6807c2efe7021304cb7c2815",
     "decimals": 6,
@@ -76677,14 +76725,6 @@
     "decimals": 18,
     "symbol": "VIX",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/13298.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xc0b6addde76be6a09231edc12a5e3794c11f594f",
-    "name": "FlexGPU",
-    "symbol": "FGPU",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/35796/thumb/flexGPU.png?1709802187"
   },
   {
     "chainId": 1,
@@ -79820,6 +79860,14 @@
   },
   {
     "chainId": 1,
+    "address": "0xc8f69a9b46b235de8d0b77c355fff7994f1b090f",
+    "name": "Speedy",
+    "symbol": "SPEEDY",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/50566/thumb/image0_%281%29.jpeg?1728372331"
+  },
+  {
+    "chainId": 1,
     "name": "Lion Token",
     "address": "0xc8ff6772f605a139c40b32d5d87d54994c705c6b",
     "decimals": 18,
@@ -80867,11 +80915,11 @@
   },
   {
     "chainId": 1,
+    "name": "TERMINUS",
     "address": "0xcbde0453d4e7d748077c1b0ac2216c011dd2f406",
-    "name": "Terminus",
-    "symbol": "TERMINUS",
     "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/50307/thumb/terminus.jpg?1727057343"
+    "symbol": "TERMINUS",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/33351.png"
   },
   {
     "chainId": 1,
@@ -81671,7 +81719,7 @@
     "name": "Project Athena",
     "symbol": "ATHENA",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/50301/thumb/darkathena.png?1727021650"
+    "logoURI": "https://assets.coingecko.com/coins/images/50301/thumb/200athenalogo.png?1728418023"
   },
   {
     "chainId": 1,
@@ -81864,14 +81912,6 @@
     "decimals": 8,
     "symbol": "EDT",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2409.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xce5464b006a10d20c5fc56a19618212a129eed45",
-    "name": "Egostation",
-    "symbol": "ESTA",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/36816/thumb/1000104152.jpg?1712550282"
   },
   {
     "chainId": 1,
@@ -86499,11 +86539,11 @@
   },
   {
     "chainId": 1,
-    "name": "MaxxChain",
     "address": "0xd9dcd611bed2be9a4700c725a3810870b9bff094",
-    "decimals": 18,
+    "name": "MaxxChain",
     "symbol": "PWR",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/27970.png"
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/31321/thumb/PWR_Logo_200x200.jpg?1696530140"
   },
   {
     "chainId": 1,
@@ -87687,7 +87727,7 @@
     "name": "Midas mTBILL",
     "symbol": "MTBILL",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/37839/thumb/mTBILL.png?1715743508"
+    "logoURI": "https://assets.coingecko.com/coins/images/37839/thumb/mTBILL_token.png?1728417279"
   },
   {
     "chainId": 1,
@@ -93503,6 +93543,14 @@
     "symbol": "MOJO",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/36670/thumb/MOJOIcon.jpg?1712061269"
+  },
+  {
+    "chainId": 1,
+    "address": "0xed2d1ef84a6a07dd49e8ca934908e9de005b7824",
+    "name": "Wicked",
+    "symbol": "WICKED",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/50565/thumb/apple-touch-icon.png?1728371797"
   },
   {
     "chainId": 1,
@@ -108273,6 +108321,14 @@
   },
   {
     "chainId": 43114,
+    "address": "0x096d19b58cab84a2f0ff0e81c08291bffaa62848",
+    "symbol": "SHOE",
+    "name": "Shoe404",
+    "decimals": 18,
+    "logoURI": "ipfs://QmUsfsku6fMK3Csyjz8TdmnDs1crnChjiR9FHGbEjFqA8n"
+  },
+  {
+    "chainId": 43114,
     "address": "0x0ef27ddc8f89d4886e89d630de089962ffc12e43",
     "symbol": "PGX",
     "name": "Pegaxy Stone",
@@ -108473,6 +108529,22 @@
   },
   {
     "chainId": 43114,
+    "address": "0x403b78f9f817a55b66030c7b2ddab063d28c2c0c",
+    "symbol": "WILLY",
+    "name": "Willy",
+    "decimals": 18,
+    "logoURI": "ipfs://QmPqjmPp6hfKUFeEaoAfgTBVtoTt1j8MpsgJ3AxgjcXznV"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x42006ab57701251b580bdfc24778c43c9ff589a1",
+    "symbol": "EVO",
+    "name": "EvoVerses",
+    "decimals": 18,
+    "logoURI": "ipfs://QmbF5NPobMV8sJRDD6rKsW9rWAm1Y9W7zcKbxHHAQvpFbJ"
+  },
+  {
+    "chainId": 43114,
     "address": "0x420fca0121dc28039145009570975747295f2329",
     "symbol": "COQ",
     "name": "Coq Inu",
@@ -108529,6 +108601,14 @@
   },
   {
     "chainId": 43114,
+    "address": "0x4f3c5c53279536ffcfe8bcafb78e612e933d53c6",
+    "symbol": "PNIC",
+    "name": "Phoenic",
+    "decimals": 18,
+    "logoURI": "ipfs://QmdtBAF9ro3Tm13BLUv2M6LBd1d6U5iDe85zJSz8CEmFvM"
+  },
+  {
+    "chainId": 43114,
     "address": "0x5085434227ab73151fad2de546210cbc8663df96",
     "symbol": "DBY",
     "name": "MetaDerby",
@@ -108542,6 +108622,14 @@
     "name": "Wrapped Bitcoin",
     "decimals": 8,
     "logoURI": "ipfs://QmRyvghERE6pF6Uj9hpxcBRv9ynZmksrDxho6s4giftNSj"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x527856315a4bcd2f428ea7fa05ea251f7e96a50a",
+    "symbol": "CDFI",
+    "name": "CeDeFiAi",
+    "decimals": 18,
+    "logoURI": "ipfs://QmNqrFUeeAgU5Y136SQhHZ6t6VPT22EhDaZT3LsTR3n9Ci"
   },
   {
     "chainId": 43114,
@@ -108729,6 +108817,14 @@
   },
   {
     "chainId": 43114,
+    "address": "0x735d8f3b6a5d2c96d0405230c50eaf96794fbb88",
+    "symbol": "XPOW",
+    "name": "XPower",
+    "decimals": 18,
+    "logoURI": "ipfs://Qmd14RJXFmemePbciwNG7Sf7CnbtYNHiCZjkFYHnM3YAAJ"
+  },
+  {
+    "chainId": 43114,
     "address": "0x73f49d00ac1b520f94d11248808c40774aeb0802",
     "symbol": "MAJIN",
     "name": "MAJIN",
@@ -108886,6 +108982,14 @@
     "name": "Avabot",
     "decimals": 18,
     "logoURI": "ipfs://QmcbDSMVQyoPp8LpbJfRUtbk6yaXAVNKzpYxkQTTRiLabh"
+  },
+  {
+    "chainId": 43114,
+    "address": "0xa2cde628d7617956eaf4780e32f68df19cc13d62",
+    "symbol": "SUBAVA",
+    "name": "Subava",
+    "decimals": 18,
+    "logoURI": "ipfs://QmT1MgE6a1dhEZR3KEu9ScL15TtRSpCa4aN9ee5VjH5n8e"
   },
   {
     "chainId": 43114,
@@ -119731,6 +119835,7 @@
     "extensions": {
       "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1",
       "modeBridgeAddress": "0x735aDBbE72226BD52e818E7181953f42E3b0FF21",
+      "liskBridgeAddress": "0x2658723Bf70c7667De6B25F99fcce13A16D25d08",
       "opListId": "default",
       "opTokenId": "WBTC"
     }
@@ -125073,6 +125178,19 @@
   },
   {
     "chainId": 1135,
+    "address": "0x03c7054bcb39f7b2e5b2c7acb37583e32d70cfa3",
+    "name": "Wrapped BTC",
+    "symbol": "WBTC",
+    "decimals": 8,
+    "logoURI": "https://ethereum-optimism.github.io/data/WBTC/logo.svg",
+    "extensions": {
+      "liskBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "default",
+      "opTokenId": "WBTC"
+    }
+  },
+  {
+    "chainId": 1135,
     "address": "0x05d032ac25d322df992303dca074ee7392c117b9",
     "name": "Tether USD",
     "symbol": "USDT",
@@ -128138,6 +128256,19 @@
   },
   {
     "chainId": 84532,
+    "address": "0x9f9b4ce2d89847cf579cbe345c3bb910480df8dc",
+    "name": "IRARA Token",
+    "symbol": "IRARA",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/IRARA/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "IRARA"
+    }
+  },
+  {
+    "chainId": 84532,
     "address": "0xb01701025c3b12e0b5022d8a98f15f8ad3602a7b",
     "name": "Everyrealm Token",
     "symbol": "EVERY",
@@ -128238,6 +128369,20 @@
       "baseBridgeAddress": "0xfd0Bf71F60660E2f608ed56e1659C450eB113120",
       "opListId": "extended",
       "opTokenId": "PRE"
+    }
+  },
+  {
+    "chainId": 11155111,
+    "address": "0x0dbd2d894157376a4939b5b94940acd1fd110303",
+    "name": "IRARA Token",
+    "symbol": "IRARA",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/IRARA/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0xfd0Bf71F60660E2f608ed56e1659C450eB113120",
+      "optimismBridgeAddress": "0xFBb0621E0B23b5478B630BD55a5f21f67730B0F1",
+      "opListId": "extended",
+      "opTokenId": "IRARA"
     }
   },
   {
@@ -128639,6 +128784,19 @@
       "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "extended",
       "opTokenId": "OUTb"
+    }
+  },
+  {
+    "chainId": 11155420,
+    "address": "0x819845b60a192167ed1139040b4f8eca31834f27",
+    "name": "IRARA Token",
+    "symbol": "IRARA",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/IRARA/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "IRARA"
     }
   },
   {
@@ -136085,6 +136243,17 @@
     ]
   },
   {
+    "address": "0x3ee5e23eee121094f1cfc0ccc79d6c809ebd22e5",
+    "name": "Ionic",
+    "symbol": "ION",
+    "decimals": 18,
+    "chainId": 8453,
+    "logoURI": "https://superfluid-finance.github.io/tokenlist/icons/ion.png",
+    "tags": [
+      "underlying"
+    ]
+  },
+  {
     "address": "0x46fd5cfb4c12d87acd3a13e92baa53240c661d93",
     "name": "Super ETH",
     "symbol": "ETHx",
@@ -136101,6 +136270,17 @@
     ]
   },
   {
+    "address": "0x48c6740bcf807d6c47c864faeea15ed4da3910ab",
+    "name": "Nounspace",
+    "symbol": "SPACE",
+    "decimals": 18,
+    "chainId": 8453,
+    "logoURI": "https://superfluid-finance.github.io/tokenlist/icons/space.png",
+    "tags": [
+      "underlying"
+    ]
+  },
+  {
     "address": "0x4db26c973fae52f43bd96a8776c2bf1b0dc29556",
     "name": "Super USD Base Coin",
     "symbol": "USDbCx",
@@ -136112,6 +136292,23 @@
         "underlyingTokenAddress": "0xd9aaec86b65d86f6a7b5b1b0c42ffa531710b6ca"
       }
     },
+    "tags": [
+      "supertoken"
+    ]
+  },
+  {
+    "address": "0x4e395ec7b71dd87a23dd836edb3efe15a6c2002b",
+    "name": "Super Nounspace",
+    "symbol": "SPACEx",
+    "decimals": 18,
+    "chainId": 8453,
+    "extensions": {
+      "superTokenInfo": {
+        "type": "Wrapper",
+        "underlyingTokenAddress": "0x48c6740bcf807d6c47c864faeea15ed4da3910ab"
+      }
+    },
+    "logoURI": "https://superfluid-finance.github.io/tokenlist/icons/space.png",
     "tags": [
       "supertoken"
     ]
@@ -136283,6 +136480,23 @@
     ]
   },
   {
+    "address": "0x9097e4a4d75a611b65ab21d98a7d5b1177c050f7",
+    "name": "Super mfercoin",
+    "symbol": "$mferx",
+    "decimals": 18,
+    "chainId": 8453,
+    "extensions": {
+      "superTokenInfo": {
+        "type": "Wrapper",
+        "underlyingTokenAddress": "0xe3086852a4b125803c815a158249ae468a3254ca"
+      }
+    },
+    "logoURI": "https://superfluid-finance.github.io/tokenlist/icons/mfer.png",
+    "tags": [
+      "supertoken"
+    ]
+  },
+  {
     "address": "0x940181a94a35a4569e4529a3cdfb74e38fd98631",
     "name": "Aerodrome",
     "symbol": "AERO",
@@ -136420,6 +136634,34 @@
       }
     },
     "logoURI": "https://superfluid-finance.github.io/tokenlist/icons/cbbtc.svg",
+    "tags": [
+      "supertoken"
+    ]
+  },
+  {
+    "address": "0xe3086852a4b125803c815a158249ae468a3254ca",
+    "name": "mfercoin",
+    "symbol": "$mfer",
+    "decimals": 18,
+    "chainId": 8453,
+    "logoURI": "https://superfluid-finance.github.io/tokenlist/icons/mfer.png",
+    "tags": [
+      "underlying"
+    ]
+  },
+  {
+    "address": "0xe58267cd7299c29a1b77f4e66cd12dd24a2cd2fd",
+    "name": "Super Ionic",
+    "symbol": "IONx",
+    "decimals": 18,
+    "chainId": 8453,
+    "extensions": {
+      "superTokenInfo": {
+        "type": "Wrapper",
+        "underlyingTokenAddress": "0x3ee5e23eee121094f1cfc0ccc79d6c809ebd22e5"
+      }
+    },
+    "logoURI": "https://superfluid-finance.github.io/tokenlist/icons/ion.png",
     "tags": [
       "supertoken"
     ]
