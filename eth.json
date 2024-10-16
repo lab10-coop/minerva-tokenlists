@@ -2755,7 +2755,7 @@
     "chainId": 1,
     "name": "Hacken Token",
     "address": "0x05fb86775fd5c16290f1e838f5caaa7342bd9a63",
-    "decimals": 18,
+    "decimals": 8,
     "symbol": "HAI",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/5583.png"
   },
@@ -4953,11 +4953,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x0bcc26e40d87873615e082c1b5df15e487f94737",
     "name": "SpecialMetalX",
-    "symbol": "SMETX",
+    "address": "0x0bcc26e40d87873615e082c1b5df15e487f94737",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/37712/thumb/82-wb8sp_400x400.jpg?1715275652"
+    "symbol": "SMETX",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/21564.png"
   },
   {
     "chainId": 1,
@@ -7622,14 +7622,6 @@
     "decimals": 18,
     "symbol": "IMT",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3243.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x1317d2a56520e64bfe3c2ecd89b6a8b3fb1d6a08",
-    "name": "HaiperAI",
-    "symbol": "HAIPERAI",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/37021/thumb/HAIPER_SQUARE_HD_%282%29.png?1713155245"
   },
   {
     "chainId": 1,
@@ -10984,6 +10976,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x1aee5ec60fc79b669f11fe368fde789e267649e2",
+    "name": "Inception Restaked tBTC",
+    "symbol": "INTBTC",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/50752/thumb/intBTC.png?1728959398"
+  },
+  {
+    "chainId": 1,
     "name": "eToro Hong Kong Dollar",
     "address": "0x1af20b8d1ede928f437b3a86801796b167840d2b",
     "decimals": 18,
@@ -13044,14 +13044,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x201b5b64438843553e3c3671810ae671c93c685c",
-    "name": "Megabot",
-    "symbol": "MEGABOT",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/32796/thumb/Megabot.jpg?1699445692"
-  },
-  {
-    "chainId": 1,
     "name": "Enceladus Network",
     "address": "0x20211ab9388781532fece6c57347a0004a420f16",
     "decimals": 18,
@@ -14916,11 +14908,11 @@
   },
   {
     "chainId": 1,
-    "name": "SECTBOT",
     "address": "0x24edded3f03abb2e9d047464294133378bddb596",
-    "decimals": 18,
+    "name": "SECT BOT",
     "symbol": "SECT",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28696.png"
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/33525/thumb/IMG_7387.png?1702138186"
   },
   {
     "chainId": 1,
@@ -21756,11 +21748,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x3567aa22cd3ab9aef23d7e18ee0d7cf16974d7e6",
     "name": "Sharpe AI",
-    "symbol": "SAI",
+    "address": "0x3567aa22cd3ab9aef23d7e18ee0d7cf16974d7e6",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/39385/thumb/Group_48095583.png?1721962174"
+    "symbol": "SAI",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/32836.png"
   },
   {
     "chainId": 1,
@@ -25220,14 +25212,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x3e156234501c41a041a178ff547e295609c4769a",
-    "name": "TeleCard",
-    "symbol": "TCARD",
-    "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/36073/thumb/IMG_1889_%281%29.png?1710412075"
-  },
-  {
-    "chainId": 1,
     "name": "HyperQuant",
     "address": "0x3e1d5a855ad9d948373ae68e4fe1f094612b1322",
     "decimals": 18,
@@ -26257,14 +26241,6 @@
     "decimals": 8,
     "symbol": "YEA",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7317.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x40bb3f1be815ecc5e8279385a8f2893252a6ccbd",
-    "name": "XVM",
-    "symbol": "XVM",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/37022/thumb/XVM_SOLO_%282%29.png?1713155563"
   },
   {
     "chainId": 1,
@@ -31098,11 +31074,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x4c44a8b7823b80161eb5e6d80c014024752607f2",
     "name": "America Pac",
-    "symbol": "PAC",
+    "address": "0x4c44a8b7823b80161eb5e6d80c014024752607f2",
     "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/50552/thumb/logo-transparent.png?1728350358"
+    "symbol": "PAC",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/33453.png"
   },
   {
     "chainId": 1,
@@ -36127,6 +36103,14 @@
     "decimals": 9,
     "symbol": "GDS",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/21650.png"
+  },
+  {
+    "chainId": 1,
+    "name": "SECTBOT",
+    "address": "0x59a73bef0f729761bc3b9aa7f41872077e4bf300",
+    "decimals": 18,
+    "symbol": "SECT",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28696.png"
   },
   {
     "chainId": 1,
@@ -46466,6 +46450,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x723abbea6e985fb21c57f550d9cceba1c676a6a9",
+    "name": "Smoking Chicken Fish",
+    "symbol": "SCF",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/50753/thumb/1000367569.jpg?1728966181"
+  },
+  {
+    "chainId": 1,
     "name": "Bitcoin Pro",
     "address": "0x723cbfc05e2cfcc71d3d89e770d32801a5eef5ab",
     "decimals": 8,
@@ -48887,6 +48879,14 @@
     "symbol": "WTLOS",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/23952/thumb/tlos_png.png?1722391320"
+  },
+  {
+    "chainId": 1,
+    "name": "Revolution",
+    "address": "0x78365433f897f1303f6c7d8a3fbe3d6dae984c68",
+    "decimals": 18,
+    "symbol": "REV",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/33454.png"
   },
   {
     "chainId": 1,
@@ -69697,11 +69697,11 @@
   },
   {
     "chainId": 1,
-    "address": "0xaddb6dc7e2f7caea67621dd3ca2e8321ade33286",
     "name": "Sharp AI",
-    "symbol": "SHARP",
+    "address": "0xaddb6dc7e2f7caea67621dd3ca2e8321ade33286",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/50729/thumb/Sharp_AI.png?1728914996"
+    "symbol": "SHARP",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/33457.png"
   },
   {
     "chainId": 1,
@@ -90792,6 +90792,14 @@
     "decimals": 18,
     "symbol": "CMB",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/5033.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Metaverse Convergence",
+    "address": "0xe54613083f60bbabde389320074953053562c685",
+    "decimals": 18,
+    "symbol": "META",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/32573.png"
   },
   {
     "chainId": 1,

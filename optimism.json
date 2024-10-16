@@ -2251,6 +2251,7 @@
     "logoURI": "https://ethereum-optimism.github.io/data/bwAJNA/logo.svg",
     "extensions": {
       "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1",
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
       "opListId": "extended",
       "opTokenId": "bwAJNA"
     }
@@ -8474,6 +8475,19 @@
       "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "extended",
       "opTokenId": "GGTK"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0xf0f326af3b1ed943ab95c29470730cc8cf66ae47",
+    "name": "Burn Wrapped AJNA",
+    "symbol": "bwAJNA",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/bwAJNA/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "bwAJNA"
     }
   },
   {
