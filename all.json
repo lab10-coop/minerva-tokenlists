@@ -10329,6 +10329,14 @@
   },
   {
     "chainId": 1,
+    "name": "Rally",
+    "address": "0x19640000000ba88d36206beb10d0e86011c8d08c",
+    "decimals": 18,
+    "symbol": "RALLY",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/33537.png"
+  },
+  {
+    "chainId": 1,
     "name": "nDEX",
     "address": "0x1966d718a565566e8e202792658d7b5ff4ece469",
     "decimals": 18,
@@ -11740,11 +11748,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x1caf237d7a2d103e3e9b1855988c01ac10344600",
     "name": "LexiAI",
-    "symbol": "LEXI",
+    "address": "0x1caf237d7a2d103e3e9b1855988c01ac10344600",
     "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/39484/thumb/1000031614.jpg?1727899633"
+    "symbol": "LEXI",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/33548.png"
   },
   {
     "chainId": 1,
@@ -11905,6 +11913,14 @@
     "decimals": 18,
     "symbol": "GIT",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/4351.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x1d1498166ddceee616a6d99868e1e0677300056f",
+    "name": "Space Token",
+    "symbol": "SPACE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/20676/thumb/jYw3kgsY_400x400.png?1696520076"
   },
   {
     "chainId": 1,
@@ -14949,7 +14965,7 @@
   {
     "chainId": 1,
     "address": "0x24edded3f03abb2e9d047464294133378bddb596",
-    "name": "SECT BOT",
+    "name": "SECT BOT  OLD ",
     "symbol": "SECT",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/33525/thumb/IMG_7387.png?1702138186"
@@ -19412,6 +19428,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x303c89f3a4a58872d8b6a3e64c14fdd9ec669c99",
+    "name": "Baby Neiro",
+    "symbol": "BABYNEIRO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/50906/thumb/20241020_202648.png?1729521327"
+  },
+  {
+    "chainId": 1,
     "name": "Retrogression",
     "address": "0x304243a820d4a3718becc89a3f33513586162cf0",
     "decimals": 18,
@@ -21478,7 +21502,7 @@
     "chainId": 1,
     "name": "PETE",
     "address": "0x34ac7e32ff0e580893aeb0743a1e798baa52d469",
-    "decimals": 18,
+    "decimals": 8,
     "symbol": "PETE",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/33048.png"
   },
@@ -26388,14 +26412,6 @@
   },
   {
     "chainId": 1,
-    "name": "Cosmic Network",
-    "address": "0x40e64405f18e4fb01c6fc39f4f0c78df5ef9d0e0",
-    "decimals": 18,
-    "symbol": "COSMIC",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/30339.png"
-  },
-  {
-    "chainId": 1,
     "name": "yplutus",
     "address": "0x40e7705254494a7e61d5b7c86da50225ddc3daae",
     "decimals": 18,
@@ -26988,11 +27004,11 @@
   },
   {
     "chainId": 1,
-    "name": "CADAI",
     "address": "0x4229725d41e2233d75b47675b55c6781df0b56a7",
-    "decimals": 18,
+    "name": "CADAI",
     "symbol": "WCADAI",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/31482.png"
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/38713/thumb/CADAI_Token_Logo.png?1718404394"
   },
   {
     "chainId": 1,
@@ -30173,7 +30189,7 @@
     "name": "CloudGPU",
     "address": "0x49d1372124f9b018f32f13b81de6f4c83d89fcc3",
     "decimals": 18,
-    "symbol": "CGPU",
+    "symbol": "cGPU",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/33527.png"
   },
   {
@@ -34682,11 +34698,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x55a05cf8898dd1c582eef939df645d5d235c6f74",
     "name": "Cosmic Network",
-    "symbol": "COSMIC",
+    "address": "0x55a05cf8898dd1c582eef939df645d5d235c6f74",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/37006/thumb/Logo_Symbol_1000x1000_Static_Brand-1.png?1727823520"
+    "symbol": "COSMIC",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/30339.png"
   },
   {
     "chainId": 1,
@@ -36102,7 +36118,7 @@
     "name": "Zegent AI",
     "symbol": "ZGEN",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/50380/thumb/full_logo_dark.png?1727410850"
+    "logoURI": "https://assets.coingecko.com/coins/images/50380/thumb/Logoversion3.png?1729478426"
   },
   {
     "chainId": 1,
@@ -39535,14 +39551,6 @@
     "decimals": 18,
     "symbol": "BRB",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/4667.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x61db59daf2af68310fffa003d3b2f452260b673c",
-    "name": "Laurion 404",
-    "symbol": "LAURION",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/35233/thumb/k9sEsCqR_400x400.png?1707935032"
   },
   {
     "chainId": 1,
@@ -46778,11 +46786,11 @@
   },
   {
     "chainId": 1,
-    "name": "XDEFI Wallet",
     "address": "0x72b886d09c117654ab7da13a14d603001de0b777",
-    "decimals": 18,
+    "name": "XDEFI",
     "symbol": "XDEFI",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/13472.png"
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/19524/thumb/xdefi.jpg?1723436519"
   },
   {
     "chainId": 1,
@@ -47319,6 +47327,14 @@
     "decimals": 18,
     "symbol": "SOPH",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/27486.png"
+  },
+  {
+    "chainId": 1,
+    "name": "PLAY",
+    "address": "0x7404ac09adf614603d9c16a7ce85a1101f3514ba",
+    "decimals": 18,
+    "symbol": "PLAY",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/33538.png"
   },
   {
     "chainId": 1,
@@ -56034,7 +56050,7 @@
   },
   {
     "chainId": 1,
-    "name": "Akropolis",
+    "name": "Kaon",
     "address": "0x8ab7404063ec4dbcfd4598215992dc3f8ec853d7",
     "decimals": 18,
     "symbol": "AKRO",
@@ -57442,11 +57458,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x8e0eef788350f40255d86dfe8d91ec0ad3a4547f",
     "name": "Cortensor",
-    "symbol": "COR",
+    "address": "0x8e0eef788350f40255d86dfe8d91ec0ad3a4547f",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/50486/thumb/cortensor-logo-square-trans-200x200.png?1727906253"
+    "symbol": "COR",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/33545.png"
   },
   {
     "chainId": 1,
@@ -60749,7 +60765,7 @@
     "name": "XANA",
     "symbol": "XETA",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/24379/thumb/XANA_Logo_neon_pink.png?1717310064"
+    "logoURI": "https://assets.coingecko.com/coins/images/24379/thumb/XANA_Silver_Logo_%281%29.png?1729504384"
   },
   {
     "chainId": 1,
@@ -66881,6 +66897,14 @@
   },
   {
     "chainId": 1,
+    "address": "0xa5c45d48d36607741e90c0cca29545a46f5ee121",
+    "name": "Chiba Wan",
+    "symbol": "CHIB",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/50894/thumb/face.png?1729505202"
+  },
+  {
+    "chainId": 1,
     "address": "0xa5ca62d95d24a4a350983d5b8ac4eb8638887396",
     "name": "sUSD yVault",
     "symbol": "YVSUSD",
@@ -70961,6 +70985,14 @@
   },
   {
     "chainId": 1,
+    "address": "0xb0df0e6133ce2bae93f1bb1737ed3f39593c67f5",
+    "name": "X PASS",
+    "symbol": "XPASS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/50897/thumb/X-PASS.png?1729507412"
+  },
+  {
+    "chainId": 1,
     "name": "Lotto",
     "address": "0xb0dfd28d3cf7a5897c694904ace292539242f858",
     "decimals": 18,
@@ -72153,11 +72185,11 @@
   },
   {
     "chainId": 1,
-    "name": "Kabosu",
     "address": "0xb3e41d6e0ea14b43bc5de3c314a408af171b03dd",
-    "decimals": 9,
+    "name": "Kabosu",
     "symbol": "KABOSU",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/33499.png"
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/50789/thumb/1000000874.jpg?1729213094"
   },
   {
     "chainId": 1,
@@ -73677,6 +73709,14 @@
     "decimals": 18,
     "symbol": "STREETH",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/19188.png"
+  },
+  {
+    "chainId": 1,
+    "name": "YOUNG PEEZY",
+    "address": "0xb843ce5f8c8a3d0d72e089194f5d9f9df0df74e5",
+    "decimals": 8,
+    "symbol": "PEEZY",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/33540.png"
   },
   {
     "chainId": 1,
@@ -82151,7 +82191,7 @@
     "name": "Project Athena",
     "symbol": "ATHENA",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/50301/thumb/200athenalogo.png?1728418023"
+    "logoURI": "https://assets.coingecko.com/coins/images/50301/thumb/newathenalogo.png?1729472181"
   },
   {
     "chainId": 1,
@@ -87019,14 +87059,6 @@
   },
   {
     "chainId": 1,
-    "address": "0xd9dcd611bed2be9a4700c725a3810870b9bff094",
-    "name": "MaxxChain",
-    "symbol": "PWR",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/31321/thumb/PWR_Logo_200x200.jpg?1696530140"
-  },
-  {
-    "chainId": 1,
     "name": "TYBENG",
     "address": "0xd9ebbc7970e26b4eced7323b9331763e8272d011",
     "decimals": 18,
@@ -90920,6 +90952,14 @@
     "decimals": 18,
     "symbol": "HBOT",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/16298.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xe50e009ddb1a4d8ec668eac9d8b2df1f96348707",
+    "name": "CTRL Wallet",
+    "symbol": "CTRL",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/50886/thumb/_CTRL.png?1729499837"
   },
   {
     "chainId": 1,
@@ -98578,6 +98618,14 @@
   },
   {
     "chainId": 1,
+    "address": "0xf8a0a167bea66247425ef9cb9b622a4b320b8bb6",
+    "name": "Resonator",
+    "symbol": "RSN",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/50893/thumb/Frame_41_%283%29.png?1729504531"
+  },
+  {
+    "chainId": 1,
     "name": "LOTEU",
     "address": "0xf8a3dc13b7a8da473f80660f513c4343e4edd7f7",
     "decimals": 8,
@@ -99527,6 +99575,14 @@
     "decimals": 18,
     "symbol": "CCC",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29036.png"
+  },
+  {
+    "chainId": 1,
+    "name": "XDEFI Wallet",
+    "address": "0xfb1133ccd46b03570560eeb7978633bb9793d7a3",
+    "decimals": 18,
+    "symbol": "XDEFI",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/13472.png"
   },
   {
     "chainId": 1,
