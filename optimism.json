@@ -1303,6 +1303,19 @@
   },
   {
     "chainId": 1,
+    "address": "0x5dd57da40e6866c9fcc34f4b6ddc89f1ba740dfe",
+    "name": "Bright",
+    "symbol": "BRIGHT",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/BRIGHT/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1",
+      "opListId": "extended",
+      "opTokenId": "BRIGHT"
+    }
+  },
+  {
+    "chainId": 1,
     "address": "0x5e8422345238f34275888049021821e8e08caa1f",
     "name": "Frax Ether",
     "symbol": "frxETH",
@@ -4489,6 +4502,19 @@
       "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "extended",
       "opTokenId": "SNT"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0x65334ce5aae9fb390c056574c7aa4de33cf1d40e",
+    "name": "Bright",
+    "symbol": "BRIGHT",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/BRIGHT/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "BRIGHT"
     }
   },
   {
