@@ -479,6 +479,7 @@
     "logoURI": "https://ethereum-optimism.github.io/data/VSP/logo.svg",
     "extensions": {
       "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1",
       "opListId": "extended",
       "opTokenId": "VSP"
     }
@@ -1478,6 +1479,7 @@
     "logoURI": "https://ethereum-optimism.github.io/data/VUSD/logo.svg",
     "extensions": {
       "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1",
       "opListId": "extended",
       "opTokenId": "VUSD"
     }
@@ -2038,6 +2040,7 @@
     "logoURI": "https://ethereum-optimism.github.io/data/SPC/logo.png",
     "extensions": {
       "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1",
       "opListId": "extended",
       "opTokenId": "SPC"
     }
@@ -4049,6 +4052,19 @@
   },
   {
     "chainId": 10,
+    "address": "0x17b4f9da9e06d395db5de839e299cf829469e7ef",
+    "name": "VUSD",
+    "symbol": "VUSD",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/VUSD/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "VUSD"
+    }
+  },
+  {
+    "chainId": 10,
     "address": "0x1d015bf7d8a6fb0fc30959f3e12355530086b2a5",
     "name": "Changer",
     "symbol": "CNG",
@@ -4923,6 +4939,19 @@
   },
   {
     "chainId": 10,
+    "address": "0x888a88eb9de9401237dbf543eaaf4b90b6574261",
+    "name": "VesperToken",
+    "symbol": "VSP",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/VSP/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "VSP"
+    }
+  },
+  {
+    "chainId": 10,
     "address": "0x8ae125e8653821e851f12a49f7765db9a9ce7384",
     "name": "Dola USD Stablecoin",
     "symbol": "DOLA",
@@ -5707,6 +5736,19 @@
     "symbol": "XCHF",
     "decimals": 18,
     "logoURI": "https://ethereum-optimism.github.io/data/XCHF/logo.png"
+  },
+  {
+    "chainId": 10,
+    "address": "0xe539298a99004a102e4b6997ef96e5137be42eab",
+    "name": "SpaceChainV2",
+    "symbol": "SPC",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/SPC/logo.png",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "SPC"
+    }
   },
   {
     "chainId": 10,
