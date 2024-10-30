@@ -4537,6 +4537,14 @@
   },
   {
     "chainId": 1,
+    "name": "Grimace",
+    "address": "0x0ad5a92a5d79a903b23823431cdb07650a5e4a44",
+    "decimals": 9,
+    "symbol": "GRIMACE",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/33700.png"
+  },
+  {
+    "chainId": 1,
     "name": "Lamborghinu",
     "address": "0x0ad73a548a0692f2261a25fee0100868ab0c4f4d",
     "decimals": 9,
@@ -9425,6 +9433,14 @@
   },
   {
     "chainId": 1,
+    "name": "Bary",
+    "address": "0x1764c07922a66cabbc79f99ce71565ddf430bf58",
+    "decimals": 18,
+    "symbol": "BARY",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/33690.png"
+  },
+  {
+    "chainId": 1,
     "name": "Gambex",
     "address": "0x176bc22e1855cd5cf5a840081c6c5b92b55e2210",
     "decimals": 18,
@@ -10518,14 +10534,6 @@
     "decimals": 8,
     "symbol": "DCX",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/5812.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x19a71179fd41c19f8dfb1f38343482bec0271e3c",
-    "name": "Spectrum Marketplace",
-    "symbol": "SPEC",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/32820/thumb/download.png?1699582062"
   },
   {
     "chainId": 1,
@@ -17596,14 +17604,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x2b896c7f060ae441b76bbe47cddca934ba60f37f",
-    "name": "BlackLatexFist",
-    "symbol": "BLF",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/31871/thumb/BLF_Fist_logo_200px.png?1696530683"
-  },
-  {
-    "chainId": 1,
     "address": "0x2b89bf8ba858cd2fcee1fada378d5cd6936968be",
     "name": "Secret  ERC20 ",
     "symbol": "WSCRT",
@@ -23332,11 +23332,11 @@
   },
   {
     "chainId": 1,
-    "name": "Truflation",
     "address": "0x38c2a4a7330b22788374b8ff70bba513c8d848ca",
-    "decimals": 18,
+    "name": "Truflation",
     "symbol": "TRUF",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/30434.png"
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/36642/thumb/TRUF_Token_Logo_Blue.png?1712034385"
   },
   {
     "chainId": 1,
@@ -41194,11 +41194,11 @@
   },
   {
     "chainId": 1,
+    "name": "ether.fi Staked BTC",
     "address": "0x657e8c867d8b37dcc18fa4caead9c45eb088c642",
-    "name": "Ether fi Staked BTC",
-    "symbol": "EBTC",
     "decimals": 8,
-    "logoURI": "https://assets.coingecko.com/coins/images/50411/thumb/eBTC.png?1727664788"
+    "symbol": "EBTC",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/33696.png"
   },
   {
     "chainId": 1,
@@ -43223,6 +43223,14 @@
     "decimals": 18,
     "symbol": "TRIBL",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/19009.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Peezy",
+    "address": "0x698b1d54e936b9f772b8f58447194bbc82ec1933",
+    "decimals": 9,
+    "symbol": "PEEZY",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/33689.png"
   },
   {
     "chainId": 1,
@@ -58106,11 +58114,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x8f08b70456eb22f6109f57b8fafe862ed28e6040",
     "name": "LRT Squared",
-    "symbol": "LRT2",
+    "address": "0x8f08b70456eb22f6109f57b8fafe862ed28e6040",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/51041/thumb/LRT2-200x200.png?1729826728"
+    "symbol": "LRT2",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/33695.png"
   },
   {
     "chainId": 1,
@@ -65390,6 +65398,14 @@
     "decimals": 18,
     "symbol": "OKBMOON",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/6057.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xa163af4ab79cd705e5b16941b8619a79805bf9c7",
+    "name": "BabyMarvin Inu",
+    "symbol": "BABYMARVIN",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/51146/thumb/1000229291.jpg?1730228170"
   },
   {
     "chainId": 1,
@@ -74173,14 +74189,6 @@
     "decimals": 9,
     "symbol": "MARS",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/33162.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xb8d6d1b5083089a5587ad942b7c8298a17cdca86",
-    "name": "Unvaxxed Sperm",
-    "symbol": "NUBTC",
-    "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/33208/thumb/koko.png?1701082115"
   },
   {
     "chainId": 1,
@@ -88760,6 +88768,14 @@
     "decimals": 18,
     "symbol": "MMVG",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/26103.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xddf7d080c82b8048baae54e376a3406572429b4e",
+    "name": "GODDOG",
+    "symbol": "OOOOOO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/38157/thumb/Goddog_logo_for_Coingecko_200x200.png?1716669510"
   },
   {
     "chainId": 1,
@@ -123177,6 +123193,7 @@
       "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
       "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1",
       "redstoneBridgeAddress": "0xc473ca7E02af24c129c2eEf51F2aDf0411c1Df69",
+      "liskBridgeAddress": "0xE3622468Ea7dD804702B56ca2a4f88C0936995e6",
       "opListId": "extended",
       "opTokenId": "BridgedUSDC"
     }
@@ -124437,6 +124454,7 @@
     "extensions": {
       "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1",
       "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "metall2BridgeAddress": "0x6d0f65D59b55B0FEC5d2d15365154DcADC140BF3",
       "opListId": "extended",
       "opTokenId": "CTRAVL"
     }
@@ -126797,6 +126815,19 @@
     }
   },
   {
+    "chainId": 1135,
+    "address": "0xf242275d3a6527d877f2c927a82d9b057609cc71",
+    "name": "Bridged USDC (Lisk)",
+    "symbol": "USDC.e",
+    "decimals": 6,
+    "logoURI": "https://ethereum-optimism.github.io/data/BridgedUSDC/logo.png",
+    "extensions": {
+      "liskBridgeAddress": "0x3b1ac69368eb6447F5db2d4E1641380Fa9e40d29",
+      "opListId": "extended",
+      "opTokenId": "BridgedUSDC"
+    }
+  },
+  {
     "chainId": 1750,
     "address": "0xf1f9ccc7638f124c3d9354be0ede2acb5f0a15bc",
     "name": "Mugloo",
@@ -126807,6 +126838,19 @@
       "metall2BridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "extended",
       "opTokenId": "MUGLOO"
+    }
+  },
+  {
+    "chainId": 1750,
+    "address": "0xf35155e38c8750372ca024a3d1b5cc7174aaabbc",
+    "name": "Travel Deals",
+    "symbol": "CTRAVL",
+    "decimals": 4,
+    "logoURI": "https://ethereum-optimism.github.io/data/CTRAVL/logo.svg",
+    "extensions": {
+      "metall2BridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "CTRAVL"
     }
   },
   {
