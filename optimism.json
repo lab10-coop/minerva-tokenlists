@@ -1119,6 +1119,18 @@
   },
   {
     "chainId": 1,
+    "address": "0x4f604735c1cf31399c6e711d5962b2b3e0225ad3",
+    "name": "Glo Dollar",
+    "symbol": "USDGLO",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/USDGLO/logo.svg",
+    "extensions": {
+      "opListId": "extended",
+      "opTokenId": "USDGLO"
+    }
+  },
+  {
+    "chainId": 1,
     "address": "0x4fbb350052bca5417566f188eb2ebce5b19bc964",
     "name": "Rigo Token",
     "symbol": "GRG",
@@ -4360,6 +4372,18 @@
   },
   {
     "chainId": 10,
+    "address": "0x4f604735c1cf31399c6e711d5962b2b3e0225ad3",
+    "name": "Glo Dollar",
+    "symbol": "USDGLO",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/USDGLO/logo.svg",
+    "extensions": {
+      "opListId": "extended",
+      "opTokenId": "USDGLO"
+    }
+  },
+  {
+    "chainId": 10,
     "address": "0x5029c236320b8f15ef0a657054b84d90bfbeded3",
     "name": "BitANT",
     "symbol": "BitANT",
@@ -7117,6 +7141,18 @@
       "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "extended",
       "opTokenId": "weETH"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0x4f604735c1cf31399c6e711d5962b2b3e0225ad3",
+    "name": "Glo Dollar",
+    "symbol": "USDGLO",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/USDGLO/logo.svg",
+    "extensions": {
+      "opListId": "extended",
+      "opTokenId": "USDGLO"
     }
   },
   {
