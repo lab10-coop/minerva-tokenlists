@@ -3601,14 +3601,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x081a4c60fbc381dc861bae6629c93d835d5f9a89",
-    "name": "Modulus Domain Service",
-    "symbol": "MODS",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/29844/thumb/_MODS.png?1696528771"
-  },
-  {
-    "chainId": 1,
     "name": "CoinEx Token",
     "address": "0x081f67afa0ccf8c7b17540767bbe95df2ba8d97f",
     "decimals": 18,
@@ -10249,11 +10241,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x19247618d79e3fc4d4866169789e4b8eedef52e6",
     "name": "Chasm",
-    "symbol": "CAI",
+    "address": "0x19247618d79e3fc4d4866169789e4b8eedef52e6",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/39473/thumb/IMG_2A1EB0FC7749-1.jpeg?1724512678"
+    "symbol": "CAI",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/33768.png"
   },
   {
     "chainId": 1,
@@ -12297,6 +12289,14 @@
     "decimals": 18,
     "symbol": "NTD",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/30205.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Trump Vance",
+    "address": "0x1e370f5f01bd73a71a5762ae00c7eb18dcfdf474",
+    "decimals": 9,
+    "symbol": "$MAGA2024",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/33755.png"
   },
   {
     "chainId": 1,
@@ -22508,14 +22508,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x36b2269fd151208a4bfc3dea503e0a6f2485fa78",
-    "name": "Atua AI",
-    "symbol": "TUA",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/50532/thumb/5.png?1728298820"
-  },
-  {
-    "chainId": 1,
     "name": "vSportCoin",
     "address": "0x36b4b58de030e93775e151a78d796039a11a2548",
     "decimals": 8,
@@ -22633,6 +22625,14 @@
     "decimals": 18,
     "symbol": "OMNI",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/30315.png"
+  },
+  {
+    "chainId": 1,
+    "name": "MAGA Meme PAC",
+    "address": "0x36e90a36c51c5df231880c167a9cf237cb44a6ff",
+    "decimals": 9,
+    "symbol": "MAGPAC",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/33753.png"
   },
   {
     "chainId": 1,
@@ -40706,6 +40706,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x643c4e15d7d62ad0abec4a9bd4b001aa3ef52d66",
+    "name": "Syrup",
+    "symbol": "SYRUP",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/51232/thumb/Syrup_Logo.png?1730445056"
+  },
+  {
+    "chainId": 1,
     "name": "Nexera",
     "address": "0x644192291cc835a93d6330b24ea5f5fedd0eef9e",
     "decimals": 18,
@@ -55319,6 +55327,14 @@
     "decimals": 18,
     "symbol": "WORK",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28500.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x8888888888888e0ff220b240499e30430458e568",
+    "name": "Genesis",
+    "symbol": "GEN",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/39147/thumb/ZX.jpg?1720767239"
   },
   {
     "chainId": 1,
@@ -70649,11 +70665,11 @@
   },
   {
     "chainId": 1,
-    "address": "0xaee5913ffd19dbca4fd1ef6f3925ed0414407d37",
     "name": "Yelay",
-    "symbol": "YLAY",
+    "address": "0xaee5913ffd19dbca4fd1ef6f3925ed0414407d37",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/50915/thumb/yelay_icon_2.png?1729579311"
+    "symbol": "YLAY",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/33754.png"
   },
   {
     "chainId": 1,
@@ -71206,6 +71222,14 @@
     "decimals": 9,
     "symbol": "DAKE",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/16954.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xb0afa681ead9219d25c57bd17bb207a3afcc4aa1",
+    "name": "Eywa",
+    "symbol": "EYWA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/51242/thumb/Eywa.png?1730449129"
   },
   {
     "chainId": 1,
@@ -79297,14 +79321,6 @@
     "decimals": 18,
     "symbol": "TRTH",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/11853.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xc57bf43f8ca4458309386f9a3e8246a8cadcca51",
-    "name": "DOXcoin",
-    "symbol": "DOX",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/36857/thumb/201.png?1712641116"
   },
   {
     "chainId": 1,
@@ -88035,14 +88051,6 @@
   },
   {
     "chainId": 1,
-    "name": "Zano",
-    "address": "0xdb85f6685950e285b1e611037bebe5b34e2b7d78",
-    "decimals": 18,
-    "symbol": "ZANO",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/4691.png"
-  },
-  {
-    "chainId": 1,
     "name": "XNOVA",
     "address": "0xdb8ad3c6d7f9f364d59af9a62c3139cf5c6be88e",
     "decimals": 18,
@@ -94611,14 +94619,6 @@
   },
   {
     "chainId": 1,
-    "address": "0xedae06a2dbdd21038608adce58fd173afdba5add",
-    "name": "FP  LilPudgys",
-    "symbol": "ULP",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/32782/thumb/lp_%281%29.png?1699351240"
-  },
-  {
-    "chainId": 1,
     "name": "Mirrored Twitter",
     "address": "0xedb0414627e6f1e3f082de65cd4f9c693d78cca9",
     "decimals": 18,
@@ -96368,14 +96368,6 @@
     "decimals": 18,
     "symbol": "RLY",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/8075.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xf1fb4cf949277adc3f89c0d6091100789033b7b5",
-    "name": "Aibot",
-    "symbol": "AIBOT",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/31324/thumb/aibot_200.png?1696530143"
   },
   {
     "chainId": 1,
@@ -100711,14 +100703,6 @@
     "decimals": 18,
     "symbol": "API",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7909.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xfd418e42783382e86ae91e445406600ba144d162",
-    "name": "Zircuit",
-    "symbol": "ZRC",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/35960/thumb/zircuit.png?1711719103"
   },
   {
     "chainId": 1,
