@@ -538,6 +538,19 @@
   },
   {
     "chainId": 1,
+    "address": "0x1e4746dc744503b53b4a082cb3607b169a289090",
+    "name": "IPOR Token",
+    "symbol": "IPOR",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/IPOR/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "opListId": "extended",
+      "opTokenId": "IPOR"
+    }
+  },
+  {
+    "chainId": 1,
     "address": "0x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
     "name": "Uniswap",
     "symbol": "UNI",
@@ -2232,6 +2245,19 @@
   },
   {
     "chainId": 1,
+    "address": "0x906c012fa4c30d580537c2b72d1789f56f488a80",
+    "name": "PogCoin",
+    "symbol": "POGS",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/POGS/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "opListId": "extended",
+      "opTokenId": "POGS"
+    }
+  },
+  {
+    "chainId": 1,
     "address": "0x90de74265a416e1393a450752175aed98fe11517",
     "name": "Unlock Discount Token",
     "symbol": "UDT",
@@ -2335,6 +2361,19 @@
       "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
       "opListId": "extended",
       "opTokenId": "EPOCH"
+    }
+  },
+  {
+    "chainId": 1,
+    "address": "0x9a96ec9b57fb64fbc60b423d1f4da7691bd35079",
+    "name": "AjnaToken",
+    "symbol": "AJNA",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/AJNA/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "opListId": "extended",
+      "opTokenId": "AJNA"
     }
   },
   {
@@ -3060,6 +3099,18 @@
       "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
       "opListId": "extended",
       "opTokenId": "COC"
+    }
+  },
+  {
+    "chainId": 1,
+    "address": "0xc944e90c64b2c07662a292be6244bdf05cda44a7",
+    "name": "Graph Token",
+    "symbol": "GRT",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/GRT/logo.svg",
+    "extensions": {
+      "opListId": "extended",
+      "opTokenId": "GRT"
     }
   },
   {
@@ -3990,19 +4041,6 @@
       "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "extended",
       "opTokenId": "LPF"
-    }
-  },
-  {
-    "chainId": 10,
-    "address": "0x0b432610c50ab5794ed030708a811a7ea71df58f",
-    "name": "WalletConnect",
-    "symbol": "WCT",
-    "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/data/WCT/logo.svg",
-    "extensions": {
-      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
-      "opListId": "extended",
-      "opTokenId": "WCT"
     }
   },
   {
@@ -5859,6 +5897,19 @@
   },
   {
     "chainId": 10,
+    "address": "0xef4461891dfb3ac8572ccf7c794664a8dd927945",
+    "name": "WalletConnect",
+    "symbol": "WCT",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/WCT/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "WCT"
+    }
+  },
+  {
+    "chainId": 10,
     "address": "0xef6301da234fc7b0545c6e877d3359fe0b9e50a4",
     "name": "SUKU",
     "symbol": "SUKU",
@@ -7465,6 +7516,19 @@
   },
   {
     "chainId": 8453,
+    "address": "0x728f0a7fec1859cb0d71a432271d4e80310d235f",
+    "name": "PogCoin",
+    "symbol": "POGS",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/POGS/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "POGS"
+    }
+  },
+  {
+    "chainId": 8453,
     "address": "0x7422f030958edf9884ce9c46a211029e03ef6da7",
     "name": "Pepe's Dog",
     "symbol": "POPO",
@@ -7576,6 +7640,19 @@
       "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "extended",
       "opTokenId": "SUSHI"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0x7f05a7a9af2f5a07d1e64877c8dc37a64a22508e",
+    "name": "Ajna",
+    "symbol": "AJNA",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/AJNA/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "AJNA"
     }
   },
   {
@@ -8131,6 +8208,19 @@
       "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "extended",
       "opTokenId": "IOTX"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0xbd4e5c2f8de5065993d29a9794e2b7cefc41437a",
+    "name": "IPOR Token",
+    "symbol": "IPOR",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/IPOR/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "IPOR"
     }
   },
   {
@@ -9049,6 +9139,32 @@
   },
   {
     "chainId": 84532,
+    "address": "0x3cf66a662390e37ff260d0cbaa8af6d426d60d43",
+    "name": "Morpho Token",
+    "symbol": "MORPHO",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/MORPHO/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "MORPHO"
+    }
+  },
+  {
+    "chainId": 84532,
+    "address": "0x4a89c86bc3645e6fc0ba945f9edf070c9b5aeaea",
+    "name": "Graph Token",
+    "symbol": "GRT",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/GRT/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "GRT"
+    }
+  },
+  {
+    "chainId": 84532,
     "address": "0x5a2318a2a3d403e2f428e107a8b808f7f57aade9",
     "name": "TYBENG",
     "symbol": "TYBENG",
@@ -9097,6 +9213,19 @@
       "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "extended",
       "opTokenId": "OMI"
+    }
+  },
+  {
+    "chainId": 84532,
+    "address": "0x7ebba0361ccf8ecf66c4522a9323674cd33e8b99",
+    "name": "IPOR Token",
+    "symbol": "IPOR",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/IPOR/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "IPOR"
     }
   },
   {
@@ -9362,6 +9491,19 @@
   },
   {
     "chainId": 11155111,
+    "address": "0x3cf66a662390e37ff260d0cbaa8af6d426d60d43",
+    "name": "Morpho Token",
+    "symbol": "MORPHO",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/MORPHO/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0xfd0Bf71F60660E2f608ed56e1659C450eB113120",
+      "opListId": "extended",
+      "opTokenId": "MORPHO"
+    }
+  },
+  {
+    "chainId": 11155111,
     "address": "0x3f14920c99beb920afa163031c4e47a3e03b3e4a",
     "name": "Send Token",
     "symbol": "send",
@@ -9439,6 +9581,19 @@
   },
   {
     "chainId": 11155111,
+    "address": "0x6e14233172b25eba7ed3cbc513dd8d78d7c2f519",
+    "name": "IPOR Token",
+    "symbol": "IPOR",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/IPOR/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0xfd0Bf71F60660E2f608ed56e1659C450eB113120",
+      "opListId": "extended",
+      "opTokenId": "IPOR"
+    }
+  },
+  {
+    "chainId": 11155111,
     "address": "0x70069dbdcde634fafc827661e579e34194b39d51",
     "name": "TYBENG",
     "symbol": "TYBENG",
@@ -9491,6 +9646,19 @@
   },
   {
     "chainId": 11155111,
+    "address": "0xb7fb16053a3e3d4306791045769ec686f6ec4432",
+    "name": "WalletConnect",
+    "symbol": "WCT",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/WCT/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0xFBb0621E0B23b5478B630BD55a5f21f67730B0F1",
+      "opListId": "extended",
+      "opTokenId": "WCT"
+    }
+  },
+  {
+    "chainId": 11155111,
     "address": "0xb82381a3fbd3fafa77b3a7be693342618240067b",
     "name": "Wrapped liquid staked Ether 2.0",
     "symbol": "wstETH",
@@ -9513,6 +9681,19 @@
       "baseBridgeAddress": "0xfd0Bf71F60660E2f608ed56e1659C450eB113120",
       "opListId": "extended",
       "opTokenId": "EVERY"
+    }
+  },
+  {
+    "chainId": 11155111,
+    "address": "0xca59cceb39be1808d7aa607153f4a5062daf3a83",
+    "name": "Graph Token",
+    "symbol": "GRT",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/GRT/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0xfd0Bf71F60660E2f608ed56e1659C450eB113120",
+      "opListId": "extended",
+      "opTokenId": "GRT"
     }
   },
   {
@@ -9655,6 +9836,19 @@
     "extensions": {
       "opListId": "default",
       "opTokenId": "USDC"
+    }
+  },
+  {
+    "chainId": 11155420,
+    "address": "0x75bb6dca2cd6f9a0189c478bbb8f7ee2fef07c78",
+    "name": "WalletConnect",
+    "symbol": "WCT",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/WCT/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "WCT"
     }
   },
   {

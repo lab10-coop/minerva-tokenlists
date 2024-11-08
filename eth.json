@@ -3441,14 +3441,6 @@
   },
   {
     "chainId": 1,
-    "name": "CATALORIAN",
-    "address": "0x07bf2cc7e965d061ec3a408980d89f3e322d33b8",
-    "decimals": 18,
-    "symbol": "CATALORIAN",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/33047.png"
-  },
-  {
-    "chainId": 1,
     "name": "KokanKano",
     "address": "0x07c4f57790a9b9372adb2516bd41c99fc38c7170",
     "decimals": 18,
@@ -4137,11 +4129,11 @@
   },
   {
     "chainId": 1,
-    "name": "Yieldnest Restaked ETH",
     "address": "0x09db87a538bd693e9d08544577d5ccfaa6373a48",
+    "name": "YieldNest Restaked ETH",
+    "symbol": "YNETH",
     "decimals": 18,
-    "symbol": "ynETH",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/33795.png"
+    "logoURI": "https://assets.coingecko.com/coins/images/37798/thumb/ynETH-YieldNest.png?1715589941"
   },
   {
     "chainId": 1,
@@ -12809,6 +12801,14 @@
     "decimals": 18,
     "symbol": "VCG",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/17017.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Meh",
+    "address": "0x1f38d22f4ec3479c8268c85476b9418716bdb115",
+    "decimals": 9,
+    "symbol": "MEH",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/33838.png"
   },
   {
     "chainId": 1,
@@ -26028,6 +26028,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x3f98ee6644b2c68a800c08fefa97e6ecfbdba248",
+    "name": "WhatAI",
+    "symbol": "WHAT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/51383/thumb/1000001289.jpg?1730966987"
+  },
+  {
+    "chainId": 1,
     "name": "Phantom Protocol",
     "address": "0x3f9bec82c776c47405bcb38070d2395fd18f89d3",
     "decimals": 18,
@@ -32735,14 +32743,6 @@
     "decimals": 18,
     "symbol": "STAT",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/21156.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x4fd0b42d14ad7ffd18d2d1d7ea6b4b45f3d56463",
-    "name": "Goya Giant",
-    "symbol": "ARTG",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/16752/thumb/ARTG-logo-e1619211414299.png?1696516325"
   },
   {
     "chainId": 1,
@@ -42930,6 +42930,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x690031313d70c2545357f4487c6a3f134c434507",
+    "name": "QQQ6900",
+    "symbol": "QQQ",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/51390/thumb/qqq_logo.jpg?1730997530"
+  },
+  {
+    "chainId": 1,
     "name": "US Degen Index 6900",
     "address": "0x6900f7b42fb4abb615c938db6a26d73a9afbed69",
     "decimals": 18,
@@ -45786,6 +45794,14 @@
   },
   {
     "chainId": 1,
+    "name": "Homestar Runner",
+    "address": "0x6fd46112c8ec76e7940dbfdc150774ee6eff27b2",
+    "decimals": 18,
+    "symbol": "RUNNER",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/33839.png"
+  },
+  {
+    "chainId": 1,
     "name": "Yield Magnet",
     "address": "0x6fdb90535c09b82825e38d41edf5e66211d4b442",
     "decimals": 18,
@@ -46439,6 +46455,14 @@
     "decimals": 18,
     "symbol": "SOURCE",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/15013.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x7122985656e38bdc0302db86685bb972b145bd3c",
+    "name": "StakeStone ETH",
+    "symbol": "STONE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/33103/thumb/200_200.png?1702602672"
   },
   {
     "chainId": 1,
@@ -52450,7 +52474,7 @@
   },
   {
     "chainId": 1,
-    "name": "First Neiro On Ethereum",
+    "name": "Neiro",
     "address": "0x812ba41e071c7b7fa4ebcfb62df5f45f6fa853ee",
     "decimals": 18,
     "symbol": "NEIRO",
@@ -62234,7 +62258,7 @@
   {
     "chainId": 1,
     "address": "0x9994e35db50125e0df82e4c2dde62496ce330999",
-    "name": "Morpho",
+    "name": "Legacy Morpho",
     "symbol": "MORPHO",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/29837/thumb/Morpho-token-icon.png?1726771230"
@@ -69353,6 +69377,14 @@
   },
   {
     "chainId": 1,
+    "address": "0xab5bff303312e24dc77bb71a451343f9feb20093",
+    "name": "GULL",
+    "symbol": "GULL",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/51373/thumb/gulllogo.png?1730938086"
+  },
+  {
+    "chainId": 1,
     "name": "IZEROIUM",
     "address": "0xab5c04bbe42667610a2da07ac98ea9fa6e4a9514",
     "decimals": 8,
@@ -71289,11 +71321,11 @@
   },
   {
     "chainId": 1,
+    "name": "EYWA",
     "address": "0xb0afa681ead9219d25c57bd17bb207a3afcc4aa1",
-    "name": "Eywa",
-    "symbol": "EYWA",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/51242/thumb/Eywa.png?1730449129"
+    "symbol": "EYWA",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/33841.png"
   },
   {
     "chainId": 1,
@@ -76384,14 +76416,6 @@
   },
   {
     "chainId": 1,
-    "address": "0xbded8a4dc74a940eab68703167db89b1712b68ea",
-    "name": "KASPAMINING",
-    "symbol": "KMN",
-    "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/34451/thumb/logo_200x200.png?1704901486"
-  },
-  {
-    "chainId": 1,
     "address": "0xbdf245957992bfbc62b07e344128a1eec7b7ee3f",
     "name": "Babypie Wrapped BTC",
     "symbol": "MBTC",
@@ -76845,6 +76869,14 @@
     "symbol": "APTR",
     "decimals": 6,
     "logoURI": "https://assets.coingecko.com/coins/images/37940/thumb/icon_white.png?1715967425"
+  },
+  {
+    "chainId": 1,
+    "address": "0xbeef050ecd6a16c4e7bffbb52ebba7846c4b8cd4",
+    "name": "Steakhouse ETH Morpho Vault",
+    "symbol": "STEAKETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/51382/thumb/ethereum.png?1730966831"
   },
   {
     "chainId": 1,
@@ -85531,14 +85563,6 @@
   },
   {
     "chainId": 1,
-    "address": "0xd51e4965ad973e8c1e1f22369bb884e6914b012c",
-    "name": "ZenoCard",
-    "symbol": "ZENO",
-    "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/36529/thumb/IMG_20240324_220958_106_%281%29.png?1711700883"
-  },
-  {
-    "chainId": 1,
     "address": "0xd520ddbdf81323f4b9a0ea0adbb692ebef6ce280",
     "symbol": "HLD",
     "name": "Holdefi",
@@ -85960,6 +85984,14 @@
     "decimals": 18,
     "symbol": "WDP",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7865.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xd6203889c22d9fe5e938a9200f50fdffe9dd8e02",
+    "name": "STRATEGIC BITCOIN RESERVE",
+    "symbol": "SBR",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/51391/thumb/IMG_5232.jpeg?1731008925"
   },
   {
     "chainId": 1,
@@ -89723,6 +89755,14 @@
   },
   {
     "chainId": 1,
+    "name": "UCOIN",
+    "address": "0xe07710cdcd1c9f0fb04bfd013f9854e4552671ce",
+    "decimals": 18,
+    "symbol": "U",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/33726.png"
+  },
+  {
+    "chainId": 1,
     "address": "0xe0797ec1d0bb0bec541a82c5262c3b0f93f68bfe",
     "name": "Joker",
     "symbol": "JOKER",
@@ -92971,6 +93011,14 @@
   },
   {
     "chainId": 1,
+    "name": "Dollar",
+    "address": "0xe95076d9fe7155c17b455ac49497e78912c4ab65",
+    "decimals": 18,
+    "symbol": "DOLLAR",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/32474.png"
+  },
+  {
+    "chainId": 1,
     "address": "0xe9514a6eba63a0bbbe2faea919e773ebe0f527c1",
     "name": "Kekcoin  ETH ",
     "symbol": "KEK",
@@ -94547,11 +94595,11 @@
   },
   {
     "chainId": 1,
-    "address": "0xed2d1ef84a6a07dd49e8ca934908e9de005b7824",
     "name": "Wicked",
-    "symbol": "WICKED",
+    "address": "0xed2d1ef84a6a07dd49e8ca934908e9de005b7824",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/50565/thumb/apple-touch-icon.png?1728371797"
+    "symbol": "WICKED",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/33832.png"
   },
   {
     "chainId": 1,
