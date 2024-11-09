@@ -105,6 +105,19 @@
   },
   {
     "chainId": 1,
+    "address": "0x039b598c6b99e70058e1e9021e000bdacd33d026",
+    "name": "Morpho Token",
+    "symbol": "MORPHO",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/MORPHO/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "opListId": "extended",
+      "opTokenId": "MORPHO"
+    }
+  },
+  {
+    "chainId": 1,
     "address": "0x03ab458634910aad20ef5f1c8ee96f1d6ac54919",
     "name": "Rai Reflex Index",
     "symbol": "RAI",
@@ -6179,6 +6192,19 @@
   },
   {
     "chainId": 8453,
+    "address": "0x039b598c6b99e70058e1e9021e000bdacd33d026",
+    "name": "Morpho Token",
+    "symbol": "MORPHO",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/MORPHO/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "MORPHO"
+    }
+  },
+  {
+    "chainId": 8453,
     "address": "0x04d1963c76eb1bec59d0eeb249ed86f736b82993",
     "name": "SoftDAO",
     "symbol": "SOFT",
@@ -7319,6 +7345,19 @@
       "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "extended",
       "opTokenId": "TETU"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0x5eaa326fb2fc97facce6a79a304876dad0f2e96c",
+    "name": "Dimo",
+    "symbol": "DIMO",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/DIMO/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "DIMO"
     }
   },
   {
@@ -8477,19 +8516,6 @@
       "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "extended",
       "opTokenId": "UDT"
-    }
-  },
-  {
-    "chainId": 8453,
-    "address": "0xd7ea8433b434223b3da2931620391df157d1c22d",
-    "name": "Dimo",
-    "symbol": "DIMO",
-    "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/data/DIMO/logo.svg",
-    "extensions": {
-      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
-      "opListId": "extended",
-      "opTokenId": "DIMO"
     }
   },
   {
