@@ -20548,14 +20548,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x3269a3c00ab86c753856fd135d97b87facb0d848",
-    "name": "Florence Finance Medici",
-    "symbol": "FFM",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/34382/thumb/M_PNG_200x200_copy.png?1704779326"
-  },
-  {
-    "chainId": 1,
     "name": "BullionsChain",
     "address": "0x326caf6980d4e9161cfb3c55f195b3d825c266d4",
     "decimals": 18,
@@ -36655,14 +36647,6 @@
     "decimals": 18,
     "symbol": "SIDE",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/23454.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x5a338f22b798490ec3e70cd5e64d0cc0754241c0",
-    "name": "Null Social Finance",
-    "symbol": "NSF",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/32485/thumb/logo-1.png?1698291028"
   },
   {
     "chainId": 1,
@@ -66062,14 +66046,6 @@
     "decimals": 18,
     "symbol": "MM",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7875.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xa2847348b58ced0ca58d23c7e9106a49f1427df6",
-    "name": "Convex FPIS",
-    "symbol": "CVXFPIS",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/29678/thumb/photo_2023-03-18_21-37-17.jpg?1696528612"
   },
   {
     "chainId": 1,
@@ -95643,14 +95619,6 @@
   },
   {
     "chainId": 1,
-    "address": "0xefb20cd759f617ab59b758a1f06de02feb5e8bd5",
-    "name": "TaoHarvest",
-    "symbol": "TAH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/35840/thumb/500x500.jpg?1709889331"
-  },
-  {
-    "chainId": 1,
     "name": "MetaDeck",
     "address": "0xefb2beb3b6325855bc257bad9166bf2687c68cc1",
     "decimals": 18,
@@ -107746,6 +107714,14 @@
   },
   {
     "chainId": 324,
+    "address": "0x145e082e384a9fc86e95eea805dc9012f1b76cb7",
+    "symbol": "TRALA",
+    "name": "TRALA",
+    "decimals": 18,
+    "logoURI": "ipfs://Qmebt3F73ZAyw1BSJSfA31THLxshukhD1LFwRMwAeA83pa"
+  },
+  {
+    "chainId": 324,
     "address": "0x160e07e42adbc1fce92d505b579bcd8a3fbea77d",
     "symbol": "FANG",
     "name": "DraculaFi",
@@ -107759,6 +107735,14 @@
     "name": "iZUMi",
     "decimals": 18,
     "logoURI": "ipfs://QmXexNscLrZDTz7dbGP42hpmD2Aarqc5QfArn6SZqXmjDE"
+  },
+  {
+    "chainId": 324,
+    "address": "0x1c6f53185061d7cc387e481c350ad00c2c876f3e",
+    "symbol": "UNI",
+    "name": "Uniswap",
+    "decimals": 18,
+    "logoURI": "ipfs://QmXw3PFpzLkvEjSouZiUvBWqasrL8NxHoEDGt87MqsPmtV"
   },
   {
     "chainId": 324,
@@ -107810,6 +107794,14 @@
   },
   {
     "chainId": 324,
+    "address": "0x31c693f80a0dd1021d6cb097d256585f37168174",
+    "symbol": "WLD",
+    "name": "Worldcoin",
+    "decimals": 18,
+    "logoURI": "ipfs://QmZ1rsSo4mwim1VCVnEXfJ8CjdJKP5K5idJehnQB5472Tj"
+  },
+  {
+    "chainId": 324,
     "address": "0x32fd44bb869620c0ef993754c8a00be67c464806",
     "symbol": "rETH",
     "name": "Rocket Pool ETH",
@@ -107855,6 +107847,14 @@
     "name": "Basmati",
     "decimals": 18,
     "logoURI": "ipfs://QmSH3mwNaZBsha6vMg9ewxqS6xSqzhEChaJBTmAPBr4bU3"
+  },
+  {
+    "chainId": 324,
+    "address": "0x3f0b8b206a7fbdb3ecfc08c9407ca83f5ab1ce59",
+    "symbol": "1INCH",
+    "name": "1INCH",
+    "decimals": 18,
+    "logoURI": "ipfs://QmPho8tkRpiQW6V9h4V1LHMK6WR8SkPExfDNX2az724CPk"
   },
   {
     "chainId": 324,
@@ -108010,6 +108010,14 @@
   },
   {
     "chainId": 324,
+    "address": "0x6d27b6252b980ba4350a1e349a3b684237d5e986",
+    "symbol": "HUSH",
+    "name": "Hush",
+    "decimals": 18,
+    "logoURI": "ipfs://Qmaxaa6PA6UbSLu6umPFdYi8zmNb546BvSHMj1Tm15Emb5"
+  },
+  {
+    "chainId": 324,
     "address": "0x71fd7dfa7db7094e0f857ad3040f1afef76fef85",
     "symbol": "BLT",
     "name": "Bullets",
@@ -108162,6 +108170,14 @@
   },
   {
     "chainId": 324,
+    "address": "0xb441a6223ea5edc430a4b756ce233617566a8fef",
+    "symbol": "BONE",
+    "name": "Bone ShibaSwap",
+    "decimals": 18,
+    "logoURI": "ipfs://QmVtpMyaM5QbesFMyd6FGHNMhnrEFfN2KZv27C3xbCG1bk"
+  },
+  {
+    "chainId": 324,
     "address": "0xbbeb516fb02a01611cbbe0453fe3c580d7281011",
     "symbol": "WBTC",
     "name": "Wrapped Bitcoin",
@@ -108186,11 +108202,27 @@
   },
   {
     "chainId": 324,
+    "address": "0xc16a041ad920b786efef3a0005d835d98dd110b8",
+    "symbol": "METIS",
+    "name": "Metis",
+    "decimals": 18,
+    "logoURI": "ipfs://QmecykgTxdAvtDeJ3XvXxtzb3e3B7qghEffZiQTa3gBAUw"
+  },
+  {
+    "chainId": 324,
     "address": "0xc17f02bd7f44a840a39ab41cf89aa831fe3f8a18",
     "symbol": "INJ",
     "name": "Injective",
     "decimals": 18,
     "logoURI": "ipfs://QmRSAawzyu5fT5xPotkg4sVbfHVehUcaufqrX8C87pGqVE"
+  },
+  {
+    "chainId": 324,
+    "address": "0xc2b13bb90e33f1e191b8aa8f44ce11534d5698e3",
+    "symbol": "COMBO",
+    "name": "Furucombo",
+    "decimals": 18,
+    "logoURI": "ipfs://QmTUSyT48NaZpCwPHXk6G4BA3jQKqAowcueFAoWea6b9fF"
   },
   {
     "chainId": 324,
@@ -108207,6 +108239,14 @@
     "name": "Beany",
     "decimals": 18,
     "logoURI": "ipfs://QmbSC52V4usECcrrsLQTPzyyZMR5rBXs42LAzkJNJ4sEkZ"
+  },
+  {
+    "chainId": 324,
+    "address": "0xc8327d830dc29cdec71ffa567a7e8f58a79fabf6",
+    "symbol": "MEME",
+    "name": "Memecoin",
+    "decimals": 18,
+    "logoURI": "ipfs://QmTZR4yGfMfESAoEvf8P4vJmyoSZ4gEfAuRWGciddmfzCa"
   },
   {
     "chainId": 324,

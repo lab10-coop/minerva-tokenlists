@@ -3102,6 +3102,19 @@
   },
   {
     "chainId": 1,
+    "address": "0xc82e3db60a52cf7529253b4ec688f631aad9e7c2",
+    "name": "ARC",
+    "symbol": "ARC",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/ARC/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "opListId": "extended",
+      "opTokenId": "ARC"
+    }
+  },
+  {
+    "chainId": 1,
     "address": "0xc8d9871a79551ab4439c9e08f12962e3785f0437",
     "name": "CryptoOracle Collective",
     "symbol": "COC",
@@ -7409,6 +7422,19 @@
     "extensions": {
       "opListId": "extended",
       "opTokenId": "dbDEGEN"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0x61ca70b867a48265e553a7fbb81bfe44fada7ae6",
+    "name": "ARC",
+    "symbol": "ARC",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/ARC/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "ARC"
     }
   },
   {
