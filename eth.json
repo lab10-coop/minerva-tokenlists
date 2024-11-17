@@ -15836,14 +15836,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x26a37f5a0200ad622f6db7cd687c78b7049ee841",
-    "name": "WatchTowers AI",
-    "symbol": "WTS",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/34469/thumb/wts.jpeg?1704968199"
-  },
-  {
-    "chainId": 1,
     "name": "CorionX",
     "address": "0x26a604dffe3ddab3bee816097f81d3c4a2a4cf97",
     "decimals": 18,
@@ -27153,6 +27145,14 @@
     "decimals": 18,
     "symbol": "GNOME",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29702.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x42069f39c71816cea208451598425b492dd2b380",
+    "name": "Goompy",
+    "symbol": "GOOMPY",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/51678/thumb/IMG_0205.jpeg?1731779137"
   },
   {
     "chainId": 1,
@@ -59122,6 +59122,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x90d1964873ddd741f49ed3ca9c47ceb470313a09",
+    "name": "Henlo",
+    "symbol": "HENLO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/51673/thumb/Henlo_Kart_5.png?1731774479"
+  },
+  {
+    "chainId": 1,
     "name": "Natmin Pure Escrow",
     "address": "0x90d46a9636b973f18186541d1b04ed3621a49cb0",
     "decimals": 18,
@@ -81608,6 +81616,14 @@
     "decimals": 8,
     "symbol": "TAC",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3227.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xca6e4ac78cd8f0226faeabf3b1a3500af2ebff2b",
+    "name": "Genify ART",
+    "symbol": "ART",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/51663/thumb/mJe43sit_400x400.jpg?1731712867"
   },
   {
     "chainId": 1,
@@ -108034,6 +108050,14 @@
   },
   {
     "chainId": 324,
+    "address": "0x0e6d09d44f3a929d3030b84bfbcc9ae43f42ac8f",
+    "symbol": "AAVE",
+    "name": "Aave",
+    "decimals": 18,
+    "logoURI": "ipfs://QmcEBWQUsAVkAuxALGSuCBN1wLafcLTzvgJEhJXziizXWs"
+  },
+  {
+    "chainId": 324,
     "address": "0x0e97c7a0f8b2c9885c8ac9fc6136e829cbc21d42",
     "symbol": "MUTE",
     "name": "Mute",
@@ -108119,6 +108143,14 @@
     "name": "eZKalibur",
     "decimals": 18,
     "logoURI": "ipfs://QmWtgRmhSrm3riUeZCG8jPrtLu4Z1NjDUR7TqEwHh5WeEh"
+  },
+  {
+    "chainId": 324,
+    "address": "0x25a13cc87d7717b9ec4db168c131ce08f3daac7c",
+    "symbol": "CRU",
+    "name": "CRUST",
+    "decimals": 18,
+    "logoURI": "ipfs://QmezrZU6oLTVuZ8wHmKwptbvM3CoyhYL2X94v9uJVKqDJo"
   },
   {
     "chainId": 324,
@@ -108218,6 +108250,14 @@
   },
   {
     "chainId": 324,
+    "address": "0x426d679a0e111f96a39f44d9daa545898efb600b",
+    "symbol": "API3",
+    "name": "API3",
+    "decimals": 18,
+    "logoURI": "ipfs://QmXPhGBis9yuPmZEiJstpG7Qgi9ZWCSetdRHnEoVuLPYFL"
+  },
+  {
+    "chainId": 324,
     "address": "0x44b809fb33c5f6b1737a3283adaeca4af27a8ec9",
     "symbol": "LDO",
     "name": "Lido DAO",
@@ -108247,6 +108287,14 @@
     "name": "zkApes",
     "decimals": 18,
     "logoURI": "ipfs://QmQoKzkadUagPmPqBiscWmtJaNMdWhvqi4jiwLCPjUixbz"
+  },
+  {
+    "chainId": 324,
+    "address": "0x4a28245900573b472f3a37cee8dec3230ba0b1a6",
+    "symbol": "PERC",
+    "name": "Perion Credits",
+    "decimals": 18,
+    "logoURI": "ipfs://QmdD2ca2dQruWLkKm3y1PnfiKNuM245grgGADUvKbHmqKN"
   },
   {
     "chainId": 324,
@@ -108378,11 +108426,27 @@
   },
   {
     "chainId": 324,
+    "address": "0x6f54599343edd812de1ba66630a6b9075f51d29a",
+    "symbol": "MYST",
+    "name": "Mysterium",
+    "decimals": 18,
+    "logoURI": "ipfs://QmfKqbcvm76L68VkUqWxLF5TWJfnstXcTMTYEnKS8Lk4jj"
+  },
+  {
+    "chainId": 324,
     "address": "0x71fd7dfa7db7094e0f857ad3040f1afef76fef85",
     "symbol": "BLT",
     "name": "Bullets",
     "decimals": 18,
     "logoURI": "ipfs://QmQ9ph2ubL5bs2JRMvM8DTf8mQV9nGAyQRCVXuh4czCfq2"
+  },
+  {
+    "chainId": 324,
+    "address": "0x73ff88bfb03d060fb63b374d5185a50d8e1423c3",
+    "symbol": "QNT",
+    "name": "Quant",
+    "decimals": 18,
+    "logoURI": "ipfs://QmaTBWZLWdA19rdrugEVduUg2oUCrngUUrTRymVmxEKdfq"
   },
   {
     "chainId": 324,
@@ -108511,6 +108575,14 @@
     "name": "Dogera",
     "decimals": 18,
     "logoURI": "ipfs://QmXo7suHFiqw5q2UXKvypKkcsRMxvFNF517ZkxJ25qWAVB"
+  },
+  {
+    "chainId": 324,
+    "address": "0xa9114787910204c696c1c438f52a7ce7cc9f8bd7",
+    "symbol": "DIA",
+    "name": "DIAToken",
+    "decimals": 18,
+    "logoURI": "ipfs://QmS6dfsmmJxUyDcyHg6rd4vd8oRS3J3191YHR2NyEhgA5d"
   },
   {
     "chainId": 324,
@@ -108714,6 +108786,14 @@
   },
   {
     "chainId": 324,
+    "address": "0xda895cda4d9ac4ca37de4f5a2277d681c72f52bd",
+    "symbol": "RDNT",
+    "name": "Radiant",
+    "decimals": 18,
+    "logoURI": "ipfs://QmPFwFqf6KCqR6fBxYffw1FtPGVG6AUACK1dKu79cFvpHt"
+  },
+  {
+    "chainId": 324,
     "address": "0xdd9f72afed3631a6c85b5369d84875e6c42f1827",
     "symbol": "SIS",
     "name": "Symbiosis",
@@ -108783,6 +108863,22 @@
     "name": "XRAISE",
     "decimals": 18,
     "logoURI": "ipfs://QmV1mQsrhQxmyXyD1vSsSv24HUTQEc4zUzdHi8A3WJchgb"
+  },
+  {
+    "chainId": 324,
+    "address": "0xf9966320bf9c2d38297036f3c4efc9dae929ed37",
+    "symbol": "TRB",
+    "name": "Tellor Tributes",
+    "decimals": 18,
+    "logoURI": "ipfs://QmWvmGB7NhEcfLrqCM6dsRozFytqY2wBC3ordycpzgjQqU"
+  },
+  {
+    "chainId": 324,
+    "address": "0xfba29bfdfd65c61747a8634d6619cda5a7ba2fe3",
+    "symbol": "BAT",
+    "name": "Basic Attention Token",
+    "decimals": 18,
+    "logoURI": "ipfs://QmZPngVewTaGaXqN28CnZ9EJSBJ2jAEnMao87T9RbPUoGM"
   },
   {
     "chainId": 8453,
@@ -111431,6 +111527,14 @@
     "name": "USD Coin",
     "decimals": 6,
     "logoURI": "ipfs://QmWbGfqePP3uAvPNHdYSP69aDznHGknsypTPRaiJT9NZF8"
+  },
+  {
+    "chainId": 43114,
+    "address": "0xbbaaa0420d474b34be197f95a323c2ff3829e811",
+    "symbol": "LOD3",
+    "name": "LOD3 Token",
+    "decimals": 17,
+    "logoURI": "ipfs://QmVpp1pQDU6JXGVbeeYsvnvE4BJB56fs84Uyizft9PyxrR"
   },
   {
     "chainId": 43114,
