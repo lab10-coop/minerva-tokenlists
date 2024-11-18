@@ -6225,6 +6225,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x0f3a12b78fee11ee088e454a0547bdbc5a253a6d",
+    "name": "Merlin Chain",
+    "symbol": "MERL",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/37118/thumb/merlin.jpeg?1713352230"
+  },
+  {
+    "chainId": 1,
     "name": "Anchor Protocol",
     "address": "0x0f3adc247e91c3c50bc08721355a41037e89bc20",
     "decimals": 18,
@@ -18732,11 +18740,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x2e44f3f609ff5aa4819b323fd74690f07c3607c4",
     "name": "PinLink",
-    "symbol": "PIN",
+    "address": "0x2e44f3f609ff5aa4819b323fd74690f07c3607c4",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/51611/thumb/200x00.png?1731616756"
+    "symbol": "PIN",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/34017.png"
   },
   {
     "chainId": 1,
@@ -30271,6 +30279,14 @@
     "decimals": 18,
     "symbol": "USDQ",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/4020.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Dogecast",
+    "address": "0x4955f6641bf9c8c163604c321f4b36e988698f75",
+    "decimals": 9,
+    "symbol": "DOGECAST",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/34020.png"
   },
   {
     "chainId": 1,
