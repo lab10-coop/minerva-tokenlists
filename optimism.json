@@ -281,6 +281,7 @@
     "logoURI": "https://ethereum-optimism.github.io/data/WAD/logo.png",
     "extensions": {
       "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1",
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
       "opListId": "extended",
       "opTokenId": "WAD"
     }
@@ -588,6 +589,19 @@
       "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1",
       "opListId": "extended",
       "opTokenId": "PHTK"
+    }
+  },
+  {
+    "chainId": 1,
+    "address": "0x21bfbda47a0b4b5b1248c767ee49f7caa9b23697",
+    "name": "OVR",
+    "symbol": "OVR",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/OVR/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "opListId": "extended",
+      "opTokenId": "OVR"
     }
   },
   {
@@ -915,6 +929,19 @@
       "optimismBridgeAddress": "0xaBA2c5F108F7E820C049D5Af70B16ac266c8f128",
       "opListId": "extended",
       "opTokenId": "BitBTC"
+    }
+  },
+  {
+    "chainId": 1,
+    "address": "0x3d3d35bb9bec23b06ca00fe472b50e7a4c692c30",
+    "name": "Vidya",
+    "symbol": "VIDYA",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/VIDYA/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "opListId": "extended",
+      "opTokenId": "VIDYA"
     }
   },
   {
@@ -3148,6 +3175,7 @@
     "decimals": 18,
     "logoURI": "https://ethereum-optimism.github.io/data/GRT/logo.svg",
     "extensions": {
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
       "opListId": "extended",
       "opTokenId": "GRT"
     }
@@ -3966,6 +3994,19 @@
       "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1",
       "opListId": "extended",
       "opTokenId": "EQB"
+    }
+  },
+  {
+    "chainId": 1,
+    "address": "0xff20817765cb7f73d4bde2e66e067e58d11095c2",
+    "name": "Amp",
+    "symbol": "AMP",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/AMP/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "opListId": "extended",
+      "opTokenId": "AMP"
     }
   },
   {
@@ -6373,6 +6414,19 @@
   },
   {
     "chainId": 8453,
+    "address": "0x0f4d237b09cb37d207ba60353dc254d4530d4df1",
+    "name": "Graph Token",
+    "symbol": "GRT",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/GRT/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "GRT"
+    }
+  },
+  {
+    "chainId": 8453,
     "address": "0x1287a235474e0331c0975e373bdd066444d1bd35",
     "name": "TAIKAI Token",
     "symbol": "TKAI",
@@ -6702,6 +6756,19 @@
       "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "extended",
       "opTokenId": "CTSI"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0x27e3bc3a66e24cad043ac3d93a12a8070e3897ba",
+    "name": "OVR",
+    "symbol": "OVR",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/OVR/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "OVR"
     }
   },
   {
@@ -7218,6 +7285,19 @@
       "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "extended",
       "opTokenId": "DOLA"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0x46c8651ddedd50cbdf71de85d3de9aac80247b62",
+    "name": "Vidya",
+    "symbol": "VIDYA",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/VIDYA/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "VIDYA"
     }
   },
   {
@@ -8199,6 +8279,19 @@
   },
   {
     "chainId": 8453,
+    "address": "0xb358489d5d92641edb4d8ee8063f8005964346ba",
+    "name": "Amp",
+    "symbol": "AMP",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/AMP/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "AMP"
+    }
+  },
+  {
+    "chainId": 8453,
     "address": "0xb363c1235734f4c036eb82c84c87e099c316fb48",
     "name": "THX Network",
     "symbol": "THX",
@@ -8452,6 +8545,19 @@
       "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "extended",
       "opTokenId": "yETH"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0xcb3d15e352cefa5be4b63b5f3f08a9f2c3e9eff2",
+    "name": "WardenSwap",
+    "symbol": "WAD",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/WAD/logo.png",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "WAD"
     }
   },
   {
@@ -9204,6 +9310,19 @@
   },
   {
     "chainId": 84532,
+    "address": "0x189e5d3e8b540a9f9a5a15bad683d26ff87e3dde",
+    "name": "OPENLOOT",
+    "symbol": "OL",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/OL/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "OL"
+    }
+  },
+  {
+    "chainId": 84532,
     "address": "0x27229e11d98e5a431cb71f7a0a874480299c9c57",
     "name": "LOCGame",
     "symbol": "LOCG",
@@ -9526,6 +9645,19 @@
       "optimismBridgeAddress": "0xFBb0621E0B23b5478B630BD55a5f21f67730B0F1",
       "opListId": "extended",
       "opTokenId": "OUTb"
+    }
+  },
+  {
+    "chainId": 11155111,
+    "address": "0x12630f88b4ac181bad45089ba1d0d5dbed708083",
+    "name": "OPENLOOT",
+    "symbol": "OL",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/OL/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0xfd0Bf71F60660E2f608ed56e1659C450eB113120",
+      "opListId": "extended",
+      "opTokenId": "OL"
     }
   },
   {

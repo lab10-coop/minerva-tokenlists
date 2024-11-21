@@ -4869,6 +4869,34 @@
     ]
   },
   {
+    "address": "0x58e90e043fe47d224cc475349992a90317acbd69",
+    "name": "Super WOOF",
+    "symbol": "WOOFx",
+    "decimals": 18,
+    "chainId": 666666666,
+    "extensions": {
+      "superTokenInfo": {
+        "type": "Wrapper",
+        "underlyingTokenAddress": "0x6d5ecd0509b47a78b750ca85cd1ec96d90f4cb3a"
+      }
+    },
+    "logoURI": "https://superfluid-finance.github.io/tokenlist/icons/woof.png",
+    "tags": [
+      "supertoken"
+    ]
+  },
+  {
+    "address": "0x6d5ecd0509b47a78b750ca85cd1ec96d90f4cb3a",
+    "name": "Degen Dogs WOOF",
+    "symbol": "WOOF",
+    "decimals": 18,
+    "chainId": 666666666,
+    "logoURI": "https://superfluid-finance.github.io/tokenlist/icons/woof.png",
+    "tags": [
+      "underlying"
+    ]
+  },
+  {
     "address": "0xda58fa9bfc3d3960df33ddd8d4d762cf8fa6f7ad",
     "name": "Super Degen",
     "symbol": "DEGENx",
