@@ -3670,6 +3670,17 @@
     ]
   },
   {
+    "address": "0x4154550f4db74dc38d1fe98e1f3f28ed6dad627d",
+    "name": "Jarvis Synthetic Euro",
+    "symbol": "jEUR",
+    "decimals": 18,
+    "chainId": 8453,
+    "logoURI": "https://superfluid-finance.github.io/tokenlist/icons/jeur.svg",
+    "tags": [
+      "underlying"
+    ]
+  },
+  {
     "address": "0x46fd5cfb4c12d87acd3a13e92baa53240c661d93",
     "name": "Super ETH",
     "symbol": "ETHx",
@@ -4157,6 +4168,23 @@
       }
     },
     "logoURI": "https://superfluid-finance.github.io/tokenlist/icons/tn100x.png",
+    "tags": [
+      "supertoken"
+    ]
+  },
+  {
+    "address": "0xfcdecfe37463912c03a644128eb02a1147715e36",
+    "name": "Superfluid Jarvis Synthetic Euro",
+    "symbol": "jEURx",
+    "decimals": 18,
+    "chainId": 8453,
+    "extensions": {
+      "superTokenInfo": {
+        "type": "Wrapper",
+        "underlyingTokenAddress": "0x4154550f4db74dc38d1fe98e1f3f28ed6dad627d"
+      }
+    },
+    "logoURI": "https://superfluid-finance.github.io/tokenlist/icons/jeur.svg",
     "tags": [
       "supertoken"
     ]
