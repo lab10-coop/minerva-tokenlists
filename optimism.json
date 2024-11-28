@@ -3668,6 +3668,19 @@
   },
   {
     "chainId": 1,
+    "address": "0xec67005c4e498ec7f55e092bd1d35cbc47c91892",
+    "name": "Melon Token",
+    "symbol": "MLN",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/MLN/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "opListId": "extended",
+      "opTokenId": "MLN"
+    }
+  },
+  {
+    "chainId": 1,
     "address": "0xed328e9c1179a30ddc1e7595e036aed8760c22af",
     "name": "Metacade",
     "symbol": "MCADE",
@@ -3863,6 +3876,19 @@
       "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
       "opListId": "extended",
       "opTokenId": "YFX"
+    }
+  },
+  {
+    "chainId": 1,
+    "address": "0xf5a893cc9b09c46fdaece4301abc88c5c9c926c2",
+    "name": "Animalverse Club",
+    "symbol": "AVC",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/AVC/logo.png",
+    "extensions": {
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "opListId": "extended",
+      "opTokenId": "AVC"
     }
   },
   {
@@ -7777,6 +7803,19 @@
   },
   {
     "chainId": 8453,
+    "address": "0x7c298664bd6582f6f264c2cb5a4b9cc09b6e3889",
+    "name": "Melon Token",
+    "symbol": "MLN",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/MLN/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "MLN"
+    }
+  },
+  {
+    "chainId": 8453,
     "address": "0x7c34073c56285944f9a5384137186abfae1c3bf0",
     "name": "Plague",
     "symbol": "PLG",
@@ -8237,6 +8276,19 @@
       "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "extended",
       "opTokenId": "ETHIX"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0xacb1c6492a3d7cb8f38f04496381902ba55ed3c5",
+    "name": "Animalverse Club",
+    "symbol": "AVC",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/AVC/logo.png",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "AVC"
     }
   },
   {
