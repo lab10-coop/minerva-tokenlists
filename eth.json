@@ -825,6 +825,14 @@
   },
   {
     "chainId": 1,
+    "name": "PROPHET",
+    "address": "0x0138f5e99cfdffbacf36e543800c19ef16fa294b",
+    "decimals": 18,
+    "symbol": "PROPHET",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29966.png"
+  },
+  {
+    "chainId": 1,
     "name": "Bali Coin",
     "address": "0x013a06558f07d9e6f9a00c95a33f3a0e0255176b",
     "decimals": 18,
@@ -4766,6 +4774,14 @@
     "decimals": 9,
     "symbol": "ROBOSHIB",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/16071.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x0b49707fb9706428d1bb51a2906617aeaba82346",
+    "name": "PolarFighters",
+    "symbol": "PFT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/52214/thumb/pft.png?1732751401"
   },
   {
     "chainId": 1,
@@ -17478,7 +17494,7 @@
     "chainId": 1,
     "name": "UCBI Banking",
     "address": "0x2adba23cf1252de095aced801e758b369ec10426",
-    "decimals": 8,
+    "decimals": 18,
     "symbol": "UCBI",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/4780.png"
   },
@@ -17545,6 +17561,14 @@
     "decimals": 18,
     "symbol": "MARX",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/11849.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x2b117f0a9a56dddaaf0257b476bfc39ca7e6fda1",
+    "name": "Conwai",
+    "symbol": "CONWAI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/52236/thumb/tp.png?1732805691"
   },
   {
     "chainId": 1,
@@ -23069,7 +23093,7 @@
   {
     "chainId": 1,
     "address": "0x3797c46db697c24a983222c335f17ba28e8c5b69",
-    "name": "UBS uMINT ETH",
+    "name": "UBS USD Money Market Investment Fund To",
     "symbol": "UMINT",
     "decimals": 8,
     "logoURI": "https://assets.coingecko.com/coins/images/51913/thumb/%E5%9B%BE%E5%83%8F.png?1732678510"
@@ -33674,11 +33698,11 @@
   },
   {
     "chainId": 1,
+    "name": "BIG Ecosystem",
     "address": "0x516d339afa72f6959b8e06a31fbc32da3e49348b",
-    "name": "Connect",
-    "symbol": "CNCT",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/39932/thumb/IMG_4033.jpeg?1724836586"
+    "symbol": "CNCT",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/34270.png"
   },
   {
     "chainId": 1,
@@ -39410,11 +39434,11 @@
   },
   {
     "chainId": 1,
+    "name": "Quantum Fusion Network",
     "address": "0x6019dcb2d0b3e0d1d8b0ce8d16191b3a4f93703d",
-    "name": "Quantum Fusion",
-    "symbol": "QF",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/38823/thumb/qfnlogo.jpg?1729797482"
+    "symbol": "QF",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/34265.png"
   },
   {
     "chainId": 1,
@@ -42567,6 +42591,14 @@
     "decimals": 9,
     "symbol": "FUBUKI",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/17812.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x6768d4d4957a2ba2ef3f6d4a8883c0042e230bec",
+    "name": "MonkeyFi",
+    "symbol": "MF",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/52219/thumb/MonkeyFi_PNG_200x200.png?1732782154"
   },
   {
     "chainId": 1,
@@ -52972,7 +53004,7 @@
     "chainId": 1,
     "name": "Nugget Trap Gold Token",
     "address": "0x810296898a4f870619b015c0b13c8c6e65b305e3",
-    "decimals": 2,
+    "decimals": 18,
     "symbol": "NGTG$$",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/33946.png"
   },
@@ -59967,6 +59999,14 @@
     "decimals": 18,
     "symbol": "BRIDGE",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/14399.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x928b2a1e6c5095e558454b795bcfd11b8f0791f0",
+    "symbol": "SLIMER",
+    "name": "SLIMER",
+    "decimals": 18,
+    "logoURI": "ipfs://QmbXXEw6n9srGTt8mTvHJyGmAJqKLuLeuDQtk96xhwePEe"
   },
   {
     "chainId": 1,
@@ -67257,6 +67297,14 @@
   },
   {
     "chainId": 1,
+    "name": "Peace Frog",
+    "address": "0xa44136dc2e7a1543abbbf1c2a97e57c8d885e0be",
+    "decimals": 9,
+    "symbol": "PFROG",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/34275.png"
+  },
+  {
+    "chainId": 1,
     "name": "LEOX",
     "address": "0xa444ec96ee01bb219a44b285de47bf33c3447ad5",
     "decimals": 18,
@@ -69425,11 +69473,11 @@
   },
   {
     "chainId": 1,
-    "name": "PROPHET",
     "address": "0xa9fbcc25435ad713a9468d8c89dd7baae8914e3a",
-    "decimals": 18,
+    "name": "Prophet  OLD ",
     "symbol": "PROPHET",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29966.png"
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/31908/thumb/Logo_200x200.png?1696530717"
   },
   {
     "chainId": 1,
@@ -95379,10 +95427,10 @@
   },
   {
     "chainId": 1,
-    "name": "Bitcoin Palladium",
+    "name": "TrumpElon CannationX",
     "address": "0xed376501f61046a3f43dac6d5ab51a700dda46fc",
     "decimals": 18,
-    "symbol": "BTCP",
+    "symbol": "TECX",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/1674.png"
   },
   {
@@ -108802,6 +108850,14 @@
   },
   {
     "chainId": 324,
+    "address": "0x578e6506ac82a249b83eb7e35ebf24b98d5fa801",
+    "symbol": "ENJ",
+    "name": "Enjin Coin",
+    "decimals": 18,
+    "logoURI": "ipfs://QmW9qUmW7xPMEw2fNkbGgJUXiYfUNnWU26YrnZgNsGSGQH"
+  },
+  {
+    "chainId": 324,
     "address": "0x5865f29a5a9d5ba8950c13506b014f1377f0b89f",
     "symbol": "GALA",
     "name": "Gala",
@@ -108975,6 +109031,14 @@
     "name": "Zeek",
     "decimals": 18,
     "logoURI": "ipfs://QmScuE1RaGXo3kR6BsBAD8ec2hpYB9TA1rDQBG2fCWLfxb"
+  },
+  {
+    "chainId": 324,
+    "address": "0x7b350e8b405090496b02d28f7cdb6fbb3f8c6418",
+    "symbol": "VVS",
+    "name": "VVS",
+    "decimals": 18,
+    "logoURI": "ipfs://QmVvZiQuKRwHRP2iiQq7aWi6MaDkdccnX4d5KibyzMwSt5"
   },
   {
     "chainId": 324,
@@ -109215,6 +109279,14 @@
     "name": "Bella",
     "decimals": 18,
     "logoURI": "ipfs://QmPNxN9GWvwgTg4r72cX3vENWxPPJVnFvHxjVAB95REA5y"
+  },
+  {
+    "chainId": 324,
+    "address": "0xb86c11fd839faa1ce58ed0c78c6dc657844978f2",
+    "symbol": "VIRTUAL",
+    "name": "Virtual Protocol",
+    "decimals": 18,
+    "logoURI": "ipfs://QmcgUbxg6y9CdhCSnHtdVHJCLAXTHHy1FeRQijtroN44K7"
   },
   {
     "chainId": 324,
