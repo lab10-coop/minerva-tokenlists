@@ -92,6 +92,19 @@
   },
   {
     "chainId": 1,
+    "address": "0x037a54aab062628c9bbae1fdb1583c195585fe41",
+    "name": "LCX",
+    "symbol": "LCX",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/LCX/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "opListId": "extended",
+      "opTokenId": "LCX"
+    }
+  },
+  {
+    "chainId": 1,
     "address": "0x0391d2021f89dc339f60fff84546ea23e337750f",
     "name": "BarnBridge Governance Token",
     "symbol": "BOND",
@@ -231,6 +244,19 @@
       "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
       "opListId": "extended",
       "opTokenId": "SQT"
+    }
+  },
+  {
+    "chainId": 1,
+    "address": "0x0943a203d80d89d79bf5eaa1780fc72a016fb729",
+    "name": "Akira Dog",
+    "symbol": "AKIRA",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/AKIRA/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "opListId": "extended",
+      "opTokenId": "AKIRA"
     }
   },
   {
@@ -1253,6 +1279,19 @@
   },
   {
     "chainId": 1,
+    "address": "0x525574c899a7c877a11865339e57376092168258",
+    "name": "GURU Token",
+    "symbol": "GURU",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/GURU/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "opListId": "extended",
+      "opTokenId": "GURU"
+    }
+  },
+  {
+    "chainId": 1,
     "address": "0x55296f69f40ea6d20e478533c15a6b08b654e758",
     "name": "XY Oracle",
     "symbol": "XYO",
@@ -1590,6 +1629,19 @@
   },
   {
     "chainId": 1,
+    "address": "0x686f2404e77ab0d9070a46cdfb0b7fecdd2318b0",
+    "name": "Lords",
+    "symbol": "LORDS",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/LORDS/logo.png",
+    "extensions": {
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "opListId": "extended",
+      "opTokenId": "LORDS"
+    }
+  },
+  {
+    "chainId": 1,
     "address": "0x6982508145454ce325ddbe47a25d4ec3d2311933",
     "name": "Pepe",
     "symbol": "PEPE",
@@ -1709,6 +1761,19 @@
       "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
       "opListId": "extended",
       "opTokenId": "LQTY"
+    }
+  },
+  {
+    "chainId": 1,
+    "address": "0x6e15a54b5ecac17e58dadeddbe8506a7560252f9",
+    "name": "SynFutures",
+    "symbol": "F",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/F/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "opListId": "extended",
+      "opTokenId": "F"
     }
   },
   {
@@ -1871,6 +1936,19 @@
   },
   {
     "chainId": 1,
+    "address": "0x7abc8a5768e6be61a6c693a6e4eacb5b60602c4d",
+    "name": "Covalent X Token",
+    "symbol": "CXT",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/CXT/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "opListId": "extended",
+      "opTokenId": "CXT"
+    }
+  },
+  {
+    "chainId": 1,
     "address": "0x7ae1d57b58fa6411f32948314badd83583ee0e8c",
     "name": "Paper",
     "symbol": "PAPER",
@@ -1984,6 +2062,7 @@
     "logoURI": "https://ethereum-optimism.github.io/data/PENDLE/logo.png",
     "extensions": {
       "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1",
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
       "opListId": "extended",
       "opTokenId": "PENDLE"
     }
@@ -2068,6 +2147,19 @@
       "modeBridgeAddress": "0x735aDBbE72226BD52e818E7181953f42E3b0FF21",
       "opListId": "extended",
       "opTokenId": "sDAI"
+    }
+  },
+  {
+    "chainId": 1,
+    "address": "0x8457ca5040ad67fdebbcc8edce889a335bc0fbfb",
+    "name": "AltLayer",
+    "symbol": "ALT",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/ALT/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "opListId": "extended",
+      "opTokenId": "ALT"
     }
   },
   {
@@ -2685,6 +2777,18 @@
   },
   {
     "chainId": 1,
+    "address": "0xaf4144cd943ed5362fed2bae6573184659cbe6ff",
+    "name": "Lizcoin",
+    "symbol": "LIZ",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/LIZCOIN/logo.png",
+    "extensions": {
+      "opListId": "extended",
+      "opTokenId": "LIZCOIN"
+    }
+  },
+  {
+    "chainId": 1,
     "address": "0xb0b195aefa3650a6908f15cdac7d92f8a5791b0b",
     "name": "BOB Token",
     "symbol": "BOB",
@@ -2784,6 +2888,19 @@
       "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1",
       "opListId": "extended",
       "opTokenId": "0xBTC"
+    }
+  },
+  {
+    "chainId": 1,
+    "address": "0xb98d4c97425d9908e66e53a6fdf673acca0be986",
+    "name": "ArcBlock",
+    "symbol": "ABT",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/ABT/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "opListId": "extended",
+      "opTokenId": "ABT"
     }
   },
   {
@@ -6440,6 +6557,19 @@
   },
   {
     "chainId": 8453,
+    "address": "0x0f1cfd0bb452db90a3bfc0848349463010419ab2",
+    "name": "GURU Token",
+    "symbol": "GURU",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/GURU/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "GURU"
+    }
+  },
+  {
+    "chainId": 8453,
     "address": "0x0f4d237b09cb37d207ba60353dc254d4530d4df1",
     "name": "Graph Token",
     "symbol": "GRT",
@@ -6886,6 +7016,19 @@
       "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "default",
       "opTokenId": "cbETH"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0x2c24497d4086490e7ead87cc12597fb50c2e6ed6",
+    "name": "SynFutures",
+    "symbol": "F",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/F/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "F"
     }
   },
   {
@@ -7751,6 +7894,19 @@
   },
   {
     "chainId": 8453,
+    "address": "0x75f2231a289ea35895246b21e9c6e5bbf5ce69ed",
+    "name": "AltLayer",
+    "symbol": "ALT",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/ALT/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "ALT"
+    }
+  },
+  {
+    "chainId": 8453,
     "address": "0x76ff2ab6b34142421f44a68cc8dd08f45f9ee2f2",
     "name": "PIP",
     "symbol": "PIP",
@@ -8204,6 +8360,19 @@
   },
   {
     "chainId": 8453,
+    "address": "0xa99f6e6785da0f5d6fb42495fe424bce029eeb3e",
+    "name": "Pendle",
+    "symbol": "PENDLE",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/PENDLE/logo.png",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "PENDLE"
+    }
+  },
+  {
+    "chainId": 8453,
     "address": "0xa9c9dcb054421dedc9d9006cffe843d0a5cd6339",
     "name": "Sustainable Growth",
     "symbol": "SUS",
@@ -8238,6 +8407,19 @@
       "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "extended",
       "opTokenId": "RSR"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0xab387e8f0df922dedd9d5067e51816d08a938174",
+    "name": "Akira Dog",
+    "symbol": "AKIRA",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/AKIRA/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "AKIRA"
     }
   },
   {
@@ -8327,6 +8509,19 @@
       "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "extended",
       "opTokenId": "IYKYK"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb1e1f3cc2b6fe4420c1ac82022b457018eb628ff",
+    "name": "Covalent X Token",
+    "symbol": "CXT",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/CXT/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "CXT"
     }
   },
   {
@@ -8704,6 +8899,19 @@
   },
   {
     "chainId": 8453,
+    "address": "0xd5b22dcfa9a919b28afe164fc7af10b832d4b022",
+    "name": "Lords",
+    "symbol": "LORDS",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/LORDS/logo.png",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "LORDS"
+    }
+  },
+  {
+    "chainId": 8453,
     "address": "0xd652c5425aea2afd5fb142e120fecf79e18fafc3",
     "name": "PoolTogether",
     "symbol": "POOL",
@@ -8713,6 +8921,19 @@
       "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "default",
       "opTokenId": "POOL"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0xd7468c14ae76c3fc308aeadc223d5d1f71d3c171",
+    "name": "LCX",
+    "symbol": "LCX",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/LCX/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "LCX"
     }
   },
   {
@@ -8855,6 +9076,19 @@
       "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "extended",
       "opTokenId": "LIKE"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0xe2a8ccb00e328a0ec2204cb0c736309d7c1fa556",
+    "name": "ArcBlock",
+    "symbol": "ABT",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/ABT/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "ABT"
     }
   },
   {
@@ -9570,6 +9804,19 @@
   },
   {
     "chainId": 84532,
+    "address": "0xbbf7ddbfbfed11610ca2165ed5d94485f09d98e1",
+    "name": "Lizcoin",
+    "symbol": "LIZ",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/LIZCOIN/logo.png",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "LIZCOIN"
+    }
+  },
+  {
+    "chainId": 84532,
     "address": "0xc0c034725e4ec6ddd23b8d4e6412094bcfb3f5d6",
     "name": "Presearch",
     "symbol": "PRE",
@@ -9618,6 +9865,19 @@
       "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "extended",
       "opTokenId": "BTRST"
+    }
+  },
+  {
+    "chainId": 84532,
+    "address": "0xf92620d8d20e0197885ff1005506ef4d0be5bd54",
+    "name": "ArcBlock",
+    "symbol": "ABT",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/ABT/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "ABT"
     }
   },
   {
@@ -9895,6 +10155,18 @@
   },
   {
     "chainId": 11155111,
+    "address": "0x72e2f504a0769458acdcdd24236912f48342457c",
+    "name": "Covalent X Token",
+    "symbol": "CXT",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/CXT/logo.svg",
+    "extensions": {
+      "opListId": "extended",
+      "opTokenId": "CXT"
+    }
+  },
+  {
+    "chainId": 11155111,
     "address": "0x90c9155ec3c2c4ad624db896864fc62eb3d62626",
     "name": "True",
     "symbol": "TRUE",
@@ -9917,6 +10189,32 @@
       "baseBridgeAddress": "0xfd0Bf71F60660E2f608ed56e1659C450eB113120",
       "opListId": "extended",
       "opTokenId": "BKN"
+    }
+  },
+  {
+    "chainId": 11155111,
+    "address": "0xa5a69f91e14c135727983924c671ec564739b961",
+    "name": "ArcBlock",
+    "symbol": "ABT",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/ABT/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0xfd0Bf71F60660E2f608ed56e1659C450eB113120",
+      "opListId": "extended",
+      "opTokenId": "ABT"
+    }
+  },
+  {
+    "chainId": 11155111,
+    "address": "0xaf9f5cc2384c33de30a7edb933a3fb0626eaf542",
+    "name": "Lizcoin",
+    "symbol": "LIZ",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/LIZCOIN/logo.png",
+    "extensions": {
+      "baseBridgeAddress": "0xfd0Bf71F60660E2f608ed56e1659C450eB113120",
+      "opListId": "extended",
+      "opTokenId": "LIZCOIN"
     }
   },
   {
