@@ -10273,6 +10273,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x18eff407bf611ffaab8d8e97e88bf840b8337a35",
+    "name": "Klear",
+    "symbol": "KLEAR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/52293/thumb/Clear_icon_Negative_on_Color.png?1732966429"
+  },
+  {
+    "chainId": 1,
     "name": "Esports Token",
     "address": "0x18f5b4908e8861e3114ba9a0a9a4e84c5f180cc0",
     "decimals": 9,
@@ -27835,6 +27843,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x42fa14d6e4642b3789d8b0272534a41d415663a9",
+    "symbol": "TREND",
+    "name": "TREND",
+    "decimals": 9,
+    "logoURI": "ipfs://QmRy3PJx3taMJjCswZv6y9PURBY7bS2m3nsgM8oG6uMMu2"
+  },
+  {
+    "chainId": 1,
     "name": "Cap",
     "address": "0x43044f861ec040db59a7e324c40507addb673142",
     "decimals": 18,
@@ -35351,6 +35367,14 @@
     "decimals": 18,
     "symbol": "XRPHEDGE",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/6342.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x55bd5f6a1caea02c4f1eae6119b2ac0babab2c9f",
+    "name": "AgenTensor",
+    "symbol": "AGTS",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/52287/thumb/IMG_20241129_101608_043.jpg?1732954477"
   },
   {
     "chainId": 1,
@@ -47330,14 +47354,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x722383e1e8994cb8a55cbc1621dc068b62403b1e",
-    "name": "RunesBot",
-    "symbol": "RBOT",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/37216/thumb/photo_2024-04-19_19.58.40.jpeg?1713773888"
-  },
-  {
-    "chainId": 1,
     "name": "Kinka",
     "address": "0x722a89f1b925fe41883978219c2176aecc7d6699",
     "decimals": 18,
@@ -56595,10 +56611,10 @@
   {
     "chainId": 1,
     "address": "0x89b69f2d1adffa9a253d40840b6baa7fc903d697",
-    "name": "Dione",
     "symbol": "DIONE",
+    "name": "Dione",
     "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/26931/thumb/dione_200x200.png?1696525987"
+    "logoURI": "ipfs://QmQ2gDZPh8Zo9ugMy1nNtrEZRBbcnFA6ikMDCi7arkJ81D"
   },
   {
     "chainId": 1,
@@ -71174,14 +71190,6 @@
     "decimals": 18,
     "symbol": "BB-A-DAI",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/20597.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xae3e12b3a07393a5be2f5e980c585f95d5334a08",
-    "name": "LuminAi",
-    "symbol": "LUMAI",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/38053/thumb/Emblem-Color.png?1716406523"
   },
   {
     "chainId": 1,
@@ -100490,14 +100498,6 @@
   },
   {
     "chainId": 1,
-    "address": "0xf9a467d10fc76b2f20b4f8e2d88b1ad7dc278d4f",
-    "name": "MudAi",
-    "symbol": "MUDAI",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/38302/thumb/mudai.jpg?1717040342"
-  },
-  {
-    "chainId": 1,
     "name": "DeGEM",
     "address": "0xf9a7e47f6d00a75be08bb23a804f4153c01a1636",
     "decimals": 18,
@@ -108530,6 +108530,14 @@
   },
   {
     "chainId": 324,
+    "address": "0x046b8abeeb504439816159131b1cc1919228358a",
+    "symbol": "GRT",
+    "name": "The Graph",
+    "decimals": 18,
+    "logoURI": "ipfs://QmV36LPEXUUZ7CNqmNeWAUnjaCfYRARu3MY6xG6d9QyXs7"
+  },
+  {
+    "chainId": 324,
     "address": "0x06662147240414cc0dc25e6414100750d346bc44",
     "symbol": "FLASHDASH",
     "name": "Flashdash",
@@ -108546,11 +108554,35 @@
   },
   {
     "chainId": 324,
+    "address": "0x0675bfc3d1fdc724663186f48a1ce713ba9d3c31",
+    "symbol": "ezETH",
+    "name": "Renzo Restaked ETH",
+    "decimals": 18,
+    "logoURI": "ipfs://QmRKSz96YarTMhSmaRqh9iTvhPzob42Nx23ekRz7FxZ8MF"
+  },
+  {
+    "chainId": 324,
     "address": "0x082fade8b84b18c441d506e1d3a43a387cc59d20",
     "symbol": "LINK",
     "name": "Chainlink",
     "decimals": 18,
     "logoURI": "ipfs://QmPzVYDsfcdDgbmvXWB5gpFmydy3vZ273QqGC3asCp4WSP"
+  },
+  {
+    "chainId": 324,
+    "address": "0x09a37c16580bcda96ad13044ce403f7e7f452077",
+    "symbol": "SDEX",
+    "name": "SmarDex",
+    "decimals": 18,
+    "logoURI": "ipfs://QmfND5e84LhVzuywVPxyxpbpUAH26HMCgRbk8fywmZyFhU"
+  },
+  {
+    "chainId": 324,
+    "address": "0x0bcca089f12ae9e78f5060e1d6fbbe1c827c5990",
+    "symbol": "CRO",
+    "name": "CRO",
+    "decimals": 8,
+    "logoURI": "ipfs://QmQCyvKSpQRcokX61YQKW1tE7aX1cZV9QS8EAuFJEVtTFV"
   },
   {
     "chainId": 324,
@@ -108599,6 +108631,14 @@
     "name": "uGOLD",
     "decimals": 18,
     "logoURI": "ipfs://QmPKK9j5rXuV9fs7Gf85YoHwnen6nre5pY8fYQgM9FQV37"
+  },
+  {
+    "chainId": 324,
+    "address": "0x122528c80166a74f608b2fc13c2c02c51f2e3423",
+    "symbol": "RENDER",
+    "name": "Render",
+    "decimals": 18,
+    "logoURI": "ipfs://QmRoucoJeCgokdrvdQbZqGCq8hSNL8x17fNf9tuyf9w8YU"
   },
   {
     "chainId": 324,
@@ -108786,6 +108826,14 @@
   },
   {
     "chainId": 324,
+    "address": "0x3a563449a2d1e65711aea06649ebceabd66ceac3",
+    "symbol": "SUSHI",
+    "name": "SushiToken",
+    "decimals": 18,
+    "logoURI": "ipfs://QmQ22eqFSDrWNR9FWPAfRye25ML5qsaAJMzxxXGgHoAo1Q"
+  },
+  {
+    "chainId": 324,
     "address": "0x3b925184c17b4648da212229a2fde6a8031462ee",
     "symbol": "DUDIEZ",
     "name": "Dudiez Meme",
@@ -108823,6 +108871,14 @@
     "name": "API3",
     "decimals": 18,
     "logoURI": "ipfs://QmXPhGBis9yuPmZEiJstpG7Qgi9ZWCSetdRHnEoVuLPYFL"
+  },
+  {
+    "chainId": 324,
+    "address": "0x445eb557d2a6e9989550da320755c4903cd4e8ff",
+    "symbol": "ORAI",
+    "name": "Oraichain",
+    "decimals": 18,
+    "logoURI": "ipfs://QmbceCuAX9kgBPsvMWGmgDqJM7yEX9Ev1bxurRAbFvpBWn"
   },
   {
     "chainId": 324,
@@ -109258,6 +109314,14 @@
   },
   {
     "chainId": 324,
+    "address": "0x99abd6389692e8a42fdba0094fa1b12b32b1ce04",
+    "symbol": "OCEAN",
+    "name": "Ocean",
+    "decimals": 18,
+    "logoURI": "ipfs://QmbCbn9q1uXf8AQGrvewS8xevS92ie4tqffwQ92yDW4yuA"
+  },
+  {
+    "chainId": 324,
     "address": "0x9d86578f4b935bed8398353c89bf0fca987dcef2",
     "symbol": "KITTEN",
     "name": "Baby Zeek",
@@ -109306,6 +109370,14 @@
   },
   {
     "chainId": 324,
+    "address": "0xa9fa5ae28b9faaa68723594fce3ad84ba31b2f50",
+    "symbol": "POWR",
+    "name": "PowerLedger",
+    "decimals": 6,
+    "logoURI": "ipfs://QmTDw9kjBNXBAma24G6REW2DGXyR7Z9Qrqdzx7EFxAKKHv"
+  },
+  {
+    "chainId": 324,
     "address": "0xaa610193768223438866ad9e1973447d76e4cf4a",
     "symbol": "FLOKI",
     "name": "FLOKI",
@@ -109330,11 +109402,27 @@
   },
   {
     "chainId": 324,
+    "address": "0xaff169fca5086940c890c8a04c6db4b1db6e0dd6",
+    "symbol": "BAL",
+    "name": "Balancer",
+    "decimals": 18,
+    "logoURI": "ipfs://Qmc4QTY1JcZ7nT6VJwr1WMtghDBzWUUP37xFFsNm7reu56"
+  },
+  {
+    "chainId": 324,
     "address": "0xb0c2bdc425fd01c33d8514f8be016070212bdc6a",
     "symbol": "LMAO",
     "name": "LONGMAO",
     "decimals": 18,
     "logoURI": "ipfs://QmQzzTRQooj2YcbaRspLQDNeHx1uxKi7eR2xWAthuSfFE3"
+  },
+  {
+    "chainId": 324,
+    "address": "0xb21f16d1ea2e8d96ccfafa397cef855bf368aa83",
+    "symbol": "deUSD",
+    "name": "Elixir deUSD",
+    "decimals": 18,
+    "logoURI": "ipfs://QmTHL9UBF9oC4nUpmb99SFF8uYUAXzd982TVkuk13dYdXZ"
   },
   {
     "chainId": 324,
@@ -109351,6 +109439,14 @@
     "name": "Bone ShibaSwap",
     "decimals": 18,
     "logoURI": "ipfs://QmVtpMyaM5QbesFMyd6FGHNMhnrEFfN2KZv27C3xbCG1bk"
+  },
+  {
+    "chainId": 324,
+    "address": "0xb6b831cc8985659e60d8fffeab43afd4b776fdc3",
+    "symbol": "ZENT",
+    "name": "Zentry",
+    "decimals": 18,
+    "logoURI": "ipfs://QmeY2ngePgDqtZwEKUJRQqZEbWt1CzxHdUKJ72dKEfHdUj"
   },
   {
     "chainId": 324,
@@ -109487,6 +109583,14 @@
     "name": "Karat",
     "decimals": 18,
     "logoURI": "ipfs://QmerVFMp8ugtAftogcHAmDP9kGt3sQ16JBe8C2CqK1orQa"
+  },
+  {
+    "chainId": 324,
+    "address": "0xce7ecac36f1847f1f06b0ae46bd0a0a237ef9d93",
+    "symbol": "ONDO",
+    "name": "Ondo",
+    "decimals": 18,
+    "logoURI": "ipfs://QmSvGsTuUFySyWBiWX7Ebkyu8E8XH4zAeZ6FVrvhKDKH6J"
   },
   {
     "chainId": 324,
@@ -109647,6 +109751,14 @@
     "name": "Holdstation",
     "decimals": 18,
     "logoURI": "ipfs://Qmf1zUAJwrGkhMkaTbRCq3FHEJ938JaiZRi8S3sbeQh7d5"
+  },
+  {
+    "chainId": 324,
+    "address": "0xeef4848064ed7449fc8ac4b16b12529e17f60a66",
+    "symbol": "IMX",
+    "name": "Immutable X",
+    "decimals": 18,
+    "logoURI": "ipfs://QmZLgGo7aAuccEaSmes5Zpj6E5nLvLYKjohkgbtf6rSHC2"
   },
   {
     "chainId": 324,
