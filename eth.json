@@ -1601,6 +1601,13 @@
   },
   {
     "chainId": 1,
+    "address": "0x031b8d752d73d7fe9678acef26e818280d0646b4",
+    "name": "Sovrun",
+    "symbol": "SOVRN",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
     "name": "TopCoinFX",
     "address": "0x031e0c6a7c91df1bc171d33cccc6988fd2ddeb6f",
     "decimals": 18,
@@ -6846,6 +6853,14 @@
     "decimals": 18,
     "symbol": "SEPA",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/9163.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x109ba5f0230b7b39e4a8ab56e7361db89fa0e108",
+    "name": "TURBO WIN",
+    "symbol": "TURBO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/52310/thumb/Turbo200x200.png?1733067695"
   },
   {
     "chainId": 1,
@@ -39538,6 +39553,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x60215db40b04fe029c42c56ff2e02221c1f288ef",
+    "name": "Just a chill guy",
+    "symbol": "CHILLGUY",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/52317/thumb/JnL0pnZS_400x400.jpg?1733076796"
+  },
+  {
+    "chainId": 1,
     "name": "eGold",
     "address": "0x6025f65f6b2f93d8ed1efedc752acfd4bdbcec3e",
     "decimals": 18,
@@ -47926,7 +47949,7 @@
     "name": "ARYZE eEUR",
     "symbol": "EEUR",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/32421/thumb/ARYZE_eEUR.png?1698118176"
+    "logoURI": "https://assets.coingecko.com/coins/images/32421/thumb/eEUR.png?1733063519"
   },
   {
     "chainId": 1,
@@ -67373,7 +67396,7 @@
     "name": "ARYZE eUSD",
     "symbol": "EUSD",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/32422/thumb/ARYZE_eUSD.png?1698118313"
+    "logoURI": "https://assets.coingecko.com/coins/images/32422/thumb/eUSD.png?1733063494"
   },
   {
     "chainId": 1,
@@ -87143,7 +87166,7 @@
     "name": "ARYZE eGBP",
     "symbol": "EGBP",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/32989/thumb/ARYZE_eGBP.png?1700099647"
+    "logoURI": "https://assets.coingecko.com/coins/images/32989/thumb/eGBP.png?1733063533"
   },
   {
     "chainId": 1,
@@ -93216,14 +93239,6 @@
     "decimals": 18,
     "symbol": "GEMS",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/10034.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xe74be071f3b62f6a4ac23ca68e5e2a39797a3c30",
-    "name": "Recharge",
-    "symbol": "RCG",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/18120/thumb/thecharge.PNG?1696517623"
   },
   {
     "chainId": 1,
