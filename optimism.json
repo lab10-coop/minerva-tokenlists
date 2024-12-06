@@ -1785,6 +1785,7 @@
     "logoURI": "https://ethereum-optimism.github.io/data/Silo/logo.svg",
     "extensions": {
       "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1",
       "opListId": "extended",
       "opTokenId": "Silo"
     }
@@ -5446,6 +5447,19 @@
     "decimals": 18,
     "symbol": "CUSDCLP",
     "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-dapplist/main/images/dapp_connextbridge.png"
+  },
+  {
+    "chainId": 10,
+    "address": "0xa6521c950b0ab5215337dab84d65f4ffa7f6df55",
+    "name": "Silo Governance Token",
+    "symbol": "Silo",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/Silo/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "Silo"
+    }
   },
   {
     "chainId": 10,
