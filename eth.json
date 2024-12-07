@@ -2665,14 +2665,6 @@
   },
   {
     "chainId": 1,
-    "name": "Hawk Tuah",
-    "address": "0x05a89897a9d7f8a8c1f321e61e97ce239500fa70",
-    "decimals": 6,
-    "symbol": "HAWK",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/34396.png"
-  },
-  {
-    "chainId": 1,
     "name": "Sp8de",
     "address": "0x05aaaa829afa407d83315cded1d45eb16025910c",
     "decimals": 18,
@@ -10057,11 +10049,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x1842f548295b222c56939745d8ddf74981d40030",
     "name": "Qudefi",
-    "symbol": "QUDEFI",
+    "address": "0x1842f548295b222c56939745d8ddf74981d40030",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/50843/thumb/qudefi_logo.jpeg?1729685878"
+    "symbol": "QDFI",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/32064.png"
   },
   {
     "chainId": 1,
@@ -14908,11 +14900,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x243c9be13faba09f945ccc565547293337da0ad7",
     "name": "Truflation",
-    "symbol": "TRUF",
+    "address": "0x243c9be13faba09f945ccc565547293337da0ad7",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/36642/thumb/truflation.jpg?1733315818"
+    "symbol": "TRUF",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/33697.png"
   },
   {
     "chainId": 1,
@@ -17486,7 +17478,7 @@
     "chainId": 1,
     "name": "WAX",
     "address": "0x2a79324c19ef2b89ea98b23bc669b7e7c9f8a517",
-    "decimals": 8,
+    "decimals": 18,
     "symbol": "WAXP",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2300.png"
   },
@@ -26628,11 +26620,11 @@
   },
   {
     "chainId": 1,
-    "name": "Qudefi",
     "address": "0x405919920765e8d30822db9342b62bb0f92976e8",
-    "decimals": 18,
+    "name": "Qudefi",
     "symbol": "QDFI",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/32064.png"
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/38819/thumb/200_x_200.png?1719082637"
   },
   {
     "chainId": 1,
@@ -28392,14 +28384,6 @@
     "decimals": 18,
     "symbol": "ADABULL",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/6079.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x43df01681966d5339702e96ef039e481b9da20c1",
-    "name": "FU Money",
-    "symbol": "FU",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/38629/thumb/FU_logo_black.png?1718170125"
   },
   {
     "chainId": 1,
@@ -36602,6 +36586,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x58b9cb810a68a7f3e1e4f8cb45d1b9b3c79705e8",
+    "name": "Everclear",
+    "symbol": "CLEAR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/52496/thumb/photo_2024-06-03_12-14-59_%281%29.png?1733450397"
+  },
+  {
+    "chainId": 1,
     "name": "Layer 4 Network",
     "address": "0x58c473e0f1c2c22a86ee4afdf04a731a1c8381a0",
     "decimals": 18,
@@ -38171,10 +38163,10 @@
   {
     "chainId": 1,
     "address": "0x5ca9a71b1d01849c0a95490cc00559717fcf0d1d",
-    "name": "Aeternity",
     "symbol": "AE",
+    "name": "Aeternity",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/1091/thumb/aeternity.png?1696502190"
+    "logoURI": "ipfs://QmTwBRpQ3E5FPFaD81cXxxFqEmuq6vjQxj3RvKzwoHVr9B"
   },
   {
     "chainId": 1,
@@ -38311,6 +38303,14 @@
     "decimals": 9,
     "symbol": "GATSBY",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/25873.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Squad3",
+    "address": "0x5d18de1a5292d5df40f7edd6827aef3b0bd080f4",
+    "decimals": 18,
+    "symbol": "SQ3",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/34437.png"
   },
   {
     "chainId": 1,
@@ -41391,6 +41391,14 @@
     "decimals": 9,
     "symbol": "RIDGE",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/14669.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x64669032f612ae608671853ff8871df0889870a9",
+    "name": "INUGAMES",
+    "symbol": "INU",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/52400/thumb/new-inu-icon-200.png?1733298668"
   },
   {
     "chainId": 1,
@@ -45058,6 +45066,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x6c05b8141cefb64502b6dfcaae7c77babbac18fa",
+    "name": "FU Money",
+    "symbol": "FU",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/38629/thumb/FU_logo_black.png?1718170125"
+  },
+  {
+    "chainId": 1,
     "address": "0x6c060ba738af39a09f3b45ac6487dfc9ebb885f6",
     "name": "rsERG",
     "symbol": "RSERG",
@@ -45735,14 +45751,6 @@
     "decimals": 8,
     "symbol": "GENE",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2720.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x6dd5f0038474dc29a0adc6ad34d37b0ba53e5435",
-    "name": "DEXED",
-    "symbol": "DEXED",
-    "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/35617/thumb/coingecko.png?1709283896"
   },
   {
     "chainId": 1,
@@ -58626,6 +58634,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x8e0789d39db454dbe9f4a77acef6dc7c69f6d552",
+    "name": "Inception Restaked stETH Symbiotic",
+    "symbol": "INWSTETHS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/52515/thumb/inwstETHs.png?1733499299"
+  },
+  {
+    "chainId": 1,
     "name": "Moon Tropica",
     "address": "0x8e0e57dcb1ce8d9091df38ec1bfc3b224529754a",
     "decimals": 18,
@@ -71193,6 +71209,14 @@
   },
   {
     "chainId": 1,
+    "name": "Pepe Unchained",
+    "address": "0xadd39272e83895e7d3f244f696b7a25635f34234",
+    "decimals": 18,
+    "symbol": "PEPU",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/34448.png"
+  },
+  {
+    "chainId": 1,
     "name": "VITE",
     "address": "0xadd5e881984783dd432f80381fb52f45b53f3e70",
     "decimals": 18,
@@ -71713,11 +71737,11 @@
   },
   {
     "chainId": 1,
-    "address": "0xaf05ce8a2cef336006e933c02fc89887f5b3c726",
     "name": "Lockheed Martin Inu",
-    "symbol": "LMI",
+    "address": "0xaf05ce8a2cef336006e933c02fc89887f5b3c726",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/32484/thumb/photo_2023-10-11_22-41-52_%281%29_%281%29.jpg?1698290653"
+    "symbol": "LMI",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/34450.png"
   },
   {
     "chainId": 1,
@@ -88315,6 +88339,14 @@
   },
   {
     "chainId": 1,
+    "name": "Lumia",
+    "address": "0xd9343a049d5dbd89cd19dc6bca8c48fb3a0a42a7",
+    "decimals": 18,
+    "symbol": "LUMIA",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/33439.png"
+  },
+  {
+    "chainId": 1,
     "name": "Abulaba",
     "address": "0xd938137e6d96c72e4a6085412ada2dad78ff89c4",
     "decimals": 8,
@@ -102674,6 +102706,14 @@
   },
   {
     "chainId": 1,
+    "address": "0xfee293840d23b0b2de8c55e1cf7a9f01c157767c",
+    "name": "Degen  Base ",
+    "symbol": "DEGEN",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/34515/thumb/android-chrome-512x512.png?1706198225"
+  },
+  {
+    "chainId": 1,
     "name": "Q DeFi Governance Token v2.0",
     "address": "0xfee4dbe2751bf8d1b1b861aaf9664961f19ce91a",
     "decimals": 18,
@@ -102842,11 +102882,11 @@
   },
   {
     "chainId": 1,
-    "address": "0xff284f2e8cce4cd2f4537d8a9369482b545908fb",
     "name": "NodelyAI",
-    "symbol": "NODE",
+    "address": "0xff284f2e8cce4cd2f4537d8a9369482b545908fb",
     "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/50518/thumb/200X200_LOGO.png?1728043815"
+    "symbol": "$NODE",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/34440.png"
   },
   {
     "chainId": 1,
@@ -109106,6 +109146,14 @@
   },
   {
     "chainId": 324,
+    "address": "0x2e11a00806173162c307642dfd892951155c45bc",
+    "symbol": "MAGIC",
+    "name": "MAGIC",
+    "decimals": 18,
+    "logoURI": "ipfs://QmeCwvLwe5ZpNWLjyYmicmCCD3XmVtXk7Q4SP6wFGeRvs6"
+  },
+  {
+    "chainId": 324,
     "address": "0x31c2c031fdc9d33e974f327ab0d9883eae06ca4a",
     "symbol": "ZF",
     "name": "zkSwap Finance",
@@ -109410,6 +109458,14 @@
   },
   {
     "chainId": 324,
+    "address": "0x6610190f6c984ac2e8c80f92ebb546a29a7391c4",
+    "symbol": "MAV",
+    "name": "Maverick",
+    "decimals": 18,
+    "logoURI": "ipfs://QmYkDjrskzi8aUwXCMgy7LhQdUttqi3y9yzZjxG5Zx238t"
+  },
+  {
+    "chainId": 324,
     "address": "0x67075857e2fcfb4c523da24c32dadbe8cfc04cfb",
     "symbol": "ALT",
     "name": "AltLayer",
@@ -109495,6 +109551,14 @@
     "name": "Merchant",
     "decimals": 18,
     "logoURI": "ipfs://QmV6iEs3fWDLY7tMG8DmM5vTmynV3sqX5LcY4yT4UpKCzZ"
+  },
+  {
+    "chainId": 324,
+    "address": "0x77439055ef240ef84cbaa8332cfe2823e71dd07b",
+    "symbol": "USDP",
+    "name": "Pax Dollar",
+    "decimals": 18,
+    "logoURI": "ipfs://QmZXkNX2oH4zWKs5SXNuSohjvQHuP4bhNzYRXB7F9GLof4"
   },
   {
     "chainId": 324,
@@ -109599,6 +109663,14 @@
     "name": "zkCULT",
     "decimals": 18,
     "logoURI": "ipfs://QmeRACyn333mrAgHAZW6Q7xUx1Ey6zFdJmZ2ck9ZfMX8Uc"
+  },
+  {
+    "chainId": 324,
+    "address": "0x8d7de6b2c59317ac3a83438507b9f52f8da3355f",
+    "symbol": "TOKEN",
+    "name": "TokenFi",
+    "decimals": 9,
+    "logoURI": "ipfs://QmWb9Qargyfq9mj9hbFhBS5AQDdmpTfoJPNv2o8MNckamU"
   },
   {
     "chainId": 324,
@@ -110034,6 +110106,14 @@
   },
   {
     "chainId": 324,
+    "address": "0xe28c7fd13be1558b49b6373a5646538e001e04d3",
+    "symbol": "LADYS",
+    "name": "Milady",
+    "decimals": 18,
+    "logoURI": "ipfs://QmcW7hmxeWPV21fwbpk2WK1EevvJbSkRrC1hcp5q9cGiYY"
+  },
+  {
+    "chainId": 324,
     "address": "0xe538c412011a793588a34849acb0a7138275975e",
     "symbol": "STG",
     "name": "StargateToken",
@@ -110090,6 +110170,14 @@
   },
   {
     "chainId": 324,
+    "address": "0xea42f19003eecdd915e8ede4567ad8b41234d1ff",
+    "symbol": "DAO",
+    "name": "DAO Maker",
+    "decimals": 18,
+    "logoURI": "ipfs://QmYFmcxqbjirT6T3yBy1FdNA2uDvP4VKtQ4LzrGbrQbnEv"
+  },
+  {
+    "chainId": 324,
     "address": "0xecd9f240ed3895c77db676004328dd1d246f33c9",
     "symbol": "ERA",
     "name": "ERA",
@@ -110143,6 +110231,14 @@
     "name": "Hop",
     "decimals": 18,
     "logoURI": "ipfs://QmNPiY49XgSCf4eqmgSzTEiJpZrGJwwfvDzJQQBBxXybkM"
+  },
+  {
+    "chainId": 324,
+    "address": "0xf755cf4f0887279a8bcbe5e39ee062a5b7188401",
+    "symbol": "LQTY",
+    "name": "LQTY",
+    "decimals": 18,
+    "logoURI": "ipfs://QmQxrzha5HjGYcZfecAQPfbPR7bawcjbTxfixVVLXXYbuh"
   },
   {
     "chainId": 324,
