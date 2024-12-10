@@ -65,6 +65,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x0000000000c5dc95539589fbd24be07c6c14eca4",
+    "name": "Milady Cult Coin",
+    "symbol": "CULT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/52583/thumb/cult.jpg?1733712273"
+  },
+  {
+    "chainId": 1,
     "name": "Asterix Labs",
     "address": "0x0000000000ca73a6df4c58b84c5b4b847fe8ff39",
     "decimals": 18,
@@ -158,6 +166,14 @@
     "decimals": 18,
     "symbol": "DLTA",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/11341.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Cultel",
+    "address": "0x0000003ceede5c40e5187784d3e8dd5b43dc85f6",
+    "decimals": 9,
+    "symbol": "CULTEL",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/34503.png"
   },
   {
     "chainId": 1,
@@ -1601,11 +1617,11 @@
   },
   {
     "chainId": 1,
+    "name": "SOVRUN",
     "address": "0x031b8d752d73d7fe9678acef26e818280d0646b4",
-    "name": "Sovrun",
-    "symbol": "SOVRN",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/52312/thumb/IMG_20241202_183145_081.jpg?1733135740"
+    "symbol": "SOVRN",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/19722.png"
   },
   {
     "chainId": 1,
@@ -2849,11 +2865,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x06113abcef9d163c026441b112e70c82ee1c4a79",
     "name": "Omira",
-    "symbol": "OMIRA",
+    "address": "0x06113abcef9d163c026441b112e70c82ee1c4a79",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/52434/thumb/Logo200.jpeg?1733339919"
+    "symbol": "OMIRA",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/34483.png"
   },
   {
     "chainId": 1,
@@ -19932,6 +19948,14 @@
   },
   {
     "chainId": 1,
+    "name": "Movement",
+    "address": "0x3073f7aaa4db83f95e9fff17424f71d4751a3073",
+    "decimals": 8,
+    "symbol": "MOVE",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/32452.png"
+  },
+  {
+    "chainId": 1,
     "name": "HappyFans",
     "address": "0x3079f61704e9efa2bcf1db412f735d8d4cfa26f4",
     "decimals": 18,
@@ -35274,14 +35298,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x556bb0b27e855e6f2cebb47174495b9bbeb97ff1",
-    "name": "Ctrl",
-    "symbol": "CTRL",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/33356/thumb/ctrl_200x200.png?1701600824"
-  },
-  {
-    "chainId": 1,
     "name": "Mao",
     "address": "0x556c3cbdca77a7f21afe15b17e644e0e98e64df4",
     "decimals": 18,
@@ -44698,11 +44714,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x6b15602f008a05d9694d777dead2f05586216cb4",
     "name": "Cyclix Games",
-    "symbol": "CYG",
+    "address": "0x6b15602f008a05d9694d777dead2f05586216cb4",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/37247/thumb/CG_LOGO.png?1714070727"
+    "symbol": "CYG",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/34472.png"
   },
   {
     "chainId": 1,
@@ -61362,11 +61378,11 @@
   },
   {
     "chainId": 1,
-    "name": "BreederDAO",
     "address": "0x94e9eb8b5ab9fd6b9ea3169d55ffade62a01702e",
-    "decimals": 18,
+    "name": "BreederDAO",
     "symbol": "BREED",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/19722.png"
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/25203/thumb/BreederDAO-Breed_Token-FINAL.png?1696524347"
   },
   {
     "chainId": 1,
@@ -64518,6 +64534,14 @@
     "symbol": "WOLF",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/35907/thumb/COINGECKO_NEW_UPDATE.png?1710338755"
+  },
+  {
+    "chainId": 1,
+    "address": "0x9ca8530ca349c966fe9ef903df17a75b8a778927",
+    "name": "Lightchain AI",
+    "symbol": "LCAI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/52588/thumb/200x200.png?1733713860"
   },
   {
     "chainId": 1,
@@ -69393,10 +69417,10 @@
   },
   {
     "chainId": 1,
-    "name": "Synternet",
+    "name": "deprecated-Synternet",
     "address": "0xa8c8cfb141a3bb59fea1e2ea6b79b5ecbcd7b6ca",
     "decimals": 18,
-    "symbol": "NOIA",
+    "symbol": "deprecated-NOIA",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/4191.png"
   },
   {
@@ -72974,6 +72998,14 @@
     "decimals": 9,
     "symbol": "XRL",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/1812.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xb2490e357980ce57bf5745e181e537a64eb367b1",
+    "name": "r CryptoCurrency Moons",
+    "symbol": "MOON",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/11222/thumb/Moons.png?1696511153"
   },
   {
     "chainId": 1,
@@ -86083,6 +86115,14 @@
   },
   {
     "chainId": 1,
+    "name": "INSPAD",
+    "address": "0xd37ae8c16449e7ef858652e02555c51d2572552b",
+    "decimals": 18,
+    "symbol": "INSP",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/31593.png"
+  },
+  {
+    "chainId": 1,
     "address": "0xd37ee7e4f452c6638c96536e68090de8cbcdb583",
     "name": "Aave GUSD",
     "symbol": "AGUSD",
@@ -87163,11 +87203,11 @@
   },
   {
     "chainId": 1,
-    "address": "0xd61a8bbd5c6d8cd9690a89616b33dc939c9fbda9",
     "name": "Solo",
-    "symbol": "SOLO",
+    "address": "0xd61a8bbd5c6d8cd9690a89616b33dc939c9fbda9",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/52439/thumb/solo200x200.png?1733349885"
+    "symbol": "SOLO",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/34487.png"
   },
   {
     "chainId": 1,
@@ -95447,7 +95487,7 @@
     "name": "Heurist",
     "symbol": "HEU",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/51361/thumb/logo-200px.png?1730878190"
+    "logoURI": "https://assets.coingecko.com/coins/images/51361/thumb/200X200.png?1733764636"
   },
   {
     "chainId": 1,
@@ -96819,7 +96859,7 @@
   },
   {
     "chainId": 1,
-    "name": "Dacxi",
+    "name": "DXI",
     "address": "0xefab7248d36585e2340e5d25f8a8d243e6e3193f",
     "decimals": 18,
     "symbol": "DACXI",
