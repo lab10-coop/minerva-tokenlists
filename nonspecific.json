@@ -102,6 +102,23 @@
     ]
   },
   {
+    "address": "0x7367ab6df2af082f04298196167f37f1e1629d1e",
+    "name": "Super USDS Stablecoin",
+    "symbol": "USDSx",
+    "decimals": 18,
+    "chainId": 1,
+    "extensions": {
+      "superTokenInfo": {
+        "type": "Wrapper",
+        "underlyingTokenAddress": "0xdc035d45d973e3ec169d2276ddab16f1e407384f"
+      }
+    },
+    "logoURI": "https://superfluid-finance.github.io/tokenlist/icons/usds.svg",
+    "tags": [
+      "supertoken"
+    ]
+  },
+  {
     "name": "GBP / British pound sterling",
     "chainId": 1,
     "address": "0x7ba92741bf2a568abc6f1d3413c58c6e0244f8fd",
@@ -218,6 +235,17 @@
     "logoURI": "https://superfluid-finance.github.io/tokenlist/icons/ant.svg",
     "tags": [
       "supertoken"
+    ]
+  },
+  {
+    "address": "0xdc035d45d973e3ec169d2276ddab16f1e407384f",
+    "name": "USDS Stablecoin",
+    "symbol": "USDS",
+    "decimals": 18,
+    "chainId": 1,
+    "logoURI": "https://superfluid-finance.github.io/tokenlist/icons/usds.svg",
+    "tags": [
+      "underlying"
     ]
   },
   {
@@ -3780,6 +3808,17 @@
     ]
   },
   {
+    "address": "0x5875eee11cf8398102fdad704c9e96607675467a",
+    "name": "Savings USDS",
+    "symbol": "sUSDS",
+    "decimals": 18,
+    "chainId": 8453,
+    "logoURI": "https://superfluid-finance.github.io/tokenlist/icons/usds.svg",
+    "tags": [
+      "underlying"
+    ]
+  },
+  {
     "address": "0x5b5dee44552546ecea05edea01dcd7be7aa6144a",
     "name": "The Next 100x Memecoin on Base",
     "symbol": "TN100x",
@@ -3846,6 +3885,23 @@
       }
     },
     "logoURI": "https://superfluid-finance.github.io/tokenlist/icons/dai.svg",
+    "tags": [
+      "supertoken"
+    ]
+  },
+  {
+    "address": "0x7d2e87324c9b2cc983804fe53df67f1add3f913c",
+    "name": "Super Savings USDS",
+    "symbol": "sUSDSx",
+    "decimals": 18,
+    "chainId": 8453,
+    "extensions": {
+      "superTokenInfo": {
+        "type": "Wrapper",
+        "underlyingTokenAddress": "0x5875eee11cf8398102fdad704c9e96607675467a"
+      }
+    },
+    "logoURI": "https://superfluid-finance.github.io/tokenlist/icons/usds.svg",
     "tags": [
       "supertoken"
     ]

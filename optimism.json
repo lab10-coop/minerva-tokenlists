@@ -591,6 +591,19 @@
   },
   {
     "chainId": 1,
+    "address": "0x1f57da732a77636d913c9a75d685b26cc85dcc3a",
+    "name": "OPENLOOT",
+    "symbol": "OL",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/OL/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "opListId": "extended",
+      "opTokenId": "OL"
+    }
+  },
+  {
+    "chainId": 1,
     "address": "0x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
     "name": "Uniswap",
     "symbol": "UNI",
@@ -1521,6 +1534,19 @@
       "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1",
       "opListId": "extended",
       "opTokenId": "OS"
+    }
+  },
+  {
+    "chainId": 1,
+    "address": "0x610dbd98a28ebba525e9926b6aaf88f9159edbfd",
+    "name": "Nostra",
+    "symbol": "NSTR",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/NSTR/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "opListId": "extended",
+      "opTokenId": "NSTR"
     }
   },
   {
@@ -2511,6 +2537,19 @@
   },
   {
     "chainId": 1,
+    "address": "0x98933f2396dbaabf812b6e6d27da4df109c4c55f",
+    "name": "Cryptoodles Toodle Token",
+    "symbol": "TODL",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/TODL/logo.png",
+    "extensions": {
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "opListId": "extended",
+      "opTokenId": "TODL"
+    }
+  },
+  {
+    "chainId": 1,
     "address": "0x9a96ec9b57fb64fbc60b423d1f4da7691bd35079",
     "name": "AjnaToken",
     "symbol": "AJNA",
@@ -2887,8 +2926,22 @@
     "logoURI": "https://ethereum-optimism.github.io/data/0xBTC/logo.png",
     "extensions": {
       "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1",
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
       "opListId": "extended",
       "opTokenId": "0xBTC"
+    }
+  },
+  {
+    "chainId": 1,
+    "address": "0xb90b2a35c65dbc466b04240097ca756ad2005295",
+    "name": "BOBO",
+    "symbol": "BOBO",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/BOBO/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "opListId": "extended",
+      "opTokenId": "BOBO"
     }
   },
   {
@@ -3782,6 +3835,19 @@
       "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
       "opListId": "extended",
       "opTokenId": "PRE"
+    }
+  },
+  {
+    "chainId": 1,
+    "address": "0xec463d00aa4da76fb112cd2e4ac1c6bef02da6ea",
+    "name": "Heurist",
+    "symbol": "HEU",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/HEU/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "opListId": "extended",
+      "opTokenId": "HEU"
     }
   },
   {
@@ -6480,6 +6546,19 @@
   },
   {
     "chainId": 8453,
+    "address": "0x08d7ea3c148672c4b03999eb0d0467733da2db6a",
+    "name": "Nostra",
+    "symbol": "NSTR",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/NSTR/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "NSTR"
+    }
+  },
+  {
+    "chainId": 8453,
     "address": "0x09188484e1ab980daef53a9755241d759c5b7d60",
     "name": "Rigo Token",
     "symbol": "GRG",
@@ -7596,6 +7675,19 @@
       "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "extended",
       "opTokenId": "OLAS"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0x570b1533f6daa82814b25b62b5c7c4c55eb83947",
+    "name": "BOBO",
+    "symbol": "BOBO",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/BOBO/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "BOBO"
     }
   },
   {
@@ -8746,6 +8838,19 @@
   },
   {
     "chainId": 8453,
+    "address": "0xc4d4fd4f4459730d176844c170f2bb323c87eb3b",
+    "name": "0xBitcoin",
+    "symbol": "0xBTC",
+    "decimals": 8,
+    "logoURI": "https://ethereum-optimism.github.io/data/0xBTC/logo.png",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "0xBTC"
+    }
+  },
+  {
+    "chainId": 8453,
     "address": "0xc5102fe9359fd9a28f877a67e36b0f050d81a3cc",
     "name": "Hop",
     "symbol": "HOP",
@@ -8832,6 +8937,19 @@
       "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "extended",
       "opTokenId": "wOpenX"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0xcce908f47318c0efe6aae4d65288a57ea2fd91d9",
+    "name": "Cryptoodles Toodle Token",
+    "symbol": "TODL",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/TODL/logo.png",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "TODL"
     }
   },
   {
@@ -9168,6 +9286,32 @@
       "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "extended",
       "opTokenId": "MONKE"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0xeeb221a559f4ad1746f41460807e56d06d198a58",
+    "name": "OPENLOOT",
+    "symbol": "OL",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/OL/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "OL"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0xef22cb48b8483df6152e1423b19df5553bbd818b",
+    "name": "Heurist",
+    "symbol": "HEU",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/HEU/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "HEU"
     }
   },
   {
