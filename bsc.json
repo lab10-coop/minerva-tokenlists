@@ -1596,6 +1596,14 @@
     "logoURI": "https://tokens.pancakeswap.finance/images/0x5F88AB06e8dfe89DF127B2430Bba4Af600866035.png"
   },
   {
+    "chainId": 56,
+    "symbol": "BINK",
+    "name": "Bink AI",
+    "decimals": 18,
+    "address": "0x5fdfafd107fc267bd6d6b1c08fcafb8d31394ba1",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x5fdfaFd107Fc267bD6d6B1C08fcafb8d31394ba1.png"
+  },
+  {
     "name": "MCDEX",
     "symbol": "MCB",
     "address": "0x5fe80d2cd054645b9419657d3d10d26391780a7b",
@@ -2386,6 +2394,14 @@
     "decimals": 18,
     "address": "0x968be3f7bfef0f8edc3c1ad90232ebb0da0867aa",
     "logoURI": "https://tokens.pancakeswap.finance/images/0x968bE3F7bfeF0F8eDc3c1aD90232EbB0DA0867aA.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "CAKEDOG",
+    "name": "CAKEDOG",
+    "decimals": 18,
+    "address": "0x96a3b63701dbc6d40a1c4153734778443b0175ad",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x96a3b63701DBC6D40A1C4153734778443b0175aD.png"
   },
   {
     "name": "Contentos",
@@ -3439,11 +3455,11 @@
     "logoURI": "https://tokens.pancakeswap.finance/images/0xeD28A457A5A76596ac48d87C0f577020F6Ea1c4C.png"
   },
   {
-    "name": "Prosper",
-    "symbol": "PROS",
-    "address": "0xed8c8aa8299c10f067496bb66f8cc7fb338a3405",
     "chainId": 56,
+    "symbol": "PROS",
+    "name": "Prosper",
     "decimals": 18,
+    "address": "0xed8c8aa8299c10f067496bb66f8cc7fb338a3405",
     "logoURI": "https://tokens.pancakeswap.finance/images/0xEd8c8Aa8299C10f067496BB66f8cC7Fb338A3405.png"
   },
   {

@@ -4001,6 +4001,17 @@
     ]
   },
   {
+    "address": "0xa26491f730a5338d2e5941d4cc7ee32d453294ab",
+    "name": "arsalang75523",
+    "symbol": "arsalang75523",
+    "decimals": 18,
+    "chainId": 8453,
+    "logoURI": "https://superfluid-finance.github.io/tokenlist/icons/arsalang.png",
+    "tags": [
+      "underlying"
+    ]
+  },
+  {
     "address": "0xa3666ccb1c004060bccc4df7c97c7e6c4979bbe4",
     "name": "Super Astro Fuel",
     "symbol": "ASTROx",
@@ -4179,6 +4190,23 @@
       }
     },
     "logoURI": "https://superfluid-finance.github.io/tokenlist/icons/ion.png",
+    "tags": [
+      "supertoken"
+    ]
+  },
+  {
+    "address": "0xe858fc86df9895dbeb823e01e9dada6d46d444bb",
+    "name": "Super arsalang",
+    "symbol": "ARSALANGx",
+    "decimals": 18,
+    "chainId": 8453,
+    "extensions": {
+      "superTokenInfo": {
+        "type": "Wrapper",
+        "underlyingTokenAddress": "0xa26491f730a5338d2e5941d4cc7ee32d453294ab"
+      }
+    },
+    "logoURI": "https://superfluid-finance.github.io/tokenlist/icons/arsalang.png",
     "tags": [
       "supertoken"
     ]
