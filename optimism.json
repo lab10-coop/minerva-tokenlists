@@ -2603,6 +2603,19 @@
   },
   {
     "chainId": 1,
+    "address": "0x9e46a38f5daabe8683e10793b06749eef7d733d1",
+    "name": "Nectar",
+    "symbol": "NCT",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/NCT/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "opListId": "extended",
+      "opTokenId": "NCT"
+    }
+  },
+  {
+    "chainId": 1,
     "address": "0x9f52c8ecbee10e00d9faaac5ee9ba0ff6550f511",
     "name": "Sipher Token",
     "symbol": "SIPHER",
@@ -7202,6 +7215,18 @@
   },
   {
     "chainId": 8453,
+    "address": "0x31b28012f61fc3600e1c076bafc9fd997fb2da90",
+    "name": "Mrs Miggles",
+    "symbol": "MRSMIGGLES",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/MRSMIGGLES/logo.svg",
+    "extensions": {
+      "opListId": "extended",
+      "opTokenId": "MRSMIGGLES"
+    }
+  },
+  {
+    "chainId": 8453,
     "address": "0x321725ee44cb4bfa544cf45a5a585b925d30a58c",
     "name": "ValleyDAO Token",
     "symbol": "GROW",
@@ -9247,6 +9272,19 @@
       "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "extended",
       "opTokenId": "BURN"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0xe6baa3fedb5dc88b2c59ba4812388bb0906d19db",
+    "name": "PolySwarm",
+    "symbol": "NCT",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/NCT/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "NCT"
     }
   },
   {

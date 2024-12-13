@@ -1016,6 +1016,17 @@
     ]
   },
   {
+    "address": "0xaf204776c7245bf4147c2612bf6e5972ee483701",
+    "name": "Savings xDAI",
+    "symbol": "sDAI",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://superfluid-finance.github.io/tokenlist/icons/sdai.webp",
+    "tags": [
+      "underlying"
+    ]
+  },
+  {
     "address": "0xb0c5f3100a4d9d9532a4cfd68c55f1ae8da987eb",
     "name": "DAOhaus Token on xDai",
     "symbol": "HAUS",
@@ -1076,6 +1087,23 @@
     "logoURI": "https://superfluid-finance.github.io/tokenlist/icons/tdl.svg",
     "tags": [
       "underlying"
+    ]
+  },
+  {
+    "address": "0xd30aa2f6fc32c4dc8bf3bd5994d89c8f9e81fcd1",
+    "name": "Super Savings xDAI",
+    "symbol": "sDAIx",
+    "decimals": 18,
+    "chainId": 100,
+    "extensions": {
+      "superTokenInfo": {
+        "type": "Wrapper",
+        "underlyingTokenAddress": "0xaf204776c7245bf4147c2612bf6e5972ee483701"
+      }
+    },
+    "logoURI": "https://superfluid-finance.github.io/tokenlist/icons/sdai.webp",
+    "tags": [
+      "supertoken"
     ]
   },
   {
