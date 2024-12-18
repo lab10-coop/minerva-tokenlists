@@ -1804,6 +1804,19 @@
   },
   {
     "chainId": 1,
+    "address": "0x6e6b7adfc7db9feeb8896418ac3422966f65d0a5",
+    "name": "Nektar Network",
+    "symbol": "NET",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/NET/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "opListId": "extended",
+      "opTokenId": "NET"
+    }
+  },
+  {
+    "chainId": 1,
     "address": "0x6f80310ca7f2c654691d1383149fa1a57d8ab1f8",
     "name": "Silo Governance Token",
     "symbol": "Silo",
@@ -2470,6 +2483,19 @@
   },
   {
     "chainId": 1,
+    "address": "0x92e52a1a235d9a103d970901066ce910aacefd37",
+    "name": "UCASH",
+    "symbol": "UCASH",
+    "decimals": 8,
+    "logoURI": "https://ethereum-optimism.github.io/data/UCASH/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "opListId": "extended",
+      "opTokenId": "UCASH"
+    }
+  },
+  {
+    "chainId": 1,
     "address": "0x936ab482d6bd111910a42849d3a51ff80bb0a711",
     "name": "Burn Wrapped AJNA",
     "symbol": "bwAJNA",
@@ -2836,6 +2862,7 @@
     "decimals": 18,
     "logoURI": "https://ethereum-optimism.github.io/data/LIZCOIN/logo.png",
     "extensions": {
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
       "opListId": "extended",
       "opTokenId": "LIZCOIN"
     }
@@ -7022,6 +7049,19 @@
   },
   {
     "chainId": 8453,
+    "address": "0x26cf750abaf38af7109effdbdf79ba50d2ee09a1",
+    "name": "UCASH",
+    "symbol": "UCASH",
+    "decimals": 8,
+    "logoURI": "https://ethereum-optimism.github.io/data/UCASH/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "UCASH"
+    }
+  },
+  {
+    "chainId": 8453,
     "address": "0x27e3bc3a66e24cad043ac3d93a12a8070e3897ba",
     "name": "OVR",
     "symbol": "OVR",
@@ -7148,6 +7188,19 @@
       "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "extended",
       "opTokenId": "GALAXIS"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0x2d1b28672c631cc3ce556d3c7f0e78016e809fec",
+    "name": "Nektar Network",
+    "symbol": "NET",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/NET/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "NET"
     }
   },
   {
@@ -8602,6 +8655,19 @@
       "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "extended",
       "opTokenId": "AVC"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0xaf4144cd943ed5362fed2bae6573184659cbe6ff",
+    "name": "Lizcoin",
+    "symbol": "LIZ",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/LIZCOIN/logo.png",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "LIZCOIN"
     }
   },
   {
