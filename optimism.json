@@ -170,6 +170,20 @@
   },
   {
     "chainId": 1,
+    "address": "0x0590cc9232ebf68d81f6707a119898219342ecb9",
+    "name": "BananaCat",
+    "symbol": "BCAT",
+    "decimals": 9,
+    "logoURI": "https://ethereum-optimism.github.io/data/BCAT/logo.png",
+    "extensions": {
+      "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1",
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "opListId": "extended",
+      "opTokenId": "BCAT"
+    }
+  },
+  {
+    "chainId": 1,
     "address": "0x06f3c323f0238c72bf35011071f2b5b7f43a054c",
     "name": "MASQ",
     "symbol": "MASQ",
@@ -4366,6 +4380,19 @@
     }
   },
   {
+    "chainId": 10,
+    "address": "0x0af1580f49121d7a42b0f9125f5f7dc172f8a469",
+    "name": "BananaCat",
+    "symbol": "BCAT",
+    "decimals": 9,
+    "logoURI": "https://ethereum-optimism.github.io/data/BCAT/logo.png",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "BCAT"
+    }
+  },
+  {
     "address": "0x0b2c639c533813f4aa9d7837caf62653d097ff85",
     "chainId": 10,
     "decimals": 6,
@@ -6660,6 +6687,19 @@
       "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "extended",
       "opTokenId": "NOUNS"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0x0af1580f49121d7a42b0f9125f5f7dc172f8a469",
+    "name": "BananaCat",
+    "symbol": "BCAT",
+    "decimals": 9,
+    "logoURI": "https://ethereum-optimism.github.io/data/BCAT/logo.png",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "BCAT"
     }
   },
   {

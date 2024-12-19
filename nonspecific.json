@@ -1,5 +1,17 @@
 [
   {
+    "name": "USD / US Dollar",
+    "chainId": 1,
+    "address": "0x05968f40939fdc016ad58f82cd08da884825ad55",
+    "symbol": "USDe",
+    "decimals": 18,
+    "logoURI": "https://monerium.app/tokens/usd/usd.png",
+    "tags": [
+      "usd",
+      "https://github.com/monerium/smart-contracts/tree/v2.0.0"
+    ]
+  },
+  {
     "address": "0x1ba8603da702602a8657980e825a6daa03dee93a",
     "name": "Super USD Coin",
     "symbol": "USDCx",
@@ -25,7 +37,32 @@
     "logoURI": "https://monerium.app/tokens/eur/eur.png",
     "tags": [
       "eur",
-      "https://github.com/monerium/smart-contracts/tree/v1.2.2"
+      "https://github.com/monerium/smart-contracts/tree/v1.2.2",
+      "legacy"
+    ]
+  },
+  {
+    "name": "ISK / Icelandic Krona",
+    "chainId": 1,
+    "address": "0x38d22bd604c4549e2cc15e94b8e22e6fe4ae82b4",
+    "symbol": "ISKe",
+    "decimals": 18,
+    "logoURI": "https://monerium.app/tokens/isk/isk.png",
+    "tags": [
+      "isk",
+      "https://github.com/monerium/smart-contracts/tree/v2.0.0"
+    ]
+  },
+  {
+    "name": "EUR / Euro",
+    "chainId": 1,
+    "address": "0x39b8b6385416f4ca36a20319f70d28621895279d",
+    "symbol": "EURe",
+    "decimals": 18,
+    "logoURI": "https://monerium.app/tokens/eur/eur.png",
+    "tags": [
+      "eur",
+      "https://github.com/monerium/smart-contracts/tree/v2.0.0"
     ]
   },
   {
@@ -121,13 +158,26 @@
   {
     "name": "GBP / British pound sterling",
     "chainId": 1,
+    "address": "0x78a20b7af85156b4389a349aa4c96efc2e509768",
+    "symbol": "GBPe",
+    "decimals": 18,
+    "logoURI": "https://monerium.app/tokens/gbp/gbp.png",
+    "tags": [
+      "gbp",
+      "https://github.com/monerium/smart-contracts/tree/v2.0.0"
+    ]
+  },
+  {
+    "name": "GBP / British pound sterling",
+    "chainId": 1,
     "address": "0x7ba92741bf2a568abc6f1d3413c58c6e0244f8fd",
     "symbol": "GBPe",
     "decimals": 18,
     "logoURI": "https://monerium.app/tokens/gbp/gbp.png",
     "tags": [
       "gbp",
-      "https://github.com/monerium/smart-contracts/tree/v1.0.3"
+      "https://github.com/monerium/smart-contracts/tree/v1.0.3",
+      "legacy"
     ]
   },
   {
@@ -178,7 +228,8 @@
     "logoURI": "https://monerium.app/tokens/usd/usd.png",
     "tags": [
       "usd",
-      "https://github.com/monerium/smart-contracts/tree/v1.0.2"
+      "https://github.com/monerium/smart-contracts/tree/v1.0.2",
+      "legacy"
     ]
   },
   {
@@ -217,7 +268,8 @@
     "logoURI": "https://monerium.app/tokens/isk/isk.png",
     "tags": [
       "isk",
-      "https://github.com/monerium/smart-contracts/tree/v1.0.2"
+      "https://github.com/monerium/smart-contracts/tree/v1.0.2",
+      "legacy"
     ]
   },
   {
