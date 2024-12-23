@@ -566,6 +566,19 @@
   },
   {
     "chainId": 1,
+    "address": "0x1ca14f9830292f5e0228fc20f17d11ae457f503f",
+    "name": "Open Meta Token",
+    "symbol": "OMETA",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/OMETA/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "opListId": "extended",
+      "opTokenId": "OMETA"
+    }
+  },
+  {
+    "chainId": 1,
     "address": "0x1da87b114f35e1dc91f72bf57fc07a768ad40bb0",
     "name": "Equalizer",
     "symbol": "EQZ",
@@ -3745,6 +3758,19 @@
       "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1",
       "opListId": "extended",
       "opTokenId": "UBI"
+    }
+  },
+  {
+    "chainId": 1,
+    "address": "0xdd3b11ef34cd511a2da159034a05fcb94d806686",
+    "name": "Rekt",
+    "symbol": "REKT",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/REKT/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "opListId": "extended",
+      "opTokenId": "REKT"
     }
   },
   {
@@ -8247,6 +8273,19 @@
   },
   {
     "chainId": 8453,
+    "address": "0x80607684abc37b507a3412a6839dbc9755c08de0",
+    "name": "Open Meta Token",
+    "symbol": "OMETA",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/OMETA/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "OMETA"
+    }
+  },
+  {
+    "chainId": 8453,
     "address": "0x82c8f48ac694841360de84d649a0d48d239b61f8",
     "name": "ZynCoin",
     "symbol": "ZYN",
@@ -8785,6 +8824,19 @@
       "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "extended",
       "opTokenId": "THX"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb3e3c89b8d9c88b1fe96856e382959ee6291ebba",
+    "name": "Rekt",
+    "symbol": "REKT",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/REKT/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "REKT"
     }
   },
   {
