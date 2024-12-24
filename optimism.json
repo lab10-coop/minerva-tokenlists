@@ -1695,6 +1695,19 @@
   },
   {
     "chainId": 1,
+    "address": "0x68e2e5c9dff32419a108713f83274a4fb5e194ca",
+    "name": "Glacier Network",
+    "symbol": "GLS",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/GLS/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "opListId": "extended",
+      "opTokenId": "GLS"
+    }
+  },
+  {
+    "chainId": 1,
     "address": "0x6982508145454ce325ddbe47a25d4ec3d2311933",
     "name": "Pepe",
     "symbol": "PEPE",
@@ -2943,6 +2956,19 @@
     "extensions": {
       "opListId": "extended",
       "opTokenId": "PRIME"
+    }
+  },
+  {
+    "chainId": 1,
+    "address": "0xb26631c6dda06ad89b93c71400d25692de89c068",
+    "name": "Minds",
+    "symbol": "MINDS",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/MINDS/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "opListId": "extended",
+      "opTokenId": "MINDS"
     }
   },
   {
@@ -7989,6 +8015,19 @@
   },
   {
     "chainId": 8453,
+    "address": "0x686015ebf044a1b8a4be750346be00293a996071",
+    "name": "Minds",
+    "symbol": "MINDS",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/MINDS/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "MINDS"
+    }
+  },
+  {
+    "chainId": 8453,
     "address": "0x6a38905c6eb562bae76f1af0d0f98f2801fb2490",
     "name": "Current Thing",
     "symbol": "THING",
@@ -9482,6 +9521,19 @@
       "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "extended",
       "opTokenId": "MONKE"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0xe898bcd00b86a3eae43914319d2d4460230f735c",
+    "name": "Glacier Network",
+    "symbol": "GLS",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/GLS/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "GLS"
     }
   },
   {
