@@ -1898,6 +1898,19 @@
   },
   {
     "chainId": 1,
+    "address": "0x71b14f197dbb6b937665c78120fc07f8355c2c2c",
+    "name": "IDRISS",
+    "symbol": "IDRISS",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/IDRISS/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "opListId": "extended",
+      "opTokenId": "IDRISS"
+    }
+  },
+  {
+    "chainId": 1,
     "address": "0x720cd16b011b987da3518fbf38c3071d4f0d1495",
     "name": "Flux",
     "symbol": "FLUX",
@@ -6598,6 +6611,19 @@
       "liskBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "extended",
       "opTokenId": "LSK"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0x000096630066820566162c94874a776532705231",
+    "name": "IDRISS",
+    "symbol": "IDRISS",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/IDRISS/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "IDRISS"
     }
   },
   {

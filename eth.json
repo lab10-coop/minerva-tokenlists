@@ -5657,6 +5657,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x0d66a792c63b682fd3f6bbbbcde8d3029f90e939",
+    "name": "CREATX",
+    "symbol": "CRX",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/53217/thumb/1be73fad-e9a7-46f8-83da-4ac073d2c7c6_%281%29.png?1735680706"
+  },
+  {
+    "chainId": 1,
     "name": "IG Crypto Holding",
     "address": "0x0d6f4a17a7864cb7222ebf41373305fb629c199a",
     "decimals": 18,
@@ -13412,11 +13420,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x2025b2f4c7abe6dcb3843c62c32dfa14990a6269",
     "name": "ETH Snek",
-    "symbol": "SNEK",
+    "address": "0x2025b2f4c7abe6dcb3843c62c32dfa14990a6269",
     "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/53186/thumb/SNEK200.jpg?1735582640"
+    "symbol": "SNEK",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/34968.png"
   },
   {
     "chainId": 1,
@@ -53234,11 +53242,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x7fd4d7737597e7b4ee22acbf8d94362343ae0a79",
     "name": "Wrapped MistCoin",
-    "symbol": "WMC",
+    "address": "0x7fd4d7737597e7b4ee22acbf8d94362343ae0a79",
     "decimals": 2,
-    "logoURI": "https://assets.coingecko.com/coins/images/32490/thumb/355966EE-F4AD-4023-A38E-59B9DEF1C6C3.jpeg?1732678326"
+    "symbol": "WMC",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/34963.png"
   },
   {
     "chainId": 1,
@@ -61726,7 +61734,7 @@
     "name": "World Earn   Play Community",
     "symbol": "WEPC",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/50209/thumb/200_200_logo.png?1726396076"
+    "logoURI": "https://assets.coingecko.com/coins/images/50209/thumb/WEPC_200-200.png?1735673581"
   },
   {
     "chainId": 1,
@@ -74932,7 +74940,7 @@
     "name": "DEXED",
     "symbol": "DEXED",
     "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/35617/thumb/coingecko.png?1709283896"
+    "logoURI": "https://assets.coingecko.com/coins/images/35617/thumb/dexed-com-logo-coingecko.png?1735658515"
   },
   {
     "chainId": 1,
@@ -81265,6 +81273,14 @@
     "decimals": 9,
     "symbol": "WCI",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/21962.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xc5b1aa70410a86383f93d807d02b75f1c34cddb8",
+    "name": "Pulse3D",
+    "symbol": "PULSE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/53212/thumb/coinpulse200.png?1735672168"
   },
   {
     "chainId": 1,
@@ -102338,14 +102354,6 @@
   },
   {
     "chainId": 1,
-    "address": "0xfc116ea24f002f600e363bdce4b91715fe5e0392",
-    "name": "L3T H1M C00K",
-    "symbol": "DOUGH",
-    "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/35850/thumb/Icon-200x200.png?1709895424"
-  },
-  {
-    "chainId": 1,
     "name": "Atlas Navi",
     "address": "0xfc1c93a2507975e98b9d0e9260ded61a00152bf1",
     "decimals": 18,
@@ -114074,6 +114082,14 @@
   },
   {
     "chainId": 43114,
+    "address": "0xa25eaf2906fa1a3a13edac9b9657108af7b703e3",
+    "symbol": "ggAVAX",
+    "name": "GoGoPool Liquid Staking",
+    "decimals": 18,
+    "logoURI": "ipfs://QmQn1vCMS5Nke8vJKiuM3G8du1QTA9mgqpaPtPJvqHyEEj"
+  },
+  {
+    "chainId": 43114,
     "address": "0xa2cde628d7617956eaf4780e32f68df19cc13d62",
     "symbol": "SUBAVA",
     "name": "Subava",
@@ -114234,11 +114250,35 @@
   },
   {
     "chainId": 43114,
+    "address": "0xb9a98894ffbfa98c73a818b5b044e5b1c8666f56",
+    "symbol": "AVIA",
+    "name": "Kepler",
+    "decimals": 18,
+    "logoURI": "ipfs://QmQu7pNhPTB7vS9etxrufqmzmevPW4UEq8Gh6HAbcc1pQM"
+  },
+  {
+    "chainId": 43114,
+    "address": "0xba0dda8762c24da9487f5fa026a9b64b695a07ea",
+    "symbol": "OX",
+    "name": "OX",
+    "decimals": 18,
+    "logoURI": "ipfs://QmetR2SkUvnJzX4NZgkuNNAXQZTNrqKjX3CpBkhCco5sYm"
+  },
+  {
+    "chainId": 43114,
     "address": "0xbbaaa0420d474b34be197f95a323c2ff3829e811",
     "symbol": "LOD3",
     "name": "LOD3 Token",
     "decimals": 17,
     "logoURI": "ipfs://QmVpp1pQDU6JXGVbeeYsvnvE4BJB56fs84Uyizft9PyxrR"
+  },
+  {
+    "chainId": 43114,
+    "address": "0xbc78d84ba0c46dfe32cf2895a19939c86b81a777",
+    "symbol": "SolvBTC",
+    "name": "SolvBTC",
+    "decimals": 18,
+    "logoURI": "ipfs://QmbXeCsE6rREB6xRRAHBRugtHow3v2afVKt2pYZWRcn1mF"
   },
   {
     "chainId": 43114,
@@ -114335,6 +114375,14 @@
     "name": "Akita Inu",
     "decimals": 18,
     "logoURI": "ipfs://QmXRAyUyZtgmVHiVBrcZMhcanDPmWkRKvLsusXsdaDsj8n"
+  },
+  {
+    "chainId": 43114,
+    "address": "0xcc0966d8418d412c599a6421b760a847eb169a8c",
+    "symbol": "SolvBTC.BBN",
+    "name": "SolvBTC Babylon",
+    "decimals": 18,
+    "logoURI": "ipfs://QmWkVsCF5yaF6BPZzJQ6rBPR1oUhBqrJJaQk8SJb4g7b2d"
   },
   {
     "chainId": 43114,
