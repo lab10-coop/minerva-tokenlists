@@ -1,6 +1,14 @@
 [
   {
     "chainId": 1,
+    "address": "0x000000000000012def132e61759048be5b5c6033",
+    "name": "Cortex",
+    "symbol": "CX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/53285/thumb/CX_Round.png?1735994730"
+  },
+  {
+    "chainId": 1,
     "name": "TopBidder",
     "address": "0x00000000000045166c45af0fc6e4cf31d9e14b9a",
     "decimals": 18,
@@ -942,14 +950,6 @@
     "decimals": 18,
     "symbol": "BEAR",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/5158.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x0173661769325565d4f011b2e5cda688689cc87c",
-    "name": "Quantland",
-    "symbol": "QLT",
-    "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/24536/thumb/8jYfKBTk_400x400.jpg?1696523713"
   },
   {
     "chainId": 1,
@@ -29875,6 +29875,14 @@
   },
   {
     "chainId": 1,
+    "name": "Shrubius Maximus",
+    "address": "0x47000bd34d9a7b7cdbeef4ec2ae452e73280a8b5",
+    "decimals": 9,
+    "symbol": "SHRUBIUS",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/35017.png"
+  },
+  {
+    "chainId": 1,
     "name": "Throg",
     "address": "0x47006d880744ddaf285127ac8dd6255be7c8da23",
     "decimals": 18,
@@ -38715,10 +38723,10 @@
   {
     "chainId": 1,
     "address": "0x5d65d971895edc438f465c17db6992698a52318d",
-    "name": "Nebulas",
     "symbol": "NAS",
+    "name": "Nebulas",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/2431/thumb/193394331.png?1696503264"
+    "logoURI": "ipfs://QmbjdykdhKo82z8H8KjxNWFwXr665FjCGurN6N4bR4Zmjb"
   },
   {
     "chainId": 1,
@@ -45807,14 +45815,6 @@
     "decimals": 18,
     "symbol": "PRT",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7348.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x6d10e0194400a04600881057787eb9e9c063dca0",
-    "name": "Proton Project",
-    "symbol": "PRTN",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/14888/thumb/prtn_200_px_.png?1710000932"
   },
   {
     "chainId": 1,
@@ -75728,6 +75728,14 @@
   },
   {
     "chainId": 1,
+    "name": "Fusion AI",
+    "address": "0xb868cca38a8e6348d8d299c9b3c80e63d45abe4c",
+    "decimals": 9,
+    "symbol": "FUSION",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/35020.png"
+  },
+  {
+    "chainId": 1,
     "name": "Hello Pets",
     "address": "0xb870679a7fa65b924026f496de7f27c1dd0e5c5f",
     "decimals": 18,
@@ -90851,14 +90859,6 @@
   },
   {
     "chainId": 1,
-    "address": "0xde16ce60804a881e9f8c4ebb3824646edecd478d",
-    "name": "MagicCraft",
-    "symbol": "MCRT",
-    "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/21318/thumb/mcrt.png?1696520686"
-  },
-  {
-    "chainId": 1,
     "address": "0xde17a000ba631c5d7c2bd9fb692efea52d90dee2",
     "name": "SMARDEX USDN",
     "symbol": "USDN",
@@ -98575,7 +98575,7 @@
     "name": "HORUS",
     "symbol": "HORUS",
     "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/52127/thumb/1Zhbkph5_400x400.jpg?1732615991"
+    "logoURI": "https://assets.coingecko.com/coins/images/52127/thumb/200x200.png?1735992811"
   },
   {
     "chainId": 1,
@@ -113050,6 +113050,14 @@
   },
   {
     "chainId": 42220,
+    "address": "0x2b9018ceb303d540bbf08de8e7de64fddd63396c",
+    "symbol": "PACT",
+    "name": "impactMarket",
+    "decimals": 18,
+    "logoURI": "ipfs://QmUfi2tzcaz6XGWnUVypKe8qbWH3E8K4kT7o9Dwzyqx1Pw"
+  },
+  {
+    "chainId": 42220,
     "address": "0x46c9757c5497c5b1f2eb73ae79b6b67d119b0b58",
     "symbol": "PACT",
     "name": "impactMarket",
@@ -113090,6 +113098,22 @@
   },
   {
     "chainId": 42220,
+    "address": "0x7c64ad5f9804458b8c9f93f7300c15d55956ac2a",
+    "symbol": "SYMM",
+    "name": "Symmetric",
+    "decimals": 18,
+    "logoURI": "ipfs://QmaK238o194FtknhS9B2pNRKS9oZUnuW4keVYYqYyGXh7X"
+  },
+  {
+    "chainId": 42220,
+    "address": "0xbdd31effb9e9f7509feaac5b4091b31645a47e4b",
+    "symbol": "TFBX",
+    "name": "Truefeedback",
+    "decimals": 18,
+    "logoURI": "ipfs://QmcJD7ivxnCXwCwTtygLfxkRPjskDJR11MzDFGH4t7TsD6"
+  },
+  {
+    "chainId": 42220,
     "address": "0xc16b81af351ba9e64c1a069e3ab18c244a1e3049",
     "symbol": "EURA",
     "name": "Angle Protocol",
@@ -113111,6 +113135,14 @@
     "name": "Celo Brazilian Real",
     "decimals": 18,
     "logoURI": "ipfs://QmNS4yKBF2PvKyJZRbStDwcqhT2PyzAur7J3BbRjxusjUM"
+  },
+  {
+    "chainId": 42220,
+    "address": "0xfecb3f7c54e2caae9dc6ac9060a822d47e053760",
+    "symbol": "BRLA",
+    "name": "BRLA",
+    "decimals": 18,
+    "logoURI": "ipfs://QmW6XuaGpTWrPJLFzkxyio9RyY61DXXevEsGcWDiz8xN4E"
   },
   {
     "chainId": 43114,
