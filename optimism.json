@@ -92,6 +92,19 @@
   },
   {
     "chainId": 1,
+    "address": "0x031b8d752d73d7fe9678acef26e818280d0646b4",
+    "name": "SOVRUN",
+    "symbol": "SOVRN",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/SOVRN/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "opListId": "extended",
+      "opTokenId": "SOVRN"
+    }
+  },
+  {
+    "chainId": 1,
     "address": "0x037a54aab062628c9bbae1fdb1583c195585fe41",
     "name": "LCX",
     "symbol": "LCX",
@@ -2130,6 +2143,7 @@
     "extensions": {
       "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1",
       "modeBridgeAddress": "0x735aDBbE72226BD52e818E7181953f42E3b0FF21",
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
       "opListId": "default",
       "opTokenId": "AAVE"
     }
@@ -8017,6 +8031,19 @@
   },
   {
     "chainId": 8453,
+    "address": "0x63706e401c06ac8513145b7687a14804d17f814b",
+    "name": "Aave Token",
+    "symbol": "AAVE",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/AAVE/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "default",
+      "opTokenId": "AAVE"
+    }
+  },
+  {
+    "chainId": 8453,
     "address": "0x64cc19a52f4d631ef5be07947caba14ae00c52eb",
     "name": "Kibble",
     "symbol": "KIBBLE",
@@ -9147,6 +9174,19 @@
       "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "extended",
       "opTokenId": "VSP"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0xca4c2e10037ac1af9f501ecb11a710776c87d2d5",
+    "name": "SOVRUN",
+    "symbol": "SOVRN",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/SOVRN/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "SOVRN"
     }
   },
   {
