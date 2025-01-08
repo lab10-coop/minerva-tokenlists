@@ -672,6 +672,19 @@
   },
   {
     "chainId": 1,
+    "address": "0x2196b84eace74867b73fb003aff93c11fce1d47a",
+    "name": "PsyDAO Token",
+    "symbol": "PSY",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/PSY/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "opListId": "extended",
+      "opTokenId": "PSY"
+    }
+  },
+  {
+    "chainId": 1,
     "address": "0x21bfbda47a0b4b5b1248c767ee49f7caa9b23697",
     "name": "OVR",
     "symbol": "OVR",
@@ -3470,6 +3483,19 @@
       "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
       "opListId": "extended",
       "opTokenId": "GRT"
+    }
+  },
+  {
+    "chainId": 1,
+    "address": "0xc98d64da73a6616c42117b582e832812e7b8d57f",
+    "name": "RSS3",
+    "symbol": "RSS3",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/RSS3/logo.png",
+    "extensions": {
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "opListId": "extended",
+      "opTokenId": "RSS3"
     }
   },
   {
@@ -8430,6 +8456,19 @@
   },
   {
     "chainId": 8453,
+    "address": "0x85d0e1bde4e71aede97e0f0412c6e4b3d1e59a97",
+    "name": "PsyDAO Token",
+    "symbol": "PSY",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/PSY/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "PSY"
+    }
+  },
+  {
+    "chainId": 8453,
     "address": "0x881ed0fcef78120a135ec6cc66cef2779fe95bba",
     "name": "DogeGF",
     "symbol": "DOGEGF",
@@ -9420,6 +9459,19 @@
       "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "extended",
       "opTokenId": "BridgedUSDC"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0xdb4d83343623027b6b4c4d3354ae9fda4a90ad67",
+    "name": "RSS3",
+    "symbol": "RSS3",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/RSS3/logo.png",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "RSS3"
     }
   },
   {
