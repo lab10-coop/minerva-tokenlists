@@ -2657,6 +2657,19 @@
   },
   {
     "chainId": 1,
+    "address": "0x996d67aa9b37df96428ad3608cb21352bf1fdb90",
+    "name": "Staked Zentry",
+    "symbol": "stZENT",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/stZENT/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "opListId": "extended",
+      "opTokenId": "stZENT"
+    }
+  },
+  {
+    "chainId": 1,
     "address": "0x9a96ec9b57fb64fbc60b423d1f4da7691bd35079",
     "name": "AjnaToken",
     "symbol": "AJNA",
@@ -3813,6 +3826,19 @@
       "liskBridgeAddress": "0x2658723Bf70c7667De6B25F99fcce13A16D25d08",
       "opListId": "default",
       "opTokenId": "USDT"
+    }
+  },
+  {
+    "chainId": 1,
+    "address": "0xdbb7a34bf10169d6d2d0d02a6cbb436cf4381bfa",
+    "name": "Zentry",
+    "symbol": "ZENT",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/ZENT/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "opListId": "extended",
+      "opTokenId": "ZENT"
     }
   },
   {
@@ -7929,6 +7955,19 @@
   },
   {
     "chainId": 8453,
+    "address": "0x58cda7e1ef2de86586033989f7fe5db705f2a2f5",
+    "name": "Staked Zentry",
+    "symbol": "stZENT",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/stZENT/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "stZENT"
+    }
+  },
+  {
+    "chainId": 8453,
     "address": "0x58d75a1c4477914f9a98a8708feaed1dbe40b8a3",
     "name": "AthenaDAO Token",
     "symbol": "ATH",
@@ -9498,6 +9537,19 @@
       "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "extended",
       "opTokenId": "JRT"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0xdf49c226ed9cf05be0e38cdb86df4e8a945158b1",
+    "name": "Zentry",
+    "symbol": "ZENT",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/ZENT/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "ZENT"
     }
   },
   {
