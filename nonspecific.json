@@ -3690,6 +3690,22 @@
     ]
   },
   {
+    "address": "0x1a589e9c3eee580f87117c513b2c8282926f1883",
+    "name": "pay16z",
+    "symbol": "pay16z",
+    "decimals": 18,
+    "chainId": 8453,
+    "extensions": {
+      "superTokenInfo": {
+        "type": "Pure"
+      }
+    },
+    "logoURI": "https://superfluid-finance.github.io/tokenlist/icons/pay16z.svg",
+    "tags": [
+      "supertoken"
+    ]
+  },
+  {
     "address": "0x1eff3dd78f4a14abfa9fa66579bd3ce9e1b30529",
     "name": "Super Degen",
     "symbol": "DEGENx",
