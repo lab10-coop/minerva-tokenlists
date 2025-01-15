@@ -1796,7 +1796,6 @@
     "extensions": {
       "optimismBridgeAddress": "0x10E6593CDda8c58a1d0f14C5164B376352a55f2F",
       "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
-      "pgnBridgeAddress": "0xD0204B9527C1bA7bD765Fa5CCD9355d38338272b",
       "modeBridgeAddress": "0x735aDBbE72226BD52e818E7181953f42E3b0FF21",
       "opListId": "default",
       "opTokenId": "DAI"
@@ -3821,9 +3820,9 @@
     "logoURI": "https://ethereum-optimism.github.io/data/USDT/logo.png",
     "extensions": {
       "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1",
-      "pgnBridgeAddress": "0xD0204B9527C1bA7bD765Fa5CCD9355d38338272b",
       "modeBridgeAddress": "0x735aDBbE72226BD52e818E7181953f42E3b0FF21",
       "liskBridgeAddress": "0x2658723Bf70c7667De6B25F99fcce13A16D25d08",
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
       "opListId": "default",
       "opTokenId": "USDT"
     }
@@ -6535,32 +6534,6 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/optimism/0xFf733b2A3557a7ed6697007ab5D11B79FdD1b76B.jpg",
     "name": "Across Protocol Token",
     "symbol": "ACX"
-  },
-  {
-    "chainId": 424,
-    "address": "0x6535b3db9b908a2bba29f83c168a0e661c3fabf7",
-    "name": "Tether USD",
-    "symbol": "USDT",
-    "decimals": 6,
-    "logoURI": "https://ethereum-optimism.github.io/data/USDT/logo.png",
-    "extensions": {
-      "pgnBridgeAddress": "0x4200000000000000000000000000000000000010",
-      "opListId": "default",
-      "opTokenId": "USDT"
-    }
-  },
-  {
-    "chainId": 424,
-    "address": "0x6c121674ba6736644a7e73a8741407fe8a5ee5ba",
-    "name": "Dai Stablecoin",
-    "symbol": "DAI",
-    "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/data/DAI/logo.svg",
-    "extensions": {
-      "pgnBridgeAddress": "0x4200000000000000000000000000000000000010",
-      "opListId": "default",
-      "opTokenId": "DAI"
-    }
   },
   {
     "chainId": 690,
@@ -9937,6 +9910,19 @@
       "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "extended",
       "opTokenId": "RSC"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0xfde4c96c8593536e31f229ea8f37b2ada2699bb2",
+    "name": "Tether USD",
+    "symbol": "USDT",
+    "decimals": 6,
+    "logoURI": "https://ethereum-optimism.github.io/data/USDT/logo.png",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "default",
+      "opTokenId": "USDT"
     }
   },
   {
