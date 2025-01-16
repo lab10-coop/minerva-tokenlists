@@ -1968,6 +1968,7 @@
     "logoURI": "https://ethereum-optimism.github.io/data/SNT/logo.svg",
     "extensions": {
       "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1",
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
       "opListId": "extended",
       "opTokenId": "SNT"
     }
@@ -2735,6 +2736,19 @@
   },
   {
     "chainId": 1,
+    "address": "0x9e6be44cc1236eef7e1f197418592d363bedcd5a",
+    "name": "Azuro",
+    "symbol": "AZUR",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/AZUR/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "opListId": "extended",
+      "opTokenId": "AZUR"
+    }
+  },
+  {
+    "chainId": 1,
     "address": "0x9f52c8ecbee10e00d9faaac5ee9ba0ff6550f511",
     "name": "Sipher Token",
     "symbol": "SIPHER",
@@ -2918,6 +2932,19 @@
     "extensions": {
       "opListId": "extended",
       "opTokenId": "sfrxETH"
+    }
+  },
+  {
+    "chainId": 1,
+    "address": "0xade00c28244d5ce17d72e40330b1c318cd12b7c3",
+    "name": "AdEx Network",
+    "symbol": "ADX",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/ADEX/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "opListId": "extended",
+      "opTokenId": "ADEX"
     }
   },
   {
@@ -7324,6 +7351,19 @@
   },
   {
     "chainId": 8453,
+    "address": "0x2b4d0fc2294aa9686adf6c5a7ba25f66dccdf6c0",
+    "name": "Azuro",
+    "symbol": "AZUR",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/AZUR/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "AZUR"
+    }
+  },
+  {
+    "chainId": 8453,
     "address": "0x2c24497d4086490e7ead87cc12597fb50c2e6ed6",
     "name": "SynFutures",
     "symbol": "F",
@@ -7603,6 +7643,19 @@
       "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "extended",
       "opTokenId": "wPOKT"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0x3c87e7af3cdbae5bb56b4936325ea95ca3e0efd9",
+    "name": "AdEx Network",
+    "symbol": "ADX",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/ADEX/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "ADEX"
     }
   },
   {
@@ -8090,6 +8143,19 @@
     "extensions": {
       "opListId": "extended",
       "opTokenId": "KIBBLE"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0x662015ec830df08c0fc45896fab726542e8ac09e",
+    "name": "Status Network Token",
+    "symbol": "SNT",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/SNT/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "SNT"
     }
   },
   {
@@ -10458,6 +10524,19 @@
   },
   {
     "chainId": 84532,
+    "address": "0xfdb3b57944943a7724fcc0520ee2b10659969a06",
+    "name": "Status Test Token",
+    "symbol": "STT",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/SNT/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "SNT"
+    }
+  },
+  {
+    "chainId": 84532,
     "address": "0xfe8b6a4586a67160d27962dc153bf0e7e76fbf68",
     "name": "True",
     "symbol": "TRUE",
@@ -10893,6 +10972,7 @@
     "logoURI": "https://ethereum-optimism.github.io/data/SNT/logo.svg",
     "extensions": {
       "optimismBridgeAddress": "0xFBb0621E0B23b5478B630BD55a5f21f67730B0F1",
+      "baseBridgeAddress": "0xfd0Bf71F60660E2f608ed56e1659C450eB113120",
       "opListId": "extended",
       "opTokenId": "SNT"
     }
