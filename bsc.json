@@ -121,14 +121,6 @@
   },
   {
     "chainId": 56,
-    "symbol": "SOLV",
-    "name": "Solv",
-    "decimals": 18,
-    "address": "0x04830a96a23ea718faa695a5aae74695aae3a23f",
-    "logoURI": "https://tokens.pancakeswap.finance/images/0x04830A96a23EA718fAA695a5AAe74695AAE3A23f.png"
-  },
-  {
-    "chainId": 56,
     "address": "0x048e9b1ddf9ebbb224812372280e94ccac443f9e",
     "name": "Jarvis Synthetic British Pound",
     "symbol": "jGBP",
@@ -2740,6 +2732,14 @@
     "logoURI": "https://tokens.pancakeswap.finance/images/0xaBaE871B7E3b67aEeC6B46AE9FE1A91660AadAC5.png"
   },
   {
+    "chainId": 56,
+    "symbol": "SOLV",
+    "name": "Solv",
+    "decimals": 18,
+    "address": "0xabe8e5cabe24cb36df9540088fd7ce1175b9bc52",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0xabE8E5CabE24Cb36df9540088fD7cE1175b9bc52.png"
+  },
+  {
     "name": "My Neigbor Alice",
     "symbol": "ALICE",
     "address": "0xac51066d7bec65dc4589368da368b212745d63e8",
@@ -3725,6 +3725,14 @@
     "chainId": 56,
     "decimals": 18,
     "logoURI": "https://tokens.pancakeswap.finance/images/0xf7DE7E8A6bd59ED41a4b5fe50278b3B7f31384dF.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "JAM",
+    "name": "Jam",
+    "decimals": 18,
+    "address": "0xf8252c05ec4cb2fdf1e0398bae049d454ddba3ad",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0xF8252C05eC4cB2fdf1e0398BaE049D454dDbA3AD.png"
   },
   {
     "name": "Berry",

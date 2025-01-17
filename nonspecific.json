@@ -3690,6 +3690,51 @@
     ]
   },
   {
+    "address": "0x157a6df6b74f4e5e45af4e4615fde7b49225a662",
+    "name": "ISLAND",
+    "symbol": "ISLAND",
+    "decimals": 18,
+    "chainId": 8453,
+    "logoURI": "https://superfluid-finance.github.io/tokenlist/icons/island.png",
+    "tags": [
+      "underlying"
+    ]
+  },
+  {
+    "address": "0x1783b0f81e2f2278155a643370e6b3ace789f2c9",
+    "name": "Super ISLAND",
+    "symbol": "ISLANDx",
+    "decimals": 18,
+    "chainId": 8453,
+    "extensions": {
+      "superTokenInfo": {
+        "type": "Wrapper",
+        "underlyingTokenAddress": "0x157a6df6b74f4e5e45af4e4615fde7b49225a662"
+      }
+    },
+    "logoURI": "https://superfluid-finance.github.io/tokenlist/icons/island.png",
+    "tags": [
+      "supertoken"
+    ]
+  },
+  {
+    "address": "0x19354cd4efbb746d2dfbc6144f18cd392d7d9255",
+    "name": "Super Degen Commie",
+    "symbol": "COMMIEx",
+    "decimals": 18,
+    "chainId": 8453,
+    "extensions": {
+      "superTokenInfo": {
+        "type": "Wrapper",
+        "underlyingTokenAddress": "0x2014de017f542cd582027c4d3aad75d5ce997ac1"
+      }
+    },
+    "logoURI": "https://superfluid-finance.github.io/tokenlist/icons/commie.png",
+    "tags": [
+      "supertoken"
+    ]
+  },
+  {
     "address": "0x1a589e9c3eee580f87117c513b2c8282926f1883",
     "name": "pay16z",
     "symbol": "pay16z",
@@ -3723,6 +3768,17 @@
     ]
   },
   {
+    "address": "0x2014de017f542cd582027c4d3aad75d5ce997ac1",
+    "name": "Degen Commie",
+    "symbol": "COMMIE",
+    "decimals": 18,
+    "chainId": 8453,
+    "logoURI": "https://superfluid-finance.github.io/tokenlist/icons/commie.png",
+    "tags": [
+      "underlying"
+    ]
+  },
+  {
     "address": "0x2112b92a4f6496b7b2f10850857ffa270464d054",
     "name": "SuperBoring",
     "symbol": "BORING",
@@ -3734,6 +3790,23 @@
       }
     },
     "logoURI": "https://superfluid-finance.github.io/tokenlist/icons/boring.svg",
+    "tags": [
+      "supertoken"
+    ]
+  },
+  {
+    "address": "0x2ec495906b4cc0956793d53f2bd581441683d14d",
+    "name": "Super CXT",
+    "symbol": "CXTx",
+    "decimals": 18,
+    "chainId": 8453,
+    "extensions": {
+      "superTokenInfo": {
+        "type": "Wrapper",
+        "underlyingTokenAddress": "0xb1e1f3cc2b6fe4420c1ac82022b457018eb628ff"
+      }
+    },
+    "logoURI": "https://superfluid-finance.github.io/tokenlist/icons/cxt.svg",
     "tags": [
       "supertoken"
     ]
@@ -3969,6 +4042,22 @@
     ]
   },
   {
+    "address": "0x6c90a582c166f59de91f97fa7aef7315a968b342",
+    "name": "AF Token",
+    "symbol": "AF",
+    "decimals": 18,
+    "chainId": 8453,
+    "extensions": {
+      "superTokenInfo": {
+        "type": "Pure"
+      }
+    },
+    "logoURI": "https://superfluid-finance.github.io/tokenlist/icons/af.png",
+    "tags": [
+      "supertoken"
+    ]
+  },
+  {
     "address": "0x708169c8c87563ce904e0a7f3bfc1f3b0b767f41",
     "name": "Super Dai Stablecoin",
     "symbol": "DAIx",
@@ -4131,6 +4220,17 @@
     "decimals": 18,
     "chainId": 8453,
     "logoURI": "https://superfluid-finance.github.io/tokenlist/icons/xoc.png",
+    "tags": [
+      "underlying"
+    ]
+  },
+  {
+    "address": "0xb1e1f3cc2b6fe4420c1ac82022b457018eb628ff",
+    "name": "Covalent X Token",
+    "symbol": "CXT",
+    "decimals": 18,
+    "chainId": 8453,
+    "logoURI": "https://superfluid-finance.github.io/tokenlist/icons/cxt.svg",
     "tags": [
       "underlying"
     ]
