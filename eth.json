@@ -3573,7 +3573,7 @@
     "name": "BiohackerDAO",
     "symbol": "BIOHACK",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/53677/thumb/bhdao_square.jpg?1737010070"
+    "logoURI": "https://assets.coingecko.com/coins/images/53677/thumb/bhdao_logo_cropped_s.jpg?1737750796"
   },
   {
     "chainId": 1,
@@ -4622,6 +4622,14 @@
     "decimals": 18,
     "symbol": "LYVE",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29251.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x0aa1e96d2a46ec6beb2923de1e61addf5f5f1dce",
+    "name": "RealToken Ecosystem Governance",
+    "symbol": "REG",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/37785/thumb/REG_Logo_200x200.png?1737625372"
   },
   {
     "chainId": 1,
@@ -26493,7 +26501,7 @@
   {
     "chainId": 1,
     "address": "0x3f14920c99beb920afa163031c4e47a3e03b3e4a",
-    "name": "Send",
+    "name": "Send  OLD ",
     "symbol": "SEND",
     "decimals": 0,
     "logoURI": "https://assets.coingecko.com/coins/images/30847/thumb/avatar.png?1716654949"
@@ -31615,6 +31623,14 @@
     "decimals": 18,
     "symbol": "CHAMP",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/34126.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Orbiter Finance",
+    "address": "0x4af322ff4a6f2858f6b51e546b9ec499654493c5",
+    "decimals": 18,
+    "symbol": "OBT",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/35422.png"
   },
   {
     "chainId": 1,
@@ -50162,6 +50178,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x76a0e27618462bdac7a29104bdcfff4e6bfcea2d",
+    "name": "SoSoValue",
+    "symbol": "SOSO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/53919/thumb/soso.jpg?1737717378"
+  },
+  {
+    "chainId": 1,
     "name": "GG MetaGame",
     "address": "0x76aab5fd2243d99eac92d4d9ebf23525d3ace4ec",
     "decimals": 18,
@@ -54850,14 +54874,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x82f13ab56cc0d1b727e8253a943f0de75b048b0b",
-    "name": "PlayFi",
-    "symbol": "PLAYFI",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/36773/thumb/pfiCircleLogo_Alt_Alpha_200.png?1712287250"
-  },
-  {
-    "chainId": 1,
     "name": "AZBI CORE",
     "address": "0x82f39cd08a942f344ca7e7034461cc88c2009199",
     "decimals": 18,
@@ -56002,11 +56018,11 @@
   },
   {
     "chainId": 1,
-    "name": "Prosper",
     "address": "0x8642a849d0dcb7a15a974794668adcfbe4794b56",
-    "decimals": 18,
+    "name": "Prosper  OLD ",
     "symbol": "PROS",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/8255.png"
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/13668/thumb/PFP_Visual_CG.png?1727714135"
   },
   {
     "chainId": 1,
@@ -60847,6 +60863,14 @@
     "decimals": 18,
     "symbol": "AIPRO",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/22663.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Prosper",
+    "address": "0x915424ac489433130d92b04096f3b96c82e92a9d",
+    "decimals": 18,
+    "symbol": "PROS",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/8255.png"
   },
   {
     "chainId": 1,
@@ -74233,14 +74257,6 @@
   },
   {
     "chainId": 1,
-    "address": "0xb2d007293a421471586d6bc3fbfeb1990fdfa2e6",
-    "name": "Governance VEC",
-    "symbol": "GVEC",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/36215/thumb/200x200.png?1710836830"
-  },
-  {
-    "chainId": 1,
     "name": "colR",
     "address": "0xb2d2e1309db33b38a19ee2a7cd9cb5de39d76663",
     "decimals": 18,
@@ -74414,6 +74430,14 @@
     "decimals": 18,
     "symbol": "ALD",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/6519.png"
+  },
+  {
+    "chainId": 1,
+    "name": "FLOCK",
+    "address": "0xb33d999469a7e6b9ebc25a3a05248287b855ed46",
+    "decimals": 18,
+    "symbol": "FLOCK",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/35474.png"
   },
   {
     "chainId": 1,
@@ -96691,6 +96715,14 @@
   },
   {
     "chainId": 1,
+    "name": "Official Eric Trump",
+    "address": "0xec0fb86d6302e8b9e61a47b51e7495aa1fbe0170",
+    "decimals": 18,
+    "symbol": "ERIC",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/35451.png"
+  },
+  {
+    "chainId": 1,
     "name": "HugeWin",
     "address": "0xec12ba5ac0f259e9ac6fc9a3bc23a76ad2fde5d9",
     "decimals": 18,
@@ -101410,6 +101442,14 @@
   },
   {
     "chainId": 1,
+    "name": "Dark Machine",
+    "address": "0xf734f84e000cc8b17abef6761a30a2fcc105a73f",
+    "decimals": 18,
+    "symbol": "MXNA",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/35439.png"
+  },
+  {
+    "chainId": 1,
     "name": "APYSwap",
     "address": "0xf7413489c474ca4399eee604716c72879eea3615",
     "decimals": 18,
@@ -102415,6 +102455,14 @@
     "name": "IOST",
     "decimals": 18,
     "logoURI": "ipfs://QmfJfcHGxyhfVcnP9PtErWcHMS5mXqFWgDvLySPHr6zGr8"
+  },
+  {
+    "chainId": 1,
+    "name": "Ondo DeFAI",
+    "address": "0xfa1b1f13080857bf373de0de93970c96d2c29fd0",
+    "decimals": 18,
+    "symbol": "ONDOAI",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/35469.png"
   },
   {
     "chainId": 1,
@@ -112434,6 +112482,14 @@
   },
   {
     "chainId": 8453,
+    "address": "0x2259ba575f7c66cf10d59a1fe2f7ba77c5685770",
+    "symbol": "BAI",
+    "name": "BAI",
+    "decimals": 18,
+    "logoURI": "ipfs://QmXyph5SS5iXnPUb6JyBXKubKKYZq9HG3yjD3NcFRNoQ4q"
+  },
+  {
+    "chainId": 8453,
     "address": "0x22a2488fe295047ba13bd8cccdbc8361dbd8cf7c",
     "symbol": "SONNE",
     "name": "Sonne Finance",
@@ -112511,6 +112567,14 @@
     "name": "Coinbase Wrapped Staked ETH",
     "decimals": 18,
     "logoURI": "ipfs://Qmd4LULSCJvNUcnSuYrXnPvhibUR6SNDSuAYAE2YTjSN64"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x2b6a85cd35d15691357eea61d88cb3f401a92fc3",
+    "symbol": "SURV",
+    "name": "SurvToken",
+    "decimals": 18,
+    "logoURI": "ipfs://QmUiMzU1LFzaZNbLjuoDb7BAoML2n63F7pV1gL7DMrG5WX"
   },
   {
     "chainId": 8453,
@@ -112706,6 +112770,14 @@
   },
   {
     "chainId": 8453,
+    "address": "0x59c2f99429fb7178ee8ce9bdb1d2bab730601ea4",
+    "symbol": "WINT",
+    "name": "Wrapped Integer",
+    "decimals": 18,
+    "logoURI": "ipfs://QmYGhoq2gA9tWqsM4Tm99byyStC8uQiC2k9eZGTk9Fyv5g"
+  },
+  {
+    "chainId": 8453,
     "address": "0x5a1f355a0227d30d8258734dd3690d2b14355856",
     "symbol": "zETH",
     "name": "zETH",
@@ -112722,6 +112794,22 @@
   },
   {
     "chainId": 8453,
+    "address": "0x5f819f701d6ca4a38ceca5c23e72528580b01977",
+    "symbol": "ZED",
+    "name": "ZED",
+    "decimals": 18,
+    "logoURI": "ipfs://QmNRWaWhLQsRwZoB5o5WQYQNywoGQPGheYZvcnhXYbHoE9"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x608d5401d377228e465ba6113517dcf9bd1f95ca",
+    "symbol": "BSHARE",
+    "name": "BasedRate.io SHARE",
+    "decimals": 18,
+    "logoURI": "ipfs://QmV9oDbdEQXtCyaJdVKShzzhMagt2TgbaenBbA6dNWTQz7"
+  },
+  {
+    "chainId": 8453,
     "address": "0x60d01ec2d5e98ac51c8b4cf84dfcce98d527c747",
     "symbol": "iZi",
     "name": "iZUMi",
@@ -112735,6 +112823,14 @@
     "name": "CookieBase",
     "decimals": 18,
     "logoURI": "ipfs://QmSok26cYkAPA66nGf8ZZ2XSTE1wEoqQj9KCM4Hc3SCLgF"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x6175c3093fbd6f979299c4714e3715cb1edb813a",
+    "symbol": "LES",
+    "name": "LesGoh",
+    "decimals": 18,
+    "logoURI": "ipfs://QmbSk4kTwiEKcRXEnQn2YmjfPgudFKY9pgbcM7UJBzSgHB"
   },
   {
     "chainId": 8453,
@@ -112874,6 +112970,14 @@
   },
   {
     "chainId": 8453,
+    "address": "0x8901cb2e82cc95c01e42206f8d1f417fe53e7af0",
+    "symbol": "YFX",
+    "name": "YieldFarming Index",
+    "decimals": 18,
+    "logoURI": "ipfs://QmVmmkoQzbUEGKpYtZ8FSgujVd5fTbzmKJmmFdsLQteQqA"
+  },
+  {
+    "chainId": 8453,
     "address": "0x8c3a6b12332a6354805eb4b72ef619aedd22bcdd",
     "symbol": "mDEGEN",
     "name": "Morpho Degen",
@@ -112914,6 +113018,14 @@
   },
   {
     "chainId": 8453,
+    "address": "0x954da5ac1ae490b53f0954dd7105f43b8fa9aaee",
+    "symbol": "TANGO",
+    "name": "TANGO",
+    "decimals": 18,
+    "logoURI": "ipfs://QmRKMg1a9DWqbAaeZgWbdqrB2ZNkeCNAUtQQgbTa4AKPKf"
+  },
+  {
+    "chainId": 8453,
     "address": "0x9880dc78d805f71fc761ce2dafd384ddbd26cec3",
     "symbol": "COAI",
     "name": "COTI AI Agents",
@@ -112927,6 +113039,14 @@
     "name": "Pantheon",
     "decimals": 18,
     "logoURI": "ipfs://QmWRUoaNJw9pQkBC9CkYxHTjZJqzakhFMs64RSnJHMtkhD"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x994ac01750047b9d35431a7ae4ed312ee955e030",
+    "symbol": "axlOP",
+    "name": "Axelar Wrapped OP",
+    "decimals": 18,
+    "logoURI": "ipfs://QmUrZMfyzZjZjjNLxD59S2d2se47qb6NHqi4RH4JN2rUWE"
   },
   {
     "chainId": 8453,
@@ -113066,6 +113186,14 @@
   },
   {
     "chainId": 8453,
+    "address": "0xbe1053ec4ac137c9a5b4462d53d5c2c0b89a2b79",
+    "symbol": "oWIG",
+    "name": "ToupeeTechOption",
+    "decimals": 18,
+    "logoURI": "ipfs://QmdG583ckiN5SissYBLo4G1oUpSVR7dtwHYYYe6arLD34c"
+  },
+  {
+    "chainId": 8453,
     "address": "0xbf1aea8670d2528e08334083616dd9c5f3b087ae",
     "symbol": "MAI",
     "name": "MAI",
@@ -113146,6 +113274,14 @@
   },
   {
     "chainId": 8453,
+    "address": "0xd260115030b9fb6849da169a01ed80b6496d1e99",
+    "symbol": "BRATE",
+    "name": "BasedRate.io RATE",
+    "decimals": 18,
+    "logoURI": "ipfs://QmWtX1QUqJQsF59CwyVfCWTPb8P8LwY7h1Ko4b2SBHs1bM"
+  },
+  {
+    "chainId": 8453,
     "address": "0xdb6e0e5094a25a052ab6845a9f1e486b9a9b3dde",
     "symbol": "OKAYEG",
     "name": "Okayeg",
@@ -113175,6 +113311,14 @@
     "name": "Green Life Energy",
     "decimals": 18,
     "logoURI": "ipfs://QmcdAZV3FsXToRBYY4zNnPpfDtjhmLDjCMD7aHekzfne15"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xee3ad70247c42b80d4b46572b920f5d09d893fcf",
+    "symbol": "ZSHARE",
+    "name": "ZSHARE",
+    "decimals": 18,
+    "logoURI": "ipfs://QmPty3R4forQzV2VHCqZMducfZKtN3soaouvxonpNq7muS"
   },
   {
     "chainId": 8453,
