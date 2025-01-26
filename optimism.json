@@ -539,6 +539,19 @@
   },
   {
     "chainId": 1,
+    "address": "0x1b1ff83ae0751ffb7ce0224e9c330e859e95dd16",
+    "name": "Legend",
+    "symbol": "LEGEND",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/LEGEND/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "opListId": "extended",
+      "opTokenId": "LEGEND"
+    }
+  },
+  {
+    "chainId": 1,
     "address": "0x1b40183efb4dd766f11bda7a7c3ad8982e998421",
     "name": "VesperToken",
     "symbol": "VSP",
@@ -812,6 +825,19 @@
       "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1",
       "opListId": "extended",
       "opTokenId": "VALX"
+    }
+  },
+  {
+    "chainId": 1,
+    "address": "0x2b591e99afe9f32eaa6214f7b7629768c40eeb39",
+    "name": "HEX",
+    "symbol": "HEX",
+    "decimals": 8,
+    "logoURI": "https://ethereum-optimism.github.io/data/HEX/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "opListId": "extended",
+      "opTokenId": "HEX"
     }
   },
   {
@@ -1180,6 +1206,19 @@
       "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1",
       "opListId": "extended",
       "opTokenId": "ACX"
+    }
+  },
+  {
+    "chainId": 1,
+    "address": "0x467bccd9d29f223bce8043b84e8c8b282827790f",
+    "name": "Telcoin",
+    "symbol": "TEL",
+    "decimals": 2,
+    "logoURI": "https://ethereum-optimism.github.io/data/TEL/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "opListId": "extended",
+      "opTokenId": "TEL"
     }
   },
   {
@@ -1813,6 +1852,19 @@
       "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
       "opListId": "extended",
       "opTokenId": "SUSHI"
+    }
+  },
+  {
+    "chainId": 1,
+    "address": "0x6b4bcfeccf80ab79eae40475af34cd986e583090",
+    "name": "UOMI",
+    "symbol": "UOMI",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/UOMI/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "opListId": "extended",
+      "opTokenId": "UOMI"
     }
   },
   {
@@ -3106,6 +3158,19 @@
   },
   {
     "chainId": 1,
+    "address": "0xb7109df1a93f8fe2b8162c6207c9b846c1c68090",
+    "name": "Matr1x",
+    "symbol": "MAX",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/MAX/logo.png",
+    "extensions": {
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "opListId": "extended",
+      "opTokenId": "MAX"
+    }
+  },
+  {
+    "chainId": 1,
     "address": "0xb90b2a35c65dbc466b04240097ca756ad2005295",
     "name": "BOBO",
     "symbol": "BOBO",
@@ -3208,6 +3273,7 @@
     "logoURI": "https://ethereum-optimism.github.io/data/PERP/logo.png",
     "extensions": {
       "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1",
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
       "opListId": "default",
       "opTokenId": "PERP"
     }
@@ -6810,6 +6876,19 @@
   },
   {
     "chainId": 8453,
+    "address": "0x09be1692ca16e06f536f0038ff11d1da8524adb1",
+    "name": "Telcoin",
+    "symbol": "TEL",
+    "decimals": 2,
+    "logoURI": "https://ethereum-optimism.github.io/data/TEL/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "TEL"
+    }
+  },
+  {
+    "chainId": 8453,
     "address": "0x0a4c8ee5a092ba333b54c142634c871768891558",
     "name": "GenRize",
     "symbol": "RIZE",
@@ -7504,6 +7583,19 @@
   },
   {
     "chainId": 8453,
+    "address": "0x3628d69aa2d66e9efe95ab1267d440dec24389b6",
+    "name": "UOMI",
+    "symbol": "UOMI",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/UOMI/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "UOMI"
+    }
+  },
+  {
+    "chainId": 8453,
     "address": "0x368181499736d0c0cc614dbb145e2ec1ac86b8c6",
     "name": "LUSD Stablecoin",
     "symbol": "LUSD",
@@ -8080,6 +8172,19 @@
       "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "extended",
       "opTokenId": "ShibDoge"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0x60b407479ef0ddf6cc146ced609aa07d4296f204",
+    "name": "HEX",
+    "symbol": "HEX",
+    "decimals": 8,
+    "logoURI": "https://ethereum-optimism.github.io/data/HEX/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "HEX"
     }
   },
   {
@@ -8833,6 +8938,19 @@
   },
   {
     "chainId": 8453,
+    "address": "0xa866d0ffa4e9e52eade4770af11496e8d237086c",
+    "name": "Matr1x",
+    "symbol": "MAX",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/MAX/logo.png",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "MAX"
+    }
+  },
+  {
+    "chainId": 8453,
     "address": "0xa99f6e6785da0f5d6fb42495fe424bce029eeb3e",
     "name": "Pendle",
     "symbol": "PENDLE",
@@ -9269,6 +9387,19 @@
   },
   {
     "chainId": 8453,
+    "address": "0xc7837be3d71e00fcbe76d77602bcf353df859664",
+    "name": "Legend",
+    "symbol": "LEGEND",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/LEGEND/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "LEGEND"
+    }
+  },
+  {
+    "chainId": 8453,
     "address": "0xc7dcca0a3e69bd762c8db257f868f76be36c8514",
     "name": "KiboShib",
     "symbol": "KIBSHI",
@@ -9369,6 +9500,19 @@
       "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "extended",
       "opTokenId": "GHST"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0xcd6ddda305955acd6b94b934f057e8b0daad58de",
+    "name": "Perpetual",
+    "symbol": "PERP",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/PERP/logo.png",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "default",
+      "opTokenId": "PERP"
     }
   },
   {
