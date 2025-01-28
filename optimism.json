@@ -1585,6 +1585,7 @@
     "logoURI": "https://ethereum-optimism.github.io/data/DIMO/logo.svg",
     "extensions": {
       "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1",
       "opListId": "extended",
       "opTokenId": "DIMO"
     }
@@ -5116,6 +5117,19 @@
       "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "extended",
       "opTokenId": "MOM"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0x5eaa326fb2fc97facce6a79a304876dad0f2e96c",
+    "name": "Dimo",
+    "symbol": "DIMO",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/DIMO/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "DIMO"
     }
   },
   {
