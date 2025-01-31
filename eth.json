@@ -18036,11 +18036,11 @@
   },
   {
     "chainId": 1,
+    "name": "Avalon Labs",
     "address": "0x2b66aade1e9c062ff411bd47c44e0ad696d43bd9",
-    "name": "sUSDa",
-    "symbol": "SUSDA",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/51821/thumb/USDA.png?1732035172"
+    "symbol": "SUSDA",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/35538.png"
   },
   {
     "chainId": 1,
@@ -30299,6 +30299,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x4737d9b4592b40d51e110b94c9c043c6654067ae",
+    "name": "Level Staked USD",
+    "symbol": "SLVLUSD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54094/thumb/slvlusd.png?1738222536"
+  },
+  {
+    "chainId": 1,
     "name": "Nutcoin",
     "address": "0x473f4068073cd5b2ab0e4cc8e146f9edc6fb52cc",
     "decimals": 18,
@@ -38711,6 +38719,14 @@
     "decimals": 18,
     "symbol": "CHIZ",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/12477.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x5c7cc28ff152c397dc2e17349661db67113d6ce3",
+    "name": "VORTEX",
+    "symbol": "VRTX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54104/thumb/VORTEX_%281%29.jpg?1738265602"
   },
   {
     "chainId": 1,
@@ -53962,14 +53978,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x8070dee687fc754b55101374e3ca6e4fd024a39e",
-    "name": "Sentinel AI",
-    "symbol": "SENAI",
-    "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/36711/thumb/photo_2024-04-01_16-55-33-removebg-preview.png?1712127331"
-  },
-  {
-    "chainId": 1,
     "address": "0x807534b396919783b7e30383fe57d857bc084338",
     "name": "Test",
     "symbol": "TEST",
@@ -64382,14 +64390,6 @@
     "decimals": 18,
     "symbol": "SRM",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/24809.png"
-  },
-  {
-    "chainId": 1,
-    "name": "DeHub",
-    "address": "0x99bb69ee1bbfc7706c3ebb79b21c5b698fe58ec0",
-    "decimals": 18,
-    "symbol": "DHB",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/11560.png"
   },
   {
     "chainId": 1,
@@ -88475,14 +88475,6 @@
   },
   {
     "chainId": 1,
-    "address": "0xd5c02bb3e40494d4674778306da43a56138a383e",
-    "name": "OMNI404",
-    "symbol": "O404",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/35196/thumb/O404.jpg?1707839531"
-  },
-  {
-    "chainId": 1,
     "name": "Wrapped Harmony",
     "address": "0xd5cd84d6f044abe314ee7e414d37cae8773ef9d3",
     "decimals": 18,
@@ -100432,14 +100424,6 @@
     "name": "Synthetic Australian Dollars",
     "decimals": 18,
     "logoURI": "ipfs://QmRZZdxnfLmYujjHR43SZjhSsPMiHdm7MLTUMK7icR95TC"
-  },
-  {
-    "chainId": 1,
-    "address": "0xf49311af05a4ffb1dbf33d61e9b2d4f0a7d4a71c",
-    "name": "CompanionBot",
-    "symbol": "CBOT",
-    "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/31302/thumb/IMG_20230812_173007_931.jpg?1696530122"
   },
   {
     "chainId": 1,
@@ -113487,6 +113471,14 @@
     "name": "ToupeeTechOption",
     "decimals": 18,
     "logoURI": "ipfs://QmdG583ckiN5SissYBLo4G1oUpSVR7dtwHYYYe6arLD34c"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xbef5d404548fab05820e64f92cf043b6a06f9c72",
+    "symbol": "POD",
+    "name": "POD",
+    "decimals": 18,
+    "logoURI": "ipfs://QmTTr6hGsCGp5EzoPpRccVGHUWZLKEm8EH2VQtVZe1MErS"
   },
   {
     "chainId": 8453,
