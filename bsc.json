@@ -2340,6 +2340,14 @@
     "logoURI": "https://tokens.pancakeswap.finance/images/0x90Ed8F1dc86388f14b64ba8fb4bbd23099f18240.png"
   },
   {
+    "chainId": 56,
+    "symbol": "PROS",
+    "name": "Prosper",
+    "decimals": 18,
+    "address": "0x915424ac489433130d92b04096f3b96c82e92a9d",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x915424Ac489433130d92B04096F3b96c82e92a9D.png"
+  },
+  {
     "name": "unshETHing_Token",
     "symbol": "USH",
     "address": "0x91d6d6af7635b7b23a8ced9508117965180e2362",
@@ -3087,6 +3095,14 @@
     "logoURI": "https://tokens.pancakeswap.finance/images/0xbF7c81FFF98BbE61B40Ed186e4AfD6DDd01337fe.png"
   },
   {
+    "chainId": 56,
+    "symbol": "COOKIE",
+    "name": "Cookie",
+    "decimals": 18,
+    "address": "0xc0041ef357b183448b235a8ea73ce4e4ec8c265f",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0xC0041EF357B183448B235a8Ea73Ce4E4eC8c265F.png"
+  },
+  {
     "name": "Carbon Protocol",
     "symbol": "SWTH",
     "address": "0xc0ecb8499d8da2771abcbf4091db7f65158f1468",
@@ -3592,8 +3608,8 @@
   },
   {
     "chainId": 56,
-    "symbol": "PROS",
-    "name": "Prosper",
+    "symbol": "PROS (old)",
+    "name": "Prosper (old)",
     "decimals": 18,
     "address": "0xed8c8aa8299c10f067496bb66f8cc7fb338a3405",
     "logoURI": "https://tokens.pancakeswap.finance/images/0xEd8c8Aa8299C10f067496BB66f8cC7Fb338A3405.png"
