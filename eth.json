@@ -2665,6 +2665,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x058d411ab9911f90c74f471bdc9d2bb4cf9b309c",
+    "name": "Rivalz Network",
+    "symbol": "RIZ",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/54076/thumb/RIZ.png?1738784822"
+  },
+  {
+    "chainId": 1,
     "address": "0x058ef0ba85e053e55d357c8a95bc6ea7458def8a",
     "symbol": "TKX",
     "name": "TradeKax",
@@ -3481,14 +3489,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x078c4adf3fee52eb77f6018d9805dfc69e911d39",
-    "name": "Eternity GLORY Token",
-    "symbol": "GLORY",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/34903/thumb/glory-200x200.png?1706594822"
-  },
-  {
-    "chainId": 1,
     "name": "OxDead",
     "address": "0x078ec6cd37b8a72ccb0229a4cae5056e5d8f38b5",
     "decimals": 8,
@@ -4049,6 +4049,14 @@
   },
   {
     "chainId": 1,
+    "name": "DEX223",
+    "address": "0x0908078da2935a14bc7a17770292818c85b580dd",
+    "decimals": 18,
+    "symbol": "DEX223",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/35613.png"
+  },
+  {
+    "chainId": 1,
     "name": "Green Coin",
     "address": "0x091094d324005054e49608d2d29069eb9cb6c7a2",
     "decimals": 18,
@@ -4417,11 +4425,11 @@
   },
   {
     "chainId": 1,
+    "name": "Dark Machine",
     "address": "0x0a2a015a15a8e019abc386fee88b8a6d7a0d90df",
-    "name": "Machina",
-    "symbol": "MXNA",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/53718/thumb/mxna-logo.png?1737124441"
+    "symbol": "MXNA",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/35439.png"
   },
   {
     "chainId": 1,
@@ -6546,7 +6554,7 @@
   {
     "chainId": 1,
     "address": "0x0f719591e2bcb6fcc3e68b16d2a88c89c6ae0d42",
-    "name": "EVOLVE NETWORK",
+    "name": "Evolve Network",
     "symbol": "EVOLVE",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/54171/thumb/IMG_8515.jpeg?1738560325"
@@ -48234,14 +48242,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x718dab2c7bbd2d9503dc1ce1dbc215abc41a3545",
-    "name": "XAIGROK",
-    "symbol": "XAIGROK",
-    "decimals": 8,
-    "logoURI": "https://assets.coingecko.com/coins/images/33584/thumb/20231207_155741.jpg?1702465158"
-  },
-  {
-    "chainId": 1,
     "address": "0x7199b5a15c7fb79aa861780230adc65fff99ec73",
     "name": "0xAnon",
     "symbol": "0XANON",
@@ -54723,7 +54723,7 @@
   {
     "chainId": 1,
     "address": "0x8238884ec9668ef77b90c6dff4d1a9f4f4823bfe",
-    "name": "OpenEden Open Dollar",
+    "name": "OpenEden OpenDollar",
     "symbol": "USDO",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/53750/thumb/USDO_LOGO-white.png?1737181887"
@@ -59079,6 +59079,14 @@
     "decimals": 18,
     "symbol": "VLX",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/4747.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x8c62ac3b71db8c81a764b84ffbc2a8d0bad7f111",
+    "name": "PREME Token",
+    "symbol": "PREME",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/36091/thumb/PREME_Token.png?1710477118"
   },
   {
     "chainId": 1,
@@ -72266,7 +72274,7 @@
   {
     "chainId": 1,
     "address": "0xad55aebc9b8c03fc43cd9f62260391c13c23e7c0",
-    "name": "Compounding Open Dollar",
+    "name": "Compounding OpenDollar",
     "symbol": "CUSDO",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/53751/thumb/cUSDO_logo_white.png?1737182014"
@@ -92147,14 +92155,6 @@
   },
   {
     "chainId": 1,
-    "address": "0xdf21d69bce43f819cb92b8c23e2a001f91157653",
-    "name": "EtheRunes",
-    "symbol": "ETR",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/37077/thumb/Ava.jpg?1713248892"
-  },
-  {
-    "chainId": 1,
     "name": "BitpakcoinToken",
     "address": "0xdf22da9a8c1d80095175ae601d182a734923f01a",
     "decimals": 8,
@@ -101647,14 +101647,6 @@
     "decimals": 18,
     "symbol": "PIGGYBANK",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/26589.png"
-  },
-  {
-    "chainId": 1,
-    "name": "Dark Machine",
-    "address": "0xf734f84e000cc8b17abef6761a30a2fcc105a73f",
-    "decimals": 18,
-    "symbol": "MXNA",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/35439.png"
   },
   {
     "chainId": 1,
