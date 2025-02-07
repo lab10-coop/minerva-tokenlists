@@ -11105,11 +11105,11 @@
   },
   {
     "chainId": 1,
-    "name": "Amino",
     "address": "0x1a2eb478fa07125c9935a77b3c03a82470801e30",
-    "decimals": 18,
+    "name": "Amino  OLD ",
     "symbol": "AMO",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/20158.png"
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/32677/thumb/App_Icon.png?1726895717"
   },
   {
     "chainId": 1,
@@ -28835,6 +28835,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x43c72ea1736072f42f785e704e5244cc5b9a6779",
+    "name": "Dinari GLD",
+    "symbol": "GLDD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54228/thumb/d-token-200.png?1738861086"
+  },
+  {
+    "chainId": 1,
     "name": "Prime",
     "address": "0x43d4a3cd90ddd2f8f4f693170c9c8098163502ad",
     "decimals": 18,
@@ -29768,6 +29776,14 @@
     "decimals": 8,
     "symbol": "KIND",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3078.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x461ad31f69e694e2e20b2070d8be1105626110c3",
+    "name": "Dinari RBLX",
+    "symbol": "RBLXD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54223/thumb/d-token-200.png?1738860997"
   },
   {
     "chainId": 1,
@@ -30706,11 +30722,11 @@
   },
   {
     "chainId": 1,
+    "name": "Ledgity",
     "address": "0x482df7483a52496f4c65ab499966dfcdf4ddfdbc",
-    "name": "Ledgity Token",
-    "symbol": "LDY",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/35046/thumb/ldy-token.png?1707204910"
+    "symbol": "LDY",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/11734.png"
   },
   {
     "chainId": 1,
@@ -33082,11 +33098,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x4dfd742c6e5e28f11bcbcf6c5e51a965d15ea315",
     "name": "Amino",
-    "symbol": "AMINO",
+    "address": "0x4dfd742c6e5e28f11bcbcf6c5e51a965d15ea315",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/53626/thumb/amino.jpg?1736908953"
+    "symbol": "AMINO",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/20158.png"
   },
   {
     "chainId": 1,
@@ -34370,6 +34386,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x51129dad3db1c28d693616308ae1062e43280ed7",
+    "name": "Zesh AI Layer",
+    "symbol": "ZAI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/36617/thumb/logo-zesh.png?1712083180"
+  },
+  {
+    "chainId": 1,
     "name": "Loyalty Labs",
     "address": "0x511686014f39f487e5cdd5c37b4b37606b795ae3",
     "decimals": 18,
@@ -35623,6 +35647,14 @@
     "decimals": 18,
     "symbol": "TOC",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3965.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x54991328ab43c7d5d31c19d1b9fa048e77b5cd16",
+    "name": "Soil",
+    "symbol": "SOIL",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/32050/thumb/SOIL_sygnet_dark_blue.png?1696530847"
   },
   {
     "chainId": 1,
@@ -38834,11 +38866,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x5c8d0c48810fd37a0a824d074ee290e64f7a8fa2",
     "name": "Avalon",
-    "symbol": "AVL",
+    "address": "0x5c8d0c48810fd37a0a824d074ee290e64f7a8fa2",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/54119/thumb/AV.png?1738314011"
+    "symbol": "AVL",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/35628.png"
   },
   {
     "chainId": 1,
@@ -39655,6 +39687,14 @@
     "decimals": 18,
     "symbol": "SETH",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/5765.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x5e796f7e42117ca82b1db3eb227bef11b7a48aa0",
+    "name": "Dinari WALRF",
+    "symbol": "WALRFD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54222/thumb/d-token-200.png?1738860922"
   },
   {
     "chainId": 1,
@@ -56122,14 +56162,6 @@
   },
   {
     "chainId": 1,
-    "name": "Ledgity",
-    "address": "0x85ffb35957203dfd12061eaecd708db623bd567c",
-    "decimals": 18,
-    "symbol": "LTY",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/11734.png"
-  },
-  {
-    "chainId": 1,
     "name": "Cryptrust",
     "address": "0x8606a8f28e1e2fd50b9074d65c01548b1f040b32",
     "decimals": 8,
@@ -59079,14 +59111,6 @@
     "decimals": 18,
     "symbol": "VLX",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/4747.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x8c62ac3b71db8c81a764b84ffbc2a8d0bad7f111",
-    "name": "PREME Token",
-    "symbol": "PREME",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/36091/thumb/PREME_Token.png?1710477118"
   },
   {
     "chainId": 1,
@@ -66417,6 +66441,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x9e6dbde4211e6853b33b8bcd5ce82144997c63ba",
+    "name": "Dinari SQ",
+    "symbol": "SQD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54229/thumb/d-token-200.png?1738861102"
+  },
+  {
+    "chainId": 1,
     "name": "BROTHER",
     "address": "0x9e77d5a1251b6f7d456722a6eac6d2d5980bd891",
     "decimals": 8,
@@ -73273,6 +73305,14 @@
   },
   {
     "chainId": 1,
+    "address": "0xafb942e2a12ac0861ad81b5c37682f588912c1d9",
+    "name": "Privix",
+    "symbol": "PRIVIX",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/54239/thumb/Privix.png?1738873277"
+  },
+  {
+    "chainId": 1,
     "name": "ARBITRAGE",
     "address": "0xafbec4d65bc7b116d85107fd05d912491029bf46",
     "decimals": 18,
@@ -75214,6 +75254,14 @@
     "symbol": "FREEDOM",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/51025/thumb/200_200_logo.jpg?1729770840"
+  },
+  {
+    "chainId": 1,
+    "address": "0xb49e40e97b41b253ecfe6b01a11f1a4f021724f9",
+    "name": "Dinari SONY",
+    "symbol": "SONYD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54225/thumb/d-token-200.png?1738861032"
   },
   {
     "chainId": 1,
@@ -82196,6 +82244,14 @@
   },
   {
     "chainId": 1,
+    "address": "0xc60a9145d9e9f1152218e7da6df634b7a74ae444",
+    "name": "cgETH Hashkey Cloud",
+    "symbol": "CGETHHASHKEY",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54162/thumb/Cgeth_Hashkey.png?1738482570"
+  },
+  {
+    "chainId": 1,
     "name": "SAFESUN",
     "address": "0xc61708603c7b317eb4e84c923370f50ed9ad8077",
     "decimals": 9,
@@ -85760,6 +85816,14 @@
     "decimals": 9,
     "symbol": "EDGELON",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/14083.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xcf5905de7d83dce7cd109485c42723bb76eba5a6",
+    "name": "Dinari ERO",
+    "symbol": "EROD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54230/thumb/d-token-200.png?1738861119"
   },
   {
     "chainId": 1,
@@ -91923,11 +91987,11 @@
   },
   {
     "chainId": 1,
+    "name": "Metaverse HQ",
     "address": "0xde6aceaf7f2dceb3d425643c5f85351f2b38fcde",
-    "name": "HQ",
-    "symbol": "HQ",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/53766/thumb/_HQ_TOKEN_FINAL_200x200_small_%281%29.png?1737193051"
+    "symbol": "HQ",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/35625.png"
   },
   {
     "chainId": 1,
@@ -93763,6 +93827,14 @@
   },
   {
     "chainId": 1,
+    "address": "0xe36fb561dcc177492da42a6ba5fd4a9d0987bfe2",
+    "name": "Dinari SIVR",
+    "symbol": "SIVRD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54224/thumb/d-token-200.png?1738861015"
+  },
+  {
+    "chainId": 1,
     "address": "0xe38149abc673a117abeb8af7d1ff3d0d1aa5af15",
     "name": "Astrid Restaked cbETH",
     "symbol": "RCBETH",
@@ -94520,6 +94592,14 @@
     "symbol": "BEAM",
     "decimals": 8,
     "logoURI": "https://assets.coingecko.com/coins/images/7339/thumb/BEAM.png?1696507623"
+  },
+  {
+    "chainId": 1,
+    "address": "0xe5ad37798daa0231279859d4699cf8f466e8b020",
+    "name": "Dinari COST",
+    "symbol": "COSTD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54226/thumb/d-token-200.png?1738861053"
   },
   {
     "chainId": 1,
@@ -95288,6 +95368,14 @@
     "decimals": 8,
     "symbol": "MONKED",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/24720.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xe7ae30c03395d66f30a26c49c91edae151747911",
+    "name": "clBTC",
+    "symbol": "CLBTC",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54164/thumb/clBTC.png?1738482999"
   },
   {
     "chainId": 1,
@@ -97915,7 +98003,7 @@
   },
   {
     "chainId": 1,
-    "name": "Stronghold Token",
+    "name": "Stronghold SHx",
     "address": "0xee7527841a932d2912224e20a405e1a1ff747084",
     "decimals": 18,
     "symbol": "SHX",
@@ -99968,6 +100056,14 @@
     "symbol": "CAI",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/28899/thumb/200blue.png?1696527875"
+  },
+  {
+    "chainId": 1,
+    "address": "0xf373c3d96996ede40ea161f6929fd457cda8111c",
+    "name": "Dinari DAL",
+    "symbol": "DALD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54227/thumb/d-token-200.png?1738861070"
   },
   {
     "chainId": 1,
@@ -102719,14 +102815,6 @@
     "decimals": 9,
     "symbol": "DON",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/26790.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xfa4baa6951b6ee382e9ff9af2d523278b99ca6d0",
-    "name": "House",
-    "symbol": "HOUSE",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/31202/thumb/hm_icon_200x200.png?1696530029"
   },
   {
     "chainId": 1,
