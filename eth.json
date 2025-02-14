@@ -1,11 +1,11 @@
 [
   {
     "chainId": 1,
+    "name": "Cortex Protocol",
     "address": "0x000000000000012def132e61759048be5b5c6033",
-    "name": "Cortex",
-    "symbol": "CX",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/53285/thumb/CX_Round.png?1735994730"
+    "symbol": "CX",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/35735.png"
   },
   {
     "chainId": 1,
@@ -193,11 +193,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x000000c396558ffbab5ea628f39658bdf61345b3",
     "name": "Bunni",
-    "symbol": "BUNNI",
+    "address": "0x000000c396558ffbab5ea628f39658bdf61345b3",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/54148/thumb/bunni_logo_v2_square.png?1738468465"
+    "symbol": "BUNNI",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/23236.png"
   },
   {
     "chainId": 1,
@@ -830,6 +830,14 @@
     "symbol": "JUDGE",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/34959/thumb/4MUdYI7V_200x200.jpg?1706774333"
+  },
+  {
+    "chainId": 1,
+    "address": "0x0123b0a381348f3ba793091923daeb7356ec5862",
+    "name": "Dinari VXX",
+    "symbol": "VXXD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54396/thumb/d-token-200.png?1739485820"
   },
   {
     "chainId": 1,
@@ -1733,7 +1741,7 @@
     "name": "Yay Kelp DAO s Airdrop Gain ETH",
     "symbol": "YAYAGETH",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/54281/thumb/logo_type.png?1738999005"
+    "logoURI": "https://assets.coingecko.com/coins/images/54281/thumb/yayagETH200w.png?1739438881"
   },
   {
     "chainId": 1,
@@ -7513,6 +7521,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x1194e99f23c8b99cb55a328160aeb0bb010bf0c3",
+    "name": "Dinari UFO",
+    "symbol": "UFOD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54395/thumb/d-token-200.png?1739485800"
+  },
+  {
+    "chainId": 1,
     "name": "GOAT",
     "address": "0x119533669866cfc69cbc41dd77db7e634b92c0a7",
     "decimals": 18,
@@ -7902,6 +7918,14 @@
     "decimals": 9,
     "symbol": "69MINUTES",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/35684.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Game7",
+    "address": "0x12c88a3c30a7aabc1dd7f2c08a97145f5dccd830",
+    "decimals": 18,
+    "symbol": "G7",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/35736.png"
   },
   {
     "chainId": 1,
@@ -16569,6 +16593,14 @@
     "symbol": "DOGIUS",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/53336/thumb/IMG_6575.jpeg?1737095929"
+  },
+  {
+    "chainId": 1,
+    "address": "0x2711018a5489df0d9816bdb7670d58ba23fb2d5e",
+    "name": "Dinari SPTE",
+    "symbol": "SPTED",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54392/thumb/d-token-200.png?1739485749"
   },
   {
     "chainId": 1,
@@ -27600,7 +27632,7 @@
     "name": "TokenPocket Token",
     "symbol": "TPT",
     "decimals": 4,
-    "logoURI": "https://assets.coingecko.com/coins/images/7603/thumb/pocket.jpg?1696507861"
+    "logoURI": "https://assets.coingecko.com/coins/images/7603/thumb/_TPT_LOGO.png?1739478114"
   },
   {
     "chainId": 1,
@@ -28076,7 +28108,7 @@
   },
   {
     "chainId": 1,
-    "name": "Galaxis",
+    "name": "GALAXIS Token",
     "address": "0x423071774c43c0aaf4210b439e7cda8c797e2f26",
     "decimals": 18,
     "symbol": "GALAXIS",
@@ -30419,7 +30451,7 @@
   },
   {
     "chainId": 1,
-    "name": "Uno Re",
+    "name": "Lunos",
     "address": "0x474021845c4643113458ea4414bdb7fb74a01a77",
     "decimals": 18,
     "symbol": "UNO",
@@ -50282,11 +50314,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x7636d8722fdf7cd34232a915e48e96aa3eb386bf",
     "name": "Singularity Finance",
-    "symbol": "SFI",
+    "address": "0x7636d8722fdf7cd34232a915e48e96aa3eb386bf",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/54242/thumb/uvrV4k4z_400x400.jpg?1738886449"
+    "symbol": "SFI",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/35732.png"
   },
   {
     "chainId": 1,
@@ -56634,6 +56666,14 @@
   },
   {
     "chainId": 1,
+    "name": "Aryacoin",
+    "address": "0x86e5775f5c46304939c40959812bc220dd1c0333",
+    "decimals": 18,
+    "symbol": "AYA",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3973.png"
+  },
+  {
+    "chainId": 1,
     "name": "IntelliShare",
     "address": "0x86e6a4f512b1290c043970b04e0b570d4fc98291",
     "decimals": 18,
@@ -61063,6 +61103,14 @@
     "decimals": 18,
     "symbol": "GEM",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7053.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x90fa6faf82ddcbbbd48f66ee70b8515a7a626ac3",
+    "name": "Dinari TJX",
+    "symbol": "TJXD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54397/thumb/d-token-200.png?1739485840"
   },
   {
     "chainId": 1,
@@ -65809,6 +65857,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x9c879a1c2021bd0594750c148f37176395be0b8f",
+    "name": "Dinari SPSK",
+    "symbol": "SPSKD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54391/thumb/d-token-200.png?1739485728"
+  },
+  {
+    "chainId": 1,
     "name": "Lightchain AI",
     "address": "0x9ca8530ca349c966fe9ef903df17a75b8a778927",
     "decimals": 18,
@@ -69845,7 +69901,7 @@
     "name": "Staked FRAX",
     "symbol": "SFRAX",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/35383/thumb/sfrax.png?1708445569"
+    "logoURI": "https://assets.coingecko.com/coins/images/35383/thumb/legacy_sfrax_icon.png?1739433581"
   },
   {
     "chainId": 1,
@@ -74609,14 +74665,6 @@
   },
   {
     "chainId": 1,
-    "address": "0xb2cabf797bc907b049e4ccb5b84d13be3a8cfc21",
-    "name": "Arable Protocol",
-    "symbol": "ACRE",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/23659/thumb/acre_token-02.png?1696522862"
-  },
-  {
-    "chainId": 1,
     "address": "0xb2cb83e8e1b326373b7f1068d10c50ebfa04f070",
     "name": "Pepito",
     "symbol": "PEPI",
@@ -75667,7 +75715,7 @@
     "chainId": 1,
     "name": "Databot",
     "address": "0xb551b43af192965f74e3dfaa476c890b403cad95",
-    "decimals": 9,
+    "decimals": 18,
     "symbol": "DATA",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/35379.png"
   },
@@ -81396,6 +81444,14 @@
   },
   {
     "chainId": 1,
+    "name": "ERC20",
+    "address": "0xc3761eb917cd790b30dad99f6cc5b4ff93c4f9ea",
+    "decimals": 18,
+    "symbol": "ERC20",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2165.png"
+  },
+  {
+    "chainId": 1,
     "address": "0xc3771d47e2ab5a519e2917e61e23078d0c05ed7f",
     "symbol": "GTH",
     "name": "Gather",
@@ -85432,14 +85488,6 @@
     "decimals": 18,
     "symbol": "LUCY",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/13013.png"
-  },
-  {
-    "chainId": 1,
-    "name": "ERC20",
-    "address": "0xcdd981ef3330e159029e6e226dbd73d99f868f4d",
-    "decimals": 18,
-    "symbol": "ERC20",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2165.png"
   },
   {
     "chainId": 1,
@@ -92011,11 +92059,11 @@
   },
   {
     "chainId": 1,
-    "address": "0xde17a000ba631c5d7c2bd9fb692efea52d90dee2",
     "name": "SMARDEX USDN",
-    "symbol": "USDN",
+    "address": "0xde17a000ba631c5d7c2bd9fb692efea52d90dee2",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/52939/thumb/USDN.png?1734769447"
+    "symbol": "USDN",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/35672.png"
   },
   {
     "chainId": 1,
@@ -92592,6 +92640,14 @@
     "decimals": 18,
     "symbol": "YETIC",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/14718.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xdf9be795fee855aaeb82dc112b0f27b62524a17b",
+    "name": "Dinari SPUS",
+    "symbol": "SPUSD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54393/thumb/d-token-200.png?1739485765"
   },
   {
     "chainId": 1,
@@ -95815,7 +95871,7 @@
     "name": "Yay StakeStone Ether",
     "symbol": "YAYSTONE",
     "decimals": 15,
-    "logoURI": "https://assets.coingecko.com/coins/images/54279/thumb/logo_type.png?1738998748"
+    "logoURI": "https://assets.coingecko.com/coins/images/54279/thumb/Yay!_Stone200w.png?1739438931"
   },
   {
     "chainId": 1,
@@ -97744,14 +97800,6 @@
     "decimals": 18,
     "symbol": "7ADD",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7771.png"
-  },
-  {
-    "chainId": 1,
-    "name": "Vodra",
-    "address": "0xed3d4e446a96dc3b181b64b75c3c70da41dc3cbe",
-    "decimals": 18,
-    "symbol": "VDR",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/10222.png"
   },
   {
     "chainId": 1,
@@ -99984,6 +100032,14 @@
     "decimals": 9,
     "symbol": "DCE",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/32579.png"
+  },
+  {
+    "chainId": 1,
+    "name": "MyShell",
+    "address": "0xf2c88757f8d03634671208935974b60a2a28bdb3",
+    "decimals": 18,
+    "symbol": "SHELL",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/35710.png"
   },
   {
     "chainId": 1,
@@ -103298,6 +103354,14 @@
   },
   {
     "chainId": 1,
+    "address": "0xfae8f97cafea5133159992e83a4b30e1aae88328",
+    "name": "Dinari SPWO",
+    "symbol": "SPWOD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54394/thumb/d-token-200.png?1739485782"
+  },
+  {
+    "chainId": 1,
     "name": "AGG",
     "address": "0xfb0489e9753b045ddb35e39c6b0cc02ec6b99ac5",
     "decimals": 18,
@@ -103938,11 +104002,11 @@
   },
   {
     "chainId": 1,
-    "name": "Bunni",
     "address": "0xfd0205066521550d7d7ab19da8f72bb004b4c341",
-    "decimals": 18,
+    "name": "Bunni",
     "symbol": "LIT",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/23236.png"
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/28714/thumb/apple-touch-icon.png?1726104276"
   },
   {
     "chainId": 1,

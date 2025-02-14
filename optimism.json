@@ -2091,6 +2091,19 @@
   },
   {
     "chainId": 1,
+    "address": "0x76a0e27618462bdac7a29104bdcfff4e6bfcea2d",
+    "name": "SoSoValue",
+    "symbol": "SOSO",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/SOSO/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "opListId": "extended",
+      "opTokenId": "SOSO"
+    }
+  },
+  {
+    "chainId": 1,
     "address": "0x76ff2ab6b34142421f44a68cc8dd08f45f9ee2f2",
     "name": "PIP",
     "symbol": "PIP",
@@ -2441,6 +2454,19 @@
       "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
       "opListId": "extended",
       "opTokenId": "WALLET"
+    }
+  },
+  {
+    "chainId": 1,
+    "address": "0x88a9a52f944315d5b4e917b9689e65445c401e83",
+    "name": "FEAR",
+    "symbol": "FEAR",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/FEAR/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "opListId": "extended",
+      "opTokenId": "FEAR"
     }
   },
   {
@@ -4316,6 +4342,19 @@
       "unichainBridgeAddress": "0x81014F44b0a345033bB2b3B21C7a1A308B35fEeA",
       "opListId": "extended",
       "opTokenId": "BICO"
+    }
+  },
+  {
+    "chainId": 1,
+    "address": "0xf1a7000000950c7ad8aff13118bb7ab561a448ee",
+    "name": "Flayer",
+    "symbol": "FLAY",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/FLAY/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "opListId": "extended",
+      "opTokenId": "FLAY"
     }
   },
   {
@@ -7893,6 +7932,18 @@
   },
   {
     "chainId": 8453,
+    "address": "0x02d4f76656c2b4f58430e91f8ac74896c9281cb9",
+    "name": "Pett AI",
+    "symbol": "AIP",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/AIP/logo.svg",
+    "extensions": {
+      "opListId": "extended",
+      "opTokenId": "AIP"
+    }
+  },
+  {
+    "chainId": 8453,
     "address": "0x039b598c6b99e70058e1e9021e000bdacd33d026",
     "name": "[Deprecated] Morpho Token",
     "symbol": "MORPHO",
@@ -8572,6 +8623,19 @@
       "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "extended",
       "opTokenId": "F"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0x2ccc99a0a27d52f529a541b8a13e2440376ea3b9",
+    "name": "FEAR",
+    "symbol": "FEAR",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/FEAR/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "FEAR"
     }
   },
   {
@@ -9330,6 +9394,19 @@
       "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "extended",
       "opTokenId": "ARC"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0x624e2e7fdc8903165f64891672267ab0fcb98831",
+    "name": "SoSoValue",
+    "symbol": "SOSO",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/SOSO/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "SOSO"
     }
   },
   {
@@ -10818,6 +10895,18 @@
   },
   {
     "chainId": 8453,
+    "address": "0xdbfefd2e8460a6ee4955a68582f85708baea60a3",
+    "name": "Super OETH",
+    "symbol": "superOETHb",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/superOETH/logo.svg",
+    "extensions": {
+      "opListId": "extended",
+      "opTokenId": "superOETH"
+    }
+  },
+  {
+    "chainId": 8453,
     "address": "0xddb293bb5c5258f7484a94a0fbd5c8b2f6e4e376",
     "name": "Brickken",
     "symbol": "BKN",
@@ -11099,6 +11188,19 @@
       "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "extended",
       "opTokenId": "BEPRO"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0xf1a7000000950c7ad8aff13118bb7ab561a448ee",
+    "name": "Flayer",
+    "symbol": "FLAY",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/FLAY/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "FLAY"
     }
   },
   {
