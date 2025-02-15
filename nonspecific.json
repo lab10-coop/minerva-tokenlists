@@ -4241,6 +4241,22 @@
     ]
   },
   {
+    "address": "0xa69f80524381275a7ffdb3ae01c54150644c8792",
+    "name": "Superfluid Token",
+    "symbol": "SUP",
+    "decimals": 18,
+    "chainId": 8453,
+    "extensions": {
+      "superTokenInfo": {
+        "type": "Pure"
+      }
+    },
+    "logoURI": "https://superfluid-finance.github.io/tokenlist/icons/sup.svg",
+    "tags": [
+      "supertoken"
+    ]
+  },
+  {
     "address": "0xb1e1f3cc2b6fe4420c1ac82022b457018eb628ff",
     "name": "Covalent X Token",
     "symbol": "CXT",

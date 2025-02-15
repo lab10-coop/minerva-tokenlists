@@ -973,6 +973,20 @@
   },
   {
     "chainId": 1,
+    "address": "0x35f15275041b53324df461d5ccc952ee19d4a982",
+    "name": "Darwinia Commitment xKTON",
+    "symbol": "xKTON",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/XKTON/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1",
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "opListId": "extended",
+      "opTokenId": "XKTON"
+    }
+  },
+  {
+    "chainId": 1,
     "address": "0x3650b69f86cb593f116e276c30666834336c0647",
     "name": "Loopfi",
     "symbol": "LPF",
@@ -1223,6 +1237,20 @@
       "unichainBridgeAddress": "0x81014F44b0a345033bB2b3B21C7a1A308B35fEeA",
       "opListId": "extended",
       "opTokenId": "ACX"
+    }
+  },
+  {
+    "chainId": 1,
+    "address": "0x464ebe77c293e473b48cfe96ddcf88fcf7bfdac0",
+    "name": "Kryll",
+    "symbol": "KRL",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/KRL/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1",
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "opListId": "extended",
+      "opTokenId": "KRL"
     }
   },
   {
@@ -2291,6 +2319,20 @@
       "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
       "opListId": "extended",
       "opTokenId": "PENDLE"
+    }
+  },
+  {
+    "chainId": 1,
+    "address": "0x81e32d4652be82ae225dedd1bd0bf3bcba8fee07",
+    "name": "Darwinia Network xRING",
+    "symbol": "xRING",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/XRING/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1",
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "opListId": "extended",
+      "opTokenId": "XRING"
     }
   },
   {
@@ -4924,6 +4966,19 @@
   },
   {
     "chainId": 10,
+    "address": "0x2ed6222cb75e353b8789bec7bb443b7ec9022021",
+    "name": "Kryll",
+    "symbol": "KRL",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/KRL/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "KRL"
+    }
+  },
+  {
+    "chainId": 10,
     "address": "0x334cc734866e97d8452ae6261d68fd9bc9bfa31e",
     "name": "ARPA Token",
     "symbol": "ARPA",
@@ -5217,6 +5272,19 @@
     "decimals": 18,
     "symbol": "NEXT",
     "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-dapplist/main/images/dapp_connextbridge.png"
+  },
+  {
+    "chainId": 10,
+    "address": "0x5ac3f9edb4896db1edc0ef9d91421e740083e6e8",
+    "name": "Darwinia Network xRING",
+    "symbol": "xRING",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/XRING/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "XRING"
+    }
   },
   {
     "chainId": 10,
@@ -6588,6 +6656,19 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/optimism/0xEB466342C4d449BC9f53A865D5Cb90586f405215.jpg",
     "name": "Axelar Wrapped USDC",
     "symbol": "axlUSDC"
+  },
+  {
+    "chainId": 10,
+    "address": "0xeb528f54676dc39e8d62eec1d4c1afb25c1b9bb1",
+    "name": "Darwinia Commitment xKTON",
+    "symbol": "xKTON",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/XKTON/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "XKTON"
+    }
   },
   {
     "chainId": 10,
@@ -8215,6 +8296,19 @@
   },
   {
     "chainId": 8453,
+    "address": "0x166d48f5449315f90cc5543886bf74bbe6ea3fb0",
+    "name": "Darwinia Commitment xKTON",
+    "symbol": "xKTON",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/XKTON/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "XKTON"
+    }
+  },
+  {
+    "chainId": 8453,
     "address": "0x178929287b25fe1ac9e0b112ce3899312b6d0557",
     "name": "dForce",
     "symbol": "DF",
@@ -9682,6 +9776,19 @@
   },
   {
     "chainId": 8453,
+    "address": "0x77eb290df0a5aab15f681085faea1f653a3fc9b7",
+    "name": "Darwinia Network xRING",
+    "symbol": "xRING",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/XRING/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "XRING"
+    }
+  },
+  {
+    "chainId": 8453,
     "address": "0x78b3c724a2f663d11373c4a1978689271895256f",
     "name": "Token Name Service",
     "symbol": "TKN",
@@ -10878,6 +10985,19 @@
       "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "extended",
       "opTokenId": "BridgedUSDC"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0xdae49c25fad3a62a8e8bfb6da12c46be611f9f7a",
+    "name": "Kryll",
+    "symbol": "KRL",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/KRL/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "KRL"
     }
   },
   {

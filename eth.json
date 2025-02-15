@@ -32506,11 +32506,11 @@
   },
   {
     "chainId": 1,
-    "name": "Konnect",
     "address": "0x4c601dc69affb0d4fc8de1ac303705e432a4a27e",
-    "decimals": 18,
+    "name": "Konnect",
     "symbol": "KCT",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/20305.png"
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/25756/thumb/EAO_5JhW_400x400.jpg?1696524842"
   },
   {
     "chainId": 1,
@@ -35738,11 +35738,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x54991328ab43c7d5d31c19d1b9fa048e77b5cd16",
     "name": "Soil",
-    "symbol": "SOIL",
+    "address": "0x54991328ab43c7d5d31c19d1b9fa048e77b5cd16",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/32050/thumb/SOIL_sygnet_dark_blue.png?1696530847"
+    "symbol": "SOIL",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28220.png"
   },
   {
     "chainId": 1,
@@ -36703,14 +36703,6 @@
     "decimals": 18,
     "symbol": "SLRM",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3817.png"
-  },
-  {
-    "chainId": 1,
-    "name": "Arcas",
-    "address": "0x570f09ac53b96929e3868f71864e36ff6b1b67d7",
-    "decimals": 18,
-    "symbol": "ARCAS",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/11279.png"
   },
   {
     "chainId": 1,
@@ -41815,6 +41807,14 @@
     "decimals": 8,
     "symbol": "PEAK",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/5354.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Konnect",
+    "address": "0x63230728bc219d991d2995ce92e96c16fcf8beb6",
+    "decimals": 18,
+    "symbol": "KCT",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/20305.png"
   },
   {
     "chainId": 1,
@@ -113226,6 +113226,14 @@
   },
   {
     "chainId": 8453,
+    "address": "0x2941d526e22406c5d6f273e281899cfc042a7332",
+    "symbol": "KOGIN",
+    "name": "Kogin by Virtuals",
+    "decimals": 18,
+    "logoURI": "ipfs://QmSfpsoUMHw3PL73yym7jpoBeaFWF1swm6XmqUDa2FuuRi"
+  },
+  {
+    "chainId": 8453,
     "address": "0x295243647f3efe3bea315d548dcc3d25864ba265",
     "symbol": "TOCHI",
     "name": "Tochi Base ",
@@ -113535,6 +113543,14 @@
     "name": "Akashalife",
     "decimals": 18,
     "logoURI": "ipfs://QmXK9PxZnVG2FgpKnzU9FfRD7Ccq5BYu8DKS7QCZxv25Lx"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x54eaf6bb665565bb8897f9d7ad5b3818ded143b4",
+    "symbol": "DGENAI",
+    "name": "DegenAI by Virtuals",
+    "decimals": 18,
+    "logoURI": "ipfs://QmSLTEnkNjrMCUA1x45WyCz8YuFQz2KADbkkBzwSn6FYn6"
   },
   {
     "chainId": 8453,
@@ -114010,6 +114026,14 @@
   },
   {
     "chainId": 8453,
+    "address": "0xa9f5031b54c44c3603b4300fde9b8f5cd18ad06f",
+    "symbol": "SHOOT",
+    "name": "SHOOT",
+    "decimals": 18,
+    "logoURI": "ipfs://QmbrA4KzuinsiVhYbb2uu9JjBPRWGKUkFqfJT5ARUsNtEL"
+  },
+  {
+    "chainId": 8453,
     "address": "0xab10e517f3138b17108b32129e8c8446ad44a267",
     "symbol": "BTA",
     "name": "Battle.tech by Virtuals",
@@ -114039,6 +114063,14 @@
     "name": "DIP",
     "decimals": 18,
     "logoURI": "ipfs://QmWYc9Dz83VJLzJXKC7WTyyyJLuuwsGdgjttPB4kSDFzkx"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xaf0aa8de89e3dbdafe144abcdddafa568a526299",
+    "symbol": "HADES",
+    "name": "HadesAI by Virtuals",
+    "decimals": 18,
+    "logoURI": "ipfs://QmNYhTvKC5HpdoiruGR9QP8m6FAzPCtqWPNi1DhFoc98L9"
   },
   {
     "chainId": 8453,
@@ -114074,6 +114106,14 @@
   },
   {
     "chainId": 8453,
+    "address": "0xb34457736aa191ff423f84f5d669f68b231e6c4e",
+    "symbol": "AIDOGE",
+    "name": "AGENT DOGE by Virtuals",
+    "decimals": 18,
+    "logoURI": "ipfs://QmWZ85vDvYcJZtYK7vnPpLXpGym79Cm1MyC93F3WpB2WCX"
+  },
+  {
+    "chainId": 8453,
     "address": "0xb372dc09d8d84e1246760ee9d279e504a89f5684",
     "symbol": "MFT",
     "name": "METAFIGHT",
@@ -114087,6 +114127,14 @@
     "name": "DREAM by Virtuals",
     "decimals": 18,
     "logoURI": "ipfs://QmZRs9m3D3yzo9b5RVeF4Muy9cV1Ft2zVRKT7TDeBarKdD"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb58f9704c7a80d2775222f7cb2eed28beb9a06be",
+    "symbol": "OMNI",
+    "name": "Omnis Genesis by Virtuals",
+    "decimals": 18,
+    "logoURI": "ipfs://QmX44HZ74xJNW7XVF6fUX6JkdCi5Spvou5Zbn5jW77aukM"
   },
   {
     "chainId": 8453,
