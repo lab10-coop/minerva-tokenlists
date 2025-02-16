@@ -2274,6 +2274,7 @@
     "extensions": {
       "optimismBridgeAddress": "0x76943C0D61395d8F2edF9060e1533529cAe05dE6",
       "baseBridgeAddress": "0x9de443AdC5A411E83F1878Ef24C3F52C61571e72",
+      "liskBridgeAddress": "0x9348AF23B01F2B517AFE8f29B3183d2Bb7d69Fcf",
       "opListId": "default",
       "opTokenId": "wstETH"
     }
@@ -7922,6 +7923,19 @@
   },
   {
     "chainId": 1135,
+    "address": "0x76d8de471f54aaa87784119c60df1bbfc852c415",
+    "name": "Wrapped liquid staked Ether 2.0",
+    "symbol": "wstETH",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/wstETH/logo.svg",
+    "extensions": {
+      "liskBridgeAddress": "0xca498Ee83eD3546321d4DC25e2789B0624F15f68",
+      "opListId": "default",
+      "opTokenId": "wstETH"
+    }
+  },
+  {
+    "chainId": 1135,
     "address": "0xac485391eb2d7d88253a7f1ef18c37f4242d1a24",
     "name": "Lisk",
     "symbol": "LSK",
@@ -7970,6 +7984,19 @@
       "metall2BridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "extended",
       "opTokenId": "CTRAVL"
+    }
+  },
+  {
+    "chainId": 4202,
+    "address": "0x03f1259b4986b8ae9040e250f958cef09dad8b6c",
+    "name": "Wrapped liquid staked Ether 2.0",
+    "symbol": "wstETH",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/wstETH/logo.svg",
+    "extensions": {
+      "liskBridgeAddress": "0xb150759C71073Edf7D90d3D053aB5e67ea731Aa2",
+      "opListId": "default",
+      "opTokenId": "wstETH"
     }
   },
   {
@@ -12393,6 +12420,7 @@
     "logoURI": "https://ethereum-optimism.github.io/data/wstETH/logo.svg",
     "extensions": {
       "optimismBridgeAddress": "0x4Abf633d9c0F4aEebB4C2E3213c7aa1b8505D332",
+      "liskBridgeAddress": "0xD3f64eB2082cEe7632C12a968dEDF304bCac2deF",
       "opListId": "default",
       "opTokenId": "wstETH"
     }

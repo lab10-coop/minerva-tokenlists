@@ -5306,10 +5306,10 @@
   {
     "chainId": 1,
     "address": "0x0c10bf8fcb7bf5412187a595ab97a3609160b5c6",
-    "name": "USDD",
     "symbol": "USDD",
+    "name": "Decentralized USD",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/25380/thumb/UUSD.jpg?1696524513"
+    "logoURI": "ipfs://Qma7ovKDEFSbF2wDkyr5ppEZQDogXMnxJd75EDsB1JjRBy"
   },
   {
     "chainId": 1,
@@ -11272,6 +11272,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x1a4f71b0ff3c22540887bcf83b50054a213c673d",
+    "name": "Wrapped bMSTR",
+    "symbol": "WBMSTR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54431/thumb/bMSTR_200x200.png?1739606375"
+  },
+  {
+    "chainId": 1,
     "name": "MatrixETF",
     "address": "0x1a57367c6194199e5d9aea1ce027431682dfb411",
     "decimals": 18,
@@ -13385,6 +13393,14 @@
     "decimals": 18,
     "symbol": "VV",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/23920.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x1f82284c1658ad71c576f7230e6c2dee7901c1fa",
+    "name": "Wrapped bTSLA",
+    "symbol": "WBTSLA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54428/thumb/bTSLA_200x200.png?1739605965"
   },
   {
     "chainId": 1,
@@ -53554,6 +53570,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x7e8101a1c322d394b3961498c7d40d2dfa94c392",
+    "name": "Wrapped bNVDA",
+    "symbol": "WBNVDA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54430/thumb/bNVDA_200x200.png?1739606241"
+  },
+  {
+    "chainId": 1,
     "name": "SOMIDAX",
     "address": "0x7e8539d1e5cb91d63e46b8e188403b3f262a949b",
     "decimals": 18,
@@ -73249,6 +73273,14 @@
   },
   {
     "chainId": 1,
+    "address": "0xaf04f0912e793620824f4442b03f4d984af29853",
+    "name": "HydraDAO",
+    "symbol": "HYDRA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54421/thumb/hydra-icon.png?1739603226"
+  },
+  {
+    "chainId": 1,
     "name": "Lockheed Martin Inu",
     "address": "0xaf05ce8a2cef336006e933c02fc89887f5b3c726",
     "decimals": 18,
@@ -80253,14 +80285,6 @@
     "symbol": "BUSINESS",
     "decimals": 8,
     "logoURI": "https://assets.coingecko.com/coins/images/52061/thumb/bsinesslogo.jpg?1732457220"
-  },
-  {
-    "chainId": 1,
-    "address": "0xc06d9013a1d3f25f76ee5291bbc04a181985814e",
-    "name": "Yertle The Turtle",
-    "symbol": "YERTLE",
-    "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/32518/thumb/IMG_6911.jpeg?1698406852"
   },
   {
     "chainId": 1,
@@ -92312,6 +92336,14 @@
     "decimals": 9,
     "symbol": "LOBI",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/15093.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xdec933e2392ad908263e70a386fbf34e703ffe8f",
+    "name": "Wrapped bCOIN",
+    "symbol": "WBCOIN",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54429/thumb/bCOIN_200x200.png?1739606057"
   },
   {
     "chainId": 1,
