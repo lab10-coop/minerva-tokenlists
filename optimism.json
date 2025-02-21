@@ -612,6 +612,19 @@
   },
   {
     "chainId": 1,
+    "address": "0x1d96fd43ee07aa79f8fd003cbdf404fb5ce41ad2",
+    "name": "Qawalla Token",
+    "symbol": "QWLA",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/QWLA/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "opListId": "extended",
+      "opTokenId": "QWLA"
+    }
+  },
+  {
+    "chainId": 1,
     "address": "0x1da87b114f35e1dc91f72bf57fc07a768ad40bb0",
     "name": "Equalizer",
     "symbol": "EQZ",
@@ -2159,6 +2172,19 @@
   },
   {
     "chainId": 1,
+    "address": "0x7866e48c74cbfb8183cd1a929cd9b95a7a5cb4f4",
+    "name": "DexKit",
+    "symbol": "KIT",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/KIT/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "opListId": "extended",
+      "opTokenId": "KIT"
+    }
+  },
+  {
+    "chainId": 1,
     "address": "0x78da5799cf427fee11e9996982f4150ece7a99a7",
     "name": "Revenue Generating USD",
     "symbol": "rgUSD",
@@ -3039,6 +3065,19 @@
   },
   {
     "chainId": 1,
+    "address": "0xa80505c408c4defd9522981cd77e026f5a49fe63",
+    "name": "NEUY",
+    "symbol": "NEUY",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/NEUY/logo.png",
+    "extensions": {
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "opListId": "extended",
+      "opTokenId": "NEUY"
+    }
+  },
+  {
+    "chainId": 1,
     "address": "0xaa7a9ca87d3694b5755f213b5d04094b8d0f0a6f",
     "name": "Trace Token",
     "symbol": "TRAC",
@@ -3598,6 +3637,19 @@
       "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
       "opListId": "extended",
       "opTokenId": "zunETH"
+    }
+  },
+  {
+    "chainId": 1,
+    "address": "0xc477d038d5420c6a9e0b031712f61c5120090de9",
+    "name": "Boson Token",
+    "symbol": "BOSON",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/BOSON/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "opListId": "extended",
+      "opTokenId": "BOSON"
     }
   },
   {
@@ -8505,6 +8557,19 @@
   },
   {
     "chainId": 8453,
+    "address": "0x2192607c3cba9ec3d490206d10d831e68e5f3c97",
+    "name": "Boson Token",
+    "symbol": "BOSON",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/BOSON/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "BOSON"
+    }
+  },
+  {
+    "chainId": 8453,
     "address": "0x223738a747383d6f9f827d95964e4d8e8ac754ce",
     "name": "Aura BAL",
     "symbol": "auraBAL",
@@ -9057,6 +9122,19 @@
   },
   {
     "chainId": 8453,
+    "address": "0x3cf255a7a03d74b6f9d58456cbedbc0705626354",
+    "name": "NEUY",
+    "symbol": "NEUY",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/NEUY/logo.png",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "NEUY"
+    }
+  },
+  {
+    "chainId": 8453,
     "address": "0x3d2eba645c44bbd32a34b7c017667711eb5b173c",
     "name": "Wrapped MistCoin",
     "symbol": "WMC",
@@ -9361,6 +9439,19 @@
       "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "extended",
       "opTokenId": "OLAS"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0x55365c9e68e70122020184f4441b498e8bf06ac6",
+    "name": "Qawalla Token",
+    "symbol": "QWLA",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/QWLA/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "QWLA"
     }
   },
   {
@@ -10096,6 +10187,19 @@
       "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "extended",
       "opTokenId": "MET"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0x946f8b0ef009f3f5b1b35e6511a82a58b09d8d4e",
+    "name": "DexKit",
+    "symbol": "KIT",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/KIT/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "KIT"
     }
   },
   {
