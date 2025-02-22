@@ -505,6 +505,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x006e730a6c36ff47a31a99931bedbddccf3de81c",
+    "name": "Race to a Billion",
+    "symbol": "RACE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54528/thumb/25952add6d22b6ed86b0b6e0-20250219030728.png?1740167945"
+  },
+  {
+    "chainId": 1,
     "address": "0x007115416ab6c266329a03b09a8aa39ac2ef7d9d",
     "name": "Midas mBTC",
     "symbol": "MBTC",
@@ -5942,14 +5950,6 @@
     "decimals": 18,
     "symbol": "METACAT",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/13605.png"
-  },
-  {
-    "chainId": 1,
-    "name": "Catboy",
-    "address": "0x0dcee5f694e492f0dd842a7fbe5bed4c6e4665a6",
-    "decimals": 18,
-    "symbol": "CATBOY",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28647.png"
   },
   {
     "chainId": 1,
@@ -12657,6 +12657,14 @@
     "decimals": 18,
     "symbol": "DAR",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/30497.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x1db1afd9552eeb28e2e36597082440598b7f1320",
+    "name": "Constellation Staked RPL",
+    "symbol": "XRPL",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54530/thumb/token-xrpl.png?1740177776"
   },
   {
     "chainId": 1,
@@ -21196,6 +21204,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x325dc9ebcec31940c658acaca45f8293418d811e",
+    "name": "Solv Protocol SolvBTC ENA",
+    "symbol": "SOLVBTCENA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/38931/thumb/BTC_ena.png?1719562313"
+  },
+  {
+    "chainId": 1,
     "address": "0x3261902514414a131202e792a5ef763db795e639",
     "name": "RepoSwap",
     "symbol": "REPX",
@@ -23721,14 +23737,6 @@
     "decimals": 9,
     "symbol": "FREN",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/14476.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x3797c46db697c24a983222c335f17ba28e8c5b69",
-    "name": "UBS USD Money Market Investment Fund To",
-    "symbol": "UMINT",
-    "decimals": 8,
-    "logoURI": "https://assets.coingecko.com/coins/images/51913/thumb/%E5%9B%BE%E5%83%8F.png?1732678510"
   },
   {
     "chainId": 1,
@@ -32554,14 +32562,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x4c601dc69affb0d4fc8de1ac303705e432a4a27e",
-    "name": "Konnect",
-    "symbol": "KCT",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/25756/thumb/EAO_5JhW_400x400.jpg?1696524842"
-  },
-  {
-    "chainId": 1,
     "address": "0x4c612e3b15b96ff9a6faed838f8d07d479a8dd4c",
     "name": "Aave v3 sDAI",
     "symbol": "ASDAI",
@@ -34325,7 +34325,7 @@
     "address": "0x508b27902c6c14972a10a4e413b9cfa449e9cedb",
     "name": "AISignal",
     "symbol": "AISIG",
-    "decimals": 0,
+    "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/33671/thumb/IMG_20231214_221614_575.png?1702701782"
   },
   {
@@ -54266,11 +54266,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x8074836637eb9cc73a01a65d5700907fc639c4e9",
     "name": "DuelNow",
-    "symbol": "DNOW",
+    "address": "0x8074836637eb9cc73a01a65d5700907fc639c4e9",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/54289/thumb/token-logo-square-200.png?1739008717"
+    "symbol": "DNOW",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/35850.png"
   },
   {
     "chainId": 1,
@@ -56422,7 +56422,7 @@
     "name": "Prosper  OLD ",
     "symbol": "PROS",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/13668/thumb/OldTokenGrad.png?1738143535"
+    "logoURI": "https://assets.coingecko.com/coins/images/13668/thumb/PROS_OldToken.png?1740124943"
   },
   {
     "chainId": 1,
@@ -59956,7 +59956,7 @@
     "chainId": 1,
     "name": "Quantoz EURQ",
     "address": "0x8df723295214ea6f21026eeeb4382d475f146f9f",
-    "decimals": 6,
+    "decimals": 18,
     "symbol": "EURQ",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/34176.png"
   },
@@ -74721,14 +74721,6 @@
   },
   {
     "chainId": 1,
-    "address": "0xb28f803a8772e6584a65ab6dfc535ae6fef8a0b2",
-    "name": "Lunafi",
-    "symbol": "LFI",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/24594/thumb/lfi.png?1696523768"
-  },
-  {
-    "chainId": 1,
     "name": "Ludena Protocol",
     "address": "0xb29663aa4e2e81e425294193616c1b102b70a158",
     "decimals": 18,
@@ -78403,7 +78395,7 @@
     "address": "0xbc0899e527007f1b8ced694508fcb7a2b9a46f53",
     "name": "Basket",
     "symbol": "BSKT",
-    "decimals": 18,
+    "decimals": 5,
     "logoURI": "https://assets.coingecko.com/coins/images/34661/thumb/BSKT_Logo.png?1705636891"
   },
   {
@@ -84288,6 +84280,14 @@
     "decimals": 9,
     "symbol": "GFSHIB",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/13470.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Catboy",
+    "address": "0xca9b8d6df0729d85dcfc8ef8bb18af1ad1990786",
+    "decimals": 18,
+    "symbol": "CATBOY",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28647.png"
   },
   {
     "chainId": 1,
