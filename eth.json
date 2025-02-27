@@ -1641,6 +1641,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x030b69280892c888670edcdcd8b69fd8026a0bf3",
+    "name": "Midas mMEV",
+    "symbol": "MMEV",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54592/thumb/mmev_logo.png?1740565795"
+  },
+  {
+    "chainId": 1,
     "address": "0x030ba81f1c18d280636f32af80b9aad02cf0854e",
     "name": "Aave WETH",
     "symbol": "AWETH",
@@ -3430,6 +3438,14 @@
     "decimals": 18,
     "symbol": "SBTCCURVE",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/6174.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x075f23b9cdfce2cc0ca466f4ee6cb4bd29d83bef",
+    "name": "Pundi AIFX",
+    "symbol": "PUNDAI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54579/thumb/pundiai.jpg?1740538459"
   },
   {
     "chainId": 1,
@@ -7875,7 +7891,7 @@
     "chainId": 1,
     "name": "Pineapple",
     "address": "0x129e5915326ed86f831b0e035acda34b209633d5",
-    "decimals": 9,
+    "decimals": 18,
     "symbol": "PAPPLE",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/35840.png"
   },
@@ -8302,14 +8318,6 @@
     "decimals": 18,
     "symbol": "MCI",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2000.png"
-  },
-  {
-    "chainId": 1,
-    "name": "Alpha Coin",
-    "address": "0x138c2f1123cf3f82e4596d097c118eac6684940b",
-    "decimals": 18,
-    "symbol": "ALPHA",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/16794.png"
   },
   {
     "chainId": 1,
@@ -11413,6 +11421,14 @@
     "decimals": 18,
     "symbol": "JEFF",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28509.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x1a91b61e884ddd93a0aa83cd6908a4bc07e6f3eb",
+    "name": "Athene Network",
+    "symbol": "ATN",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/54594/thumb/atn-logo.jpg?1740569495"
   },
   {
     "chainId": 1,
@@ -29075,6 +29091,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x440017a1b021006d556d7fc06a54c32e42eb745b",
+    "name": "Graphite Network",
+    "symbol": "G",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54587/thumb/Logo.jpg?1740555504"
+  },
+  {
+    "chainId": 1,
     "name": "VN.Finance",
     "address": "0x44001a5656baafa5a3359ced8fa38e150a71eea2",
     "decimals": 18,
@@ -42271,6 +42295,14 @@
     "decimals": 18,
     "symbol": "BOX",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2945.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Eefs",
+    "address": "0x63f718c15f4500326dd5015f95ccbde770ad21af",
+    "decimals": 18,
+    "symbol": "EEFS",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/35890.png"
   },
   {
     "chainId": 1,
@@ -62738,14 +62770,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x94e9eb8b5ab9fd6b9ea3169d55ffade62a01702e",
-    "name": "BreederDAO",
-    "symbol": "BREED",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/25203/thumb/BreederDAO-Breed_Token-FINAL.png?1696524347"
-  },
-  {
-    "chainId": 1,
     "name": "NoblessCoin",
     "address": "0x94eb98db969124178189bb765beaa2fd36f1c5a4",
     "decimals": 18,
@@ -64374,14 +64398,6 @@
     "symbol": "AUSDC",
     "decimals": 6,
     "logoURI": "https://assets.coingecko.com/coins/images/32847/thumb/usdc_%281%29.png?1699619355"
-  },
-  {
-    "chainId": 1,
-    "address": "0x98c26b1768e95d40cc77ace1b6fa77a13fffd963",
-    "name": "DASIA",
-    "symbol": "DASIA",
-    "decimals": 4,
-    "logoURI": "https://assets.coingecko.com/coins/images/39487/thumb/DASIA_Logo_200x200.png?1722483471"
   },
   {
     "chainId": 1,
@@ -77352,6 +77368,14 @@
   },
   {
     "chainId": 1,
+    "name": "Troller Cat",
+    "address": "0xb9a63f385065c7394681017ebbd59f76a5e3627d",
+    "decimals": 18,
+    "symbol": "TCAT",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/35882.png"
+  },
+  {
+    "chainId": 1,
     "name": "Neural AI",
     "address": "0xb9c255c115636d8cbe107fc953364b243cacdbce",
     "decimals": 18,
@@ -78061,6 +78085,14 @@
     "decimals": 18,
     "symbol": "SHS",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/27212.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xbb51e2a15a9158ebe2b0ceb8678511e063ab7a55",
+    "name": "Midas mEDGE",
+    "symbol": "MEDGE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54591/thumb/medge_logo.png?1740565725"
   },
   {
     "chainId": 1,
@@ -113410,11 +113442,27 @@
   },
   {
     "chainId": 8453,
+    "address": "0x2816a491dd0b7a88d84cbded842a618e59016888",
+    "symbol": "LONG",
+    "name": "LONG",
+    "decimals": 18,
+    "logoURI": "ipfs://QmUfrmjzKaisQ9BWBPtbjWWyDGfpaZLWD3PsvhdTQHNrRz"
+  },
+  {
+    "chainId": 8453,
     "address": "0x2828282410eb4bf5afe09f24b37a03a6ae693bcb",
     "symbol": "S9",
     "name": "S9",
     "decimals": 18,
     "logoURI": "ipfs://QmYeZJAPsdGEDXvPEBK2VzL7Ns2GEpxdChVKWs3Rz1hYBW"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x287f0d88e29a3d7aeb4d0c10bae5b902db69b17d",
+    "symbol": "EPOCH",
+    "name": "Epoch",
+    "decimals": 18,
+    "logoURI": "ipfs://QmWrLpjEnBUJDhVLWRF5w3SreH6FqUaUXsev9mbPXvEGkz"
   },
   {
     "chainId": 8453,
@@ -113706,6 +113754,14 @@
   },
   {
     "chainId": 8453,
+    "address": "0x4a4200947ad71ba4eb5ffeff10cc603a17af2f95",
+    "symbol": "BELL",
+    "name": "Bell Curve Money",
+    "decimals": 18,
+    "logoURI": "ipfs://QmVJ7d3c2GCTUWyAbyC2HzftFvRTG1gn2sdq4FnC5QKmMb"
+  },
+  {
+    "chainId": 8453,
     "address": "0x4a506181f07da5ddfda4ca4c2fa4c67001db94b4",
     "symbol": "Dyl",
     "name": "Dyl",
@@ -113727,6 +113783,14 @@
     "name": "Brett Is Based",
     "decimals": 18,
     "logoURI": "ipfs://QmdbWAHBxbX2o7n9MgmugYUiNhCJDomz5n4rQJyMvT92Xg"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x4dfbd8a695baf78ebf8f905a4527020e844b278d",
+    "symbol": "BACK",
+    "name": "We're so back",
+    "decimals": 18,
+    "logoURI": "ipfs://QmVYn9dAmRrS4kG8S51oMzgRkasjDmqzSdowzhnB6FuU2t"
   },
   {
     "chainId": 8453,
@@ -114098,6 +114162,14 @@
   },
   {
     "chainId": 8453,
+    "address": "0x85e90a5430af45776548adb82ee4cd9e33b08077",
+    "symbol": "DINO",
+    "name": "DINO",
+    "decimals": 18,
+    "logoURI": "ipfs://QmYgWphvk96c9JhxKR7NuiY1TuFTBufiE9TAFKaJMGbWCy"
+  },
+  {
+    "chainId": 8453,
     "address": "0x875ee70143fca7d78e03ee6b13a2b0d68be4af0c",
     "symbol": "PAWTH",
     "name": "Pawthereum",
@@ -114218,6 +114290,14 @@
   },
   {
     "chainId": 8453,
+    "address": "0x968d6a288d7b024d5012c0b25d67a889e4e3ec19",
+    "symbol": "INT",
+    "name": "Internet",
+    "decimals": 18,
+    "logoURI": "ipfs://QmNvuiMSN1EhQgcVFzHgJm9i4pwQja36vT2AZCRco8a14M"
+  },
+  {
+    "chainId": 8453,
     "address": "0x9880dc78d805f71fc761ce2dafd384ddbd26cec3",
     "symbol": "COAI",
     "name": "COTI AI Agents",
@@ -114303,6 +114383,14 @@
     "name": "The Original Base",
     "decimals": 18,
     "logoURI": "ipfs://Qma2eVVZyySRyYu1mBGQHJPKukhmAr6vicFQtTbUEVZukc"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xa19328fb05ce6fd204d16c2a2a98f7cf434c12f4",
+    "symbol": "L2VE",
+    "name": "L2VE",
+    "decimals": 18,
+    "logoURI": "ipfs://QmYysqTawL7jSfRV4vy1GucWcqVo8svB44dq4pstNPirmN"
   },
   {
     "chainId": 8453,
@@ -114578,6 +114666,14 @@
   },
   {
     "chainId": 8453,
+    "address": "0xbfabe191449a1549a0be6f5c0aa09affecbebc32",
+    "symbol": "HCAT",
+    "name": "Hover Cat",
+    "decimals": 18,
+    "logoURI": "ipfs://QmQySBZ2T1JiBm9KogtfRGgR6LV9d1sYdasBHD3KYPgScj"
+  },
+  {
+    "chainId": 8453,
     "address": "0xbfd5206962267c7b4b4a8b3d76ac2e1b2a5c4d5e",
     "symbol": "OSAK",
     "name": "Osaka Protocol",
@@ -114807,6 +114903,22 @@
     "name": "BicOnBase",
     "decimals": 18,
     "logoURI": "ipfs://Qmei5VqGgAqNSp4oifFKvMQGdYQ2ppFoPjpmHf2hYduqcx"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xef8a84eb92afd22a115d5e81b2c3c605b866f044",
+    "symbol": "BEBE",
+    "name": "Bebe",
+    "decimals": 18,
+    "logoURI": "ipfs://QmR4s9HecKBzWPaphuW4WjEMbN2NCuo4gHNe6WwrWMdEZZ"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xf086206423f9e9686192bee98c042131d7bc1336",
+    "symbol": "DOGNUS",
+    "name": "DOGNUS",
+    "decimals": 18,
+    "logoURI": "ipfs://QmaqSVH2Xge9G2nSQoXHbtx3rFQdwPye5DP8n8Ybj6DHqQ"
   },
   {
     "chainId": 8453,
