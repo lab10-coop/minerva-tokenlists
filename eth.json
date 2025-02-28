@@ -3443,7 +3443,7 @@
     "chainId": 1,
     "address": "0x075f23b9cdfce2cc0ca466f4ee6cb4bd29d83bef",
     "name": "Pundi AIFX",
-    "symbol": "PUNDAI",
+    "symbol": "PUNDIAI",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/54579/thumb/pundiai.jpg?1740538459"
   },
@@ -10473,6 +10473,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x188d12eb13a5eadd0867074ce8354b1ad6f4790b",
+    "name": "CoinDesk DeFi Select Index",
+    "symbol": "DFX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54604/thumb/2e9cc244-ba69-4965-930b-226c2829c6b6.jpg?1740639795"
+  },
+  {
+    "chainId": 1,
     "name": "Lithium",
     "address": "0x188e817b02e635d482ae4d81e25dda98a97c4a42",
     "decimals": 18,
@@ -11424,11 +11432,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x1a91b61e884ddd93a0aa83cd6908a4bc07e6f3eb",
     "name": "Athene Network",
-    "symbol": "ATN",
+    "address": "0x1a91b61e884ddd93a0aa83cd6908a4bc07e6f3eb",
     "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/54594/thumb/atn-logo.jpg?1740569495"
+    "symbol": "ATN",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/35897.png"
   },
   {
     "chainId": 1,
@@ -13857,14 +13865,6 @@
     "decimals": 18,
     "symbol": "1AI",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/5105.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x208bcf9cd1d694d1d3c630362e517940e3724d80",
-    "name": "ORACLE",
-    "symbol": "ORACLE",
-    "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/32234/thumb/qlasify_%281%29.jpg?1696936966"
   },
   {
     "chainId": 1,
@@ -35222,7 +35222,7 @@
     "name": "Backed IBTA   Treasury Bond 1 3yr",
     "symbol": "BIBTA",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/31880/thumb/b-IBTA-200x200.png?1696530692"
+    "logoURI": "https://assets.coingecko.com/coins/images/31880/thumb/200p_bIBTA_3.png?1740625665"
   },
   {
     "chainId": 1,
@@ -35655,6 +35655,14 @@
     "decimals": 9,
     "symbol": "LUFFY",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/23977.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Neutral AI",
+    "address": "0x540564612cd5db28d985b76088cc0c80ce144d88",
+    "decimals": 18,
+    "symbol": "USDN",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/35904.png"
   },
   {
     "chainId": 1,
@@ -44858,6 +44866,14 @@
   },
   {
     "chainId": 1,
+    "name": "IntelMarkets",
+    "address": "0x695cfe71e149b75bee7c844427956277c709f866",
+    "decimals": 18,
+    "symbol": "INTL",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/35895.png"
+  },
+  {
+    "chainId": 1,
     "name": "Meme Ai",
     "address": "0x695d38eb4e57e0f137e36df7c1f0f2635981246b",
     "decimals": 9,
@@ -47738,14 +47754,6 @@
   },
   {
     "chainId": 1,
-    "name": "AQTIS",
-    "address": "0x6ff2241756549b5816a177659e766eaf14b34429",
-    "decimals": 18,
-    "symbol": "AQTIS",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/24524.png"
-  },
-  {
-    "chainId": 1,
     "name": "TrumpTitans",
     "address": "0x6ff70a2c76da8fe721a881c1f52d82889d8c19ac",
     "decimals": 9,
@@ -47935,6 +47943,14 @@
     "decimals": 18,
     "symbol": "CHANGE",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/21077.png"
+  },
+  {
+    "chainId": 1,
+    "name": "PALCOIN Venture Capital",
+    "address": "0x705d0deca6ce8f16c31bc510708a8512d25011b3",
+    "decimals": 4,
+    "symbol": "PALCOIN",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/35901.png"
   },
   {
     "chainId": 1,
@@ -71353,11 +71369,11 @@
   },
   {
     "chainId": 1,
-    "address": "0xa9f94f19abf3089d535b1de2cc058a365ea716c7",
     "name": "AITA",
-    "symbol": "AITA",
+    "address": "0xa9f94f19abf3089d535b1de2cc058a365ea716c7",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/29910/thumb/aita.png?1736744705"
+    "symbol": "AITA",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/24524.png"
   },
   {
     "chainId": 1,
@@ -72869,7 +72885,7 @@
     "name": "Backed ZPR1   1 3 Month T Bill",
     "symbol": "BZPR1",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/32867/thumb/b-ZPR1-200x200.png?1699671603"
+    "logoURI": "https://assets.coingecko.com/coins/images/32867/thumb/200p_bZPR1_3.png?1740625704"
   },
   {
     "chainId": 1,
@@ -79288,14 +79304,6 @@
   },
   {
     "chainId": 1,
-    "address": "0xbe1bc2e2338defcd88e7f9f5f745ddb222180ab9",
-    "name": "TeSo",
-    "symbol": "TESO",
-    "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/31329/thumb/8A255A9F-4860-4D3C-9CDF-A20DC488FD7A.jpeg?1696530148"
-  },
-  {
-    "chainId": 1,
     "name": "Massive Protocol",
     "address": "0xbe1dbe6741fb988fb571ab1e28cffb36e3c62629",
     "decimals": 18,
@@ -79733,14 +79741,6 @@
     "decimals": 9,
     "symbol": "BEEF",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/32281.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xbeef69ac7870777598a04b2bd4771c71212e6abc",
-    "name": "Steakhouse Resteaking Vault",
-    "symbol": "STEAKLRT",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/39410/thumb/Steakhouse_logo-05.jpg?1722053893"
   },
   {
     "chainId": 1,
@@ -81921,6 +81921,14 @@
     "decimals": 9,
     "symbol": "SVX",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/9109.png"
+  },
+  {
+    "chainId": 1,
+    "name": "RedStone",
+    "address": "0xc43c6bfeda065fe2c4c11765bf838789bd0bb5de",
+    "decimals": 18,
+    "symbol": "RED",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/21707.png"
   },
   {
     "chainId": 1,
@@ -95867,11 +95875,11 @@
   },
   {
     "chainId": 1,
-    "address": "0xe7dee4823ee18f1347f1cf7997f70b94efde2e1f",
     "name": "Form",
-    "symbol": "FORM",
+    "address": "0xe7dee4823ee18f1347f1cf7997f70b94efde2e1f",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/54560/thumb/FORM_token_CoinGecko.png?1740362675"
+    "symbol": "FORM",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/35896.png"
   },
   {
     "chainId": 1,

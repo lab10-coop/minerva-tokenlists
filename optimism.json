@@ -1969,6 +1969,19 @@
   },
   {
     "chainId": 1,
+    "address": "0x6bdde71cf0c751eb6d5edb8418e43d3d9427e436",
+    "name": "BTREE",
+    "symbol": "BTREE",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/BTREE/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "opListId": "extended",
+      "opTokenId": "BTREE"
+    }
+  },
+  {
+    "chainId": 1,
     "address": "0x6dea81c8171d0ba574754ef6f8b412f2ed88c54d",
     "name": "LQTY",
     "symbol": "LQTY",
@@ -4287,6 +4300,7 @@
     "logoURI": "https://ethereum-optimism.github.io/data/SHU/logo.png",
     "extensions": {
       "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1",
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
       "opListId": "extended",
       "opTokenId": "SHU"
     }
@@ -9393,6 +9407,19 @@
   },
   {
     "chainId": 8453,
+    "address": "0x4acff883f2879e69e67b7003ccec56c73ee41f6f",
+    "name": "BTREE",
+    "symbol": "BTREE",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/BTREE/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "BTREE"
+    }
+  },
+  {
+    "chainId": 8453,
     "address": "0x4c94de27c94962dba6ebb77924ac54189db75efa",
     "name": "Wrapped eETH",
     "symbol": "weETH",
@@ -9709,6 +9736,19 @@
       "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "extended",
       "opTokenId": "SNT"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0x6774dfc16e1d9b6ce5b0aec4ffed37a0daef0602",
+    "name": "Shutter Token",
+    "symbol": "SHU",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/SHU/logo.png",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "SHU"
     }
   },
   {
