@@ -49514,7 +49514,7 @@
   },
   {
     "chainId": 1,
-    "name": "IX Swap",
+    "name": "IXS",
     "address": "0x73d7c860998ca3c01ce8c808f5577d94d545d1b4",
     "decimals": 18,
     "symbol": "IXS",
@@ -58935,6 +58935,14 @@
     "decimals": 18,
     "symbol": "CHUPE",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/25291.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x8b7cf3a97c1f840bcf490dfd7d6a16a96dd5dd0c",
+    "name": "Quick Sync",
+    "symbol": "QS",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/54612/thumb/Icon_Black.jpg?1740707473"
   },
   {
     "chainId": 1,
@@ -83894,7 +83902,7 @@
     "chainId": 1,
     "name": "Ignition",
     "address": "0xc96de26018a54d51c097160568752c4e3bd6c364",
-    "decimals": 8,
+    "decimals": 18,
     "symbol": "FBTC",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/32306.png"
   },
@@ -94939,6 +94947,14 @@
   },
   {
     "chainId": 1,
+    "name": "BitcoinBR",
+    "address": "0xe57425f1598f9b0d6219706b77f4b3da573a3695",
+    "decimals": 18,
+    "symbol": "BTCBR",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/16251.png"
+  },
+  {
+    "chainId": 1,
     "name": "SafeMoon V2",
     "address": "0xe574c0c33a7a67d9b09f9f0addbb3dca71a8f3e0",
     "decimals": 18,
@@ -103234,7 +103250,7 @@
   },
   {
     "chainId": 1,
-    "name": "Falcon Finance",
+    "name": "Falcon USD",
     "address": "0xfa2b947eec368f42195f24f36d2af29f7c24cec2",
     "decimals": 18,
     "symbol": "USDf",
@@ -113250,6 +113266,14 @@
   },
   {
     "chainId": 8453,
+    "address": "0x1308ae20e66e43d575a76b5dfb30771a50c9256a",
+    "symbol": "BFROG",
+    "name": "BaseFrog",
+    "decimals": 18,
+    "logoURI": "ipfs://QmWoUVb76qsJJxEy31rhUkri4viB6r73XmybbwhAGxXkQb"
+  },
+  {
+    "chainId": 8453,
     "address": "0x14daf26c2507acdd3b64e3302d8554611026cc40",
     "symbol": "MUST",
     "name": "Cool Mustache",
@@ -113599,6 +113623,14 @@
     "name": "Fuego",
     "decimals": 18,
     "logoURI": "ipfs://QmRhyftZrHp496eCJ5Tauyx83XCMLC1C5uP66Tcs41K6Qa"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x373504da48418c67e6fcd071f33cb0b3b47613c7",
+    "symbol": "wBaseDOGE",
+    "name": "Wrapped BaseDOGE",
+    "decimals": 18,
+    "logoURI": "ipfs://QmdzUybaE7TnQKWijvj23qAgDAWcG9g1XdyYvUoz3SFSpw"
   },
   {
     "chainId": 8453,
@@ -114010,6 +114042,14 @@
   },
   {
     "chainId": 8453,
+    "address": "0x67040bb0ad76236ddd5d156d23ec920a089d1eac",
+    "symbol": "lower",
+    "name": "lower",
+    "decimals": 18,
+    "logoURI": "ipfs://QmfPf5nfFynwTiDtWB4axasx1Z2VA9tryq3jhGvW2tinRR"
+  },
+  {
+    "chainId": 8453,
     "address": "0x6776caccfdcd0dfd5a38cb1d0b3b39a4ca9283ce",
     "symbol": "NOM",
     "name": "nomad",
@@ -114047,6 +114087,14 @@
     "name": "impactMarket",
     "decimals": 18,
     "logoURI": "ipfs://QmZSf3fMZa3bkGszKAyauBWAGUXCYxN75qU8guUqWzcZNY"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x728f0a7fec1859cb0d71a432271d4e80310d235f",
+    "symbol": "POGS",
+    "name": "PogCoin",
+    "decimals": 18,
+    "logoURI": "ipfs://QmcVe6LnEv4B3EtjziCVdvxhQp2nWBKnTHCf9nvk3am6QZ"
   },
   {
     "chainId": 8453,
@@ -114095,6 +114143,14 @@
     "name": "BaseSwap",
     "decimals": 18,
     "logoURI": "ipfs://QmaHZa1Zr7Rk8PYvKr3AqGH4G7i3iRNYEMgKnXtZDPdgh6"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x7aef64e5997a81f695e0bc951ca874afccd4d1e1",
+    "symbol": "OVER",
+    "name": "It's so over",
+    "decimals": 18,
+    "logoURI": "ipfs://QmTYZQvYy4cK2aG5McjmqCzLY3pmT8Sgv8WSzxhFFwdxoS"
   },
   {
     "chainId": 8453,
