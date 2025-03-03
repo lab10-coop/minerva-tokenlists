@@ -25796,14 +25796,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x3c72fca8523686fd9e5740b0826fa4bb376e0241",
-    "name": "300FIT",
-    "symbol": "FIT",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/9690/thumb/6mkyI4Ss_400x400.png?1696509759"
-  },
-  {
-    "chainId": 1,
     "name": "Dogtick",
     "address": "0x3c79eb9d7a76f4eb7b2a5286aacfbbd4feabe79a",
     "decimals": 18,
@@ -54418,6 +54410,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x80ac24aa929eaf5013f6436cda2a7ba190f5cc0b",
+    "name": "SyrupUSDC",
+    "symbol": "SYRUPUSDC",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/54658/thumb/syrup_logo-_200x200.jpg?1740895597"
+  },
+  {
+    "chainId": 1,
     "name": "DogDeFiCoin",
     "address": "0x80bb277f4355a43cdbb86a82f9876c946476d9eb",
     "decimals": 18,
@@ -57223,6 +57223,14 @@
     "decimals": 18,
     "symbol": "PFID",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7043.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x87c9053c819bb28e0d73d33059e1b3da80afb0cf",
+    "name": "Midas mRe7YIELD",
+    "symbol": "MRE7YIELD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54660/thumb/mre7yield_logo.png?1740896178"
   },
   {
     "chainId": 1,
@@ -64262,6 +64270,14 @@
     "decimals": 18,
     "symbol": "LQDR",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/13246.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x98509e66fbf5a68d18ebb01dc4a52ce020fc8d1f",
+    "name": "MUMUBIT TOKEN",
+    "symbol": "MCTP",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54654/thumb/mctp.jpeg?1740892679"
   },
   {
     "chainId": 1,
@@ -113346,6 +113362,14 @@
   },
   {
     "chainId": 8453,
+    "address": "0x1cd38856ee0fdfd65c757e530e3b1de3061008d3",
+    "symbol": "GROOVE",
+    "name": "GROOVE",
+    "decimals": 18,
+    "logoURI": "ipfs://QmR9Vy7RhvZyjZzBAnA9h9NFBgMnby38EA4qNW2zXiKcPY"
+  },
+  {
+    "chainId": 8453,
     "address": "0x1dd2d631c92b1acdfcdd51a0f7145a50130050c4",
     "symbol": "ALB",
     "name": "AlienBase",
@@ -113730,6 +113754,14 @@
   },
   {
     "chainId": 8453,
+    "address": "0x420b0fa3de2efcf2b2fd04152eb1df36a09717cd",
+    "symbol": "KING",
+    "name": "King Of Memes",
+    "decimals": 18,
+    "logoURI": "ipfs://QmZ83PFeCJfRkUrK6XykyrEgBo6sPWuHh265NttVw9fDZn"
+  },
+  {
+    "chainId": 8453,
     "address": "0x426ee0a5dc852a88683ae1fc1a1fb526d3f260d9",
     "symbol": "SIMBA",
     "name": "Simba Cat",
@@ -113799,6 +113831,14 @@
     "name": "Dyl",
     "decimals": 18,
     "logoURI": "ipfs://QmNy8FMD3Xu891cdT58spTgrwJkXGpFm261U4SAKH8nvQc"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x4b1265ef6c7500983acaf99cb7a94bbf0dd1cca4",
+    "symbol": "SOAP",
+    "name": "BASED SBF WIF SOAP",
+    "decimals": 18,
+    "logoURI": "ipfs://QmdEPtkNchULTNninxGvR3RsfdZsWcWuh6YVGJBVRXaQ2o"
   },
   {
     "chainId": 8453,
@@ -113943,6 +113983,14 @@
     "name": "XRGB",
     "decimals": 18,
     "logoURI": "ipfs://QmSJsbEMxvP5enCgjAoFKAYZ99rJ3HXgfkr7QUYALPgARr"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x5e432eecd01c12ee7071ee9219c2477a347da192",
+    "symbol": "ARQX",
+    "name": "ARQx AI",
+    "decimals": 18,
+    "logoURI": "ipfs://Qme3DHbxDTjpCH9W6BnVU1HnJ3QNntvQzFoVb9HhKwam7M"
   },
   {
     "chainId": 8453,
@@ -114282,6 +114330,14 @@
   },
   {
     "chainId": 8453,
+    "address": "0x8ad5b9007556749de59e088c88801a3aaa87134b",
+    "symbol": "FARTHER",
+    "name": "Farther",
+    "decimals": 18,
+    "logoURI": "ipfs://QmaWDAuFGbi3jEgK46SqTEZhhzi7amFDSKBHv55RzudrU6"
+  },
+  {
+    "chainId": 8453,
     "address": "0x8c23e759ca0822beeff603bacaceb16d84e9a1cf",
     "symbol": "AAAI",
     "name": "AAAI_agent by Virtuals",
@@ -114327,6 +114383,14 @@
     "name": "PEPCAT",
     "decimals": 18,
     "logoURI": "ipfs://QmYkecbgupruZawUg4gqd2RC2STaig3kuniJtQi2LyqR3Z"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x92fb1b7d9730b2f1bd4e2e91368c1eb6fdd2a009",
+    "symbol": "JOGECO",
+    "name": "Jogeco Dog",
+    "decimals": 9,
+    "logoURI": "ipfs://QmfQTpU4kn1eUYoaKzVurp6STw78ptM9oTZE8zoN6wAZ2G"
   },
   {
     "chainId": 8453,
@@ -114447,6 +114511,14 @@
     "name": "L2VE",
     "decimals": 18,
     "logoURI": "ipfs://QmYysqTawL7jSfRV4vy1GucWcqVo8svB44dq4pstNPirmN"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xa1ebb0922a7f43df50b34ad9bf2f602f88aab869",
+    "symbol": "TICKLE",
+    "name": "TICKLE",
+    "decimals": 18,
+    "logoURI": "ipfs://QmQ5CZt4rixxmeKX7SRYk2eYWEDja8j6WpqvnKQTnGdRg3"
   },
   {
     "chainId": 8453,
@@ -114615,6 +114687,14 @@
     "name": "Rocket Pool ETH",
     "decimals": 18,
     "logoURI": "ipfs://QmRqLBdZaA2oSr7yWVmwdSyj5HwixHMWRpyKw8QyAQTgRz"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb95fb324b8a2faf8ec4f76e3df46c718402736e2",
+    "symbol": "UNIT",
+    "name": "Flat Money",
+    "decimals": 18,
+    "logoURI": "ipfs://QmbmX6wMC1GTULPurqazGPBPUko2441P2TP5DViaHeCBXb"
   },
   {
     "chainId": 8453,
@@ -114842,6 +114922,14 @@
   },
   {
     "chainId": 8453,
+    "address": "0xd379002f26ce895d5c5095acb19afba92942c0cf",
+    "symbol": "ROBO",
+    "name": "the meme of the future",
+    "decimals": 18,
+    "logoURI": "ipfs://QmTSCjgx6J9q2Ve8YsF2U7PkxzHAxrDE3QwkrTC8AAgirx"
+  },
+  {
+    "chainId": 8453,
     "address": "0xd5046b976188eb40f6de40fb527f89c05b323385",
     "symbol": "BSX",
     "name": "BaseX",
@@ -114935,6 +115023,14 @@
     "name": "Green Life Energy",
     "decimals": 18,
     "logoURI": "ipfs://QmcdAZV3FsXToRBYY4zNnPpfDtjhmLDjCMD7aHekzfne15"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xed1779845520339693cdbffec49a74246e7d671b",
+    "symbol": "SAM",
+    "name": "SAMURAI",
+    "decimals": 18,
+    "logoURI": "ipfs://QmPgqDPS3Q6b7CVc35mbnTMGjtwcnCJRbxLgpC2CWnCByJ"
   },
   {
     "chainId": 8453,
