@@ -3441,11 +3441,11 @@
   },
   {
     "chainId": 1,
+    "name": "Pundi AI",
     "address": "0x075f23b9cdfce2cc0ca466f4ee6cb4bd29d83bef",
-    "name": "Pundi AIFX",
-    "symbol": "PUNDIAI",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/54579/thumb/pundiai.jpg?1740538459"
+    "symbol": "PUNDIAI",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/35943.png"
   },
   {
     "chainId": 1,
@@ -17945,6 +17945,14 @@
     "decimals": 18,
     "symbol": "TOKA",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29070.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x2a897de60073e13c1f34f672033c1c1d08657fbb",
+    "name": "Dawae",
+    "symbol": "DAWAE",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/54403/thumb/IMG_0775.png?1739519972"
   },
   {
     "chainId": 1,
@@ -50562,11 +50570,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x76887cb94cf29ec539b3219ba62104be04f26a5c",
     "name": "Nitro",
-    "symbol": "NITRO",
+    "address": "0x76887cb94cf29ec539b3219ba62104be04f26a5c",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/53851/thumb/Nitro.jpg?1737595725"
+    "symbol": "NITRO",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/35942.png"
   },
   {
     "chainId": 1,
@@ -54690,6 +54698,14 @@
   },
   {
     "chainId": 1,
+    "name": "Reactive Network",
+    "address": "0x817162975186d4d53dbf5a7377dd45376e2d2fc5",
+    "decimals": 18,
+    "symbol": "REACT",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/35934.png"
+  },
+  {
+    "chainId": 1,
     "name": "Nomad",
     "address": "0x81745d19325d8f986006351b0d9a3d7a04220d3c",
     "decimals": 18,
@@ -58698,11 +58714,11 @@
   },
   {
     "chainId": 1,
-    "name": "dogwifhat",
     "address": "0x8aec4bbdcfb451aa289bfbd3c2f4e34a44ada1be",
-    "decimals": 9,
+    "name": "dogwifhat Eth",
     "symbol": "DOGWIFHAT",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29311.png"
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/35029/thumb/dogwifhat_Eth.png?1707155488"
   },
   {
     "chainId": 1,
@@ -59282,7 +59298,7 @@
   },
   {
     "chainId": 1,
-    "name": "Pundi AI",
+    "name": "Function X",
     "address": "0x8c15ef5b4b21951d50e53e4fbda8298ffad25057",
     "decimals": 18,
     "symbol": "FX",
