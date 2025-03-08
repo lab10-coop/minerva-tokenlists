@@ -217,11 +217,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x0000206329b97db379d5e1bf586bbdb969c63274",
     "name": "USDA",
-    "symbol": "USDA",
+    "address": "0x0000206329b97db379d5e1bf586bbdb969c63274",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/34510/thumb/agUSD-coingecko.png?1705288392"
+    "symbol": "USDA",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/35965.png"
   },
   {
     "chainId": 1,
@@ -3713,6 +3713,14 @@
   },
   {
     "chainId": 1,
+    "name": "Bananatok",
+    "address": "0x07eef7c8db33b69b7a541829bb988c745e3ca16c",
+    "decimals": 18,
+    "symbol": "BNA",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/5792.png"
+  },
+  {
+    "chainId": 1,
     "name": "Chimpion",
     "address": "0x07ef9e82721ac16809d24dafbe1792ce01654db4",
     "decimals": 18,
@@ -5214,6 +5222,14 @@
     "decimals": 18,
     "symbol": "CAMO",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/6642.png"
+  },
+  {
+    "chainId": 1,
+    "name": "CLOUDAI",
+    "address": "0x0bb982ef1782031042ef934aafee4a3865dae7ce",
+    "decimals": 18,
+    "symbol": "CLAI",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/27277.png"
   },
   {
     "chainId": 1,
@@ -13868,11 +13884,11 @@
   },
   {
     "chainId": 1,
-    "name": "Bananatok",
     "address": "0x20910e5b5f087f6439dfcb0dda4e27d1014ac2b8",
-    "decimals": 18,
+    "name": "BananaTok",
     "symbol": "BNA",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/5792.png"
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/10289/thumb/sMCxdYBa_400x400.jpg?1696510295"
   },
   {
     "chainId": 1,
@@ -20033,6 +20049,14 @@
     "symbol": "SCRATCH",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/52943/thumb/scratch200trans.png?1734768772"
+  },
+  {
+    "chainId": 1,
+    "name": "BinoFI",
+    "address": "0x2faba2b7de630a426f252431ffad0b28c5a65fe2",
+    "decimals": 18,
+    "symbol": "BINO",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/35968.png"
   },
   {
     "chainId": 1,
@@ -35571,7 +35595,7 @@
   {
     "chainId": 1,
     "address": "0x53cce6d10e43d1b3d11872ad22ec2acd8d2537b8",
-    "name": "Smolcoin",
+    "name": "SMOL",
     "symbol": "SMOL",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/54182/thumb/smolcoin_%281%29.png?1738667346"
@@ -49002,6 +49026,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x72b658bd674f9c2b4954682f517c17d14476e417",
+    "name": "opTrade AI",
+    "symbol": "OPTR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54757/thumb/opTrade_AI.png?1741374147"
+  },
+  {
+    "chainId": 1,
     "address": "0x72b886d09c117654ab7da13a14d603001de0b777",
     "name": "XDEFI",
     "symbol": "XDEFI",
@@ -58162,6 +58194,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x89a8c847f41c0dfa6c8b88638bacca8a0b777da7",
+    "name": "Elixir",
+    "symbol": "ELX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/30711/thumb/ELX_logo_%281%29.png?1741217569"
+  },
+  {
+    "chainId": 1,
     "name": "pNetwork",
     "address": "0x89ab32156e46f46d02ade3fecbe5fc4243b9aaed",
     "decimals": 18,
@@ -60287,14 +60327,6 @@
     "decimals": 9,
     "symbol": "MAGAPEPE",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/31554.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x8e81d527f8fa05d82c514401c8144275174557cd",
-    "name": " CCB    ",
-    "symbol": "CCB",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/34797/thumb/CCB_200x200px.jpg?1711028027"
   },
   {
     "chainId": 1,
@@ -70654,14 +70686,6 @@
     "decimals": 6,
     "symbol": "SNL",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3977.png"
-  },
-  {
-    "chainId": 1,
-    "name": "CLOUDAI",
-    "address": "0xa80876ea838d4ba7d26b0875c6a2be696fe05805",
-    "decimals": 18,
-    "symbol": "CLOUD",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/27277.png"
   },
   {
     "chainId": 1,
@@ -83468,6 +83492,14 @@
   },
   {
     "chainId": 1,
+    "name": "USD1",
+    "address": "0xc824bf014539f6bde6b81abaaca0d626c2ac5985",
+    "decimals": 18,
+    "symbol": "USD1",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/35969.png"
+  },
+  {
+    "chainId": 1,
     "name": "ARC",
     "address": "0xc82e3db60a52cf7529253b4ec688f631aad9e7c2",
     "decimals": 18,
@@ -91083,6 +91115,14 @@
   },
   {
     "chainId": 1,
+    "address": "0xdac070102b0cfde1493026454c9c608924f6db71",
+    "name": "POPG",
+    "symbol": "POPG",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54752/thumb/logo_200x200.png?1741337502"
+  },
+  {
+    "chainId": 1,
     "name": "Tether USDt",
     "address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
     "decimals": 18,
@@ -91142,7 +91182,7 @@
     "name": "Truth",
     "address": "0xdae0fafd65385e7775cf75b1398735155ef6acd2",
     "decimals": 10,
-    "symbol": "TRU",
+    "symbol": "TRUU",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/35829.png"
   },
   {
@@ -92524,7 +92564,7 @@
   {
     "chainId": 1,
     "address": "0xdec933e2392ad908263e70a386fbf34e703ffe8f",
-    "name": "Wrapped bCOIN",
+    "name": "Wrapped Backed Coinbase Global",
     "symbol": "WBCOIN",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/54429/thumb/bCOIN_200p.png?1740041341"
@@ -96267,7 +96307,7 @@
   },
   {
     "chainId": 1,
-    "name": "Mystiko Network",
+    "name": "Expand",
     "address": "0xe8fc52b1bb3a40fd8889c0f8f75879676310ddf0",
     "decimals": 18,
     "symbol": "XZK",
