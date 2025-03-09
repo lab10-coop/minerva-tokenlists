@@ -21892,14 +21892,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x3392d8a60b77f8d3eaa4fb58f09d835bd31add29",
-    "name": "IndiGG",
-    "symbol": "INDI",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/23857/thumb/https___bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com_public_images_0cb39c1f-db6d-4dd9-9143-1f30ee38d74d_743x726.jpeg?1696523058"
-  },
-  {
-    "chainId": 1,
     "name": "STCoin",
     "address": "0x3394f112f6f985591d160a3bd9f2c6e1722280f5",
     "decimals": 18,
@@ -28361,6 +28353,14 @@
     "symbol": "ISIKC",
     "decimals": 4,
     "logoURI": "https://assets.coingecko.com/coins/images/10992/thumb/logo_%2866%29.png?1696510941"
+  },
+  {
+    "chainId": 1,
+    "name": "Aegis YUSD",
+    "address": "0x4274cd7277c7bb0806bd5fe84b9adae466a8da0a",
+    "decimals": 18,
+    "symbol": "YUSD",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/35976.png"
   },
   {
     "chainId": 1,
@@ -40710,7 +40710,7 @@
     "name": "Just a chill guy  ETH ",
     "symbol": "CHILLGUY",
     "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/52317/thumb/JnL0pnZS_400x400.jpg?1733076796"
+    "logoURI": "https://assets.coingecko.com/coins/images/52317/thumb/chillguy_icon_200x200.jpg?1741426676"
   },
   {
     "chainId": 1,
@@ -49359,6 +49359,14 @@
     "decimals": 18,
     "symbol": "RIBBIT",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/25560.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x736ecc5237b31edec6f1ab9a396fae2416b1d96e",
+    "name": "GASP",
+    "symbol": "GASP",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54764/thumb/gasp-mark-orange_%284%29.png?1741415044"
   },
   {
     "chainId": 1,
@@ -81112,6 +81120,14 @@
   },
   {
     "chainId": 1,
+    "address": "0xc214a0b73ce4c30594b4173219e885691254801b",
+    "name": "TOTO",
+    "symbol": "",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/54709/thumb/toto-logo.png?1741421676"
+  },
+  {
+    "chainId": 1,
     "address": "0xc21db71648b18c5b9e038d88393c9b254cf8eac8",
     "name": "EURe Real Yield Morpho Vault",
     "symbol": "ERY",
@@ -82889,14 +82905,6 @@
     "decimals": 9,
     "symbol": "STARWARS",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28051.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xc69996612249417db3407d98ea5b534faa0e90a7",
-    "name": "Decentrashop",
-    "symbol": "DXS",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/39018/thumb/logo_dxs_big.png?1719936824"
   },
   {
     "chainId": 1,
@@ -91163,14 +91171,6 @@
   },
   {
     "chainId": 1,
-    "address": "0xdad33e12e61dc2f2692f2c12e6303b5ade7277ba",
-    "name": "Brewlabs  OLD ",
-    "symbol": "BREWLABS",
-    "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/21928/thumb/7xgmOCBW_400x400.jpg?1696521278"
-  },
-  {
-    "chainId": 1,
     "address": "0xdadb4ae5b5d3099dd1f586f990b845f2404a1c4c",
     "name": "Lenny Face",
     "symbol": "",
@@ -93664,6 +93664,14 @@
     "decimals": 18,
     "symbol": "$BANK",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/25427.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xe19d1c837b8a1c83a56cd9165b2c0256d39653ad",
+    "name": "Stake DAO FXN",
+    "symbol": "SDFXN",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54770/thumb/sersfsf.png?1741420732"
   },
   {
     "chainId": 1,
@@ -113610,6 +113618,14 @@
   },
   {
     "chainId": 8453,
+    "address": "0x2f299be3b081e8cd47dc56c1932fcae7a91b5dcd",
+    "symbol": "XTTA",
+    "name": "XTTA",
+    "decimals": 18,
+    "logoURI": "ipfs://QmbZtApFGvqbzsuswvjDQP5pMh9C6GKvEF5sSFcLFHPcSK"
+  },
+  {
+    "chainId": 8453,
     "address": "0x3054e8f8fba3055a42e5f5228a2a4e2ab1326933",
     "symbol": "Zuzalu",
     "name": "Zuzalu",
@@ -113770,6 +113786,14 @@
   },
   {
     "chainId": 8453,
+    "address": "0x4194f4e29d652656b6dc84f10363482c5ac101b5",
+    "symbol": "MPAA",
+    "name": "MPAA",
+    "decimals": 18,
+    "logoURI": "ipfs://QmQmVBgopPPSWetuEoz4NTYN2QXdEp9m5DNb94QPh2wAoz"
+  },
+  {
+    "chainId": 8453,
     "address": "0x4200000000000000000000000000000000000006",
     "symbol": "WETH",
     "name": "Wrapped Ether",
@@ -113815,6 +113839,22 @@
     "name": "The Pea Guy by Virtuals",
     "decimals": 18,
     "logoURI": "ipfs://QmWMaq4J5BykQF1wqCERWwLxmLKs79AvyjvsKjPiAchWtB"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x45c30fa6a2c7e031fe86e4f1cb5becfde149b980",
+    "symbol": "FREN",
+    "name": "Frens Club",
+    "decimals": 18,
+    "logoURI": "ipfs://QmRy4sojeCTstkwacmMtAoydSTaziSSF5MQRbecsjPN7cL"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x461ee40928677644b8195662ab91bcdaae6ef105",
+    "symbol": "DOOK",
+    "name": "Shoobadookie",
+    "decimals": 18,
+    "logoURI": "ipfs://Qmbyi1z7uyq7SbMtaSnThfqMNqKZxCHPq5d2Km5tTov7kk"
   },
   {
     "chainId": 8453,
@@ -114074,6 +114114,14 @@
   },
   {
     "chainId": 8453,
+    "address": "0x628c5ba9b775dacecd14e237130c537f497d1cc7",
+    "symbol": "JADE",
+    "name": "Jade",
+    "decimals": 18,
+    "logoURI": "ipfs://QmQuJ8guGvfKWPqmgJ9W8REkrkAJBPB7CBgjLbdFJCMLTN"
+  },
+  {
+    "chainId": 8453,
     "address": "0x6379219890843c0b9e3160044de072ced66baab2",
     "symbol": "SLAYER",
     "name": "ThreatSlayerAI by Virtuals",
@@ -114127,6 +114175,14 @@
     "name": "nomad",
     "decimals": 18,
     "logoURI": "ipfs://QmYDLChhurBfA1HBHT4y5sMCCQJvEPwQMtQZorR9gp2yvk"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x67ce18961c3269ca03c2e5632f1938cc53e614a1",
+    "symbol": "CRAPPY",
+    "name": "CrappyBird",
+    "decimals": 18,
+    "logoURI": "ipfs://QmWz4MLoBHLHySQxvr4QctZthS2EuR5MaJaAHp1gLk1yuS"
   },
   {
     "chainId": 8453,
@@ -114207,6 +114263,14 @@
     "name": "POLA",
     "decimals": 18,
     "logoURI": "ipfs://QmNc3ZHiFoTLT9nwuTjoYJCAwkBCpzy1dnDB6FYXvCJVJL"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x77c6986a83d5dbb6162ddf4f1747691005b4388a",
+    "symbol": "SHKK",
+    "name": "Shakaka",
+    "decimals": 18,
+    "logoURI": "ipfs://QmWrsVaUqjsKb5srCC2r1n1xVZMSdwacm3ycoRqkiGCfyo"
   },
   {
     "chainId": 8453,
@@ -114543,6 +114607,14 @@
     "name": "L2VE",
     "decimals": 18,
     "logoURI": "ipfs://QmYysqTawL7jSfRV4vy1GucWcqVo8svB44dq4pstNPirmN"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xa1bf915363b533f5991dbada8c6c42fa0ce58fb8",
+    "symbol": "SYN",
+    "name": "Syn Dog",
+    "decimals": 18,
+    "logoURI": "ipfs://QmQwzg2tQjCcVPZFPNxQ2t7mA8Gbh5fKwi7uCageF5u5o1"
   },
   {
     "chainId": 8453,
@@ -115034,6 +115106,14 @@
   },
   {
     "chainId": 8453,
+    "address": "0xe9507980a8bd4451ac0e7f6fcd3ec98b9ac83b52",
+    "symbol": "WAIFU",
+    "name": "WAIFU",
+    "decimals": 18,
+    "logoURI": "ipfs://QmUB1PYiz1mg9zzHphr6GiBNuxTTA3FNUonGLiB4y3kjKM"
+  },
+  {
+    "chainId": 8453,
     "address": "0xebf7d4d84372f5df1b5d0e3ddd889e5bc286b1c3",
     "symbol": "FX",
     "name": "Ali for fx protocol by Virtuals",
@@ -115135,6 +115215,14 @@
     "name": "Son of Brett",
     "decimals": 18,
     "logoURI": "ipfs://QmZBfBobUuVDt31i8f6VDv8UspsD1TjnZXmijsYUtN2Q4q"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xf4ffe72af996335e0140c06f23fc6b69e257deec",
+    "symbol": "WOMPWOMP",
+    "name": "sad trombone",
+    "decimals": 18,
+    "logoURI": "ipfs://QmXMszAw1t9g2AWAd9FYyeGXgLsoMmEV2P4XGoTy9zW2Kf"
   },
   {
     "chainId": 8453,
