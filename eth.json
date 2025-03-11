@@ -44378,6 +44378,14 @@
   },
   {
     "chainId": 1,
+    "name": "Ducat",
+    "address": "0x687c24313c5f7b04fc4cca2764ac0f3e1d792e2a",
+    "decimals": 18,
+    "symbol": "DUCAT",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/35987.png"
+  },
+  {
+    "chainId": 1,
     "name": "Boltt Coin ",
     "address": "0x688478f003b8d0f10b8af2122bf20378555ef958",
     "decimals": 8,
@@ -49366,7 +49374,7 @@
     "name": "GASP",
     "symbol": "GASP",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/54764/thumb/gasp-mark-orange_%284%29.png?1741415044"
+    "logoURI": "https://assets.coingecko.com/coins/images/54764/thumb/gasp-token-logo_%281%29.png?1741604450"
   },
   {
     "chainId": 1,
@@ -58202,11 +58210,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x89a8c847f41c0dfa6c8b88638bacca8a0b777da7",
     "name": "Elixir",
-    "symbol": "ELX",
+    "address": "0x89a8c847f41c0dfa6c8b88638bacca8a0b777da7",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/30711/thumb/ELX_logo_%281%29.png?1741217569"
+    "symbol": "ELX",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/26854.png"
   },
   {
     "chainId": 1,
@@ -63090,11 +63098,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x957c7fa189a408e78543113412f6ae1a9b4022c4",
     "name": "LF",
-    "symbol": "LF",
+    "address": "0x957c7fa189a408e78543113412f6ae1a9b4022c4",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/54491/thumb/Zm2W3yS2_400x400.jpg?1739996813"
+    "symbol": "LF",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/35989.png"
   },
   {
     "chainId": 1,
@@ -83508,7 +83516,7 @@
   },
   {
     "chainId": 1,
-    "name": "USD1",
+    "name": "USD One",
     "address": "0xc824bf014539f6bde6b81abaaca0d626c2ac5985",
     "decimals": 18,
     "symbol": "USD1",
@@ -84387,11 +84395,11 @@
   },
   {
     "chainId": 1,
-    "address": "0xca9de1f80df74331c5fcb7eee2d05e746d47bfb2",
     "name": "Reddio Vault Ethereum",
-    "symbol": "RSVETH",
+    "address": "0xca9de1f80df74331c5fcb7eee2d05e746d47bfb2",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/39744/thumb/rsv_eth.png?1723781355"
+    "symbol": "RSVETH",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/35983.png"
   },
   {
     "chainId": 1,
@@ -96868,7 +96876,7 @@
   {
     "chainId": 1,
     "address": "0xea4170a365952c666a9f34950771e51841732de9",
-    "name": "Filter AI",
+    "name": "Filter AI  OLD ",
     "symbol": "FILTER",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/39298/thumb/filter_ai_token_logo.png?1723688821"
@@ -101967,14 +101975,6 @@
     "symbol": "SUSDN",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/51987/thumb/usdn-logo.webp?1732293624"
-  },
-  {
-    "chainId": 1,
-    "address": "0xf6801c3e4108ead0deb216a3295338a582734c24",
-    "name": "LifeBankChain",
-    "symbol": "LBC",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/39183/thumb/LBC_LOGO.jpg?1720850935"
   },
   {
     "chainId": 1,
@@ -113226,6 +113226,14 @@
   },
   {
     "chainId": 8453,
+    "address": "0x004aa1586011f3454f487eac8d0d5c647d646c69",
+    "symbol": "DOGEVERSE",
+    "name": "Dogeverse",
+    "decimals": 18,
+    "logoURI": "ipfs://QmTJjydwJ63gHDfJoniGFeBGXpN6PdUNxp4Q2koNn1oe9E"
+  },
+  {
+    "chainId": 8453,
     "address": "0x029c58a909fbe3d4be85a24f414dda923a3fde0f",
     "symbol": "IRA",
     "name": "DeFi-IRA",
@@ -113751,6 +113759,14 @@
     "name": "EchoLeaks by Virtuals",
     "decimals": 18,
     "logoURI": "ipfs://QmfTsW9XMFoCfdP8m3G8pDJYX2qc2gRNXoPAZFT41DyP55"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x3afeae00a594fbf2e4049f924e3c6ac93296b6e8",
+    "symbol": "MAMBA",
+    "name": "Mamba",
+    "decimals": 18,
+    "logoURI": "ipfs://QmaSNtgHXUzf5dYUaCKdB45s8GxVSq6jetSKhvJRkpecbY"
   },
   {
     "chainId": 8453,
@@ -115058,6 +115074,14 @@
   },
   {
     "chainId": 8453,
+    "address": "0xd51827754a56860f04acd1d2699b049b026a5925",
+    "symbol": "GTY",
+    "name": "G-Agents AI",
+    "decimals": 18,
+    "logoURI": "ipfs://QmQMiphwoFNKsfcyaibrUjF7Kx8A35Lx6NgnaNvmeJAbKc"
+  },
+  {
+    "chainId": 8453,
     "address": "0xd9ea811a51d6fe491d27c2a0442b3f577852874d",
     "symbol": "BOB",
     "name": "Breakout Bro by Virtuals",
@@ -115071,6 +115095,14 @@
     "name": "The Css God by Virtuals",
     "decimals": 18,
     "logoURI": "ipfs://QmWycSJgNWRXGYH7maXoBZaWFJNRKYaVFXpYSHn9VpbXof"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xdb173587d459ddb1b9b0f2d6d88febef039304a2",
+    "symbol": "DADDY",
+    "name": "Cryptojourney",
+    "decimals": 18,
+    "logoURI": "ipfs://QmXpJ7p7tEC3xhCuknCYXpsqK37SU7pBYH2puShbhb3TCA"
   },
   {
     "chainId": 8453,
@@ -115263,6 +115295,14 @@
     "name": "TOWER",
     "decimals": 18,
     "logoURI": "ipfs://QmUDvzhLFf3t8cjweZgFFWeqjrprqE11ZyFrySNATaTWwy"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xf8a99f2bf2ce5bb6ce4aafcf070d8723bc904aa2",
+    "symbol": "CHRETT",
+    "name": "Chinese BRETT",
+    "decimals": 18,
+    "logoURI": "ipfs://QmSRDnDvqr7tkf2qfeiDyzEB6mh8bVhDETGssEu8PRvYcX"
   },
   {
     "chainId": 8453,
