@@ -4289,11 +4289,11 @@
   },
   {
     "chainId": 1,
+    "name": "PALCOIN Venture Capital",
     "address": "0x0994bd54cde8f83eab517d833a581b4be5b6f919",
-    "name": "PALCOIN Ventures",
-    "symbol": "PALCOIN",
     "decimals": 4,
-    "logoURI": "https://assets.coingecko.com/coins/images/51317/thumb/IMG_20241029_021655_516.jpg?1730707511"
+    "symbol": "PALCOIN",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/35901.png"
   },
   {
     "chainId": 1,
@@ -16372,6 +16372,14 @@
   },
   {
     "chainId": 1,
+    "name": "FAME - Rumble Kong League",
+    "address": "0x26827f7f51769ea21f94ba98ba64f5d0dc8988f9",
+    "decimals": 18,
+    "symbol": "FAME",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/35999.png"
+  },
+  {
+    "chainId": 1,
     "name": "Quantum DAO",
     "address": "0x26869045311fc5e5353eadcfa654cd47ddc20356",
     "decimals": 18,
@@ -27345,14 +27353,6 @@
     "decimals": 18,
     "symbol": "DAISY",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/10289.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x4096fc7119040175589387656f7c6073265f4096",
-    "name": "4096",
-    "symbol": "4096",
-    "decimals": 0,
-    "logoURI": "https://assets.coingecko.com/coins/images/33687/thumb/icon2.png?1702732239"
   },
   {
     "chainId": 1,
@@ -40354,7 +40354,7 @@
   },
   {
     "chainId": 1,
-    "name": "Domani Protocol",
+    "name": "Memento",
     "address": "0x5f64ab1544d28732f0a24f4713c2c8ec0da089f0",
     "decimals": 18,
     "symbol": "DEXTF",
@@ -41583,6 +41583,14 @@
     "decimals": 9,
     "symbol": "BLAST",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29786.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x6243558a24cc6116abe751f27e6d7ede50abfc76",
+    "name": "Levva Protocol",
+    "symbol": "LVVA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54803/thumb/YoUaL3yh_400x400.jpg?1741712015"
   },
   {
     "chainId": 1,
@@ -47967,14 +47975,6 @@
     "decimals": 18,
     "symbol": "CHANGE",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/21077.png"
-  },
-  {
-    "chainId": 1,
-    "name": "PALCOIN Venture Capital",
-    "address": "0x705d0deca6ce8f16c31bc510708a8512d25011b3",
-    "decimals": 4,
-    "symbol": "PALCOIN",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/35901.png"
   },
   {
     "chainId": 1,
@@ -76472,14 +76472,6 @@
   },
   {
     "chainId": 1,
-    "address": "0xb6d78683a4e54b91031acb41510bd8e144fed025",
-    "name": "CoinForge",
-    "symbol": "CNFRG",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/35490/thumb/CoinForge.png?1708884142"
-  },
-  {
-    "chainId": 1,
     "address": "0xb6dd77fd132dcaa10f1858734e838a0fa7431580",
     "name": "Filipcoin",
     "symbol": "FCP",
@@ -81137,8 +81129,8 @@
   {
     "chainId": 1,
     "address": "0xc214a0b73ce4c30594b4173219e885691254801b",
-    "name": "TOTO",
-    "symbol": "",
+    "name": "Tiamonds",
+    "symbol": "TOTO",
     "decimals": 9,
     "logoURI": "https://assets.coingecko.com/coins/images/54709/thumb/toto-logo.png?1741421676"
   },
@@ -83956,7 +83948,7 @@
   },
   {
     "chainId": 1,
-    "name": "Ignition",
+    "name": "Function",
     "address": "0xc96de26018a54d51c097160568752c4e3bd6c364",
     "decimals": 18,
     "symbol": "FBTC",
