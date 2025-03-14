@@ -833,14 +833,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x01202c9a1adfc1475c960c23bdf7530698330fa0",
-    "name": "Judge AI",
-    "symbol": "JUDGE",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/34959/thumb/4MUdYI7V_200x200.jpg?1706774333"
-  },
-  {
-    "chainId": 1,
     "address": "0x0123b0a381348f3ba793091923daeb7356ec5862",
     "name": "Dinari VXX",
     "symbol": "VXXD",
@@ -2430,6 +2422,14 @@
     "decimals": 18,
     "symbol": "SETS",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/9785.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x04e69ff14a86e1ca9a155a8563e95887973ee175",
+    "name": "Agentcoin TV",
+    "symbol": "AITV",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54817/thumb/AITV_Logo.png?1741850718"
   },
   {
     "chainId": 1,
@@ -13033,14 +13033,6 @@
     "decimals": 18,
     "symbol": "EGL",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/11210.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x1e87d63d11d1c16052bbca06d43ba4ceb4ee686c",
-    "name": "BRC on the ERC",
-    "symbol": "BRC20",
-    "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/33534/thumb/brcontheerc.jpg?1702354054"
   },
   {
     "chainId": 1,
@@ -30862,7 +30854,7 @@
     "name": "Alpha WETH Vault",
     "symbol": "AWETH",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/54543/thumb/alpha_vaults_icon_coingecko.png?1740218951"
+    "logoURI": "https://assets.coingecko.com/coins/images/54543/thumb/Alpha_Logo_200x200.png?1741896761"
   },
   {
     "chainId": 1,
@@ -35671,14 +35663,6 @@
     "decimals": 9,
     "symbol": "LUFFY",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/23977.png"
-  },
-  {
-    "chainId": 1,
-    "name": "Neutral AI",
-    "address": "0x540564612cd5db28d985b76088cc0c80ce144d88",
-    "decimals": 18,
-    "symbol": "USDN",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/35904.png"
   },
   {
     "chainId": 1,
@@ -41590,7 +41574,7 @@
     "name": "Levva Protocol",
     "symbol": "LVVA",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/54803/thumb/YoUaL3yh_400x400.jpg?1741712015"
+    "logoURI": "https://assets.coingecko.com/coins/images/54803/thumb/Levva_Token_Image_Nov_19_2024.png?1741853490"
   },
   {
     "chainId": 1,
@@ -47191,6 +47175,14 @@
     "decimals": 18,
     "symbol": "NOMEME",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/25189.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Space Nation",
+    "address": "0x6e7f11641c1ec71591828e531334192d622703f7",
+    "decimals": 18,
+    "symbol": "OIK",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/36011.png"
   },
   {
     "chainId": 1,
@@ -71169,6 +71161,14 @@
   },
   {
     "chainId": 1,
+    "address": "0xa93d86af16fe83f064e3c0e2f3d129f7b7b002b0",
+    "name": "Cocoro",
+    "symbol": "COCORO",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/54821/thumb/photo_2025-03-10_7.51.53_PM.jpeg?1741857858"
+  },
+  {
+    "chainId": 1,
     "name": "forbitspace",
     "address": "0xa953736904e23fafb42e353d4122420899999999",
     "decimals": 18,
@@ -88759,7 +88759,7 @@
     "name": "Alpha USDC Vault",
     "symbol": "AUSDC",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/54542/thumb/alpha_vaults_icon_coingecko.png?1740218899"
+    "logoURI": "https://assets.coingecko.com/coins/images/54542/thumb/Alpha_Logo_200x200.png?1741896744"
   },
   {
     "chainId": 1,
@@ -91139,11 +91139,11 @@
   },
   {
     "chainId": 1,
-    "address": "0xdac070102b0cfde1493026454c9c608924f6db71",
     "name": "POPG",
-    "symbol": "POPG",
+    "address": "0xdac070102b0cfde1493026454c9c608924f6db71",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/54752/thumb/logo_200x200.png?1741337502"
+    "symbol": "POPG",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/36025.png"
   },
   {
     "chainId": 1,
@@ -93784,14 +93784,6 @@
     "decimals": 18,
     "symbol": "FCT",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/4953.png"
-  },
-  {
-    "chainId": 1,
-    "name": "The Winkyverse",
-    "address": "0xe1bda0c3bfa2be7f740f0119b6a34f057bd58eba",
-    "decimals": 18,
-    "symbol": "WNK",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/16652.png"
   },
   {
     "chainId": 1,
@@ -103399,14 +103391,6 @@
     "symbol": "VCK",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/20063/thumb/9435.png?1696519481"
-  },
-  {
-    "chainId": 1,
-    "address": "0xfa615809a56892b9a9a0d48cf0a550deb0b42521",
-    "name": "PNWR Token",
-    "symbol": "PNWR",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/50178/thumb/PNWR_Image.png?1726164752"
   },
   {
     "chainId": 1,
