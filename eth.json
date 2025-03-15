@@ -17980,14 +17980,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x2a8bf9e7c91c6e3237095e07eb3defbce358df00",
-    "name": "OpClouds",
-    "symbol": "OPC",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/36004/thumb/IMG_20240312_002726_458.jpg?1710323036"
-  },
-  {
-    "chainId": 1,
     "address": "0x2a8c22e3b10036f3aef5875d04f8441d4188b656",
     "name": "Midas mBASIS",
     "symbol": "MBASIS",
@@ -23374,7 +23366,7 @@
     "chainId": 1,
     "name": "Partisia Blockchain",
     "address": "0x36a0e44c73e5a6a7727817377c0127f320a9456e",
-    "decimals": 4,
+    "decimals": 18,
     "symbol": "MPC",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/17072.png"
   },
@@ -27801,6 +27793,14 @@
     "decimals": 18,
     "symbol": "PAW",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28796.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x419905009e4656fdc02418c7df35b1e61ed5f726",
+    "name": "Resupply",
+    "symbol": "RSUP",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54833/thumb/RSUP-icon.png?1741965338"
   },
   {
     "chainId": 1,
@@ -34178,6 +34178,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x5019fe1867d8ccfd76d8d5abd85db5efce548fba",
+    "name": "InteNet",
+    "symbol": "INT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54832/thumb/dDZtouYf_400x400.jpg?1741957002"
+  },
+  {
+    "chainId": 1,
     "name": "SOLACE",
     "address": "0x501ace9c35e60f03a2af4d484f49f9b1efde9f40",
     "decimals": 18,
@@ -37015,6 +37023,14 @@
     "decimals": 18,
     "symbol": "JOPER",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/33064.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x57ab1e0003f623289cd798b1824be09a793e4bec",
+    "name": "Resupply USD",
+    "symbol": "REUSD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54836/thumb/reusd-icon-black-200px.png?1741970002"
   },
   {
     "chainId": 1,
@@ -50610,7 +50626,7 @@
   },
   {
     "chainId": 1,
-    "name": "Nitro",
+    "name": "Nitro Frog",
     "address": "0x76887cb94cf29ec539b3219ba62104be04f26a5c",
     "decimals": 18,
     "symbol": "NITRO",
@@ -53514,6 +53530,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x7dc9748da8e762e569f9269f48f69a1a9f8ea761",
+    "name": "ZeUSD",
+    "symbol": "ZEUSD",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/54829/thumb/zoth_32.webp?1741933336"
+  },
+  {
+    "chainId": 1,
     "address": "0x7dd7d5ca67df3e0f5a7f004af3653444b1fcfb76",
     "name": "Brrr de Money",
     "symbol": "BRRR",
@@ -55074,11 +55098,11 @@
   },
   {
     "chainId": 1,
-    "name": "Tiamonds",
     "address": "0x824e35f7a75324f99300afac75ecf7354e17ea26",
-    "decimals": 18,
-    "symbol": "TOTO",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/18411.png"
+    "name": "Tiamonds  OLD ",
+    "symbol": "TIA",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/23994/thumb/tia.png?1696523188"
   },
   {
     "chainId": 1,
@@ -57667,7 +57691,7 @@
   {
     "chainId": 1,
     "address": "0x888883b5f5d21fb10dfeb70e8f9722b9fb0e5e51",
-    "name": "Schuman EUR P",
+    "name": "EUR P",
     "symbol": "EUROP",
     "decimals": 6,
     "logoURI": "https://assets.coingecko.com/coins/images/52132/thumb/europ-symbol-rgb.jpg?1732634862"
@@ -71569,6 +71593,14 @@
   },
   {
     "chainId": 1,
+    "name": "Hemi Foundation",
+    "address": "0xaa40c0c7644e0b2b224509571e10ad20d9c4ef28",
+    "decimals": 8,
+    "symbol": "HEMIBTC",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/36031.png"
+  },
+  {
+    "chainId": 1,
     "address": "0xaa4e3edb11afa93c41db59842b29de64b72e355b",
     "name": "Marginswap",
     "symbol": "MFI",
@@ -81136,11 +81168,11 @@
   },
   {
     "chainId": 1,
-    "address": "0xc214a0b73ce4c30594b4173219e885691254801b",
     "name": "Tiamonds",
+    "address": "0xc214a0b73ce4c30594b4173219e885691254801b",
+    "decimals": 18,
     "symbol": "TOTO",
-    "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/54709/thumb/toto-logo.png?1741421676"
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/18411.png"
   },
   {
     "chainId": 1,
@@ -82844,11 +82876,11 @@
   },
   {
     "chainId": 1,
+    "name": "Pell Network",
     "address": "0xc65d8d96cdddb31328186efa113a460b0af9ec63",
-    "name": "Pell Network Token",
-    "symbol": "PELL",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/53967/thumb/logo-200*200.png?1737793038"
+    "symbol": "PELL",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/36034.png"
   },
   {
     "chainId": 1,
@@ -113874,6 +113906,14 @@
   },
   {
     "chainId": 8453,
+    "address": "0x43e94bd32ac8e57a6009cde6790d95761120d4e9",
+    "symbol": "DEWN",
+    "name": "Dewn",
+    "decimals": 18,
+    "logoURI": "ipfs://QmRPNREao2RjaRj5RzfjmES6rb3fAmRtv8k11XCeMCExnb"
+  },
+  {
+    "chainId": 8453,
     "address": "0x44e1c6bc3a4d2058ee3f290bcb27c4da8c5b2e3e",
     "symbol": "PEAGUY",
     "name": "The Pea Guy by Virtuals",
@@ -113959,6 +113999,14 @@
     "name": "Citadel by Virtuals",
     "decimals": 18,
     "logoURI": "ipfs://QmdKgv8XGDhZBVUnHBS1iGMZmucwQwP4MdYQyBJzgWRyK8"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x4c40454659c8ec1283355d8e3911ba1745ff6fd1",
+    "symbol": "CHIP",
+    "name": "Blue Chip",
+    "decimals": 9,
+    "logoURI": "ipfs://QmScpyh2ukULNiDxeC3UB4nHJ6X9ut9CVwfU6E3KdY7ZWB"
   },
   {
     "chainId": 8453,
@@ -114434,6 +114482,14 @@
   },
   {
     "chainId": 8453,
+    "address": "0x88558259ceda5d8e681fedb55c50070fbd3da8f9",
+    "symbol": "MST",
+    "name": "MST",
+    "decimals": 18,
+    "logoURI": "ipfs://QmX2kyYiBuHxVban9ekYe9LSQXhK7w8T4cQdtEFHQKNm6o"
+  },
+  {
+    "chainId": 8453,
     "address": "0x8888888888f004100c0353d657be6300587a6ccd",
     "symbol": "ACS",
     "name": "ACryptoS",
@@ -114711,6 +114767,14 @@
     "name": "Cheeky Dawg",
     "decimals": 18,
     "logoURI": "ipfs://QmbRozfknGZL7FtWbJFHESKmMRHaZ4Vnxz9XJypTBYjqnA"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xa83d1a010e4a36198a884dcb3d7d2de87fe9a59d",
+    "symbol": "LAN",
+    "name": "Lanify",
+    "decimals": 18,
+    "logoURI": "ipfs://QmcsYHBVjmA3sBSkNdHxS3PDzDAEyzH8sCENmccNEJfHen"
   },
   {
     "chainId": 8453,
@@ -115335,6 +115399,14 @@
     "name": "Tarot",
     "decimals": 18,
     "logoURI": "ipfs://QmenPX7UnjGeCrfGjsNUWX6tJj3o6QXXw9co5WL8aNP9UF"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xf5e89006cbeff2dabcfda0def5bf45ebe7f8429f",
+    "symbol": "RAGDOLL",
+    "name": "Ragdoll",
+    "decimals": 18,
+    "logoURI": "ipfs://QmPcuFWfoYQQBDCbnbLaS9zMWar7u4Qao44Vd3jXCS3JHv"
   },
   {
     "chainId": 8453,
