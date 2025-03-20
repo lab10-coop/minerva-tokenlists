@@ -4929,6 +4929,14 @@
   },
   {
     "chainId": 1,
+    "name": "CrypTalk",
+    "address": "0x0aff507ac29b8cea2fb10d2ad14408c2d79a35ad",
+    "decimals": 18,
+    "symbol": "TALK",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/36074.png"
+  },
+  {
+    "chainId": 1,
     "name": "Polybius",
     "address": "0x0affa06e7fbe5bc9a764c979aa66e8256a631f02",
     "decimals": 6,
@@ -7836,7 +7844,7 @@
     "name": "Entangle",
     "address": "0x12652c6d93fdb6f4f37d48a8687783c782bb0d10",
     "decimals": 18,
-    "symbol": "NGL",
+    "symbol": "NTGL",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29709.png"
   },
   {
@@ -11680,6 +11688,14 @@
   },
   {
     "chainId": 1,
+    "name": "Iron Fish",
+    "address": "0x1b2b24bb39c20cb2cd9704b3e68f3d6a57ab3747",
+    "decimals": 8,
+    "symbol": "IRON",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/18079.png"
+  },
+  {
+    "chainId": 1,
     "name": "ROBBY",
     "address": "0x1b37392207512f5fa8812a3991cc0308107e6995",
     "decimals": 9,
@@ -11821,14 +11837,6 @@
     "name": "New Order",
     "decimals": 18,
     "logoURI": "ipfs://QmVAxnMy2cUxf9egtmSAft2Fb1h19eoHLddjMKXUyNLzNL"
-  },
-  {
-    "chainId": 1,
-    "address": "0x1b900b2cde13b384f89d6dd697dc03ac61c702bb",
-    "name": "What the Duck",
-    "symbol": "WHAT",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/39101/thumb/0x1b900b2cde13b384f89d6dd697dc03ac61c702bb_%281%29_%281%29.jpg?1720509591"
   },
   {
     "chainId": 1,
@@ -48058,14 +48066,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x70734a09b7a89f8ec3558d432fcb518dcc3c0fa0",
-    "name": "Kabosu",
-    "symbol": "KABOSU",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/50239/thumb/Kabosu_on_ETH.png?1726675997"
-  },
-  {
-    "chainId": 1,
     "name": "Fleabone",
     "address": "0x7076de6ff1d91e00be7e92458089c833de99e22e",
     "decimals": 9,
@@ -50642,7 +50642,7 @@
   },
   {
     "chainId": 1,
-    "name": "Nitro Frog",
+    "name": "Nitro",
     "address": "0x76887cb94cf29ec539b3219ba62104be04f26a5c",
     "decimals": 18,
     "symbol": "NITRO",
@@ -55074,11 +55074,11 @@
   },
   {
     "chainId": 1,
+    "name": "OpenEden Open Dollar",
     "address": "0x8238884ec9668ef77b90c6dff4d1a9f4f4823bfe",
-    "name": "OpenEden OpenDollar",
-    "symbol": "USDO",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/53750/thumb/USDO_LOGO-white.png?1737181887"
+    "symbol": "USDO",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/36067.png"
   },
   {
     "chainId": 1,
@@ -61674,11 +61674,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x92217ccaedbdbc54c76c15fea18823db1558fdc9",
     "name": "Functionland",
-    "symbol": "FULA",
+    "address": "0x92217ccaedbdbc54c76c15fea18823db1558fdc9",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/24782/thumb/FULA_IconGRN_200.png?1742180793"
+    "symbol": "FULA",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/18787.png"
   },
   {
     "chainId": 1,
@@ -65854,6 +65854,14 @@
     "decimals": 18,
     "symbol": "WANK",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/32422.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x9bbe8f42b9c2333fe2a80323028ab107379646c7",
+    "name": "Power Play",
+    "symbol": "POWER",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54886/thumb/Power_Play.jpg?1742384183"
   },
   {
     "chainId": 1,
@@ -72753,11 +72761,11 @@
   },
   {
     "chainId": 1,
+    "name": "OpenEden Compounding OpenDollar",
     "address": "0xad55aebc9b8c03fc43cd9f62260391c13c23e7c0",
-    "name": "Compounding OpenDollar",
-    "symbol": "CUSDO",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/53751/thumb/cUSDO_logo_white.png?1737182014"
+    "symbol": "CUSDO",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/36068.png"
   },
   {
     "chainId": 1,
@@ -76725,6 +76733,14 @@
     "symbol": "ARPL",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/32909/thumb/RPL.png?1699817497"
+  },
+  {
+    "chainId": 1,
+    "name": "Vultisig",
+    "address": "0xb788144df611029c60b859df47e79b7726c4deba",
+    "decimals": 18,
+    "symbol": "VULT",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/33502.png"
   },
   {
     "chainId": 1,
@@ -86628,10 +86644,10 @@
   {
     "chainId": 1,
     "address": "0xcfeb09c3c5f0f78ad72166d55f9e6e9a60e96eec",
-    "name": "VEMP",
     "symbol": "VEMP",
+    "name": "vEmpire DDAO",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/18074/thumb/PFP.jpeg?1723649781"
+    "logoURI": "ipfs://QmVYinM7upJcpTJc2U8c4d9jPy6zpj17C8uoyLkvESZEHv"
   },
   {
     "chainId": 1,
@@ -89056,6 +89072,14 @@
     "symbol": "PEUSD",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/31521/thumb/peUSD_200x200.png?1696530331"
+  },
+  {
+    "chainId": 1,
+    "name": "CYBRO",
+    "address": "0xd58826d2c0babf1a60d8b508160b52e9c19aff07",
+    "decimals": 18,
+    "symbol": "CYBRO",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/32224.png"
   },
   {
     "chainId": 1,
