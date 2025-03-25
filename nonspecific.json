@@ -4957,6 +4957,34 @@
     ]
   },
   {
+    "address": "0xf197ffc28c23e0309b5559e7a166f2c6164c80aa",
+    "name": "MXNB",
+    "symbol": "MXNB",
+    "decimals": 6,
+    "chainId": 42161,
+    "logoURI": "https://superfluid-finance.github.io/tokenlist/icons/mxnb.svg",
+    "tags": [
+      "underlying"
+    ]
+  },
+  {
+    "address": "0xf3e8e45f34220e3c33bd416eb827d0c1088a2aef",
+    "name": "Super MXNB",
+    "symbol": "MXNBx",
+    "decimals": 18,
+    "chainId": 42161,
+    "extensions": {
+      "superTokenInfo": {
+        "type": "Wrapper",
+        "underlyingTokenAddress": "0xf197ffc28c23e0309b5559e7a166f2c6164c80aa"
+      }
+    },
+    "logoURI": "https://superfluid-finance.github.io/tokenlist/icons/mxnb.svg",
+    "tags": [
+      "supertoken"
+    ]
+  },
+  {
     "address": "0xfc55f2854e74b4f42d01a6d3daac4c52d9dfdcff",
     "name": "Super USD Coin",
     "symbol": "USDCx",
