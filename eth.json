@@ -18884,14 +18884,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x2cb5d9fd89d48c516f11904117c57e3934f39524",
-    "name": "PEPE UWU",
-    "symbol": "CUTE",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/33691/thumb/Resized_AvEWEWA5_200x200_%281%29.png?1702796454"
-  },
-  {
-    "chainId": 1,
     "name": "IDOL COIN",
     "address": "0x2cc114bbe7b551d62b15c465c7bdcccd9125b182",
     "decimals": 8,
@@ -26817,14 +26809,6 @@
     "decimals": 8,
     "symbol": "sLINK",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/11100.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x3f3cd642e81d030d7b514a2ab5e3a5536beb90ec",
-    "name": "Rho",
-    "symbol": "RHO",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/25540/thumb/Rho-icon-03.png?1696524673"
   },
   {
     "chainId": 1,
@@ -40806,7 +40790,7 @@
     "name": "Eclipse",
     "symbol": "ES",
     "decimals": 6,
-    "logoURI": "https://assets.coingecko.com/coins/images/54958/thumb/Eclipse_logo_logo_green_%281%29.png?1742867213"
+    "logoURI": "https://assets.coingecko.com/coins/images/54958/thumb/image_%2832%29.png?1742979704"
   },
   {
     "chainId": 1,
@@ -46231,6 +46215,14 @@
     "decimals": 18,
     "symbol": "HFUN",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/32240.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Bima",
+    "address": "0x6bede1c6009a78c222d9bdb7974bb67847fdb68c",
+    "decimals": 18,
+    "symbol": "USBD",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/36149.png"
   },
   {
     "chainId": 1,
@@ -59726,7 +59718,7 @@
     "name": "Solar",
     "symbol": "SXP",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/9368/thumb/swipe.png?1696509466"
+    "logoURI": "https://assets.coingecko.com/coins/images/9368/thumb/Solar_Blockchain_Foundation_Sun_CG.png?1742975137"
   },
   {
     "chainId": 1,
@@ -59767,6 +59759,14 @@
     "decimals": 18,
     "symbol": "RIPDIP",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/27268.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x8d0d000ee44948fc98c9b98a4fa4921476f08b0d",
+    "name": "USD1",
+    "symbol": "USD1",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54977/thumb/30Q2SFVH_400x400.jpg?1742998328"
   },
   {
     "chainId": 1,
@@ -61223,6 +61223,14 @@
     "decimals": 18,
     "symbol": "ETUSK",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/26324.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x90ce5720c17587d28e4af120ae2d313b3bad1722",
+    "name": "Overtime",
+    "symbol": "OVER",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54973/thumb/over.png?1742959291"
   },
   {
     "chainId": 1,
@@ -71625,7 +71633,7 @@
   },
   {
     "chainId": 1,
-    "name": "Hemi Foundation",
+    "name": "Hemi",
     "address": "0xaa40c0c7644e0b2b224509571e10ad20d9c4ef28",
     "decimals": 8,
     "symbol": "HEMIBTC",
@@ -73030,6 +73038,14 @@
     "decimals": 8,
     "symbol": "IRA",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/4885.png"
+  },
+  {
+    "chainId": 1,
+    "name": "TRUMPETTOKEN",
+    "address": "0xadeb8d2d32b1e902c624e8fdd1dd8afdae26f2b4",
+    "decimals": 6,
+    "symbol": "TTT",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/36139.png"
   },
   {
     "chainId": 1,
@@ -100147,6 +100163,14 @@
   },
   {
     "chainId": 1,
+    "address": "0xf222b0e892f419c35e61892cddf0a8ec190c4b9d",
+    "name": "RandomDEX",
+    "symbol": "RDX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/52766/thumb/Icon_removed_BG.png?1734268221"
+  },
+  {
+    "chainId": 1,
     "name": "Fast Access Blockchain",
     "address": "0xf2260ed15c59c9437848afed04645044a8d5e270",
     "decimals": 18,
@@ -103914,11 +103938,11 @@
   },
   {
     "chainId": 1,
-    "address": "0xfbcb83037d770b28f758530022897362521b6141",
     "name": "BiorBank",
-    "symbol": "BYB",
+    "address": "0xfbcb83037d770b28f758530022897362521b6141",
     "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/54930/thumb/logo_1x1.png?1742800998"
+    "symbol": "BYB",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/36136.png"
   },
   {
     "chainId": 1,
@@ -113314,6 +113338,14 @@
   },
   {
     "chainId": 8453,
+    "address": "0x041fdf3f472d2c8a7ecc458fc3b7f543e6c57ef7",
+    "symbol": "SHIBA",
+    "name": "Shiba Armstrong",
+    "decimals": 9,
+    "logoURI": "ipfs://QmWqSRM1fBLGqn6NBHL6gA1YwRFXR1JhymWgaAvPv3TRBf"
+  },
+  {
+    "chainId": 8453,
     "address": "0x0521aaa7c96e25afee79fdd4f1bb48f008ae4eac",
     "symbol": "FDREAM",
     "name": "DR3AM Fund",
@@ -113442,6 +113474,14 @@
   },
   {
     "chainId": 8453,
+    "address": "0x16cec756a0fcba1d7ce95df5a46406c469a9128a",
+    "symbol": "AWK",
+    "name": "Awkward Monkey",
+    "decimals": 18,
+    "logoURI": "ipfs://QmVZgvme1U7wvkLZrVymAa3drfsxv1BSgyNUUkMKnPk9Le"
+  },
+  {
+    "chainId": 8453,
     "address": "0x17931cfc3217261ce0fa21bb066633c463ed8634",
     "symbol": "BASED",
     "name": "BASEDChad",
@@ -113490,11 +113530,27 @@
   },
   {
     "chainId": 8453,
+    "address": "0x19706c142d33376240e418d6385f05691a5fa8e2",
+    "symbol": "PEPI",
+    "name": "Pepe Inscriptions",
+    "decimals": 9,
+    "logoURI": "ipfs://QmU4qFMqWPpm8Qfs6cfcCBWNmC1LBmeAhhTAFJAKioWrQV"
+  },
+  {
+    "chainId": 8453,
     "address": "0x1aca6687a9665fb84deb7e3801e8e7ecba6ec6de",
     "symbol": "RAIN",
     "name": "Rain by Virtuals",
     "decimals": 18,
     "logoURI": "ipfs://QmfVaow2MNBc6NxZZdrhQHrMbaQsqn6aY1nG4JU2gF3mSr"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x1b2c141479757b8643a519be4692904088d860b2",
+    "symbol": "BADCAT",
+    "name": "BADCAT",
+    "decimals": 9,
+    "logoURI": "ipfs://QmZiqcmMLnmy3rZtX2e6rHBiEHPDrQxmMJ4q4GH2WMmzW9"
   },
   {
     "chainId": 8453,
@@ -113554,11 +113610,27 @@
   },
   {
     "chainId": 8453,
+    "address": "0x1e0bb24ed6c806c01ef2f880a4b91adb90099ea7",
+    "symbol": "BRRR",
+    "name": "BUCCI",
+    "decimals": 18,
+    "logoURI": "ipfs://QmYzHBEeYnh4FQV29Caxc8z16QgJ5EBtPsyfvpL78YWHf7"
+  },
+  {
+    "chainId": 8453,
     "address": "0x20fd4c5396f7d9686f9997e0f10991957f7112fc",
     "symbol": "GDUPI",
     "name": "redacted gdupi",
     "decimals": 18,
     "logoURI": "ipfs://QmaAg5ZWwXw22VUyN7KEFFUWWzVrY4wJUvPH4gdsqbZiYQ"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x2156006a207a793b4069a2b72be58dc2bd759232",
+    "symbol": "COIN",
+    "name": "Coin",
+    "decimals": 18,
+    "logoURI": "ipfs://QmdfoLvuaaMT5K3psbDTbn2buZwtaTqtGDRWVARcYbhE8e"
   },
   {
     "chainId": 8453,
@@ -113746,6 +113818,14 @@
   },
   {
     "chainId": 8453,
+    "address": "0x29e39327b5b1e500b87fc0fcae3856cd8f96ed2a",
+    "symbol": "PAWSY",
+    "name": "Bark Ruffalo by Virtuals",
+    "decimals": 18,
+    "logoURI": "ipfs://QmWXtoma7SHijmFd4dbiYun7J2fwZwmiGvs8d9K524J1ps"
+  },
+  {
+    "chainId": 8453,
     "address": "0x2acd6a246157bf51636d06a83200f8923e7eb864",
     "symbol": "NODE",
     "name": "noderzz by Virtuals",
@@ -113831,6 +113911,14 @@
     "name": "ORA",
     "decimals": 18,
     "logoURI": "ipfs://QmbHP3USEzEBbzmxH1FTXtKNYPT7HmtwsdqmFaLK4kjr9z"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x33b7f6225b4cbe5d368b7bb4807d6375b18b8c2b",
+    "symbol": "CANDY",
+    "name": "Candy",
+    "decimals": 9,
+    "logoURI": "ipfs://QmSd4iky1YWiVvvh6apGi7UWJNgepR9EBZWbd9xQ1ySi7C"
   },
   {
     "chainId": 8453,
@@ -114162,6 +114250,14 @@
   },
   {
     "chainId": 8453,
+    "address": "0x4c96a67b0577358894407af7bc3158fc1dffbeb5",
+    "symbol": "POV",
+    "name": "Degen Point Of View",
+    "decimals": 18,
+    "logoURI": "ipfs://QmVSm2pHdznUyQNkBeCYSp9JY31ZtzBH3vTcG6u1sCUejK"
+  },
+  {
+    "chainId": 8453,
     "address": "0x4dfbd8a695baf78ebf8f905a4527020e844b278d",
     "symbol": "BACK",
     "name": "We're so back",
@@ -114247,6 +114343,14 @@
     "name": "Eye Future by Virtuals",
     "decimals": 18,
     "logoURI": "ipfs://QmaEQqjRw1Yzr1mEAmw1tZeJ2QRBqFMP1EX43k6mhjAze2"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x55a6f6cb50db03259f6ab17979a4891313be2f45",
+    "symbol": "DILIGENT",
+    "name": "Diligent Pepe",
+    "decimals": 18,
+    "logoURI": "ipfs://QmZ5zJghkE5KWr3UznNHaarwm1vTqRnChxHjF1AYv3sD4E"
   },
   {
     "chainId": 8453,
@@ -114682,6 +114786,14 @@
   },
   {
     "chainId": 8453,
+    "address": "0x835e336782a1d04db6eb44c44024650d18a138c2",
+    "symbol": "BAGEL",
+    "name": "BAGEL",
+    "decimals": 18,
+    "logoURI": "ipfs://QmYW8jM2BPGtvCDwqkN93Dg3d4gnEacGCwpeUWBtMZd9pJ"
+  },
+  {
+    "chainId": 8453,
     "address": "0x83abfc4beec2ecf12995005d751a42df691c09c1",
     "symbol": "H1DR4",
     "name": "H1DR4 by Virtuals",
@@ -114823,6 +114935,14 @@
     "name": "Podflow AI by Virtuals",
     "decimals": 18,
     "logoURI": "ipfs://QmTVkPm9ZxuPRz2kKWGmp7A5h7Ze9hMGgFHatygwnwUPGD"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x8e5e9df4f0ea39ae5270e79bbabfcc34203a3470",
+    "symbol": "rgUSD",
+    "name": "Revenue Generating USD",
+    "decimals": 18,
+    "logoURI": "ipfs://QmNdS1bBRbUWdi1gjLqy9qEQdFE4KaawhJ5iPLntnZgcTq"
   },
   {
     "chainId": 8453,
@@ -115055,6 +115175,14 @@
     "name": "TICKLE",
     "decimals": 18,
     "logoURI": "ipfs://QmQ5CZt4rixxmeKX7SRYk2eYWEDja8j6WpqvnKQTnGdRg3"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xa202b2b7b4d2fe56bf81492ffdda657fe512de07",
+    "symbol": "BABYMIGGLES",
+    "name": "BABY MIGGLES",
+    "decimals": 18,
+    "logoURI": "ipfs://QmS8ge4stZFB5CuKcYaeGHgFnk6zbjepaEQQeJytCYfzbC"
   },
   {
     "chainId": 8453,
@@ -115618,6 +115746,14 @@
   },
   {
     "chainId": 8453,
+    "address": "0xe4fcf2d991505089bbb36275570757c1f9800cb0",
+    "symbol": "PURR",
+    "name": "Purrcoin",
+    "decimals": 18,
+    "logoURI": "ipfs://QmQtFFH6jEqdqXb96yjjbfBZNBsgzb4hBxjv9ZCumkJj2X"
+  },
+  {
+    "chainId": 8453,
     "address": "0xe8876189a80b2079d8c0a7867e46c50361d972c1",
     "symbol": "ARC",
     "name": "Archly Finance",
@@ -115887,6 +116023,14 @@
     "name": "SmarDex",
     "decimals": 18,
     "logoURI": "ipfs://QmfND5e84LhVzuywVPxyxpbpUAH26HMCgRbk8fywmZyFhU"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xfdc944fb59201fb163596ee5e209ebc8fa4dcdc5",
+    "symbol": "AMC",
+    "name": "AMC",
+    "decimals": 18,
+    "logoURI": "ipfs://QmbBXzn6ZSx57jbXRAKc9qvFjq8v9T3zKF2nqZ3p454BTF"
   },
   {
     "chainId": 8453,
