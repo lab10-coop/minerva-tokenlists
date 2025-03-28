@@ -133,19 +133,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x039b598c6b99e70058e1e9021e000bdacd33d026",
-    "name": "[Deprecated] Morpho Token",
-    "symbol": "MORPHO",
-    "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/data/MORPHO_DEPRECATED/logo.svg",
-    "extensions": {
-      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
-      "opListId": "extended",
-      "opTokenId": "MORPHO_DEPRECATED"
-    }
-  },
-  {
-    "chainId": 1,
     "address": "0x03ab458634910aad20ef5f1c8ee96f1d6ac54919",
     "name": "Rai Reflex Index",
     "symbol": "RAI",
@@ -197,6 +184,19 @@
       "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
       "opListId": "extended",
       "opTokenId": "BCAT"
+    }
+  },
+  {
+    "chainId": 1,
+    "address": "0x06904a21f2db805487fcbdc3b3fe9607daaa5d54",
+    "name": "Moonray",
+    "symbol": "MNRY",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/MNRY/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "opListId": "extended",
+      "opTokenId": "MNRY"
     }
   },
   {
@@ -517,6 +517,19 @@
       "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1",
       "opListId": "default",
       "opTokenId": "WLD"
+    }
+  },
+  {
+    "chainId": 1,
+    "address": "0x1796ae0b0fa4862485106a0de9b654efe301d0b2",
+    "name": "Protocol Monsters",
+    "symbol": "PMON",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/PMON/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "opListId": "extended",
+      "opTokenId": "PMON"
     }
   },
   {
@@ -1383,6 +1396,7 @@
     "extensions": {
       "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1",
       "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "unichainBridgeAddress": "0x81014F44b0a345033bB2b3B21C7a1A308B35fEeA",
       "opListId": "extended",
       "opTokenId": "GRG"
     }
@@ -1518,7 +1532,6 @@
     "logoURI": "https://ethereum-optimism.github.io/data/MORPHO/logo.svg",
     "extensions": {
       "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
-      "unichainBridgeAddress": "0x81014F44b0a345033bB2b3B21C7a1A308B35fEeA",
       "opListId": "extended",
       "opTokenId": "MORPHO"
     }
@@ -2874,6 +2887,18 @@
   },
   {
     "chainId": 1,
+    "address": "0x9994e35db50125e0df82e4c2dde62496ce330999",
+    "name": "[Legacy] Morpho Token",
+    "symbol": "MORPHO",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/MORPHO_DEPRECATED/logo.svg",
+    "extensions": {
+      "opListId": "extended",
+      "opTokenId": "MORPHO_DEPRECATED"
+    }
+  },
+  {
+    "chainId": 1,
     "address": "0x9a96ec9b57fb64fbc60b423d1f4da7691bd35079",
     "name": "AjnaToken",
     "symbol": "AJNA",
@@ -3674,6 +3699,7 @@
     "logoURI": "https://ethereum-optimism.github.io/data/BOSON/logo.svg",
     "extensions": {
       "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1",
       "opListId": "extended",
       "opTokenId": "BOSON"
     }
@@ -3927,6 +3953,19 @@
       "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
       "opListId": "extended",
       "opTokenId": "U"
+    }
+  },
+  {
+    "chainId": 1,
+    "address": "0xcfcecfe2bd2fed07a9145222e8a7ad9cf1ccd22a",
+    "name": "Adshares",
+    "symbol": "ADS",
+    "decimals": 11,
+    "logoURI": "https://ethereum-optimism.github.io/data/ADS/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "opListId": "extended",
+      "opTokenId": "ADS"
     }
   },
   {
@@ -5428,6 +5467,19 @@
   },
   {
     "chainId": 10,
+    "address": "0x647fe0cca3df596ba414c8c600d441bb3d10d616",
+    "name": "Boson Token",
+    "symbol": "BOSON",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/BOSON/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "BOSON"
+    }
+  },
+  {
+    "chainId": 10,
     "address": "0x64ba55a341ec586a4c5d58d6297cde5125ab55bc",
     "name": "Scry Protocol",
     "symbol": "SCRY",
@@ -6718,6 +6770,18 @@
   },
   {
     "chainId": 10,
+    "address": "0xe85d2c93f7e26b99a46a8bb9350cbfb965fa4f82",
+    "name": "DHK DAO",
+    "symbol": "DHK",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/DHK/logo.svg",
+    "extensions": {
+      "opListId": "extended",
+      "opTokenId": "DHK"
+    }
+  },
+  {
+    "chainId": 10,
     "address": "0xeaeadac73baaf4cb8b024de9d65b2eefa722856c",
     "name": "Respawn Finance Wrapped Staked Ethereum",
     "symbol": "RFWSTETH",
@@ -6965,6 +7029,19 @@
       "unichainBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "default",
       "opTokenId": "AAVE"
+    }
+  },
+  {
+    "chainId": 130,
+    "address": "0x03c2868c6d7fd27575426f395ee081498b1120dd",
+    "name": "Rigo Token",
+    "symbol": "GRG",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/GRG/logo.svg",
+    "extensions": {
+      "unichainBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "GRG"
     }
   },
   {
@@ -7327,19 +7404,6 @@
       "unichainBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "extended",
       "opTokenId": "OCEAN"
-    }
-  },
-  {
-    "chainId": 130,
-    "address": "0x6695a2692dcd2a53e7766492447b5254a56425ad",
-    "name": "Morpho Token",
-    "symbol": "MORPHO",
-    "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/data/MORPHO/logo.svg",
-    "extensions": {
-      "unichainBridgeAddress": "0x4200000000000000000000000000000000000010",
-      "opListId": "extended",
-      "opTokenId": "MORPHO"
     }
   },
   {
@@ -8153,19 +8217,6 @@
     "extensions": {
       "opListId": "extended",
       "opTokenId": "AIP"
-    }
-  },
-  {
-    "chainId": 8453,
-    "address": "0x039b598c6b99e70058e1e9021e000bdacd33d026",
-    "name": "[Deprecated] Morpho Token",
-    "symbol": "MORPHO",
-    "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/data/MORPHO_DEPRECATED/logo.svg",
-    "extensions": {
-      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
-      "opListId": "extended",
-      "opTokenId": "MORPHO_DEPRECATED"
     }
   },
   {
@@ -9496,6 +9547,19 @@
   },
   {
     "chainId": 8453,
+    "address": "0x5262001cb1c8060bea611b0a59518f56d83ab70e",
+    "name": "Moonray",
+    "symbol": "MNRY",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/MNRY/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "MNRY"
+    }
+  },
+  {
+    "chainId": 8453,
     "address": "0x54330d28ca3357f294334bdc454a032e7f353416",
     "name": "Autonolas",
     "symbol": "OLAS",
@@ -9647,6 +9711,19 @@
       "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "extended",
       "opTokenId": "HEX"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0x60edae6e86546428da423b5fbe0fba46ca552fc7",
+    "name": "Protocol Monsters",
+    "symbol": "PMON",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/PMON/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "PMON"
     }
   },
   {
@@ -10640,6 +10717,19 @@
       "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "extended",
       "opTokenId": "CXT"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb20a4bd059f5914a2f8b9c18881c637f79efb7df",
+    "name": "Adshares",
+    "symbol": "ADS",
+    "decimals": 11,
+    "logoURI": "https://ethereum-optimism.github.io/data/ADS/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "ADS"
     }
   },
   {
@@ -11986,19 +12076,6 @@
   },
   {
     "chainId": 84532,
-    "address": "0x3cf66a662390e37ff260d0cbaa8af6d426d60d43",
-    "name": "Morpho Token",
-    "symbol": "MORPHO",
-    "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/data/MORPHO/logo.svg",
-    "extensions": {
-      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
-      "opListId": "extended",
-      "opTokenId": "MORPHO"
-    }
-  },
-  {
-    "chainId": 84532,
     "address": "0x4a89c86bc3645e6fc0ba945f9edf070c9b5aeaea",
     "name": "Graph Token",
     "symbol": "GRT",
@@ -12086,6 +12163,19 @@
       "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "extended",
       "opTokenId": "MASQ"
+    }
+  },
+  {
+    "chainId": 84532,
+    "address": "0x8ce7f2c51445e50e2a5438769468ac50f4d5e84b",
+    "name": "Impossible Cloud Network Token (Testnet)",
+    "symbol": "tICNT",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/ICNT/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "ICNT"
     }
   },
   {
@@ -12390,19 +12480,6 @@
   },
   {
     "chainId": 11155111,
-    "address": "0x3cf66a662390e37ff260d0cbaa8af6d426d60d43",
-    "name": "Morpho Token",
-    "symbol": "MORPHO",
-    "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/data/MORPHO/logo.svg",
-    "extensions": {
-      "baseBridgeAddress": "0xfd0Bf71F60660E2f608ed56e1659C450eB113120",
-      "opListId": "extended",
-      "opTokenId": "MORPHO"
-    }
-  },
-  {
-    "chainId": 11155111,
     "address": "0x3f14920c99beb920afa163031c4e47a3e03b3e4a",
     "name": "Send Token",
     "symbol": "send",
@@ -12514,6 +12591,19 @@
     "extensions": {
       "opListId": "extended",
       "opTokenId": "CXT"
+    }
+  },
+  {
+    "chainId": 11155111,
+    "address": "0x8a4cb9e34335e0d432cca9b7199dc99af5ed20eb",
+    "name": "Impossible Cloud Network Token (Testnet)",
+    "symbol": "tICNT",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/ICNT/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0xfd0Bf71F60660E2f608ed56e1659C450eB113120",
+      "opListId": "extended",
+      "opTokenId": "ICNT"
     }
   },
   {
