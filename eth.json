@@ -433,11 +433,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x004e9c3ef86bc1ca1f0bb5c7662861ee93350568",
     "name": "Universal BTC",
-    "symbol": "UNIBTC",
+    "address": "0x004e9c3ef86bc1ca1f0bb5c7662861ee93350568",
     "decimals": 8,
-    "logoURI": "https://assets.coingecko.com/coins/images/39599/thumb/uniBTC_200px.png?1723064455"
+    "symbol": "UNIBTC",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/36175.png"
   },
   {
     "chainId": 1,
@@ -3124,7 +3124,7 @@
     "name": "OpenGPU",
     "address": "0x067def80d66fb69c276e53b641f37ff7525162f6",
     "decimals": 18,
-    "symbol": "oGPU",
+    "symbol": "OGPU",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/30751.png"
   },
   {
@@ -12644,11 +12644,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x1d88713b483a8e45cff0e5cd7c2e15e5fab4534d",
     "name": "StakeStone",
-    "symbol": "STO",
+    "address": "0x1d88713b483a8e45cff0e5cd7c2e15e5fab4534d",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/55050/thumb/STO-white-bg.png?1743437541"
+    "symbol": "STO",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/32194.png"
   },
   {
     "chainId": 1,
@@ -22796,11 +22796,11 @@
   },
   {
     "chainId": 1,
+    "name": "EVA AI",
     "address": "0x3566c8ee9780245e974e759a7716ea6ba0702588",
-    "name": "eVa ai",
-    "symbol": "EVA",
     "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/50364/thumb/Twitter_profile.png?1736312802"
+    "symbol": "EVA",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/36176.png"
   },
   {
     "chainId": 1,
@@ -39107,10 +39107,10 @@
   {
     "chainId": 1,
     "address": "0x5ca381bbfb58f0092df149bd3d243b08b9a8386e",
-    "name": "Moonchain",
     "symbol": "MXC",
+    "name": "MXC",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/4604/thumb/M_1-modified.png?1712206949"
+    "logoURI": "ipfs://QmUE65y8HZzD3ZGeKsojqJxzuVf3E65EwXSo4hp4qAExPw"
   },
   {
     "chainId": 1,
@@ -40778,11 +40778,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x6055dc6ff1077eebe5e6d2ba1a1f53d7ef8430de",
     "name": "Eclipse",
-    "symbol": "ES",
+    "address": "0x6055dc6ff1077eebe5e6d2ba1a1f53d7ef8430de",
     "decimals": 6,
-    "logoURI": "https://assets.coingecko.com/coins/images/54958/thumb/image_%2832%29.png?1742979704"
+    "symbol": "ES",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/36174.png"
   },
   {
     "chainId": 1,
@@ -56055,14 +56055,6 @@
     "decimals": 18,
     "symbol": "AKSMB",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/20664.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x84dad4e4a4d1510052d39e916330372db8cd1238",
-    "name": "DEEZ NUTS",
-    "symbol": "DEEZNUTS",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/40047/thumb/Coin_Token_NUTZ_copy_2.png?1725439210"
   },
   {
     "chainId": 1,
@@ -74721,6 +74713,14 @@
   },
   {
     "chainId": 1,
+    "name": "Meme Index",
+    "address": "0xb214b79eac9378a56d14d6e6d452150c80d6ad79",
+    "decimals": 18,
+    "symbol": "MEMEX",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/36179.png"
+  },
+  {
+    "chainId": 1,
     "name": "Waifu Token",
     "address": "0xb2279b6769cfba691416f00609b16244c0cf4b20",
     "decimals": 18,
@@ -80213,14 +80213,6 @@
     "decimals": 18,
     "symbol": "W12",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/4838.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xbf7bc9e63635dc11b335d52b0349d0100a53a1a7",
-    "name": "LinkTao",
-    "symbol": "LTAO",
-    "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/35963/thumb/Tao.jpeg?1710258313"
   },
   {
     "chainId": 1,
@@ -95115,14 +95107,6 @@
   },
   {
     "chainId": 1,
-    "name": "BitcoinBR",
-    "address": "0xe57425f1598f9b0d6219706b77f4b3da573a3695",
-    "decimals": 18,
-    "symbol": "BTCBR",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/16251.png"
-  },
-  {
-    "chainId": 1,
     "name": "SafeMoon V2",
     "address": "0xe574c0c33a7a67d9b09f9f0addbb3dca71a8f3e0",
     "decimals": 18,
@@ -100280,6 +100264,14 @@
     "decimals": 18,
     "symbol": "EDU",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2734.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xf27441230eadeac85b764610325cc9a0d7859689",
+    "name": "Astar",
+    "symbol": "ASTR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/22617/thumb/astr.png?1696521933"
   },
   {
     "chainId": 1,

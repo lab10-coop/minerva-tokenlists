@@ -616,6 +616,14 @@
     "logoURI": "https://tokens.pancakeswap.finance/images/0x20eE7B720f4E4c4FFcB00C4065cdae55271aECCa.png"
   },
   {
+    "chainId": 56,
+    "symbol": "sUSDe",
+    "name": "Staked USDe",
+    "decimals": 18,
+    "address": "0x211cc4dd073734da055fbf44a2b4667d5e5fe5d2",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x211Cc4DD073734dA055fbF44a2b4667d5E5fE5d2.png"
+  },
+  {
     "name": "BUX",
     "symbol": "BUX",
     "address": "0x211ffbe424b90e25a15531ca322adf1559779e45",
@@ -1666,6 +1674,14 @@
     "chainId": 56,
     "decimals": 18,
     "logoURI": "https://tokens.pancakeswap.finance/images/0x5D0158A5c3ddF47d4Ea4517d8DB0D76aA2e87563.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "USDe",
+    "name": "USDe",
+    "decimals": 18,
+    "address": "0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34.png"
   },
   {
     "name": "Lien",
@@ -2748,6 +2764,14 @@
     "logoURI": "https://tokens.pancakeswap.finance/images/0xA1434F1FC3F437fa33F7a781E041961C0205B5Da.png"
   },
   {
+    "chainId": 56,
+    "symbol": "Broccoli",
+    "name": "Broccoli",
+    "decimals": 18,
+    "address": "0xa14b0b99c9117ea2f4fb2c9d772d95d9fd3acaab",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0xa14B0b99c9117eA2F4FB2C9D772d95d9fd3acaAb.png"
+  },
+  {
     "name": "AUTOv2",
     "symbol": "AUTO",
     "address": "0xa184088a740c695e156f91f5cc086a06bb78b827",
@@ -3098,6 +3122,14 @@
     "chainId": 56,
     "decimals": 18,
     "logoURI": "https://tokens.pancakeswap.finance/images/0xb6C53431608E626AC81a9776ac3e999c5556717c.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "PUMP",
+    "name": "pumpBTC Governance token",
+    "decimals": 18,
+    "address": "0xb7c0007ab75350c582d5eab1862b872b5cf53f0c",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0xB7C0007ab75350c582d5eAb1862b872B5cF53F0C.png"
   },
   {
     "name": "Zilliqa",
