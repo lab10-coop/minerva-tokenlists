@@ -2906,6 +2906,7 @@
     "logoURI": "https://ethereum-optimism.github.io/data/AJNA/logo.svg",
     "extensions": {
       "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1",
       "opListId": "extended",
       "opTokenId": "AJNA"
     }
@@ -3268,6 +3269,8 @@
     "extensions": {
       "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1",
       "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "modeBridgeAddress": "0x735aDBbE72226BD52e818E7181953f42E3b0FF21",
+      "liskBridgeAddress": "0x2658723Bf70c7667De6B25F99fcce13A16D25d08",
       "opListId": "extended",
       "opTokenId": "SMT"
     }
@@ -3918,6 +3921,19 @@
   },
   {
     "chainId": 1,
+    "address": "0xceb1ad1420252fc66856eb38497c267cf81f67cc",
+    "name": "Metal DAO",
+    "symbol": "MTL",
+    "decimals": 8,
+    "logoURI": "https://ethereum-optimism.github.io/data/MTL/logo.svg",
+    "extensions": {
+      "metall2BridgeAddress": "0x6d0f65D59b55B0FEC5d2d15365154DcADC140BF3",
+      "opListId": "extended",
+      "opTokenId": "MTL"
+    }
+  },
+  {
+    "chainId": 1,
     "address": "0xcf078da6e85389de507ceede0e3d217e457b9d49",
     "name": "Skillful AI",
     "symbol": "SKAI",
@@ -4034,6 +4050,19 @@
       "unichainBridgeAddress": "0x81014F44b0a345033bB2b3B21C7a1A308B35fEeA",
       "opListId": "extended",
       "opTokenId": "RGT"
+    }
+  },
+  {
+    "chainId": 1,
+    "address": "0xd2ba23de8a19316a638dc1e7a9adda1d74233368",
+    "name": "QuickSwap",
+    "symbol": "QUICK",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/QUICK/logo.svg",
+    "extensions": {
+      "soneiumBridgeAddress": "0xeb9bf100225c214efc3e7c651ebbadcf85177607",
+      "opListId": "extended",
+      "opTokenId": "QUICK"
     }
   },
   {
@@ -5403,6 +5432,19 @@
       "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "extended",
       "opTokenId": "XRING"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0x5e0f5388896a6b6232abf076ee89bc6dfc043685",
+    "name": "Ajna",
+    "symbol": "AJNA",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/AJNA/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "AJNA"
     }
   },
   {
@@ -8053,6 +8095,31 @@
   },
   {
     "chainId": 1135,
+    "address": "0x18bc5bcc660cf2b9ce3cd51a404afe1a0cbd3c22",
+    "name": "IDRX",
+    "symbol": "IDRX",
+    "decimals": 2,
+    "logoURI": "https://ethereum-optimism.github.io/data/IDRX/logo.svg",
+    "extensions": {
+      "opListId": "extended",
+      "opTokenId": "IDRX"
+    }
+  },
+  {
+    "chainId": 1135,
+    "address": "0x2fcab60dc6ad65be5f2aae6a1b2e2ecb93017888",
+    "name": "Swarm Markets",
+    "symbol": "SMT",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/SMT/logo.svg",
+    "extensions": {
+      "liskBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "SMT"
+    }
+  },
+  {
+    "chainId": 1135,
     "address": "0x398697b203ca909e05690b6684d56938964b07a0",
     "name": "UTU Coin",
     "symbol": "UTU",
@@ -8118,6 +8185,19 @@
   },
   {
     "chainId": 1750,
+    "address": "0xbcfc435d8f276585f6431fc1b9ee9a850b5c00a9",
+    "name": "Metal DAO",
+    "symbol": "MTL",
+    "decimals": 8,
+    "logoURI": "https://ethereum-optimism.github.io/data/MTL/logo.svg",
+    "extensions": {
+      "metall2BridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "MTL"
+    }
+  },
+  {
+    "chainId": 1750,
     "address": "0xf1f9ccc7638f124c3d9354be0ede2acb5f0a15bc",
     "name": "Mugloo",
     "symbol": "MUGLOO",
@@ -8140,6 +8220,19 @@
       "metall2BridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "extended",
       "opTokenId": "CTRAVL"
+    }
+  },
+  {
+    "chainId": 1868,
+    "address": "0x6ef08f42c936f5d101b76160c816d3c8181c9867",
+    "name": "QuickSwap",
+    "symbol": "QUICK",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/QUICK/logo.svg",
+    "extensions": {
+      "soneiumBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "QUICK"
     }
   },
   {
@@ -8179,6 +8272,18 @@
       "liskBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "extended",
       "opTokenId": "LSK"
+    }
+  },
+  {
+    "chainId": 4202,
+    "address": "0xd63029c1a3da68b51c67c6d1dec3dee50d681661",
+    "name": "IDRX",
+    "symbol": "IDRX",
+    "decimals": 2,
+    "logoURI": "https://ethereum-optimism.github.io/data/IDRX/logo.svg",
+    "extensions": {
+      "opListId": "extended",
+      "opTokenId": "IDRX"
     }
   },
   {
@@ -8514,6 +8619,18 @@
       "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "extended",
       "opTokenId": "ISK"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0x18bc5bcc660cf2b9ce3cd51a404afe1a0cbd3c22",
+    "name": "IDRX",
+    "symbol": "IDRX",
+    "decimals": 2,
+    "logoURI": "https://ethereum-optimism.github.io/data/IDRX/logo.svg",
+    "extensions": {
+      "opListId": "extended",
+      "opTokenId": "IDRX"
     }
   },
   {
@@ -11818,6 +11935,19 @@
   },
   {
     "chainId": 34443,
+    "address": "0x06d6a7bdffafa3c953d7b9842f7f414a6e0beb4a",
+    "name": "Swarm Markets",
+    "symbol": "SMT",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/SMT/logo.svg",
+    "extensions": {
+      "modeBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "SMT"
+    }
+  },
+  {
+    "chainId": 34443,
     "address": "0x3390108e913824b8ead638444cc52b9abdf63798",
     "name": "Savings Dai",
     "symbol": "sDAI",
@@ -12267,6 +12397,18 @@
       "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "extended",
       "opTokenId": "BOBA"
+    }
+  },
+  {
+    "chainId": 84532,
+    "address": "0xd63029c1a3da68b51c67c6d1dec3dee50d681661",
+    "name": "IDRX",
+    "symbol": "IDRX",
+    "decimals": 2,
+    "logoURI": "https://ethereum-optimism.github.io/data/IDRX/logo.svg",
+    "extensions": {
+      "opListId": "extended",
+      "opTokenId": "IDRX"
     }
   },
   {
