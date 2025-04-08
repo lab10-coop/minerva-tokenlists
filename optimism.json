@@ -700,6 +700,7 @@
       "modeBridgeAddress": "0x735aDBbE72226BD52e818E7181953f42E3b0FF21",
       "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
       "unichainBridgeAddress": "0x81014F44b0a345033bB2b3B21C7a1A308B35fEeA",
+      "celoBridgeAddress": "0x9C4955b92F34148dbcfDCD82e9c9eCe5CF2badfe",
       "opListId": "default",
       "opTokenId": "UNI"
     }
@@ -755,6 +756,7 @@
       "modeBridgeAddress": "0x735aDBbE72226BD52e818E7181953f42E3b0FF21",
       "liskBridgeAddress": "0x2658723Bf70c7667De6B25F99fcce13A16D25d08",
       "unichainBridgeAddress": "0x81014F44b0a345033bB2b3B21C7a1A308B35fEeA",
+      "celoBridgeAddress": "0x9C4955b92F34148dbcfDCD82e9c9eCe5CF2badfe",
       "opListId": "default",
       "opTokenId": "WBTC"
     }
@@ -2343,6 +2345,7 @@
       "modeBridgeAddress": "0x735aDBbE72226BD52e818E7181953f42E3b0FF21",
       "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
       "unichainBridgeAddress": "0x81014F44b0a345033bB2b3B21C7a1A308B35fEeA",
+      "celoBridgeAddress": "0x9C4955b92F34148dbcfDCD82e9c9eCe5CF2badfe",
       "opListId": "default",
       "opTokenId": "AAVE"
     }
@@ -4128,6 +4131,7 @@
       "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1",
       "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
       "unichainBridgeAddress": "0x81014F44b0a345033bB2b3B21C7a1A308B35fEeA",
+      "celoBridgeAddress": "0x9C4955b92F34148dbcfDCD82e9c9eCe5CF2badfe",
       "opListId": "default",
       "opTokenId": "CRV"
     }
@@ -12073,6 +12077,70 @@
       "modeBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "default",
       "opTokenId": "USDT"
+    }
+  },
+  {
+    "chainId": 42220,
+    "address": "0x75184c282e55a7393053f0b8f4f3e7beae067fdc",
+    "name": "Curve DAO Token",
+    "symbol": "CRV",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/CRV/logo.png",
+    "extensions": {
+      "celoBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "default",
+      "opTokenId": "CRV"
+    }
+  },
+  {
+    "chainId": 42220,
+    "address": "0xd221812de1bd094f35587ee8e174b07b6167d9af",
+    "name": "Wrapped Ether",
+    "symbol": "WETH",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/WETH/logo.png",
+    "extensions": {
+      "opListId": "default",
+      "opTokenId": "WETH"
+    }
+  },
+  {
+    "chainId": 42220,
+    "address": "0xe79a3d9f18c20c93dbec8db8b28c6542d63df5e9",
+    "name": "Wrapped BTC",
+    "symbol": "WBTC",
+    "decimals": 8,
+    "logoURI": "https://ethereum-optimism.github.io/data/WBTC/logo.svg",
+    "extensions": {
+      "celoBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "default",
+      "opTokenId": "WBTC"
+    }
+  },
+  {
+    "chainId": 42220,
+    "address": "0xee571697998ec64e32b57d754d700c4dda2f2a0e",
+    "name": "Uniswap",
+    "symbol": "UNI",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/UNI/logo.png",
+    "extensions": {
+      "celoBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "default",
+      "opTokenId": "UNI"
+    }
+  },
+  {
+    "chainId": 42220,
+    "address": "0xf6a54aff8c97f7af3cc86dbaee88af6a7aab6288",
+    "name": "Aave Token",
+    "symbol": "AAVE",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/AAVE/logo.svg",
+    "extensions": {
+      "celoBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "default",
+      "opTokenId": "AAVE"
     }
   },
   {
