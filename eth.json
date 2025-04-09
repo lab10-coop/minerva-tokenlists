@@ -1433,14 +1433,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x02a97fd243b8301bcd6ba3a87693162d6bd130bd",
-    "name": "SempsunAi2 0",
-    "symbol": "SMAI20",
-    "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/35898/thumb/Artboard_14.png?1710164614"
-  },
-  {
-    "chainId": 1,
     "name": "BPEGd",
     "address": "0x02ad335dd3ca11c18cebbbb583b9613b6289d75f",
     "decimals": 18,
@@ -13724,11 +13716,11 @@
   },
   {
     "chainId": 1,
+    "name": "iBTC",
     "address": "0x20157dbabb84e3bbfe68c349d0d44e48ae7b5ad2",
-    "name": "iBTC Network",
-    "symbol": "IBTC",
     "decimals": 8,
-    "logoURI": "https://assets.coingecko.com/coins/images/37289/thumb/iBTC_main.png?1742022373"
+    "symbol": "iBTC",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/32716.png"
   },
   {
     "chainId": 1,
@@ -18993,14 +18985,6 @@
     "decimals": 18,
     "symbol": "DGE",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/35058.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x2d3590fac07b91c9451e8d16c372ece9758f040f",
-    "name": "ratsDAO",
-    "symbol": "RAT",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/33385/thumb/200x200.png?1701671914"
   },
   {
     "chainId": 1,
@@ -26836,11 +26820,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x3f80b1c54ae920be41a77f8b902259d48cf24ccf",
     "name": "KernelDAO",
-    "symbol": "KERNEL",
+    "address": "0x3f80b1c54ae920be41a77f8b902259d48cf24ccf",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/54326/thumb/Kernel_token_logo_2x.png?1739827205"
+    "symbol": "KERNEL",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/36180.png"
   },
   {
     "chainId": 1,
@@ -37586,11 +37570,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x590830dfdf9a3f68afcdde2694773debdf267774",
     "name": "Giza",
-    "symbol": "GIZA",
+    "address": "0x590830dfdf9a3f68afcdde2694773debdf267774",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/54922/thumb/giza_token_dark.png?1742538409"
+    "symbol": "$GIZA",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/36216.png"
   },
   {
     "chainId": 1,
@@ -54359,14 +54343,6 @@
     "decimals": 18,
     "symbol": "BOND",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/25462.png"
-  },
-  {
-    "chainId": 1,
-    "name": "Mind Network",
-    "address": "0x8096cd953fa2aba1e60dad27a3e58d71df2f62f1",
-    "decimals": 18,
-    "symbol": "FHE",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/36153.png"
   },
   {
     "chainId": 1,
@@ -80216,14 +80192,6 @@
   },
   {
     "chainId": 1,
-    "address": "0xbf9e72eeb5adb8b558334c8672950b7a379d4266",
-    "name": "CubToken",
-    "symbol": "CUBT",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/26197/thumb/photo-2022-04-20-13-35-28.jpg?1696525283"
-  },
-  {
-    "chainId": 1,
     "address": "0xbfa7cb34879167e982206fabf6ced5e2ba5cd496",
     "name": "Squirry",
     "symbol": "SQUIRRY",
@@ -88971,6 +88939,14 @@
   },
   {
     "chainId": 1,
+    "name": "Mind Network",
+    "address": "0xd55c9fb62e176a8eb6968f32958fefdd0962727e",
+    "decimals": 18,
+    "symbol": "FHE",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/36153.png"
+  },
+  {
+    "chainId": 1,
     "name": "Zethereum",
     "address": "0xd55e5ea9e6c055708ec01c881cb12907d33b21d4",
     "decimals": 18,
@@ -90843,11 +90819,11 @@
   },
   {
     "chainId": 1,
+    "name": "xSolvBTC",
     "address": "0xd9d920aa40f578ab794426f5c90f6c731d159def",
-    "name": "Solv Protocol SolvBTC BBN",
-    "symbol": "SOLVBTCBBN",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/39384/thumb/unnamed.png?1721961640"
+    "symbol": "xSolvBTC",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/33310.png"
   },
   {
     "chainId": 1,
@@ -97491,14 +97467,6 @@
   },
   {
     "chainId": 1,
-    "address": "0xebf221e4a7c31773aec33766e1743d90593b07f5",
-    "name": "Chat Chain",
-    "symbol": "CHAT",
-    "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/50315/thumb/cg.png?1727099752"
-  },
-  {
-    "chainId": 1,
     "name": "Yobit Token",
     "address": "0xebf4ca5319f406602eeff68da16261f1216011b5",
     "decimals": 18,
@@ -97800,14 +97768,6 @@
     "decimals": 18,
     "symbol": "SBA",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/4117.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xecbbe10d3b5adb681deb586d012b588e046bcb9b",
-    "name": "Fiber Network",
-    "symbol": "FIBER",
-    "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/40034/thumb/photo_2024-09-02_22.01.41.jpeg?1725381910"
   },
   {
     "chainId": 1,
@@ -101035,11 +100995,11 @@
   },
   {
     "chainId": 1,
-    "address": "0xf4445049080ae2fde75aaf0c6e603fb55875f02c",
     "name": "DIGIKA",
-    "symbol": "DGK",
+    "address": "0xf4445049080ae2fde75aaf0c6e603fb55875f02c",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/55038/thumb/dgk-dark-800px.png?1743404518"
+    "symbol": "DGK",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/36214.png"
   },
   {
     "chainId": 1,
@@ -113355,6 +113315,14 @@
   },
   {
     "chainId": 8453,
+    "address": "0x0ed151c9749d39c3ca8e537125fb4053e0c9b55f",
+    "symbol": "DAWAE",
+    "name": "DAWAE",
+    "decimals": 9,
+    "logoURI": "ipfs://QmQart4V6WaK8DoAGRp5NkaTkxGCh28EAC5TjTi6dDNiSu"
+  },
+  {
+    "chainId": 8453,
     "address": "0x0f929c29dce303f96b1d4104505f2e60ee795cac",
     "symbol": "THRO",
     "name": "NewThrone",
@@ -113851,6 +113819,14 @@
   },
   {
     "chainId": 8453,
+    "address": "0x2bd8880e7424dfb94597429de7253de73694de01",
+    "symbol": "GIA",
+    "name": "Gia by DexFi",
+    "decimals": 18,
+    "logoURI": "ipfs://QmcW2SwqCq8h36x6ugLzFe9vCjSSKMEwdCaNBQLMwip1Cq"
+  },
+  {
+    "chainId": 8453,
     "address": "0x2dad3a13ef0c6366220f989157009e501e7938f8",
     "symbol": "EXTRA",
     "name": "Extra Finance",
@@ -114331,6 +114307,14 @@
   },
   {
     "chainId": 8453,
+    "address": "0x506beb7965fc7053059006c7ab4c62c02c2d989f",
+    "symbol": "BWORM",
+    "name": "BrainWorms",
+    "decimals": 18,
+    "logoURI": "ipfs://QmezfuZa1YdHpVzDrb6Q2cYrkNfcQMwNmVUMET7PfPiak7"
+  },
+  {
+    "chainId": 8453,
     "address": "0x50c5725949a6f0c72e6c4a641f24049a917db0cb",
     "symbol": "DAI",
     "name": "Dai",
@@ -114656,6 +114640,14 @@
     "name": "CrappyBird",
     "decimals": 18,
     "logoURI": "ipfs://QmWz4MLoBHLHySQxvr4QctZthS2EuR5MaJaAHp1gLk1yuS"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x6948de89f535ed4a3b07122be0fe1ae65d527c03",
+    "symbol": "ACTUAL",
+    "name": "Actual by Virtuals",
+    "decimals": 18,
+    "logoURI": "ipfs://QmUHBbsU243BMoaL3v8xD5PHptDQbpmovZjEEiPvC5XanP"
   },
   {
     "chainId": 8453,
@@ -115928,6 +115920,14 @@
     "name": "SOX",
     "decimals": 18,
     "logoURI": "ipfs://QmScP867HmNszdAveWcv59Fk3aeE3zF61qnjhqTTc3GpcM"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xd9da0a693ea8057dcd97f02df6c98951acf92ef7",
+    "symbol": "CPA",
+    "name": "CPA by Virtuals",
+    "decimals": 18,
+    "logoURI": "ipfs://QmavNHCmAF6tzoSLXGWhKXNYJrevFdE31qCPmzG5UsNYWm"
   },
   {
     "chainId": 8453,
