@@ -4533,7 +4533,7 @@
     "logoURI": "https://ethereum-optimism.github.io/data/BICO/logo.svg",
     "extensions": {
       "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
-      "unichainBridgeAddress": "0x81014F44b0a345033bB2b3B21C7a1A308B35fEeA",
+      "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1",
       "opListId": "extended",
       "opTokenId": "BICO"
     }
@@ -6674,6 +6674,19 @@
   },
   {
     "chainId": 10,
+    "address": "0xd6909e9e702024eb93312b989ee46794c0fb1c9d",
+    "name": "Biconomy",
+    "symbol": "BICO",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/BICO/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "BICO"
+    }
+  },
+  {
+    "chainId": 10,
     "address": "0xd8737ca46aa6285de7b8777a8e3db232911bad41",
     "name": "StaFi Token",
     "symbol": "FIS",
@@ -7411,19 +7424,6 @@
       "unichainBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "default",
       "opTokenId": "LINK"
-    }
-  },
-  {
-    "chainId": 130,
-    "address": "0x604ff88adc02325efb7f93db3e442dc81d0588e7",
-    "name": "Biconomy Token",
-    "symbol": "BICO",
-    "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/data/BICO/logo.svg",
-    "extensions": {
-      "unichainBridgeAddress": "0x4200000000000000000000000000000000000010",
-      "opListId": "extended",
-      "opTokenId": "BICO"
     }
   },
   {
