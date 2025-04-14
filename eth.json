@@ -6033,6 +6033,14 @@
   },
   {
     "chainId": 1,
+    "name": "LaCoin",
+    "address": "0x0df3a853e4b604fc2ac0881e9dc92db27ff7f51b",
+    "decimals": 18,
+    "symbol": "LAC",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/27293.png"
+  },
+  {
+    "chainId": 1,
     "name": "Po.et",
     "address": "0x0e0989b1f9b8a38983c2ba8053269ca62ec9b195",
     "decimals": 8,
@@ -16828,7 +16836,7 @@
   },
   {
     "chainId": 1,
-    "name": "Aleph.im",
+    "name": "Aleph Cloud",
     "address": "0x27702a26126e0b3702af63ee09ac4d1a084ef628",
     "decimals": 18,
     "symbol": "ALEPH",
@@ -19820,11 +19828,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x2f42b7d686ca3effc69778b6ed8493a7787b4d6e",
     "name": "Taraxa",
-    "symbol": "TARA",
+    "address": "0x2f42b7d686ca3effc69778b6ed8493a7787b4d6e",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/4372/thumb/just_logo_dark_background.png?1724826855"
+    "symbol": "TARA",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/8715.png"
   },
   {
     "chainId": 1,
@@ -26340,14 +26348,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x3e29793c9bdeb6ce5a84c2beced91ad50c530b16",
-    "name": "ChainZoom",
-    "symbol": "ZOOM",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/37241/thumb/1000006617.jpg?1713859754"
-  },
-  {
-    "chainId": 1,
     "name": "IPVERSE",
     "address": "0x3e2c956b4ab4807b2f942235c9074d9bd069e9f0",
     "decimals": 18,
@@ -27337,14 +27337,6 @@
     "decimals": 18,
     "symbol": "ELP",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/15519.png"
-  },
-  {
-    "chainId": 1,
-    "name": "Jacobian AI",
-    "address": "0x40b5725a67b1eecd80379d59432e5cd84d5c50d0",
-    "decimals": 9,
-    "symbol": "JAI",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/35070.png"
   },
   {
     "chainId": 1,
@@ -39687,14 +39679,6 @@
     "decimals": 18,
     "symbol": "DERP",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28472.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x5dfe42eea70a3e6f93ee54ed9c321af07a85535c",
-    "name": "Union Finance",
-    "symbol": "UNION",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/30556/thumb/Mark.png?1712560901"
   },
   {
     "chainId": 1,
@@ -53122,11 +53106,11 @@
   },
   {
     "chainId": 1,
-    "name": "LaCoin",
     "address": "0x7d12bcab2d53fae6d7e360acb71d9b55ecbd1ce3",
-    "decimals": 18,
+    "name": "La Coin",
     "symbol": "LAC",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/27293.png"
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/30834/thumb/200x200.png?1696529692"
   },
   {
     "chainId": 1,
@@ -59682,11 +59666,11 @@
   },
   {
     "chainId": 1,
+    "name": "World Liberty Financial USD",
     "address": "0x8d0d000ee44948fc98c9b98a4fa4921476f08b0d",
-    "name": "USD1",
-    "symbol": "USD1",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/54977/thumb/30Q2SFVH_400x400.jpg?1742998328"
+    "symbol": "USD1",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/36148.png"
   },
   {
     "chainId": 1,
@@ -83492,14 +83476,6 @@
   },
   {
     "chainId": 1,
-    "name": "USD One",
-    "address": "0xc824bf014539f6bde6b81abaaca0d626c2ac5985",
-    "decimals": 18,
-    "symbol": "USD1",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/35969.png"
-  },
-  {
-    "chainId": 1,
     "name": "ARC",
     "address": "0xc82e3db60a52cf7529253b4ec688f631aad9e7c2",
     "decimals": 18,
@@ -92299,6 +92275,14 @@
   },
   {
     "chainId": 1,
+    "name": "Jacobian AI",
+    "address": "0xde0949b1a4a12ebcf39caab64a42a207b5baba88",
+    "decimals": 18,
+    "symbol": "JAI",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/35070.png"
+  },
+  {
+    "chainId": 1,
     "address": "0xde0a515d133397d62eb3fcdfcc68ba4904ac49c0",
     "name": "Shinji",
     "symbol": "SHNJ",
@@ -95016,14 +95000,6 @@
     "decimals": 18,
     "symbol": "HEDGE",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/33507.png"
-  },
-  {
-    "chainId": 1,
-    "name": "SafeMoon V2",
-    "address": "0xe574c0c33a7a67d9b09f9f0addbb3dca71a8f3e0",
-    "decimals": 18,
-    "symbol": "SFM",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/16162.png"
   },
   {
     "chainId": 1,
