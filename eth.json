@@ -4265,7 +4265,7 @@
   },
   {
     "chainId": 1,
-    "name": "PALCOIN Venture Capital",
+    "name": "Palcoin Ventures",
     "address": "0x0994bd54cde8f83eab517d833a581b4be5b6f919",
     "decimals": 4,
     "symbol": "PALCOIN",
@@ -9361,14 +9361,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x160085da9e1b6c8fd9cb6e16253055796599318a",
-    "name": "SoAI",
-    "symbol": "SOAI",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/50595/thumb/soai.jpg?1728445323"
-  },
-  {
-    "chainId": 1,
     "name": "Qubitica",
     "address": "0x1602af2c782cc03f9241992e243290fccf73bb13",
     "decimals": 18,
@@ -11400,11 +11392,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x1a88df1cfe15af22b3c4c783d4e6f7f9e0c1885d",
     "name": "Aave stkGHO",
-    "symbol": "STKGHO",
+    "address": "0x1a88df1cfe15af22b3c4c783d4e6f7f9e0c1885d",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/34849/thumb/staked-gho.png?1736975912"
+    "symbol": "STKGHO",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/36245.png"
   },
   {
     "chainId": 1,
@@ -16961,6 +16953,14 @@
     "decimals": 18,
     "symbol": "ENC",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/4350.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Patic",
+    "address": "0x27cf096db452425c51daa356e7d9c574c75e8737",
+    "decimals": 18,
+    "symbol": "PTC",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/36249.png"
   },
   {
     "chainId": 1,
@@ -33026,11 +33026,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x4da27a545c0c5b758a6ba100e3a049001de870f5",
-    "symbol": "stkAAVE",
     "name": "Staked Aave",
+    "address": "0x4da27a545c0c5b758a6ba100e3a049001de870f5",
     "decimals": 18,
-    "logoURI": "ipfs://QmcjgRdQpPPRKCdqf9WzNb3bWC6CPt5UUctFCFULffHwqt"
+    "symbol": "stkAAVE",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/36246.png"
   },
   {
     "chainId": 1,
@@ -47223,14 +47223,6 @@
     "decimals": 18,
     "symbol": "NEON",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/26735.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x6eef75b8f067b5853a36da5561f52a8f22faa9af",
-    "name": "TaoStack",
-    "symbol": "TST",
-    "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/36720/thumb/Logomark_Taostack.png?1712129260"
   },
   {
     "chainId": 1,
@@ -77552,7 +77544,7 @@
   },
   {
     "chainId": 1,
-    "name": "Zus",
+    "name": "Züs",
     "address": "0xb9ef770b6a5e12e45983c5d80545258aa38f3b78",
     "decimals": 18,
     "symbol": "ZCN",
@@ -81689,14 +81681,6 @@
     "decimals": 9,
     "symbol": "DAISY",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/27052.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xc3ade5ace1bbb033ccae8177c12ecbfa16bd6a9d",
-    "name": "Inception swETH",
-    "symbol": "INSWETH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/34943/thumb/swETH.png?1706757072"
   },
   {
     "chainId": 1,
@@ -90971,11 +90955,11 @@
   },
   {
     "chainId": 1,
+    "name": "Official World Liberty Financial",
     "address": "0xda5e1988097297dcdc1f90d4dfe7909e847cbef6",
-    "name": "World Liberty Financial",
-    "symbol": "WLFI",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/50767/thumb/wlfi.jpg?1729123752"
+    "symbol": "WLFI",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/33251.png"
   },
   {
     "chainId": 1,
@@ -95696,14 +95680,6 @@
     "symbol": "ETH+",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/38061/thumb/ETH__Logo.png?1716440789"
-  },
-  {
-    "chainId": 1,
-    "address": "0xe73cec024b30a7195af80d13f3b6917d80af11d8",
-    "name": "GOATED",
-    "symbol": "GOAT",
-    "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/34735/thumb/IMG_20240121_025525_360.jpg?1705943971"
   },
   {
     "chainId": 1,
@@ -116272,6 +116248,14 @@
     "name": "Staked ERN Vault",
     "decimals": 18,
     "logoURI": "ipfs://QmT69pqviCx43ANsWZ5ZgFpcMnATb8JANQm6uZsRiCq2gS"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xf7b0dd0b642a6ccc2fc4d8ffe2bffb0cac8c43c8",
+    "symbol": "GEKKO",
+    "name": "Gekko AI by Virtuals",
+    "decimals": 18,
+    "logoURI": "ipfs://QmWfZPGB3XkgnhMzPBvtCmwaHRY4kYJDCLKvxuUpJEvKhx"
   },
   {
     "chainId": 8453,
