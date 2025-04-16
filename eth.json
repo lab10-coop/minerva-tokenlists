@@ -18832,7 +18832,7 @@
     "name": "Anvil",
     "symbol": "ANVL",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/50825/thumb/anvil-logo_%281%29.png?1729240436"
+    "logoURI": "https://assets.coingecko.com/coins/images/50825/thumb/anvil.png?1744709012"
   },
   {
     "chainId": 1,
@@ -24073,14 +24073,6 @@
     "decimals": 18,
     "symbol": "PANO",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29954.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x38547d918b9645f2d94336b6b61aeb08053e142c",
-    "name": "USC",
-    "symbol": "USC",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/34124/thumb/USC-Logo-%28200px%29.png?1717198420"
   },
   {
     "chainId": 1,
@@ -38938,6 +38930,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x5c697fee285b513711a816018dbb34dc0cfc4875",
+    "name": "Minutes Network Token",
+    "symbol": "MNTX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55216/thumb/mntx.jpg?1744736020"
+  },
+  {
+    "chainId": 1,
     "address": "0x5c6ee304399dbdb9c8ef030ab642b10820db8f56",
     "name": "Balancer 80 BAL 20 WETH",
     "symbol": "B-80BAL-20WETH",
@@ -41514,11 +41514,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x6243558a24cc6116abe751f27e6d7ede50abfc76",
     "name": "Levva Protocol",
-    "symbol": "LVVA",
+    "address": "0x6243558a24cc6116abe751f27e6d7ede50abfc76",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/54803/thumb/Levva_Token_Image_Nov_19_2024.png?1741853490"
+    "symbol": "LVVA",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/36265.png"
   },
   {
     "chainId": 1,
@@ -46375,6 +46375,14 @@
     "decimals": 18,
     "symbol": "HOT",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2682.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x6c76de483f1752ac8473e2b4983a873991e70da7",
+    "name": "Bitlayer",
+    "symbol": "BTR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55177/thumb/App_Logo.png?1744368194"
   },
   {
     "chainId": 1,
@@ -63082,14 +63090,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x95ac17ce4021417e25b8edf807366fc3be091b5e",
-    "name": "Zaar",
-    "symbol": "ZAAR",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/30901/thumb/zaar.jpeg?1713753409"
-  },
-  {
-    "chainId": 1,
     "address": "0x95ad53e32942c0cf9fd60208964782af8bedb709",
     "name": "Kuma",
     "symbol": "KUMA",
@@ -71105,11 +71105,11 @@
   },
   {
     "chainId": 1,
+    "name": "COCORO",
     "address": "0xa93d86af16fe83f064e3c0e2f3d129f7b7b002b0",
-    "name": "Cocoro",
-    "symbol": "COCORO",
     "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/54821/thumb/photo_2025-03-10_7.51.53_PM.jpeg?1741857858"
+    "symbol": "COCORO",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/36264.png"
   },
   {
     "chainId": 1,
@@ -77544,7 +77544,7 @@
   },
   {
     "chainId": 1,
-    "name": "Züs",
+    "name": "Zus",
     "address": "0xb9ef770b6a5e12e45983c5d80545258aa38f3b78",
     "decimals": 18,
     "symbol": "ZCN",
@@ -82052,14 +82052,6 @@
   },
   {
     "chainId": 1,
-    "address": "0xc4c244f1dbca07083fee35220d2169957c275e68",
-    "name": "Steak",
-    "symbol": "STEAK",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/36597/thumb/Small_STEAK_Token_Logo_%28200_x_200_px%29.png?1711950525"
-  },
-  {
-    "chainId": 1,
     "name": "Chain Games",
     "address": "0xc4c2614e694cf534d407ee49f8e44d125e4681c4",
     "decimals": 18,
@@ -83457,6 +83449,14 @@
     "symbol": "HGETH",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/52281/thumb/hgETH.png?1732897068"
+  },
+  {
+    "chainId": 1,
+    "name": "Currency One USD",
+    "address": "0xc824bf014539f6bde6b81abaaca0d626c2ac5985",
+    "decimals": 18,
+    "symbol": "USD1",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/35969.png"
   },
   {
     "chainId": 1,
@@ -88912,14 +88912,6 @@
     "decimals": 5,
     "symbol": "GAME",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/10861.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xd57187e56e5b31b4d7813d7ceea1e9f9b97ee82f",
-    "name": "zkInfra",
-    "symbol": "ZKIN",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/36517/thumb/IMG_20240327_124751_784.jpg?1711694787"
   },
   {
     "chainId": 1,
