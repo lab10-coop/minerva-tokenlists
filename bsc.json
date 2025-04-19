@@ -728,6 +728,14 @@
     "logoURI": "https://tokens.pancakeswap.finance/images/0x2416092f143378750bb29b79eD961ab195CcEea5.png"
   },
   {
+    "chainId": 56,
+    "symbol": "USR",
+    "name": "Resolv USD",
+    "decimals": 18,
+    "address": "0x2492d0006411af6c8bbb1c8afc1b0197350a79e9",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x2492D0006411Af6C8bbb1c8afc1B0197350a79e9.png"
+  },
+  {
     "name": "Beacon ETH",
     "symbol": "BETH",
     "address": "0x250632378e573c6be1ac2f97fcdf00515d0aa91b",
@@ -1038,6 +1046,14 @@
     "chainId": 56,
     "decimals": 18,
     "logoURI": "https://tokens.pancakeswap.finance/images/0x398f7827DcCbeFe6990478876bBF3612D93baF05.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "BANK",
+    "name": "Lorenzo Governance Token",
+    "decimals": 18,
+    "address": "0x3aee7602b612de36088f3ffed8c8f10e86ebf2bf",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x3AeE7602b612de36088F3ffEd8c8f10E86EbF2bF.png"
   },
   {
     "name": "Stader (Wormhole)",
