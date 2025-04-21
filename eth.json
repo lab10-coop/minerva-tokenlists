@@ -26244,6 +26244,14 @@
   },
   {
     "chainId": 1,
+    "name": "Balance",
+    "address": "0x3dc8e2d80b6215a1bccae4d38715c3520581e77c",
+    "decimals": 18,
+    "symbol": "EPT",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/35671.png"
+  },
+  {
+    "chainId": 1,
     "name": "Attention Mining",
     "address": "0x3dc9a42fa7afe57be03c58fd7f4411b1e466c508",
     "decimals": 18,
@@ -52755,10 +52763,10 @@
   {
     "chainId": 1,
     "address": "0x7c07f7abe10ce8e33dc6c5ad68fe033085256a84",
+    "symbol": "icETH",
     "name": "Interest Compounding ETH Index",
-    "symbol": "ICETH",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/24483/thumb/icETH-token-logo.png?1696523661"
+    "logoURI": "ipfs://QmbxbEDAEufwM3dBxM1YHo8C4YmjTRMF6GEiL5nFrgTiL5"
   },
   {
     "chainId": 1,
@@ -98707,6 +98715,14 @@
   },
   {
     "chainId": 1,
+    "address": "0xef4461891dfb3ac8572ccf7c794664a8dd927945",
+    "name": "WalletConnect Token",
+    "symbol": "WCT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/50390/thumb/wc-token1.png?1727569464"
+  },
+  {
+    "chainId": 1,
     "name": "HARU",
     "address": "0xef497b970f50286a9805b91809b8615e6d0ef19b",
     "decimals": 18,
@@ -113139,6 +113155,14 @@
   },
   {
     "chainId": 8453,
+    "address": "0x06a63c498ef95ad1fa4fff841955e512b4b2198a",
+    "symbol": "GLUTEU",
+    "name": "Gluteus Maximus by Virtuals",
+    "decimals": 18,
+    "logoURI": "ipfs://QmP768oqXeeAvYQ3RaPXKcUAZHjg5uF1owHY4H1G2b5R1v"
+  },
+  {
+    "chainId": 8453,
     "address": "0x06abb84958029468574b28b6e7792a770ccaa2f6",
     "symbol": "MONK",
     "name": "0xMonk by Virtuals",
@@ -113360,6 +113384,14 @@
     "name": "RUNNER",
     "decimals": 18,
     "logoURI": "ipfs://QmV5givtC27joME4gMwqcVCGjRUQRRR7c5dF9yGip8ospx"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x18bc5bcc660cf2b9ce3cd51a404afe1a0cbd3c22",
+    "symbol": "IDRX",
+    "name": "IDRX",
+    "decimals": 2,
+    "logoURI": "ipfs://QmNfs3qv7fbnZ4GhTBkWTjwUQBf6S49q6tmhQMfGxZMTBb"
   },
   {
     "chainId": 8453,
@@ -113771,6 +113803,22 @@
   },
   {
     "chainId": 8453,
+    "address": "0x2eac9b08a4d86f347b9e856fb3ec082e61c76545",
+    "symbol": "AIRENE",
+    "name": "AIRENE by Virtuals",
+    "decimals": 18,
+    "logoURI": "ipfs://QmXnptdKyxaeRSHQLjd54yZtF2jsdh4DxqKdidmUyYwM9L"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x2efb2110f352fc98cd39dc041887c41766dbb301",
+    "symbol": "CROW",
+    "name": "cr0w by Virtuals",
+    "decimals": 18,
+    "logoURI": "ipfs://QmbaJrG6tH17htBveLwCzEeLt6cxv26wRgAu2T8WFYWpTE"
+  },
+  {
+    "chainId": 8453,
     "address": "0x2f299be3b081e8cd47dc56c1932fcae7a91b5dcd",
     "symbol": "XTTA",
     "name": "XTTA",
@@ -114147,6 +114195,14 @@
   },
   {
     "chainId": 8453,
+    "address": "0x49c86046903807d0a3193a221c1a3e1b1b6c9ba3",
+    "symbol": "CYI",
+    "name": "CYI by Virtuals",
+    "decimals": 18,
+    "logoURI": "ipfs://QmRiyLWWvejuEtENpKmBthQvdyvr6CeyvDd91e1otSGjQF"
+  },
+  {
+    "chainId": 8453,
     "address": "0x4a3a6dd60a34bb2aba60d73b4c88315e9ceb6a3d",
     "symbol": "MIM",
     "name": "Magic Internet Money",
@@ -114331,6 +114387,14 @@
   },
   {
     "chainId": 8453,
+    "address": "0x56a38e7216304108e841579041249feb236c887b",
+    "symbol": "LBM",
+    "name": "Libertum",
+    "decimals": 18,
+    "logoURI": "ipfs://QmVZ5i5QVNVLkU6WpWfBuc2wgCztBe6esTYCQdHHAjq3dz"
+  },
+  {
+    "chainId": 8453,
     "address": "0x589864a9892b1a736ae70a91824ab4dc591fd8cd",
     "symbol": "gib",
     "name": "Gibape",
@@ -114424,6 +114488,14 @@
     "name": "JESSE",
     "decimals": 18,
     "logoURI": "ipfs://QmQ3B11xTDm66Px6m4LBjbVtwuJCyWGP5XCYrbZwDc8QcX"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x5f6a682a58854c7fbe228712aeeffccde0008ac0",
+    "symbol": "SHEKEL",
+    "name": "Rabbi Schlomo by Virtuals",
+    "decimals": 18,
+    "logoURI": "ipfs://QmQtrawdT1FNiK56ftKZV7rGfUQPshxKUaWy7vFEvXpUSC"
   },
   {
     "chainId": 8453,
@@ -114731,6 +114803,14 @@
   },
   {
     "chainId": 8453,
+    "address": "0x7588880d9c78e81fade7b7e8dc0781e95995a792",
+    "symbol": "SAINT",
+    "name": "Satoshi AI agent by Virtuals",
+    "decimals": 18,
+    "logoURI": "ipfs://QmUE7YNgQbCxyz26t487LZVV3rJKDHbccZ3c1Ssjvz4ejX"
+  },
+  {
+    "chainId": 8453,
     "address": "0x767a739d1a152639e9ea1d8c1bd55fdc5b217d7f",
     "symbol": "VEIL",
     "name": "VEIL",
@@ -114768,6 +114848,14 @@
     "name": "BaseSwap",
     "decimals": 18,
     "logoURI": "ipfs://QmaHZa1Zr7Rk8PYvKr3AqGH4G7i3iRNYEMgKnXtZDPdgh6"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x79bbf4508b1391af3a0f4b30bb5fc4aa9ab0e07c",
+    "symbol": "Anon",
+    "name": "Hey Anon",
+    "decimals": 18,
+    "logoURI": "ipfs://QmRbbDHFMjZRV7U3JNuveyT5mAZmQxfPw34ARMgYPXWq1c"
   },
   {
     "chainId": 8453,
