@@ -1844,6 +1844,19 @@
   },
   {
     "chainId": 1,
+    "address": "0x68614481aef06e53d23bbe0772343fb555ac40c8",
+    "name": "Polemos",
+    "symbol": "PLMS",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/PLMS/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "opListId": "extended",
+      "opTokenId": "PLMS"
+    }
+  },
+  {
+    "chainId": 1,
     "address": "0x686f2404e77ab0d9070a46cdfb0b7fecdd2318b0",
     "name": "Lords",
     "symbol": "LORDS",
@@ -9991,6 +10004,19 @@
   },
   {
     "chainId": 8453,
+    "address": "0x66ae6198dcd1b12a6e245356ba15b63d16f56bbe",
+    "name": "Polemos",
+    "symbol": "PLMS",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/PLMS/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "PLMS"
+    }
+  },
+  {
+    "chainId": 8453,
     "address": "0x6774dfc16e1d9b6ce5b0aec4ffed37a0daef0602",
     "name": "Shutter Token",
     "symbol": "SHU",
@@ -12663,6 +12689,19 @@
     }
   },
   {
+    "chainId": 84532,
+    "address": "0xfece410118e578dcbfd489e2b6fe5fee390093d0",
+    "name": "Polemos",
+    "symbol": "PLMS",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/PLMS/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "PLMS"
+    }
+  },
+  {
     "chainId": 11155111,
     "address": "0x0000000000000000000000000000000000000000",
     "name": "Ether",
@@ -12971,6 +13010,19 @@
       "baseBridgeAddress": "0xfd0Bf71F60660E2f608ed56e1659C450eB113120",
       "opListId": "extended",
       "opTokenId": "BKN"
+    }
+  },
+  {
+    "chainId": 11155111,
+    "address": "0xa5939298bc1905e3a1047dd50a3459084bb4e7c8",
+    "name": "Polemos",
+    "symbol": "PLMS",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/PLMS/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0xfd0Bf71F60660E2f608ed56e1659C450eB113120",
+      "opListId": "extended",
+      "opTokenId": "PLMS"
     }
   },
   {
