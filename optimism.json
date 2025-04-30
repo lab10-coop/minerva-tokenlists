@@ -1870,6 +1870,19 @@
   },
   {
     "chainId": 1,
+    "address": "0x68749665ff8d2d112fa859aa293f07a622782f38",
+    "name": "Tether Gold",
+    "symbol": "XAUt",
+    "decimals": 6,
+    "logoURI": "https://ethereum-optimism.github.io/data/XAUt/logo.svg",
+    "extensions": {
+      "celoBridgeAddress": "0x9C4955b92F34148dbcfDCD82e9c9eCe5CF2badfe",
+      "opListId": "extended",
+      "opTokenId": "XAUt"
+    }
+  },
+  {
+    "chainId": 1,
     "address": "0x68e2e5c9dff32419a108713f83274a4fb5e194ca",
     "name": "Glacier Network",
     "symbol": "GLS",
@@ -4906,6 +4919,19 @@
   },
   {
     "chainId": 10,
+    "address": "0x01bff41798a0bcf287b996046ca68b395dbc1071",
+    "name": "USD₮0",
+    "symbol": "USD₮0",
+    "decimals": 6,
+    "logoURI": "https://ethereum-optimism.github.io/data/USD₮0/logo.png",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "USD₮0"
+    }
+  },
+  {
+    "chainId": 10,
     "address": "0x03e5b5930f3a42b56af4a982b10e60957bdd2f61",
     "name": "Prime",
     "symbol": "D2D",
@@ -7699,6 +7725,19 @@
   },
   {
     "chainId": 130,
+    "address": "0x9151434b16b9763660705744891fa906f660ecc5",
+    "name": "USD₮0",
+    "symbol": "USD₮0",
+    "decimals": 6,
+    "logoURI": "https://ethereum-optimism.github.io/data/USD₮0/logo.png",
+    "extensions": {
+      "unichainBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "USD₮0"
+    }
+  },
+  {
+    "chainId": 130,
     "address": "0x927b51f251480a681271180da4de28d44ec4afb8",
     "name": "Wrapped BTC",
     "symbol": "WBTC",
@@ -8125,6 +8164,19 @@
     }
   },
   {
+    "chainId": 480,
+    "address": "0x102d758f688a4c1c5a80b116bd945d4455460282",
+    "name": "Stargate USD₮0 (Bridged)",
+    "symbol": "USD₮0",
+    "decimals": 6,
+    "logoURI": "https://ethereum-optimism.github.io/data/USD₮0/logo.png",
+    "extensions": {
+      "worldchainBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "USD₮0"
+    }
+  },
+  {
     "chainId": 690,
     "address": "0xd5d59fc063e7548b6015a36feb10b875924a19be",
     "name": "Bridged USDC (Lattice)",
@@ -8199,6 +8251,19 @@
       "liskBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "extended",
       "opTokenId": "UTU"
+    }
+  },
+  {
+    "chainId": 1135,
+    "address": "0x43f2376d5d03553ae72f4a8093bbe9de4336eb08",
+    "name": "Stargate USD₮0 (Bridged)",
+    "symbol": "USD₮0",
+    "decimals": 6,
+    "logoURI": "https://ethereum-optimism.github.io/data/USD₮0/logo.png",
+    "extensions": {
+      "liskBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "USD₮0"
     }
   },
   {
@@ -8294,6 +8359,19 @@
   },
   {
     "chainId": 1868,
+    "address": "0x102d758f688a4c1c5a80b116bd945d4455460282",
+    "name": "Stargate USD₮0 (Bridged)",
+    "symbol": "USD₮0",
+    "decimals": 6,
+    "logoURI": "https://ethereum-optimism.github.io/data/USD₮0/logo.png",
+    "extensions": {
+      "soneiumBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "USD₮0"
+    }
+  },
+  {
+    "chainId": 1868,
     "address": "0x6ef08f42c936f5d101b76160c816d3c8181c9867",
     "name": "QuickSwap",
     "symbol": "QUICK",
@@ -8303,6 +8381,19 @@
       "soneiumBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "extended",
       "opTokenId": "QUICK"
+    }
+  },
+  {
+    "chainId": 1923,
+    "address": "0x102d758f688a4c1c5a80b116bd945d4455460282",
+    "name": "Stargate USD₮0 (Bridged)",
+    "symbol": "USD₮0",
+    "decimals": 6,
+    "logoURI": "https://ethereum-optimism.github.io/data/USD₮0/logo.png",
+    "extensions": {
+      "swellchainBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "USD₮0"
     }
   },
   {
@@ -8586,6 +8677,19 @@
       "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "extended",
       "opTokenId": "GRT"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0x102d758f688a4c1c5a80b116bd945d4455460282",
+    "name": "Stargate USD₮0 (Bridged)",
+    "symbol": "USD₮0",
+    "decimals": 6,
+    "logoURI": "https://ethereum-optimism.github.io/data/USD₮0/logo.png",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "USD₮0"
     }
   },
   {
@@ -12083,6 +12187,19 @@
   },
   {
     "chainId": 34443,
+    "address": "0x102d758f688a4c1c5a80b116bd945d4455460282",
+    "name": "Stargate USD₮0 (Bridged)",
+    "symbol": "USD₮0",
+    "decimals": 6,
+    "logoURI": "https://ethereum-optimism.github.io/data/USD₮0/logo.png",
+    "extensions": {
+      "modeBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "USD₮0"
+    }
+  },
+  {
+    "chainId": 34443,
     "address": "0x3390108e913824b8ead638444cc52b9abdf63798",
     "name": "Savings Dai",
     "symbol": "sDAI",
@@ -12212,6 +12329,19 @@
   },
   {
     "chainId": 42220,
+    "address": "0x3776228836bfcfc87cac36c28830b67759c02707",
+    "name": "Tether Gold",
+    "symbol": "XAUt",
+    "decimals": 6,
+    "logoURI": "https://ethereum-optimism.github.io/data/XAUt/logo.svg",
+    "extensions": {
+      "celoBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "XAUt"
+    }
+  },
+  {
+    "chainId": 42220,
     "address": "0x75184c282e55a7393053f0b8f4f3e7beae067fdc",
     "name": "Curve DAO Token",
     "symbol": "CRV",
@@ -12272,6 +12402,19 @@
       "celoBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "default",
       "opTokenId": "AAVE"
+    }
+  },
+  {
+    "chainId": 57073,
+    "address": "0x0200c29006150606b650577bbe7b6248f58470c1",
+    "name": "USD₮0",
+    "symbol": "USD₮0",
+    "decimals": 6,
+    "logoURI": "https://ethereum-optimism.github.io/data/USD₮0/logo.png",
+    "extensions": {
+      "inkBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "USD₮0"
     }
   },
   {
