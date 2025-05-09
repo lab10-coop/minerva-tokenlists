@@ -2185,14 +2185,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x04815313e9329e8905a77251a1781cfa7934259a",
-    "name": "wagmicatgirlkanye420etfmoon1000x",
-    "symbol": "HOOD",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/33843/thumb/Hood.png?1703121051"
-  },
-  {
-    "chainId": 1,
     "name": "SparkPoint",
     "address": "0x0488401c3f535193fa8df029d9ffe615a06e74e6",
     "decimals": 18,
@@ -6785,14 +6777,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x0fc2a55d5bd13033f1ee0cdd11f60f7efe66f467",
-    "name": "Lagrange",
-    "symbol": "LA",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/55550/thumb/Lagrange-logo-png-gradient.png?1746637731"
-  },
-  {
-    "chainId": 1,
     "name": "Quantfury Token",
     "address": "0x0fcbc31c503b4a9ed90e87f8ff46c318a4a14260",
     "decimals": 8,
@@ -9998,6 +9982,14 @@
     "symbol": "UUSDT",
     "decimals": 6,
     "logoURI": "https://assets.coingecko.com/coins/images/13778/thumb/uUSDT.png?1696513519"
+  },
+  {
+    "chainId": 1,
+    "name": "Superseed",
+    "address": "0x17906b1cd88aa8efaefc5e82891b52a22219bd45",
+    "decimals": 18,
+    "symbol": "SUPR",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/36436.png"
   },
   {
     "chainId": 1,
@@ -22220,11 +22212,11 @@
   },
   {
     "chainId": 1,
-    "name": "Frax Share",
     "address": "0x3432b6a60d23ca0dfca7761b7ab56459d9c964d0",
+    "name": "Frax  prev  FXS ",
+    "symbol": "FRAX",
     "decimals": 18,
-    "symbol": "FXS",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/6953.png"
+    "logoURI": "https://assets.coingecko.com/coins/images/13423/thumb/frax.png?1745921071"
   },
   {
     "chainId": 1,
@@ -27572,14 +27564,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x414cbf31c62d99515bfd66497b495a585b52f703",
-    "name": "Chappie",
-    "symbol": "CHAP",
-    "decimals": 0,
-    "logoURI": "https://assets.coingecko.com/coins/images/31375/thumb/Frame_563.png?1696530192"
-  },
-  {
-    "chainId": 1,
     "name": "Forta",
     "address": "0x41545f8b9472d758bb669ed8eaeeecd7a9c4ec29",
     "decimals": 18,
@@ -28076,7 +28060,7 @@
   },
   {
     "chainId": 1,
-    "name": "Sentio Protocol",
+    "name": "Sentio Ai",
     "address": "0x421b05cf5ce28cb7347e73e2278e84472f0e4a88",
     "decimals": 18,
     "symbol": "SEN",
@@ -28209,14 +28193,6 @@
     "decimals": 9,
     "symbol": "APOLLO",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/24530.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x4268a135840e5273e9dcb3dc78303767d3964f43",
-    "name": "Fungify NFT Index",
-    "symbol": "NFT",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/40108/thumb/200x200_nft-logo.png?1725696912"
   },
   {
     "chainId": 1,
@@ -56154,7 +56130,7 @@
   },
   {
     "chainId": 1,
-    "name": "Frax",
+    "name": "Legacy Frax Dollar",
     "address": "0x853d955acef822db058eb8505911ed77f175b99e",
     "decimals": 18,
     "symbol": "FRAX",
@@ -65977,6 +65953,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x9c4ab3c926ad52e1281f6e8783cb4fe4512c5e3f",
+    "name": "Cellex",
+    "symbol": "CELLEX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55566/thumb/200x200.png?1746721431"
+  },
+  {
+    "chainId": 1,
     "name": "Tate Stop",
     "address": "0x9c4cf40b5b5c3a58761683e65a87902130eb1b7c",
     "decimals": 9,
@@ -68169,14 +68153,6 @@
   },
   {
     "chainId": 1,
-    "address": "0xa1b014878d47c0836ed79163ddec55985adb7023",
-    "name": "Dog Food Token",
-    "symbol": "OISHII",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/50682/thumb/oishii.png?1729064633"
-  },
-  {
-    "chainId": 1,
     "address": "0xa1b0edf4460cc4d8bfaa18ed871bff15e5b57eb4",
     "name": "Aave AMM UniBATWETH",
     "symbol": "AAMMUNIBATWETH",
@@ -70089,11 +70065,11 @@
   },
   {
     "chainId": 1,
-    "address": "0xa663b02cf0a4b149d2ad41910cb81e23e1c41c32",
     "name": "Staked FRAX",
-    "symbol": "SFRAX",
+    "address": "0xa663b02cf0a4b149d2ad41910cb81e23e1c41c32",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/35383/thumb/sfrax-logo.png?1739780377"
+    "symbol": "SFRAX",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/36433.png"
   },
   {
     "chainId": 1,
@@ -74627,7 +74603,7 @@
     "chainId": 1,
     "name": "Green",
     "address": "0xb2089a7069861c8d90c8da3aacab8e9188c0c531",
-    "decimals": 8,
+    "decimals": 18,
     "symbol": "GREEN",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28720.png"
   },
@@ -83377,14 +83353,6 @@
     "decimals": 18,
     "symbol": "MNT",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/21995.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xc7c53760375530e5af29fded5e13989325299382",
-    "name": "WORLD PEACE COIN",
-    "symbol": "WPC",
-    "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/32331/thumb/image01_%282%29_2.jpg?1697452381"
   },
   {
     "chainId": 1,
@@ -92264,6 +92232,14 @@
     "decimals": 18,
     "symbol": "UNIX",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/14915.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xdddd73f5df1f0dc31373357beac77545dc5a6f3f",
+    "name": "Plume USD",
+    "symbol": "PUSD",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/55542/thumb/pUSD-token.png?1746610746"
   },
   {
     "chainId": 1,
@@ -101979,11 +101955,11 @@
   },
   {
     "chainId": 1,
-    "address": "0xf6ad4965f7779c6b8ae4d25bf2a2e009a47c3dae",
     "name": "Brainedge",
-    "symbol": "LEARN",
+    "address": "0xf6ad4965f7779c6b8ae4d25bf2a2e009a47c3dae",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/55093/thumb/BE-learn_token1.png?1743679595"
+    "symbol": "LEARN",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/36440.png"
   },
   {
     "chainId": 1,
