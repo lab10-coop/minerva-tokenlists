@@ -6146,10 +6146,10 @@
   {
     "chainId": 1,
     "address": "0x0e5f00da8aaef196a719d045db89b5da8f371b32",
-    "name": "Connectome",
     "symbol": "CNTM",
+    "name": "Connectome",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/8528/thumb/200_200_CNTM-LOGO-07.png?1696508705"
+    "logoURI": "ipfs://QmVcrnK6NXkjWy1WUFmMSzJYtqXmcsnL2WBCbuQV4b5L2F"
   },
   {
     "chainId": 1,
@@ -6990,6 +6990,14 @@
     "decimals": 18,
     "symbol": "GVT",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2181.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x103c45ffcf40f481a318480718501527929a89c3",
+    "name": "FRAGMA",
+    "symbol": "FRAGMA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55664/thumb/PFP.png?1746960843"
   },
   {
     "chainId": 1,
@@ -26756,6 +26764,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x3f40514a01fe69943c84416f528bc73f323f02cd",
+    "name": "QU3ai",
+    "symbol": "QU3",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55661/thumb/QU3_Sign_AVA_1.png?1746946172"
+  },
+  {
+    "chainId": 1,
     "name": "Jindoge",
     "address": "0x3f4cd830543db25254ec0f05eac058d4d6e86166",
     "decimals": 18,
@@ -45410,14 +45426,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x6a26edf3bbc9f154ca9175216ceb9812f5305e6e",
-    "name": "Pixel",
-    "symbol": "PIXE",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/35251/thumb/Pixel_200x200_transparent.png?1708889564"
-  },
-  {
-    "chainId": 1,
     "name": "MAGIKAL.ai",
     "address": "0x6a26ee7755d939b96cdcd8a0370630d48902fd7c",
     "decimals": 18,
@@ -55274,14 +55282,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x82e229f145aa61000e523f97e5e8174107414897",
-    "name": "Ryno AI",
-    "symbol": "RYNO",
-    "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/50345/thumb/coingecko.png?1727247804"
-  },
-  {
-    "chainId": 1,
     "name": "AZBI CORE",
     "address": "0x82f39cd08a942f344ca7e7034461cc88c2009199",
     "decimals": 18,
@@ -63321,6 +63321,14 @@
   },
   {
     "chainId": 1,
+    "name": "Strawberry In Bloom",
+    "address": "0x962c8a85f500519266269f77dffba4cea0b46da1",
+    "decimals": 9,
+    "symbol": "BERRY",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/36460.png"
+  },
+  {
+    "chainId": 1,
     "name": "USD Freedom",
     "address": "0x963035453633f6f7433032c958f82eb3043d8cd2",
     "decimals": 18,
@@ -65121,14 +65129,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x9aaf731799e824a74a4d3a14e6b00bcc28c327db",
-    "name": "Jable",
-    "symbol": "JAB",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/32131/thumb/Jab.png?1696588461"
-  },
-  {
-    "chainId": 1,
     "name": "Yeap Fun",
     "address": "0x9ab165594e0afa65a539653d5afedbec6b32bd0d",
     "decimals": 18,
@@ -65197,7 +65197,7 @@
     "name": "Yee Token",
     "symbol": "YEE",
     "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/55226/thumb/Yee_Token.png?1744802626"
+    "logoURI": "https://assets.coingecko.com/coins/images/55226/thumb/yee-logo.png?1746966292"
   },
   {
     "chainId": 1,
@@ -65334,14 +65334,6 @@
     "symbol": "WSIENNA",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/15420/thumb/sienna.jpeg?1696515066"
-  },
-  {
-    "chainId": 1,
-    "address": "0x9b01637302b6adfc2c82678e2a8d680cff6337b7",
-    "name": "Fit",
-    "symbol": "FIT",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/30918/thumb/FIT_Token_1000.png?1696529763"
   },
   {
     "chainId": 1,
@@ -74262,14 +74254,6 @@
     "decimals": 18,
     "symbol": "MEME",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28301.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xb13de094cc5cee6c4cc0a3737bf0290166d9ca5d",
-    "name": "GoWithMi",
-    "symbol": "GMAT",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/7162/thumb/qXNbxVny_400x400.png?1696507459"
   },
   {
     "chainId": 1,
@@ -90067,14 +90051,6 @@
   },
   {
     "chainId": 1,
-    "address": "0xd836d22531d810f192ba6bd0ba3c28c35d4606c2",
-    "name": "BONKBEST",
-    "symbol": "BONKBEST",
-    "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/34421/thumb/IMG_20240108_204110_824.jpg?1704821712"
-  },
-  {
-    "chainId": 1,
     "name": "InsureDAO",
     "address": "0xd83ae04c9ed29d6d3e6bf720c71bc7beb424393e",
     "decimals": 18,
@@ -90136,6 +90112,14 @@
     "decimals": 18,
     "symbol": "HAKA",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/10526.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xd86830e9c56785e2b703eb0029ae71a943e4d442",
+    "name": "Kobushi",
+    "symbol": "KOBUSHI",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/55685/thumb/kobushi1_%281%29.png?1746984806"
   },
   {
     "chainId": 1,
@@ -92408,14 +92392,6 @@
     "decimals": 8,
     "symbol": "FUDD",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2227.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xde466831fde62e5141d49ba9d962d3fa3fae466f",
-    "name": "DystoWorld AI",
-    "symbol": "DYSTO",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/38955/thumb/dystotoken.jpg?1719689845"
   },
   {
     "chainId": 1,
@@ -102987,14 +102963,6 @@
   },
   {
     "chainId": 1,
-    "address": "0xf976fc699eb81a302a29bac6590d1565e8e5da0d",
-    "name": "RAKUICHI Token",
-    "symbol": "RKC",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/40065/thumb/_RKC_token_icon_S.png?1725483324"
-  },
-  {
-    "chainId": 1,
     "name": "holoride",
     "address": "0xf97e2a78f1f3d1fd438ff7cc3bb7de01e5945b83",
     "decimals": 18,
@@ -104064,6 +104032,14 @@
     "decimals": 18,
     "symbol": "BTRU",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/31211.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xfc7ea2eb0e0ba0d1d1951ce0a12999f761cfdb98",
+    "name": "Mato The Mouse",
+    "symbol": "MATO",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/55672/thumb/Mato_The_Mouse.jpg?1746963754"
   },
   {
     "chainId": 1,
