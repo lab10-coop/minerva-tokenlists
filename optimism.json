@@ -4923,9 +4923,8 @@
     "name": "USD₮0",
     "symbol": "USD₮0",
     "decimals": 6,
-    "logoURI": "https://ethereum-optimism.github.io/data/USD₮0/logo.png",
+    "logoURI": "https://ethereum-optimism.github.io/data/USD%E2%82%AE0/logo.png",
     "extensions": {
-      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "extended",
       "opTokenId": "USD₮0"
     }
@@ -7729,9 +7728,8 @@
     "name": "USD₮0",
     "symbol": "USD₮0",
     "decimals": 6,
-    "logoURI": "https://ethereum-optimism.github.io/data/USD₮0/logo.png",
+    "logoURI": "https://ethereum-optimism.github.io/data/USD%E2%82%AE0/logo.png",
     "extensions": {
-      "unichainBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "extended",
       "opTokenId": "USD₮0"
     }
@@ -8169,9 +8167,8 @@
     "name": "Stargate USD₮0 (Bridged)",
     "symbol": "USD₮0",
     "decimals": 6,
-    "logoURI": "https://ethereum-optimism.github.io/data/USD₮0/logo.png",
+    "logoURI": "https://ethereum-optimism.github.io/data/USD%E2%82%AE0/logo.png",
     "extensions": {
-      "worldchainBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "extended",
       "opTokenId": "USD₮0"
     }
@@ -8259,9 +8256,8 @@
     "name": "Stargate USD₮0 (Bridged)",
     "symbol": "USD₮0",
     "decimals": 6,
-    "logoURI": "https://ethereum-optimism.github.io/data/USD₮0/logo.png",
+    "logoURI": "https://ethereum-optimism.github.io/data/USD%E2%82%AE0/logo.png",
     "extensions": {
-      "liskBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "extended",
       "opTokenId": "USD₮0"
     }
@@ -8363,9 +8359,8 @@
     "name": "Stargate USD₮0 (Bridged)",
     "symbol": "USD₮0",
     "decimals": 6,
-    "logoURI": "https://ethereum-optimism.github.io/data/USD₮0/logo.png",
+    "logoURI": "https://ethereum-optimism.github.io/data/USD%E2%82%AE0/logo.png",
     "extensions": {
-      "soneiumBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "extended",
       "opTokenId": "USD₮0"
     }
@@ -8389,9 +8384,8 @@
     "name": "Stargate USD₮0 (Bridged)",
     "symbol": "USD₮0",
     "decimals": 6,
-    "logoURI": "https://ethereum-optimism.github.io/data/USD₮0/logo.png",
+    "logoURI": "https://ethereum-optimism.github.io/data/USD%E2%82%AE0/logo.png",
     "extensions": {
-      "swellchainBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "extended",
       "opTokenId": "USD₮0"
     }
@@ -8685,9 +8679,8 @@
     "name": "Stargate USD₮0 (Bridged)",
     "symbol": "USD₮0",
     "decimals": 6,
-    "logoURI": "https://ethereum-optimism.github.io/data/USD₮0/logo.png",
+    "logoURI": "https://ethereum-optimism.github.io/data/USD%E2%82%AE0/logo.png",
     "extensions": {
-      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "extended",
       "opTokenId": "USD₮0"
     }
@@ -8844,6 +8837,19 @@
       "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "extended",
       "opTokenId": "RAC"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0x1b745230a0320470a9af55bb0a67c47c90978a14",
+    "name": "Subvault Token Shares",
+    "symbol": "STS",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/STS/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "STS"
     }
   },
   {
@@ -12191,9 +12197,8 @@
     "name": "Stargate USD₮0 (Bridged)",
     "symbol": "USD₮0",
     "decimals": 6,
-    "logoURI": "https://ethereum-optimism.github.io/data/USD₮0/logo.png",
+    "logoURI": "https://ethereum-optimism.github.io/data/USD%E2%82%AE0/logo.png",
     "extensions": {
-      "modeBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "extended",
       "opTokenId": "USD₮0"
     }
@@ -12410,9 +12415,8 @@
     "name": "USD₮0",
     "symbol": "USD₮0",
     "decimals": 6,
-    "logoURI": "https://ethereum-optimism.github.io/data/USD₮0/logo.png",
+    "logoURI": "https://ethereum-optimism.github.io/data/USD%E2%82%AE0/logo.png",
     "extensions": {
-      "inkBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "extended",
       "opTokenId": "USD₮0"
     }
@@ -12794,6 +12798,19 @@
   },
   {
     "chainId": 84532,
+    "address": "0xf8c91a56db8485fcee21c5bf6345b063cf4228f6",
+    "name": "BTREE",
+    "symbol": "BTREE",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/BTREE/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "BTREE"
+    }
+  },
+  {
+    "chainId": 84532,
     "address": "0xf92620d8d20e0197885ff1005506ef4d0be5bd54",
     "name": "ArcBlock",
     "symbol": "ABT",
@@ -13114,6 +13131,19 @@
     "extensions": {
       "opListId": "extended",
       "opTokenId": "CXT"
+    }
+  },
+  {
+    "chainId": 11155111,
+    "address": "0x8389efa79ef27de249af63f034d7a94dfbdd4cbe",
+    "name": "BTREE",
+    "symbol": "BTREE",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/BTREE/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0xfd0Bf71F60660E2f608ed56e1659C450eB113120",
+      "opListId": "extended",
+      "opTokenId": "BTREE"
     }
   },
   {
