@@ -4255,6 +4255,19 @@
   },
   {
     "chainId": 1,
+    "address": "0xdab396ccf3d84cf2d07c4454e10c8a6f5b008d2b",
+    "name": "Goldfinch",
+    "symbol": "GFI",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/GFI/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "opListId": "extended",
+      "opTokenId": "GFI"
+    }
+  },
+  {
+    "chainId": 1,
     "address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
     "name": "Tether USD",
     "symbol": "USDT",
@@ -11131,6 +11144,19 @@
       "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "default",
       "opTokenId": "rETH"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb78e7d4c5d47af92942321ed40419dab0e573810",
+    "name": "Goldfinch",
+    "symbol": "GFI",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/GFI/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "GFI"
     }
   },
   {
