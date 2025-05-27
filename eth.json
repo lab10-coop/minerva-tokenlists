@@ -6673,11 +6673,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x0f7dc5d02cc1e1f5ee47854d534d332a1081ccc8",
     "name": "Pepes Dog",
-    "symbol": "ZEUS",
+    "address": "0x0f7dc5d02cc1e1f5ee47854d534d332a1081ccc8",
     "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/56021/thumb/Pepes_Dog.jpg?1748024354"
+    "symbol": "ZEUS",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/36605.png"
   },
   {
     "chainId": 1,
@@ -42394,6 +42394,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x6440f144b7e50d6a8439336510312d2f54beb01d",
+    "name": "Liquity BOLD",
+    "symbol": "BOLD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/56069/thumb/BOLD_logo.png?1748265087"
+  },
+  {
+    "chainId": 1,
     "name": "Nexera",
     "address": "0x644192291cc835a93d6330b24ea5f5fedd0eef9e",
     "decimals": 18,
@@ -46055,6 +46063,14 @@
     "decimals": 8,
     "symbol": "UBU",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/5074.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Sophon",
+    "address": "0x6b7774cb12ed7573a7586e7d0e62a2a563ddd3f0",
+    "decimals": 18,
+    "symbol": "SOPH",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/32087.png"
   },
   {
     "chainId": 1,
@@ -53647,6 +53663,14 @@
     "decimals": 18,
     "symbol": "FICO",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7117.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x7e4c9923fd8f18442532a737365c1bfb52579d2f",
+    "name": "ArcadiaOS",
+    "symbol": "ARCOS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/56072/thumb/200x200.png?1748280483"
   },
   {
     "chainId": 1,
@@ -72993,14 +73017,6 @@
   },
   {
     "chainId": 1,
-    "address": "0xadd353fb2e2c563383ff3272a500f3e7134dafe4",
-    "name": "Tunachain",
-    "symbol": "TUNA",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/36213/thumb/Project_Logo_B_Transparent.png?1710836529"
-  },
-  {
-    "chainId": 1,
     "name": "Pepe Unchained",
     "address": "0xadd39272e83895e7d3f244f696b7a25635f34234",
     "decimals": 18,
@@ -73946,7 +73962,7 @@
   {
     "chainId": 1,
     "address": "0xb01dd87b29d187f3e3a4bf6cdaebfb97f3d9ab98",
-    "name": "Liquity BOLD",
+    "name": "Legacy BOLD",
     "symbol": "BOLD",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/53755/thumb/BOLD_logo.png?1737183873"
@@ -96339,6 +96355,14 @@
   },
   {
     "chainId": 1,
+    "address": "0xe868084cf08f3c3db11f4b73a95473762d9463f7",
+    "name": "YU",
+    "symbol": "YU",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/56070/thumb/YU.png?1748275951"
+  },
+  {
+    "chainId": 1,
     "address": "0xe86df1970055e9caee93dae9b7d5fd71595d0e18",
     "name": "Bitcoin20",
     "symbol": "BTC20",
@@ -97957,7 +97981,7 @@
     "chainId": 1,
     "name": "LanLan Cat",
     "address": "0xecca809227d43b895754382f1fd871628d7e51fb",
-    "decimals": 9,
+    "decimals": 18,
     "symbol": "LANLAN",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/36574.png"
   },
@@ -103576,14 +103600,6 @@
     "symbol": "YBUSD",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/39977/thumb/Rectangle_381.png?1724994276"
-  },
-  {
-    "chainId": 1,
-    "address": "0xfa5b75a9e13df9775cf5b996a049d9cc07c15731",
-    "name": "28VCK",
-    "symbol": "VCK",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/20063/thumb/9435.png?1696519481"
   },
   {
     "chainId": 1,
