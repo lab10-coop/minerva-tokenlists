@@ -377,6 +377,14 @@
   },
   {
     "chainId": 1,
+    "name": "Cony",
+    "address": "0x002b68e699ab6cedc81e74e47f8a511dac6ecb11",
+    "decimals": 18,
+    "symbol": "CONY",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/36625.png"
+  },
+  {
+    "chainId": 1,
     "name": "ForesterX",
     "address": "0x002f2264aeec71041ae5739ecf0a2c80c5ea30fa",
     "decimals": 18,
@@ -7289,6 +7297,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x10ea9e5303670331bdddfa66a4cea47dae4fcf3b",
+    "name": "Session Token",
+    "symbol": "SESH",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/56073/thumb/SES_Logo_RGB_Brandmark_Colour.png?1748330955"
+  },
+  {
+    "chainId": 1,
     "name": "DogeZilla",
     "address": "0x10f0d8abab0c5ae6ed4fa33a9d1e8ac9ab518f1c",
     "decimals": 18,
@@ -12393,14 +12409,6 @@
     "decimals": 18,
     "symbol": "$MONG",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/24793.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x1ce7d9942ff78c328a4181b9f3826fee6d845a97",
-    "name": "YieldFi yToken",
-    "symbol": "YUSD",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/53607/thumb/yUSD.png?1739862886"
   },
   {
     "chainId": 1,
@@ -18148,11 +18156,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x2aeabde1ab736c59e9a19bed67681869eef39526",
     "name": "DOVU",
-    "symbol": "DOVU",
+    "address": "0x2aeabde1ab736c59e9a19bed67681869eef39526",
     "decimals": 8,
-    "logoURI": "https://assets.coingecko.com/coins/images/31930/thumb/Dovu_Icon_Black_%281%29.png?1696530738"
+    "symbol": "DOVU",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/30677.png"
   },
   {
     "chainId": 1,
@@ -20841,6 +20849,14 @@
     "name": "THORChain",
     "decimals": 18,
     "logoURI": "ipfs://Qmc62WwaGG6jDw94msaiHe9QkU2shpAEXmMSkWmNjDzYmo"
+  },
+  {
+    "chainId": 1,
+    "name": "Puffverse",
+    "address": "0x3157874a7508fcf972379d24590c6806522b784f",
+    "decimals": 18,
+    "symbol": "PFVS",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/36604.png"
   },
   {
     "chainId": 1,
@@ -26852,6 +26868,14 @@
   },
   {
     "chainId": 1,
+    "name": "Monerochan",
+    "address": "0x3f7db133aff2f012c8534b36ab9731fe9ee7bd43",
+    "decimals": 18,
+    "symbol": "MONEROCHAN",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/36611.png"
+  },
+  {
+    "chainId": 1,
     "name": "KernelDAO",
     "address": "0x3f80b1c54ae920be41a77f8b902259d48cf24ccf",
     "decimals": 18,
@@ -28097,6 +28121,14 @@
     "decimals": 18,
     "symbol": "MPEPE",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/24975.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Skyops",
+    "address": "0x42168a285252bd00e4930e2f9dc01d496b14c90a",
+    "decimals": 18,
+    "symbol": "SKYOPS",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/36610.png"
   },
   {
     "chainId": 1,
@@ -31882,11 +31914,11 @@
   },
   {
     "chainId": 1,
-    "name": "SELF Crypto",
     "address": "0x4af8aa621df6dd3e2d653188a357fc2b35c6a037",
-    "decimals": 18,
     "symbol": "SELF",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/26546.png"
+    "name": "SELF Crypto",
+    "decimals": 18,
+    "logoURI": "ipfs://QmU8AcQhncd794MFuVgybrbNsYwKJw6k8b4YPVDD8xLnsg"
   },
   {
     "chainId": 1,
@@ -32914,11 +32946,11 @@
   },
   {
     "chainId": 1,
-    "name": "Zeus",
     "address": "0x4d4574f50dd8b9dbe623cf329dcc78d76935e610",
-    "decimals": 9,
+    "name": "Zeus",
     "symbol": "ZEUS",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/36581.png"
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/56049/thumb/IMG_8143.jpeg?1748157666"
   },
   {
     "chainId": 1,
@@ -42322,14 +42354,6 @@
   },
   {
     "chainId": 1,
-    "name": "Zeus",
-    "address": "0x63fcde9dacf232760372dca5341e2ca3c65f5906",
-    "decimals": 9,
-    "symbol": "ZEUS",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/25384.png"
-  },
-  {
-    "chainId": 1,
     "address": "0x641927e970222b10b2e8cdbc96b1b4f427316f16",
     "name": "MEEB Vault  NFTX ",
     "symbol": "MEEB",
@@ -45754,6 +45778,14 @@
   },
   {
     "chainId": 1,
+    "name": "Unstable Coin",
+    "address": "0x6ab973862737b64830f8431be580f9d7c236382e",
+    "decimals": 18,
+    "symbol": "USDUC",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/36612.png"
+  },
+  {
+    "chainId": 1,
     "name": "AAAchain",
     "address": "0x6aba1623ea906d1164cbb007e764ebde2514a2ba",
     "decimals": 10,
@@ -48466,11 +48498,11 @@
   },
   {
     "chainId": 1,
-    "name": "Zeus",
     "address": "0x7137e8a3b069c3f787c4ffbb901b91e4ba47d082",
-    "decimals": 9,
+    "name": "Zeus",
     "symbol": "ZEUS",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/32006.png"
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/36847/thumb/zeusdog.jpg?1713034053"
   },
   {
     "chainId": 1,
@@ -53666,11 +53698,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x7e4c9923fd8f18442532a737365c1bfb52579d2f",
     "name": "ArcadiaOS",
-    "symbol": "ARCOS",
+    "address": "0x7e4c9923fd8f18442532a737365c1bfb52579d2f",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/56072/thumb/200x200.png?1748280483"
+    "symbol": "ARCOS",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/36617.png"
   },
   {
     "chainId": 1,
@@ -76904,6 +76936,14 @@
   },
   {
     "chainId": 1,
+    "name": "GX3.AI",
+    "address": "0xb7d29ec03d87dcd5d6f6ea39a855d5566e6c8f36",
+    "decimals": 9,
+    "symbol": "GX3",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/36624.png"
+  },
+  {
+    "chainId": 1,
     "name": "SpaceMine",
     "address": "0xb7de92be975ccb27e7352a1d47512acbdb0bac32",
     "decimals": 18,
@@ -78696,11 +78736,11 @@
   },
   {
     "chainId": 1,
+    "name": "Bitcoin 2.0",
     "address": "0xbc2ecbe2195114b82f03680ed4270fa7008f3be0",
-    "name": "Bitcoin 2 0",
-    "symbol": "BTC2",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/56050/thumb/IMG_8144.jpeg?1748158028"
+    "symbol": "BTC2",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/36615.png"
   },
   {
     "chainId": 1,
@@ -87183,7 +87223,7 @@
     "name": "Treehouse ETH",
     "symbol": "TETH",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/40155/thumb/tETH_logo_2_%281%29.png?1726079209"
+    "logoURI": "https://assets.coingecko.com/coins/images/40155/thumb/tETH_Logo_%28Color__No_Background%29.png?1748368386"
   },
   {
     "chainId": 1,
