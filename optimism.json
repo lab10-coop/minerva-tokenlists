@@ -2766,6 +2766,20 @@
   },
   {
     "chainId": 1,
+    "address": "0x8e0eef788350f40255d86dfe8d91ec0ad3a4547f",
+    "name": "Cortensor",
+    "symbol": "COR",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/COR/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1",
+      "opListId": "extended",
+      "opTokenId": "COR"
+    }
+  },
+  {
+    "chainId": 1,
     "address": "0x8e3c68a9c10d3bf2aaf14f2e569a8223f21bf2b6",
     "name": "Mugloo",
     "symbol": "MUGLOO",
@@ -3311,6 +3325,7 @@
     "extensions": {
       "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1",
       "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "unichainBridgeAddress": "0x81014F44b0a345033bB2b3B21C7a1A308B35fEeA",
       "celoBridgeAddress": "0x9C4955b92F34148dbcfDCD82e9c9eCe5CF2badfe",
       "opListId": "default",
       "opTokenId": "rETH"
@@ -5422,6 +5437,19 @@
     "symbol": "OP",
     "decimals": 18,
     "logoURI": "https://ethereum-optimism.github.io/data/OP/logo.png"
+  },
+  {
+    "chainId": 10,
+    "address": "0x44805a7597ab90624e0b4aa6947a47f358ae4ef1",
+    "name": "Cortensor",
+    "symbol": "COR",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/COR/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "COR"
+    }
   },
   {
     "chainId": 10,
@@ -7813,6 +7841,19 @@
       "unichainBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "default",
       "opTokenId": "WBTC"
+    }
+  },
+  {
+    "chainId": 130,
+    "address": "0x94cac393f3444cef63a651ffc18497e7e8bd036a",
+    "name": "Rocket Pool ETH",
+    "symbol": "rETH",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/rETH/logo.svg",
+    "extensions": {
+      "unichainBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "default",
+      "opTokenId": "rETH"
     }
   },
   {
@@ -11908,6 +11949,19 @@
       "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "extended",
       "opTokenId": "COC"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0xe30c0801a516f0c67ebc0c4b45ffa7dcbd72ea9a",
+    "name": "Cortensor",
+    "symbol": "COR",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/COR/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "COR"
     }
   },
   {
