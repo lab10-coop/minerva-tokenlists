@@ -608,6 +608,14 @@
     "logoURI": "https://tokens.pancakeswap.finance/images/0x1FFD0b47127fdd4097E54521C9E2c7f0D66AafC5.png"
   },
   {
+    "chainId": 56,
+    "symbol": "TAG",
+    "name": "Tagger",
+    "decimals": 18,
+    "address": "0x208bf3e7da9639f1eaefa2de78c23396b0682025",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x208bF3E7dA9639f1Eaefa2DE78c23396B0682025.png"
+  },
+  {
     "name": "Meta Apes Shell",
     "symbol": "SHELL",
     "address": "0x208cfec94d2ba8b8537da7a9bb361c6baad77272",
@@ -1989,11 +1997,27 @@
   },
   {
     "chainId": 56,
+    "symbol": "4EVER",
+    "name": "4EVERLAND",
+    "decimals": 18,
+    "address": "0x63ec886286f30ad392749b9e8f24f67f5b8ac394",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x63eC886286f30AD392749b9e8f24f67F5b8Ac394.png"
+  },
+  {
+    "chainId": 56,
     "symbol": "xPufETH",
     "name": "pufETH",
     "decimals": 18,
     "address": "0x64274835d88f5c0215da8aadd9a5f2d2a2569381",
     "logoURI": "https://tokens.pancakeswap.finance/images/0x64274835D88F5c0215da8AADd9A5f2D2A2569381.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "cUSDO",
+    "name": "Compounding Open Dollar",
+    "decimals": 18,
+    "address": "0x64748ea3e31d0b7916f0ff91b017b9f404ded8ef",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x64748ea3E31d0B7916F0fF91b017B9f404DED8eF.png"
   },
   {
     "name": "BitU USD",
@@ -3474,6 +3498,14 @@
     "chainId": 56,
     "decimals": 3,
     "logoURI": "https://tokens.pancakeswap.finance/images/0xb465f3cb6Aba6eE375E12918387DE1eaC2301B05.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "satUSD",
+    "name": "Satoshi Stablecoin V2",
+    "decimals": 18,
+    "address": "0xb4818bb69478730ef4e33cc068dd94278e2766cb",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0xb4818BB69478730EF4e33Cc068dD94278e2766cB.png"
   },
   {
     "name": "Litentry",

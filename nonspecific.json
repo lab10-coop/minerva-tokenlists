@@ -3819,6 +3819,17 @@
     ]
   },
   {
+    "address": "0x0b3e328455c4059eeb9e3f84b5543f74e24e7e1b",
+    "name": "Virtual Protocol",
+    "symbol": "VIRTUAL",
+    "decimals": 18,
+    "chainId": 8453,
+    "logoURI": "https://tokenlist.superfluid.org/icons/virtual.png",
+    "tags": [
+      "underlying"
+    ]
+  },
+  {
     "address": "0x141646f3717599bc94c388938b2ba3abf97f81e9",
     "name": "King Token",
     "symbol": "KING",
@@ -3891,6 +3902,17 @@
     ]
   },
   {
+    "address": "0x1bc0c42215582d5a085795f4badbac3ff36d1bcb",
+    "name": "tokenbot",
+    "symbol": "CLANKER",
+    "decimals": 18,
+    "chainId": 8453,
+    "logoURI": "https://tokenlist.superfluid.org/icons/clanker.png",
+    "tags": [
+      "underlying"
+    ]
+  },
+  {
     "address": "0x1c6d287b8b10f472dbeb84ee262deb1a0e18969c",
     "name": "Super HarryPotterObamaSonic10Inu",
     "symbol": "BITCOINx",
@@ -3936,6 +3958,22 @@
     ]
   },
   {
+    "address": "0x2099b5457fac10541cf07fe51798563abe5350c8",
+    "name": "Rocky",
+    "symbol": "ROC",
+    "decimals": 18,
+    "chainId": 8453,
+    "extensions": {
+      "superTokenInfo": {
+        "type": "Pure"
+      }
+    },
+    "logoURI": "https://tokenlist.superfluid.org/icons/roc.jpg",
+    "tags": [
+      "supertoken"
+    ]
+  },
+  {
     "address": "0x2112b92a4f6496b7b2f10850857ffa270464d054",
     "name": "SuperBoring",
     "symbol": "BORING",
@@ -3947,6 +3985,34 @@
       }
     },
     "logoURI": "https://tokenlist.superfluid.org/icons/boring.svg",
+    "tags": [
+      "supertoken"
+    ]
+  },
+  {
+    "address": "0x22af33fe49fd1fa80c7149773dde5890d3c76f3b",
+    "name": "BankrCoin",
+    "symbol": "BNKR",
+    "decimals": 18,
+    "chainId": 8453,
+    "logoURI": "https://tokenlist.superfluid.org/icons/bnkr.png",
+    "tags": [
+      "underlying"
+    ]
+  },
+  {
+    "address": "0x268bcdbb314f767def616529b974fd1fe70a134a",
+    "name": "Super ok banger",
+    "symbol": "OKBANGERx",
+    "decimals": 18,
+    "chainId": 8453,
+    "extensions": {
+      "superTokenInfo": {
+        "type": "Wrapper",
+        "underlyingTokenAddress": "0xc91b843709b1a38a695af225b36ff6879e7ddb07"
+      }
+    },
+    "logoURI": "https://tokenlist.superfluid.org/icons/okbanger.png",
     "tags": [
       "supertoken"
     ]
@@ -4161,6 +4227,23 @@
     ]
   },
   {
+    "address": "0x5721b31f7b2f323d3916cc26bc815373c3a57491",
+    "name": "Super BankrCoin",
+    "symbol": "BNKRx",
+    "decimals": 18,
+    "chainId": 8453,
+    "extensions": {
+      "superTokenInfo": {
+        "type": "Wrapper",
+        "underlyingTokenAddress": "0x22af33fe49fd1fa80c7149773dde5890d3c76f3b"
+      }
+    },
+    "logoURI": "https://tokenlist.superfluid.org/icons/bnkr.png",
+    "tags": [
+      "supertoken"
+    ]
+  },
+  {
     "address": "0x58122a048878f25c8c5d4b562419500ed74c6f75",
     "name": "Super Wrapped liquid staked Ether 2.0",
     "symbol": "wstETHx",
@@ -4349,6 +4432,40 @@
     ]
   },
   {
+    "address": "0x8829d71855546c3712022baee7b9c50f7972a890",
+    "name": "Super Virtual Protocol",
+    "symbol": "VIRTUALx",
+    "decimals": 18,
+    "chainId": 8453,
+    "extensions": {
+      "superTokenInfo": {
+        "type": "Wrapper",
+        "underlyingTokenAddress": "0x0b3e328455c4059eeb9e3f84b5543f74e24e7e1b"
+      }
+    },
+    "logoURI": "https://tokenlist.superfluid.org/icons/virtual.png",
+    "tags": [
+      "supertoken"
+    ]
+  },
+  {
+    "address": "0x882ac9e5339b4a5b4985a5e0e0ae9e459f73458b",
+    "name": "Super TalentProtocolToken",
+    "symbol": "TALENTx",
+    "decimals": 18,
+    "chainId": 8453,
+    "extensions": {
+      "superTokenInfo": {
+        "type": "Wrapper",
+        "underlyingTokenAddress": "0x9a33406165f562e16c3abd82fd1185482e01b49a"
+      }
+    },
+    "logoURI": "https://tokenlist.superfluid.org/icons/talent.png",
+    "tags": [
+      "supertoken"
+    ]
+  },
+  {
     "address": "0x8c9037d1ef5c6d1f6816278c7aaf5491d24cd527",
     "name": "Moxie",
     "symbol": "MOXIE",
@@ -4388,6 +4505,28 @@
     ]
   },
   {
+    "address": "0x9a33406165f562e16c3abd82fd1185482e01b49a",
+    "name": "TalentProtocolToken",
+    "symbol": "TALENT",
+    "decimals": 18,
+    "chainId": 8453,
+    "logoURI": "https://tokenlist.superfluid.org/icons/talent.png",
+    "tags": [
+      "underlying"
+    ]
+  },
+  {
+    "address": "0x9cb41fd9dc6891bae8187029461bfaadf6cc0c69",
+    "name": "noice",
+    "symbol": "noice",
+    "decimals": 18,
+    "chainId": 8453,
+    "logoURI": "https://tokenlist.superfluid.org/icons/noice.png",
+    "tags": [
+      "underlying"
+    ]
+  },
+  {
     "address": "0x9e13480a81af1dea2f255761810ef8d6cbf21735",
     "name": "Rorschach",
     "symbol": "ROR",
@@ -4406,6 +4545,23 @@
     "logoURI": "https://tokenlist.superfluid.org/icons/arsalang.png",
     "tags": [
       "underlying"
+    ]
+  },
+  {
+    "address": "0xa2a2b26d2d630e4dcf51fc909d19b5bbf6b76641",
+    "name": "Super noice",
+    "symbol": "noicex",
+    "decimals": 18,
+    "chainId": 8453,
+    "extensions": {
+      "superTokenInfo": {
+        "type": "Wrapper",
+        "underlyingTokenAddress": "0x9cb41fd9dc6891bae8187029461bfaadf6cc0c69"
+      }
+    },
+    "logoURI": "https://tokenlist.superfluid.org/icons/noice.png",
+    "tags": [
+      "supertoken"
     ]
   },
   {
@@ -4434,6 +4590,23 @@
     "logoURI": "https://tokenlist.superfluid.org/icons/xoc.png",
     "tags": [
       "underlying"
+    ]
+  },
+  {
+    "address": "0xa4299883d927d751694f5122f288e80db9850b61",
+    "name": "Super tokenbot",
+    "symbol": "CLANKERx",
+    "decimals": 18,
+    "chainId": 8453,
+    "extensions": {
+      "superTokenInfo": {
+        "type": "Wrapper",
+        "underlyingTokenAddress": "0x1bc0c42215582d5a085795f4badbac3ff36d1bcb"
+      }
+    },
+    "logoURI": "https://tokenlist.superfluid.org/icons/clanker.png",
+    "tags": [
+      "supertoken"
     ]
   },
   {
@@ -4502,6 +4675,17 @@
     ]
   },
   {
+    "address": "0xc91b843709b1a38a695af225b36ff6879e7ddb07",
+    "name": "ok banger",
+    "symbol": "OKBANGER",
+    "decimals": 18,
+    "chainId": 8453,
+    "logoURI": "https://tokenlist.superfluid.org/icons/okbanger.png",
+    "tags": [
+      "underlying"
+    ]
+  },
+  {
     "address": "0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf",
     "name": "Coinbase Wrapped BTC",
     "symbol": "cbBTC",
@@ -4559,6 +4743,23 @@
       }
     },
     "logoURI": "https://tokenlist.superfluid.org/icons/usdc.svg",
+    "tags": [
+      "supertoken"
+    ]
+  },
+  {
+    "address": "0xd6ce178751fc6c1d13fa203a0c8162b6ccbd5f14",
+    "name": "Super Procoin",
+    "symbol": "PROx",
+    "decimals": 18,
+    "chainId": 8453,
+    "extensions": {
+      "superTokenInfo": {
+        "type": "Wrapper",
+        "underlyingTokenAddress": "0xf65c3c30dd36b508e29a538b79b21e9b9e504e6c"
+      }
+    },
+    "logoURI": "https://tokenlist.superfluid.org/icons/pro.png",
     "tags": [
       "supertoken"
     ]
@@ -4678,6 +4879,17 @@
     "logoURI": "https://tokenlist.superfluid.org/icons/tn100x.png",
     "tags": [
       "supertoken"
+    ]
+  },
+  {
+    "address": "0xf65c3c30dd36b508e29a538b79b21e9b9e504e6c",
+    "name": "Procoin",
+    "symbol": "PRO",
+    "decimals": 18,
+    "chainId": 8453,
+    "logoURI": "https://tokenlist.superfluid.org/icons/pro.png",
+    "tags": [
+      "underlying"
     ]
   },
   {
