@@ -5018,6 +5018,17 @@
     ]
   },
   {
+    "address": "0x2f2a2543b76a4166549f7aab2e75bef0aefc5b0f",
+    "name": "Wrapped BTC",
+    "symbol": "WBTC",
+    "decimals": 8,
+    "chainId": 42161,
+    "logoURI": "https://tokenlist.superfluid.org/icons/wbtc.svg",
+    "tags": [
+      "underlying"
+    ]
+  },
+  {
     "address": "0x521677a61d101a80ce0fb903b13cb485232774ee",
     "name": "Super Dai Stablecoin",
     "symbol": "DAIx",
@@ -5139,6 +5150,23 @@
     "logoURI": "https://tokenlist.superfluid.org/icons/rpl.png",
     "tags": [
       "underlying"
+    ]
+  },
+  {
+    "address": "0xbfc83476608c917eb71e5c448de5b27e8bfe6c21",
+    "name": "Super Wrapped BTC",
+    "symbol": "WBTCx",
+    "decimals": 18,
+    "chainId": 42161,
+    "extensions": {
+      "superTokenInfo": {
+        "type": "Wrapper",
+        "underlyingTokenAddress": "0x2f2a2543b76a4166549f7aab2e75bef0aefc5b0f"
+      }
+    },
+    "logoURI": "https://tokenlist.superfluid.org/icons/wbtc.svg",
+    "tags": [
+      "supertoken"
     ]
   },
   {
