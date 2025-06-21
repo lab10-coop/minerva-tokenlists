@@ -4137,6 +4137,18 @@
   },
   {
     "chainId": 1,
+    "address": "0xd0d56273290d339aaf1417d9bfa1bb8cfe8a0933",
+    "name": "FOOM",
+    "symbol": "FOOM",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/FOOM/logo.svg",
+    "extensions": {
+      "opListId": "extended",
+      "opTokenId": "FOOM"
+    }
+  },
+  {
+    "chainId": 1,
     "address": "0xd101dcc414f310268c37eeb4cd376ccfa507f571",
     "name": "ResearchCoin",
     "symbol": "RSC",
@@ -8618,6 +8630,18 @@
   },
   {
     "chainId": 8453,
+    "address": "0x02300ac24838570012027e0a90d3feccef3c51d2",
+    "name": "FOOM",
+    "symbol": "FOOM",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/FOOM/logo.svg",
+    "extensions": {
+      "opListId": "extended",
+      "opTokenId": "FOOM"
+    }
+  },
+  {
+    "chainId": 8453,
     "address": "0x029a3b0532871735809a51e8653d6017ef04b6fa",
     "name": "TYBENG",
     "symbol": "TYBENG",
@@ -11371,6 +11395,18 @@
       "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "extended",
       "opTokenId": "IPOR"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0xc0ca42002d09172d832b59c2dc8bd91a5d839805",
+    "name": "CocaineToken.com",
+    "symbol": "COCAINE",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/COCAINE/logo.png",
+    "extensions": {
+      "opListId": "extended",
+      "opTokenId": "COCAINE"
     }
   },
   {
