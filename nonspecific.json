@@ -5481,6 +5481,23 @@
     ]
   },
   {
+    "address": "0x11c6ad55aad69f4612e374e5237b71d580f38f06",
+    "name": "Super UltravioletaDAO",
+    "symbol": "UVDx",
+    "decimals": 18,
+    "chainId": 43114,
+    "extensions": {
+      "superTokenInfo": {
+        "type": "Wrapper",
+        "underlyingTokenAddress": "0x4ffe7e01832243e03668e090706f17726c26d6b2"
+      }
+    },
+    "logoURI": "https://tokenlist.superfluid.org/icons/uvd.svg",
+    "tags": [
+      "supertoken"
+    ]
+  },
+  {
     "address": "0x288398f314d472b82c44855f3f6ff20b633c2a97",
     "name": "Super USD Coin",
     "symbol": "USDCx",
@@ -5495,6 +5512,17 @@
     "logoURI": "https://tokenlist.superfluid.org/icons/usdc.svg",
     "tags": [
       "supertoken"
+    ]
+  },
+  {
+    "address": "0x4ffe7e01832243e03668e090706f17726c26d6b2",
+    "name": "UltravioletaDAO",
+    "symbol": "UVD",
+    "decimals": 18,
+    "chainId": 43114,
+    "logoURI": "https://tokenlist.superfluid.org/icons/uvd.svg",
+    "tags": [
+      "underlying"
     ]
   },
   {
