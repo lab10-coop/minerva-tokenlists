@@ -4847,6 +4847,19 @@
   },
   {
     "chainId": 1,
+    "address": "0xf828ba501b108fbc6c88ebdff81c401bb6b94848",
+    "name": "coordinape.com",
+    "symbol": "CO",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/CO/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "opListId": "extended",
+      "opTokenId": "CO"
+    }
+  },
+  {
+    "chainId": 1,
     "address": "0xf939e0a03fb07f59a73314e73794be0e57ac1b4e",
     "name": "Curve.Fi USD Stablecoin",
     "symbol": "crvUSD",
@@ -12116,6 +12129,19 @@
       "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "extended",
       "opTokenId": "GLS"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0xe8a9aba04e6807cc77501862cc7ea17c9603291e",
+    "name": "CoDAO",
+    "symbol": "CO",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/CO/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "CO"
     }
   },
   {
