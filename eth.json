@@ -10227,8 +10227,8 @@
     "chainId": 1,
     "name": "Compliant Naira",
     "address": "0x17cdb2a01e7a34cbb3dd4b83260b05d0274c8dab",
-    "decimals": 6,
-    "symbol": "CNGN",
+    "decimals": 18,
+    "symbol": "cNGN",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29207.png"
   },
   {
@@ -21673,6 +21673,14 @@
     "decimals": 18,
     "symbol": "BAD",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/25479.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x32c1b3c43317cba8185d65227a54ae416dacc338",
+    "name": "Vaultec",
+    "symbol": "VLT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67041/thumb/VaultecLogo.jpeg?1751567589"
   },
   {
     "chainId": 1,
@@ -36282,6 +36290,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x553f4cb7256d8fc038e91d36cb63fa7c13b624ab",
+    "name": "Tanssi",
+    "symbol": "TANSSI",
+    "decimals": 12,
+    "logoURI": "https://assets.coingecko.com/coins/images/67030/thumb/Tanssi_Brand_Kit_Teal_Icon_no_bg.png?1751522958"
+  },
+  {
+    "chainId": 1,
     "name": "BITCOINHEDGE",
     "address": "0x5547136b913b68881596275ace01e9a589c5b16b",
     "decimals": 18,
@@ -37823,6 +37839,14 @@
     "decimals": 18,
     "symbol": "POLAR",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/11540.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x5900a453d0507be16fe91fef5d1edd5f8816dd20",
+    "name": "Ditto",
+    "symbol": "DITTO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67040/thumb/logoditto.png?1751567199"
   },
   {
     "chainId": 1,
@@ -53570,14 +53594,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x7ceec758dfe5ef8c32cde7b2259cc79b1891e8ed",
-    "name": "Evire",
-    "symbol": "EVIRE",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/38922/thumb/200x200.png?1719517028"
-  },
-  {
-    "chainId": 1,
     "name": "ChitCAT",
     "address": "0x7cf551258d6871b72ee1bd1624588a6245bf48c4",
     "decimals": 18,
@@ -63623,6 +63639,14 @@
     "symbol": "HACHI",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/38768/thumb/photo_2024-06-14_18-35-26.jpg?1718767443"
+  },
+  {
+    "chainId": 1,
+    "name": "Manyu",
+    "address": "0x95af4af910c28e8ece4512bfe46f1f33687424ce",
+    "decimals": 9,
+    "symbol": "MANYU",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/37114.png"
   },
   {
     "chainId": 1,
@@ -81328,6 +81352,14 @@
   },
   {
     "chainId": 1,
+    "address": "0xc0c592d6f9804f4fa8316cb4b95b047ef8f95a56",
+    "name": "fxhash",
+    "symbol": "FXH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/56012/thumb/fxhlogo2.png?1748021929"
+  },
+  {
+    "chainId": 1,
     "address": "0xc0cfbe1602dd586349f60e4681bf4badca584ec9",
     "name": "Etheism",
     "symbol": "E",
@@ -82601,6 +82633,14 @@
     "decimals": 9,
     "symbol": "SOHOT",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29152.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xc3f822e94c321dd3ee53ca46b78098ea79b7ec8d",
+    "name": "Bitcoin Bull",
+    "symbol": "BTCBULL",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67038/thumb/BTCBull_Logo_200x200.png?1751539220"
   },
   {
     "chainId": 1,
@@ -103859,14 +103899,6 @@
   },
   {
     "chainId": 1,
-    "address": "0xf90924b4064d88fdf9189d6ffd737ed85c01b9b7",
-    "name": "GameFinity",
-    "symbol": "GFN",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/40111/thumb/Gamefinity_Logo_JPG.jpg?1725826614"
-  },
-  {
-    "chainId": 1,
     "name": "Haki Token",
     "address": "0xf90c7f66eac7e2130bf677d69a250b2136cf6697",
     "decimals": 18,
@@ -105160,6 +105192,14 @@
     "decimals": 18,
     "symbol": "REALTOKEN-18276-APPO",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/5978.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xfc8dcfca8a37a855e352098af205b3a537b6b026",
+    "name": "Palladium Network",
+    "symbol": "PLLD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67028/thumb/IMG_2187.jpeg?1751521194"
   },
   {
     "chainId": 1,
