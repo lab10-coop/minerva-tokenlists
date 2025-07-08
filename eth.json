@@ -2337,6 +2337,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x04acaf8d2865c0714f79da09645c13fd2888977f",
+    "name": "Wrapped FRAX",
+    "symbol": "WFRAX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55432/thumb/wfrax_64.png?1745993624"
+  },
+  {
+    "chainId": 1,
     "name": "Unifund",
     "address": "0x04b5e13000c6e9a3255dc057091f3e3eeee7b0f0",
     "decimals": 18,
@@ -4090,10 +4098,10 @@
   {
     "chainId": 1,
     "address": "0x08f5a9235b08173b7569f83645d2c7fb55e8ccd8",
-    "name": "Tierion",
     "symbol": "TNT",
+    "name": "Tierion",
     "decimals": 8,
-    "logoURI": "https://assets.coingecko.com/coins/images/923/thumb/tierion.png?1696502044"
+    "logoURI": "ipfs://QmZr9T31z5XjN7MkN6rbudqGVX8k1kWmFkuWxMoYq7Qw3v"
   },
   {
     "chainId": 1,
@@ -7153,6 +7161,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x1078a104e8ae6a339db8e6c018b9a095423d47f7",
+    "name": "aiAPIS",
+    "symbol": "APIS",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/67154/thumb/logo_main.jpg?1751910591"
+  },
+  {
+    "chainId": 1,
     "name": "Bloom",
     "address": "0x107c4504cd79c5d2696ea0030a8dd4e92601b82e",
     "decimals": 18,
@@ -7329,11 +7345,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x10ea9e5303670331bdddfa66a4cea47dae4fcf3b",
     "name": "Session Token",
-    "symbol": "SESH",
+    "address": "0x10ea9e5303670331bdddfa66a4cea47dae4fcf3b",
     "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/56073/thumb/SES_Logo_RGB_Brandmark_Colour.png?1748330955"
+    "symbol": "SESH",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/37248.png"
   },
   {
     "chainId": 1,
@@ -19292,14 +19308,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x2d787d4f5005bd66ac910c2e821241625c406ed5",
-    "name": "Berry",
-    "symbol": "BERRY",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/11016/thumb/Berry_logo.png?1696510963"
-  },
-  {
-    "chainId": 1,
     "name": "iLINK",
     "address": "0x2d7ac061fc3db53c39fe1607fb8cec1b2c162b01",
     "decimals": 18,
@@ -30075,10 +30083,10 @@
   },
   {
     "chainId": 1,
-    "name": "Voy Finance",
+    "name": "Paiperless",
     "address": "0x45df9fb545eca3a16982dccc0b8a21d0489a0047",
     "decimals": 18,
-    "symbol": "VOY",
+    "symbol": "PAPER",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/25127.png"
   },
   {
@@ -33807,6 +33815,14 @@
     "decimals": 18,
     "symbol": "TAONU",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29554.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Pikachu",
+    "address": "0x4eb98a463a4f7d3ea3de8a07cd23ebfb28d7c89e",
+    "decimals": 2,
+    "symbol": "PIKACHU",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/37258.png"
   },
   {
     "chainId": 1,
@@ -49850,6 +49866,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x738c3acec1a7002d7574b73e43319f86603dcfd6",
+    "name": "Quantz",
+    "symbol": "QUANTZ",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67132/thumb/quantz_logo.jpeg?1751867686"
+  },
+  {
+    "chainId": 1,
     "address": "0x738d1115b90efa71ae468f1287fc864775e23a31",
     "name": "Reservoir srUSD",
     "symbol": "SRUSD",
@@ -51119,6 +51143,14 @@
     "decimals": 18,
     "symbol": "RED",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2771.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x76972f054ab43829064d31ff5f3acc5fabe57fe8",
+    "name": "Tharwa USD",
+    "symbol": "THUSD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67156/thumb/thUSD.png?1751913299"
   },
   {
     "chainId": 1,
@@ -52994,11 +53026,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x7b10d50b5885be4c7985a88408265c109bd1eec8",
     "name": "Tharwa",
-    "symbol": "TRWA",
+    "address": "0x7b10d50b5885be4c7985a88408265c109bd1eec8",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/66993/thumb/200x200.jpg?1751388636"
+    "symbol": "TRWA",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/37245.png"
   },
   {
     "chainId": 1,
@@ -66393,14 +66425,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x9bd69bc59118ce0fbce9b03551a765a779bd25cf",
-    "name": "zkEra Finance",
-    "symbol": "ZKE",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/33928/thumb/token_png.png?1715327053"
-  },
-  {
-    "chainId": 1,
     "name": "KP2R.Network",
     "address": "0x9bde098be22658d057c3f1f185e3fd4653e2fbd1",
     "decimals": 18,
@@ -69278,14 +69302,6 @@
     "decimals": 18,
     "symbol": "$BOOST",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/31478.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xa2d4af83f7403285bc1041700737663f8ac43380",
-    "name": "Create AI",
-    "symbol": "CREATE",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/50361/thumb/Create_AI.png?1727331011"
   },
   {
     "chainId": 1,
@@ -74609,6 +74625,14 @@
   },
   {
     "chainId": 1,
+    "name": "America Party",
+    "address": "0xb03eef386a61b5b462051636001485fffdd3d843",
+    "decimals": 18,
+    "symbol": "AMERICA",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/37251.png"
+  },
+  {
+    "chainId": 1,
     "name": "R0AR",
     "address": "0xb0415d55f2c87b7f99285848bd341c367feac1ea",
     "decimals": 18,
@@ -74907,7 +74931,7 @@
     "chainId": 1,
     "name": "Win",
     "address": "0xb10cb07ca2cdac77fbb5707f6690301f9d036f45",
-    "decimals": 18,
+    "decimals": 8,
     "symbol": "WIN",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28992.png"
   },
@@ -75339,7 +75363,7 @@
     "chainId": 1,
     "name": "Green",
     "address": "0xb2089a7069861c8d90c8da3aacab8e9188c0c531",
-    "decimals": 18,
+    "decimals": 8,
     "symbol": "GREEN",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28720.png"
   },
@@ -79893,14 +79917,6 @@
     "decimals": 18,
     "symbol": "EXO",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/9879.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xbd89b8d708809e7022135313683663911826977e",
-    "name": "O MEE",
-    "symbol": "OME",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/25099/thumb/logo-mark-full-colour-cmyk-693px_300ppi.jpg?1696524249"
   },
   {
     "chainId": 1,
@@ -89528,6 +89544,14 @@
     "decimals": 18,
     "symbol": "CND",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2043.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Bitcoin Roller Coaster Guy",
+    "address": "0xd4c4407f3afb48d7d4ad954572f155f9237ae335",
+    "decimals": 9,
+    "symbol": "BRCG",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/37224.png"
   },
   {
     "chainId": 1,
