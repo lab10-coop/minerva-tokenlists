@@ -2409,6 +2409,14 @@
   },
   {
     "chainId": 1,
+    "name": "Maya",
+    "address": "0x04cd1f7143f84fdeb469325cc763a60bd6e1ec55",
+    "decimals": 9,
+    "symbol": "MAYA",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/37284.png"
+  },
+  {
+    "chainId": 1,
     "name": "Sponstar",
     "address": "0x04cd37283e0f921b4a8838fee72e4264c87a692b",
     "decimals": 18,
@@ -6438,6 +6446,14 @@
     "symbol": "GROK",
     "decimals": 9,
     "logoURI": "https://assets.coingecko.com/coins/images/33005/thumb/Untitled_design_%2829%29.png?1700122635"
+  },
+  {
+    "chainId": 1,
+    "name": "Tako",
+    "address": "0x0ee375090f423934ebfbb241a3eb2ee4e01eaf0a",
+    "decimals": 9,
+    "symbol": "TAKO",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/37285.png"
   },
   {
     "chainId": 1,
@@ -18409,6 +18425,14 @@
     "decimals": 18,
     "symbol": "MAX",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/16549.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x2b37127988e4e5e9576b7a533d873c23cfbdb1e9",
+    "name": "Zentium Tech",
+    "symbol": "ZENT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67166/thumb/ZENTIUM.jpg?1751970541"
   },
   {
     "chainId": 1,
@@ -45522,6 +45546,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x69984efc8244f855a6fecdce254fe51b2836530e",
+    "name": "EPIC FAIL GUY",
+    "symbol": "EFG",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67169/thumb/1000056785.jpg?1751984562"
+  },
+  {
+    "chainId": 1,
     "name": "Ducky",
     "address": "0x699ec925118567b6475fe495327ba0a778234aaa",
     "decimals": 9,
@@ -47610,7 +47642,7 @@
   },
   {
     "chainId": 1,
-    "name": "Space Nation",
+    "name": "Space Nation Oikos",
     "address": "0x6e7f11641c1ec71591828e531334192d622703f7",
     "decimals": 18,
     "symbol": "OIK",
@@ -48231,6 +48263,14 @@
     "decimals": 18,
     "symbol": "X7R",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/22184.png"
+  },
+  {
+    "chainId": 1,
+    "name": "DegeCoin",
+    "address": "0x7001d68f065ffd18619f0ab1881f1a7dcb5d5b25",
+    "decimals": 2,
+    "symbol": "DEGE",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/37288.png"
   },
   {
     "chainId": 1,
@@ -49186,14 +49226,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x723696965f47b990dff00064fcaca95f0ee01123",
-    "name": "Alpha Radar AI",
-    "symbol": "ARBOT",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/31873/thumb/ARBOT_logo_200*200.png?1696530685"
-  },
-  {
-    "chainId": 1,
     "address": "0x7236a7ad67976ee07961ab26ed6f4cd23f7a9bd1",
     "name": "TXN Club",
     "symbol": "TXN",
@@ -49759,6 +49791,14 @@
     "decimals": 18,
     "symbol": "FILST",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/12595.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x73470eda64048ee2646261755a34602af03a4490",
+    "name": "Kolscope",
+    "symbol": "KSCO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67175/thumb/KolScope_no_Bg.png?1751986723"
   },
   {
     "chainId": 1,
@@ -51146,11 +51186,11 @@
   },
   {
     "chainId": 1,
+    "name": "thUSD",
     "address": "0x76972f054ab43829064d31ff5f3acc5fabe57fe8",
-    "name": "Tharwa USD",
-    "symbol": "THUSD",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/67156/thumb/thUSD.png?1751913299"
+    "symbol": "THUSD",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/37281.png"
   },
   {
     "chainId": 1,
@@ -56271,6 +56311,14 @@
     "decimals": 18,
     "symbol": "BLENDR",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29658.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x840b20fa3d48ac709fd841fcd878c3e8aabd7087",
+    "name": "Glue",
+    "symbol": "GLUE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54538/thumb/GlueLogo200px.png?1740215317"
   },
   {
     "chainId": 1,
@@ -72889,7 +72937,7 @@
   },
   {
     "chainId": 1,
-    "name": "Orderly Network",
+    "name": "Orderly",
     "address": "0xabd4c63d2616a5201454168269031355f4764337",
     "decimals": 18,
     "symbol": "ORDER",
@@ -75081,11 +75129,11 @@
   },
   {
     "chainId": 1,
-    "address": "0xb17be9a85d1e04d1aa6ea4b83c0bb6a2030c261f",
     "name": "Qubit",
-    "symbol": "QBIT",
+    "address": "0xb17be9a85d1e04d1aa6ea4b83c0bb6a2030c261f",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/66926/thumb/Logo_Trans_256_Gold.png?1751092498"
+    "symbol": "QBIT",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/37283.png"
   },
   {
     "chainId": 1,
@@ -77389,6 +77437,14 @@
     "decimals": 18,
     "symbol": "ITUBE",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/25997.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Nala",
+    "address": "0xb74f399aac8335e44a50ffb8f7ece74b9db8c30e",
+    "decimals": 18,
+    "symbol": "NALA",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/37259.png"
   },
   {
     "chainId": 1,
@@ -87624,6 +87680,14 @@
     "decimals": 18,
     "symbol": "BULLSHIT",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/6088.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xd073e6341a3aa6c4d94c4f8f20fbd1ede572b0da",
+    "name": "MetaCene",
+    "symbol": "MAK",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/39303/thumb/mak_white.jpg?1724793119"
   },
   {
     "chainId": 1,
