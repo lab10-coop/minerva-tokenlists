@@ -4540,6 +4540,19 @@
   },
   {
     "chainId": 1,
+    "address": "0xe53ec727dbdeb9e2d5456c3be40cff031ab40a55",
+    "name": "SuperFarm",
+    "symbol": "SUPER",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/SUPER/logo.svg",
+    "extensions": {
+      "soneiumBridgeAddress": "0xeb9bf100225c214efc3e7c651ebbadcf85177607",
+      "opListId": "extended",
+      "opTokenId": "SUPER"
+    }
+  },
+  {
+    "chainId": 1,
     "address": "0xe5e0b73380181273abcfd88695f52c4d0c825661",
     "name": "Impossible Cloud Network Token",
     "symbol": "ICNT",
@@ -8550,6 +8563,19 @@
       "soneiumBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "extended",
       "opTokenId": "QUICK"
+    }
+  },
+  {
+    "chainId": 1868,
+    "address": "0xf765356c901a064a74fa4560622f21c91048c3d7",
+    "name": "SuperVerse",
+    "symbol": "SUPER",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/SUPER/logo.svg",
+    "extensions": {
+      "soneiumBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "SUPER"
     }
   },
   {
