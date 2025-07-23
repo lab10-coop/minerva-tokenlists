@@ -4197,6 +4197,7 @@
     "logoURI": "https://ethereum-optimism.github.io/data/QUICK/logo.svg",
     "extensions": {
       "soneiumBridgeAddress": "0xeb9bf100225c214efc3e7c651ebbadcf85177607",
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
       "opListId": "extended",
       "opTokenId": "QUICK"
     }
@@ -10491,6 +10492,19 @@
       "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "extended",
       "opTokenId": "SOFI"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0x7094c27f342dbadfbbed005b219431595e33b305",
+    "name": "QuickSwap",
+    "symbol": "QUICK",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/QUICK/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "QUICK"
     }
   },
   {
