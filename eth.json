@@ -5113,14 +5113,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x0b49707fb9706428d1bb51a2906617aeaba82346",
-    "name": "PolarFighters",
-    "symbol": "PFT",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/52214/thumb/pft.png?1732751401"
-  },
-  {
-    "chainId": 1,
     "name": "BTC 2x Flexible Leverage Index",
     "address": "0x0b498ff89709d3838a063f1dfa463091f9801c2b",
     "decimals": 18,
@@ -23620,14 +23612,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x36905fc93280f52362a1cbab151f25dc46742fb5",
-    "name": "Bottos",
-    "symbol": "BTO",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/2048/thumb/bottos.png?1696503016"
-  },
-  {
-    "chainId": 1,
     "name": "Kusunoki Samurai",
     "address": "0x36919a60a2b67b6d2329863093d180d23d5a0308",
     "decimals": 18,
@@ -31570,6 +31554,14 @@
   },
   {
     "chainId": 1,
+    "name": "AllUnity EUR",
+    "address": "0x4933a85b5b5466fbaf179f72d3de273c287ec2c2",
+    "decimals": 6,
+    "symbol": "EURAU",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/37504.png"
+  },
+  {
+    "chainId": 1,
     "name": "Tipcoin",
     "address": "0x49366a946b955e904abec239a4e07acc664fb47c",
     "decimals": 18,
@@ -38162,6 +38154,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x594f8a64d01abea062eee634e627b1b085f99ef3",
+    "name": "Nucleus AI",
+    "symbol": "NUAI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67655/thumb/IMG_4114.jpeg?1753423762"
+  },
+  {
+    "chainId": 1,
     "name": "Order of the Black Rose",
     "address": "0x595643d83b35df38e29058976c04000acfa31570",
     "decimals": 18,
@@ -39191,6 +39191,14 @@
     "decimals": 18,
     "symbol": "ENTRP",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/4040.png"
+  },
+  {
+    "chainId": 1,
+    "name": "MULTIVERSE MONKEY",
+    "address": "0x5bc93bab1291885a76644a49f52050cf73e1dca8",
+    "decimals": 6,
+    "symbol": "MMON",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/37503.png"
   },
   {
     "chainId": 1,
@@ -45570,11 +45578,11 @@
   },
   {
     "chainId": 1,
+    "name": "Slippy",
     "address": "0x696a1012a7f694a6f34a95872f806eda633ea463",
-    "name": "SLIPPY",
-    "symbol": "SLIPPY",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/67235/thumb/slippy-logo.jpg?1752143792"
+    "symbol": "SLIPPY",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/37505.png"
   },
   {
     "chainId": 1,
@@ -46183,14 +46191,6 @@
     "symbol": "SPECTRA",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/52854/thumb/spectra.jpg?1734517434"
-  },
-  {
-    "chainId": 1,
-    "name": "Quantum Network",
-    "address": "0x6a8b188fadbe8b52a2c23ea2d0df74f8956e7730",
-    "decimals": 18,
-    "symbol": "QSWAP",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/31989.png"
   },
   {
     "chainId": 1,
@@ -51615,6 +51615,14 @@
     "decimals": 8,
     "symbol": "GSMT",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/6851.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Treehouse",
+    "address": "0x77146784315ba81904d654466968e3a7c196d1f3",
+    "decimals": 18,
+    "symbol": "TREE",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/37495.png"
   },
   {
     "chainId": 1,
@@ -57195,10 +57203,10 @@
   {
     "chainId": 1,
     "address": "0x85e30b8b263bc64d94b827ed450f2edfee8579da",
-    "name": "Asymmetry USDaf",
+    "name": "Asymmetry USDaf Legacy",
     "symbol": "USDAF",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/56060/thumb/USDaf.png?1748165829"
+    "logoURI": "https://assets.coingecko.com/coins/images/56060/thumb/USDaf_copy.png?1753428413"
   },
   {
     "chainId": 1,
@@ -95183,6 +95191,14 @@
     "decimals": 18,
     "symbol": "EHX",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/18942.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Tenshi",
+    "address": "0xe17c180e8a150cfdbc8db05eb4615042d72682b2",
+    "decimals": 18,
+    "symbol": "TENSHI",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/37497.png"
   },
   {
     "chainId": 1,
