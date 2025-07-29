@@ -40,6 +40,19 @@
   },
   {
     "chainId": 1,
+    "address": "0x000000fa00b200406de700041cfc6b19bbfb4d13",
+    "name": "Towns",
+    "symbol": "TOWNS",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/TOWNS/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "opListId": "extended",
+      "opTokenId": "TOWNS"
+    }
+  },
+  {
+    "chainId": 1,
     "address": "0x0001a500a6b18995b03f44bb040a5ffc28e45cb0",
     "name": "Autonolas",
     "symbol": "OLAS",
@@ -8653,6 +8666,19 @@
     "extensions": {
       "opListId": "extended",
       "opTokenId": "IDRX"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0x00000000a22c618fd6b4d7e9a335c4b96b189a38",
+    "name": "Towns",
+    "symbol": "TOWNS",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/TOWNS/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "TOWNS"
     }
   },
   {

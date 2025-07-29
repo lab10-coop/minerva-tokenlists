@@ -2913,11 +2913,11 @@
   },
   {
     "chainId": 1,
-    "name": "Hacken Token",
     "address": "0x05fb86775fd5c16290f1e838f5caaa7342bd9a63",
-    "decimals": 8,
     "symbol": "HAI",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/5583.png"
+    "name": "Hacken",
+    "decimals": 8,
+    "logoURI": "ipfs://QmeJ3JYqTDyUVY8mPWNRrU8cKCPtLFoLGsjJwwkABzhh2o"
   },
   {
     "chainId": 1,
@@ -11848,6 +11848,14 @@
   },
   {
     "chainId": 1,
+    "name": "Naoris Protocol",
+    "address": "0x1b379a79c91a540b2bcd612b4d713f31de1b80cc",
+    "decimals": 18,
+    "symbol": "NAORIS",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/35114.png"
+  },
+  {
+    "chainId": 1,
     "name": "LICKER",
     "address": "0x1b3be8fcd2e7c5ce9c5c242e0066fdd9740220d0",
     "decimals": 9,
@@ -12601,14 +12609,6 @@
     "decimals": 18,
     "symbol": "$MONG",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/24793.png"
-  },
-  {
-    "chainId": 1,
-    "name": "NodeQAI",
-    "address": "0x1ce50cfa5797eb17604f1e95c4d3055c6577c3d6",
-    "decimals": 9,
-    "symbol": "$NQAI",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/37434.png"
   },
   {
     "chainId": 1,
@@ -16012,11 +16012,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x2526ae18c3beeabb248e401368ef0f4515d24f9d",
     "name": "Yes Chad",
-    "symbol": "YES",
+    "address": "0x2526ae18c3beeabb248e401368ef0f4515d24f9d",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/67627/thumb/YES_CHAD_Token_Logo_CG.jpg?1753329109"
+    "symbol": "YES",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/37513.png"
   },
   {
     "chainId": 1,
@@ -28340,6 +28340,14 @@
   },
   {
     "chainId": 1,
+    "name": "Spurdo",
+    "address": "0x42069e779838929495ed0152ffc27145ce5c7f98",
+    "decimals": 9,
+    "symbol": "SPURDO",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/37511.png"
+  },
+  {
+    "chainId": 1,
     "name": "Goompy by Matt Furie",
     "address": "0x42069f39c71816cea208451598425b492dd2b380",
     "decimals": 9,
@@ -40458,6 +40466,14 @@
   },
   {
     "chainId": 1,
+    "name": "NodeQAI",
+    "address": "0x5ead27fcc5bc50aa100da635f8d1e6198acee71c",
+    "decimals": 9,
+    "symbol": "$NQAI",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/37434.png"
+  },
+  {
+    "chainId": 1,
     "name": "Blockchain Quotations Index Token",
     "address": "0x5eb87caa0105a63aa87a36c7bd2573bd13e84fae",
     "decimals": 18,
@@ -42626,6 +42642,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x6377d23a56c10a39bf4363e33e5515f1ef62a3c2",
+    "name": "Teddy the Tile Doge",
+    "symbol": "TEDDY",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/67750/thumb/IMG_5877.jpeg?1753706797"
+  },
+  {
+    "chainId": 1,
     "name": "Hpdex",
     "address": "0x6383f770f1eec68e80ac0c5527be71a11b4d182c",
     "decimals": 18,
@@ -42834,11 +42858,11 @@
   },
   {
     "chainId": 1,
+    "name": "Hacken Token",
     "address": "0x6403af1267cacc0714c1bd916b12f80e179c0558",
-    "name": "Hacken",
+    "decimals": 8,
     "symbol": "HAI",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/11081/thumb/hacken-symbol-with-bg.png?1696511022"
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/5583.png"
   },
   {
     "chainId": 1,
@@ -52434,6 +52458,14 @@
   },
   {
     "chainId": 1,
+    "name": "Mindfak By Matt Furie",
+    "address": "0x78cbec65c55f143a9178b63243119806a659d2ef",
+    "decimals": 18,
+    "symbol": "MINDFAK",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/37521.png"
+  },
+  {
+    "chainId": 1,
     "name": "Cryptocurrency Coin",
     "address": "0x78d11e37e890af4589fc9d0f6f884fd165c5aa0a",
     "decimals": 18,
@@ -60722,14 +60754,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x8db2350d78abc13f5673a411d4700bcf87864dde",
-    "name": "Swell Restaked BTC",
-    "symbol": "SWBTC",
-    "decimals": 8,
-    "logoURI": "https://assets.coingecko.com/coins/images/39682/thumb/swBTC200x200.png?1723652322"
-  },
-  {
-    "chainId": 1,
     "name": "Unbound",
     "address": "0x8db253a1943dddf1af9bcf8706ac9a0ce939d922",
     "decimals": 18,
@@ -68206,6 +68230,14 @@
     "decimals": 18,
     "symbol": "TAD",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7559.png"
+  },
+  {
+    "chainId": 1,
+    "name": "DOWGE",
+    "address": "0x9f745cb97554ed67d66faa07a6e362d71606ab52",
+    "decimals": 2,
+    "symbol": "DOWGE",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/37532.png"
   },
   {
     "chainId": 1,
@@ -86170,11 +86202,11 @@
   },
   {
     "chainId": 1,
-    "address": "0xcb69e5750f8dc3b69647b9d8b1f45466ace0a027",
     "name": "XiaoBai",
-    "symbol": "XIAOBAI",
+    "address": "0xcb69e5750f8dc3b69647b9d8b1f45466ace0a027",
     "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/67261/thumb/xiaobai.jpg?1753215227"
+    "symbol": "XIAOBAI",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/37530.png"
   },
   {
     "chainId": 1,
@@ -86610,11 +86642,11 @@
   },
   {
     "chainId": 1,
+    "name": "Kiwi Swap",
     "address": "0xcca28c3aba68ae6dc88f63ceb43efa11a9ca144e",
-    "name": "Kiwi",
-    "symbol": "KIWI",
     "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/67623/thumb/IMG_5230_%285%29.jpeg?1753312981"
+    "symbol": "KIWI",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/37517.png"
   },
   {
     "chainId": 1,
@@ -120794,6 +120826,14 @@
   },
   {
     "chainId": 42161,
+    "address": "0x1b7ad346b6ff2d196daa8e78aed86baa6d7e3b02",
+    "symbol": "VITAI",
+    "name": "Vitalik Ai",
+    "decimals": 18,
+    "logoURI": "ipfs://QmNed85BMR2hxYDp8R93DGLAG4p6zhFjBH4sgY1z4WNMCK"
+  },
+  {
+    "chainId": 42161,
     "address": "0x1b896893dfc86bb67cf57767298b9073d2c1ba2c",
     "symbol": "CAKE",
     "name": "PancakeSwap",
@@ -120946,6 +120986,14 @@
   },
   {
     "chainId": 42161,
+    "address": "0x3858567501fbf030bd859ee831610fcc710319f4",
+    "symbol": "NEXD",
+    "name": "Nexade",
+    "decimals": 18,
+    "logoURI": "ipfs://Qmf4WUHX1nSvGE2G3PAKYbRaS3oKmHP9b2XTMFQCNgGpCV"
+  },
+  {
+    "chainId": 42161,
     "address": "0x3a18dcc9745edcd1ef33ecb93b0b6eba5671e7ca",
     "symbol": "KUJI",
     "name": "Kujira",
@@ -121015,6 +121063,14 @@
     "name": "Hegic",
     "decimals": 18,
     "logoURI": "ipfs://QmWE8h884icUvaDh3Vx9HcqQC1B7DJT3LYZ6vHGgx7Bk31"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x43ab8f7d2a8dd4102ccea6b438f6d747b1b9f034",
+    "symbol": "SVY",
+    "name": "Savvy",
+    "decimals": 18,
+    "logoURI": "ipfs://QmTYg88ZLxHzWTb7XH5dknasE7HoJcDYkuBRJTmtTr53NX"
   },
   {
     "chainId": 42161,
@@ -121143,6 +121199,22 @@
     "name": "iZUMi",
     "decimals": 18,
     "logoURI": "ipfs://QmXexNscLrZDTz7dbGP42hpmD2Aarqc5QfArn6SZqXmjDE"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x617b76412bd9f3f80fe87d1533dc7017defa8ad1",
+    "symbol": "XRAI",
+    "name": "XRender AI",
+    "decimals": 18,
+    "logoURI": "ipfs://QmVRSpFgu1WjSn9EGfmb544tY3ptMRvrGEY9TmkvepUtsd"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x63db244bc895b3accec6698ce11b0dbd1d3e1c44",
+    "symbol": "TRT",
+    "name": "TRUST AI",
+    "decimals": 18,
+    "logoURI": "ipfs://QmTPRsE4Pm1tKzSW9nkYcKnjsRuvYLCmcBmKqhZtMNvEfF"
   },
   {
     "chainId": 42161,
@@ -121335,6 +121407,14 @@
     "name": "The Graph",
     "decimals": 18,
     "logoURI": "ipfs://Qmf8sMWoxGHRThqGaHKBTsSndkZdbsEyp8DXQvisj6QGH7"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x965772e0e9c84b6f359c8597c891108dcf1c5b1a",
+    "symbol": "PICKLE",
+    "name": "PICKLE",
+    "decimals": 18,
+    "logoURI": "ipfs://QmZKx7BnLN94Ab5hvFSXC9bSB6cPRVp3KoBxf7UStX4qLL"
   },
   {
     "chainId": 42161,
