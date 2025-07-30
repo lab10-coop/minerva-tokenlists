@@ -2529,11 +2529,11 @@
   },
   {
     "chainId": 1,
-    "name": "CateCoin",
     "address": "0x051fb509e4a775fabd257611eea1efaed8f91359",
-    "decimals": 9,
+    "name": "CateCoin",
     "symbol": "CATE",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/9656.png"
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/15364/thumb/logo.png?1696515013"
   },
   {
     "chainId": 1,
@@ -19990,7 +19990,7 @@
     "chainId": 1,
     "name": "GAIA",
     "address": "0x2ee7097bfdd98fce2ac08a1896038a7cd9aaed81",
-    "decimals": 9,
+    "decimals": 18,
     "symbol": "GAIA",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/37473.png"
   },
@@ -21993,6 +21993,14 @@
     "decimals": 8,
     "symbol": "STRS",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/4436.png"
+  },
+  {
+    "chainId": 1,
+    "name": "FOGNET",
+    "address": "0x33277c3ff3642c80a9d63daacecff87f1ce8d3e9",
+    "decimals": 18,
+    "symbol": "FOG",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28043.png"
   },
   {
     "chainId": 1,
@@ -31572,7 +31580,7 @@
     "chainId": 1,
     "name": "AllUnity EUR",
     "address": "0x4933a85b5b5466fbaf179f72d3de273c287ec2c2",
-    "decimals": 6,
+    "decimals": 18,
     "symbol": "EURAU",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/37504.png"
   },
@@ -34610,11 +34618,11 @@
   },
   {
     "chainId": 1,
-    "name": "FOGNET",
     "address": "0x503cd987998824192578d0d7950148445667287c",
-    "decimals": 18,
+    "name": "FOGnet",
     "symbol": "FOG",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28043.png"
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/31743/thumb/%ED%8F%AC%EA%B7%B8%EB%84%B7_%EB%A1%9C%EA%B3%A0_%ED%88%AC%EB%AA%85_200x200.png?1718149393"
   },
   {
     "chainId": 1,
@@ -41258,6 +41266,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x60697825812ecc1fff07f41e2d3f5cf314674fa6",
+    "name": "aarna atv 808",
+    "symbol": "ATV808",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67780/thumb/atv808_token_icon_bb5bb60c20_%281%29.png?1753818405"
+  },
+  {
+    "chainId": 1,
     "name": "Musk Gold",
     "address": "0x6069c9223e8a5da1ec49ac5525d4bb757af72cd8",
     "decimals": 18,
@@ -43186,14 +43202,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x64b3b21ee104f434380270749d8d5bfd481fdcf6",
-    "name": "American Bitcoin",
-    "symbol": "ABTC",
-    "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/55121/thumb/1000003919.jpg?1743840691"
-  },
-  {
-    "chainId": 1,
     "name": "Shopping.io",
     "address": "0x64b78325d7495d6d4be92f234fa3f3b8d8964b8b",
     "decimals": 18,
@@ -43996,7 +44004,7 @@
     "chainId": 1,
     "name": "Shrek2HulkSimbaAnusHannahMontanInu",
     "address": "0x666e3ed8a1995b2f1972b0187983e75b0c8978ab",
-    "decimals": 9,
+    "decimals": 18,
     "symbol": "ETH",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/37402.png"
   },
@@ -56602,11 +56610,11 @@
   },
   {
     "chainId": 1,
+    "name": "Glue",
     "address": "0x840b20fa3d48ac709fd841fcd878c3e8aabd7087",
-    "name": "Wrapped Glue",
-    "symbol": "WGLUE",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/54538/thumb/GlueLogo200px.png?1740215317"
+    "symbol": "GLUE",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/36045.png"
   },
   {
     "chainId": 1,
@@ -58559,6 +58567,14 @@
     "decimals": 18,
     "symbol": "U8D",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/8361.png"
+  },
+  {
+    "chainId": 1,
+    "name": "MAO",
+    "address": "0x8888888829885dcc5ac480a58d9bb0c98c943136",
+    "decimals": 18,
+    "symbol": "MAO",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/37533.png"
   },
   {
     "chainId": 1,
@@ -64044,7 +64060,7 @@
     "chainId": 1,
     "name": "Manyu",
     "address": "0x95af4af910c28e8ece4512bfe46f1f33687424ce",
-    "decimals": 9,
+    "decimals": 18,
     "symbol": "MANYU",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/37114.png"
   },
@@ -65715,7 +65731,7 @@
     "chainId": 1,
     "name": "XAU9999 Meme",
     "address": "0x999903502c1c7fea3591fb17315544c6bdde7699",
-    "decimals": 9,
+    "decimals": 18,
     "symbol": "XAU",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/37470.png"
   },
@@ -69118,6 +69134,14 @@
     "symbol": "BABYMARVIN",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/51146/thumb/1000229291.jpg?1730228170"
+  },
+  {
+    "chainId": 1,
+    "name": "Vine Coin",
+    "address": "0xa163fa8cd1da47e0066b4b1dbde85cf8f6d91df2",
+    "decimals": 2,
+    "symbol": "VINE",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/37543.png"
   },
   {
     "chainId": 1,
@@ -76339,8 +76363,8 @@
     "chainId": 1,
     "name": "Fivebalance",
     "address": "0xb355ef3ff2053f91befe3b9363ac5bb6f89f67ca",
-    "decimals": 8,
-    "symbol": "FBN",
+    "decimals": 18,
+    "symbol": "WFBN",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3468.png"
   },
   {
@@ -77637,6 +77661,14 @@
     "decimals": 18,
     "symbol": "FREQAI",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/23578.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xb68e430c56ed9e548e864a68a60f9d41f993b32c",
+    "name": "aarna afi 802v2",
+    "symbol": "AFI802V2",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67779/thumb/afi802_token_icon_da8e373a6f.png?1753818355"
   },
   {
     "chainId": 1,
@@ -85434,11 +85466,11 @@
   },
   {
     "chainId": 1,
-    "address": "0xc9b53ab2679f573e480d01e0f49e2b5cfb7a3eab",
     "name": "Wrapped XTZ",
-    "symbol": "WXTZ",
+    "address": "0xc9b53ab2679f573e480d01e0f49e2b5cfb7a3eab",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/51172/thumb/WXTZ_Logo_Black.png?1750764795"
+    "symbol": "WXTZ",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/35930.png"
   },
   {
     "chainId": 1,
@@ -92346,11 +92378,11 @@
   },
   {
     "chainId": 1,
-    "name": "KardiaChain",
     "address": "0xd9ec3ff1f8be459bb9369b4e79e9ebcf7141c093",
-    "decimals": 18,
     "symbol": "KAI",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/5453.png"
+    "name": "KardiaChain",
+    "decimals": 18,
+    "logoURI": "ipfs://QmbtaRhGo5uPQQwzEKHG7mYwk1aU8R7GeqddqagyNRXqyn"
   },
   {
     "chainId": 1,
@@ -94511,6 +94543,14 @@
     "symbol": "SPUSD",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/54393/thumb/d-token-200.png?1739485765"
+  },
+  {
+    "chainId": 1,
+    "address": "0xdfa208bb0b811cfbb5fa3ea98ec37aa86180e668",
+    "name": "Unicorn Meat",
+    "symbol": "W",
+    "decimals": 3,
+    "logoURI": "https://assets.coingecko.com/coins/images/67761/thumb/unicornmeat-logo-200x200.png?1753784314"
   },
   {
     "chainId": 1,
