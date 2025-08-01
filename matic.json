@@ -2376,6 +2376,15 @@
     "trending": false
   },
   {
+    "name": "Coinbase ETH",
+    "address": "0x2ae3f1ec7f1f5012cfeab0185bfc7aa3cf0dec22",
+    "symbol": "cbETH",
+    "decimals": 18,
+    "chainId": 8453,
+    "logoURI": "https://basescan.org/token/images/coinbasecbeth_32.png",
+    "trending": false
+  },
+  {
     "name": "Wrapped Ether",
     "address": "0x4200000000000000000000000000000000000006",
     "symbol": "WETH",
@@ -2383,6 +2392,24 @@
     "chainId": 8453,
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
     "trending": true
+  },
+  {
+    "name": "GHO",
+    "address": "0x6bb7a212910682dcfdbd5bcbb3e28fb4e8da10ee",
+    "symbol": "GHO",
+    "decimals": 18,
+    "chainId": 8453,
+    "logoURI": "https://etherscan.io/token/images/aavegho_new_32.png",
+    "trending": false
+  },
+  {
+    "name": "QUICKSWAP",
+    "address": "0x7094c27f342dbadfbbed005b219431595e33b305",
+    "symbol": "QUICK",
+    "decimals": 18,
+    "chainId": 8453,
+    "logoURI": "https://etherscan.io/token/images/quickswapnew_32.png",
+    "trending": false
   },
   {
     "name": "USD Coin",
@@ -2394,6 +2421,15 @@
     "trending": true
   },
   {
+    "name": "CERE",
+    "address": "0x9886447ff4c350f4600e4bf95db756bdc629b1ca",
+    "symbol": "CERE",
+    "decimals": 10,
+    "chainId": 8453,
+    "logoURI": "https://etherscan.io/token/images/cerenetwork_32.png",
+    "trending": false
+  },
+  {
     "name": "IMGN Labs",
     "address": "0x9bba915f036158582c20b51113b925f243a1a1a1",
     "symbol": "IMGN",
@@ -2403,12 +2439,30 @@
     "trending": false
   },
   {
+    "name": "Wrapped Liquid Staked ETH",
+    "address": "0xc1cba3fcea344f92d9239c08c0568f6f2f0ee452",
+    "symbol": "wstETH",
+    "decimals": 18,
+    "chainId": 8453,
+    "logoURI": "https://basescan.org/token/images/wsteth3_32.png",
+    "trending": false
+  },
+  {
     "name": "Coinbase Wrapped BTC",
     "address": "0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf",
     "symbol": "cbBTC",
     "decimals": 8,
     "chainId": 8453,
     "logoURI": "https://basescan.org/token/images/cbbtc_32.png",
+    "trending": false
+  },
+  {
+    "name": "USD Base Coin",
+    "address": "0xd9aaec86b65d86f6a7b5b1b0c42ffa531710b6ca",
+    "symbol": "USDbc",
+    "decimals": 6,
+    "chainId": 8453,
+    "logoURI": "https://basescan.org/token/images/usdbc_ofc_32.png",
     "trending": false
   },
   {
