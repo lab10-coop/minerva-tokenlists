@@ -2665,6 +2665,14 @@
   },
   {
     "chainId": 1,
+    "name": "Vellum USD",
+    "address": "0x056aa0b63a3cd2fc5538608ad37dbe0f89cceee7",
+    "decimals": 17,
+    "symbol": "USD1",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/37598.png"
+  },
+  {
+    "chainId": 1,
     "name": "Gains",
     "address": "0x056c1d42fb1326f57da7f19ebb7dda4673f1ff55",
     "decimals": 18,
@@ -37826,6 +37834,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x5845684b49aef79a5c0f887f50401c247dca7ac6",
+    "name": "Cycle Network",
+    "symbol": "CYC",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66990/thumb/20250731-155008.png?1754017249"
+  },
+  {
+    "chainId": 1,
     "name": "ShardingDAO",
     "address": "0x5845cd0205b5d43af695412a79cf7c1aeddb060f",
     "decimals": 18,
@@ -45439,14 +45455,6 @@
     "decimals": 18,
     "symbol": "iBBT",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/5727.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x6923f9b683111dcc0e20124e9a031deeae5dad93",
-    "name": "Crypto Hub",
-    "symbol": "HUB",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/32705/thumb/Untitled_design_%285%29.png?1698985521"
   },
   {
     "chainId": 1,
@@ -78839,14 +78847,6 @@
   },
   {
     "chainId": 1,
-    "address": "0xb94acdf8662cd955f137e0c9c9fba535c87b57b4",
-    "name": "Mona Token",
-    "symbol": "LISA",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/32376/thumb/monatoken.png?1698035251"
-  },
-  {
-    "chainId": 1,
     "name": "Gemini AI",
     "address": "0xb954562066c71b3e6e7b2ac330b03c74c0dcd5ae",
     "decimals": 9,
@@ -79548,6 +79548,14 @@
     "decimals": 18,
     "symbol": "STR",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3232.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xbae2a140b80d85c17678e4a75413039d863cba07",
+    "name": "Robert",
+    "symbol": "ROBERT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67908/thumb/logo_robert.png?1754280582"
   },
   {
     "chainId": 1,
@@ -104330,6 +104338,14 @@
   },
   {
     "chainId": 1,
+    "address": "0xf7285d17dded63a4480a0f1f0a8cc706f02dda0a",
+    "name": "Supergrok",
+    "symbol": "SUPERGROK",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/67928/thumb/g9cz499efdq275hn1vyvj422gv8f.?1754317636"
+  },
+  {
+    "chainId": 1,
     "name": "Golteum",
     "address": "0xf72be912c9e3683d58a5fc0bbbbe07390be39b88",
     "decimals": 18,
@@ -106538,11 +106554,11 @@
   },
   {
     "chainId": 1,
-    "address": "0xfd36fa88bb3fea8d1264fc89d70723b6a2b56958",
     "name": "Wrapped MinoTari",
+    "address": "0xfd36fa88bb3fea8d1264fc89d70723b6a2b56958",
+    "decimals": 6,
     "symbol": "WXTM",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/66195/thumb/XTM-200x200.png?1748664072"
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/37597.png"
   },
   {
     "chainId": 1,
@@ -122402,6 +122418,14 @@
   },
   {
     "chainId": 43114,
+    "address": "0x09d156f209e0c54d0365d6bb05f8a048649f2542",
+    "symbol": "AIVAX",
+    "name": "AIVAX",
+    "decimals": 18,
+    "logoURI": "ipfs://QmcZmoQsgT7RA8BZMuQnheoZFcUZBmpBmZEcGiCgBENRSY"
+  },
+  {
+    "chainId": 43114,
     "address": "0x0ef27ddc8f89d4886e89d630de089962ffc12e43",
     "symbol": "PGX",
     "name": "Pegaxy Stone",
@@ -122687,6 +122711,14 @@
     "name": "AVAI",
     "decimals": 18,
     "logoURI": "ipfs://Qmbv17LYS1ARi6DKtn7WKkpBP5UTXwShrActCpkodj4NY9"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x34a528da3b2ea5c6ad1796eba756445d1299a577",
+    "symbol": "ID",
+    "name": "Integrity DAO",
+    "decimals": 18,
+    "logoURI": "ipfs://QmdLDVsqz3tdRyzMrpBk47sDbjUFhvaDqn7fVhfdhTeqQr"
   },
   {
     "chainId": 43114,
@@ -123146,6 +123178,14 @@
   },
   {
     "chainId": 43114,
+    "address": "0x7698a5311da174a95253ce86c21ca7272b9b05f8",
+    "symbol": "WINK",
+    "name": "Wink",
+    "decimals": 18,
+    "logoURI": "ipfs://QmS86MekiLHcu3FZ3bQRwxMDTgqrNpKj4ktnzNGhFKELgJ"
+  },
+  {
+    "chainId": 43114,
     "address": "0x7979871595b80433183950ab6c6457752b585805",
     "symbol": "SECOND",
     "name": "MetaDOS",
@@ -123274,6 +123314,14 @@
   },
   {
     "chainId": 43114,
+    "address": "0x8c8d2a7d8d9cf26f5ee1bbfc0ba56e93f4a4a7ac",
+    "symbol": "AVAXAI",
+    "name": "AIvalanche DeFAI Agents",
+    "decimals": 18,
+    "logoURI": "ipfs://QmcW8uuUUtjpgM9yZir2HtNawaSJE15jA8rAA1RHS4XVEg"
+  },
+  {
+    "chainId": 43114,
     "address": "0x8ebaf22b6f053dffeaf46f4dd9efa95d89ba8580",
     "symbol": "UNI",
     "name": "Uniswap",
@@ -123383,6 +123431,14 @@
     "name": "Gram Silver",
     "decimals": 18,
     "logoURI": "ipfs://QmZ2T8yPNicuJatj3Tyv2rg2zCFVxcHmnykBFRyJ9zkS8z"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x97f2624d5f99a953ae5574ea57d3268785941de4",
+    "symbol": "COLS",
+    "name": "Cointel",
+    "decimals": 18,
+    "logoURI": "ipfs://QmZLcVrATo2Nyx7q7fXf6qFzhBpeFqwFeQXtkwkrbAt5LX"
   },
   {
     "chainId": 43114,
