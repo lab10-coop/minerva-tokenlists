@@ -1,6 +1,14 @@
 [
   {
     "chainId": 56,
+    "symbol": "TOWNS",
+    "name": "Towns",
+    "decimals": 18,
+    "address": "0x00000000bca93b25a6694ca3d2109d545988b13b",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x00000000bcA93b25a6694ca3d2109d545988b13B.png"
+  },
+  {
+    "chainId": 56,
     "symbol": "ERA",
     "name": "Caldera",
     "decimals": 18,
@@ -416,6 +424,14 @@
     "logoURI": "https://tokens.pancakeswap.finance/images/0x1346b618dC92810EC74163e4c27004c921D446a5.png"
   },
   {
+    "chainId": 56,
+    "symbol": "STRP",
+    "name": "Stripe SPV Token",
+    "decimals": 18,
+    "address": "0x13578c16e3dc631737e93ed6bbef428faa9bbaf7",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x13578C16e3Dc631737e93Ed6BBeF428faA9BBAF7.png"
+  },
+  {
     "name": "True USD Old",
     "symbol": "TUSDOLD",
     "address": "0x14016e85a25aeb13065688cafb43044c2ef86784",
@@ -534,6 +550,14 @@
     "chainId": 56,
     "decimals": 9,
     "logoURI": "https://tokens.pancakeswap.finance/images/0x19e6BfC1A6e4B042Fb20531244D47E252445df01.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "$SUP",
+    "name": "Superp",
+    "decimals": 18,
+    "address": "0x19ed254efa5e061d28d84650891a3db2a9940c16",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x19Ed254efa5E061D28d84650891a3db2A9940C16.png"
   },
   {
     "name": "Qian Governance Token",
@@ -1416,6 +1440,14 @@
     "logoURI": "https://tokens.pancakeswap.finance/images/0x43a8cab15D06d3a5fE5854D714C37E7E9246F170.png"
   },
   {
+    "chainId": 56,
+    "symbol": "XAI",
+    "name": "xAI SPV Token",
+    "decimals": 18,
+    "address": "0x43ff4cf60f75fbcc91be7d5036710ffcf2a80459",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x43fF4cF60F75fBcc91be7d5036710FFcF2A80459.png"
+  },
+  {
     "name": "ZeroSwapToken",
     "symbol": "ZEE",
     "address": "0x44754455564474a89358b2c2265883df993b12f0",
@@ -1882,6 +1914,14 @@
     "chainId": 56,
     "decimals": 18,
     "logoURI": "https://tokens.pancakeswap.finance/images/0x581FA684D0Ec11ccb46B1d92F1F24C8A3F95C0CA.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "CYC",
+    "name": "Cycle Network Token",
+    "decimals": 18,
+    "address": "0x5845684b49aef79a5c0f887f50401c247dca7ac6",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x5845684b49aEf79A5c0F887f50401C247dca7AC6.png"
   },
   {
     "name": "Fuse Token",
@@ -2956,6 +2996,14 @@
     "logoURI": "https://tokens.pancakeswap.finance/images/0x8595F9dA7b868b1822194fAEd312235E43007b49.png"
   },
   {
+    "chainId": 56,
+    "symbol": "BSTR",
+    "name": "BSTR",
+    "decimals": 18,
+    "address": "0x85e92213fca84aa99adbac5049d8426984d64444",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x85E92213fcA84aA99AdbAC5049D8426984D64444.png"
+  },
+  {
     "name": "Tron",
     "symbol": "TRX",
     "address": "0x85eac5ac2f758618dfa09bdbe0cf174e7d574d5b",
@@ -3106,6 +3154,14 @@
     "chainId": 56,
     "decimals": 18,
     "logoURI": "https://tokens.pancakeswap.finance/images/0x8D279274789CceC8af94a430A5996eAaCE9609A9.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "CRSR",
+    "name": "Cursor SPV Token",
+    "decimals": 18,
+    "address": "0x8d52f97ab2803e9c23d949d377c019770dbf1ff3",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x8d52F97aB2803E9c23d949D377c019770dBF1fF3.png"
   },
   {
     "name": "Alpaca",
@@ -3378,6 +3434,14 @@
     "decimals": 18,
     "address": "0x9a70815dfb644a24b57358e1041f8d0324c8f6e1",
     "logoURI": "https://tokens.pancakeswap.finance/images/0x9A70815DFB644a24B57358E1041F8d0324c8f6e1.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "KAVA",
+    "name": "Kava",
+    "decimals": 18,
+    "address": "0x9bafc8d4b487cebff201721702507a3e2c67ad79",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x9BAFC8d4b487cEBff201721702507a3E2C67ad79.png"
   },
   {
     "chainId": 56,
@@ -3842,6 +3906,14 @@
     "decimals": 18,
     "address": "0xb035723d62e0e2ea7499d76355c9d560f13ba404",
     "logoURI": "https://tokens.pancakeswap.finance/images/0xB035723D62e0e2ea7499D76355c9D560f13ba404.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "DARK",
+    "name": "DarkStar",
+    "decimals": 18,
+    "address": "0xb05f4747eb3d18a3fa4aa3e5c627f02ccc70d005",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0xB05F4747eB3d18a3fa4Aa3e5c627F02cCc70d005.png"
   },
   {
     "name": "Staked Lista BNB",
