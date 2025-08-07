@@ -2665,7 +2665,7 @@
   },
   {
     "chainId": 1,
-    "name": "Vellum USD",
+    "name": "USD One",
     "address": "0x056aa0b63a3cd2fc5538608ad37dbe0f89cceee7",
     "decimals": 17,
     "symbol": "USD1",
@@ -3211,7 +3211,7 @@
     "chainId": 1,
     "name": "HZM Coin",
     "address": "0x069f967be0ca21c7d793d8c343f71e597d9a49b3",
-    "decimals": 8,
+    "decimals": 18,
     "symbol": "HZM",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/12709.png"
   },
@@ -34266,6 +34266,14 @@
   },
   {
     "chainId": 1,
+    "name": "NoahX Finance",
+    "address": "0x4f0cbe4c37ad6013ba457f68c01b5455dce01ef0",
+    "decimals": 18,
+    "symbol": "NOX",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/37633.png"
+  },
+  {
+    "chainId": 1,
     "name": "Me Paul",
     "address": "0x4f1350cd63211515fab6416d4743c7b99b1bd1ac",
     "decimals": 18,
@@ -37951,6 +37959,14 @@
     "decimals": 9,
     "symbol": "BOBO",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/24552.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x588d467b92bd2d08a2961ba681e2c75f1ad7c5b0",
+    "name": "VCW",
+    "symbol": "VCW",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67971/thumb/200.png?1754476467"
   },
   {
     "chainId": 1,
@@ -47559,6 +47575,14 @@
     "decimals": 18,
     "symbol": "CPU",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/8295.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x6d56172da47ad69561a5fb8035763a68598128c9",
+    "name": "Dope",
+    "symbol": "DOPE",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/67974/thumb/Dope.png?1754477397"
   },
   {
     "chainId": 1,
@@ -74361,6 +74385,14 @@
   },
   {
     "chainId": 1,
+    "name": "Cold Wallet",
+    "address": "0xade23e22df7e5c80f34e3bfd3e3448dbfe5d4848",
+    "decimals": 18,
+    "symbol": "CWT",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/37634.png"
+  },
+  {
+    "chainId": 1,
     "address": "0xade6057fcafa57d6d51ffa341c64ce4814995995",
     "name": "Backed ZPR1   1 3 Month T Bill",
     "symbol": "BZPR1",
@@ -79175,7 +79207,7 @@
   },
   {
     "chainId": 1,
-    "name": "Band Protocol",
+    "name": "Band",
     "address": "0xba11d00c5f74255f56a5e366f4f77f5a186d7f55",
     "decimals": 18,
     "symbol": "BAND",
@@ -86994,11 +87026,11 @@
   },
   {
     "chainId": 1,
-    "address": "0xccccc74ac972e08a0f4c62e9369576a6f6722002",
     "name": "Longcat",
-    "symbol": "NOBIKO",
+    "address": "0xccccc74ac972e08a0f4c62e9369576a6f6722002",
     "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/67963/thumb/coingeck200x200.png?1754430922"
+    "symbol": "NOBIKO",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/37619.png"
   },
   {
     "chainId": 1,
@@ -96666,6 +96698,14 @@
   },
   {
     "chainId": 1,
+    "name": "MatchAwards Platform Utility Token",
+    "address": "0xe4b8e9920b86e603d99afaa0c0d1b9c7ab0195a1",
+    "decimals": 18,
+    "symbol": "MAPU",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/37620.png"
+  },
+  {
+    "chainId": 1,
     "name": "R-DEE Protocol Token",
     "address": "0xe4cbd3ff926796e6e95e81f1268258418a0c5cda",
     "decimals": 18,
@@ -104906,6 +104946,14 @@
   },
   {
     "chainId": 1,
+    "address": "0xf8db100dbf63e47fc834f19c6b76c74c4169972d",
+    "name": "DaGama World",
+    "symbol": "DGMA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67989/thumb/daGama-logo-main.png?1754511939"
+  },
+  {
+    "chainId": 1,
     "name": "Truegame",
     "address": "0xf8e06e4e4a80287fdca5b02dccecaa9d0954840f",
     "decimals": 18,
@@ -105783,6 +105831,14 @@
     "decimals": 18,
     "symbol": "AGG",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/30600.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Sidekick",
+    "address": "0xfb072b42907da2bf7a8e8cb5dcaa790d45fd81a8",
+    "decimals": 18,
+    "symbol": "K",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/37617.png"
   },
   {
     "chainId": 1,
@@ -107991,6 +108047,14 @@
     "name": "fBomb",
     "decimals": 18,
     "logoURI": "ipfs://QmaZGK72QKQJDmkfxA4CTmche9BTmgBgQiViZ3rhyxkZ2n"
+  },
+  {
+    "chainId": 10,
+    "address": "0x74d5b4a317fffd3cbf8ed94327ff07e2884e84bc",
+    "symbol": "ORCL",
+    "name": "Oracul Analytics",
+    "decimals": 18,
+    "logoURI": "ipfs://QmeBiwweYhZwdK6ebwE4SYiCFQGBhYDJ55Knm74SCpfjSX"
   },
   {
     "chainId": 10,
@@ -115186,6 +115250,14 @@
   },
   {
     "chainId": 324,
+    "address": "0xdbff7c6d368904680706804645cafa4defa3c224",
+    "symbol": "TEVA",
+    "name": "Tevaera",
+    "decimals": 18,
+    "logoURI": "ipfs://QmWuM11JC3b4gadiHGg2oqnhfQjPk2yDKkJEViSXGtELSj"
+  },
+  {
+    "chainId": 324,
     "address": "0xdd9f72afed3631a6c85b5369d84875e6c42f1827",
     "symbol": "SIS",
     "name": "Symbiosis",
@@ -115503,6 +115575,14 @@
     "name": "Inferium",
     "decimals": 18,
     "logoURI": "ipfs://QmfAvWbnKdiyaoK2Pmpykp9vPCZrby1KM6bvsKnvnL1dka"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x02537463e57a44f861ee861ba4f590c413f984a6",
+    "symbol": "BROAK",
+    "name": "Broak on Base",
+    "decimals": 18,
+    "logoURI": "ipfs://Qme21QD5ccpLac6L2TmXujRbwswBwBYhVW6Ek734xvaTWZ"
   },
   {
     "chainId": 8453,
@@ -122458,6 +122538,14 @@
   },
   {
     "chainId": 43114,
+    "address": "0x0a10d108e2d81ccc793e37b56206c84bf96ddc57",
+    "symbol": "XSEED",
+    "name": "MXS Games",
+    "decimals": 18,
+    "logoURI": "ipfs://QmQRco72Jxd1KmGEYWH9CJZKJv5ttdyWEdAk6VSC2gFBR5"
+  },
+  {
+    "chainId": 43114,
     "address": "0x0ef27ddc8f89d4886e89d630de089962ffc12e43",
     "symbol": "PGX",
     "name": "Pegaxy Stone",
@@ -123911,6 +123999,14 @@
     "name": "Juice",
     "decimals": 18,
     "logoURI": "ipfs://QmeT7eFMnktKugZhegudd2dHFpR9sudQ419n5B8k87hipx"
+  },
+  {
+    "chainId": 43114,
+    "address": "0xd78d3d08053130a3b4466e15d8fc2a61a3dee47d",
+    "symbol": "ICPX",
+    "name": "ICRYPEX",
+    "decimals": 3,
+    "logoURI": "ipfs://QmWL8wKPuxMgo8yqNzjf2NnDoE7P88SPsF1yVwCnneUWLE"
   },
   {
     "chainId": 43114,
