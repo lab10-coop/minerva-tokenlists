@@ -28093,10 +28093,10 @@
   {
     "chainId": 1,
     "address": "0x4161725d019690a3e0de50f6be67b07a86a9fae1",
-    "name": "TokenPocket Token",
     "symbol": "TPT",
+    "name": "TokenPocket",
     "decimals": 4,
-    "logoURI": "https://assets.coingecko.com/coins/images/7603/thumb/_TPT_LOGO.png?1739478114"
+    "logoURI": "ipfs://QmTmmqvAsxG35Zk14ZBZe5bdxiS37sB6CE8ikuX4uYaYSX"
   },
   {
     "chainId": 1,
@@ -35223,6 +35223,14 @@
     "symbol": "GON",
     "decimals": 8,
     "logoURI": "https://assets.coingecko.com/coins/images/52957/thumb/Golfin_CMC_Logo.png?1734798386"
+  },
+  {
+    "chainId": 1,
+    "name": "SatLayer",
+    "address": "0x51477a3002ee04b7542adfe63ccdb50c00ee5147",
+    "decimals": 6,
+    "symbol": "SLAY",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/36020.png"
   },
   {
     "chainId": 1,
@@ -44606,7 +44614,7 @@
     "name": "Arc",
     "symbol": "ARC",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/24235/thumb/ARC_Token_Logo_200x200.png?1729562245"
+    "logoURI": "https://assets.coingecko.com/coins/images/24235/thumb/Clipboard.png?1754711965"
   },
   {
     "chainId": 1,
@@ -51831,14 +51839,6 @@
     "decimals": 18,
     "symbol": "WOOFIE",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/26842.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x76fca1adb104770b38581b64d55e67fa5a0f3966",
-    "name": "ZkTsunami",
-    "symbol": "ZKT",
-    "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/29253/thumb/Sa72qYMC_400x400.jpg?1696528207"
   },
   {
     "chainId": 1,
@@ -97695,6 +97695,14 @@
     "decimals": 18,
     "symbol": "KBTC",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/8892.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Ibiza Final Boss",
+    "address": "0xe6c69660811ad2a525bfe899ccc3acd4e7d4c0ad",
+    "decimals": 2,
+    "symbol": "BOSS",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/37674.png"
   },
   {
     "chainId": 1,
