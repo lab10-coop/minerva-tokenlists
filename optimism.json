@@ -3761,6 +3761,7 @@
     "extensions": {
       "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1",
       "unichainBridgeAddress": "0x81014F44b0a345033bB2b3B21C7a1A308B35fEeA",
+      "celoBridgeAddress": "0x9C4955b92F34148dbcfDCD82e9c9eCe5CF2badfe",
       "opListId": "extended",
       "opTokenId": "ENS"
     }
@@ -12776,6 +12777,19 @@
       "celoBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "default",
       "opTokenId": "LDO"
+    }
+  },
+  {
+    "chainId": 42220,
+    "address": "0x6d8ada2df4aebb0561781775872db1db98d9f791",
+    "name": "Ethereum Name Service (Celo native bridge)",
+    "symbol": "ENS",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/ENS/logo.png",
+    "extensions": {
+      "celoBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "ENS"
     }
   },
   {
