@@ -10691,6 +10691,18 @@
   },
   {
     "chainId": 8453,
+    "address": "0x7ba6f01772924a82d9626c126347a28299e98c98",
+    "name": "Metronome Synth ETH",
+    "symbol": "msETH",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/msETH/logo.svg",
+    "extensions": {
+      "opListId": "extended",
+      "opTokenId": "msETH"
+    }
+  },
+  {
+    "chainId": 8453,
     "address": "0x7c298664bd6582f6f264c2cb5a4b9cc09b6e3889",
     "name": "Melon Token",
     "symbol": "MLN",
@@ -10751,6 +10763,18 @@
       "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "extended",
       "opTokenId": "AJNA"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0x7fcd174e80f264448ebee8c88a7c4476aaf58ea6",
+    "name": "Wrapped Super OETH",
+    "symbol": "wsuperOETHb",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/wsuperOETHb/logo.svg",
+    "extensions": {
+      "opListId": "extended",
+      "opTokenId": "wsuperOETHb"
     }
   },
   {
