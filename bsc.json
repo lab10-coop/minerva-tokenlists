@@ -704,6 +704,14 @@
     "logoURI": "https://tokens.pancakeswap.finance/images/0x1eE098cBaF1f846d5Df1993f7e2d10AFb35A878d.png"
   },
   {
+    "chainId": 56,
+    "symbol": "OVL",
+    "name": "Overlay",
+    "decimals": 18,
+    "address": "0x1f34c87ded863fe3a3cd76fac8ada9608137c8c3",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x1F34c87ded863Fe3A3Cd76FAc8adA9608137C8c3.png"
+  },
+  {
     "name": "bBADGER",
     "symbol": "bBADGER",
     "address": "0x1f7216fdb338247512ec99715587bb97bbf96eae",
@@ -2212,14 +2220,6 @@
     "logoURI": "https://tokens.pancakeswap.finance/images/0x5F84ce30DC3cF7909101C69086c50De191895883.png"
   },
   {
-    "name": "KAVA",
-    "symbol": "KAVA",
-    "address": "0x5f88ab06e8dfe89df127b2430bba4af600866035",
-    "chainId": 56,
-    "decimals": 6,
-    "logoURI": "https://tokens.pancakeswap.finance/images/0x5F88AB06e8dfe89DF127B2430Bba4Af600866035.png"
-  },
-  {
     "chainId": 56,
     "symbol": "BINK",
     "name": "Bink AI",
@@ -3442,6 +3442,14 @@
     "decimals": 18,
     "address": "0x96a3b63701dbc6d40a1c4153734778443b0175ad",
     "logoURI": "https://tokens.pancakeswap.finance/images/0x96a3b63701DBC6D40A1C4153734778443b0175aD.png"
+  },
+  {
+    "chainId": 56,
+    "symbol": "AIBOT",
+    "name": "CherryAI",
+    "decimals": 18,
+    "address": "0x96adaa33e175f4a7f20c099730bc78dd0b45745b",
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x96AdaA33e175F4A7f20c099730bc78dd0B45745B.png"
   },
   {
     "name": "Contentos",
