@@ -230,7 +230,7 @@
     "symbol": "WOO",
     "decimals": 18,
     "chainId": 137,
-    "logoURI": "https://raw.githubusercontent.com/sameepsi/quickswap-default-token-list/master/assets/wootrade_w.svg",
+    "logoURI": "https://raw.githubusercontent.com/QuickSwap/quickswap-default-token-list/main/assets/WOO-NETWORK.webp",
     "trending": false
   },
   {
@@ -2416,6 +2416,7 @@
     "symbol": "AIXBT",
     "decimals": 18,
     "chainId": 8453,
+    "logoURI": "https://raw.githubusercontent.com/QuickSwap/quickswap-default-token-list/main/assets/AIXBT.webp",
     "trending": false
   },
   {
@@ -2424,7 +2425,7 @@
     "symbol": "PEPE",
     "decimals": 18,
     "chainId": 8453,
-    "logoURI": "https://basedpepe.vip/logo.svg",
+    "logoURI": "https://raw.githubusercontent.com/QuickSwap/quickswap-default-token-list/main/assets/BASED-PEPE.webp",
     "trending": false
   },
   {
@@ -2433,7 +2434,7 @@
     "symbol": "BRETT",
     "decimals": 18,
     "chainId": 8453,
-    "logoURI": "https://assets.coingecko.com/coins/images/30980/large/brett.png",
+    "logoURI": "https://raw.githubusercontent.com/QuickSwap/quickswap-default-token-list/main/assets/BRETT.webp",
     "trending": false
   },
   {
@@ -2442,7 +2443,7 @@
     "symbol": "AAVE",
     "decimals": 18,
     "chainId": 8453,
-    "logoURI": "https://assets.coingecko.com/coins/images/12645/large/AAVE.png?1601374110",
+    "logoURI": "https://raw.githubusercontent.com/QuickSwap/quickswap-default-token-list/main/assets/AAVE.webp",
     "trending": false
   },
   {
@@ -2460,7 +2461,7 @@
     "symbol": "QUICK",
     "decimals": 18,
     "chainId": 8453,
-    "logoURI": "https://etherscan.io/token/images/quickswapnew_32.png",
+    "logoURI": "https://raw.githubusercontent.com/QuickSwap/quickswap-default-token-list/main/assets/QUICK.webp",
     "trending": false
   },
   {
@@ -2482,6 +2483,15 @@
     "trending": false
   },
   {
+    "name": "Stratex BTC",
+    "address": "0x9213d24f617de982db528c95a701ed1b2af29cb2",
+    "symbol": "STRATBTC",
+    "decimals": 8,
+    "chainId": 8453,
+    "logoURI": "https://raw.githubusercontent.com/QuickSwap/quickswap-default-token-list/main/assets/StratBTC.webp",
+    "trending": false
+  },
+  {
     "name": "CERE",
     "address": "0x9886447ff4c350f4600e4bf95db756bdc629b1ca",
     "symbol": "CERE",
@@ -2496,7 +2506,16 @@
     "symbol": "IMGN",
     "decimals": 18,
     "chainId": 8453,
-    "logoURI": "https://basescan.org/token/images/imgnlabs_64.svg",
+    "logoURI": "https://raw.githubusercontent.com/QuickSwap/quickswap-default-token-list/main/assets/IMGN.webp",
+    "trending": false
+  },
+  {
+    "name": "Stratex ETH",
+    "address": "0xae35ff1bc4fbb45aaeef9768a3d9610786cac98b",
+    "symbol": "STRATETH",
+    "decimals": 18,
+    "chainId": 8453,
+    "logoURI": "https://raw.githubusercontent.com/QuickSwap/quickswap-default-token-list/main/assets/StratETH.webp",
     "trending": false
   },
   {
@@ -2506,6 +2525,15 @@
     "decimals": 18,
     "chainId": 8453,
     "logoURI": "https://imgnai.com/logo/trump_400x400.jpg",
+    "trending": false
+  },
+  {
+    "name": "Morpho Token",
+    "address": "0xbaa5cc21fd487b8fcc2f632f3f4e8d37262a0842",
+    "symbol": "MORPHO",
+    "decimals": 18,
+    "chainId": 8453,
+    "logoURI": "https://raw.githubusercontent.com/QuickSwap/quickswap-default-token-list/main/assets/MORPHO.webp",
     "trending": false
   },
   {
@@ -2558,6 +2586,15 @@
     "symbol": "RWA",
     "decimals": 18,
     "chainId": 8453,
+    "trending": false
+  },
+  {
+    "name": "Stratex USD",
+    "address": "0xe5f2fe713cdb192c85e67a912ff8891b4e636614",
+    "symbol": "STRATUSD",
+    "decimals": 6,
+    "chainId": 8453,
+    "logoURI": "https://raw.githubusercontent.com/QuickSwap/quickswap-default-token-list/main/assets/StratUSD.webp",
     "trending": false
   },
   {
