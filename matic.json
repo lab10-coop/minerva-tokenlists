@@ -2381,6 +2381,16 @@
     "symbol": "VIRTUAL",
     "decimals": 18,
     "chainId": 8453,
+    "logoURI": "https://raw.githubusercontent.com/QuickSwap/quickswap-default-token-list/main/assets/VIRTUAL.webp",
+    "trending": false
+  },
+  {
+    "name": "Base tBTC v2",
+    "address": "0x236aa50979d5f3de3bd1eeb40e81137f22ab794b",
+    "symbol": "TBTC",
+    "decimals": 18,
+    "chainId": 8453,
+    "logoURI": "https://raw.githubusercontent.com/QuickSwap/quickswap-default-token-list/main/assets/tBTC.webp",
     "trending": false
   },
   {
@@ -2613,6 +2623,15 @@
     "decimals": 18,
     "chainId": 8453,
     "logoURI": "https://dd.dexscreener.com/ds-data/tokens/base/0xfa1c790f96bde6dfffa2860b794a096e8d85bb07.png?size=lg&key=0385a9",
+    "trending": false
+  },
+  {
+    "name": "Tether USD",
+    "address": "0xfde4c96c8593536e31f229ea8f37b2ada2699bb2",
+    "symbol": "USDT",
+    "decimals": 6,
+    "chainId": 8453,
+    "logoURI": "https://raw.githubusercontent.com/QuickSwap/quickswap-default-token-list/main/assets/USDT.webp",
     "trending": false
   },
   {
