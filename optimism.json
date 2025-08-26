@@ -3658,6 +3658,19 @@
   },
   {
     "chainId": 1,
+    "address": "0xbe042e9d09cb588331ff911c2b46fd833a3e5bd6",
+    "name": "Pepe Community",
+    "symbol": "PEPE",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/pepe_community/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "opListId": "extended",
+      "opTokenId": "pepe_community"
+    }
+  },
+  {
+    "chainId": 1,
     "address": "0xbe9895146f7af43049ca1c1ae358b0541ea49704",
     "name": "Coinbase Wrapped Staked ETH",
     "symbol": "cbETH",
@@ -11408,6 +11421,19 @@
       "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "extended",
       "opTokenId": "PEPE"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb5068ad7e4ad8f7fe2fcf5abe2c043ab8866569c",
+    "name": "Pepe Community",
+    "symbol": "PEPE",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/pepe_community/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "pepe_community"
     }
   },
   {

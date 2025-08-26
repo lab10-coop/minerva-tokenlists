@@ -2376,6 +2376,42 @@
     "trending": false
   },
   {
+    "name": "Wrapped SOMI",
+    "address": "0x046ede9564a72571df6f5e44d0405360c0f4dcab",
+    "symbol": "WSOMI",
+    "decimals": 18,
+    "chainId": 5031,
+    "logoURI": "",
+    "trending": false
+  },
+  {
+    "name": "USD Coin",
+    "address": "0x28bec7e30e6faee657a03e19bf1128aad7632a00",
+    "symbol": "USDC",
+    "decimals": 6,
+    "chainId": 5031,
+    "logoURI": "https://basescan.org/token/images/centre-usdc_28.png",
+    "trending": false
+  },
+  {
+    "name": "Tether USD",
+    "address": "0x67b302e35aef5eee8c32d934f5856869ef428330",
+    "symbol": "USDT",
+    "decimals": 6,
+    "chainId": 5031,
+    "logoURI": "https://raw.githubusercontent.com/QuickSwap/quickswap-default-token-list/main/assets/USDT.webp",
+    "trending": false
+  },
+  {
+    "name": "Wrapped Ether",
+    "address": "0x936ab8c674bcb567cd5deb85d8a216494704e9d8",
+    "symbol": "WETH",
+    "decimals": 18,
+    "chainId": 5031,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
+    "trending": false
+  },
+  {
     "name": "Virtual Protocol",
     "address": "0x0b3e328455c4059eeb9e3f84b5543f74e24e7e1b",
     "symbol": "VIRTUAL",
