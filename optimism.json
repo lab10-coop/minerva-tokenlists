@@ -900,6 +900,19 @@
   },
   {
     "chainId": 1,
+    "address": "0x2781246fe707bb15cee3e5ea354e2154a2877b16",
+    "name": "ELYSIA",
+    "symbol": "EL",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/EL/logo.svg",
+    "extensions": {
+      "soneiumBridgeAddress": "0xeb9bf100225c214efc3e7c651ebbadcf85177607",
+      "opListId": "extended",
+      "opTokenId": "EL"
+    }
+  },
+  {
+    "chainId": 1,
     "address": "0x27c4af9a860c4cadc358005f8b48140b2e434a7b",
     "name": "Validator",
     "symbol": "VALX",
@@ -2922,6 +2935,7 @@
     "extensions": {
       "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1",
       "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "modeBridgeAddress": "0x735aDBbE72226BD52e818E7181953f42E3b0FF21",
       "opListId": "extended",
       "opTokenId": "bwAJNA"
     }
@@ -8608,6 +8622,19 @@
   },
   {
     "chainId": 1868,
+    "address": "0xbc63230d1c4d0cd241d66f5aae75f3d1d6c0949a",
+    "name": "ELYSIA",
+    "symbol": "EL",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/EL/logo.svg",
+    "extensions": {
+      "soneiumBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "EL"
+    }
+  },
+  {
+    "chainId": 1868,
     "address": "0xf765356c901a064a74fa4560622f21c91048c3d7",
     "name": "SuperVerse",
     "symbol": "SUPER",
@@ -12676,6 +12703,19 @@
   },
   {
     "chainId": 34443,
+    "address": "0x9e1028f5f1d5ede59748ffcee5532509976840e0",
+    "name": "Burn Wrapped AJNA",
+    "symbol": "bwAJNA",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/bwAJNA/logo.svg",
+    "extensions": {
+      "modeBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "bwAJNA"
+    }
+  },
+  {
+    "chainId": 34443,
     "address": "0x9e5aac1ba1a2e6aed6b32689dfcf62a509ca96f3",
     "name": "Synthetix",
     "symbol": "SNX",
@@ -13464,6 +13504,19 @@
   },
   {
     "chainId": 84532,
+    "address": "0xfabadac5963bde1bcccd560ea60e9928dc5df014",
+    "name": "Wrapped WIT",
+    "symbol": "WIT",
+    "decimals": 9,
+    "logoURI": "https://ethereum-optimism.github.io/data/WIT/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000028",
+      "opListId": "extended",
+      "opTokenId": "WIT"
+    }
+  },
+  {
+    "chainId": 84532,
     "address": "0xfdb3b57944943a7724fcc0520ee2b10659969a06",
     "name": "Status Test Token",
     "symbol": "STT",
@@ -14025,6 +14078,20 @@
   },
   {
     "chainId": 11155111,
+    "address": "0xfabadac5963bde1bcccd560ea60e9928dc5df014",
+    "name": "Wrapped WIT",
+    "symbol": "WIT",
+    "decimals": 9,
+    "logoURI": "https://ethereum-optimism.github.io/data/WIT/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000028",
+      "optimismBridgeAddress": "0x4200000000000000000000000000000028",
+      "opListId": "extended",
+      "opTokenId": "WIT"
+    }
+  },
+  {
+    "chainId": 11155111,
     "address": "0xff36224b9cf97e7791d99fe19281ff78b0b24208",
     "name": "OMI Token",
     "symbol": "OMI",
@@ -14150,6 +14217,19 @@
       "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "default",
       "opTokenId": "ETH"
+    }
+  },
+  {
+    "chainId": 11155420,
+    "address": "0xfabadac5963bde1bcccd560ea60e9928dc5df014",
+    "name": "Wrapped WIT",
+    "symbol": "WIT",
+    "decimals": 9,
+    "logoURI": "https://ethereum-optimism.github.io/data/WIT/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000028",
+      "opListId": "extended",
+      "opTokenId": "WIT"
     }
   }
 ]
