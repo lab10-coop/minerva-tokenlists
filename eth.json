@@ -753,6 +753,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x00f3c42833c3170159af4e92dbb451fb3f708917",
+    "name": "Internet Computer",
+    "symbol": "ICP",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/14495/thumb/Internet_Computer_logo.png?1696514180"
+  },
+  {
+    "chainId": 1,
     "name": "VNX",
     "address": "0x00fc270c9cc13e878ab5363d00354bebf6f05c15",
     "decimals": 18,
@@ -32658,14 +32666,6 @@
   },
   {
     "chainId": 1,
-    "name": "unstable coin",
-    "address": "0x49e9e71fda1d3e2f92f90306d3cb01cc02026bce",
-    "decimals": 2,
-    "symbol": "USDUC",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/38228.png"
-  },
-  {
-    "chainId": 1,
     "address": "0x49f4592e641820e928f9919ef4abd92a719b4b49",
     "symbol": "iSUSD",
     "name": "Fulcrum sUSD iToken",
@@ -44386,11 +44386,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x64d3cae387405d91f7b0d91fb1d824a281719500",
     "name": "GammaSwap",
-    "symbol": "GS",
+    "address": "0x64d3cae387405d91f7b0d91fb1d824a281719500",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/29222/thumb/gstokenlogo500x500.png?1747484190"
+    "symbol": "GS",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/38233.png"
   },
   {
     "chainId": 1,
@@ -52766,6 +52766,14 @@
     "decimals": 18,
     "symbol": "EDFI",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/25366.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x76cd7d834e9d8382663a1660eb6e3c59addeec27",
+    "name": "HADES",
+    "symbol": "HADES",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/68751/thumb/IMG_3689.jpeg?1756453034"
   },
   {
     "chainId": 1,
@@ -62065,6 +62073,14 @@
   },
   {
     "chainId": 1,
+    "name": "Forest Protocol",
+    "address": "0x8d33f0ae6d111212d9d64b0821c7cf09e6270c27",
+    "decimals": 18,
+    "symbol": "FOREST",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/38237.png"
+  },
+  {
+    "chainId": 1,
     "name": "BundlesBets",
     "address": "0x8d3e855f3f55109d473735ab76f753218400fe96",
     "decimals": 18,
@@ -69736,6 +69752,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x9f49034409ae6813d2c70ae5117fd23cdff2d190",
+    "name": "Praxis",
+    "symbol": "PRXS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68755/thumb/logo.png?1756455593"
+  },
+  {
+    "chainId": 1,
     "name": "Guzzler",
     "address": "0x9f4909cc95fb870bf48c128c1fdbb5f482797632",
     "decimals": 18,
@@ -76792,6 +76816,14 @@
   },
   {
     "chainId": 1,
+    "address": "0xb015701c17830aa4a4c96f7bc1a57c3a5edd7c86",
+    "name": "Martin",
+    "symbol": "MARTIN",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/68770/thumb/1000000149.jpg?1756504178"
+  },
+  {
+    "chainId": 1,
     "address": "0xb01b6a7ef8560017aa59a990e39f26b8df29f80f",
     "name": "Module",
     "symbol": "MODULE",
@@ -83755,6 +83787,14 @@
     "decimals": 9,
     "symbol": "BIOT",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/8034.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Quack AI",
+    "address": "0xc07e1300dc138601fa6b0b59f8d0fa477e690589",
+    "decimals": 18,
+    "symbol": "Q",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/38236.png"
   },
   {
     "chainId": 1,
@@ -108505,7 +108545,7 @@
   },
   {
     "chainId": 1,
-    "name": "RARI",
+    "name": "Rarible",
     "address": "0xfca59cd816ab1ead66534d82bc21e7515ce441cf",
     "decimals": 18,
     "symbol": "RARI",
