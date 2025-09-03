@@ -753,11 +753,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x00f3c42833c3170159af4e92dbb451fb3f708917",
     "name": "Internet Computer",
+    "address": "0x00f3c42833c3170159af4e92dbb451fb3f708917",
+    "decimals": 18,
     "symbol": "ICP",
-    "decimals": 8,
-    "logoURI": "https://assets.coingecko.com/coins/images/14495/thumb/Internet_Computer_logo.png?1696514180"
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/8916.png"
   },
   {
     "chainId": 1,
@@ -2521,11 +2521,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x04e69ff14a86e1ca9a155a8563e95887973ee175",
     "name": "AITV",
-    "symbol": "AITV",
+    "address": "0x04e69ff14a86e1ca9a155a8563e95887973ee175",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/54817/thumb/aitv-logo.png?1756549160"
+    "symbol": "AITV",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/38259.png"
   },
   {
     "chainId": 1,
@@ -9574,6 +9574,14 @@
     "decimals": 18,
     "symbol": "DEUSD",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/31024.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x1570b8d622ebde9209e1b394a3c08e8eb6e99705",
+    "name": "Bodhi The Inu",
+    "symbol": "BODHI",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/68861/thumb/Lmg9XF1w_400x400.jpg?1756808185"
   },
   {
     "chainId": 1,
@@ -26705,6 +26713,14 @@
     "symbol": "IBITD",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/53950/thumb/d-token-200.png?1737788536"
+  },
+  {
+    "chainId": 1,
+    "name": "Crypto Sustainable Token",
+    "address": "0x3c41c80b966b92d345dc8fc91e5508bc7248da6e",
+    "decimals": 18,
+    "symbol": "CST",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/38254.png"
   },
   {
     "chainId": 1,
@@ -44012,7 +44028,7 @@
     "chainId": 1,
     "name": "Hacken Token",
     "address": "0x6403af1267cacc0714c1bd916b12f80e179c0558",
-    "decimals": 8,
+    "decimals": 18,
     "symbol": "HAI",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/5583.png"
   },
@@ -71632,6 +71648,14 @@
   },
   {
     "chainId": 1,
+    "address": "0xa37bb2aaac324eb974ea46729217040a23eae996",
+    "name": "Little Pepe",
+    "symbol": "LILPEPE",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/68872/thumb/logo.png?1756849618"
+  },
+  {
+    "chainId": 1,
     "name": "Cartel Coin",
     "address": "0xa381e7073ea828fb963157dcc4b414da4344e3fd",
     "decimals": 18,
@@ -80987,6 +81011,14 @@
     "decimals": 18,
     "symbol": "RARE",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/11294.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xba5ed44733953d79717f6269357c77718c8ba5ed",
+    "name": "Union",
+    "symbol": "U",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68859/thumb/union.png?1756807051"
   },
   {
     "chainId": 1,
@@ -101697,11 +101729,11 @@
   },
   {
     "chainId": 1,
+    "name": "Haust Network",
     "address": "0xec3502a9f98f151af52ee6cb423a0afe7bbf5a19",
-    "name": "Haust",
-    "symbol": "HAUST",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/52141/thumb/chain-logo-200.png?1732643394"
+    "symbol": "HAUST",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/38256.png"
   },
   {
     "chainId": 1,
@@ -106705,11 +106737,11 @@
   },
   {
     "chainId": 1,
-    "address": "0xf7af0a8079f12f19533b0df69ce7ee6718b0c46f",
     "name": "Staked Tharwa USD",
-    "symbol": "STHUSD",
+    "address": "0xf7af0a8079f12f19533b0df69ce7ee6718b0c46f",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/68729/thumb/2.png?1756397740"
+    "symbol": "STHUSD",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/38253.png"
   },
   {
     "chainId": 1,
@@ -122737,6 +122769,14 @@
   },
   {
     "chainId": 8453,
+    "address": "0xcfc8e8a4d2246dec68115ae24abbca0d2b1e6bf2",
+    "symbol": "BILLY",
+    "name": "Billy Bets",
+    "decimals": 18,
+    "logoURI": "ipfs://QmWJBdCD4uiDCYnY8HGhcBQKoftehDdCreZhnpypbSog6F"
+  },
+  {
+    "chainId": 8453,
     "address": "0xcfd7420bb05c96c15c04654fccd9882af7bc75a7",
     "symbol": "TRADE",
     "name": "vAlpha FST bot",
@@ -125185,6 +125225,14 @@
   },
   {
     "chainId": 43114,
+    "address": "0x09fa58228bb791ea355c90da1e4783452b9bd8c3",
+    "symbol": "SUPER",
+    "name": "SuperVerse",
+    "decimals": 18,
+    "logoURI": "ipfs://QmbsQ9fLf3PPRigdfKDKXDsL2gJhouaKv3cot6KGLnuDdC"
+  },
+  {
+    "chainId": 43114,
     "address": "0x0a10d108e2d81ccc793e37b56206c84bf96ddc57",
     "symbol": "XSEED",
     "name": "MXS Games",
@@ -125502,6 +125550,14 @@
     "name": "Nya",
     "decimals": 18,
     "logoURI": "ipfs://QmdUMdhtm25TCT1YgHQx5UCXKggthecG1W6mCCw5LBVvj6"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x3d75f2bb8abcdbd1e27443cb5cbce8a668046c81",
+    "symbol": "HLP0",
+    "name": "HLP0",
+    "decimals": 6,
+    "logoURI": "ipfs://QmPoN5dj45qWWexyTcqcDLgLKKjn8MuGQXy9ppQXvaMzoR"
   },
   {
     "chainId": 43114,
@@ -125833,6 +125889,14 @@
   },
   {
     "chainId": 43114,
+    "address": "0x67ea3abd5cee0b99d743155051c191b09135f93c",
+    "symbol": "AXD",
+    "name": "Aesyx Dollar",
+    "decimals": 18,
+    "logoURI": "ipfs://QmSHXLnq1BgKN9s6SJhHAVDvTf7B89e62motMxM9iCxaG8"
+  },
+  {
+    "chainId": 43114,
     "address": "0x69260b9483f9871ca57f81a90d91e2f96c2cd11d",
     "symbol": "GGP",
     "name": "GoGoPool Protocol",
@@ -125977,6 +126041,14 @@
   },
   {
     "chainId": 43114,
+    "address": "0x7cc9c624efa62c2decf0a2a028f7885ecea95a17",
+    "symbol": "SPCM",
+    "name": "SpaceM",
+    "decimals": 18,
+    "logoURI": "ipfs://QmRjiQY5Nqo5nw5AcrcF8kJEZ2DMCYF7hNLDN43NbqMEmP"
+  },
+  {
+    "chainId": 43114,
     "address": "0x7f9c841feadddb4bdbb2a161ca40bebc4f215a9a",
     "symbol": "APOW",
     "name": "APower",
@@ -125998,6 +126070,14 @@
     "name": "Stack",
     "decimals": 18,
     "logoURI": "ipfs://QmVDpSKa5UmqnAkzJED4EmHCeUazYCCSLUt6hrbD6daQpb"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x87202a2402414f4f58c52764faa7b015d104be82",
+    "symbol": "FOMO",
+    "name": "FOMO",
+    "decimals": 18,
+    "logoURI": "ipfs://QmTqebrbCma5wpEHR28vYoWa6GjiyXJRCGA44bmCPmUmVV"
   },
   {
     "chainId": 43114,
@@ -126078,6 +126158,14 @@
     "name": "AIvalanche DeFAI Agents",
     "decimals": 18,
     "logoURI": "ipfs://QmcW8uuUUtjpgM9yZir2HtNawaSJE15jA8rAA1RHS4XVEg"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x8cf71b4f445a47f234a0dc61034708a4087bead0",
+    "symbol": "EMINI",
+    "name": "Emini Spaghettini",
+    "decimals": 18,
+    "logoURI": "ipfs://QmYpwxDDJRD99cpEJEp2YV47w6yRRzRFZCvniT4RcLVPXZ"
   },
   {
     "chainId": 43114,
@@ -126214,6 +126302,14 @@
     "name": "GhostMarket",
     "decimals": 8,
     "logoURI": "ipfs://QmazNh74kTr5BJxiEfEdcJb524DGPZcSMM5XJii7vgE7iG"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x99f2bdf00acd067c65a79a0b6a3914c555196ea4",
+    "symbol": "KULA",
+    "name": "Kula",
+    "decimals": 18,
+    "logoURI": "ipfs://QmNYe6d3gy9b4rWuEQroe8H2jKmoQdpdhNDQDgVd6XrY9m"
   },
   {
     "chainId": 43114,
