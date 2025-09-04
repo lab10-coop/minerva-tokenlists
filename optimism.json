@@ -1243,6 +1243,19 @@
   },
   {
     "chainId": 1,
+    "address": "0x41545f8b9472d758bb669ed8eaeeecd7a9c4ec29",
+    "name": "Forta",
+    "symbol": "FORT",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/FORT/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "opListId": "extended",
+      "opTokenId": "FORT"
+    }
+  },
+  {
+    "chainId": 1,
     "address": "0x423071774c43c0aaf4210b439e7cda8c797e2f26",
     "name": "GALAXIS Token",
     "symbol": "GALAXIS",
@@ -1847,6 +1860,18 @@
       "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1",
       "opListId": "extended",
       "opTokenId": "PREMIA"
+    }
+  },
+  {
+    "chainId": 1,
+    "address": "0x672fdba7055bddfa8fd6bd45b1455ce5eb97f499",
+    "name": "ARC",
+    "symbol": "ARC",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/ARCV2/logo.svg",
+    "extensions": {
+      "opListId": "extended",
+      "opTokenId": "ARCV2"
     }
   },
   {
@@ -3143,6 +3168,19 @@
   },
   {
     "chainId": 1,
+    "address": "0x9f90b457dea25ef802e38d470dda7343691d8fe1",
+    "name": "Crosschain IOTX",
+    "symbol": "CIOTX",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/CIOTX/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "opListId": "extended",
+      "opTokenId": "CIOTX"
+    }
+  },
+  {
+    "chainId": 1,
     "address": "0xa0246c9032bc3a600820415ae600c6388619a14d",
     "name": "FARM Reward Token",
     "symbol": "FARM",
@@ -4160,6 +4198,19 @@
       "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
       "opListId": "extended",
       "opTokenId": "ADS"
+    }
+  },
+  {
+    "chainId": 1,
+    "address": "0xd07ea8776e52c1b67dca6ffbc3f659fc9fbe4113",
+    "name": "IP Tokens of IPNFT",
+    "symbol": "MITY",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/MITY/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "opListId": "extended",
+      "opTokenId": "MITY"
     }
   },
   {
@@ -9251,6 +9302,19 @@
   },
   {
     "chainId": 8453,
+    "address": "0x1fbaf8bdc2a43b0c9ba90b6caf44ee14d2ee6773",
+    "name": "Fission Bio",
+    "symbol": "MITY",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/MITY/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "MITY"
+    }
+  },
+  {
+    "chainId": 8453,
     "address": "0x20b048fa035d5763685d695e66adf62c5d9f5055",
     "name": "Biochar",
     "symbol": "CHAR",
@@ -9957,6 +10021,18 @@
   },
   {
     "chainId": 8453,
+    "address": "0x431151f26c48b4d4befc34048a0966bf960a0c50",
+    "name": "ARC",
+    "symbol": "ARC",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/ARCV2/logo.svg",
+    "extensions": {
+      "opListId": "extended",
+      "opTokenId": "ARCV2"
+    }
+  },
+  {
+    "chainId": 8453,
     "address": "0x4379c13143eb91148ff9282cfb2f93536687a45b",
     "name": "Reach",
     "symbol": "$Reach",
@@ -10653,6 +10729,19 @@
   },
   {
     "chainId": 8453,
+    "address": "0x7588310a7abf34dc608ac98a1c4432f85e194df5",
+    "name": "Forta",
+    "symbol": "FORT",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/FORT/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "FORT"
+    }
+  },
+  {
+    "chainId": 8453,
     "address": "0x75f2231a289ea35895246b21e9c6e5bbf5ce69ed",
     "name": "AltLayer",
     "symbol": "ALT",
@@ -10828,6 +10917,19 @@
       "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "extended",
       "opTokenId": "OMETA"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0x819233aa703a19e434e6dd965493b6081a3fc3aa",
+    "name": "IoTeX Network (Crosschain IOTX)",
+    "symbol": "CIOTX",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/CIOTX/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "CIOTX"
     }
   },
   {
@@ -13868,6 +13970,19 @@
   },
   {
     "chainId": 11155111,
+    "address": "0x95d9a757ad9c25999ffe93f3067221f04ce1cc79",
+    "name": "Forta",
+    "symbol": "FORT",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/FORT/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0xFBb0621E0B23b5478B630BD55a5f21f67730B0F1",
+      "opListId": "extended",
+      "opTokenId": "FORT"
+    }
+  },
+  {
+    "chainId": 11155111,
     "address": "0x97a13487f889dc770ac925be2d3b6c833fa7746a",
     "name": "Brickken",
     "symbol": "BKN",
@@ -14230,6 +14345,19 @@
       "optimismBridgeAddress": "0x4200000000000000000000000000000028",
       "opListId": "extended",
       "opTokenId": "WIT"
+    }
+  },
+  {
+    "chainId": 11155420,
+    "address": "0xfb8bd4464849080b8a08d706300347cbea8c137d",
+    "name": "Forta",
+    "symbol": "FORT",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/FORT/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "FORT"
     }
   }
 ]
