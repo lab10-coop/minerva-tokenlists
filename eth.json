@@ -537,14 +537,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x006e730a6c36ff47a31a99931bedbddccf3de81c",
-    "name": "Race to a Billion",
-    "symbol": "RACE",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/54528/thumb/25952add6d22b6ed86b0b6e0-20250219030728.png?1740167945"
-  },
-  {
-    "chainId": 1,
     "address": "0x007115416ab6c266329a03b09a8aa39ac2ef7d9d",
     "name": "Midas mBTC",
     "symbol": "MBTC",
@@ -2225,11 +2217,11 @@
   },
   {
     "chainId": 1,
-    "name": "WOLF",
     "address": "0x044fe33895cb7c6e4566da8e24420c1110933a63",
-    "decimals": 18,
+    "name": "WOLF",
     "symbol": "WOLF",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/38203.png"
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/66822/thumb/1000809121.png?1755428524"
   },
   {
     "chainId": 1,
@@ -4686,6 +4678,14 @@
     "decimals": 18,
     "symbol": "GAT",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/10950.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x0a26c80be4e060e688d7c23addb92cbb5d2c9eca",
+    "name": "NONOS",
+    "symbol": "NOX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68936/thumb/IMG_3019_2.png?1757020610"
   },
   {
     "chainId": 1,
@@ -22436,14 +22436,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x32b9c89248bea35c42fcca76856d31d6d00d3a61",
-    "name": "SafuLauncher",
-    "symbol": "SAFU",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/68824/thumb/transparent_without_text_%282%29.png?1756706230"
-  },
-  {
-    "chainId": 1,
     "address": "0x32c1b3c43317cba8185d65227a54ae416dacc338",
     "name": "Vaultec",
     "symbol": "VLT",
@@ -26300,14 +26292,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x3b24ed67481a80609af2f8913a45da2049547cfd",
-    "name": "Nodez",
-    "symbol": "NODE",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/50428/thumb/Nodez.png?1727693104"
-  },
-  {
-    "chainId": 1,
     "address": "0x3b27f92c0e212c671ea351827edf93db27cc0c65",
     "name": "USDT yVault",
     "symbol": "YVUSDT",
@@ -26641,6 +26625,14 @@
     "decimals": 18,
     "symbol": "VIDT",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/22710.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x3be8d80f4c85f59ad9c95387354cb89351820811",
+    "name": "Unstable Cult",
+    "symbol": "USC",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/68923/thumb/logo.png?1756976104"
   },
   {
     "chainId": 1,
@@ -29260,6 +29252,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x42160d5d87e7df8b46e572143a03a7fdb7ccf03e",
+    "name": "Ethereum Goddess",
+    "symbol": "ETHERA",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/68937/thumb/logo.png?1757020813"
+  },
+  {
+    "chainId": 1,
     "name": "MicroPepe",
     "address": "0x4216663ddc7bd10eaf44609df4dd0f91cd2be7f2",
     "decimals": 18,
@@ -29585,14 +29585,6 @@
     "decimals": 8,
     "symbol": "CTK",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/4596.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x42a7797351dfd281a80807196c8508eb70bb2af9",
-    "name": "AISociety",
-    "symbol": "AIS",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/32861/thumb/AIS_Symbol.png?1699669819"
   },
   {
     "chainId": 1,
@@ -44106,6 +44098,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x642ee4b1f054da33bc6003ad0278f9a27478caf5",
+    "name": "  ",
+    "symbol": "",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68921/thumb/QXEN5h3i_400x400.jpg?1756974073"
+  },
+  {
+    "chainId": 1,
     "address": "0x64351fc9810adad17a690e4e1717df5e7e085160",
     "name": "Metronome Synth ETH",
     "symbol": "MSETH",
@@ -44831,6 +44831,14 @@
     "decimals": 18,
     "symbol": "EGG",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/4467.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Pascal Protocol",
+    "address": "0x65d6ae56f6e4f3aa7c4249c4023698104c4ab5f4",
+    "decimals": 18,
+    "symbol": "PASC",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/30714.png"
   },
   {
     "chainId": 1,
@@ -49287,6 +49295,14 @@
     "decimals": 18,
     "symbol": "CNDL",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/31179.png"
+  },
+  {
+    "chainId": 1,
+    "name": "WorldShards",
+    "address": "0x6efe65c2426b51e9aa0427b96c313e5d8715fd06",
+    "decimals": 18,
+    "symbol": "SHARDS",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/38291.png"
   },
   {
     "chainId": 1,
@@ -55095,6 +55111,14 @@
     "symbol": "LVLUSD",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/53150/thumb/lvlusd-logo.png?1735406507"
+  },
+  {
+    "chainId": 1,
+    "address": "0x7c19ccadb685b873bc7b99cd7308c00a9b9bae7c",
+    "name": "SafuLauncher",
+    "symbol": "SAFU",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68824/thumb/transparent_without_text_%282%29.png?1756706230"
   },
   {
     "chainId": 1,
@@ -65495,6 +65519,14 @@
     "decimals": 18,
     "symbol": "KANAK",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/32726.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Coremind",
+    "address": "0x95665780ef4fafe7822f6915a17b6d1b2d3e93d0",
+    "decimals": 18,
+    "symbol": "CORE",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/38295.png"
   },
   {
     "chainId": 1,
@@ -94962,6 +94994,14 @@
   },
   {
     "chainId": 1,
+    "address": "0xdac32deb60c817ee1cd8fc2bb2a7cda2ce1732d0",
+    "name": "Ramda AI",
+    "symbol": "RAMDAI",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/68934/thumb/vxCmyno2_400x400.png?1757014881"
+  },
+  {
+    "chainId": 1,
     "name": "InterValue",
     "address": "0xdac4ae188ace3c8985765edc6c9b4739d4845ddc",
     "decimals": 18,
@@ -96687,6 +96727,14 @@
     "decimals": 18,
     "symbol": "SATT",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7244.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xdf4c0665e67cf0698447ca9e454ed56cc6f2df1e",
+    "name": "Token6900",
+    "symbol": "T6900",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68913/thumb/Token6900_Logo_200x200.png?1756971732"
   },
   {
     "chainId": 1,
@@ -98898,6 +98946,14 @@
   },
   {
     "chainId": 1,
+    "name": "DIGIKA",
+    "address": "0xe5255cb92907648a65a19e6ec40bc2f444fd7526",
+    "decimals": 18,
+    "symbol": "DGK",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/36214.png"
+  },
+  {
+    "chainId": 1,
     "name": "Three Kingdoms",
     "address": "0xe529b502fec3ff0ea86fe63da505ec62fdf4f387",
     "decimals": 18,
@@ -99895,6 +99951,14 @@
     "symbol": "KAI",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/37145/thumb/W0WXzwID_400x400.png?1713444313"
+  },
+  {
+    "chainId": 1,
+    "name": "Sultanoshi",
+    "address": "0xe76833cf2e3a95c6d7d55df05eba3d2ae577abd0",
+    "decimals": 18,
+    "symbol": "STOSHI",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/38294.png"
   },
   {
     "chainId": 1,
@@ -102271,6 +102335,14 @@
     "decimals": 18,
     "symbol": "WARP",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/8439.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Pokemon",
+    "address": "0xed41ce27474a57e50b8976cf67cf5931eef78901",
+    "decimals": 2,
+    "symbol": "POKEMON",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/38297.png"
   },
   {
     "chainId": 1,
@@ -105330,11 +105402,11 @@
   },
   {
     "chainId": 1,
-    "name": "DIGIKA",
     "address": "0xf4445049080ae2fde75aaf0c6e603fb55875f02c",
-    "decimals": 18,
+    "name": "DIGIKA",
     "symbol": "DGK",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/36214.png"
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55038/thumb/dgk-dark-800px.png?1743404518"
   },
   {
     "chainId": 1,
@@ -125663,6 +125735,14 @@
     "name": "ZeroSwap",
     "decimals": 18,
     "logoURI": "ipfs://QmYJk5jz5htpXbeWPY8DxNjxseaU1Fbjs6nKHEaQqAXHrQ"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x451532f1c9eb7e4dc2d493db52b682c0acf6f5ef",
+    "symbol": "SUZ",
+    "name": "Suzaku",
+    "decimals": 18,
+    "logoURI": "ipfs://QmcriZo8o6qSKEDhPXJ7ss7JxLPAdyrYPLZd8xDfTXU7us"
   },
   {
     "chainId": 43114,
