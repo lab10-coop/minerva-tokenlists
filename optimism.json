@@ -53,6 +53,19 @@
   },
   {
     "chainId": 1,
+    "address": "0x000006c2a22ff4a44ff1f5d0f2ed65f781f55555",
+    "name": "ZK Coin",
+    "symbol": "ZKC",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/ZKC/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "opListId": "extended",
+      "opTokenId": "ZKC"
+    }
+  },
+  {
+    "chainId": 1,
     "address": "0x0001a500a6b18995b03f44bb040a5ffc28e45cb0",
     "name": "Autonolas",
     "symbol": "OLAS",
@@ -75,6 +88,21 @@
     "extensions": {
       "opListId": "extended",
       "opTokenId": "alETH"
+    }
+  },
+  {
+    "chainId": 1,
+    "address": "0x01995a697752266d8e748738aaa3f06464b8350b",
+    "name": "CANA Holdings California Carbon Credits",
+    "symbol": "CANA",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/CANA/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1",
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "unichainBridgeAddress": "0x81014F44b0a345033bB2b3B21C7a1A308B35fEeA",
+      "opListId": "extended",
+      "opTokenId": "CANA"
     }
   },
   {
@@ -1870,6 +1898,7 @@
     "decimals": 18,
     "logoURI": "https://ethereum-optimism.github.io/data/ARCV2/logo.svg",
     "extensions": {
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
       "opListId": "extended",
       "opTokenId": "ARCV2"
     }
@@ -4792,6 +4821,32 @@
   },
   {
     "chainId": 1,
+    "address": "0xf04a8ac553fcedb5ba99a64799155826c136b0be",
+    "name": "Flixx",
+    "symbol": "FLIXX",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/FLIXX/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "opListId": "extended",
+      "opTokenId": "FLIXX"
+    }
+  },
+  {
+    "chainId": 1,
+    "address": "0xf0610eb7d8ee12d59412da32625d5e273e78ff0b",
+    "name": "MasterDEX Token",
+    "symbol": "MDEX",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/MDEX/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "opListId": "extended",
+      "opTokenId": "MDEX"
+    }
+  },
+  {
+    "chainId": 1,
     "address": "0xf134519cbe2042b06ee7ce20df51d09b55559896",
     "name": "Mochi",
     "symbol": "MOCHI",
@@ -6969,6 +7024,19 @@
   },
   {
     "chainId": 10,
+    "address": "0xca0eac34408e4b5906d3e161c73bb4611ff22ca1",
+    "name": "CANA Holdings California Carbon Credits",
+    "symbol": "CANA",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/CANA/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "CANA"
+    }
+  },
+  {
+    "chainId": 10,
     "address": "0xcb59a0a753fdb7491d5f3d794316f1ade197b21e",
     "name": "TrueUSD",
     "symbol": "TUSD",
@@ -7782,6 +7850,19 @@
       "unichainBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "default",
       "opTokenId": "LINK"
+    }
+  },
+  {
+    "chainId": 130,
+    "address": "0x614b641b6b59d290b1e8412426fe37e342aade3e",
+    "name": "CANA Holdings California Carbon Credits",
+    "symbol": "CANA",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/CANA/logo.svg",
+    "extensions": {
+      "unichainBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "CANA"
     }
   },
   {
@@ -10027,6 +10108,7 @@
     "decimals": 18,
     "logoURI": "https://ethereum-optimism.github.io/data/ARCV2/logo.svg",
     "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "extended",
       "opTokenId": "ARCV2"
     }
@@ -11011,6 +11093,19 @@
   },
   {
     "chainId": 8453,
+    "address": "0x88a3548e2a662936268bfd4366e48d38183e3958",
+    "name": "CANA Holdings California Carbon Credits",
+    "symbol": "CANA",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/CANA/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "CANA"
+    }
+  },
+  {
+    "chainId": 8453,
     "address": "0x8e5e9df4f0ea39ae5270e79bbabfcc34203a3470",
     "name": "Revenue Generating USD",
     "symbol": "rgUSD",
@@ -11335,6 +11430,19 @@
   },
   {
     "chainId": 8453,
+    "address": "0xaa61bb7777bd01b684347961918f1e07fbbce7cf",
+    "name": "ZK Coin",
+    "symbol": "ZKC",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/ZKC/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "ZKC"
+    }
+  },
+  {
+    "chainId": 8453,
     "address": "0xaac78d1219c08aecc8e37e03858fe885f5ef1799",
     "name": "Yield Guild Games Token",
     "symbol": "YGG",
@@ -11370,6 +11478,19 @@
       "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "extended",
       "opTokenId": "AKIRA"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0xabc5915cad6b54f48b2a8cd516055f378861c237",
+    "name": "MasterDEX Token",
+    "symbol": "MDEX",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/MDEX/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "MDEX"
     }
   },
   {
@@ -11858,6 +11979,19 @@
       "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "extended",
       "opTokenId": "VSP"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0xc8f8a8140df44af075d66bc50717653cfebb860c",
+    "name": "Flixx",
+    "symbol": "FLIXX",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/FLIXX/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "FLIXX"
     }
   },
   {
@@ -13451,6 +13585,19 @@
   },
   {
     "chainId": 84532,
+    "address": "0x8d4da4b7938471a919b08f941461b2ed1679d7bb",
+    "name": "ZK Coin",
+    "symbol": "ZKC",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/ZKC/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "ZKC"
+    }
+  },
+  {
+    "chainId": 84532,
     "address": "0x9a7be36df8221f5a3971693f5d71d2c471785478",
     "name": "BLOCKLORDS",
     "symbol": "LRDS",
@@ -14031,6 +14178,19 @@
       "baseBridgeAddress": "0xfd0Bf71F60660E2f608ed56e1659C450eB113120",
       "opListId": "extended",
       "opTokenId": "LIZCOIN"
+    }
+  },
+  {
+    "chainId": 11155111,
+    "address": "0xb4fc69a452d09d2662bd8c3b5bb756902260ae28",
+    "name": "ZK Coin",
+    "symbol": "ZKC",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/ZKC/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0xfd0Bf71F60660E2f608ed56e1659C450eB113120",
+      "opListId": "extended",
+      "opTokenId": "ZKC"
     }
   },
   {
