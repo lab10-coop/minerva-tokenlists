@@ -18116,6 +18116,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x284c0a369613a83080cebdbf253e596a7fc7594c",
+    "name": "Noob cult",
+    "symbol": "NOOB",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69261/thumb/IMG_1527.jpeg?1757988578"
+  },
+  {
+    "chainId": 1,
     "address": "0x28561b8a2360f463011c16b6cc0b0cbef8dbbcad",
     "name": "MOO DENG",
     "symbol": "MOODENG",
@@ -44402,11 +44410,11 @@
   },
   {
     "chainId": 1,
+    "name": "Liquity V2",
     "address": "0x6440f144b7e50d6a8439336510312d2f54beb01d",
-    "name": "Liquity BOLD",
-    "symbol": "BOLD",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/56069/thumb/BOLD_logo.png?1748265087"
+    "symbol": "BOLD",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/38407.png"
   },
   {
     "chainId": 1,
@@ -46695,6 +46703,14 @@
     "decimals": 18,
     "symbol": "NMKR",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/20582.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x68c6f3d735e83593b23b0063a50cc87952afddb2",
+    "name": "Blocklens AI",
+    "symbol": "BLS",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/69262/thumb/Transparent.png?1757989530"
   },
   {
     "chainId": 1,
@@ -54066,6 +54082,14 @@
   },
   {
     "chainId": 1,
+    "name": "Disco By Matt Furie",
+    "address": "0x787b197f793f7d04366536f6a7a56a799868a64b",
+    "decimals": 18,
+    "symbol": "DISCO",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/38414.png"
+  },
+  {
+    "chainId": 1,
     "name": "Binance Wrapped DOT",
     "address": "0x7884f51dc1410387371ce61747cb6264e1daee0b",
     "decimals": 10,
@@ -57298,11 +57322,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x812ba41e071c7b7fa4ebcfb62df5f45f6fa853ee",
     "name": "Neiro",
+    "address": "0x812ba41e071c7b7fa4ebcfb62df5f45f6fa853ee",
+    "decimals": 18,
     "symbol": "NEIRO",
-    "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/39488/thumb/neiro.jpg?1731449567"
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/32521.png"
   },
   {
     "chainId": 1,
@@ -73633,6 +73657,14 @@
   },
   {
     "chainId": 1,
+    "address": "0xa67ff247d595301cbd04fcf06a497a12cfc3b263",
+    "name": "MiladyStrategy",
+    "symbol": "MLDSTR",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/69257/thumb/milady.png?1757985061"
+  },
+  {
+    "chainId": 1,
     "address": "0xa682ee16b497afceedf47e4820fc2af3845fd2d2",
     "symbol": "PIKA",
     "name": "Pika",
@@ -86382,7 +86414,8 @@
     "address": "0xc50673edb3a7b94e8cad8a7d4e0cd68864e33edf",
     "name": "PunkStrategy",
     "symbol": "PNKSTR",
-    "decimals": 18
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69249/thumb/PNKSTR.png?1758014976"
   },
   {
     "chainId": 1,
@@ -104609,11 +104642,11 @@
   },
   {
     "chainId": 1,
+    "name": "Lombard",
     "address": "0xf0db65d17e30a966c2ae6a21f6bba71cea6e9754",
-    "name": "Lombard Protocol",
-    "symbol": "BARD",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/68404/thumb/bard.png?1755657543"
+    "symbol": "BARD",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/38408.png"
   },
   {
     "chainId": 1,
@@ -124822,6 +124855,14 @@
     "name": "AION 5100",
     "decimals": 18,
     "logoURI": "ipfs://QmNjVw5gGsB9doMXfhaGzAcZCeSS99V5GQs6nMUbzZBErQ"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xfca95aeb5bf44ae355806a5ad14659c940dc6bf7",
+    "symbol": "SHIB",
+    "name": "SHIBA INU",
+    "decimals": 9,
+    "logoURI": "ipfs://QmT5fpMbVh1USmp4qEiZaBt5yMNmwVcYNbPukTK9M3ypXm"
   },
   {
     "chainId": 8453,
