@@ -2761,14 +2761,6 @@
   },
   {
     "chainId": 1,
-    "name": "USD One",
-    "address": "0x056aa0b63a3cd2fc5538608ad37dbe0f89cceee7",
-    "decimals": 17,
-    "symbol": "USD1",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/37598.png"
-  },
-  {
-    "chainId": 1,
     "name": "Gains",
     "address": "0x056c1d42fb1326f57da7f19ebb7dda4673f1ff55",
     "decimals": 18,
@@ -2926,14 +2918,6 @@
     "decimals": 18,
     "symbol": "GOV",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/14053.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x05bbe7240de66f6480c9aeda77c1376b13393f83",
-    "name": "Xeno",
-    "symbol": "XNO",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/13830/thumb/XNO_logo_200x200.png?1696513573"
   },
   {
     "chainId": 1,
@@ -7153,6 +7137,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x0fb1f1ef7eafc3d05b5fe4a0f1cd6a6852a8b6ed",
+    "name": "PEPETO",
+    "symbol": "PEPETO",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/69337/thumb/logo.png?1758225793"
+  },
+  {
+    "chainId": 1,
     "name": "Jinni AI",
     "address": "0x0fbf91a2282adaac4ccf0969b052b825fd3009c9",
     "decimals": 18,
@@ -8089,11 +8081,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x11dfc652eb62c723ad8c2ae731fcede58ab07564",
     "name": "Liquid Agent",
-    "symbol": "LIQUID",
+    "address": "0x11dfc652eb62c723ad8c2ae731fcede58ab07564",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/66946/thumb/liquid_logo_200px.png?1751201641"
+    "symbol": "LIQUID",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/38446.png"
   },
   {
     "chainId": 1,
@@ -17892,6 +17884,14 @@
   },
   {
     "chainId": 1,
+    "name": "Dogecoin ETF",
+    "address": "0x27e1f238683643d33eea9f11017749769aa51bf3",
+    "decimals": 2,
+    "symbol": "DOJE",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/38445.png"
+  },
+  {
+    "chainId": 1,
     "name": "GG Token",
     "address": "0x27eb7aa2cce204012f7d9cd4d49baa746ec5ab63",
     "decimals": 18,
@@ -21169,6 +21169,14 @@
     "decimals": 18,
     "symbol": "KLAYG",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/12906.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x2fe058ccf29f123f9dd2aec0418aa66a877d8e50",
+    "name": "Midas msyrupUSDp",
+    "symbol": "MSYRUPUSDP",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69323/thumb/msyrupusdp_icon.png?1758192264"
   },
   {
     "chainId": 1,
@@ -47818,6 +47826,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x6a82b057425fb4396793bd163e6a7b87963efe83",
+    "name": "PepeApuKekiusSimonPepuHoppyMysteryGroyp",
+    "symbol": "PEPE",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/69335/thumb/logo.png?1758225090"
+  },
+  {
+    "chainId": 1,
     "address": "0x6a89228055c7c28430692e342f149f37462b478b",
     "name": "Spectra",
     "symbol": "SPECTRA",
@@ -49599,6 +49615,14 @@
     "decimals": 9,
     "symbol": "GNX",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2291.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x6ecf5fe60e27cd03abdba3a19af8dc6845a0da58",
+    "name": "Boba Cat",
+    "symbol": "BOBA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/31777/thumb/bobalogo200x200.png?1758228522"
   },
   {
     "chainId": 1,
@@ -64138,6 +64162,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x90ba94f4e64e327c444d7ac7f1056ead4ea6fd98",
+    "name": "DiversiFi",
+    "symbol": "DEFI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69327/thumb/1000186548.jpg?1758194251"
+  },
+  {
+    "chainId": 1,
     "name": "Elon Tusk",
     "address": "0x90c50ded94d73bc9bd1877fa641ff321cf766b9a",
     "decimals": 18,
@@ -66218,11 +66250,11 @@
   },
   {
     "chainId": 1,
-    "name": "Manyu",
     "address": "0x95af4af910c28e8ece4512bfe46f1f33687424ce",
-    "decimals": 18,
+    "name": "Manyu",
     "symbol": "MANYU",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/37114.png"
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/67068/thumb/manyu-shiba-logo.jpg?1751631683"
   },
   {
     "chainId": 1,
@@ -81436,6 +81468,14 @@
     "decimals": 18,
     "symbol": "SMAC",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/17101.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Kristalin Digital",
+    "address": "0xb99b27c789d38ab9081651eb6e84bdd0c14dc2d2",
+    "decimals": 18,
+    "symbol": "KLX",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/38434.png"
   },
   {
     "chainId": 1,
@@ -110919,14 +110959,6 @@
     "decimals": 18,
     "symbol": "SYNC",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/5269.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xffb032d971469fd358f11a4192c4e0b852df5190",
-    "name": "Pepe Treasure",
-    "symbol": "PEPETR",
-    "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/38852/thumb/pepe_treasure_icon_100_%281%29.png?1719213132"
   },
   {
     "chainId": 1,
