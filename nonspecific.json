@@ -4001,6 +4001,23 @@
   },
   {
     "chainId": 8453,
+    "address": "0x2576f2c0a5744c5d7d99fd2bc1a51285c8704250",
+    "name": "Super Velora",
+    "symbol": "VLRx",
+    "decimals": 18,
+    "tags": [
+      "supertoken"
+    ],
+    "logoURI": "https://tokenlist.superfluid.org/icons/vlr.svg",
+    "extensions": {
+      "superTokenInfo": {
+        "type": "Wrapper",
+        "underlyingTokenAddress": "0x4e107a0000db66f0e9fd2039288bf811dd1f9c74"
+      }
+    }
+  },
+  {
+    "chainId": 8453,
     "address": "0x268bcdbb314f767def616529b974fd1fe70a134a",
     "name": "Super ok banger",
     "symbol": "OKBANGERx",
@@ -4169,6 +4186,17 @@
         "underlyingTokenAddress": "0xd9aaec86b65d86f6a7b5b1b0c42ffa531710b6ca"
       }
     }
+  },
+  {
+    "chainId": 8453,
+    "address": "0x4e107a0000db66f0e9fd2039288bf811dd1f9c74",
+    "name": "Velora",
+    "symbol": "VLR",
+    "decimals": 18,
+    "logoURI": "https://tokenlist.superfluid.org/icons/vlr.svg",
+    "tags": [
+      "underlying"
+    ]
   },
   {
     "chainId": 8453,
