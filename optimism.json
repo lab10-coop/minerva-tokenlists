@@ -1490,6 +1490,20 @@
   },
   {
     "chainId": 1,
+    "address": "0x4d4eb0e8b160f6ebf63cc6d36060ffec09301b42",
+    "name": "Lit Protocol",
+    "symbol": "LITKEY",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/LITKEY/logo.png",
+    "extensions": {
+      "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1",
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "opListId": "extended",
+      "opTokenId": "LITKEY"
+    }
+  },
+  {
+    "chainId": 1,
     "address": "0x4f604735c1cf31399c6e711d5962b2b3e0225ad3",
     "name": "Glo Dollar",
     "symbol": "USDGLO",
@@ -5248,6 +5262,19 @@
     "extensions": {
       "opListId": "extended",
       "opTokenId": "DRODEC"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0x0633e91f64c22d4fea53dbe6e77b7ba4093177b8",
+    "name": "Lit Protocol",
+    "symbol": "LITKEY",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/LITKEY/logo.png",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "LITKEY"
     }
   },
   {
@@ -12721,6 +12748,19 @@
   },
   {
     "chainId": 8453,
+    "address": "0xf732a566121fa6362e9e0fbdd6d66e5c8c925e49",
+    "name": "Lit Protocol",
+    "symbol": "LITKEY",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/LITKEY/logo.png",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "LITKEY"
+    }
+  },
+  {
+    "chainId": 8453,
     "address": "0xf734efde0c424ba2b547b186586de417b0954802",
     "name": "Silo Governance Token",
     "symbol": "Silo",
@@ -13377,6 +13417,19 @@
   },
   {
     "chainId": 84532,
+    "address": "0x0b9241109c725e782ab841086b4e7f210c80b694",
+    "name": "Lit Protocol",
+    "symbol": "LITKEY",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/LITKEY/logo.png",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "LITKEY"
+    }
+  },
+  {
+    "chainId": 84532,
     "address": "0x0c6cfdd69dd6117f9cd34437d551ffa9e0d92c94",
     "name": "YYY",
     "symbol": "YYY",
@@ -13935,6 +13988,20 @@
   },
   {
     "chainId": 11155111,
+    "address": "0x2e3a68e44021aa99e325b827a7a5fca604526c2d",
+    "name": "Lit Protocol",
+    "symbol": "LITKEY",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/LITKEY/logo.png",
+    "extensions": {
+      "optimismBridgeAddress": "0xFBb0621E0B23b5478B630BD55a5f21f67730B0F1",
+      "baseBridgeAddress": "0xfd0Bf71F60660E2f608ed56e1659C450eB113120",
+      "opListId": "extended",
+      "opTokenId": "LITKEY"
+    }
+  },
+  {
+    "chainId": 11155111,
     "address": "0x33faf65b3dfcc6a1fccad4531d9ce518f0fdc896",
     "name": "Boba Token",
     "symbol": "BOBA",
@@ -14479,6 +14546,19 @@
       "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "extended",
       "opTokenId": "IRARA"
+    }
+  },
+  {
+    "chainId": 11155420,
+    "address": "0x841fb6a6893f48164a52cfbfc69462385688b0c1",
+    "name": "Lit Protocol",
+    "symbol": "LITKEY",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/LITKEY/logo.png",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "LITKEY"
     }
   },
   {

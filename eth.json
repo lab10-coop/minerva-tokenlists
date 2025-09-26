@@ -34275,7 +34275,7 @@
   {
     "chainId": 1,
     "address": "0x4cce605ed955295432958d8951d0b176c10720d5",
-    "name": "Novatti Australian Digital Dollar",
+    "name": "Australian Digital Dollar",
     "symbol": "AUDD",
     "decimals": 6,
     "logoURI": "https://assets.coingecko.com/coins/images/33263/thumb/AUDD-Logo-Blue_512.png?1701319895"
@@ -38103,6 +38103,14 @@
     "decimals": 18,
     "symbol": "BINU",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/16681.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x55db4801e4d9781e99b9cc2ceea1b4bcfe2f85dc",
+    "name": "Resister",
+    "symbol": "RSTR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69505/thumb/It-Remains-RESISTER-TOKEN-symbol.png?1758782310"
   },
   {
     "chainId": 1,
@@ -46170,14 +46178,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x6786eeb636a491d9a84a834d45879daf08548f6f",
-    "name": "Kobe",
-    "symbol": "KOBE",
-    "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/69022/thumb/logo.png?1757261298"
-  },
-  {
-    "chainId": 1,
     "name": "GAME",
     "address": "0x67886ababdd886653b64bb846ea5822a6c353dd4",
     "decimals": 18,
@@ -49682,11 +49682,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x6ee2f71049dde9a93b7c0ee1091b72acf9b46810",
     "name": "Liquid Mercury",
-    "symbol": "MERC",
+    "address": "0x6ee2f71049dde9a93b7c0ee1091b72acf9b46810",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/29297/thumb/cda56b6a-146c-4348-b4ff-5b87980c0f83.jpg?1696528249"
+    "symbol": "MERC",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/38503.png"
   },
   {
     "chainId": 1,
@@ -97487,6 +97487,14 @@
     "decimals": 18,
     "symbol": "WIS",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7697.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xdecd530d9403c5b4716be6b9494d229c12ccf409",
+    "name": "Kobe the Shiba Inu",
+    "symbol": "KOBE",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/69504/thumb/logo.png?1758780206"
   },
   {
     "chainId": 1,
