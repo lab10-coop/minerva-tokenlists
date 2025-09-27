@@ -4033,6 +4033,19 @@
   },
   {
     "chainId": 1,
+    "address": "0xc7bd8466606539f06f2ec606d3c08efc181e15e5",
+    "name": "IncomRWA",
+    "symbol": "iRWA",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/iRWA/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "opListId": "extended",
+      "opTokenId": "iRWA"
+    }
+  },
+  {
+    "chainId": 1,
     "address": "0xc8168d5665f4418353728ac970713e09c0b7c20e",
     "name": "MONKE",
     "symbol": "MONKE",
@@ -11068,6 +11081,19 @@
   },
   {
     "chainId": 8453,
+    "address": "0x833f973406e07830d494cbe5fabbc3ae9c750c1f",
+    "name": "IncomRWA",
+    "symbol": "iRWA",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/iRWA/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "iRWA"
+    }
+  },
+  {
+    "chainId": 8453,
     "address": "0x85267fbc6e1e1563bb9247336f05d9220ea99f52",
     "name": "Empower Token",
     "symbol": "MPWR",
@@ -13291,7 +13317,7 @@
   {
     "chainId": 42220,
     "address": "0xd221812de1bd094f35587ee8e174b07b6167d9af",
-    "name": "Wrapped Ether",
+    "name": "Wrapped Ether (Celo native bridge)",
     "symbol": "WETH",
     "decimals": 18,
     "logoURI": "https://ethereum-optimism.github.io/data/WETH/logo.png",
@@ -13690,6 +13716,19 @@
   },
   {
     "chainId": 84532,
+    "address": "0xabb15ec7c50ba50661389ceb92fc9d72621e6950",
+    "name": "Wrapped WIT",
+    "symbol": "WIT",
+    "decimals": 9,
+    "logoURI": "https://ethereum-optimism.github.io/data/WIT/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "WIT"
+    }
+  },
+  {
+    "chainId": 84532,
     "address": "0xb01701025c3b12e0b5022d8a98f15f8ad3602a7b",
     "name": "Everyrealm Token",
     "symbol": "EVERY",
@@ -13806,19 +13845,6 @@
   },
   {
     "chainId": 84532,
-    "address": "0xfabadac5963bde1bcccd560ea60e9928dc5df014",
-    "name": "Wrapped WIT",
-    "symbol": "WIT",
-    "decimals": 9,
-    "logoURI": "https://ethereum-optimism.github.io/data/WIT/logo.svg",
-    "extensions": {
-      "baseBridgeAddress": "0x4200000000000000000000000000000028",
-      "opListId": "extended",
-      "opTokenId": "WIT"
-    }
-  },
-  {
-    "chainId": 84532,
     "address": "0xfdb3b57944943a7724fcc0520ee2b10659969a06",
     "name": "Status Test Token",
     "symbol": "STT",
@@ -13854,6 +13880,18 @@
       "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "extended",
       "opTokenId": "PLMS"
+    }
+  },
+  {
+    "chainId": 11142220,
+    "address": "0x2ce73dc897a3e10b3ff3f86470847c36ddb735cf",
+    "name": "Wrapped Ether (Celo native bridge)",
+    "symbol": "WETH",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/WETH/logo.png",
+    "extensions": {
+      "opListId": "default",
+      "opTokenId": "WETH"
     }
   },
   {
@@ -14420,14 +14458,14 @@
   },
   {
     "chainId": 11155111,
-    "address": "0xfabadac5963bde1bcccd560ea60e9928dc5df014",
+    "address": "0xfabada3d500b84b1aed07b9b6d5651ba91a10bed",
     "name": "Wrapped WIT",
     "symbol": "WIT",
     "decimals": 9,
     "logoURI": "https://ethereum-optimism.github.io/data/WIT/logo.svg",
     "extensions": {
-      "baseBridgeAddress": "0x4200000000000000000000000000000028",
-      "optimismBridgeAddress": "0x4200000000000000000000000000000028",
+      "baseBridgeAddress": "0x4200000000000000000000000000000010",
+      "optimismBridgeAddress": "0x42000000000000000000000000000028",
       "opListId": "extended",
       "opTokenId": "WIT"
     }
@@ -14576,7 +14614,7 @@
   },
   {
     "chainId": 11155420,
-    "address": "0xfabadac5963bde1bcccd560ea60e9928dc5df014",
+    "address": "0xfabada3d500b84b1aed07b9b6d5651ba91a10bed",
     "name": "Wrapped WIT",
     "symbol": "WIT",
     "decimals": 9,
