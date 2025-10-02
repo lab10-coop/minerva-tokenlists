@@ -13540,6 +13540,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x1e33e98af620f1d563fcd3cfd3c75ace841204ef",
+    "name": "Dialectic USD Vault",
+    "symbol": "DUSD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69692/thumb/DUSD_RED_200.png?1759315938"
+  },
+  {
+    "chainId": 1,
     "name": "Neural Tensor Dynamics",
     "address": "0x1e354f9ab5bcc9fb981f31b794c5fe13f7a89218",
     "decimals": 18,
@@ -17417,6 +17425,14 @@
     "decimals": 18,
     "symbol": "CBC",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2855.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x26dca88fd7ba245695ed15064c80166ccd15a74c",
+    "name": "Little Pepe",
+    "symbol": "LILPEPE",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/69680/thumb/logo-trans.png?1759285021"
   },
   {
     "chainId": 1,
@@ -22729,14 +22745,6 @@
     "symbol": "COVE",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/38023/thumb/cove.png?1716316667"
-  },
-  {
-    "chainId": 1,
-    "address": "0x32fcde91cf683212299eb054f8a62b705892cb60",
-    "name": "Aurivis",
-    "symbol": "AURI",
-    "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/50165/thumb/1000079438.png?1726136345"
   },
   {
     "chainId": 1,
@@ -28737,6 +28745,14 @@
     "decimals": 18,
     "symbol": "HGH",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/4989.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x40caa7912437002ee2c8415d43e7f575c733674c",
+    "name": "Currency One USD",
+    "symbol": "C1USD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69700/thumb/C1USD.webp?1759327591"
   },
   {
     "chainId": 1,
@@ -47034,11 +47050,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x690f1eef8acead09ac695d9111af081045c6d5b7",
     "name": "Galactica.com",
-    "symbol": "GNET",
+    "address": "0x690f1eef8acead09ac695d9111af081045c6d5b7",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/69437/thumb/200%D1%85200_Gala_Logo.png?1758595518"
+    "symbol": "GNET",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/38547.png"
   },
   {
     "chainId": 1,
@@ -47202,11 +47218,11 @@
   },
   {
     "chainId": 1,
-    "name": "Groyper",
     "address": "0x6942806d1b2d5886d95ce2f04314ece8eb825833",
-    "decimals": 18,
+    "name": "Groyper",
     "symbol": "GROYPER",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/31464.png"
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/38196/thumb/Groyper_Logo_New_200x200.png?1728269629"
   },
   {
     "chainId": 1,
@@ -52935,6 +52951,14 @@
     "decimals": 18,
     "symbol": "ALTMOON",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/6042.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x7575c2e267a1a2ff98ac65bc26d40c948989031b",
+    "name": "WorldAssets",
+    "symbol": "INC",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69686/thumb/worldassets_400x400.jpg?1759307208"
   },
   {
     "chainId": 1,
@@ -60063,6 +60087,14 @@
     "decimals": 18,
     "symbol": "UGAS",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3863.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x871ab8e36cae9af35c6a3488b049965233deb7ed",
+    "name": "Dialectic ETH Vault",
+    "symbol": "DETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69693/thumb/DETH_RED_200.png?1759316017"
   },
   {
     "chainId": 1,
@@ -67278,6 +67310,14 @@
     "decimals": 9,
     "symbol": "ARKY",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/31065.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x972966bcc17f7d818de4f27dc146ef539c231bdf",
+    "name": "Dialectic BTC Vault",
+    "symbol": "DBIT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69694/thumb/DBIT_RED_200.png?1759316107"
   },
   {
     "chainId": 1,
@@ -76585,14 +76625,6 @@
   },
   {
     "chainId": 1,
-    "address": "0xac9d70aebd49555b033751e311044becf3513c0f",
-    "name": "Moonland Metaverse Token",
-    "symbol": "MTK",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/50177/thumb/200px.png?1726164541"
-  },
-  {
-    "chainId": 1,
     "name": "HINT AI Project",
     "address": "0xac9e0035dc040671e5646dc9b8896d7d78c48f85",
     "decimals": 18,
@@ -79689,11 +79721,11 @@
   },
   {
     "chainId": 1,
-    "address": "0xb40725714fe8c547c5b0c1472cba3554efa81718",
     "name": "COINDEPO",
-    "symbol": "COINDEPO",
+    "address": "0xb40725714fe8c547c5b0c1472cba3554efa81718",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/69678/thumb/Coindepo_Logo_%281%29.png?1759246282"
+    "symbol": "COINDEPO",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/38545.png"
   },
   {
     "chainId": 1,
@@ -79958,14 +79990,6 @@
     "decimals": 18,
     "symbol": "LOOT",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/27598.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xb47addb11dca5dc4c9bb6bc816b201c42401d655",
-    "name": "Flare system",
-    "symbol": "FLS",
-    "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/69232/thumb/64ea57a3-9c25-4a93-ad15-748e7443d18f.png?1757945622"
   },
   {
     "chainId": 1,
@@ -106834,14 +106858,6 @@
   },
   {
     "chainId": 1,
-    "address": "0xf4445049080ae2fde75aaf0c6e603fb55875f02c",
-    "name": "DIGIKA",
-    "symbol": "DGK",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/55038/thumb/dgk-dark-800px.png?1743404518"
-  },
-  {
-    "chainId": 1,
     "name": "Cipher Protocol",
     "address": "0xf453579d18a6f8ca07db9250e0e0100eb8ccb206",
     "decimals": 18,
@@ -107023,14 +107039,6 @@
     "decimals": 18,
     "symbol": "ABS",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/8032.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xf4c0efc13ea4221ad8278fb53727015471dce938",
-    "name": "SP500 Token",
-    "symbol": "SP500",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/66804/thumb/SP500.jpg?1750577823"
   },
   {
     "chainId": 1,
