@@ -11625,6 +11625,14 @@
   },
   {
     "chainId": 1,
+    "name": "Opal",
+    "address": "0x199e2cfaf8b4f2cc5423971ef3749d1c89cf815c",
+    "decimals": 18,
+    "symbol": "OPAL",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/38558.png"
+  },
+  {
+    "chainId": 1,
     "name": "Covenant",
     "address": "0x19ac2659599fd01c853de846919544276ad26f50",
     "decimals": 18,
@@ -21793,6 +21801,14 @@
     "decimals": 18,
     "symbol": "MNT",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/5615.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x311c27827ea53894aa40ad7fab72b43e26fb34b0",
+    "name": "SUI xStock",
+    "symbol": "SUIGX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69713/thumb/Ticker_SUIGx__Company_Name_SUI__size_200x200.png?1759396266"
   },
   {
     "chainId": 1,
@@ -42338,6 +42354,14 @@
   },
   {
     "chainId": 1,
+    "name": "PDX Coin",
+    "address": "0x5f49ec0a40f09f59c5135b03b835e0f63c7d8420",
+    "decimals": 18,
+    "symbol": "PDX",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/19511.png"
+  },
+  {
+    "chainId": 1,
     "name": "WAGMICOIN",
     "address": "0x5f4ab80c2c7755d565371236f090597921d18ee5",
     "decimals": 9,
@@ -48058,11 +48082,11 @@
   },
   {
     "chainId": 1,
-    "name": "PDX Coin",
     "address": "0x6a8fee0e33cb65a7e8d21badca62e87639ef74b3",
-    "decimals": 18,
+    "name": "PDX Coin",
     "symbol": "PDX",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/19511.png"
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/25095/thumb/vBi23nWw_400x400.jpg?1696524246"
   },
   {
     "chainId": 1,
@@ -59031,6 +59055,14 @@
     "symbol": "SORYA",
     "decimals": 9,
     "logoURI": "https://assets.coingecko.com/coins/images/68368/thumb/sorya_%281%29.png?1755514223"
+  },
+  {
+    "chainId": 1,
+    "address": "0x8499b26bbfc8c3830a37b92e47df2d7cbc0154e9",
+    "name": "Monster xStock",
+    "symbol": "MNSTX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69714/thumb/Ticker_MNSTx__Company_Name_Monster__size_200x200.png?1759396354"
   },
   {
     "chainId": 1,
@@ -74457,14 +74489,6 @@
   },
   {
     "chainId": 1,
-    "address": "0xa774ffb4af6b0a91331c084e1aebae6ad535e6f3",
-    "name": "flexUSD",
-    "symbol": "FLEXUSD",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/13323/thumb/flexUSD_2x.png?1696513092"
-  },
-  {
-    "chainId": 1,
     "name": "Gradient",
     "address": "0xa776a95223c500e81cb0937b291140ff550ac3e4",
     "decimals": 18,
@@ -74950,6 +74974,14 @@
     "symbol": "RTF",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/37322/thumb/Frame_21313315692.png?1714002508"
+  },
+  {
+    "chainId": 1,
+    "address": "0xa89f4ca08f729364f0e1ce657c4b6d5ea60e1f91",
+    "name": "Pepe Strategy",
+    "symbol": "PEPESTR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69717/thumb/Twitter02.jpg?1759398546"
   },
   {
     "chainId": 1,
@@ -82836,6 +82868,14 @@
     "symbol": "PT",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/33314/thumb/phemex_logo.png?1701959611"
+  },
+  {
+    "chainId": 1,
+    "name": "Avalon X",
+    "address": "0xbbb5dc0584e825b11a15c386208f7370203a1486",
+    "decimals": 18,
+    "symbol": "AVLX",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/38553.png"
   },
   {
     "chainId": 1,
@@ -109098,6 +109138,14 @@
   },
   {
     "chainId": 1,
+    "address": "0xf9962329a1e9fa84836d2f37640d7012fb588e9d",
+    "name": "We Love Dogs",
+    "symbol": "DOGS",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/69727/thumb/We_Love_Dogs.jpg?1759402287"
+  },
+  {
+    "chainId": 1,
     "name": "Anyswap",
     "address": "0xf99d58e463a2e07e5692127302c20a191861b4d6",
     "decimals": 18,
@@ -119415,6 +119463,14 @@
     "name": "Inferium",
     "decimals": 18,
     "logoURI": "ipfs://QmfAvWbnKdiyaoK2Pmpykp9vPCZrby1KM6bvsKnvnL1dka"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x01acb244b61d967553c738e93e68f345e2441175",
+    "symbol": "BSTER",
+    "name": "Bster",
+    "decimals": 18,
+    "logoURI": "ipfs://QmPr5MHcZr3HgnfsyHCAhKRDhj6X9jgRi2YbjPHZh3xcfw"
   },
   {
     "chainId": 8453,
