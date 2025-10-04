@@ -2761,6 +2761,14 @@
   },
   {
     "chainId": 1,
+    "name": "Vellum USD",
+    "address": "0x056aa0b63a3cd2fc5538608ad37dbe0f89cceee7",
+    "decimals": 17,
+    "symbol": "USD1",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/37598.png"
+  },
+  {
+    "chainId": 1,
     "name": "Gains",
     "address": "0x056c1d42fb1326f57da7f19ebb7dda4673f1ff55",
     "decimals": 18,
@@ -15721,14 +15729,6 @@
     "symbol": "OLA",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/51733/thumb/ola.jpg?1731917981"
-  },
-  {
-    "chainId": 1,
-    "name": "Moonbirds",
-    "address": "0x23581767a106ae21c074b2276d25e5c3e136a68b",
-    "decimals": 18,
-    "symbol": "MOONBIRD",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/19765.png"
   },
   {
     "chainId": 1,
@@ -44178,6 +44178,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x632f25855c7f98af1c036724fd3dc93d6571932f",
+    "name": "BabyManyu",
+    "symbol": "BABYMANYU",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/69759/thumb/BabyManyu.jpg?1759489569"
+  },
+  {
+    "chainId": 1,
     "name": "Crypto Harbor Exchange",
     "address": "0x632f62fcf63cb56380ffd27d63afcf5f1349f73f",
     "decimals": 8,
@@ -57507,7 +57515,7 @@
   {
     "chainId": 1,
     "address": "0x80ac24aa929eaf5013f6436cda2a7ba190f5cc0b",
-    "name": "syrupUSDC",
+    "name": "Syrup USDC",
     "symbol": "SYRUPUSDC",
     "decimals": 6,
     "logoURI": "https://assets.coingecko.com/coins/images/54658/thumb/SyrupUSDCO.png?1748850129"
@@ -90698,6 +90706,14 @@
   },
   {
     "chainId": 1,
+    "address": "0xcdfb58c8c859cb3f62ebe9cf2767f9e036c7fb15",
+    "name": "BitFi Bitcoin",
+    "symbol": "BFBTC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/69326/thumb/bfBTC-logo-symbol-color.png?1758193458"
+  },
+  {
+    "chainId": 1,
     "name": "Blueshift",
     "address": "0xce108380c39e4fe9dace9d5597e048bcc5ef743b",
     "decimals": 18,
@@ -101498,6 +101514,14 @@
   },
   {
     "chainId": 1,
+    "address": "0xe7c253ead50976caf7b0c2cbca569146a7741b50",
+    "name": "Solv Protocol SolvBTC.BERA",
+    "symbol": "SOLVBTC.BERA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69747/thumb/SolvBTC.BERA.png?1759482666"
+  },
+  {
+    "chainId": 1,
     "name": "HashKey Platform Token",
     "address": "0xe7c6bf469e97eeb0bfb74c8dbff5bd47d4c1c98a",
     "decimals": 18,
@@ -110831,6 +110855,14 @@
     "decimals": 18,
     "symbol": "ETHFI",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29814.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xfe0ccc9942e98c963fe6b4e5194eb6e3baa4cb64",
+    "name": "Staked YUSD",
+    "symbol": "SYUSD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69737/thumb/sYUSD.png?1759476764"
   },
   {
     "chainId": 1,
