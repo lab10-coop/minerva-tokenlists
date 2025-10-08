@@ -2185,6 +2185,14 @@
   },
   {
     "chainId": 1,
+    "name": "SmartGolfToken",
+    "address": "0x0418fa3488d7e13f0c06ac5f8485d306b5748f4f",
+    "decimals": 18,
+    "symbol": "SGI",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/38592.png"
+  },
+  {
+    "chainId": 1,
     "address": "0x041fdd6637ecfd96af8804278ac12660ac2d12c0",
     "symbol": "SDX",
     "name": "SwapDEX",
@@ -4062,6 +4070,14 @@
     "decimals": 18,
     "symbol": "ASX",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/22370.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x084382d1cc4f4dfd1769b1cc1ac2a9b1f8365e90",
+    "name": "Mode",
+    "symbol": "MODE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/34979/thumb/MODE.jpg?1714561871"
   },
   {
     "chainId": 1,
@@ -12540,11 +12556,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x1bab804803159ad84b8854581aa53ac72455614e",
     "name": "Syndicate",
-    "symbol": "SYND",
+    "address": "0x1bab804803159ad84b8854581aa53ac72455614e",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/69122/thumb/synd.png?1757576144"
+    "symbol": "SYND",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/38602.png"
   },
   {
     "chainId": 1,
@@ -13605,8 +13621,8 @@
   {
     "chainId": 1,
     "address": "0x1e3f20bee9884aececee4bc2e83926cf612d48ff",
-    "name": "$Debtcoin",
-    "symbol": "$DBT",
+    "name": "Debtcoin",
+    "symbol": "DBT",
     "decimals": 8,
     "logoURI": "https://assets.coingecko.com/coins/images/69064/thumb/20250826_191736.png?1757412203"
   },
@@ -18897,14 +18913,6 @@
     "name": "Cream DefiPulse Index",
     "decimals": 8,
     "logoURI": "ipfs://QmfPUT1NHKeFFNnNePdLFj4s8GPG5vaHzHi5kPSN8Eypwd"
-  },
-  {
-    "chainId": 1,
-    "name": "USDi",
-    "address": "0x2a54ba2964c8cd459dc568853f79813a60761b58",
-    "decimals": 18,
-    "symbol": "USDI",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/20598.png"
   },
   {
     "chainId": 1,
@@ -38330,11 +38338,11 @@
   },
   {
     "chainId": 1,
-    "name": "Seedify.fund",
     "address": "0x560363bda52bc6a44ca6c8c9b4a5fadbda32fa60",
-    "decimals": 18,
+    "name": "Seedify.fund",
     "symbol": "SFUND",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/8972.png"
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/14614/thumb/Favicon_Icon.png?1696514292"
   },
   {
     "chainId": 1,
@@ -66154,6 +66162,14 @@
   },
   {
     "chainId": 1,
+    "name": "Inu Hariko",
+    "address": "0x949c255362e21042b26cf6a6b54cbb218b50090c",
+    "decimals": 18,
+    "symbol": "HARIKO",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/38604.png"
+  },
+  {
+    "chainId": 1,
     "name": "Merit Circle",
     "address": "0x949d48eca67b17269629c7194f4b727d4ef9e5d6",
     "decimals": 18,
@@ -85039,6 +85055,14 @@
   },
   {
     "chainId": 1,
+    "address": "0xc00db6b41473d065027f5ed6fada20fde75f142e",
+    "name": "KRWT",
+    "symbol": "KRWT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69864/thumb/krwt-coin-200x200.png?1759857708"
+  },
+  {
+    "chainId": 1,
     "name": "Compound",
     "address": "0xc00e94cb662c3520282e6f5717214004a7f26888",
     "decimals": 18,
@@ -88741,7 +88765,7 @@
     "chainId": 1,
     "address": "0xc92fe380bf07fedc239a4b53639a6479fde8d30b",
     "name": "ZKcandy",
-    "symbol": "$CANDY",
+    "symbol": "CANDY",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/69469/thumb/4_Trans_white.png?1758706565"
   },
@@ -89194,11 +89218,11 @@
   },
   {
     "chainId": 1,
-    "address": "0xca5e50710f656f2e537ce2fc8504db6e24ed3515",
     "name": "Xcellar",
-    "symbol": "XCL",
+    "address": "0xca5e50710f656f2e537ce2fc8504db6e24ed3515",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/69791/thumb/photo_2025-10-03_18-20-16.jpg?1759654949"
+    "symbol": "XCL",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/38597.png"
   },
   {
     "chainId": 1,
@@ -92511,14 +92535,6 @@
     "decimals": 9,
     "symbol": "OXEN",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2748.png"
-  },
-  {
-    "chainId": 1,
-    "name": "Pikamoon",
-    "address": "0xd1e64bcc904cfdc19d0faba155a9edc69b4bcdae",
-    "decimals": 9,
-    "symbol": "PIKA",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/30230.png"
   },
   {
     "chainId": 1,
@@ -97050,6 +97066,14 @@
   },
   {
     "chainId": 1,
+    "address": "0xdc569024fe7dee9adc4d1a88712a704e0c52a920",
+    "name": "MAGENTA",
+    "symbol": "$MGNT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69859/thumb/2_%282%29_%281%29.png?1759852067"
+  },
+  {
+    "chainId": 1,
     "name": "Falcon Project",
     "address": "0xdc5864ede28bd4405aa04d93e05a0531797d9d59",
     "decimals": 6,
@@ -98375,6 +98399,14 @@
     "decimals": 18,
     "symbol": "PRCY",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/8554.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xdfc3af477979912ec90b138d3e5552d5304c5663",
+    "name": "PainStrategy",
+    "symbol": "PAINSTR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69863/thumb/tokenworks_400x400.jpg?1759857377"
   },
   {
     "chainId": 1,
@@ -108138,6 +108170,14 @@
   },
   {
     "chainId": 1,
+    "name": "CBFINU v2",
+    "address": "0xf6d75b5298f5fc403147af17c26bcc57f1b8837f",
+    "decimals": 18,
+    "symbol": "CBF",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/38606.png"
+  },
+  {
+    "chainId": 1,
     "name": "Celestial",
     "address": "0xf6e06b54855eff198a2d9a8686113665499a6134",
     "decimals": 18,
@@ -110250,11 +110290,11 @@
   },
   {
     "chainId": 1,
-    "address": "0xfc60fc0145d7330e5abcfc52af7b043a1ce18e7d",
     "name": "GVNR",
-    "symbol": "GVNR",
+    "address": "0xfc60fc0145d7330e5abcfc52af7b043a1ce18e7d",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/66847/thumb/Ticker_Logo.jpg?1751051785"
+    "symbol": "GVNR",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/38600.png"
   },
   {
     "chainId": 1,
