@@ -2385,6 +2385,33 @@
     "trending": false
   },
   {
+    "name": "USD Coin",
+    "address": "0x5e76be0f4e09057d75140216f70fd4ce3365bb29",
+    "symbol": "USDC",
+    "decimals": 6,
+    "chainId": 5888,
+    "logoURI": "https://raw.githubusercontent.com/QuickSwap/quickswap-default-token-list/main/assets/USDC.png",
+    "trending": false
+  },
+  {
+    "name": "Tether USD",
+    "address": "0x680e8ecb908a2040232ef139a0a52cbe47b9f15b",
+    "symbol": "USDT",
+    "decimals": 6,
+    "chainId": 5888,
+    "logoURI": "https://raw.githubusercontent.com/QuickSwap/quickswap-default-token-list/main/assets/USDT.webp",
+    "trending": false
+  },
+  {
+    "name": "Wrapped OM",
+    "address": "0xe3047710ef6cb36bcf1e58145529778ea7cb5598",
+    "symbol": "WOM",
+    "decimals": 18,
+    "chainId": 5888,
+    "logoURI": "",
+    "trending": false
+  },
+  {
     "name": "Wrapped eETH",
     "address": "0x04c0599ae5a44757c0af6f9ec3b93da8976c150a",
     "symbol": "weETH",
