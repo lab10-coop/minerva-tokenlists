@@ -9401,6 +9401,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x14d0d41c101a99ca55c622b0c6eb69c79b6689d4",
+    "name": "Y8U AI",
+    "symbol": "Y8U",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/70080/thumb/logo.png?1760515608"
+  },
+  {
+    "chainId": 1,
     "name": "iDeFi",
     "address": "0x14d10003807ac60d07bb0ba82caeac8d2087c157",
     "decimals": 18,
@@ -11394,10 +11402,10 @@
   {
     "chainId": 1,
     "address": "0x192675d1e131b9e339f16603e21b01a845d8c21e",
-    "name": "Share",
+    "name": "ShareToken",
     "symbol": "SHR",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/3609/thumb/74586729_2443914875881351_2785018663453851648_n.png?1696504289"
+    "logoURI": "https://assets.coingecko.com/coins/images/3609/thumb/SHR_Icon_Blue.png?1760503223"
   },
   {
     "chainId": 1,
@@ -16369,14 +16377,6 @@
     "decimals": 18,
     "symbol": "UFO",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/10729.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x249fc40d68a3a55dac335550b64c1a03b4c0ed72",
-    "name": "DINOSHI",
-    "symbol": "DINOSHI",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/38731/thumb/DinoshiLogocmc.png?1718480174"
   },
   {
     "chainId": 1,
@@ -43490,10 +43490,10 @@
   },
   {
     "chainId": 1,
-    "name": "Nasdaq420",
+    "name": "NSDQ420",
     "address": "0x615987d46003cc37387dbe544ff4f16fa1200077",
     "decimals": 18,
-    "symbol": "NASDAQ420",
+    "symbol": "NSDQ",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/33408.png"
   },
   {
@@ -70521,6 +70521,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x9df9b5a26a5b62a2090cd0ebc6df626e0d4ead09",
+    "name": "Manyufest",
+    "symbol": "MFEST",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70085/thumb/IMG_9151.jpeg?1760539917"
+  },
+  {
+    "chainId": 1,
     "name": "Botto",
     "address": "0x9dfad1b7102d46b1b197b90095b5c4e9f5845bba",
     "decimals": 18,
@@ -75105,6 +75113,14 @@
   },
   {
     "chainId": 1,
+    "address": "0xa882606494d86804b5514e07e6bd2d6a6ee6d68a",
+    "name": "Wrapped Pulse",
+    "symbol": "WPLS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/30432/thumb/pulse.jpeg?1696529320"
+  },
+  {
+    "chainId": 1,
     "name": "Load Network",
     "address": "0xa883e72c12473ded50a5fbffa60e4000fa5fe3c8",
     "decimals": 8,
@@ -77998,6 +78014,14 @@
     "decimals": 18,
     "symbol": "1ST",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/1403.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xaf35c5c0a140baadc82f88f278893835d9c608c0",
+    "name": "Maxi Doge",
+    "symbol": "MAXI",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/70101/thumb/logo.png?1760556974"
   },
   {
     "chainId": 1,
@@ -86744,14 +86768,6 @@
     "decimals": 18,
     "symbol": "NOOD",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/27395.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xc3c221fe28c33814c28c822b631fd76047ef1a63",
-    "name": "Millimeter",
-    "symbol": "MM",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12941/thumb/mm%EB%A1%9C%EA%B3%A0-2.png?1696512730"
   },
   {
     "chainId": 1,
@@ -107196,7 +107212,7 @@
     "chainId": 1,
     "name": "Wrapped A7A5",
     "address": "0xf442ff10b8def89514560a66c0ad28777094636a",
-    "decimals": 6,
+    "decimals": 18,
     "symbol": "WA7A5",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/36550.png"
   },
