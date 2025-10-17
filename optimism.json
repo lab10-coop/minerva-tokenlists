@@ -3023,6 +3023,19 @@
   },
   {
     "chainId": 1,
+    "address": "0x94a8b4ee5cd64c79d0ee816f467ea73009f51aa0",
+    "name": "Realio Network",
+    "symbol": "RIO",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/RIO/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "opListId": "extended",
+      "opTokenId": "RIO"
+    }
+  },
+  {
+    "chainId": 1,
     "address": "0x9559aaa82d9649c7a7b220e7c461d2e74c9a3593",
     "name": "StaFi",
     "symbol": "rETH",
@@ -3635,6 +3648,19 @@
       "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
       "opListId": "extended",
       "opTokenId": "MAX"
+    }
+  },
+  {
+    "chainId": 1,
+    "address": "0xb841f365d5221bed66d60e69094418d8c2aa5a44",
+    "name": "Districts Token",
+    "symbol": "DSTRX",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/DSTRX/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "opListId": "extended",
+      "opTokenId": "DSTRX"
     }
   },
   {
@@ -5204,6 +5230,19 @@
       "unichainBridgeAddress": "0x81014F44b0a345033bB2b3B21C7a1A308B35fEeA",
       "opListId": "extended",
       "opTokenId": "AMP"
+    }
+  },
+  {
+    "chainId": 1,
+    "address": "0xff339098db35808dca9f3b072031dd9dec68bbb6",
+    "name": "Attention Token",
+    "symbol": "ATTN",
+    "decimals": 6,
+    "logoURI": "https://ethereum-optimism.github.io/data/ATTN/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "opListId": "extended",
+      "opTokenId": "ATTN"
     }
   },
   {
@@ -8985,6 +9024,19 @@
   },
   {
     "chainId": 8453,
+    "address": "0x032a7252b4932c44bde89aee6275744376a96bff",
+    "name": "Attention Token",
+    "symbol": "ATTN",
+    "decimals": 6,
+    "logoURI": "https://ethereum-optimism.github.io/data/ATTN/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "ATTN"
+    }
+  },
+  {
+    "chainId": 8453,
     "address": "0x04d1963c76eb1bec59d0eeb249ed86f736b82993",
     "name": "SoftDAO",
     "symbol": "SOFT",
@@ -10486,6 +10538,19 @@
       "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "extended",
       "opTokenId": "TETU"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0x5e64c9049455b3bb6e9fbdc33565fa313bae9b53",
+    "name": "Realio Network",
+    "symbol": "RIO",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/RIO/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "RIO"
     }
   },
   {
@@ -12501,6 +12566,18 @@
   },
   {
     "chainId": 8453,
+    "address": "0xe1bfa25468af64e366ddafc9d91bcc6c97439a14",
+    "name": "Mirror Token",
+    "symbol": "MIRROR",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/MIRROR/logo.svg",
+    "extensions": {
+      "opListId": "extended",
+      "opTokenId": "MIRROR"
+    }
+  },
+  {
+    "chainId": 8453,
     "address": "0xe2a8ccb00e328a0ec2204cb0c736309d7c1fa556",
     "name": "ArcBlock",
     "symbol": "ABT",
@@ -12653,6 +12730,19 @@
       "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "extended",
       "opTokenId": "VGT"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0xeca139be1214322752b4e427b1800fd3e8037bf8",
+    "name": "Districts Token",
+    "symbol": "DSTRX",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/DSTRX/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "DSTRX"
     }
   },
   {
@@ -13742,19 +13832,6 @@
   },
   {
     "chainId": 84532,
-    "address": "0xabb15ec7c50ba50661389ceb92fc9d72621e6950",
-    "name": "Wrapped WIT",
-    "symbol": "WIT",
-    "decimals": 9,
-    "logoURI": "https://ethereum-optimism.github.io/data/WIT/logo.svg",
-    "extensions": {
-      "baseBridgeAddress": "0x4200000000000000000000000000000010",
-      "opListId": "extended",
-      "opTokenId": "WIT"
-    }
-  },
-  {
-    "chainId": 84532,
     "address": "0xb01701025c3b12e0b5022d8a98f15f8ad3602a7b",
     "name": "Everyrealm Token",
     "symbol": "EVERY",
@@ -13803,6 +13880,19 @@
       "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "extended",
       "opTokenId": "BOBA"
+    }
+  },
+  {
+    "chainId": 84532,
+    "address": "0xcebada5b9a5f3663a346c51b3588a2fcb81eb23d",
+    "name": "Witnet",
+    "symbol": "WIT",
+    "decimals": 9,
+    "logoURI": "https://ethereum-optimism.github.io/data/WIT/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "WIT"
     }
   },
   {
@@ -14418,6 +14508,20 @@
   },
   {
     "chainId": 11155111,
+    "address": "0xcebada5b9a5f3663a346c51b3588a2fcb81eb23d",
+    "name": "Witnet",
+    "symbol": "WIT",
+    "decimals": 9,
+    "logoURI": "https://ethereum-optimism.github.io/data/WIT/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000010",
+      "optimismBridgeAddress": "0x42000000000000000000000000000028",
+      "opListId": "extended",
+      "opTokenId": "WIT"
+    }
+  },
+  {
+    "chainId": 11155111,
     "address": "0xdfcffff1b184f2051cbea17df11d4e074ab5271e",
     "name": "BLOCKLORDS",
     "symbol": "LRDS",
@@ -14480,20 +14584,6 @@
       "baseBridgeAddress": "0xfd0Bf71F60660E2f608ed56e1659C450eB113120",
       "opListId": "extended",
       "opTokenId": "SEAM"
-    }
-  },
-  {
-    "chainId": 11155111,
-    "address": "0xfabada3d500b84b1aed07b9b6d5651ba91a10bed",
-    "name": "Wrapped WIT",
-    "symbol": "WIT",
-    "decimals": 9,
-    "logoURI": "https://ethereum-optimism.github.io/data/WIT/logo.svg",
-    "extensions": {
-      "baseBridgeAddress": "0x4200000000000000000000000000000010",
-      "optimismBridgeAddress": "0x42000000000000000000000000000028",
-      "opListId": "extended",
-      "opTokenId": "WIT"
     }
   },
   {
@@ -14627,6 +14717,19 @@
   },
   {
     "chainId": 11155420,
+    "address": "0xcebada5b9a5f3663a346c51b3588a2fcb81eb23d",
+    "name": "Witnet",
+    "symbol": "WIT",
+    "decimals": 9,
+    "logoURI": "https://ethereum-optimism.github.io/data/WIT/logo.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000028",
+      "opListId": "extended",
+      "opTokenId": "WIT"
+    }
+  },
+  {
+    "chainId": 11155420,
     "address": "0xdeaddeaddeaddeaddeaddeaddeaddeaddead0000",
     "name": "Ether",
     "symbol": "ETH",
@@ -14636,19 +14739,6 @@
       "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "default",
       "opTokenId": "ETH"
-    }
-  },
-  {
-    "chainId": 11155420,
-    "address": "0xfabada3d500b84b1aed07b9b6d5651ba91a10bed",
-    "name": "Wrapped WIT",
-    "symbol": "WIT",
-    "decimals": 9,
-    "logoURI": "https://ethereum-optimism.github.io/data/WIT/logo.svg",
-    "extensions": {
-      "optimismBridgeAddress": "0x4200000000000000000000000000000028",
-      "opListId": "extended",
-      "opTokenId": "WIT"
     }
   },
   {

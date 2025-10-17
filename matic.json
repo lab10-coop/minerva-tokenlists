@@ -2399,7 +2399,7 @@
     "symbol": "WOM",
     "decimals": 18,
     "chainId": 5888,
-    "logoURI": "",
+    "logoURI": "https://raw.githubusercontent.com/QuickSwap/quickswap-default-token-list/main/assets/WOM.webp",
     "trending": false
   },
   {
@@ -2601,6 +2601,15 @@
     "trending": false
   },
   {
+    "name": "NAVFinance",
+    "address": "0xa15d5c95b7c0eecac06f673ad390ad6066705af7",
+    "symbol": "NAV",
+    "decimals": 18,
+    "chainId": 8453,
+    "logoURI": "https://raw.githubusercontent.com/QuickSwap/quickswap-default-token-list/main/assets/NAV.webp",
+    "trending": false
+  },
+  {
     "name": "Stratex ETH",
     "address": "0xae35ff1bc4fbb45aaeef9768a3d9610786cac98b",
     "symbol": "STRATETH",
@@ -2642,6 +2651,7 @@
     "symbol": "KTA",
     "decimals": 18,
     "chainId": 8453,
+    "logoURI": "https://raw.githubusercontent.com/QuickSwap/quickswap-default-token-list/main/assets/KTA.webp",
     "trending": false
   },
   {
