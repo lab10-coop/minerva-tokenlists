@@ -24132,6 +24132,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x356b8d89c1e1239cbbb9de4815c39a1474d5ba7d",
+    "name": "syrupUSDT",
+    "symbol": "SYRUPUSDT",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/69514/thumb/SyrupUSDT.png?1758823529"
+  },
+  {
+    "chainId": 1,
     "address": "0x356e17967206efb413b60ab0ba44e269063a26c9",
     "name": "Of Course I Still Love You",
     "symbol": "OCISLY",
@@ -26500,14 +26508,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x3ab6ed69ef663bd986ee59205ccad8a20f98b4c2",
-    "name": "Drep",
-    "symbol": "DREP",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/14578/thumb/KotgsCgS_400x400.jpg?1696514258"
-  },
-  {
-    "chainId": 1,
     "name": "ConnectJob",
     "address": "0x3abdff32f76b42e7635bdb7e425f0231a5f3ab17",
     "decimals": 18,
@@ -27889,6 +27889,14 @@
     "decimals": 18,
     "symbol": "CHOW",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/26529.png"
+  },
+  {
+    "chainId": 1,
+    "name": "NexusWealth Investment Solutions",
+    "address": "0x3e3a84c2be12035c68b39a2748d42aaaba329455",
+    "decimals": 18,
+    "symbol": "NWIS",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/38780.png"
   },
   {
     "chainId": 1,
@@ -35719,6 +35727,14 @@
     "decimals": 9,
     "symbol": "PC",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/27658.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x4f3a4e37701402c61146071309e45a15843025e1",
+    "name": "3DPass",
+    "symbol": "P3D",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/32178/thumb/Logo200x200.png?1696742918"
   },
   {
     "chainId": 1,
@@ -46282,11 +46298,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x66fd8de541c0594b4dccdfc13bf3a390e50d3afd",
     "name": "Turtle",
-    "symbol": "TURTLE",
+    "address": "0x66fd8de541c0594b4dccdfc13bf3a390e50d3afd",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/69595/thumb/OUDzqTkE_400x400.png?1759166194"
+    "symbol": "TURTLE",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/38671.png"
   },
   {
     "chainId": 1,
@@ -57074,9 +57090,9 @@
   },
   {
     "chainId": 1,
-    "name": "GimbutisCoin",
+    "name": "USAD",
     "address": "0x7ec90ed9297dbc5702b1e616a938235afd20a1de",
-    "decimals": 6,
+    "decimals": 18,
     "symbol": "USAD",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/38420.png"
   },
@@ -57794,11 +57810,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x80ac24aa929eaf5013f6436cda2a7ba190f5cc0b",
     "name": "Syrup USDC",
-    "symbol": "SYRUPUSDC",
+    "address": "0x80ac24aa929eaf5013f6436cda2a7ba190f5cc0b",
     "decimals": 6,
-    "logoURI": "https://assets.coingecko.com/coins/images/54658/thumb/SyrupUSDCO.png?1748850129"
+    "symbol": "syrupUSDC",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/38779.png"
   },
   {
     "chainId": 1,
@@ -84983,6 +84999,14 @@
   },
   {
     "chainId": 1,
+    "address": "0xbf2a696bb51505d513591eb1b7495760adcfdf5e",
+    "name": "Babygirl",
+    "symbol": "BABYGIRL",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/70264/thumb/logo.png?1761304287"
+  },
+  {
+    "chainId": 1,
     "address": "0xbf2e353f5db1a01e4e7f051222c666afc81b2574",
     "name": "DogeFather",
     "symbol": "THEDOGEFATHER",
@@ -85376,8 +85400,8 @@
   {
     "chainId": 1,
     "address": "0xc00db6b41473d065027f5ed6fada20fde75f142e",
-    "name": "KRWT",
-    "symbol": "KRWT",
+    "name": "KRWQ",
+    "symbol": "KRWQ",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/69864/thumb/KRWT_Coin_%28200x200px%29.png?1759981566"
   },
@@ -107298,11 +107322,11 @@
   },
   {
     "chainId": 1,
+    "name": "Saga",
     "address": "0xf42fcffc27a5b8d0afec45659407b82f9f32fa98",
-    "name": "Wrapped SAGA",
+    "decimals": 18,
     "symbol": "SAGA",
-    "decimals": 6,
-    "logoURI": "https://assets.coingecko.com/coins/images/54884/thumb/saga.jpg?1742379892"
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/30372.png"
   },
   {
     "chainId": 1,
@@ -121962,6 +121986,14 @@
   },
   {
     "chainId": 8453,
+    "address": "0x3fef43ad3b310dff554d6ef1127ff37d69490f14",
+    "symbol": "FITRI",
+    "name": "Fitri",
+    "decimals": 18,
+    "logoURI": "ipfs://QmcvTKMhSDLASzTWP638bQrwu9J8dSbkJb1kJ3X6gQ9Sn4"
+  },
+  {
+    "chainId": 8453,
     "address": "0x410d7abfb8fc13fdfb6b5cca018cdb8cecaae355",
     "symbol": "VICTOR",
     "name": "VICTOR PUP by Virtuals",
@@ -122647,6 +122679,14 @@
     "name": "jumpbox.eth",
     "decimals": 18,
     "logoURI": "ipfs://QmTvYgYScVbwpXc7xTRddniAWAPAiRTY32yFWVuV6ZKTDt"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x5c3d14cae00d4974c326e126ca94a92c21f99076",
+    "symbol": "GUARD",
+    "name": "Guard",
+    "decimals": 18,
+    "logoURI": "ipfs://QmX2Fdndc7wt1ZoLt1SaXemdUs4HBoftVus6BMBMEkjK4D"
   },
   {
     "chainId": 8453,

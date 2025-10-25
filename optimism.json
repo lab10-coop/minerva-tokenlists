@@ -3665,6 +3665,19 @@
   },
   {
     "chainId": 1,
+    "address": "0xb8a914a00664e9361eae187468eff94905dfbc15",
+    "name": "DRIP",
+    "symbol": "DRIP",
+    "decimals": 9,
+    "logoURI": "https://ethereum-optimism.github.io/data/DRIP/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "opListId": "extended",
+      "opTokenId": "DRIP"
+    }
+  },
+  {
+    "chainId": 1,
     "address": "0xb90b2a35c65dbc466b04240097ca756ad2005295",
     "name": "BOBO",
     "symbol": "BOBO",
@@ -4174,6 +4187,19 @@
       "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1",
       "opListId": "extended",
       "opTokenId": "PSP"
+    }
+  },
+  {
+    "chainId": 1,
+    "address": "0xcafe5de18756817d98f4603f6828397406d4cafe",
+    "name": "Witnet",
+    "symbol": "WIT",
+    "decimals": 9,
+    "logoURI": "https://ethereum-optimism.github.io/data/WIT/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "WIT"
     }
   },
   {
@@ -10105,6 +10131,18 @@
   },
   {
     "chainId": 8453,
+    "address": "0x3d63825b0d8669307366e6c8202f656b9e91d368",
+    "name": "Wild Goat Coin",
+    "symbol": "WGC",
+    "decimals": 6,
+    "logoURI": "https://ethereum-optimism.github.io/data/WGC/logo.svg",
+    "extensions": {
+      "opListId": "extended",
+      "opTokenId": "WGC"
+    }
+  },
+  {
+    "chainId": 8453,
     "address": "0x3e7ef8f50246f725885102e8238cbba33f276747",
     "name": "HANePlatform",
     "symbol": "HANeP",
@@ -11703,6 +11741,19 @@
   },
   {
     "chainId": 8453,
+    "address": "0xafb7d098e38a526091a1d555160913f454cda8cc",
+    "name": "DRIP",
+    "symbol": "DRIP",
+    "decimals": 9,
+    "logoURI": "https://ethereum-optimism.github.io/data/DRIP/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "DRIP"
+    }
+  },
+  {
+    "chainId": 8453,
     "address": "0xafb89a09d82fbde58f18ac6437b3fc81724e4df6",
     "name": "The Doge NFT",
     "symbol": "DOG",
@@ -12162,6 +12213,19 @@
       "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "extended",
       "opTokenId": "yETH"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0xcafe5de18756817d98f4603f6828397406d4cafe",
+    "name": "Witnet",
+    "symbol": "WIT",
+    "decimals": 9,
+    "logoURI": "https://ethereum-optimism.github.io/data/WIT/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "WIT"
     }
   },
   {
@@ -12963,18 +13027,6 @@
     "extensions": {
       "opListId": "extended",
       "opTokenId": "PRIME"
-    }
-  },
-  {
-    "chainId": 8453,
-    "address": "0xfb18511f1590a494360069f3640c27d55c2b5290",
-    "name": "Wild Goat Coin",
-    "symbol": "WGC",
-    "decimals": 6,
-    "logoURI": "https://ethereum-optimism.github.io/data/WGC/logo.svg",
-    "extensions": {
-      "opListId": "extended",
-      "opTokenId": "WGC"
     }
   },
   {
