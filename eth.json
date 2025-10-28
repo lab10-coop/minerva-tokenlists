@@ -14660,14 +14660,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x208042a2012812f189e4e696e05f08eadb883404",
-    "name": "Bitcoin Hyper",
-    "symbol": "HYPER",
-    "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/70209/thumb/logo.png?1761055118"
-  },
-  {
-    "chainId": 1,
     "name": "1AI Token",
     "address": "0x208bbb6bcea22ef2011789331405347394ebaa51",
     "decimals": 18,
@@ -15193,6 +15185,14 @@
     "decimals": 18,
     "symbol": "JNB",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3759.png"
+  },
+  {
+    "chainId": 1,
+    "name": "FurGPT",
+    "address": "0x21d6d37411d86fafdc565260e81e7a585bc44119",
+    "decimals": 18,
+    "symbol": "FGPT",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/38798.png"
   },
   {
     "chainId": 1,
@@ -24132,11 +24132,11 @@
   },
   {
     "chainId": 1,
+    "name": "syrup USDT",
     "address": "0x356b8d89c1e1239cbbb9de4815c39a1474d5ba7d",
-    "name": "syrupUSDT",
-    "symbol": "SYRUPUSDT",
     "decimals": 6,
-    "logoURI": "https://assets.coingecko.com/coins/images/69514/thumb/SyrupUSDT.png?1758823529"
+    "symbol": "syrupUSDT",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/38786.png"
   },
   {
     "chainId": 1,
@@ -26068,11 +26068,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x3991b07b2951a4300da8c76e7d2c7edde861fef3",
     "name": "UXLINK",
-    "symbol": "UXLINK",
+    "address": "0x3991b07b2951a4300da8c76e7d2c7edde861fef3",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/39229/thumb/uxlink.jpg?1721201390"
+    "symbol": "UXLINK",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/32257.png"
   },
   {
     "chainId": 1,
@@ -31419,14 +31419,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x4594cffbfc09bc5e7ecf1c2e1c1e24f0f7d29036",
-    "name": "0 Knowledge Network",
-    "symbol": "0KN",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/31626/thumb/200x200.png?1696530442"
-  },
-  {
-    "chainId": 1,
     "name": "Cryptid",
     "address": "0x4599836c212cd988eaccc54c820ee9261cdaac71",
     "decimals": 18,
@@ -31888,14 +31880,6 @@
     "decimals": 18,
     "symbol": "CODEO",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/5666.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x46b7cb31a4a6375c69a6d0b9ed9261fb649adb83",
-    "name": "0xPrivacy",
-    "symbol": "0XP",
-    "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/50591/thumb/photo_2024-09-30_13-46-26.jpg?1728443504"
   },
   {
     "chainId": 1,
@@ -53382,7 +53366,7 @@
     "name": "Anime",
     "symbol": "ANI",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/13792/thumb/200.png?1760023901"
+    "logoURI": "https://assets.coingecko.com/coins/images/13792/thumb/Adobe_Express_-_file.png?1761571801"
   },
   {
     "chainId": 1,
@@ -68110,6 +68094,14 @@
     "symbol": "CSCOON",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/68566/thumb/cscoon_160x160.png?1756106113"
+  },
+  {
+    "chainId": 1,
+    "address": "0x981293a7928638939d126207f7aca94e2f164806",
+    "name": "Zaddy Coin",
+    "symbol": "ZADDY",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/70332/thumb/_logo.png?1761608650"
   },
   {
     "chainId": 1,
@@ -93467,14 +93459,6 @@
   },
   {
     "chainId": 1,
-    "address": "0xd355765892f334cce93cd3aa37bbb436f147ed37",
-    "name": "Bitcoin Hyper",
-    "symbol": "HYPER",
-    "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/70103/thumb/logo.jpg?1760598931"
-  },
-  {
-    "chainId": 1,
     "name": "HYPNOXYS",
     "address": "0xd35833f9255fb28cc6b91acb8a66ba6429d6ef5a",
     "decimals": 18,
@@ -94112,6 +94096,14 @@
     "decimals": 18,
     "symbol": "SNEKE",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/27694.png"
+  },
+  {
+    "chainId": 1,
+    "name": "SAFEMOON",
+    "address": "0xd4ae83ead6c56ddfe15b5e560391528a91dfeb24",
+    "decimals": 9,
+    "symbol": "SMOON",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/38791.png"
   },
   {
     "chainId": 1,
@@ -101979,6 +101971,14 @@
   },
   {
     "chainId": 1,
+    "address": "0xe7c3d8c9a439fede00d2600032d5db0be71c3c29",
+    "name": "JPY Coin",
+    "symbol": "JPYC",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70314/thumb/JPYC_400x400.jpg?1761556080"
+  },
+  {
+    "chainId": 1,
     "name": "HashKey Platform Token",
     "address": "0xe7c6bf469e97eeb0bfb74c8dbff5bd47d4c1c98a",
     "decimals": 18,
@@ -103768,14 +103768,6 @@
     "decimals": 18,
     "symbol": "ZKEX",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/35330.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xec2fbe79236fa86bf2aa5d674dea20e2a1e7b01a",
-    "name": "Mavryk Network",
-    "symbol": "MVRK",
-    "decimals": 6,
-    "logoURI": "https://assets.coingecko.com/coins/images/55736/thumb/fe7aba87-d070-4be5-9b70-23412dd8d6ab.png?1755929160"
   },
   {
     "chainId": 1,
