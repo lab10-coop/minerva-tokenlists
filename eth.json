@@ -537,6 +537,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x007d0267449e1f8fe8ce9d8b604abb2ce789f0ea",
+    "name": "BlockchainFX",
+    "symbol": "BFX",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/70370/thumb/5yaMZH-m_400x400.jpg?1761735392"
+  },
+  {
+    "chainId": 1,
     "name": "Splintershards",
     "address": "0x00813e3421e1367353bfe7615c7f7f133c89df74",
     "decimals": 18,
@@ -2014,6 +2022,14 @@
     "decimals": 18,
     "symbol": "SWACE",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/4199.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Oasys",
+    "address": "0x03b4bd7d900defe84098665e3d96dca73a1f608b",
+    "decimals": 18,
+    "symbol": "OAS",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/22265.png"
   },
   {
     "chainId": 1,
@@ -13671,8 +13687,8 @@
     "name": "x402",
     "address": "0x1e8e4145506e74996f32b61de2f7f4ec60f2d102",
     "decimals": 2,
-    "symbol": "X402",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/38820.png"
+    "symbol": "x402",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/38825.png"
   },
   {
     "chainId": 1,
@@ -23884,9 +23900,9 @@
   },
   {
     "chainId": 1,
-    "name": "syrup USDT",
+    "name": "syrupUSDT",
     "address": "0x356b8d89c1e1239cbbb9de4815c39a1474d5ba7d",
-    "decimals": 6,
+    "decimals": 18,
     "symbol": "syrupUSDT",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/38786.png"
   },
@@ -27145,6 +27161,14 @@
     "decimals": 18,
     "symbol": "PEPE2024",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/32449.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Zenix",
+    "address": "0x3d1428a0f17bd5d2dda4f65c383e9e86d22e5c3b",
+    "decimals": 18,
+    "symbol": "ZENIX",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/38822.png"
   },
   {
     "chainId": 1,
@@ -34447,6 +34471,14 @@
     "decimals": 18,
     "symbol": "OPCH",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/24327.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x4d4eb0e8b160f6ebf63cc6d36060ffec09301b42",
+    "name": "Lit Protocol",
+    "symbol": "LITKEY",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70287/thumb/litkey.png?1761400668"
   },
   {
     "chainId": 1,
@@ -71841,6 +71873,14 @@
   },
   {
     "chainId": 1,
+    "address": "0xa1f50f0a627549abf4caa8a77832203f2d31325b",
+    "name": "PepeNode",
+    "symbol": "PEPENODE",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/70364/thumb/PepeNode.png?1761710439"
+  },
+  {
+    "chainId": 1,
     "name": "Stella",
     "address": "0xa1faa113cbe53436df28ff0aee54275c13b40975",
     "decimals": 18,
@@ -72414,14 +72454,6 @@
     "decimals": 18,
     "symbol": "TEMP",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/14089.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xa37bb2aaac324eb974ea46729217040a23eae996",
-    "name": "Little Pepe",
-    "symbol": "LILPEPE",
-    "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/68872/thumb/logo.png?1756849618"
   },
   {
     "chainId": 1,
@@ -75622,14 +75654,6 @@
     "decimals": 18,
     "symbol": "AOL",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/25976.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xaafec8e08d524d534327fa13fb306f440b5f88eb",
-    "name": "Wrapped CTC",
-    "symbol": "WCTC",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/54774/thumb/WCTC_32px.png?1741515061"
   },
   {
     "chainId": 1,
@@ -85237,14 +85261,6 @@
     "decimals": 18,
     "symbol": "NAVY",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3805.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xc15c94f460c6a01a93b8f9ba919fadcec9310f54",
-    "name": "Xspectra Ai",
-    "symbol": "$XAI",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/53184/thumb/1000281371.jpg?1735563383"
   },
   {
     "chainId": 1,
@@ -102251,6 +102267,14 @@
   },
   {
     "chainId": 1,
+    "address": "0xeb32ad88b09fb94129a8b972876ad02eaac91e53",
+    "name": "Wrapped CTC",
+    "symbol": "WCTC",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54774/thumb/WCTC_32px.png?1741515061"
+  },
+  {
+    "chainId": 1,
     "name": "IXFI",
     "address": "0xeb32e776b75707487d044c5b75462a11f72b905c",
     "decimals": 18,
@@ -102504,6 +102528,14 @@
     "decimals": 18,
     "symbol": "HON",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29064.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Novastro",
+    "address": "0xebddb124ada952ad80fcc4dc6fe4ef0f45e2e8e8",
+    "decimals": 18,
+    "symbol": "XNL",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/35245.png"
   },
   {
     "chainId": 1,
