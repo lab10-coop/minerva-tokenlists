@@ -658,6 +658,19 @@
   },
   {
     "chainId": 1,
+    "address": "0x1bab804803159ad84b8854581aa53ac72455614e",
+    "name": "Syndicate",
+    "symbol": "SYND",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/SYND/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "opListId": "extended",
+      "opTokenId": "SYND"
+    }
+  },
+  {
+    "chainId": 1,
     "address": "0x1bed97cbc3c24a4fb5c069c6e311a967386131f7",
     "name": "Yearn Ether",
     "symbol": "yETH",
@@ -1057,6 +1070,19 @@
       "unichainBridgeAddress": "0x81014F44b0a345033bB2b3B21C7a1A308B35fEeA",
       "opListId": "extended",
       "opTokenId": "CTX"
+    }
+  },
+  {
+    "chainId": 1,
+    "address": "0x340d2bde5eb28c1eed91b2f790723e3b160613b7",
+    "name": "BLOCKv Token",
+    "symbol": "VEE",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/VEE/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "opListId": "extended",
+      "opTokenId": "VEE"
     }
   },
   {
@@ -2235,6 +2261,19 @@
   },
   {
     "chainId": 1,
+    "address": "0x6ff765edbd71319e29a1ac74d2ab3c34b5b8eda9",
+    "name": "Polkastarter",
+    "symbol": "POLS",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/POLS/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "opListId": "extended",
+      "opTokenId": "POLS"
+    }
+  },
+  {
+    "chainId": 1,
     "address": "0x70c4430f9d98b4184a4ef3e44ce10c320a8b7383",
     "name": "Gyroscope",
     "symbol": "GYFI",
@@ -3280,6 +3319,19 @@
   },
   {
     "chainId": 1,
+    "address": "0xa0d69e286b938e21cbf7e51d71f6a4c8918f482f",
+    "name": "Electronic Dollar",
+    "symbol": "eUSD",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/eUSD/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "opListId": "extended",
+      "opTokenId": "eUSD"
+    }
+  },
+  {
+    "chainId": 1,
     "address": "0xa20ce45a0348c88f484cf92ac3278a46ba98a563",
     "name": "Veera Gold",
     "symbol": "VGT",
@@ -3488,6 +3540,7 @@
       "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
       "unichainBridgeAddress": "0x81014F44b0a345033bB2b3B21C7a1A308B35fEeA",
       "celoBridgeAddress": "0x9C4955b92F34148dbcfDCD82e9c9eCe5CF2badfe",
+      "inkBridgeAddress": "0x88ff1e5b602916615391f55854588efcbb7663f0",
       "soneiumBridgeAddress": "0xeb9bf100225c214efc3e7c651ebbadcf85177607",
       "opListId": "default",
       "opTokenId": "rETH"
@@ -9256,6 +9309,19 @@
   },
   {
     "chainId": 8453,
+    "address": "0x0df61361882a2bbd3b521c791aced080d72a66e9",
+    "name": "Polkastarter",
+    "symbol": "POLS",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/POLS/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "POLS"
+    }
+  },
+  {
+    "chainId": 8453,
     "address": "0x0f1cfd0bb452db90a3bfc0848349463010419ab2",
     "name": "GURU Token",
     "symbol": "GURU",
@@ -9290,6 +9356,19 @@
     "extensions": {
       "opListId": "extended",
       "opTokenId": "USD₮0"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0x11dc28d01984079b7efe7763b533e6ed9e3722b9",
+    "name": "Syndicate",
+    "symbol": "SYND",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/SYND/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "SYND"
     }
   },
   {
@@ -12333,6 +12412,19 @@
   },
   {
     "chainId": 8453,
+    "address": "0xcfa3ef56d303ae4faaba0592388f19d7c3399fb4",
+    "name": "Electronic Dollar",
+    "symbol": "eUSD",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/eUSD/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "eUSD"
+    }
+  },
+  {
+    "chainId": 8453,
     "address": "0xd08a2917653d4e460893203471f0000826fb4034",
     "name": "FARM Reward Token",
     "symbol": "FARM",
@@ -12884,6 +12976,19 @@
       "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "extended",
       "opTokenId": "USD3"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0xefc2689d3e79252fba37e889a1b5ad92cedc6e4f",
+    "name": "BLOCKv Token",
+    "symbol": "VEE",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/VEE/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "VEE"
     }
   },
   {
@@ -13610,6 +13715,19 @@
     }
   },
   {
+    "chainId": 57073,
+    "address": "0x94cac393f3444cef63a651ffc18497e7e8bd036a",
+    "name": "Rocket Pool ETH",
+    "symbol": "rETH",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/rETH/logo.svg",
+    "extensions": {
+      "inkBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "default",
+      "opTokenId": "rETH"
+    }
+  },
+  {
     "chainId": 84532,
     "address": "0x0283f3bde2566c41f88c10e269ce9a59e3c97700",
     "name": "Massive Vehicle Ledger",
@@ -13723,6 +13841,19 @@
       "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "extended",
       "opTokenId": "OL"
+    }
+  },
+  {
+    "chainId": 84532,
+    "address": "0x234faa9cdee5822767076495a9e258dd8f21ffd8",
+    "name": "Testnet Syndicate ",
+    "symbol": "TestnetSYND",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/SYND/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "SYND"
     }
   },
   {
@@ -14333,6 +14464,19 @@
       "baseBridgeAddress": "0xfd0Bf71F60660E2f608ed56e1659C450eB113120",
       "opListId": "extended",
       "opTokenId": "OPENLOOT"
+    }
+  },
+  {
+    "chainId": 11155111,
+    "address": "0x55f6e82a8bf5736d46837246dcbeaf7e61b3c27c",
+    "name": "Testnet Syndicate ",
+    "symbol": "TestnetSYND",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/SYND/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0xfd0Bf71F60660E2f608ed56e1659C450eB113120",
+      "opListId": "extended",
+      "opTokenId": "SYND"
     }
   },
   {
