@@ -18380,6 +18380,14 @@
   },
   {
     "chainId": 1,
+    "name": "AxCNH",
+    "address": "0x2925ac3be7d585874b88ea51ed50add376ad8239",
+    "decimals": 6,
+    "symbol": "AXCNH",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/38880.png"
+  },
+  {
+    "chainId": 1,
     "name": "HashAI",
     "address": "0x292fcdd1b104de5a00250febba9bc6a5092a0076",
     "decimals": 18,
@@ -21673,14 +21681,6 @@
     "decimals": 9,
     "symbol": "TWIFB",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/31848.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x3125cccd8862eee9e8f2160113871f50fbd55edd",
-    "name": "Pygmy Hippo",
-    "symbol": "KOBUSHI",
-    "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/55499/thumb/LOGO.png?1746361625"
   },
   {
     "chainId": 1,
@@ -37724,7 +37724,7 @@
     "chainId": 1,
     "name": "Tanssi",
     "address": "0x553f4cb7256d8fc038e91d36cb63fa7c13b624ab",
-    "decimals": 12,
+    "decimals": 18,
     "symbol": "TANSSI",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/37297.png"
   },
@@ -37743,14 +37743,6 @@
     "decimals": 18,
     "symbol": "HST",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2176.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x554fb3b6c1cf4a3cef49779ced321ca51c667d7d",
-    "name": "Arata AGI",
-    "symbol": "ARATA",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/51555/thumb/500px.png?1731517839"
   },
   {
     "chainId": 1,
@@ -57266,9 +57258,9 @@
   },
   {
     "chainId": 1,
-    "name": "Syrup USDC",
+    "name": "syrupUSDC",
     "address": "0x80ac24aa929eaf5013f6436cda2a7ba190f5cc0b",
-    "decimals": 6,
+    "decimals": 18,
     "symbol": "syrupUSDC",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/38779.png"
   },
@@ -60628,7 +60620,7 @@
     "chainId": 1,
     "name": "EURØP",
     "address": "0x888883b5f5d21fb10dfeb70e8f9722b9fb0e5e51",
-    "decimals": 6,
+    "decimals": 18,
     "symbol": "EUROP",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/36748.png"
   },
@@ -74166,14 +74158,6 @@
     "decimals": 18,
     "symbol": "LXF",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/14088.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xa79aceef0a240d651948fbecfa38966ad18b446d",
-    "name": "Social Edge",
-    "symbol": "SEDGE",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/52933/thumb/IMG_9236%281%29_%281%29.png?1734709541"
   },
   {
     "chainId": 1,
@@ -88260,11 +88244,11 @@
   },
   {
     "chainId": 1,
-    "address": "0xc92fe380bf07fedc239a4b53639a6479fde8d30b",
     "name": "ZKcandy",
-    "symbol": "CANDY",
+    "address": "0xc92fe380bf07fedc239a4b53639a6479fde8d30b",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/69469/thumb/4_Trans_white.png?1758706565"
+    "symbol": "CANDY",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/38883.png"
   },
   {
     "chainId": 1,
@@ -103467,6 +103451,14 @@
   },
   {
     "chainId": 1,
+    "address": "0xedd5c6f4526ea6fdea31e56d206e94e966257b70",
+    "name": "Renzo Restaked WBTC",
+    "symbol": "EZBTC",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70534/thumb/ezBTC.png?1762376631"
+  },
+  {
+    "chainId": 1,
     "name": "MortyPad",
     "address": "0xedd63398ef416e612ad7547c1b3773198834687d",
     "decimals": 18,
@@ -108477,7 +108469,7 @@
     "chainId": 1,
     "name": "Analog",
     "address": "0xf983da3ca66964c02628189ea8ca99fa9e24f66c",
-    "decimals": 12,
+    "decimals": 18,
     "symbol": "ANLOG",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/35651.png"
   },
@@ -109960,14 +109952,6 @@
     "decimals": 18,
     "symbol": "CP",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/6396.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xfd4ca4a692f14d88af3e7ae13cf00d5095213b25",
-    "name": "Wiskers",
-    "symbol": "WSKR",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/32124/thumb/1.png?1696587384"
   },
   {
     "chainId": 1,
