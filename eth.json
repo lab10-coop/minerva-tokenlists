@@ -18374,8 +18374,8 @@
     "chainId": 1,
     "name": "AxCNH",
     "address": "0x2925ac3be7d585874b88ea51ed50add376ad8239",
-    "decimals": 6,
-    "symbol": "AXCNH",
+    "decimals": 18,
+    "symbol": "AxCNH",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/38880.png"
   },
   {
@@ -34290,14 +34290,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x4cf896ac977d07d91626fed71c20f3185b0cb177",
-    "name": "Bitcoin Bit",
-    "symbol": "BCB",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/55532/thumb/bitcoinbit_simbol-preview.png?1746553992"
-  },
-  {
-    "chainId": 1,
     "name": "Mysterium",
     "address": "0x4cf89ca06ad997bc732dc876ed2a7f26a9e7f361",
     "decimals": 18,
@@ -43183,6 +43175,14 @@
     "decimals": 18,
     "symbol": "RINO",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/33517.png"
+  },
+  {
+    "chainId": 1,
+    "name": "xVTSN",
+    "address": "0x61638ba47668c4204776ad3917218b8c4d1b38ea",
+    "decimals": 8,
+    "symbol": "XVTSN",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/38903.png"
   },
   {
     "chainId": 1,
@@ -77577,14 +77577,6 @@
   },
   {
     "chainId": 1,
-    "address": "0xaf8b894229bc800658ab0faf744e97c8c74c4321",
-    "name": "Black Lemon AI",
-    "symbol": "LEMON",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/52580/thumb/Lemon_200x200.jpg?1733693503"
-  },
-  {
-    "chainId": 1,
     "address": "0xaf91e8afbe87642dc628786188a54b78580a4d76",
     "symbol": "FOY",
     "name": "Fund Of Yours",
@@ -99115,11 +99107,11 @@
   },
   {
     "chainId": 1,
-    "address": "0xe2fc85bfb48c4cf147921fbe110cf92ef9f26f94",
     "name": "Staked Stream USD",
-    "symbol": "XUSD",
+    "address": "0xe2fc85bfb48c4cf147921fbe110cf92ef9f26f94",
     "decimals": 6,
-    "logoURI": "https://assets.coingecko.com/coins/images/67383/thumb/xusd.jpg?1752627749"
+    "symbol": "XUSD",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/38894.png"
   },
   {
     "chainId": 1,
