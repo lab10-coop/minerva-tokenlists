@@ -9337,14 +9337,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x14d0d41c101a99ca55c622b0c6eb69c79b6689d4",
-    "name": "Y8U AI",
-    "symbol": "Y8U",
-    "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/70080/thumb/logo.png?1760515608"
-  },
-  {
-    "chainId": 1,
     "name": "iDeFi",
     "address": "0x14d10003807ac60d07bb0ba82caeac8d2087c157",
     "decimals": 18,
@@ -14881,6 +14873,14 @@
     "decimals": 18,
     "symbol": "WCCX",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7600.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Acurast",
+    "address": "0x216b3643ff8b7bb30d8a48e9f1bd550126202add",
+    "decimals": 12,
+    "symbol": "ACU",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/36492.png"
   },
   {
     "chainId": 1,
@@ -64474,11 +64474,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x9126236476efba9ad8ab77855c60eb5bf37586eb",
     "name": "Checkmate",
-    "symbol": "CHECK",
+    "address": "0x9126236476efba9ad8ab77855c60eb5bf37586eb",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/69231/thumb/VgVwfk9E_400x400.png?1761800742"
+    "symbol": "CHECK",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/38926.png"
   },
   {
     "chainId": 1,
@@ -82524,7 +82524,7 @@
     "name": "Phemex Token",
     "symbol": "PT",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/33314/thumb/phemex_logo.png?1701959611"
+    "logoURI": "https://assets.coingecko.com/coins/images/33314/thumb/PT.png?1762850705"
   },
   {
     "chainId": 1,
@@ -96488,14 +96488,6 @@
     "decimals": 9,
     "symbol": "MHI",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/18676.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xdc69c06e796ddbe2ca5e3d99f6fd8c40dfd9584a",
-    "name": "Duckey",
-    "symbol": "DUCKEY",
-    "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/51832/thumb/IMG_0297.jpeg?1732044265"
   },
   {
     "chainId": 1,
