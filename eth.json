@@ -17332,14 +17332,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x26dca88fd7ba245695ed15064c80166ccd15a74c",
-    "name": "Little Pepe",
-    "symbol": "LILPEPE",
-    "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/69680/thumb/logo-trans.png?1759285021"
-  },
-  {
-    "chainId": 1,
     "name": "Ankr Staked MATIC",
     "address": "0x26dcfbfa8bc267b250432c01c982eaf81cc5480c",
     "decimals": 18,
@@ -18577,6 +18569,14 @@
     "decimals": 9,
     "symbol": "SHIZU",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/26620.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x29bf22381a5811dec89dc7b46a5ce57ad02c0240",
+    "name": "Nest WisdomTree Vault",
+    "symbol": "NWISDOM",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/70669/thumb/Nest_Wisdom_Vault.png?1763016395"
   },
   {
     "chainId": 1,
@@ -23256,7 +23256,7 @@
     "name": "KURUMI",
     "symbol": "KU-CHAN",
     "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/70165/thumb/kurumi_logo.png?1762275440"
+    "logoURI": "https://assets.coingecko.com/coins/images/70165/thumb/mh676tnJ_400x400.jpg?1763409547"
   },
   {
     "chainId": 1,
@@ -34511,14 +34511,6 @@
     "decimals": 18,
     "symbol": "INCO",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3426.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x4d8d9f6ced39288a1e8961621bbbc2b698a3b102",
-    "name": "hsETH",
-    "symbol": "HSETH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/55023/thumb/hsETH.png?1743243778"
   },
   {
     "chainId": 1,
@@ -55978,6 +55970,14 @@
   },
   {
     "chainId": 1,
+    "name": "Nillion",
+    "address": "0x7cf9a80db3b29ee8efe3710aadb7b95270572d47",
+    "decimals": 18,
+    "symbol": "NIL",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/35702.png"
+  },
+  {
+    "chainId": 1,
     "address": "0x7cf9dec92ca9fd46f8d86e7798b72624bc116c05",
     "name": "Midas mAPOLLO",
     "symbol": "MAPOLLO",
@@ -72006,6 +72006,14 @@
     "decimals": 18,
     "symbol": "OSAK",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/27533.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xa2209a2b7cdb0a15457322199fe45bdbad72c48f",
+    "name": "Little Pepe",
+    "symbol": "LILPEPE",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/70738/thumb/mark.png?1763363200"
   },
   {
     "chainId": 1,
@@ -92147,6 +92155,14 @@
   },
   {
     "chainId": 1,
+    "address": "0xd24c0f14142aaf45ff995bc84ebf6a06add01b8d",
+    "name": "Xera",
+    "symbol": "XERA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70734/thumb/PkxCS_AX_400x400_%281%29.jpg?1763354286"
+  },
+  {
+    "chainId": 1,
     "name": "Medium",
     "address": "0xd24dff6117936b6ff97108cf26c1dd8865743d87",
     "decimals": 18,
@@ -99475,6 +99491,14 @@
   },
   {
     "chainId": 1,
+    "address": "0xe420029dc3dda2b9b9002cf99848cc31ed4df88e",
+    "name": "Spydoge",
+    "symbol": "SPYD",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/70739/thumb/XLogo.jpg?1763382292"
+  },
+  {
+    "chainId": 1,
     "name": "XPRO",
     "address": "0xe427ae8d1b5b5842a47b8980aeadddbde89bf1b4",
     "decimals": 18,
@@ -104755,6 +104779,14 @@
   },
   {
     "chainId": 1,
+    "address": "0xf0b9889cdb70a716bf72e37ef626f08d9f14c180",
+    "name": "Bifrost Voucher MANTA",
+    "symbol": "VMANTA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/34707/thumb/vMANTA.png?1705893023"
+  },
+  {
+    "chainId": 1,
     "address": "0xf0bb20865277abd641a307ece5ee04e79073416c",
     "name": "Ether.Fi Liquid ETH",
     "symbol": "LIQUIDETH",
@@ -106960,14 +106992,6 @@
     "decimals": 18,
     "symbol": "PDEX",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/9017.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xf59c6767dfb5aa9e908cb8d1831d02e53312e8ff",
-    "name": "EyzoAI",
-    "symbol": "EYZ",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/52673/thumb/logo_200x200.png?1734018140"
   },
   {
     "chainId": 1,
