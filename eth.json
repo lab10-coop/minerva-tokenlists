@@ -15294,7 +15294,7 @@
     "chainId": 1,
     "name": "Wrapped Bitcoin",
     "address": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
-    "decimals": 8,
+    "decimals": 18,
     "symbol": "WBTC",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3717.png"
   },
@@ -17889,14 +17889,6 @@
     "decimals": 18,
     "symbol": "TGBP",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/38935.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x27f6c8289550fce67f6b50bedf1519966afe5287",
-    "name": "Tokenised GBP",
-    "symbol": "TGBP",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/70647/thumb/tgbp-square.png?1762953800"
   },
   {
     "chainId": 1,
@@ -37322,14 +37314,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x53f7535cc14ff028de181f9789d403c838b5f885",
-    "name": "Perpex",
-    "symbol": "PERPX",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/37939/thumb/perpex_logo-01_%28Custom%29_%281%29.png?1715966687"
-  },
-  {
-    "chainId": 1,
     "name": "Anarchy",
     "address": "0x53fd2342b43ecd24aef1535bc3797f509616ce8c",
     "decimals": 9,
@@ -52970,14 +52954,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x75e88b8c2d34a52a6d36deada664d7dc9116e4ef",
-    "name": "Zaros",
-    "symbol": "ZRS",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/37060/thumb/zrs.png?1713175430"
-  },
-  {
-    "chainId": 1,
     "name": "CSR",
     "address": "0x75ecb52e403c617679fbd3e77a50f9d10a842387",
     "decimals": 18,
@@ -53791,14 +53767,6 @@
     "decimals": 18,
     "symbol": "PASS",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3379.png"
-  },
-  {
-    "chainId": 1,
-    "name": "BounceBit USD",
-    "address": "0x77776b40c3d75cb07ce54dea4b2fd1d07f865222",
-    "decimals": 18,
-    "symbol": "BBUSD",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/31370.png"
   },
   {
     "chainId": 1,
@@ -79537,14 +79505,6 @@
   },
   {
     "chainId": 1,
-    "address": "0xb4357054c3da8d46ed642383f03139ac7f090343",
-    "name": "Port3 Network",
-    "symbol": "PORT3",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/33383/thumb/port3-bc-200x200.png?1710075114"
-  },
-  {
-    "chainId": 1,
     "name": "The Nemesis",
     "address": "0xb435a47ecea7f5366b2520e45b9bed7e01d2ffae",
     "decimals": 18,
@@ -82061,6 +82021,14 @@
     "decimals": 18,
     "symbol": "MOON",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/6045.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xba83b5ed3f12bfa44f066f03ee0433419b74f469",
+    "name": "BEST",
+    "symbol": "BEST",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70874/thumb/Logo_%283%29.png?1764329798"
   },
   {
     "chainId": 1,
@@ -99227,6 +99195,14 @@
   },
   {
     "chainId": 1,
+    "name": "Planck",
+    "address": "0xe33679565212f14d68131851751e1050e15db857",
+    "decimals": 18,
+    "symbol": "PLANCK",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/38251.png"
+  },
+  {
+    "chainId": 1,
     "name": "MCFinance",
     "address": "0xe33ae4e795114279721047484e5ad5cc7df24fcb",
     "decimals": 10,
@@ -107120,14 +107096,6 @@
     "decimals": 9,
     "symbol": "RONALDO",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/27066.png"
-  },
-  {
-    "chainId": 1,
-    "name": "BounceBit BTC",
-    "address": "0xf5e11df1ebcf78b6b6d26e04ff19cd786a1e81dc",
-    "decimals": 18,
-    "symbol": "BBTC",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/31369.png"
   },
   {
     "chainId": 1,
