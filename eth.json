@@ -145,14 +145,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x00000000e88649dd6aab90088ca25d772d4607d0",
-    "name": "Underworld",
-    "symbol": "UDW",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/36704/thumb/UDW-HR-Ticker.jpg?1712125179"
-  },
-  {
-    "chainId": 1,
     "name": "AUSD",
     "address": "0x00000000efe302beaa2b3e6e1b18d08d69a9012a",
     "decimals": 18,
@@ -24356,14 +24348,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x364c65347bdd77e6196fad96d42dbbd6d55cf719",
-    "name": "BRK690k",
-    "symbol": "BRK",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/52050/thumb/Logo.png?1732444543"
-  },
-  {
-    "chainId": 1,
     "address": "0x364f210f430ec2448fc68a49203040f6124096f0",
     "name": "Coinbase xStock",
     "symbol": "COINX",
@@ -41634,6 +41618,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x5dd1a7a369e8273371d2dbf9d83356057088082c",
+    "name": "Flying Tulip",
+    "symbol": "FT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68285/thumb/FlyingTulip_FT_200px.png?1759802398"
+  },
+  {
+    "chainId": 1,
     "name": "Bright Token",
     "address": "0x5dd57da40e6866c9fcc34f4b6ddc89f1ba740dfe",
     "decimals": 18,
@@ -44327,14 +44319,6 @@
     "decimals": 18,
     "symbol": "GNBU",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/10632.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x63a4faa0edc59811f9d3fd8b9aae5131a9488437",
-    "name": "Nodelight",
-    "symbol": "NODL",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/56047/thumb/Profile_01_2x.png?1748156879"
   },
   {
     "chainId": 1,
@@ -47170,10 +47154,10 @@
   },
   {
     "chainId": 1,
-    "name": "Eloncoin",
+    "name": "eloncoin",
     "address": "0x69420e3a3aa9e17dea102bb3a9b3b73dcddb9528",
     "decimals": 18,
-    "symbol": "ELON",
+    "symbol": "eloncoin",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/30979.png"
   },
   {
@@ -81640,6 +81624,14 @@
   },
   {
     "chainId": 1,
+    "address": "0xb9c1344105faa4681bc7ffd68c5c526da61f2ae8",
+    "name": "aarna atvPTmax",
+    "symbol": "ATVPTMAX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70963/thumb/atv_PT_max_logo_v1_83d9b681f7.png?1764860803"
+  },
+  {
+    "chainId": 1,
     "name": "Neural AI",
     "address": "0xb9c255c115636d8cbe107fc953364b243cacdbce",
     "decimals": 18,
@@ -89184,6 +89176,14 @@
     "decimals": 18,
     "symbol": "SEN",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28915.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Orta Chain",
+    "address": "0xcb20b537f5df50bccc00fe6a8eb4d57b14a89a03",
+    "decimals": 18,
+    "symbol": "ORTA",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/39055.png"
   },
   {
     "chainId": 1,
@@ -102867,7 +102867,7 @@
   },
   {
     "chainId": 1,
-    "name": "EigenLayer",
+    "name": "EigenCloud",
     "address": "0xec53bf9167f50cdeb3ae105f56099aaab9061f83",
     "decimals": 18,
     "symbol": "EIGEN",
