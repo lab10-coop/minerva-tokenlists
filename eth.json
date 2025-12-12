@@ -24156,10 +24156,10 @@
   },
   {
     "chainId": 1,
-    "name": "Staked USD0",
+    "name": "Bond USD0",
     "address": "0x35d8949372d46b7a3d5a56006ae77b215fc69bc0",
     "decimals": 18,
-    "symbol": "USD0++",
+    "symbol": "bUSD0",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/33981.png"
   },
   {
@@ -33874,7 +33874,7 @@
   },
   {
     "chainId": 1,
-    "name": "XT.COM token",
+    "name": "XT.COM",
     "address": "0x4be10da47a07716af28ad199fbe020501bddd7af",
     "decimals": 18,
     "symbol": "XT",
@@ -35439,6 +35439,14 @@
     "decimals": 9,
     "symbol": "PC",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/27658.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x4f33acf823e6eeb697180d553ce0c710124c8d59",
+    "name": "Spiko Digital Assets Cash & Carry Fund",
+    "symbol": "SPKCC",
+    "decimals": 5,
+    "logoURI": "https://assets.coingecko.com/coins/images/71054/thumb/Fund_C_C-_Dollar.png?1765460346"
   },
   {
     "chainId": 1,
@@ -51762,6 +51770,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x72e36d22717e7bd70ac1a148f578b78e05dace73",
+    "name": "Nakamigo",
+    "symbol": "MEEGSTR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/71055/thumb/tokenworks.png?1765480087"
+  },
+  {
+    "chainId": 1,
     "address": "0x72e4f9f808c49a2a61de9c5896298920dc4eeea9",
     "name": "HarryPotterObamaSonic10Inu (ETH)",
     "symbol": "BITCOIN",
@@ -60820,7 +60836,7 @@
     "chainId": 1,
     "name": "Elevate",
     "address": "0x888888888887715fb9d9f84175af9e6cce46807e",
-    "decimals": 8,
+    "decimals": 18,
     "symbol": "ELEVATE",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/39078.png"
   },
@@ -62247,14 +62263,6 @@
     "decimals": 18,
     "symbol": "SCU",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/8199.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x8b8f9419ed9fd8c168128bf05c5d5fe7b17fe11d",
-    "name": "Milo Token",
-    "symbol": "MILO",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/50845/thumb/IMG_202410182816_200x200.jpg?1729297353"
   },
   {
     "chainId": 1,
@@ -71091,7 +71099,7 @@
     "chainId": 1,
     "name": "MAKACHAIN",
     "address": "0x9ff7b37b84c05dfb08b4f50adb17a80a3fefd6ed",
-    "decimals": 19,
+    "decimals": 18,
     "symbol": "MAKA",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/39073.png"
   },
@@ -72254,6 +72262,14 @@
     "decimals": 18,
     "symbol": "NULS",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2092.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xa27a2c21a9d468634107b38d9fffb42ad09b204f",
+    "name": "Fwogs Strategy",
+    "symbol": "FWOGSTR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/71056/thumb/tokenworks.png?1765480414"
   },
   {
     "chainId": 1,
@@ -73702,14 +73718,6 @@
     "decimals": 9,
     "symbol": "Okami",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/17663.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xa61d1b0b5f3c1bfe7f7ccd42f0f48012592a2952",
-    "name": "Euphoria",
-    "symbol": "EUPH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/55926/thumb/Logo1-1.png?1747762942"
   },
   {
     "chainId": 1,
@@ -77710,6 +77718,14 @@
     "decimals": 18,
     "symbol": "MODAI",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29638.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Wealth Crypto",
+    "address": "0xafa702c0a2a3a0cf1bd09435db61c913ccde8546",
+    "decimals": 18,
+    "symbol": "WEALTH",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/39108.png"
   },
   {
     "chainId": 1,
@@ -106019,14 +106035,6 @@
   },
   {
     "chainId": 1,
-    "address": "0xf38feedb0c85c1e1d6864c7513ac646d28bb0cfc",
-    "name": "Accumulated Finance Staked ZETA",
-    "symbol": "STZETA",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/51117/thumb/stzeta.png?1730118280"
-  },
-  {
-    "chainId": 1,
     "name": "Easticoin",
     "address": "0xf3924df14812b3d3db29124aa9da4353ed5e04a3",
     "decimals": 18,
@@ -109576,6 +109584,14 @@
     "decimals": 18,
     "symbol": "INFI",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/33121.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Moor",
+    "address": "0xfc280b8e8c2e574b99d63e29c75872737575c594",
+    "decimals": 18,
+    "symbol": "MOOR",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/39112.png"
   },
   {
     "chainId": 1,
