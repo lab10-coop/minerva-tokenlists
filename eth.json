@@ -8529,14 +8529,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x13063bed4bebbe542005e191c459d2cfa96b98e1",
-    "name": "Izumi-chan",
-    "symbol": "IZUMI",
-    "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/51226/thumb/New_logo.png?1730394857"
-  },
-  {
-    "chainId": 1,
     "name": "Mr Burns",
     "address": "0x130740fcbd6f002ce4cff78e6465c851bdbb8ec8",
     "decimals": 9,
@@ -11381,7 +11373,7 @@
     "name": "Polkadot",
     "symbol": "DOT",
     "decimals": 10,
-    "logoURI": "https://assets.coingecko.com/coins/images/12171/thumb/resized_200x200.png?1766160818"
+    "logoURI": "https://assets.coingecko.com/coins/images/12171/thumb/polkadot.jpg?1766533446"
   },
   {
     "chainId": 1,
@@ -18844,14 +18836,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x2b117f0a9a56dddaaf0257b476bfc39ca7e6fda1",
-    "name": "Conwai",
-    "symbol": "CONWAI",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/52236/thumb/tp.png?1732805691"
-  },
-  {
-    "chainId": 1,
     "name": "Interport Token",
     "address": "0x2b1d36f5b61addaf7da7ebbd11b35fd8cfb0de31",
     "decimals": 18,
@@ -21449,14 +21433,6 @@
     "decimals": 18,
     "symbol": "DARK",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7325.png"
-  },
-  {
-    "chainId": 1,
-    "name": "EuroUnion",
-    "address": "0x31094ed0f645dbd5efb6aca5b9a05e8ee0efb386",
-    "decimals": 18,
-    "symbol": "EURC",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/36572.png"
   },
   {
     "chainId": 1,
@@ -25025,6 +25001,14 @@
     "decimals": 18,
     "symbol": "XETH-G",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/8072.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x3868d4e336d14d38031cf680329d31e4712e11cc",
+    "name": "Spiko Digital Assets Cash & Carry Fund - Euro Share Class",
+    "symbol": "EURSPKCC",
+    "decimals": 5,
+    "logoURI": "https://assets.coingecko.com/coins/images/71236/thumb/Fund_C_C_-_Euro.png?1766513734"
   },
   {
     "chainId": 1,
@@ -30096,6 +30080,14 @@
     "decimals": 18,
     "symbol": "UGT",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/1932.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x43fcd85e8d9d003d515f886891b7c742ac9f92da",
+    "name": "Gauntlet WETH PRIME",
+    "symbol": "GTWETHP",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/71235/thumb/gauntlet.png?1766513259"
   },
   {
     "chainId": 1,
@@ -38642,11 +38634,11 @@
   },
   {
     "chainId": 1,
-    "name": "XRUN",
     "address": "0x5833dbb0749887174b254ba4a5df747ff523a905",
-    "decimals": 18,
+    "name": "XRun",
     "symbol": "XRUN",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/19787.png"
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/25272/thumb/19787.png?1696524411"
   },
   {
     "chainId": 1,
@@ -61914,6 +61906,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x8c106eedad96553e64287a5a6839c3cc78afa3d0",
+    "name": "Gauntlet USDC PRIME",
+    "symbol": "GTUSDCP",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/71233/thumb/gauntlet.png?1766513225"
+  },
+  {
+    "chainId": 1,
     "name": "Evnode Blockchain",
     "address": "0x8c11f1a80afce494bac9cc78339cb2768c955d4e",
     "decimals": 9,
@@ -68470,6 +68470,14 @@
     "decimals": 18,
     "symbol": "DOGS",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/33519.png"
+  },
+  {
+    "chainId": 1,
+    "name": "DeepNode",
+    "address": "0x9b6a1d4fa5d90e5f2d34130053978d14cd301d58",
+    "decimals": 18,
+    "symbol": "DN",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/39161.png"
   },
   {
     "chainId": 1,
@@ -78729,6 +78737,14 @@
   },
   {
     "chainId": 1,
+    "name": "BINOVA",
+    "address": "0xb3e38af04f39fb1b5bfa36d3691de9655aad9eaa",
+    "decimals": 18,
+    "symbol": "BNB",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/33346.png"
+  },
+  {
+    "chainId": 1,
     "address": "0xb3e41d6e0ea14b43bc5de3c314a408af171b03dd",
     "name": "Kabosu",
     "symbol": "KABOSU",
@@ -83368,11 +83384,35 @@
   },
   {
     "chainId": 1,
+    "address": "0xbeef003c68896c7d2c3c60d363e8d71a49ab2bf9",
+    "name": "Steakhouse USDT",
+    "symbol": "STEAKUSDT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/71230/thumb/steak-usdt.png?1766513153"
+  },
+  {
+    "chainId": 1,
+    "address": "0xbeef0046fcab1de47e41fb75bb3dc4dfc94108e3",
+    "name": "Steakhouse WETH",
+    "symbol": "STEAKETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/71231/thumb/steakhouse.png?1766513178"
+  },
+  {
+    "chainId": 1,
     "address": "0xbeef0075e03a5ce0d84d4accf3481363e0584f5c",
     "name": "Steakhouse M Morpho Vault",
     "symbol": "STEAKM",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/52410/thumb/steak-steakM.png?1734001026"
+  },
+  {
+    "chainId": 1,
+    "address": "0xbeef00b5d83c1188f07a5184230a805639c39f04",
+    "name": "Steakhouse PYUSD",
+    "symbol": "STEAKPYUSD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/71232/thumb/steakhouse.png?1766513207"
   },
   {
     "chainId": 1,
@@ -83421,6 +83461,14 @@
     "symbol": "STEAKEURCV",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/52409/thumb/steakEURcv-wrapper.png?1733304439"
+  },
+  {
+    "chainId": 1,
+    "address": "0xbeef088055857739c12cd3765f20b7679def0f51",
+    "name": "Steakhouse USDC",
+    "symbol": "STEAKUSDC",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/71229/thumb/steakusdc.png?1766513116"
   },
   {
     "chainId": 1,
@@ -84848,7 +84896,7 @@
   },
   {
     "chainId": 1,
-    "name": "Tiamonds",
+    "name": "Toto Finance",
     "address": "0xc214a0b73ce4c30594b4173219e885691254801b",
     "decimals": 18,
     "symbol": "TOTO",
@@ -86409,6 +86457,14 @@
     "decimals": 9,
     "symbol": "CATAI",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/30624.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xc60a9145d9e9f1152218e7da6df634b7a74ae444",
+    "name": "cgETH Hashkey Cloud",
+    "symbol": "CGETH.HASHKEY",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54162/thumb/Cgeth_Hashkey.png?1738482570"
   },
   {
     "chainId": 1,
@@ -93168,6 +93224,14 @@
     "decimals": 6,
     "symbol": "QUSD",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3743.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xd687759f35bb747a29246a4b9495c8f52c49e00c",
+    "name": "Aussie Dollar Token",
+    "symbol": "AUDX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/71222/thumb/AUDX_Logo.png?1766480331"
   },
   {
     "chainId": 1,
@@ -100243,11 +100307,11 @@
   },
   {
     "chainId": 1,
-    "address": "0xe820c06321e60d36257c666643fa5436643445e3",
     "name": "USDKG",
-    "symbol": "USDKG",
+    "address": "0xe820c06321e60d36257c666643fa5436643445e3",
     "decimals": 6,
-    "logoURI": "https://assets.coingecko.com/coins/images/71116/thumb/USDKG_400x400.jpg?1765871330"
+    "symbol": "USDKG",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/39163.png"
   },
   {
     "chainId": 1,
@@ -102408,14 +102472,6 @@
     "decimals": 18,
     "symbol": "EGG",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/27037.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xed61d3e74e0dcd2d73dbd46ebb1bb19ba93bc482",
-    "name": "Arbion AI",
-    "symbol": "ARAI",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/56014/thumb/500.png?1748022951"
   },
   {
     "chainId": 1,
@@ -104944,6 +105000,14 @@
     "symbol": "USDX",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/50360/thumb/USDX200px.png?1731906044"
+  },
+  {
+    "chainId": 1,
+    "address": "0xf3557ad5e984211ac8a0874a670344f2c3376471",
+    "name": "Gauntlet USDT PRIME",
+    "symbol": "GTUSDTP",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/71234/thumb/gauntlet.png?1766513241"
   },
   {
     "chainId": 1,
@@ -108144,6 +108208,14 @@
     "symbol": "SPWO.D",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/54394/thumb/d-token-200.png?1739485782"
+  },
+  {
+    "chainId": 1,
+    "name": "Palm USD",
+    "address": "0xfaf0cee6b20e2aaa4b80748a6af4cd89609a3d78",
+    "decimals": 6,
+    "symbol": "PUSD",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/39165.png"
   },
   {
     "chainId": 1,
