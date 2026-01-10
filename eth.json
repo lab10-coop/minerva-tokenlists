@@ -2329,14 +2329,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x048d07bd350ba516b84587e147284881b593eb86",
-    "name": "Synk",
-    "symbol": "SYNK",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/50319/thumb/Main_%281%29.png?1727140152"
-  },
-  {
-    "chainId": 1,
     "name": "Skrumble Network",
     "address": "0x048fe49be32adfc9ed68c37d32b5ec9df17b3603",
     "decimals": 18,
@@ -3934,6 +3926,14 @@
     "decimals": 2,
     "symbol": "DOGEINU",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/37510.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x07fff99e1664d9b116fbc158c0e99785f81ca236",
+    "name": "dTRINITY USD",
+    "symbol": "DUSD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/53290/thumb/dUSD_Logo.png?1735997462"
   },
   {
     "chainId": 1,
@@ -14372,6 +14372,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x1fecf3d9d4fee7f2c02917a66028a48c6706c179",
+    "name": "WisdomTree Treasury Money Market Digital Fund",
+    "symbol": "WTGXX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/71484/thumb/wtgxx_circle_ci.png?1767948288"
+  },
+  {
+    "chainId": 1,
     "name": "VBT",
     "address": "0x1ffe24629f1b3df74fc0f6e5d086f2fd09258ff2",
     "decimals": 18,
@@ -19196,14 +19204,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x2b37127988e4e5e9576b7a533d873c23cfbdb1e9",
-    "name": "Zentium Tech",
-    "symbol": "ZENT",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/67166/thumb/ZENTIUM.jpg?1751970541"
-  },
-  {
-    "chainId": 1,
     "name": "USDFreeLiquidity",
     "address": "0x2b4200a8d373d484993c37d63ee14aee0096cd12",
     "decimals": 18,
@@ -20577,6 +20577,14 @@
     "decimals": 8,
     "symbol": "YFIEC",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7275.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x2e7775964554e0eb6400c00ce342fe06e1000935",
+    "name": "The Official 89 Coin",
+    "symbol": "89",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/71489/thumb/89_logo.png?1767985672"
   },
   {
     "chainId": 1,
@@ -43354,6 +43362,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x6112c3509a8a787df576028450febb3786a2274d",
+    "name": "AxonDAO Governance Token",
+    "symbol": "AXGT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/71492/thumb/AXGT-logo-7.png?1767992057"
+  },
+  {
+    "chainId": 1,
     "name": "Ribbon Finance",
     "address": "0x6123b0049f904d730db3c36a31167d9d4121fa6b",
     "decimals": 18,
@@ -52114,14 +52130,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x73470eda64048ee2646261755a34602af03a4490",
-    "name": "Kolscope",
-    "symbol": "$KSCO",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/67175/thumb/KolScope_no_Bg.png?1751986723"
-  },
-  {
-    "chainId": 1,
     "name": "METANOA",
     "address": "0x73474d0a549e32845f541e030c3d529de6ab8738",
     "decimals": 18,
@@ -56127,6 +56135,14 @@
     "decimals": 18,
     "symbol": "HUKU",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/26321.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x7cb20517776636ed76b68edb3d99dcce356abf02",
+    "name": "dTRINITY Staked dUSD",
+    "symbol": "SDUSD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68063/thumb/sdUSD_Logo.png?1754642699"
   },
   {
     "chainId": 1,
@@ -71321,7 +71337,7 @@
   },
   {
     "chainId": 1,
-    "name": "MAKACHAIN",
+    "name": "MAKA",
     "address": "0x9ff7b37b84c05dfb08b4f50adb17a80a3fefd6ed",
     "decimals": 18,
     "symbol": "MAKA",
@@ -71833,11 +71849,11 @@
   },
   {
     "chainId": 1,
-    "address": "0xa12cc123ba206d4031d1c7f6223d1c2ec249f4f3",
     "name": "Zama",
-    "symbol": "ZAMA",
+    "address": "0xa12cc123ba206d4031d1c7f6223d1c2ec249f4f3",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/70921/thumb/zama.png?1764591992"
+    "symbol": "ZAMA",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/39332.png"
   },
   {
     "chainId": 1,
