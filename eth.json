@@ -3809,14 +3809,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x07c904d8c04323ef9fe6bf13aaeba05b62c54825",
-    "name": "Eeyor",
-    "symbol": "EEYOR",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/31565/thumb/200eeyor.png?1696530378"
-  },
-  {
-    "chainId": 1,
     "name": "HYCON",
     "address": "0x07c9eefd9059381144265600d3cbf4974312861b",
     "decimals": 18,
@@ -17740,6 +17732,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x2798b1cc5a993085e8a9d46e80499f1b63f42204",
+    "name": "ETHGas",
+    "symbol": "GWEI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/71375/thumb/ETHGas_token_logo.jpg?1769015268"
+  },
+  {
+    "chainId": 1,
     "name": "Grok Imagine",
     "address": "0x27ae482f1e10551f11f0743c33d4b0377180d76e",
     "decimals": 2,
@@ -23320,7 +23320,7 @@
     "name": "Frax (prev. FXS)",
     "symbol": "FRAX",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/13423/thumb/frax.png?1745921071"
+    "logoURI": "https://assets.coingecko.com/coins/images/13423/thumb/FRAX_icon.png?1768982703"
   },
   {
     "chainId": 1,
@@ -26281,14 +26281,6 @@
     "decimals": 18,
     "symbol": "CJT",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2715.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x3abe404faa776d2a833d554a068ef1a58193f080",
-    "name": "Kozue",
-    "symbol": "KOZUE",
-    "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/50288/thumb/photo_2024-09-21_01-06-33.jpg?1726884978"
   },
   {
     "chainId": 1,
@@ -30040,14 +30032,6 @@
     "decimals": 9,
     "symbol": "MOGE",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/31833.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x433fce7dfbec729a79999eaf056cb073b2153eba",
-    "name": "CoinWealth",
-    "symbol": "CNW",
-    "decimals": 6,
-    "logoURI": "https://assets.coingecko.com/coins/images/23769/thumb/cw_logo-4955f59a5c8079f246fa07ac71b2541870ca7d906ca1d9c26d74a3870fafef2f_%281%29.png?1696522970"
   },
   {
     "chainId": 1,
@@ -35282,14 +35266,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x4efce4c758ddfb3911a1a1282a29ce0bdb16ef86",
-    "name": "WOW",
-    "symbol": "!",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/33341/thumb/logo_%283%29.png?1701525830"
-  },
-  {
-    "chainId": 1,
     "address": "0x4efd92f372898b57f292de69fce377dd7d912bdd",
     "name": "PayPal (Ondo Tokenized Stock)",
     "symbol": "PYPLON",
@@ -36215,6 +36191,14 @@
     "decimals": 18,
     "symbol": "GXE",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/23442.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x510dd21055188eda378714de3bb5591ffa0cc468",
+    "name": "BitGo Holdings (Ondo Tokenized Stock)",
+    "symbol": "BTGOON",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/71702/thumb/btgoon_160x160.png?1769009385"
   },
   {
     "chainId": 1,
@@ -39090,11 +39074,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x5845684b49aef79a5c0f887f50401c247dca7ac6",
     "name": "Cycle Network",
-    "symbol": "CYC",
+    "address": "0x5845684b49aef79a5c0f887f50401c247dca7ac6",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/66990/thumb/20250731-155008.png?1754017249"
+    "symbol": "CYC",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/36962.png"
   },
   {
     "chainId": 1,
@@ -39903,14 +39887,6 @@
     "symbol": "JAAA",
     "decimals": 6,
     "logoURI": "https://assets.coingecko.com/coins/images/70446/thumb/jaaa.png?1762078666"
-  },
-  {
-    "chainId": 1,
-    "address": "0x5a12975bf0158c9c3b23622f44917d113f31842d",
-    "name": "Komari",
-    "symbol": "KOMA",
-    "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/50520/thumb/photo_2024-10-04_19.17.42_copia.jpeg?1728090916"
   },
   {
     "chainId": 1,
@@ -102856,14 +102832,6 @@
     "decimals": 18,
     "symbol": "HUGE",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/30012.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xec12e2d7acd850fe3953d1dbf860f523914654a7",
-    "name": "Mirada AI",
-    "symbol": "MIRX",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/38150/thumb/ICON.png?1716666147"
   },
   {
     "chainId": 1,
