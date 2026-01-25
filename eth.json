@@ -56334,7 +56334,7 @@
     "name": "GoMining Token",
     "symbol": "GOMINING",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/15662/thumb/GoMining_Logo.png?1714757256"
+    "logoURI": "https://assets.coingecko.com/coins/images/15662/thumb/GoMining_Logo.webp?1769225542"
   },
   {
     "chainId": 1,
@@ -103063,7 +103063,7 @@
     "name": "Generic USD",
     "symbol": "GUSD",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/71672/thumb/Twitter_PP.png?1768855924"
+    "logoURI": "https://assets.coingecko.com/coins/images/71672/thumb/GUSD.png?1769242841"
   },
   {
     "chainId": 1,
@@ -110619,14 +110619,6 @@
   },
   {
     "chainId": 1,
-    "address": "0xfea2e874c0d06031e65ea7e275070e207c2746fd",
-    "name": "Vocalad",
-    "symbol": "VOCL",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/67632/thumb/IMG_0777.jpeg?1753335086"
-  },
-  {
-    "chainId": 1,
     "name": "Echelon",
     "address": "0xfea300256736dc102f63552303a5b0995b15f79e",
     "decimals": 18,
@@ -113560,14 +113552,6 @@
     "name": "PRIMAL",
     "decimals": 18,
     "logoURI": "ipfs://QmaKGpSEL2qGXA17WyzhJas3q4GKutmiQR6HHi7sTKixNG"
-  },
-  {
-    "chainId": 56,
-    "address": "0xcc42724c6683b7e57334c4e856f4c9965ed682bd",
-    "symbol": "MATIC",
-    "name": "Matic",
-    "decimals": 18,
-    "logoURI": "ipfs://QmcMPwSeDvVa1K8hXKPbU4diCwGC3BXYK4dsNtPNMVFHJQ"
   },
   {
     "chainId": 56,
@@ -117459,6 +117443,14 @@
   },
   {
     "chainId": 8453,
+    "address": "0xd4f5fabd1763bbf52bd3b17cd445db6f9f836bd4",
+    "symbol": "ISTAR",
+    "name": "ISTARAI",
+    "decimals": 18,
+    "logoURI": "ipfs://QmRMXxKrAap7HqX8BpGB5PG37D5ntZnDhBRwjrY8k4Ju6U"
+  },
+  {
+    "chainId": 8453,
     "address": "0xd565e9eb9b7e2de4902486b7057d642393afdaa4",
     "symbol": "DOGEBASE",
     "name": "Doge Base",
@@ -118000,6 +117992,14 @@
     "name": "Hegic",
     "decimals": 18,
     "logoURI": "ipfs://QmWE8h884icUvaDh3Vx9HcqQC1B7DJT3LYZ6vHGgx7Bk31"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x46777c76dbbe40fabb2aab99e33ce20058e76c59",
+    "symbol": "L3",
+    "name": "Layer3",
+    "decimals": 18,
+    "logoURI": "ipfs://QmbBZndTzj9We6epYSJGiSg7NaWhdA2uThLgLqtau7wwUe"
   },
   {
     "chainId": 42161,
