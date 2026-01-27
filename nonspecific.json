@@ -4061,6 +4061,18 @@
     }
   },
   {
+    "name": "ISK / Icelandic Krona",
+    "chainId": 8453,
+    "address": "0x1a3237ae46886e416ae25499ec9cd7bf437f25da",
+    "symbol": "ISKe",
+    "decimals": 18,
+    "logoURI": "https://monerium.app/tokens/isk/isk.png",
+    "tags": [
+      "isk",
+      "https://github.com/monerium/smart-contracts/tree/v2.0.0"
+    ]
+  },
+  {
     "chainId": 8453,
     "address": "0x1a589e9c3eee580f87117c513b2c8282926f1883",
     "name": "pay16z",
@@ -4984,6 +4996,18 @@
     ]
   },
   {
+    "name": "EUR / Euro",
+    "chainId": 8453,
+    "address": "0xbf6e2966a9c3d99c9e4d069e04f7bdb9c8aa762c",
+    "symbol": "EURe",
+    "decimals": 18,
+    "logoURI": "https://monerium.app/tokens/eur/eur.png",
+    "tags": [
+      "eur",
+      "https://github.com/monerium/smart-contracts/tree/v2.0.0"
+    ]
+  },
+  {
     "chainId": 8453,
     "address": "0xc0fbc4967259786c743361a5885ef49380473dcf",
     "name": "Aleph.im V2 SuperToken",
@@ -5028,6 +5052,18 @@
         "underlyingTokenAddress": "0x820c137fa70c8691f0e44dc420a5e53c168921dc"
       }
     }
+  },
+  {
+    "name": "GBP / British pound sterling",
+    "chainId": 8453,
+    "address": "0xc4759ed641da77cbdc9fa2f37e9260a29bf7cc52",
+    "symbol": "GBPe",
+    "decimals": 18,
+    "logoURI": "https://monerium.app/tokens/gbp/gbp.png",
+    "tags": [
+      "gbp",
+      "https://github.com/monerium/smart-contracts/tree/v2.0.0"
+    ]
   },
   {
     "chainId": 8453,
