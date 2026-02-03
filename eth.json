@@ -26540,14 +26540,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x3b21418081528845a6df4e970bd2185545b712ba",
-    "name": "Chi Protocol",
-    "symbol": "CHI",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/34067/thumb/Chi-Logo-%28200px%29.png?1717198453"
-  },
-  {
-    "chainId": 1,
     "address": "0x3b27f92c0e212c671ea351827edf93db27cc0c65",
     "name": "USDT yVault",
     "symbol": "YVUSDT",
@@ -39679,14 +39671,6 @@
     "decimals": 18,
     "symbol": "BTTR",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7373.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x594f8a64d01abea062eee634e627b1b085f99ef3",
-    "name": "Nucleus AI",
-    "symbol": "NUAI",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/67655/thumb/IMG_4114.jpeg?1753423762"
   },
   {
     "chainId": 1,
@@ -63170,7 +63154,7 @@
   },
   {
     "chainId": 1,
-    "name": "tBTC",
+    "name": "deprecated-tBTC",
     "address": "0x8daebade922df735c38c80c7ebd708af50815faa",
     "decimals": 18,
     "symbol": "TBTC",
@@ -75537,14 +75521,6 @@
   },
   {
     "chainId": 1,
-    "address": "0xaa509b02b71782645d2b124e3b073c9ae5f971f5",
-    "name": "Trackius.ai",
-    "symbol": "TKUS",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/67073/thumb/coingeckoProfile.jpg?1751643248"
-  },
-  {
-    "chainId": 1,
     "name": "Levi",
     "address": "0xaa59c1793df71f4a689ad41f8e3e94fd4cb4b5c6",
     "decimals": 18,
@@ -79588,7 +79564,7 @@
     "name": "BINOVA",
     "address": "0xb3e38af04f39fb1b5bfa36d3691de9655aad9eaa",
     "decimals": 18,
-    "symbol": "BNB",
+    "symbol": "BINOVA",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/33346.png"
   },
   {
@@ -104291,14 +104267,6 @@
   },
   {
     "chainId": 1,
-    "address": "0xeeea5086ae38df6c1f46f6f56011501d373731ab",
-    "name": "Zenk AI",
-    "symbol": "ZNK",
-    "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/67242/thumb/icon_resized.jpg?1752161649"
-  },
-  {
-    "chainId": 1,
     "name": "Kermit",
     "address": "0xeeec62cd2e5f4554ffe91b50b11eb72e7deb6d76",
     "decimals": 9,
@@ -118984,6 +118952,14 @@
     "name": "Rocket Pool ETH",
     "decimals": 18,
     "logoURI": "ipfs://QmRqLBdZaA2oSr7yWVmwdSyj5HwixHMWRpyKw8QyAQTgRz"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xee0a242f28034fce0bdfac33c0ad2a58ec35fd38",
+    "symbol": "ROSA",
+    "name": "Rosa Inu",
+    "decimals": 18,
+    "logoURI": "ipfs://QmdqZBsMAXAhY1PT8u6H1SVjzvvjfadhMgYtj5kEDzkjYm"
   },
   {
     "chainId": 42161,

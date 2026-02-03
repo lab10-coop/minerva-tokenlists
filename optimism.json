@@ -1046,6 +1046,19 @@
   },
   {
     "chainId": 1,
+    "address": "0x2f905eb214cde58b3462e1baff7dab64b0bc6471",
+    "name": "Rainbow",
+    "symbol": "RNBW",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/RNBW/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "opListId": "extended",
+      "opTokenId": "RNBW"
+    }
+  },
+  {
+    "chainId": 1,
     "address": "0x320623b8e4ff03373931769a31fc52a4e78b5d70",
     "name": "Reserve Rights",
     "symbol": "RSR",
@@ -11647,6 +11660,19 @@
       "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
       "opListId": "extended",
       "opTokenId": "YFI"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0xa53887f7e7c1bf5010b8627f1c1ba94fe7a5d6e0",
+    "name": "Rainbow",
+    "symbol": "RNBW",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/RNBW/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "RNBW"
     }
   },
   {
