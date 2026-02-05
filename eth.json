@@ -1905,11 +1905,11 @@
   },
   {
     "chainId": 1,
-    "name": "LCX",
     "address": "0x037a54aab062628c9bbae1fdb1583c195585fe41",
-    "decimals": 18,
+    "name": "LCX",
     "symbol": "LCX",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/4950.png"
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/9985/thumb/zRPSu_0o_400x400.jpg?1696510023"
   },
   {
     "chainId": 1,
@@ -13873,6 +13873,14 @@
     "decimals": 18,
     "symbol": "GCPH",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/5163.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x1ec8eaa3f68261e793c48486b12092336a03c479",
+    "name": "Auto Finance",
+    "symbol": "AUTO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102171871/thumb/AUTO_200_200.png?1770181023"
   },
   {
     "chainId": 1,
@@ -29481,14 +29489,6 @@
     "symbol": "DOGEN",
     "decimals": 9,
     "logoURI": "https://assets.coingecko.com/coins/images/67607/thumb/modified_dogen_dome.jpg?1757314421"
-  },
-  {
-    "chainId": 1,
-    "address": "0x4208aa4d7a9a10f4f8bb7f6400c1b2161d946969",
-    "name": "DongCoin",
-    "symbol": "DONG",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/31499/thumb/DONG_LOGO.png?1696530310"
   },
   {
     "chainId": 1,
@@ -61810,6 +61810,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x8a90058b22e4411b44c67e0795ca4bcb2c6b2f21",
+    "name": "Alpha EUR0",
+    "symbol": "EUR0A",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102171884/thumb/eur0a_200.png?1770218967"
+  },
+  {
+    "chainId": 1,
     "name": "Rizz Token",
     "address": "0x8a944bb731e302fdb3571350513f149f15fcbe34",
     "decimals": 18,
@@ -62858,6 +62866,14 @@
   },
   {
     "chainId": 1,
+    "name": "LCX",
+    "address": "0x8cd41041505885ef0ad3858181d66f17be8aae7e",
+    "decimals": 18,
+    "symbol": "LCX",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/4950.png"
+  },
+  {
+    "chainId": 1,
     "name": "Swiftlance",
     "address": "0x8cd480260a47f04589670a313d27a15b321ad266",
     "decimals": 8,
@@ -63170,7 +63186,7 @@
   },
   {
     "chainId": 1,
-    "name": "deprecated-tBTC",
+    "name": "tBTC",
     "address": "0x8daebade922df735c38c80c7ebd708af50815faa",
     "decimals": 18,
     "symbol": "TBTC",
@@ -74350,14 +74366,6 @@
     "symbol": "QQQX",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/66696/thumb/QQQx.png?1750266952"
-  },
-  {
-    "chainId": 1,
-    "address": "0xa75e7928d3de682e3f44da60c26f33117c4e6c5c",
-    "name": "Propel",
-    "symbol": "PEL",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/21290/thumb/img_circle_1.png?1696520660"
   },
   {
     "chainId": 1,
@@ -91195,6 +91203,14 @@
   },
   {
     "chainId": 1,
+    "name": "Zyranor",
+    "address": "0xcf7e3eb3d6e451310903729298ab370e20a06089",
+    "decimals": 18,
+    "symbol": "ZYR",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/24358.png"
+  },
+  {
+    "chainId": 1,
     "name": "Global Gaming",
     "address": "0xcf81e6fdb8d7a743c3d4c3542a5356ff197ea1c0",
     "decimals": 8,
@@ -98320,14 +98336,6 @@
     "decimals": 18,
     "symbol": "UCOIN",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/33726.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xe0797ec1d0bb0bec541a82c5262c3b0f93f68bfe",
-    "name": "Joker",
-    "symbol": "JOKER",
-    "decimals": 15,
-    "logoURI": "https://assets.coingecko.com/coins/images/39154/thumb/photo_2024-07-10_10-21-01.jpg?1720774237"
   },
   {
     "chainId": 1,
@@ -116856,6 +116864,14 @@
     "name": "metafault",
     "decimals": 18,
     "logoURI": "ipfs://QmXVuKJaWSAecLqDPgdUHumSH48DeYJKdyLnE9zYoLNpbq"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x587cd533f418825521f3a1daa7ccd1e7339a1b07",
+    "symbol": "STARKBOT",
+    "name": "StarkBot",
+    "decimals": 18,
+    "logoURI": "ipfs://QmcFwRyFCUyktkdwptKbWSQYmkuTyZeY37mYmMA22AcQrj"
   },
   {
     "chainId": 8453,
