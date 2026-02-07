@@ -153,14 +153,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x000000096cb3d4007fc2b79b935c4540c5c2d745",
-    "name": "Jigsaw USD",
-    "symbol": "JUSD",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/55405/thumb/Group_48095621.png?1745834144"
-  },
-  {
-    "chainId": 1,
     "name": "delta.theta",
     "address": "0x0000000de40dfa9b17854cbc7869d80f9f98d823",
     "decimals": 18,
@@ -1906,10 +1898,10 @@
   {
     "chainId": 1,
     "address": "0x037a54aab062628c9bbae1fdb1583c195585fe41",
-    "name": "LCX",
     "symbol": "LCX",
+    "name": "LCX",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/9985/thumb/zRPSu_0o_400x400.jpg?1696510023"
+    "logoURI": "ipfs://QmQUKTYwwp6woMuyRnqFSgg3jhyTaVKVxJAyfdNKn6Gix3"
   },
   {
     "chainId": 1,
@@ -27729,6 +27721,14 @@
     "symbol": "BENJI",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/66409/thumb/Benji_Logo.png?1749371083"
+  },
+  {
+    "chainId": 1,
+    "name": "REAT CAPITAL",
+    "address": "0x3ddcc9e3252fdc7a5ec50cd2417e9410d673561a",
+    "decimals": 18,
+    "symbol": "REAT",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/39550.png"
   },
   {
     "chainId": 1,
@@ -65946,6 +65946,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x9477724bb54ad5417de8baff29e59df3fb4da74f",
+    "name": "Anemoy Tokenized Apollo Diversified Credit Fund",
+    "symbol": "ACRDX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70454/thumb/acdrx.png?1762081579"
+  },
+  {
+    "chainId": 1,
     "name": "FME",
     "address": "0x947938339bf61c84669e303bc39c794d65a525d0",
     "decimals": 18,
@@ -86196,6 +86204,14 @@
   },
   {
     "chainId": 1,
+    "address": "0xc2fda18d62c8688902741da1e3c5be65c86bab07",
+    "name": "TeamPL Token",
+    "symbol": "TMPL",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102171914/thumb/TMPL.png?1770392553"
+  },
+  {
+    "chainId": 1,
     "name": "Electric Arena",
     "address": "0xc30590a879c7dd78bcd9a18e48de446a3c7c98b8",
     "decimals": 18,
@@ -90192,14 +90208,6 @@
     "name": "Bitriver",
     "decimals": 4,
     "logoURI": "ipfs://QmZo3hGpJwDX4x3LQXbBPViVzFJGd4DbPDNdm1n3vsiyAB"
-  },
-  {
-    "chainId": 1,
-    "address": "0xccebc855b4ddb8b90dbbe2a9b89506aa306b17f4",
-    "name": "HYPE",
-    "symbol": "HYPE",
-    "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/56001/thumb/IMG_9924.jpeg?1747993188"
   },
   {
     "chainId": 1,
@@ -114904,6 +114912,14 @@
     "name": "OPEX",
     "decimals": 6,
     "logoURI": "ipfs://QmbrZ4tFVzuXZzfenUXPHNpkvUNuBnvW38TbUM3HY4U3L7"
+  },
+  {
+    "chainId": 137,
+    "address": "0xa5f5d53cb5077831528d735bf1590c472197c4df",
+    "symbol": "PICKS",
+    "name": "Poly Picks AI",
+    "decimals": 18,
+    "logoURI": "ipfs://QmV62iZLNENUU5avZMwchCkxdGCrgLzUfGU2S1D3LCGk7F"
   },
   {
     "chainId": 137,
