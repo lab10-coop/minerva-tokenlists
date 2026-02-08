@@ -74,6 +74,7 @@
     "extensions": {
       "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1",
       "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+      "celoBridgeAddress": "0x9C4955b92F34148dbcfDCD82e9c9eCe5CF2badfe",
       "opListId": "extended",
       "opTokenId": "OLAS"
     }
@@ -13685,6 +13686,19 @@
     "extensions": {
       "opListId": "default",
       "opTokenId": "WETH"
+    }
+  },
+  {
+    "chainId": 42220,
+    "address": "0xd80533ca29ff6f033a0b55732ed792af9fbb381e",
+    "name": "Autonolas",
+    "symbol": "OLAS",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/OLAS/logo.svg",
+    "extensions": {
+      "celoBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "OLAS"
     }
   },
   {
