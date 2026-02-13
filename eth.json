@@ -6425,6 +6425,14 @@
   },
   {
     "chainId": 1,
+    "name": "Shido Network",
+    "address": "0x0e173bfd28ef21bc460718bcd9b610b7fcd7f041",
+    "decimals": 18,
+    "symbol": "SHIDO",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/34836.png"
+  },
+  {
+    "chainId": 1,
     "name": "Curio Gas Token",
     "address": "0x0e186357c323c806c1efdad36d217f7a54b63d18",
     "decimals": 18,
@@ -22521,6 +22529,14 @@
     "decimals": 18,
     "symbol": "NEURAL",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/30528.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x32b4d049fe4c888d2b92eecaf729f44df6b1f36e",
+    "name": "ROBO Token",
+    "symbol": "ROBO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102172005/thumb/ROBO.png?1770925648"
   },
   {
     "chainId": 1,
@@ -53466,11 +53482,11 @@
   },
   {
     "chainId": 1,
+    "name": "BlackRock USD Institutional Digital Liqu",
     "address": "0x7712c34205737192402172409a8f7ccef8aa2aec",
-    "name": "BlackRock USD Institutional Digital Liquidity Fund",
-    "symbol": "BUIDL",
     "decimals": 6,
-    "logoURI": "https://assets.coingecko.com/coins/images/36291/thumb/blackrock.png?1711013223"
+    "symbol": "BUIDL",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/39572.png"
   },
   {
     "chainId": 1,
@@ -54095,14 +54111,6 @@
     "symbol": "ACORE",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/68319/thumb/acore_ai_200x200.png?1755332378"
-  },
-  {
-    "chainId": 1,
-    "address": "0x784f4004cffdf43d13e490f81bcbd762b60d0e21",
-    "name": "Axoria",
-    "symbol": "AX",
-    "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/54738/thumb/round_x200.png?1741276092"
   },
   {
     "chainId": 1,
@@ -62999,14 +63007,6 @@
     "decimals": 18,
     "symbol": "MXS",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/14505.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x8d96b4ab6c741a4c8679ae323a100d74f085ba8f",
-    "name": "Bazaars",
-    "symbol": "BZR",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/26392/thumb/bazaars_logo-color-black-icon.png?1696525469"
   },
   {
     "chainId": 1,
@@ -72254,6 +72254,14 @@
     "decimals": 18,
     "symbol": "KISHU",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/9386.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xa2b58640b13b39bf67b94d710205d8f683d46a7f",
+    "name": "DilemmAI",
+    "symbol": "DILEM",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102171996/thumb/DILEM_TOKEN_ICON_%281%29.png?1770872804"
   },
   {
     "chainId": 1,
@@ -81644,7 +81652,7 @@
     "name": "aarna atvPTmax",
     "symbol": "ATVPTMAX",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/70963/thumb/atvPTmax_pendle.png?1765613601"
+    "logoURI": "https://assets.coingecko.com/coins/images/70963/thumb/atvPTmax_pendle_coin_gecko.png?1770870945"
   },
   {
     "chainId": 1,
@@ -92168,14 +92176,6 @@
     "decimals": 9,
     "symbol": "TB",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/24411.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xd22a61e8503bea5842e5e0126ca9ffc4dd492084",
-    "name": "Strawberry Elephant",
-    "symbol": "صباحالفر",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/31819/thumb/photo_2023-09-15_23-44-10.jpg?1696530633"
   },
   {
     "chainId": 1,
@@ -105395,14 +105395,6 @@
   },
   {
     "chainId": 1,
-    "address": "0xf222b0e892f419c35e61892cddf0a8ec190c4b9d",
-    "name": "RandomDEX",
-    "symbol": "RDX",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/52766/thumb/Icon_removed_BG.png?1734268221"
-  },
-  {
-    "chainId": 1,
     "name": "Fast Access Blockchain",
     "address": "0xf2260ed15c59c9437848afed04645044a8d5e270",
     "decimals": 18,
@@ -111035,14 +111027,6 @@
   },
   {
     "chainId": 1,
-    "address": "0xff9c1f21c621696c4f91cf781ec31bd913ee2c26",
-    "name": ".com (Ordinals)",
-    "symbol": ".COM",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/33700/thumb/com200.jpg?1702823408"
-  },
-  {
-    "chainId": 1,
     "name": "Yield Guild Games SEA",
     "address": "0xff9fea2666ac0b074a1a53579ff95add4df0601a",
     "decimals": 18,
@@ -114291,6 +114275,14 @@
   },
   {
     "chainId": 137,
+    "address": "0x36deeb841c30dc76bdea0a81b641731d3d348ddc",
+    "symbol": "FNST",
+    "name": "Finsteco",
+    "decimals": 18,
+    "logoURI": "ipfs://QmeQLnMirpyMS2L3rLGQGqJP9TKaPgknXRYMqgBd5fL4xu"
+  },
+  {
+    "chainId": 137,
     "address": "0x385eeac5cb85a38a9a07a70c73e0a3271cfb54a7",
     "symbol": "GHST",
     "name": "Aavegotchi",
@@ -114320,6 +114312,14 @@
     "name": "Nexo",
     "decimals": 18,
     "logoURI": "ipfs://QmeQcA5VJM1ZoPUcEDtzeQ9Y8Qj4gHEbjEjk2e59x8vD3j"
+  },
+  {
+    "chainId": 137,
+    "address": "0x44acd96620b708162af4a90524f29a6839675533",
+    "symbol": "TCGC",
+    "name": "TCGCoin",
+    "decimals": 18,
+    "logoURI": "ipfs://QmdpLo11SNTcudjLw4hcUP6R4AQnduxSyWjy99wC37g7R1"
   },
   {
     "chainId": 137,
