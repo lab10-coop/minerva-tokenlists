@@ -9273,11 +9273,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x14913815bcfde78baead2111f463d038ac9c2949",
     "name": "eUSD",
-    "symbol": "EUSD",
+    "address": "0x14913815bcfde78baead2111f463d038ac9c2949",
     "decimals": 6,
-    "logoURI": "https://assets.coingecko.com/coins/images/71602/thumb/eUSD.png?1768507474"
+    "symbol": "EUSD",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/39558.png"
   },
   {
     "chainId": 1,
@@ -14809,14 +14809,6 @@
     "decimals": 18,
     "symbol": "MOONEY",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/17569.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x20d60c6eb195868d4643f2c9b0809e4de6cc003d",
-    "name": "PlayNity",
-    "symbol": "PLY",
-    "decimals": 6,
-    "logoURI": "https://assets.coingecko.com/coins/images/21479/thumb/ply.png?1696520840"
   },
   {
     "chainId": 1,
@@ -35851,7 +35843,7 @@
   {
     "chainId": 1,
     "address": "0x5026f006b85729a8b14553fae6af249ad16c9aab",
-    "name": "Wojak",
+    "name": "Wojak Coin",
     "symbol": "WOJAK",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/29856/thumb/wojak.png?1696528782"
@@ -63170,6 +63162,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x8de39b057cc6522230ab19c0205080a8663331ef",
+    "name": "wojak",
+    "symbol": "WOJAK",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102172016/thumb/usz-J1DohLTr0BHrWVa5zpZ-JocyeixXhmlZT3ytjdOM9cn0aYq6PT8CeUjnGEKAkZSuNa8BW2KkSsCQvYFQe8A-bvqs_AibzILyjP8sIBtqPZu3gTFjLLCvB6WjlzXIrRrnd_Hlg-fKWlf9byXwsQBZqvJ_lC8OHuz351DVfntD30avGrTc3msIIsZzobmywtrwuesT.jpg?1770967858"
+  },
+  {
+    "chainId": 1,
     "name": "Vanar Chain",
     "address": "0x8de5b80a0c1b02fe4976851d030b36122dbb8624",
     "decimals": 18,
@@ -73897,14 +73897,6 @@
   },
   {
     "chainId": 1,
-    "address": "0xa684eaf215ad323452e2b2bf6f817d4aa5c116ab",
-    "name": "Loop ETH",
-    "symbol": "LPETH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/50842/thumb/lpETH_Copy.png?1729295905"
-  },
-  {
-    "chainId": 1,
     "address": "0xa685a61171bb30d4072b338c80cb7b2c865c873e",
     "name": "Aave MANA",
     "symbol": "AMANA",
@@ -84085,14 +84077,6 @@
     "symbol": "STEAKPYUSD",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/71232/thumb/steakhouse.png?1766513207"
-  },
-  {
-    "chainId": 1,
-    "address": "0xbeef01060047522408756e0000a90ce195a70000",
-    "name": "Aperture Finance",
-    "symbol": "APTR",
-    "decimals": 6,
-    "logoURI": "https://assets.coingecko.com/coins/images/37940/thumb/icon_white.png?1715967425"
   },
   {
     "chainId": 1,
@@ -100424,14 +100408,6 @@
     "decimals": 18,
     "symbol": "OPS",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/26881.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xe657d49abae3ea21618bb481f1dab4322855f60e",
-    "name": "Rainbow",
-    "symbol": "RAINBOW",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/39472/thumb/1000013027.jpg?1722401776"
   },
   {
     "chainId": 1,
