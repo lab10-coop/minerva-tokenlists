@@ -7241,14 +7241,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x0fb1f1ef7eafc3d05b5fe4a0f1cd6a6852a8b6ed",
-    "name": "PEPETO",
-    "symbol": "PEPETO",
-    "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/69337/thumb/logo.png?1758225793"
-  },
-  {
-    "chainId": 1,
     "name": "Jinni AI",
     "address": "0x0fbf91a2282adaac4ccf0969b052b825fd3009c9",
     "decimals": 18,
@@ -13844,14 +13836,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x1eba268081ce1b673b39b39ca423cb8e7cb8e6d1",
-    "name": "UNIDATA",
-    "symbol": "UNIDATA",
-    "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/54116/thumb/unidata_200x200.png?1760031463"
-  },
-  {
-    "chainId": 1,
     "name": "Deploying More Capital",
     "address": "0x1ec184ec2db325140b041f9214f98a537f80e1a7",
     "decimals": 9,
@@ -17393,14 +17377,6 @@
     "decimals": 8,
     "symbol": "CROWD",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3676.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x26c75c7d815efe6bf5a6decd17d20d1fdad96a08",
-    "name": "OctopusWallet",
-    "symbol": "OCW",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/36095/thumb/200x200.png?1710481847"
   },
   {
     "chainId": 1,
@@ -28214,7 +28190,7 @@
     "chainId": 1,
     "name": "QCAD",
     "address": "0x3fa142dd3f384414e05e71ad0939274edc82ec0a",
-    "decimals": 6,
+    "decimals": 18,
     "symbol": "QCAD",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/25252.png"
   },
@@ -66474,14 +66450,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x9614bfb1dde843f379a86a0e7efd1eb9a4300962",
-    "name": "Wall Street Shiba",
-    "symbol": "STIBA",
-    "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/69068/thumb/logo.png?1757422401"
-  },
-  {
-    "chainId": 1,
     "address": "0x961c8c0b1aad0c0b10a51fef6a867e3091bcef17",
     "name": "Dypius [OLD]",
     "symbol": "DYP",
@@ -78241,14 +78209,6 @@
   },
   {
     "chainId": 1,
-    "address": "0xb1c491f833b6ddb7a67b1dbad37d58715439de07",
-    "name": "San Chan",
-    "symbol": "SANCHAN",
-    "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/69093/thumb/_logo_%282%29.png?1757482154"
-  },
-  {
-    "chainId": 1,
     "name": "Ariadne",
     "address": "0xb1c9bc94acd2fae6aabf4ffae4429b93512a81d2",
     "decimals": 18,
@@ -87081,6 +87041,14 @@
     "decimals": 18,
     "symbol": "BMT",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/5928.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xc6366bf812d357182e48debad9faf3b00fe8e67f",
+    "name": "Sagas Of Destiny",
+    "symbol": "SAGE",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/35584/thumb/sage.jpeg?1709202979"
   },
   {
     "chainId": 1,
@@ -107451,14 +107419,6 @@
   },
   {
     "chainId": 1,
-    "address": "0xf75302720787c2a2176c87b1919059c4eaac8b98",
-    "name": "CFGI",
-    "symbol": "CFGI",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/53311/thumb/avatar.png?1736067990"
-  },
-  {
-    "chainId": 1,
     "name": "ACAB Token",
     "address": "0xf754620784e797f3681f9f295b2528455d2fc0d0",
     "decimals": 9,
@@ -109544,6 +109504,14 @@
     "symbol": "YCRV",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/27622/thumb/yearncrvnew_32.png?1696526653"
+  },
+  {
+    "chainId": 1,
+    "name": "Kimchi Coin",
+    "address": "0xfccd6fbca272b4cc11069402f4123b070b7838f9",
+    "decimals": 9,
+    "symbol": "KIMCHI",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/39610.png"
   },
   {
     "chainId": 1,
@@ -113992,6 +113960,14 @@
     "name": "TrueUSD",
     "decimals": 18,
     "logoURI": "ipfs://QmdcuKBFVn8KEoN6QW7mmGgd38dtF4aL6qTGTqMiDeQfRz"
+  },
+  {
+    "chainId": 137,
+    "address": "0x3558887f15b5b0074dc4167761de14a6dfcb676e",
+    "symbol": "NETVR",
+    "name": "NetVRk v2",
+    "decimals": 18,
+    "logoURI": "ipfs://QmfPHjYRpY8J1B7q5BaX3UpahgcrtfcTNUX57R1C7SrjGJ"
   },
   {
     "chainId": 137,
