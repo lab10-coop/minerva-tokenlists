@@ -5161,11 +5161,11 @@
   },
   {
     "chainId": 1,
-    "name": "BankSocial",
     "address": "0x0af55d5ff28a3269d69b98680fd034f115dd53ac",
-    "decimals": 18,
+    "name": "BankSocial",
     "symbol": "BSL",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/10102.png"
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/15738/thumb/banksocial_small.png?1696515363"
   },
   {
     "chainId": 1,
@@ -6870,14 +6870,6 @@
     "decimals": 18,
     "symbol": "CCT",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/4408.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x0f0bbaf936f7ada2aca5b80bed7b655758d66950",
-    "name": "WIFPEPEMOGINU",
-    "symbol": "WIFPEPEMOG",
-    "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/35686/thumb/200x200.jpg?1709531939"
   },
   {
     "chainId": 1,
@@ -41546,11 +41538,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x5dd1a7a369e8273371d2dbf9d83356057088082c",
     "name": "Flying Tulip",
-    "symbol": "FT",
+    "address": "0x5dd1a7a369e8273371d2dbf9d83356057088082c",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/68285/thumb/FlyingTulip_FT_200px.png?1759802398"
+    "symbol": "FT",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/38544.png"
   },
   {
     "chainId": 1,
@@ -53578,6 +53570,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x775acf0fae2b97789ea58e775789925ade06b867",
+    "name": "wQIE",
+    "symbol": "WQIE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102172173/thumb/IMG_5171.jpeg?1772007566"
+  },
+  {
+    "chainId": 1,
     "address": "0x775f661b0bd1739349b9a2a3ef60be277c5d2d29",
     "name": "Wrapped Aave Ethereum Lido wstETH",
     "symbol": "WAETHLIDOWSTETH",
@@ -55103,14 +55103,6 @@
     "symbol": "$MARU",
     "decimals": 9,
     "logoURI": "https://assets.coingecko.com/coins/images/52530/thumb/2024-11-19_02.51.33.jpg?1733568194"
-  },
-  {
-    "chainId": 1,
-    "address": "0x7b0df1cd724ec34ec9bc4bd19749b01afb490761",
-    "name": "Kittekoin",
-    "symbol": "KOIN",
-    "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/39827/thumb/logo_200x200.png?1724205419"
   },
   {
     "chainId": 1,
@@ -62004,7 +61996,7 @@
     "chainId": 1,
     "name": "ROGER",
     "address": "0x8b85cddacfbd66b390bf3b43ff4bd7f9afa05dd4",
-    "decimals": 9,
+    "decimals": 18,
     "symbol": "ROGER",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/33490.png"
   },
@@ -82248,14 +82240,6 @@
   },
   {
     "chainId": 1,
-    "address": "0xbb820cdc399d93b614023cae612f85eaa0db944f",
-    "name": "Yapp Ai",
-    "symbol": "YAPP",
-    "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/68190/thumb/IMG_8184.PNG?1755027354"
-  },
-  {
-    "chainId": 1,
     "name": "Mami",
     "address": "0xbb85cfdb20c141ba0ca8b9d1c76cbe945ab5e422",
     "decimals": 9,
@@ -90816,6 +90800,14 @@
     "symbol": "THUSD",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/32274/thumb/thusd.png?1697180081"
+  },
+  {
+    "chainId": 1,
+    "name": "Mac mini",
+    "address": "0xcfc774af92eac7e260e8081c24429e6dbf6c4598",
+    "decimals": 2,
+    "symbol": "MACMINI",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/39627.png"
   },
   {
     "chainId": 1,
@@ -109451,6 +109443,14 @@
   },
   {
     "chainId": 1,
+    "address": "0xfc9d98cdb3529f32cd7fb02d175547641e145b29",
+    "name": "WORM",
+    "symbol": "WORM",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102172178/thumb/89UtRSkL_400x400.jpg?1772050704"
+  },
+  {
+    "chainId": 1,
     "name": "IXT",
     "address": "0xfca47962d45adfdfd1ab2d972315db4ce7ccf094",
     "decimals": 8,
@@ -117176,6 +117176,14 @@
     "name": "Slesh",
     "decimals": 18,
     "logoURI": "ipfs://QmXRqJN9woZZieinXskbNqSXiLMP4M5q5uF51WHHiSXEgY"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xd624c43520d0bc4d91c20b5a808625eda831fb07",
+    "symbol": "LinkClaws",
+    "name": "LinkClaws",
+    "decimals": 18,
+    "logoURI": "ipfs://QmYvUmCCe4dGgqihjnFRozu5DeXo9NdY253RstYHov2osX"
   },
   {
     "chainId": 8453,
