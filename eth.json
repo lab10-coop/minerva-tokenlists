@@ -225,6 +225,14 @@
   },
   {
     "chainId": 1,
+    "name": "Unitas",
+    "address": "0x00007ac313f4f4c1ad809e8a4ca42bc613aa0000",
+    "decimals": 18,
+    "symbol": "UP",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/39665.png"
+  },
+  {
+    "chainId": 1,
     "address": "0x0000852600ceb001e08e00bc008be620d60031f2",
     "symbol": "THKD",
     "name": "TrueHKD",
@@ -8185,14 +8193,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x122303734c898e9d233affc234271f04e42e77ad",
-    "name": "Maxwell the spinning cat",
-    "symbol": "CAT",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/35859/thumb/maxwell-cg.png?1709896910"
-  },
-  {
-    "chainId": 1,
     "name": "Grow",
     "address": "0x1223334444a7466fbf985b14e1f4edaf3883bca6",
     "decimals": 18,
@@ -9385,11 +9385,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x14dab79fd7b7b3f748d434812fd6a9aac460ea52",
     "name": "Kinesis Gold",
-    "symbol": "KAU",
+    "address": "0x14dab79fd7b7b3f748d434812fd6a9aac460ea52",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/29788/thumb/kau-currency-ticker.png?1696528718"
+    "symbol": "KAU",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/24382.png"
   },
   {
     "chainId": 1,
@@ -15718,7 +15718,7 @@
   {
     "chainId": 1,
     "name": "YELLOW",
-    "address": "0x236eb848c95b431299b4aa9f56c73d6893462720",
+    "address": "0x236eb848c95b231299b4aa9f56c73d6893462720",
     "decimals": 18,
     "symbol": "YELLOW",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/39592.png"
@@ -22549,11 +22549,11 @@
   },
   {
     "chainId": 1,
-    "name": "Akita Inu",
     "address": "0x3301ee63fb29f863f2333bd4466acb46cd8323e6",
-    "decimals": 18,
+    "name": "Akita Inu [OLD]",
     "symbol": "AKITA",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/8378.png"
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/14115/thumb/akita.png?1696513836"
   },
   {
     "chainId": 1,
@@ -25138,6 +25138,14 @@
     "decimals": 18,
     "symbol": "DAPPT",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/4176.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x386e0983d0e05f5239fd029793ef3ba37b468e9c",
+    "name": "YieldFi yHLP",
+    "symbol": "YHLP",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102172349/thumb/yHLP.png?1773039499"
   },
   {
     "chainId": 1,
@@ -39893,14 +39901,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x5a93cf1fa07566f7e505640923413ebfb9fc20d1",
-    "name": "Justice for Iryna",
-    "symbol": "IRYNA",
-    "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/69059/thumb/logo_iryna.png?1757392492"
-  },
-  {
-    "chainId": 1,
     "name": "aPriori",
     "address": "0x5a9610919f5e81183823a2be4bd1beb2b4da2a20",
     "decimals": 18,
@@ -43850,6 +43850,14 @@
     "decimals": 18,
     "symbol": "LOYALTY",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/26246.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x633821b8e003344e5223509277f2084ea809a452",
+    "name": "Junior DOLA",
+    "symbol": "JRDOLA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102172347/thumb/jrDOLA.webp?1773039024"
   },
   {
     "chainId": 1,
@@ -66693,14 +66701,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x9749ac257e5c7ee59a87cd1a2e93fdb9678a64e6",
-    "name": "Retard Coin",
-    "symbol": "RETARD",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/37744/thumb/tardcoin.png.jpg?1715369548"
-  },
-  {
-    "chainId": 1,
     "name": "3X Long Ethereum Classic Token",
     "address": "0x974c98bc2e82fa18de92b7e697a1d9bd25682e80",
     "decimals": 18,
@@ -70439,7 +70439,7 @@
     "chainId": 1,
     "name": "TEXITcoin",
     "address": "0x9fc65df3997073b8551ffd617154b5102facbb88",
-    "decimals": 8,
+    "decimals": 18,
     "symbol": "TXC",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/32744.png"
   },
@@ -81833,14 +81833,6 @@
     "decimals": 18,
     "symbol": "ALCA",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/23885.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xbb63a9b64a80e9338b8ea298c51765e57c4f159c",
-    "name": "Picasso",
-    "symbol": "PICA",
-    "decimals": 12,
-    "logoURI": "https://assets.coingecko.com/coins/images/28286/thumb/PICA.png?1696527286"
   },
   {
     "chainId": 1,
@@ -94328,6 +94320,14 @@
   },
   {
     "chainId": 1,
+    "name": "Fluent",
+    "address": "0xd8a271974e8edae9d7b58e3370dc1669427503f4",
+    "decimals": 18,
+    "symbol": "BLEND",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/39666.png"
+  },
+  {
+    "chainId": 1,
     "name": "AfroDex Labs Token",
     "address": "0xd8a8843b0a5aba6b030e92b3f4d669fad8a5be50",
     "decimals": 4,
@@ -96944,6 +96944,14 @@
   },
   {
     "chainId": 1,
+    "name": "CrypWorld",
+    "address": "0xdf1991ae3fe031c81e359d536e96b0ab49c05cd2",
+    "decimals": 18,
+    "symbol": "CWC",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/22728.png"
+  },
+  {
+    "chainId": 1,
     "name": "Dwagon",
     "address": "0xdf1a2f85f3af80e85d14ddaab2933c8caa09294a",
     "decimals": 18,
@@ -98685,6 +98693,14 @@
     "decimals": 18,
     "symbol": "NBOT",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/27635.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xe3872dd4eba50598c54b2aa21b04c71fc37b000b",
+    "name": "Nexira DAEP",
+    "symbol": "NEXI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102172360/thumb/200x200.png?1773095430"
   },
   {
     "chainId": 1,
@@ -107117,6 +107133,14 @@
     "decimals": 18,
     "symbol": "$FTC",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/26898.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xf7d85ec4e7710f71992752eac2111312e73e9c9c",
+    "name": "Flying Tulip USD",
+    "symbol": "FTUSD",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/102172348/thumb/flyingtulip_ftusd_200.png?1773039176"
   },
   {
     "chainId": 1,
