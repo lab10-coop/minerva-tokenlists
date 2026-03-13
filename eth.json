@@ -473,14 +473,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x005f893ecd7bf9667195642f7649da8163e23658",
-    "name": "Degen ETH Staked ETH",
-    "symbol": "DGNETH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/40042/thumb/QQ0yaspA_400x400.jpg?1725392919"
-  },
-  {
-    "chainId": 1,
     "name": "Lirasis TRY",
     "address": "0x005f977f633d1c23748294671b0e69f3512e6702",
     "decimals": 2,
@@ -5182,6 +5174,14 @@
     "decimals": 18,
     "symbol": "SAUDIRAPTOR",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/27371.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x0b06d62b182abb7782d92a20f9f6ea0a4f59b0ae",
+    "name": "Hyperbridge",
+    "symbol": "BRIDGE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/53475/thumb/Sign_black.png?1736482584"
   },
   {
     "chainId": 1,
@@ -12525,6 +12525,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x1bc1453e21b28ff68e189d9e2035865ce02b4cb2",
+    "name": "Royal Gold",
+    "symbol": "RXAU",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102172399/thumb/RXAU_logo_200x200.png?1773316092"
+  },
+  {
+    "chainId": 1,
     "name": "Rasputin Online Coin",
     "address": "0x1bcbc54166f6ba149934870b60506199b6c9db6d",
     "decimals": 10,
@@ -14754,14 +14762,6 @@
     "decimals": 18,
     "symbol": "FOOX",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28733.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x210028b5a1e9effb93ce31006a18629f31131093",
-    "name": "BLK2100",
-    "symbol": "$BLK",
-    "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/51417/thumb/TokenImage12_-_Copy.png?1731611883"
   },
   {
     "chainId": 1,
@@ -20802,14 +20802,6 @@
     "decimals": 18,
     "symbol": "ETHBEAR",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/5216.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x2f5fa8adf5f09a5f9de05b65fe82a404913f02c4",
-    "name": "TROLL 2.0",
-    "symbol": "TROLL2.0",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/34605/thumb/Troll_2.o.jpg?1705492471"
   },
   {
     "chainId": 1,
@@ -27725,6 +27717,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x3ed0b3c4c0168a560d34e361b8130dcca4677736",
+    "name": "Royal Euro",
+    "symbol": "REUR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102172401/thumb/REUR_logo_200x200.png?1773316193"
+  },
+  {
+    "chainId": 1,
     "name": "XrpMoonPepeinuHomerSimpsonDeveloper",
     "address": "0x3ed112ce225f82da03918827631703e616fa14fe",
     "decimals": 9,
@@ -30497,7 +30497,7 @@
     "name": "Royal Dollar",
     "symbol": "RUSD",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/102172367/thumb/RUSD_01_metallic_green_200x200.png?1773160469"
+    "logoURI": "https://assets.coingecko.com/coins/images/102172367/thumb/RUSD_logo_200x200_px.png?1773310830"
   },
   {
     "chainId": 1,
@@ -35054,7 +35054,7 @@
   {
     "chainId": 1,
     "address": "0x4ef53d2caa51c447fdfeeedee8f07fd1962c9ee6",
-    "name": "kpk USDC Prime",
+    "name": "kpk USDC Prime V2 Morpho Vault (Ethereum)",
     "symbol": "KPKUSDCPRIME",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/102172327/thumb/avatar-light.png?1772896235"
@@ -41318,7 +41318,7 @@
   {
     "chainId": 1,
     "address": "0x5dbf760b4fd0cddde0366b33aeb338b2a6d77725",
-    "name": "kpk ETH Yield",
+    "name": "kpk ETH Yield V2 Morpho Vault (Ethereum)",
     "symbol": "KPKETHYIELD",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/102172329/thumb/avatar-light.png?1772896326"
@@ -42122,14 +42122,6 @@
     "decimals": 18,
     "symbol": "YFIKING",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/6964.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x5f8223c9904b3aa8ad20efa518e58eeb9dba3b3e",
-    "name": "TrendBot",
-    "symbol": "TRENDBOT",
-    "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/69139/thumb/mxkTfnyH_400x400.png?1757610986"
   },
   {
     "chainId": 1,
@@ -50306,14 +50298,6 @@
     "decimals": 4,
     "symbol": "VEY",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/4419.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x70b5fa2c02a63b1a90d23bd8166fa81614b6d463",
-    "name": "Pepe Dollar",
-    "symbol": "PEPD",
-    "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/69137/thumb/mark.png?1757592353"
   },
   {
     "chainId": 1,
@@ -73974,7 +73958,7 @@
   {
     "chainId": 1,
     "address": "0xa877d5bb0274dccba8556154a30e1ca4021a275f",
-    "name": "kpk EURC Yield",
+    "name": "kpk EURC Yield V2 Morpho Vault (Ethereum)",
     "symbol": "KPKEURCYIELD",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/102172330/thumb/avatar-light.png?1772896335"
@@ -81765,7 +81749,7 @@
   {
     "chainId": 1,
     "address": "0xbb50a5341368751024ddf33385ba8cf61fe65ff9",
-    "name": "kpk ETH Prime",
+    "name": "kpk ETH Prime V2 Morpho Vault (Ethereum)",
     "symbol": "KPKETHPRIME",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/102172328/thumb/avatar-light.png?1772896317"
@@ -89072,6 +89056,14 @@
   },
   {
     "chainId": 1,
+    "address": "0xcc5c22c7a6bcc25e66726aef011dde74289ed203",
+    "name": "Midas M1 USD Market Neutral",
+    "symbol": "MM1-USD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102172397/thumb/mM1-USD.png?1773314216"
+  },
+  {
+    "chainId": 1,
     "name": "Pre Pepe Days",
     "address": "0xcc5efcf0d23adc0dee0490aca2446914fe38f0ee",
     "decimals": 9,
@@ -93009,7 +93001,7 @@
   {
     "chainId": 1,
     "address": "0xd5cce260e7a755ddf0fb9cdf06443d593aaeaa13",
-    "name": "kpk USDC Yield",
+    "name": "kpk USDC Yield V2 Morpho Vault (Ethereum)",
     "symbol": "KPKUSDCYIELDV2",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/102172304/thumb/avatar-light.png?1772761370"
@@ -98125,6 +98117,14 @@
     "decimals": 18,
     "symbol": "ARCANINEINU",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/13958.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xe21d7a0e7d11530cc08814ce9d3fe316e72ac382",
+    "name": "Royal Silver",
+    "symbol": "RXAG",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102172400/thumb/RXAG_logo_200x200.png?1773316147"
   },
   {
     "chainId": 1,
