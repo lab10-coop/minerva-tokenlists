@@ -8297,6 +8297,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x123ffe0a3c62878dcbee2742227dc8990058d9e1",
+    "name": "Matrixdock Silver",
+    "symbol": "XAGM",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/102172552/thumb/XAGM_icon.png?1773848751"
+  },
+  {
+    "chainId": 1,
     "address": "0x124386504d774979e1e9d2d19c6188391d7af8e3",
     "name": "Hanabi-chan",
     "symbol": "HANABI",
@@ -12129,11 +12137,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x1aad217b8f78dba5e6693460e8470f8b1a3977f3",
     "name": "Strategy PP Variable xStock",
-    "symbol": "STRCX",
+    "address": "0x1aad217b8f78dba5e6693460e8470f8b1a3977f3",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/71033/thumb/Ticker_STRCx__Company_Name_Strategy_PP_Variable__size_200x200.png?1765380234"
+    "symbol": "STRCX",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/39711.png"
   },
   {
     "chainId": 1,
@@ -17765,14 +17773,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x27bbb7e6d8b8b9a4c36e67c5d7ce7fa8d51628e1",
-    "name": "Uspepe",
-    "symbol": "USPEPE",
-    "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/69286/thumb/logo.png?1758112772"
-  },
-  {
-    "chainId": 1,
     "name": "Text2VidAI",
     "address": "0x27bcfc2c049224383275ea1d226190a004737e86",
     "decimals": 18,
@@ -19090,6 +19090,14 @@
     "decimals": 18,
     "symbol": "ECHO",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/27906.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x2b47c128b35dddcb66ce2fa5b33c95314a7de245",
+    "name": "kpk USDC RWA Euler Vault (Ethereum)",
+    "symbol": "KPK_RWA_USDC",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/102172542/thumb/kpk.png?1773803971"
   },
   {
     "chainId": 1,
@@ -35183,7 +35191,7 @@
     "chainId": 1,
     "address": "0x4ef53d2caa51c447fdfeeedee8f07fd1962c9ee6",
     "name": "kpk USDC Prime V2 Morpho Vault (Ethereum)",
-    "symbol": "KPKUSDCPRIME",
+    "symbol": "KPK_USDC_V2",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/102172327/thumb/avatar-light.png?1772896235"
   },
@@ -41487,7 +41495,7 @@
     "chainId": 1,
     "address": "0x5dbf760b4fd0cddde0366b33aeb338b2a6d77725",
     "name": "kpk ETH Yield V2 Morpho Vault (Ethereum)",
-    "symbol": "KPKETHYIELD",
+    "symbol": "KPK_ETH_YIELDV2",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/102172329/thumb/avatar-light.png?1772896326"
   },
@@ -74207,7 +74215,7 @@
     "chainId": 1,
     "address": "0xa877d5bb0274dccba8556154a30e1ca4021a275f",
     "name": "kpk EURC Yield V2 Morpho Vault (Ethereum)",
-    "symbol": "KPKEURCYIELD",
+    "symbol": "KPK_EURC_V2",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/102172330/thumb/avatar-light.png?1772896335"
   },
@@ -82006,7 +82014,7 @@
     "chainId": 1,
     "address": "0xbb50a5341368751024ddf33385ba8cf61fe65ff9",
     "name": "kpk ETH Prime V2 Morpho Vault (Ethereum)",
-    "symbol": "KPKETHPRIME",
+    "symbol": "KPK_WETH_V2",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/102172328/thumb/avatar-light.png?1772896317"
   },
@@ -93314,7 +93322,7 @@
     "chainId": 1,
     "address": "0xd5cce260e7a755ddf0fb9cdf06443d593aaeaa13",
     "name": "kpk USDC Yield V2 Morpho Vault (Ethereum)",
-    "symbol": "KPKUSDCYIELDV2",
+    "symbol": "KPK_USDC_YIELDV2",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/102172304/thumb/avatar-light.png?1772761370"
   },
@@ -101224,11 +101232,11 @@
   },
   {
     "chainId": 1,
-    "address": "0xe95ab205e333443d7970336d5fd827ef9ed97608",
     "name": "TON xStock",
-    "symbol": "TONXX",
+    "address": "0xe95ab205e333443d7970336d5fd827ef9ed97608",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/69617/thumb/Ticker_TONx__Company_Name_TON__size_200x200.png?1759233179"
+    "symbol": "TONXX",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/38781.png"
   },
   {
     "chainId": 1,
@@ -102845,14 +102853,6 @@
     "decimals": 9,
     "symbol": "TUGOU",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/26360.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xed2d13a70acbd61074fc56bd0d0845e35f793e5e",
-    "name": "Planet Mojo",
-    "symbol": "MOJO",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/36670/thumb/MOJOIcon.jpg?1712061269"
   },
   {
     "chainId": 1,
@@ -104741,6 +104741,14 @@
     "symbol": "LLYON",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/68643/thumb/llyon_160x160.png?1756156107"
+  },
+  {
+    "chainId": 1,
+    "name": "KnoxNet",
+    "address": "0xf19304e6bfe0a18d2a0171758aa433921f192897",
+    "decimals": 18,
+    "symbol": "KNX",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/39714.png"
   },
   {
     "chainId": 1,
