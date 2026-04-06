@@ -5241,14 +5241,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x0b1bd555adf860d4d51c9caba48d756e224451bf",
-    "name": "Esportplayer",
-    "symbol": "ESPORT",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/52466/thumb/200x200.png?1733411059"
-  },
-  {
-    "chainId": 1,
     "address": "0x0b2acaaf45fc201d239c5915572730f4bff1999f",
     "name": "Goose",
     "symbol": "GOOSE",
@@ -18775,7 +18767,7 @@
     "chainId": 1,
     "name": "Blynex USD",
     "address": "0x2a221b269d49732856f4c7a6ebc31da4875104f9",
-    "decimals": 6,
+    "decimals": 18,
     "symbol": "USDB",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/39820.png"
   },
@@ -48485,14 +48477,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x6b8952d61e2cd41a284ffd250deb021a709bdc1c",
-    "name": "Syncoin",
-    "symbol": "SNC",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/68841/thumb/200x200.png?1756755984"
-  },
-  {
-    "chainId": 1,
     "name": "Chad Coin",
     "address": "0x6b89b97169a797d94f057f4a0b01e2ca303155e4",
     "decimals": 18,
@@ -60018,6 +60002,14 @@
     "decimals": 18,
     "symbol": "SENTAI",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/35010.png"
+  },
+  {
+    "chainId": 1,
+    "name": "OddHanc",
+    "address": "0x8786336fbe367eb4548a1ee3e4543355ecab5fc4",
+    "decimals": 18,
+    "symbol": "HANC",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/39836.png"
   },
   {
     "chainId": 1,
@@ -89833,11 +89825,11 @@
   },
   {
     "chainId": 1,
-    "address": "0xcccccccccc33d538dbc2ee4feab0a7a1ff4e8a94",
     "name": "Centrifuge",
-    "symbol": "CFG",
+    "address": "0xcccccccccc33d538dbc2ee4feab0a7a1ff4e8a94",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/55913/thumb/centrifuge.jpg?1747707741"
+    "symbol": "CFG",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/6748.png"
   },
   {
     "chainId": 1,
