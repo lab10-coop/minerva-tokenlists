@@ -34533,6 +34533,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x4ce1ac8f43e0e5bd7a346a98af777bf8fbea1981",
+    "name": "Lido EarnUSD",
+    "symbol": "EARNUSD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102172834/thumb/earnUSD.png?1776151948"
+  },
+  {
+    "chainId": 1,
     "name": "Decanect",
     "address": "0x4ce4c025692b3142dbde1cd432ef55b9a8d18701",
     "decimals": 18,
@@ -36538,6 +36546,14 @@
     "decimals": 18,
     "symbol": "GDAO",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7694.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x5163b56b5275401bdfa5e46c75eb7c9d728848b6",
+    "symbol": "xCYPH",
+    "name": "Cypher Escrowed Token",
+    "decimals": 18,
+    "logoURI": "ipfs://QmcuEL5hwNDxwxuMUhjC43gJfv4AnALHZfYBrGTkTXmwP6"
   },
   {
     "chainId": 1,
@@ -41978,14 +41994,6 @@
     "decimals": 18,
     "symbol": "LOC",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2287.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x5e362eb2c0706bd1d134689ec75176018385430b",
-    "name": "Decentralized Validator Token",
-    "symbol": "DVSTETH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/66541/thumb/ic_DVstETH_2x.png?1749709919"
   },
   {
     "chainId": 1,
@@ -61330,6 +61338,14 @@
     "decimals": 9,
     "symbol": "YEAGER",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/16677.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x896c767371e2d2255f1c33301d29e5577a7aca11",
+    "symbol": "BULLA",
+    "name": "Bulladotfun",
+    "decimals": 9,
+    "logoURI": "ipfs://QmY5NCCRs1KJiK4RdKYe8NFDKRbqk5MzNfWzEuhHNXRJvS"
   },
   {
     "chainId": 1,
@@ -82978,6 +82994,14 @@
     "decimals": 18,
     "symbol": "VRTX",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/22355.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xbbfc8683c8fe8cf73777fede7ab9574935fea0a4",
+    "name": "Lido Earn ETH",
+    "symbol": "EARNETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102172835/thumb/earnETH.png?1776152041"
   },
   {
     "chainId": 1,
@@ -112025,11 +112049,27 @@
   },
   {
     "chainId": 56,
+    "address": "0x1f1c90aeb2fd13ea972f0a71e35c0753848e3db0",
+    "symbol": "CHEEL",
+    "name": "Cheelee",
+    "decimals": 18,
+    "logoURI": "ipfs://QmcLKL8a4dMSfjHforSsUrLVi6MA8auYtQv5Dyf9EDAdQ2"
+  },
+  {
+    "chainId": 56,
     "address": "0x2170ed0880ac9a755fd29b2688956bd959f933f8",
     "symbol": "ETH",
     "name": "Ethereum",
     "decimals": 18,
-    "logoURI": "ipfs://QmdUMmR4zndDD6XcQE3zgvCjTwZxnXZmjLQwURSSvuxtAG"
+    "logoURI": "ipfs://QmTbLLNaYHMYDtruzQW95AQR9vaEHwJPW7iNtfZ1P3fYX3"
+  },
+  {
+    "chainId": 56,
+    "address": "0x230f6e7904ffc156abd8adfd7556e56e2a358cb1",
+    "symbol": "POSS",
+    "name": "Posschain",
+    "decimals": 18,
+    "logoURI": "ipfs://QmZy3cTGWSPcwgRCfkzKwY86Kh1aCSjsC2W3pEiYG65Bqm"
   },
   {
     "chainId": 56,
@@ -112225,6 +112265,14 @@
   },
   {
     "chainId": 56,
+    "address": "0x4da996c5fe84755c80e108cf96fe705174c5e36a",
+    "symbol": "WOW",
+    "name": "WOWswap",
+    "decimals": 18,
+    "logoURI": "ipfs://QmaB93VJdDT6ACW9NSN5YMaFXrkmfsVJoBQCX2oMpNq9ek"
+  },
+  {
+    "chainId": 56,
     "address": "0x4e6415a5727ea08aae4580057187923aec331227",
     "symbol": "FINE",
     "name": "Refinable",
@@ -112262,6 +112310,14 @@
     "name": "Solana",
     "decimals": 18,
     "logoURI": "ipfs://QmVnBhU5sF3ZGr3sPe9L8Se6humoscjLwg1wUpdYWgX5ug"
+  },
+  {
+    "chainId": 56,
+    "address": "0x57f12fe6a4e5fe819eec699fadf9db2d06606bb4",
+    "symbol": "NPM",
+    "name": "Neptune Mutual",
+    "decimals": 18,
+    "logoURI": "ipfs://Qma37b454c6uDsvvU4RPtit3pQa9kSNj8fp1XXA3KjwRoY"
   },
   {
     "chainId": 56,
@@ -112326,6 +112382,14 @@
     "name": "MarsDAO",
     "decimals": 18,
     "logoURI": "ipfs://QmPewzMZxnUUTcWvs7q2zw1Z2WYbhLRMR3heYSDAhsMUy5"
+  },
+  {
+    "chainId": 56,
+    "address": "0x60d01ec2d5e98ac51c8b4cf84dfcce98d527c747",
+    "symbol": "iZi",
+    "name": "iZUMi",
+    "decimals": 18,
+    "logoURI": "ipfs://QmfWce8M2UpJu3mKJ9Wh4APWpeB24DKoTYtpEM9EgShUH9"
   },
   {
     "chainId": 56,
@@ -112566,6 +112630,14 @@
     "name": "Pitbull",
     "decimals": 9,
     "logoURI": "ipfs://QmRzYyjvnkpP4wey1rr2iiCAWj4UF5CMTCinjkmmJZcdRV"
+  },
+  {
+    "chainId": 56,
+    "address": "0xaa9826732f3a4973ff8b384b3f4e3c70c2984651",
+    "symbol": "XPRESS",
+    "name": "CryptoXpress",
+    "decimals": 18,
+    "logoURI": "ipfs://QmWwGSKLx82JxKuAmXX4N6hQt4qxu5efPkdFdQ1V49hGrN"
   },
   {
     "chainId": 56,
@@ -112832,6 +112904,14 @@
     "logoURI": "ipfs://QmPPKKh3s9JsDUUX1fZBAmACkHNTeZsDTpu4WDJNgkge5S"
   },
   {
+    "chainId": 56,
+    "address": "0xfdad8edc724277e975f4955d288c6eb5b20a3146",
+    "symbol": "NSWAP",
+    "name": "Nulswap",
+    "decimals": 8,
+    "logoURI": "ipfs://Qmc5nmR5HJNBzedau6UkzUSgCLBWkyaW3tHVPdfjvTuuW4"
+  },
+  {
     "chainId": 100,
     "address": "0x0116e28b43a358162b96f70b4de14c98a4465f25",
     "symbol": "UNCX",
@@ -113033,6 +113113,22 @@
   },
   {
     "chainId": 137,
+    "address": "0x0e2c818fea38e7df50410f772b7d59af20589a62",
+    "symbol": "DOM",
+    "name": "DOM",
+    "decimals": 9,
+    "logoURI": "ipfs://QmPN86PQ1TLv4bnN1983xLWZF1NReCa6vmwYJjrGFHccAL"
+  },
+  {
+    "chainId": 137,
+    "address": "0x127984b5e6d5c59f81dacc9f1c8b3bdc8494572e",
+    "symbol": "PPDEX",
+    "name": "Pepedex",
+    "decimals": 18,
+    "logoURI": "ipfs://QmZbgHwp4xBZkFLSsZt6y5eQp4eoNHKNoUvcSZ6Hvk2nSj"
+  },
+  {
+    "chainId": 137,
     "address": "0x15b7c0c907e4c6b9adaaaabc300c08991d6cea05",
     "symbol": "GEL",
     "name": "Gelato",
@@ -113097,6 +113193,14 @@
   },
   {
     "chainId": 137,
+    "address": "0x36deeb841c30dc76bdea0a81b641731d3d348ddc",
+    "symbol": "FNST",
+    "name": "Finsteco",
+    "decimals": 18,
+    "logoURI": "ipfs://QmaDfN28PKTeKTUSq5nJ8Xe2SLX57XFrk2vbe7HxivUnsB"
+  },
+  {
+    "chainId": 137,
     "address": "0x3c499c542cef5e3811e1192ce70d8cc03d5c3359",
     "symbol": "USDC",
     "name": "USD Coin",
@@ -113110,6 +113214,22 @@
     "name": "Basic Attention Token",
     "decimals": 18,
     "logoURI": "ipfs://QmTESCiweRwnn2uXyY4S9F4noMN5dfuHW2wggxkB84BFB3"
+  },
+  {
+    "chainId": 137,
+    "address": "0x44acd96620b708162af4a90524f29a6839675533",
+    "symbol": "TCGC",
+    "name": "TCGCoin",
+    "decimals": 18,
+    "logoURI": "ipfs://QmTyiaSHeSMjMq96Qk3nptmuF7Q7VpT5ZbA3E7h3iZTyxV"
+  },
+  {
+    "chainId": 137,
+    "address": "0x45c32fa6df82ead1e2ef74d17b76547eddfaff89",
+    "symbol": "FRAX",
+    "name": "Frax",
+    "decimals": 18,
+    "logoURI": "ipfs://QmWKZygKqPLvAKN8NiQxvh4PMFeAEFffHGQBYMepynRVyX"
   },
   {
     "chainId": 137,
@@ -113134,6 +113254,14 @@
     "name": "Gnosis",
     "decimals": 18,
     "logoURI": "ipfs://QmVB8N9fzqccfA8WeFequB7DnkxdDcNMjCn7YpUG8rVnoG"
+  },
+  {
+    "chainId": 137,
+    "address": "0x612d833c0c7a54cdfbe9a4328b6d658020563ec0",
+    "symbol": "PINE",
+    "name": "Pine",
+    "decimals": 18,
+    "logoURI": "ipfs://QmSmRaNXLKmGY5LJpJ8bCw4hhy8LEzfrpFCQ4JzqHjreaD"
   },
   {
     "chainId": 137,
@@ -113174,6 +113302,14 @@
     "name": "UNCL",
     "decimals": 18,
     "logoURI": "ipfs://QmRDcwyR21PzwLqhYN6uPsMcSL2MpMUnjLwstsfctYc3fD"
+  },
+  {
+    "chainId": 137,
+    "address": "0x9c6605eeb66bd05858e0cb5204432aa6c7d0fa24",
+    "symbol": "BITZ",
+    "name": "BITZ",
+    "decimals": 18,
+    "logoURI": "ipfs://QmfJRzxfJd2pTVirEZYZ8cP1vcmJtCaxC1qKf356LWg9HN"
   },
   {
     "chainId": 137,
@@ -113281,6 +113417,22 @@
   },
   {
     "chainId": 137,
+    "address": "0xd85d1e945766fea5eda9103f918bd915fbca63e6",
+    "symbol": "CEL",
+    "name": "Celsius",
+    "decimals": 4,
+    "logoURI": "ipfs://QmdjAdK7spvTrA4NK4h5HSsFtDSpEkD81JLFiyhN4inFrS"
+  },
+  {
+    "chainId": 137,
+    "address": "0xe6b9d092223f39013656702a40dbe6b7decc5746",
+    "symbol": "FEVR",
+    "name": "RealFevr",
+    "decimals": 18,
+    "logoURI": "ipfs://QmW4XGBpTv3zVQfDrmAEXwThzXJGASdJTxRbuGUNHjjkoC"
+  },
+  {
+    "chainId": 137,
     "address": "0xeeeeeb57642040be42185f49c52f7e9b38f8eeee",
     "symbol": "ELK",
     "name": "Elk Finance",
@@ -113294,6 +113446,14 @@
     "name": "Jarvis Synthetic Brazilian Real",
     "decimals": 18,
     "logoURI": "ipfs://QmedhrGLRuMmCo5gmZTWjMEzK1QbCivPTWsYKzoKAFptS4"
+  },
+  {
+    "chainId": 137,
+    "address": "0xf36f79feb5d97e18c69078d8d13d941cae447a04",
+    "symbol": "b01",
+    "name": "b0rder1ess",
+    "decimals": 18,
+    "logoURI": "ipfs://QmWoRBPritKGpA4wG9CqUSxcytPbjePihnaBE2w18HX8KY"
   },
   {
     "chainId": 250,
@@ -113477,7 +113637,15 @@
     "symbol": "ETH",
     "name": "Ether",
     "decimals": 18,
-    "logoURI": "ipfs://QmdUMmR4zndDD6XcQE3zgvCjTwZxnXZmjLQwURSSvuxtAG"
+    "logoURI": "ipfs://QmTbLLNaYHMYDtruzQW95AQR9vaEHwJPW7iNtfZ1P3fYX3"
+  },
+  {
+    "chainId": 324,
+    "address": "0x0231b3de40b6b3bdd28dcef037f1b7a3fcf5a95a",
+    "symbol": "ZYN",
+    "name": "Zynergy",
+    "decimals": 18,
+    "logoURI": "ipfs://QmRnMXf2wyy3Q2y98vZsErHzUTpGtZZHEpj9EVXDhDyoHS"
   },
   {
     "chainId": 324,
@@ -113905,6 +114073,14 @@
   },
   {
     "chainId": 324,
+    "address": "0xc3a3aa99b80845d22cc41dea3bdb9b2a9ebe199a",
+    "symbol": "ZKDX",
+    "name": "ZKDX",
+    "decimals": 18,
+    "logoURI": "ipfs://QmYbcNHHR2G5sov7TRcKDsTg7ZEPzmZADgUvDeAtHfRzXj"
+  },
+  {
+    "chainId": 324,
     "address": "0xc67491de1b73ec8ffbf9cc440ed35dba2c382978",
     "symbol": "PYR",
     "name": "PYR",
@@ -113934,14 +114110,6 @@
     "name": "Gemini Dollar",
     "decimals": 2,
     "logoURI": "ipfs://QmU33yWR9heygwLSbQkxFpy9vTJED1nSfvzSC8xUMEEW9x"
-  },
-  {
-    "chainId": 324,
-    "address": "0xdbff7c6d368904680706804645cafa4defa3c224",
-    "symbol": "TEVA",
-    "name": "Tevaera",
-    "decimals": 18,
-    "logoURI": "ipfs://QmenWnpKbbXozdqeCjUZhhX2MQJCpSWaMgKaTT3kbFMvTL"
   },
   {
     "chainId": 324,
@@ -113993,11 +114161,51 @@
   },
   {
     "chainId": 4326,
+    "address": "0x0c833bcdd2dc74d7a8dca82ed011e32d04fe5843",
+    "symbol": "MEGA",
+    "name": "Make Ethereum Great Again",
+    "decimals": 18,
+    "logoURI": "ipfs://QmSTk3MbVbcWk8tCh1cuJpWVkXecUYJzsxN934vyAwp1qk"
+  },
+  {
+    "chainId": 4326,
+    "address": "0x102ee646a6414a5c3a7f798409bb234eaed1262a",
+    "symbol": "MEGAMAFIA",
+    "name": "MegaMafia",
+    "decimals": 18,
+    "logoURI": "ipfs://Qmf8ieYhNGCwjV9k3RY2fthvxYncN9e4ZsiqKUsTkpYYEx"
+  },
+  {
+    "chainId": 4326,
+    "address": "0x273d38762cee7db9474ec0fd37a94bbda198e6c0",
+    "symbol": "KUMA",
+    "name": "KUMA",
+    "decimals": 18,
+    "logoURI": "ipfs://QmZCcNFrkfGjkPNusQtRfamp6nVEaBixHShScnURmhxYys"
+  },
+  {
+    "chainId": 4326,
     "address": "0x3680dede2b8ff1412b0334d7ee8514ca2dec6f98",
     "symbol": "BS",
     "name": "Blueprint Supreme",
     "decimals": 18,
     "logoURI": "ipfs://QmWu96T8qjtTxrTrRUjJabmoZVQgQQdvozZM3Xn9xCojKP"
+  },
+  {
+    "chainId": 4326,
+    "address": "0x3f927036a6c29f50e1c2dfceba572fc40cf39069",
+    "symbol": "KPI",
+    "name": "Kumbaya Pump Initiative",
+    "decimals": 18,
+    "logoURI": "ipfs://QmZhhLgT3Z2NbD8Jom2VkM9cevuGwvpzLEniqhon3xPCDF"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x015e03a6ccef48a18ddb6cfdc3066d9443875672",
+    "symbol": "BLOCK",
+    "name": "BLOCK",
+    "decimals": 18,
+    "logoURI": "ipfs://QmU9bWB244p8idWBsVrFQ4R14Vb81fKL8qpYbXzyoyPqWz"
   },
   {
     "chainId": 8453,
@@ -114006,6 +114214,14 @@
     "name": "Inferium",
     "decimals": 18,
     "logoURI": "ipfs://QmeKdvtdSv2QHy3qfpkTDeUyQTChkQDWjaHQBqHpy7PKuQ"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x01dd64a2938a10ac458e36112da5b55329b332c3",
+    "symbol": "SWOLO",
+    "name": "SWOLO AI",
+    "decimals": 18,
+    "logoURI": "ipfs://QmcmsZLodmUM1jcCH6d8uthymgz8brfgmHp477giMe5ASk"
   },
   {
     "chainId": 8453,
@@ -114041,11 +114257,35 @@
   },
   {
     "chainId": 8453,
+    "address": "0x044facbb1f6fcc8139e6b5df0c3ac149429416d6",
+    "symbol": "AUR",
+    "name": "AURION",
+    "decimals": 18,
+    "logoURI": "ipfs://Qmc6VjSkxuLNQeExF7FWDpe9QW42CrePJ6pKkE2mDHnVcS"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x0497f698cdb42984ffcfb509472a186f984673e2",
+    "symbol": "GG",
+    "name": "ggbots.ai",
+    "decimals": 18,
+    "logoURI": "ipfs://QmTrrXyVJvQ9nezLmk2kb76kTaUcDB76pKN6GmL4rC8JiC"
+  },
+  {
+    "chainId": 8453,
     "address": "0x04e20ee22c6db2c5855d5f7b00690b8cdb83d3ee",
     "symbol": "AZLT",
     "name": "azaelite by Virtuals",
     "decimals": 18,
     "logoURI": "ipfs://QmQowVkAENmdRM2uvE1Sc4ASNU8aXkWdpyafzJ1WpKGcQr"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x05e3d6741e4ea10f73e2c7d7d5bc40bcd6c4e5a0",
+    "symbol": "SkiBonk+",
+    "name": "t.me/SkiBonk",
+    "decimals": 18,
+    "logoURI": "ipfs://QmXRLaHCj8aW1G5rjokKKFA4WgJ3QraJivKhwRX8XYdp6J"
   },
   {
     "chainId": 8453,
@@ -114062,6 +114302,14 @@
     "name": "0xMonk by Virtuals",
     "decimals": 18,
     "logoURI": "ipfs://QmYCwYuLnaALbkPXhHzUdkuVUsSiQE1wad5TpsxibegKhs"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x06f71fb90f84b35302d132322a3c90e4477333b0",
+    "symbol": "BRACKY",
+    "name": "BRACKY",
+    "decimals": 18,
+    "logoURI": "ipfs://QmP23A5K6WePmejE95yzrbPwTuyUuNHbUWFB2jgVRcH4sE"
   },
   {
     "chainId": 8453,
@@ -114129,11 +114377,51 @@
   },
   {
     "chainId": 8453,
+    "address": "0x0eda054e27a274323e07023972f47c36693ce5df",
+    "symbol": "CUC",
+    "name": "Cucumber",
+    "decimals": 18,
+    "logoURI": "ipfs://QmejCUrUHN61R4wz7WkR5j9PTBG1AGhkgyWFaemzxRuQk5"
+  },
+  {
+    "chainId": 8453,
     "address": "0x0f1a9f3b8b971ac72a2d362cf2858f21fb799601",
     "symbol": "SUISS",
     "name": "SUISSMA AI by Virtuals",
     "decimals": 18,
     "logoURI": "ipfs://QmXGjx8EgfKWCxdfMZot44yN5WtTWCLE7udp9FYNohuHEm"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x0f2256f7da1f858c30cbfb9530a023fa4210e6d2",
+    "symbol": "FATE",
+    "name": "FateFi",
+    "decimals": 18,
+    "logoURI": "ipfs://QmV1W3uvcwya6u2EjTfvUPk1eWzFaNj7sbUtdYjvufFxUq"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x109f61cecfefeb06421012da081096f0af30256f",
+    "symbol": "SENTA",
+    "name": "Senta",
+    "decimals": 18,
+    "logoURI": "ipfs://Qmck3iJg7bUkVWN6TVYqaJTEyBnzgwQaoaGTTHZ8jSdfBY"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x114800110db007c8e611d32f76e7b63023957e33",
+    "symbol": "BEETS",
+    "name": "Dwight K. Schrute",
+    "decimals": 18,
+    "logoURI": "ipfs://QmXXVb1EvFqF92YgaUvZVFQ2V4i1Cg2bnaCxzpPMEhS6fM"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x118cb6a199983d3d83df86cb6aee8cea2af807a8",
+    "symbol": "ROR",
+    "name": "r0r4x",
+    "decimals": 18,
+    "logoURI": "ipfs://QmWGzcbK36NFtETRJt5aHi9ae46QKpwZJa3nBWCBofpooj"
   },
   {
     "chainId": 8453,
@@ -114169,6 +114457,14 @@
   },
   {
     "chainId": 8453,
+    "address": "0x13449a8aaa771bbac32849579f243ff247609e65",
+    "symbol": "CHARA",
+    "name": "MyChara: my AI friends",
+    "decimals": 18,
+    "logoURI": "ipfs://QmVgNW3ETuxenSSyn4KWJEfe74QAW8qQhtxRujAjTUTJzV"
+  },
+  {
+    "chainId": 8453,
     "address": "0x15dd9165b3a80f83a5471f2e6eba57158ca3cf86",
     "symbol": "BL",
     "name": "ButlerLiquid",
@@ -114177,11 +114473,35 @@
   },
   {
     "chainId": 8453,
+    "address": "0x15eda1086c54c148037597e9dc60e5a87b618aa1",
+    "symbol": "BLUE",
+    "name": "BLUEPAY",
+    "decimals": 18,
+    "logoURI": "ipfs://QmW1JQ8dvFGVm4ooMX4cKXkgzpxTDoqexHXBJx9GxFXeiM"
+  },
+  {
+    "chainId": 8453,
     "address": "0x17c48fc16136f3de9168783c5f4f99d5c635df3f",
     "symbol": "IT",
     "name": "Insane Technology ",
     "decimals": 6,
     "logoURI": "ipfs://QmPaJg55fugfeHYXouA8FEbZ56LcLP4WuTNcDt4GjDp3gB"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x17e399242d55d18e6cb0c8377ced607eef4a0b07",
+    "symbol": "WA",
+    "name": "WhaleAI",
+    "decimals": 18,
+    "logoURI": "ipfs://QmSVodSdpNnd9chFxoqbG3BZz82bCbEsW9GKyAVnRGAwD1"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x18b0034be96c0b2828ac74319e4cf8670ce7e710",
+    "symbol": "CLAWORCL",
+    "name": "ClawOracle",
+    "decimals": 18,
+    "logoURI": "ipfs://QmdVDKRE7vPNKSnAHB3wd9GfbxDNRAuHdhqe98wiVLY1Gk"
   },
   {
     "chainId": 8453,
@@ -114217,11 +114537,59 @@
   },
   {
     "chainId": 8453,
+    "address": "0x1ba597770e98c4f630ddbdc8b9e1a5cb1b4ca047",
+    "symbol": "MEL",
+    "name": "Melvin",
+    "decimals": 18,
+    "logoURI": "ipfs://QmSxkxmcpA496GHvq8iM9qw8T4PyV6bCHmhWGB5q68T3y2"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x1bcb7eadea5ac43733bd8fa1f65798333cc51313",
+    "symbol": "ASC",
+    "name": "All InX SMART CHAIN",
+    "decimals": 18,
+    "logoURI": "ipfs://QmZcCMqKGQisDxVBFSeek6n1E7UNckKfjjMnJHGads3urZ"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x1bcf78b91c7b3f5a6a32e5521adc0cd69bf020fe",
+    "symbol": "SIGIL",
+    "name": "HeySigil",
+    "decimals": 18,
+    "logoURI": "ipfs://QmYduiQZ95dksCkwmtSk4rbLtJbC6yePjC1SQtviTgByq5"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x1c93d155bd388241f9ab5df500d69eb529ce9583",
+    "symbol": "FLNCHY",
+    "name": "Flaunchy",
+    "decimals": 18,
+    "logoURI": "ipfs://QmNzQG2KiyHzaeAzbYhn1eFCCgHLZYzvNZfeNcKtyvk4yt"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x1cdbb57b12f732cfb4dc06f690acef476485b2a5",
+    "symbol": "Clankermon",
+    "name": "Clankermon",
+    "decimals": 18,
+    "logoURI": "ipfs://QmUZPZrECDTGKzgdRMXUqpgPbgFEv7fKVpKbdhyjTC2oGJ"
+  },
+  {
+    "chainId": 8453,
     "address": "0x1cfc22860fe46a622e3c2d1c9b036412467ef4c9",
     "symbol": "HANA",
     "name": "Hana by Virtuals",
     "decimals": 18,
     "logoURI": "ipfs://QmdmibSP3WHWtFhjCeg48qkxjYoZ9akWX5Zmtmknrerk7y"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x1da242e0a0e25dfd36f38d7834aa6abd38c8eb07",
+    "symbol": "SAULNET",
+    "name": "Saul Net",
+    "decimals": 18,
+    "logoURI": "ipfs://QmbMCGcHTJLoc5riD6PhDgZ51Bd5h9aQHYzKADxZsosfnN"
   },
   {
     "chainId": 8453,
@@ -114257,6 +114625,14 @@
   },
   {
     "chainId": 8453,
+    "address": "0x2092d64a057e4ceb7387c67dad0fdf741559dd8f",
+    "symbol": "JOI",
+    "name": "joi",
+    "decimals": 18,
+    "logoURI": "ipfs://QmSfgmAiQrh4HWCcGAc211s8LCN7mbs3irpZsZ5ctc1FY7"
+  },
+  {
+    "chainId": 8453,
     "address": "0x20ef84969f6d81ff74ae4591c331858b20ad82cd",
     "symbol": "AiSTR",
     "name": "AicroStrategy",
@@ -114281,6 +114657,14 @@
   },
   {
     "chainId": 8453,
+    "address": "0x214419f6fdd2b23bf6a32f33cf95186d188b784b",
+    "symbol": "ST",
+    "name": "Small Thing",
+    "decimals": 18,
+    "logoURI": "ipfs://QmUL3i5EPAzvxqwYxq9J7mHfNtD9hDjaVT8ab7bviWSUif"
+  },
+  {
+    "chainId": 8453,
     "address": "0x220c6019203aaa7f14b5cd44a323446019609798",
     "symbol": "SPORT",
     "name": "Sports Analyst AI",
@@ -114294,6 +114678,14 @@
     "name": "Spirit Town",
     "decimals": 18,
     "logoURI": "ipfs://QmdV1QUooChHDBLWLWsmb3Ba9Sbc4N4gDvSrEih5CLaNTS"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x24dfcb72dd64088c84cecfe306f0021dba591b07",
+    "symbol": "Chompleton",
+    "name": "Chompleton",
+    "decimals": 18,
+    "logoURI": "ipfs://QmTanmW2R8tKhhmNJJB4MoKpit4GHcPUaA9eBJj9piZq5w"
   },
   {
     "chainId": 8453,
@@ -114321,11 +114713,35 @@
   },
   {
     "chainId": 8453,
+    "address": "0x29920f21bb0b73597b1c34d1a31754133f3361b2",
+    "symbol": "BANTER",
+    "name": "Banter Bot",
+    "decimals": 18,
+    "logoURI": "ipfs://QmPUBjYnbG2zLD9ZnrzZweNw5qRyVgLMHgqtnqNMpNoy89"
+  },
+  {
+    "chainId": 8453,
     "address": "0x2ae3f1ec7f1f5012cfeab0185bfc7aa3cf0dec22",
     "symbol": "cbETH",
     "name": "Coinbase Wrapped Staked ETH",
     "decimals": 18,
     "logoURI": "ipfs://QmQyVyGfhhkvqLpumJgMqwsGMTou6LjfKQfS4rEkxH1tkJ"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x2b5050f01d64fbb3e4ac44dc07f0732bfb5ecadf",
+    "symbol": "QR",
+    "name": "QR",
+    "decimals": 18,
+    "logoURI": "ipfs://QmWV2kCynYVQSzntE5QUPPmL2TPR53jZYTaVngv7dpJKHH"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x2c55d571b6355415cf503f3b6d759231312cd520",
+    "symbol": "XPUNK",
+    "name": "Xpunk Labs",
+    "decimals": 18,
+    "logoURI": "ipfs://QmcUMic9BYS4n6AqwzFKrqv4nAUnPgd6zSnbGNzNmJPKuJ"
   },
   {
     "chainId": 8453,
@@ -114345,11 +114761,43 @@
   },
   {
     "chainId": 8453,
+    "address": "0x2eac9b08a4d86f347b9e856fb3ec082e61c76545",
+    "symbol": "AIRENE",
+    "name": "AIRENE by Virtuals",
+    "decimals": 18,
+    "logoURI": "ipfs://QmRGnQkEyLKtnscTVVPndkDDY9utJW1s5wWzyo1KVb8AeT"
+  },
+  {
+    "chainId": 8453,
     "address": "0x3055913c90fcc1a6ce9a358911721eeb942013a1",
     "symbol": "CAKE",
     "name": "PancakeSwap",
     "decimals": 18,
     "logoURI": "ipfs://QmZdiPrSfXHx3h8KWqntNJnwM4sdW1kPZG3X5YbYaGhpUk"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x30bcd19a2e80a3ea73b3aac1eae1b08e3b9b2cef",
+    "symbol": "zoratv",
+    "name": "Zora TV",
+    "decimals": 18,
+    "logoURI": "ipfs://Qmc1FcLxYxSdM4urR9debx1qmeFqZgCmentXiZB7kxUBGY"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x310201c9808ea4e608fdc6382d48e714b7677937",
+    "symbol": "BFS",
+    "name": "Beast Financial Services",
+    "decimals": 18,
+    "logoURI": "ipfs://QmXKBKwMALRRCUkk82EP5bjQqeLxnyiq9k8WSjDeWPQqUK"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x310d4351e61ef0718a42f1fd3a544d7d2a3202a9",
+    "symbol": "VRUFF",
+    "name": "VRUFF by Virtuals",
+    "decimals": 18,
+    "logoURI": "ipfs://QmQFhVXcCeGN4cM7H4UB4JPNGBGVrLKaSkUKKED1GJWm3a"
   },
   {
     "chainId": 8453,
@@ -114377,11 +114825,27 @@
   },
   {
     "chainId": 8453,
+    "address": "0x3657fb5a31f43a5dfe78557251ea7510be462a38",
+    "symbol": "MSHUPP",
+    "name": "Mike Shupp Virtual",
+    "decimals": 18,
+    "logoURI": "ipfs://Qmeda26CvMY9NrjcqNxJtrcT9c51Axuz4R4ETvd86dwiXd"
+  },
+  {
+    "chainId": 8453,
     "address": "0x36912b5cf63e509f18e53ac98b3012fa79e77bf5",
     "symbol": "FUEGO",
     "name": "Fuego",
     "decimals": 18,
     "logoURI": "ipfs://QmWkbV5CRgnpyesTm51LAtVKkoVeneDStBEYiU3ekkAHok"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x36b0bc9b7cd78c589076c8fb7cd3f68b25b9770a",
+    "symbol": "BOLIDE",
+    "name": "Bolide",
+    "decimals": 18,
+    "logoURI": "ipfs://QmaGiHx1cEPHMNim8Gu4yUoLQkwcDzjpDuPCbyQnkc9HwU"
   },
   {
     "chainId": 8453,
@@ -114417,6 +114881,14 @@
   },
   {
     "chainId": 8453,
+    "address": "0x3c86129b990876ea63751fa7a27deba91fc5bfad",
+    "symbol": "LUCIA",
+    "name": "Lucia",
+    "decimals": 18,
+    "logoURI": "ipfs://Qmc7pmZsXBqyHuJ8J8KFUwwF4ibvYMoaB2xffixuQeap88"
+  },
+  {
+    "chainId": 8453,
     "address": "0x3de67b963766076a3e77e4bec067460523574694",
     "symbol": "HARD",
     "name": "hardwAIre DAO",
@@ -114438,6 +114910,14 @@
     "name": "Mentigent",
     "decimals": 18,
     "logoURI": "ipfs://QmUgFaAs16PfJv1oMcUrxx7mNyTFk4EcCRE5svPdJvJopZ"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x3f8b510ff547c105bd63b2206d6d7ddcda9e0c91",
+    "symbol": "YOUFO",
+    "name": "YOUFO by Virtuals",
+    "decimals": 18,
+    "logoURI": "ipfs://QmYo7dGSwDhvD37V2K8u82BmcAHYcLsMehxYrAZuDpLGNY"
   },
   {
     "chainId": 8453,
@@ -114465,11 +114945,27 @@
   },
   {
     "chainId": 8453,
+    "address": "0x4334882f53ff18dc7f24172e5e838e2887f5994e",
+    "symbol": "snapnclank",
+    "name": "snap 'n' clank",
+    "decimals": 18,
+    "logoURI": "ipfs://QmXNt2wnKJDmLmSd5HpWiJCHSViRHGZ9PTFw2NCMKm9TUo"
+  },
+  {
+    "chainId": 8453,
     "address": "0x44e1c6bc3a4d2058ee3f290bcb27c4da8c5b2e3e",
     "symbol": "PEAGUY",
     "name": "The Pea Guy by Virtuals",
     "decimals": 18,
     "logoURI": "ipfs://QmVk9ozBN1PUVW5VWeb7EY6mEPMTWLWk8Zk5ic8TPYdoQY"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x452867ec20dc5061056c1613db2801f512dda1c1",
+    "symbol": "GECKO",
+    "name": "Agent Gecko TV",
+    "decimals": 18,
+    "logoURI": "ipfs://Qmbmk1MtDKMgkawVKZQPXfR4yeYFWK2YPC526ag4a9Evjh"
   },
   {
     "chainId": 8453,
@@ -114481,11 +114977,35 @@
   },
   {
     "chainId": 8453,
+    "address": "0x45bc451818502c45b7e9f628b9e1a72247f891b5",
+    "symbol": "TREN",
+    "name": "Tren Finance",
+    "decimals": 18,
+    "logoURI": "ipfs://Qme2WRPQs17LA7UoLamK7BBLtVafocPLABB5hfYiNgTaf1"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x468fe9e1178b9e1cc831f2d633c74399624967f7",
+    "symbol": "BRATT",
+    "name": "Bratt",
+    "decimals": 8,
+    "logoURI": "ipfs://QmWPSEKLZVrUnxDP98oJXzDSKR7QNgfRV57yvQmTjYesLS"
+  },
+  {
+    "chainId": 8453,
     "address": "0x47de59bced9a641f1e335b080398d77b86316f90",
     "symbol": "HER",
     "name": "Devotion by Virtuals",
     "decimals": 18,
     "logoURI": "ipfs://QmdTvezJcQqgfWLUbAng8BPAnVuGWsX3Sak7xxe5AQ9VmU"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x490a4b510d0ea9f835d2df29eb73b4fca5071937",
+    "symbol": "VITA",
+    "name": "VitaDAO",
+    "decimals": 18,
+    "logoURI": "ipfs://QmUtRPA9T317dKPgvcCDUErykmU69JNsvayD717ip4MYRd"
   },
   {
     "chainId": 8453,
@@ -114553,11 +115073,35 @@
   },
   {
     "chainId": 8453,
+    "address": "0x4f4a56e5b01db944c2e77fadfa4f23dde538f343",
+    "symbol": "coopahtroopa",
+    "name": "Coopahtroopa",
+    "decimals": 18,
+    "logoURI": "ipfs://QmZuFanPJ3SV2EE9WexCvWFURKSL46n4UtDTMXD5znMiaR"
+  },
+  {
+    "chainId": 8453,
     "address": "0x509a40b4fc86fa086481f98ce8790194e344b136",
     "symbol": "KAIKO",
     "name": "KaiNeko",
     "decimals": 18,
     "logoURI": "ipfs://QmatrcAUCMUWQicjCLmxEMb97HuEiWpLbjv5USD9omJWyU"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x513ce19bc57d82e3c37a25196c9d3f061f272b5e",
+    "symbol": "SCREAM",
+    "name": "Scream AI",
+    "decimals": 18,
+    "logoURI": "ipfs://QmciuvCdXAMmTqidDAujPwkDhSovaqqmpZr1ubT6ZBUmRD"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x52d0ac6a76da6e4a5168a60c423f7ff0285534b1",
+    "symbol": "GOLDN",
+    "name": "GOLDN",
+    "decimals": 18,
+    "logoURI": "ipfs://QmYqu8mMKGJLBRzGz3adRyP5xSNfhrcTv8wMx15VJw2ESz"
   },
   {
     "chainId": 8453,
@@ -114574,6 +115118,14 @@
     "name": "Scale",
     "decimals": 18,
     "logoURI": "ipfs://QmXkatmshMj1XhJesSyVf87fRk7PzjhWYKcjDwb8pXyZoe"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x54a5c90dd4fd08b9e7ee71fd4181587203b2a39d",
+    "symbol": "nickshirley",
+    "name": "Nick Shirley",
+    "decimals": 18,
+    "logoURI": "ipfs://Qmc8VxCs8D9LmVD1X5Zi2KH86GX5zDHv1ntsUeHjHdupfu"
   },
   {
     "chainId": 8453,
@@ -114598,6 +115150,14 @@
     "name": "Diligent Pepe",
     "decimals": 18,
     "logoURI": "ipfs://Qmb8uCnPhS3WSUPi287CUYhbaJrACxSmq6cERzaD6HFdcu"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x587cd533f418825521f3a1daa7ccd1e7339a1b07",
+    "symbol": "STARKBOT",
+    "name": "StarkBot",
+    "decimals": 18,
+    "logoURI": "ipfs://QmbnENNPaGzy4pT7MMAqHdVtAKxKFJyj4a5vs9qpzk56dt"
   },
   {
     "chainId": 8453,
@@ -114633,6 +115193,22 @@
   },
   {
     "chainId": 8453,
+    "address": "0x5ba8d32579a4497c12d327289a103c3ad5b64eb1",
+    "symbol": "TIPN",
+    "name": "Tipn",
+    "decimals": 18,
+    "logoURI": "ipfs://Qmf2xz395ug61utnspFTiGRj4U5LSp82nFt4sbNxMiSvEE"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x5c3d14cae00d4974c326e126ca94a92c21f99076",
+    "symbol": "GUARD",
+    "name": "Guard",
+    "decimals": 18,
+    "logoURI": "ipfs://QmTiu2VzWzQugH3ee1NCHH7Dvx6tcDauHWMkGxiTCwEKxg"
+  },
+  {
+    "chainId": 8453,
     "address": "0x5cc5e64ab764a0f1e97f23984e20fd4528356a6a",
     "symbol": "XRGB",
     "name": "XRGB",
@@ -114662,6 +115238,22 @@
     "name": "ZED",
     "decimals": 18,
     "logoURI": "ipfs://QmZThyfeEqgkExFxWMLaT5igxFQhwzpuLf1nc9QEBaEgKh"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x5fc2843838e65eb0b5d33654628f446d54602791",
+    "symbol": "FXH",
+    "name": "fxhash",
+    "decimals": 18,
+    "logoURI": "ipfs://QmRipvbX8aFXvaTPjjapFNN2yA9MhhvNsJMukkHtC1Kewz"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x605e91f104c5c1129af57f8a02534806203b7200",
+    "symbol": "ACP",
+    "name": "Agent Commerce Protocol",
+    "decimals": 18,
+    "logoURI": "ipfs://QmQXxsABAxf2uJok42fjrW1QrzPvemCMKqxhNmXkDFETts"
   },
   {
     "chainId": 8453,
@@ -114729,11 +115321,27 @@
   },
   {
     "chainId": 8453,
+    "address": "0x62e7e048eeff5c442ce07eaf2f524375129b8020",
+    "symbol": "VALPHA",
+    "name": "Virtual Alpha",
+    "decimals": 18,
+    "logoURI": "ipfs://QmaMiLCzdvdMK6AAV547YaeVkDt4SDr7vFbrmgqsNT4sSM"
+  },
+  {
+    "chainId": 8453,
     "address": "0x62ff28a01abd2484adb18c61f78f30fb2e4a6fdb",
     "symbol": "OTTO",
     "name": "OTTO",
     "decimals": 18,
     "logoURI": "ipfs://QmPCkWKMZTZ1AH4aUamt9EgmUGBJW6AjctPCnKkZ6naE1i"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x64215a641b379a4403a8dc45da9f397b6f9ce447",
+    "symbol": "ROBOT",
+    "name": "R.O.B.O.T",
+    "decimals": 18,
+    "logoURI": "ipfs://QmTZmL7cph184yQUUTz9sCb5EVaEMWigNtfv3sKJqj5H8M"
   },
   {
     "chainId": 8453,
@@ -114758,6 +115366,14 @@
     "name": "Lil Symma",
     "decimals": 18,
     "logoURI": "ipfs://QmSPcuk8brKFt7y7a25qCz9FkYeSiudJN3CmjZ588DHbzJ"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x65fa18f0495c7cddabac07903230011c45cb7373",
+    "symbol": "PRTL",
+    "name": "x portal",
+    "decimals": 18,
+    "logoURI": "ipfs://QmZY9FHp9Qng8AiYRczwEMiQ1uHX6j3hRCk2wsSfaECXHp"
   },
   {
     "chainId": 8453,
@@ -114809,11 +115425,27 @@
   },
   {
     "chainId": 8453,
+    "address": "0x69da011296a3a68d33bcfbca078e0be3b7d77b07",
+    "symbol": "EMERGE",
+    "name": "Emerge",
+    "decimals": 18,
+    "logoURI": "ipfs://QmTFYMNx1nxaFqFotdzcSUnJABAAxAHtK89Vchr468vhW9"
+  },
+  {
+    "chainId": 8453,
     "address": "0x6bb7a212910682dcfdbd5bcbb3e28fb4e8da10ee",
     "symbol": "GHO",
     "name": "GHO",
     "decimals": 18,
     "logoURI": "ipfs://Qmb6XCbfLttDPRdcjijwmqfaBvbfvBjp6VioGr9ZbaMtca"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x6bd561fe098fa05d5412e2ba33553042a83fcc75",
+    "symbol": "USRX",
+    "name": "USRX",
+    "decimals": 18,
+    "logoURI": "ipfs://QmNPkbAmLXaoyh1mn8i2iK2tiJgEUzhK1whqtR6V3HU3Mr"
   },
   {
     "chainId": 8453,
@@ -114825,11 +115457,43 @@
   },
   {
     "chainId": 8453,
+    "address": "0x6dfb7bfa06e7c2b6c20c22c0afb44852c201eb07",
+    "symbol": "SOLVR",
+    "name": "Solvr",
+    "decimals": 18,
+    "logoURI": "ipfs://QmZBzR9fqayktQmmVXvMVwV5vCLyz7kypS6NnLbRw68zbY"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x6e51b3a19f114013e5dc09d0477a536c7e4e0207",
+    "symbol": "MEDIA",
+    "name": "Media",
+    "decimals": 18,
+    "logoURI": "ipfs://QmP2dj7KLNeTgsucX5YgsB5m1DvERjpZFpR61SCxJS4fHv"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x6ec2fd5636c71b624b3f3b03248aa7f9fd5e98de",
+    "symbol": "DECKARD",
+    "name": "DECKARD",
+    "decimals": 18,
+    "logoURI": "ipfs://QmZAo82PDDoTLpz4qn2dTMzYBdQSEXJgacipyPPghhhN1e"
+  },
+  {
+    "chainId": 8453,
     "address": "0x6ef6314cf4619bb616942d2ee038308072b1db91",
     "symbol": "BTC",
     "name": "AI_Saylor by Virtuals",
     "decimals": 18,
     "logoURI": "ipfs://QmNdENYEuAnZw574UFx7tod3pvxEKi8c53hWrSZEYh1AW8"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x6f046507376084849a06d742d0b6ea2067061c8d",
+    "symbol": "LOCKIN",
+    "name": "LOCKIN ",
+    "decimals": 18,
+    "logoURI": "ipfs://QmPaNTivT55u8UEPo3LRqivMeHgQTHHsikQrGARpxar1F7"
   },
   {
     "chainId": 8453,
@@ -114841,11 +115505,27 @@
   },
   {
     "chainId": 8453,
+    "address": "0x6fd31533621452aac187c9cbdfdfb6ef50d28149",
+    "symbol": "ESAB",
+    "name": "ESAB",
+    "decimals": 18,
+    "logoURI": "ipfs://QmUMb3fz2tWU4o8yuE3GkU6uc8ESu9e6gQtStWbScWByia"
+  },
+  {
+    "chainId": 8453,
     "address": "0x70737489dfdf1a29b7584d40500d3561bd4fe196",
     "symbol": "BORED",
     "name": "BORED",
     "decimals": 18,
     "logoURI": "ipfs://QmcnB178HgB3VboRBAyk2F8eYA48sVZNw2Dws941ACLK3i"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x717d31a60a9e811469673429c9f8ea24358990f1",
+    "symbol": "EVERY",
+    "name": "Everyworld",
+    "decimals": 18,
+    "logoURI": "ipfs://Qmc6HGhxRfy4cXvQ6TqHX1fH3yepqpe55QZpqYpezWLQDB"
   },
   {
     "chainId": 8453,
@@ -114897,6 +115577,22 @@
   },
   {
     "chainId": 8453,
+    "address": "0x776bd8f117a8e5f5da64bb4c0db7b91f9e7469b0",
+    "symbol": "STAKE",
+    "name": "stakenslay",
+    "decimals": 18,
+    "logoURI": "ipfs://QmQkDcx7ZY4p1JeRVfmUTdzfyuZrZDPMnh1F8jqxHwUwf1"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x78618ae05783298b1a262342a9135428e7da21c6",
+    "symbol": "SAUL",
+    "name": "Saul GoodAI",
+    "decimals": 18,
+    "logoURI": "ipfs://QmRKPxC4sL8FdnCRUnZdRJ3soXqgdY7J9rZTCLdYwJqN1Q"
+  },
+  {
+    "chainId": 8453,
     "address": "0x787b7b7117848c1f9fc79a8fa543202c231c1edb",
     "symbol": "crypticpoet",
     "name": "Cryptic Poet",
@@ -114905,11 +115601,35 @@
   },
   {
     "chainId": 8453,
+    "address": "0x78c8e25667ffb6048c31e38923dd5540cbbce81f",
+    "symbol": "PIGGY",
+    "name": "Piggybank",
+    "decimals": 18,
+    "logoURI": "ipfs://QmYPFFKs8vzG9HvJRyS1XZrUZ88mZY4zVzLQ8mFygiZ34A"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x78de5c914b91ee1a1defd2c617f759e74a896b07",
+    "symbol": "BASTR",
+    "name": "Base Strategy",
+    "decimals": 18,
+    "logoURI": "ipfs://QmWsFgitb4Gf9NaKa6pZuQn2WD765S7P7sUERCmHyGAmrz"
+  },
+  {
+    "chainId": 8453,
     "address": "0x7aef64e5997a81f695e0bc951ca874afccd4d1e1",
     "symbol": "OVER",
     "name": "It's so over",
     "decimals": 18,
     "logoURI": "ipfs://QmXxjqywRcWkFN8PSxQ4xfv1K5tUWUgFu7MBoWopoUGXQ2"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x7c0a5c1020c39bfa1af711b4b963be82f55e1b07",
+    "symbol": "CLAUDET",
+    "name": "Claude Terminal",
+    "decimals": 18,
+    "logoURI": "ipfs://Qma9D23gtoWHJrNpCEdAFcmNWa2it8bMK5okf4V64vURNa"
   },
   {
     "chainId": 8453,
@@ -114937,6 +115657,30 @@
   },
   {
     "chainId": 8453,
+    "address": "0x7ffd8f91b0b1b5c7a2e6c7c9efb8be0a71885b07",
+    "symbol": "ARGUE",
+    "name": "ARGUE.FUN",
+    "decimals": 18,
+    "logoURI": "ipfs://QmSpVN7YaUeaLdmXfPhx5HSZiu7TrnqRSvGNMU8DsuYAaq"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x808f7eaf1097bfd329596436628f146796875a88",
+    "symbol": "PFCFIGHT",
+    "name": "PUMP.FUN FIGHTING CHAMPIONSHIP",
+    "decimals": 18,
+    "logoURI": "ipfs://QmQtTQUdhyPFX5uN9EdpKnMgoWskZPPbhZs3mRiLJLsKdx"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x80b84b63c88d054d300d51e801c2a65e20d44b07",
+    "symbol": "KNT",
+    "name": "KayakNet",
+    "decimals": 18,
+    "logoURI": "ipfs://QmP2j98DMk2x3eNjLzXLyDbAgSK3PL7nn1n1GbHWzzHCgk"
+  },
+  {
+    "chainId": 8453,
     "address": "0x80e5dcdbfb131984b184e2f700407c85856a2a09",
     "symbol": "WONDER",
     "name": "THE KID by Virtuals",
@@ -114961,6 +115705,14 @@
   },
   {
     "chainId": 8453,
+    "address": "0x8203df31e6fd608c7ae0ed0c815444a5089045d6",
+    "symbol": "ROAST",
+    "name": "Roast My Bags",
+    "decimals": 18,
+    "logoURI": "ipfs://QmRC4TR9gjNjCAHwJ9XfWpbS9PzqoNpDkqMvJB3HHiUC6T"
+  },
+  {
+    "chainId": 8453,
     "address": "0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
     "symbol": "USDC",
     "name": "USD Coin",
@@ -114982,14 +115734,6 @@
     "name": "Panana",
     "decimals": 18,
     "logoURI": "ipfs://QmT914SZJ2wQ5KhaK8Cj4FKv7vAfcxbthh33A9fzPHLhM9"
-  },
-  {
-    "chainId": 8453,
-    "address": "0x84a9183c9d11146d8e6a820dfc675a61b11eadeb",
-    "symbol": "BASEDHYPE",
-    "name": "BasedHype",
-    "decimals": 18,
-    "logoURI": "ipfs://QmUGJvqMVohCiyZNPQzNYTqZr8hkErZ4mJ5DFq83rUtZPR"
   },
   {
     "chainId": 8453,
@@ -115089,6 +115833,14 @@
   },
   {
     "chainId": 8453,
+    "address": "0x91f45f3fa1d6f381f9d533b7f2d7ddecaa6e8b07",
+    "symbol": "INK",
+    "name": "INK",
+    "decimals": 18,
+    "logoURI": "ipfs://QmPbPE7mmWgHyeWP91QdeCU8qffGKWNW5jJr3CHBtDJhRw"
+  },
+  {
+    "chainId": 8453,
     "address": "0x931ef8053e997b1bab68d1e900a061305c0ff4fb",
     "symbol": "DOBI",
     "name": "Dobi",
@@ -115102,6 +115854,14 @@
     "name": "Magnus Opus by Virtuals",
     "decimals": 18,
     "logoURI": "ipfs://QmZQh25B9QmEuhKTiaBjiHjYzoVGXg8TnHLZ5HXoX6vABc"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x93ba8dbe34d05ef999d5037ccde0bb1cc269415a",
+    "symbol": "NEXUS",
+    "name": "Nexus AI",
+    "decimals": 18,
+    "logoURI": "ipfs://QmbST8KvR5iLaHe3U7yeiEixqLHdCaWN4H42oV6MT6CZ8v"
   },
   {
     "chainId": 8453,
@@ -115129,6 +115889,14 @@
   },
   {
     "chainId": 8453,
+    "address": "0x9546f6dffe5f4dbaac0414d0b7c43ef48cf62a7d",
+    "symbol": "PEPPY",
+    "name": "Peppy",
+    "decimals": 18,
+    "logoURI": "ipfs://QmR3tqxVtsmecRD2Qn5UBCemdKCUyCiHC9efFKAXGv9TQR"
+  },
+  {
+    "chainId": 8453,
     "address": "0x954da5ac1ae490b53f0954dd7105f43b8fa9aaee",
     "symbol": "TANGO",
     "name": "TANGO",
@@ -115137,11 +115905,27 @@
   },
   {
     "chainId": 8453,
+    "address": "0x9797b358638013a29149f723788166cfc629ef38",
+    "symbol": "MWORLD",
+    "name": "MoltWorld",
+    "decimals": 18,
+    "logoURI": "ipfs://QmcXGV1GTKPVVrhbJmGrnvtW4qBryqnxdqv3GS9eHVgsc3"
+  },
+  {
+    "chainId": 8453,
     "address": "0x981d41c115a2d48cb1215d13bda8f989d407c9c5",
     "symbol": "XEN",
     "name": "Xena",
     "decimals": 18,
     "logoURI": "ipfs://QmSZeYf6zeJnu7ZZjqZFVjwV57siuL4icMjC7P3xJuQCjb"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x987603a52d8b966e10fbd29dcb1a574049e25b07",
+    "symbol": "USI",
+    "name": "USIC",
+    "decimals": 18,
+    "logoURI": "ipfs://QmcL7EmQKuiSyKvChfHrLqzT61XxXYmK4jZGajk8KUAprn"
   },
   {
     "chainId": 8453,
@@ -115158,6 +115942,14 @@
     "name": "Misato by Virtuals",
     "decimals": 18,
     "logoURI": "ipfs://QmTenk7wi98vwjTFVWToPZCvsdfsjtiDsQYYhEFJ4ELhJ5"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x99271f29c987c6a67f6e6ca8c90786fe139d9f24",
+    "symbol": "WHIP",
+    "name": "whip",
+    "decimals": 18,
+    "logoURI": "ipfs://QmeSAAJeaUEZB8wbuvyJGUVoVZiofTyJqRofkMdZukkj5g"
   },
   {
     "chainId": 8453,
@@ -115198,6 +115990,22 @@
     "name": "EthiQ",
     "decimals": 18,
     "logoURI": "ipfs://QmT7nLVphajdk6BrKT9wR7DkpLbi5LTJTaG4FwNGkaHegt"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x9c4315eb7ba91b7bdc1727ad5f76ea4ac8875506",
+    "symbol": "GONNER",
+    "name": "Gooner",
+    "decimals": 18,
+    "logoURI": "ipfs://QmVnoA6s97RvwmCRTiSj2yeUkgztuz8fe4TLUXmJSFEuK6"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x9c4a880d11ba15bc63aae602b87dc37e6677edf2",
+    "symbol": "JESUS",
+    "name": "Miracles",
+    "decimals": 18,
+    "logoURI": "ipfs://QmNg3VFfhT2uo1LkKgpAN3Gv9Sk39Pth7768cgnXnJx7qB"
   },
   {
     "chainId": 8453,
@@ -115321,11 +116129,27 @@
   },
   {
     "chainId": 8453,
+    "address": "0xac86f3556cbd2b4d800d17adc3a266b500fcb9f5",
+    "symbol": "DIP",
+    "name": "Etherisc DIP",
+    "decimals": 18,
+    "logoURI": "ipfs://QmSz49FiH3iZ8QXcTpGaw5iaJj58y9SHp3s7WJKM31piXj"
+  },
+  {
+    "chainId": 8453,
     "address": "0xadba4694f5deaf3251d06dec38c86946f8952efb",
     "symbol": "DIP",
     "name": "DIP",
     "decimals": 18,
     "logoURI": "ipfs://QmQj5TddmiaGtpz1PXzsSu1WQ3tERNF8b6fBVaxuQBkveU"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xafb4e03ffb4c2c283d4304a791d3a9896957aa6a",
+    "symbol": "TAGURU",
+    "name": "The TA Guru by Virtuals",
+    "decimals": 18,
+    "logoURI": "ipfs://QmRgjDRvUvD5EgfDhToLj2ymw6roBeyA4Rqf9D6wy3g7aL"
   },
   {
     "chainId": 8453,
@@ -115353,19 +116177,19 @@
   },
   {
     "chainId": 8453,
-    "address": "0xb239f49f44e1aa8a2a7539bb60be8f83159c904b",
-    "symbol": "AVLX",
-    "name": "Avalex",
-    "decimals": 18,
-    "logoURI": "ipfs://QmR84norfGPaun2vybY6iaaepp757P3rEM6XZd6J8GssvB"
-  },
-  {
-    "chainId": 8453,
     "address": "0xb2ee01f57aebd6e268934ed9dc47b01be760867d",
     "symbol": "AGORA",
     "name": "Agora by Virtuals",
     "decimals": 18,
     "logoURI": "ipfs://Qme8coR5bbEaUH7hxctkhf4shkkatubgZrMz5T8VWsuRH1"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb4415a9478d6e29f2084946b99f57bf2530775ef",
+    "symbol": "Bdog",
+    "name": "Bdog",
+    "decimals": 18,
+    "logoURI": "ipfs://Qma1TkHnpAc1zDRoSTGmHDJgxzPkZD1SQQcT24jurr6hjf"
   },
   {
     "chainId": 8453,
@@ -115377,11 +116201,27 @@
   },
   {
     "chainId": 8453,
+    "address": "0xb6830e61aeba58e07884983451d26880b4078b07",
+    "symbol": "SPOTLIGHT",
+    "name": "Spotlight",
+    "decimals": 18,
+    "logoURI": "ipfs://QmX9SneTK3j1pJzYKMF2LL9mApTCqAThnkJRu2hV6wntZV"
+  },
+  {
+    "chainId": 8453,
     "address": "0xb6909586bd20f83f723c4e756e215f570583136b",
     "symbol": "BAI",
     "name": "bAInance",
     "decimals": 18,
     "logoURI": "ipfs://QmSsWtwUQagjV2DFYHWKZkcpm1YVoFFJ2SE3rVwHG938Gy"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb70c9f23be92567d34aa4620509bc16a89da2b55",
+    "symbol": "lambchop",
+    "name": "Lambchop",
+    "decimals": 18,
+    "logoURI": "ipfs://QmPhGDuQV3mwwwnSTYXig2u3DdjDMG9UZxAMwbHZx9bnrT"
   },
   {
     "chainId": 8453,
@@ -115489,11 +116329,27 @@
   },
   {
     "chainId": 8453,
+    "address": "0xc216a09e625f47b325fd42ff9ab4a4f60175bb1c",
+    "symbol": "AB",
+    "name": "Agent Base Ai",
+    "decimals": 18,
+    "logoURI": "ipfs://QmZSRRrPFswLGATceBo7NtXDmMTFQXV1JiZ48GpVHkgc1e"
+  },
+  {
+    "chainId": 8453,
     "address": "0xc2ae5bd785922a0810531934a79f2d0660bb5ff1",
     "symbol": "EMINEM",
     "name": "EMINEM by Virtuals",
     "decimals": 18,
     "logoURI": "ipfs://QmQKSg6g7HirRhZcPjhnvigvCtbcSFLkVn9w5wPEAcqtin"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xc2e0b8a12c4d90290ea8c16335f16e37ae1bcb07",
+    "symbol": "McClaw",
+    "name": "McClaw",
+    "decimals": 18,
+    "logoURI": "ipfs://QmTCEUEiojaiK1ykhj5eC2DYQzdZX3zhguHZj9JEv1fx5c"
   },
   {
     "chainId": 8453,
@@ -115529,11 +116385,11 @@
   },
   {
     "chainId": 8453,
-    "address": "0xc77eb53473759913bf278e52861ef281829cbe4d",
-    "symbol": "SKY",
-    "name": "Skynet",
+    "address": "0xc78fabc2cb5b9cf59e0af3da8e3bc46d47753a4e",
+    "symbol": "OSO",
+    "name": "Osobot",
     "decimals": 18,
-    "logoURI": "ipfs://QmWRsGq2xbUE1tEU1dG7cpFRTw3oKf8Lf2YnKei3NRx8Cm"
+    "logoURI": "ipfs://QmeRNNrzKp3C5QuY5Vb2ysbd9F7fiSizqD5kW3iWGS4rPX"
   },
   {
     "chainId": 8453,
@@ -115553,6 +116409,22 @@
   },
   {
     "chainId": 8453,
+    "address": "0xcd03e395f1604610261f2a7b578292eacc8d4844",
+    "symbol": "LUNARA",
+    "name": "LunaraXBT",
+    "decimals": 18,
+    "logoURI": "ipfs://QmWJuL79AHpwyZM1yxkfACss5J7n3HcsGoXCTsncWhZGdk"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xce16ef461d88256d2d80dfd31f0d9e7a9fd59213",
+    "symbol": "BUNKER",
+    "name": "BUNKER",
+    "decimals": 18,
+    "logoURI": "ipfs://QmZEXASa78fwk5AP9TZnejeQngGPrNStCBjqRNKa642Ned"
+  },
+  {
+    "chainId": 8453,
     "address": "0xcefe23c62c68b40548f24f9de5bb5e107d729400",
     "symbol": "BASED",
     "name": "BASED",
@@ -115566,6 +116438,14 @@
     "name": "BasedRate.io RATE",
     "decimals": 18,
     "logoURI": "ipfs://QmTMc72iXLiXSAvGo7DQb693BZFnDtvFHoW9MF2HQWTTv8"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xd2969cc475a49e73182ae1c517add57db0f1c2ac",
+    "symbol": "visualizevalue",
+    "name": "visualizevalue",
+    "decimals": 18,
+    "logoURI": "ipfs://Qme9Fwty71Rx55ydgcUszuPFacEn3mRwvz1MdLCdzABzWb"
   },
   {
     "chainId": 8453,
@@ -115593,6 +116473,30 @@
   },
   {
     "chainId": 8453,
+    "address": "0xd565e9eb9b7e2de4902486b7057d642393afdaa4",
+    "symbol": "DOGEBASE",
+    "name": "Doge Base",
+    "decimals": 18,
+    "logoURI": "ipfs://QmdASaRMs4VEEnAkKpKvFTQthKp2iVcYJscAw1Wpir14GU"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xd61cffea012f736995a6bc03a74ebf02ae662e28",
+    "symbol": "SLSH",
+    "name": "Slesh",
+    "decimals": 18,
+    "logoURI": "ipfs://QmYJngCaSiTDjYYn4kmQbZNrKvb8QXg8QNDsnWdcHfx9gM"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xd624c43520d0bc4d91c20b5a808625eda831fb07",
+    "symbol": "LinkClaws",
+    "name": "LinkClaws",
+    "decimals": 18,
+    "logoURI": "ipfs://QmZE7GgwzFHamm2qWY7e6PG23qTnZGznzkdv2KWKcsZosc"
+  },
+  {
+    "chainId": 8453,
     "address": "0xd63aaeec20f9b74d49f8dd8e319b6edd564a7dd0",
     "symbol": "SHOGUN",
     "name": "Shogun",
@@ -115614,6 +116518,14 @@
     "name": "Hokkaidu Inu",
     "decimals": 9,
     "logoURI": "ipfs://QmUuA1HniKrYk1kbZA9qyjTWgAwhWfYagxDdHPou8mZjci"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xd88fd4a11255e51f64f78b4a7d74456325c2d8dc",
+    "symbol": "$BV7X",
+    "name": "BitVault Signal",
+    "decimals": 18,
+    "logoURI": "ipfs://QmXrYgHGFdbEgquCgqvGTeiEcV9TcpEDhcwHM7GkXzFQv8"
   },
   {
     "chainId": 8453,
@@ -115657,6 +116569,22 @@
   },
   {
     "chainId": 8453,
+    "address": "0xde34ce6768a045929bd50fc18dec2bcf3eab2e6f",
+    "symbol": "realgarrytan",
+    "name": "realgarrytan",
+    "decimals": 18,
+    "logoURI": "ipfs://QmaTShPtdgi5a3D6kiS2CnTroqzRRkEv9Jgx6UDYhZ6mS6"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xde4b3bdfc8203f5641ceeaf203362d34d49c2b07",
+    "symbol": "BOUNCERBOT",
+    "name": "Clawd Bouncer Bot",
+    "decimals": 18,
+    "logoURI": "ipfs://QmTXxTh4DcEgoY3QRpVoMXrEzeDCHxghQXdHQa8MM9R7gm"
+  },
+  {
+    "chainId": 8453,
     "address": "0xdfc09cf4563a65b14dd08a93be4ad454be985c8c",
     "symbol": "BERT",
     "name": "Based Mert",
@@ -115665,11 +116593,35 @@
   },
   {
     "chainId": 8453,
+    "address": "0xdfe23e2c07f8edf23eba9c9a45e23303417c6b07",
+    "symbol": "FARVERSE",
+    "name": "Farverse",
+    "decimals": 18,
+    "logoURI": "ipfs://QmZ9nuhMZ8Vmz1rXTpe892vemx7q46umiB2Uc4QXV8jeLU"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xe00fce0f0c44c945d23178a1246953bff33e15dd",
+    "symbol": "bballhy",
+    "name": "bballhy",
+    "decimals": 18,
+    "logoURI": "ipfs://QmZEXv1y2A9DVnLPw7uerwjRgTXJRgQFV7cZhhahGtexid"
+  },
+  {
+    "chainId": 8453,
     "address": "0xe061aa40be525a13296cb4bf69f513242349d708",
     "symbol": "XVGBASE",
     "name": "XVGBASE",
     "decimals": 18,
     "logoURI": "ipfs://QmQxkCCE9cPrdjSg7pFWJYw3tK3q6R88T3xTcDF98eSAP9"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xe10c9e9d5d8005cde4fcc5e635614665de736148",
+    "symbol": "FUKU",
+    "name": "Fuku",
+    "decimals": 18,
+    "logoURI": "ipfs://QmYUwGjXmBdQc6UQp63kcdZhRhTGg2yMB8QvDm8R2B9P1C"
   },
   {
     "chainId": 8453,
@@ -115705,6 +116657,14 @@
   },
   {
     "chainId": 8453,
+    "address": "0xe8850bbc9c289c34e7c92c9572be38f77d61cb07",
+    "symbol": "CloudX",
+    "name": "ClawCloudX",
+    "decimals": 18,
+    "logoURI": "ipfs://QmNvwX3faQY7GezTUPsEFQBuoHWKVyYukEw3Ui75mJ7h1W"
+  },
+  {
+    "chainId": 8453,
     "address": "0xe8aae6251c6cf39927b0ff31399030c60bec798f",
     "symbol": "SUMI",
     "name": "SUMI",
@@ -115718,6 +116678,14 @@
     "name": "WAIFU",
     "decimals": 18,
     "logoURI": "ipfs://QmTSeTKt42RvzfM7ZPPWFSz4wPinSpi64tVbJEcWAfRGZF"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xea651c035f52b644856cab1f59775369c36ecadd",
+    "symbol": "LAIKA",
+    "name": "Laïka",
+    "decimals": 18,
+    "logoURI": "ipfs://Qmd7gCdM9tii5jmH6VE8fNvKCFYpUKv3oQhNnnWG16vQoC"
   },
   {
     "chainId": 8453,
@@ -115801,6 +116769,14 @@
   },
   {
     "chainId": 8453,
+    "address": "0xf768cfcbede140c8b44a31ace07d9bb19f793ad9",
+    "symbol": "QPLANXAI",
+    "name": "WWG1WGA",
+    "decimals": 18,
+    "logoURI": "ipfs://QmScNpS79f6Y3aaBzFXDAgHRopD63dWVYxEJTQjDKvkGhe"
+  },
+  {
+    "chainId": 8453,
     "address": "0xf7a0dd3317535ec4f4d29adf9d620b3d8d5d5069",
     "symbol": "stERN",
     "name": "Staked ERN Vault",
@@ -115825,11 +116801,19 @@
   },
   {
     "chainId": 8453,
-    "address": "0xfca95aeb5bf44ae355806a5ad14659c940dc6bf7",
-    "symbol": "SHIB",
-    "name": "SHIBA INU",
-    "decimals": 9,
-    "logoURI": "ipfs://QmT8DKvEBsic6ixnnEBVHYPg6xyYbWzWuPvMubRjzbx7cf"
+    "address": "0xfaded58c5fac3d95643a14ee33b7ea9f50084b9a",
+    "symbol": "TGATE",
+    "name": "TensorGate",
+    "decimals": 18,
+    "logoURI": "ipfs://QmNXHvBTgA2AbPmftGYbqTp8W4kmJWHxYi33fDnkH4mY6m"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xfafb7581a65a1f554616bf780fc8a8acd2ab8c9b",
+    "symbol": "SQUID",
+    "name": "Squid Game V2",
+    "decimals": 18,
+    "logoURI": "ipfs://QmZE26mjufGjSc7FfaHBWEpd7JpZ2yVXCpGVUzMPJY1jgF"
   },
   {
     "chainId": 8453,
@@ -115841,19 +116825,19 @@
   },
   {
     "chainId": 8453,
+    "address": "0xfd43544c8e14f8fefa59facb71bc4aacd8160289",
+    "symbol": "TRUMP.AI",
+    "name": "TRUMP.AI by wow.ai",
+    "decimals": 18,
+    "logoURI": "ipfs://QmSz4ps5sC8shV8q8JHFWvjhd3PKWKH7iLUjV5YGRacUvf"
+  },
+  {
+    "chainId": 8453,
     "address": "0xfdc944fb59201fb163596ee5e209ebc8fa4dcdc5",
     "symbol": "AMC",
     "name": "AMC",
     "decimals": 18,
     "logoURI": "ipfs://QmU4CttXLoa6YKKqH5KzrFC98MyupW9nwxi3EkQxhEJdTE"
-  },
-  {
-    "chainId": 8453,
-    "address": "0xff89b7cdac2c74ef228e7667c2fedeb57da39c81",
-    "symbol": "DYNA",
-    "name": "DynaVest",
-    "decimals": 18,
-    "logoURI": "ipfs://QmZE4aq4YSWePbWFNCsDzrPZahhY8HK547g5ysksikWVwt"
   },
   {
     "chainId": 42161,
@@ -115958,6 +116942,14 @@
     "name": "Pinakion",
     "decimals": 18,
     "logoURI": "ipfs://QmZ3Qb8gdCv5wpHen6gLedx6N21jvspzQfcP592JAu1yWa"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x3572f8f8c2d8f4ec9469bb1c8573439c7500771e",
+    "symbol": "KNOW",
+    "name": "KNOW",
+    "decimals": 18,
+    "logoURI": "ipfs://QmNaYNkSzz1uXioPEhfYRf48w5PaZKuNYyr6ttsUvQBeyZ"
   },
   {
     "chainId": 42161,
@@ -116137,6 +117129,14 @@
   },
   {
     "chainId": 42161,
+    "address": "0xbe5acfd64358805616b5cbd5277b9a85011d7cf1",
+    "symbol": "PCH",
+    "name": "Pichi",
+    "decimals": 18,
+    "logoURI": "ipfs://QmczpXf2Fmsz2HbQ7Ci3bJ5jTSEq1fXFikMpLx2zHX2Jqa"
+  },
+  {
+    "chainId": 42161,
     "address": "0xc5102fe9359fd9a28f877a67e36b0f050d81a3cc",
     "symbol": "HOP",
     "name": "Hop Protocol",
@@ -116177,6 +117177,14 @@
   },
   {
     "chainId": 42161,
+    "address": "0xdd89a4d3362828e601df52208302a741f08e46c5",
+    "symbol": "O3",
+    "name": "O3",
+    "decimals": 18,
+    "logoURI": "ipfs://QmbeN47afCczkdtJwoKgVzGzm7rgJavbvHsFhasTqaY7Xg"
+  },
+  {
+    "chainId": 42161,
     "address": "0xe05a08226c49b636acf99c40da8dc6af83ce5bb3",
     "symbol": "ankrETH",
     "name": "Ankr Staked ETH",
@@ -116198,6 +117206,14 @@
     "name": "Rocket Pool ETH",
     "decimals": 18,
     "logoURI": "ipfs://Qmbi1nfNhAUPBvBTNGavm73n9PSQq1eHuqoRXNh23FLJAA"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xee0a242f28034fce0bdfac33c0ad2a58ec35fd38",
+    "symbol": "ROSA",
+    "name": "Rosa Inu",
+    "decimals": 18,
+    "logoURI": "ipfs://QmdJj85ehVTftPav7rUtXCF4Ghc4RSrgCm8J57HudQLygv"
   },
   {
     "chainId": 42161,
@@ -116353,11 +117369,27 @@
   },
   {
     "chainId": 43114,
+    "address": "0x34a1d2105dd1b658a48ead516a9ce3032082799c",
+    "symbol": "GLADIUS",
+    "name": "GLADIUS",
+    "decimals": 18,
+    "logoURI": "ipfs://QmV4WARLxemaWAmnBBbNeG8rsb3a8T4RoSTWtTjxhh9kxg"
+  },
+  {
+    "chainId": 43114,
     "address": "0x34a528da3b2ea5c6ad1796eba756445d1299a577",
     "symbol": "ID",
     "name": "Integrity DAO",
     "decimals": 18,
     "logoURI": "ipfs://QmUrUmdZgJPhEW2snKoSYjzPvjhtCdQjB4HeHww5x92x6T"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x38f9bf9dce51833ec7f03c9dc218197999999999",
+    "symbol": "NYA",
+    "name": "Nya",
+    "decimals": 18,
+    "logoURI": "ipfs://QmVMq9iamxjKWsSEVdNPVP48rj6DWFrQhr8WtifCXoKN2R"
   },
   {
     "chainId": 43114,
@@ -116398,6 +117430,14 @@
     "name": "Phoenic",
     "decimals": 18,
     "logoURI": "ipfs://QmdQF72VqaBakgnwHtj8UEo8roBCso8JS2XHhpYQQN8mWf"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x58f1e680a87e44a6f9ff77b32c421ed77f5d1ab4",
+    "symbol": "GYM",
+    "name": "LETS GET IN SHAPE",
+    "decimals": 18,
+    "logoURI": "ipfs://QmeLbVM6ZtknCD8PqGU4AfP1NvznsQYuDCCkbnYzbq7bNj"
   },
   {
     "chainId": 43114,
@@ -116449,6 +117489,22 @@
   },
   {
     "chainId": 43114,
+    "address": "0x6985884c4392d348587b19cb9eaaf157f13271cd",
+    "symbol": "ZRO",
+    "name": "LayerZero",
+    "decimals": 18,
+    "logoURI": "ipfs://QmP6qWqXvuz7inSWaYrMsXqLfuXBjcBa6YaVYuK5Mh8Ag2"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x70152ac1288a08f862b4c677e68169485a0ad358",
+    "symbol": "REDEEMER",
+    "name": "The Redeemer",
+    "decimals": 18,
+    "logoURI": "ipfs://QmXG86fqB5K7JV7K9Gq6kUnMAxAiin2i7qyLVNvDBzzAgk"
+  },
+  {
+    "chainId": 43114,
     "address": "0x7086e045b78e1e72f741f25231c08d238812cf8a",
     "symbol": "RACEX",
     "name": "RaceX",
@@ -116478,6 +117534,14 @@
     "name": "Wink",
     "decimals": 18,
     "logoURI": "ipfs://QmQ7Dcczj1NaRQyMrMQcK5hTTxqmtfeXtQ48ah4Exek5wS"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x79bbf4508b1391af3a0f4b30bb5fc4aa9ab0e07c",
+    "symbol": "ANON",
+    "name": "Hey Anon",
+    "decimals": 18,
+    "logoURI": "ipfs://QmPWzYeU3dwFH3DqmQ4UcB6KwxbSEUugksKJwKfQLXyu7A"
   },
   {
     "chainId": 43114,
@@ -116569,6 +117633,14 @@
   },
   {
     "chainId": 43114,
+    "address": "0x9728db5817d51ccec8605f97fbc598302dda4f66",
+    "symbol": "FBG",
+    "name": "Fort Block Games",
+    "decimals": 18,
+    "logoURI": "ipfs://QmSKZX9p9prXh2tZ7SnWFKdWhTLrcGkwMv5YTxRBKaEYe8"
+  },
+  {
+    "chainId": 43114,
     "address": "0x97cf07b5401b76d69bf48a4f6fdf63684e0748e0",
     "symbol": "GRAMS",
     "name": "Gram Silver",
@@ -116617,6 +117689,14 @@
   },
   {
     "chainId": 43114,
+    "address": "0xb9c188bc558a82a1ee9e75ae0857df443f407632",
+    "symbol": "GOAT",
+    "name": "GreatestOfAVAXTrenches",
+    "decimals": 18,
+    "logoURI": "ipfs://QmTc6qwcE9qXHTnPUAvVetHvVgHroLoxbXW31H7c1mMjx5"
+  },
+  {
+    "chainId": 43114,
     "address": "0xbbaaa0420d474b34be197f95a323c2ff3829e811",
     "symbol": "LOD3",
     "name": "LOD3 Token",
@@ -116649,6 +117729,14 @@
   },
   {
     "chainId": 43114,
+    "address": "0xd402298a793948698b9a63311404fbbee944eafd",
+    "symbol": "SHRAP",
+    "name": "SHRAP",
+    "decimals": 18,
+    "logoURI": "ipfs://QmRDHvxqz2dWPqz7GrPNtZhgEYKAMS2T8ebenTEzVhukQt"
+  },
+  {
+    "chainId": 43114,
     "address": "0xd7c295e399ca928a3a14b01d760e794f1adf8990",
     "symbol": "DSLA",
     "name": "DSLA",
@@ -116662,6 +117750,14 @@
     "name": "More",
     "decimals": 18,
     "logoURI": "ipfs://QmYtWJANfnXYFbPfZNg2zv2Y7VSRKyUH3UpD1FF9fRHXEM"
+  },
+  {
+    "chainId": 43114,
+    "address": "0xdf50ad73b92c758bbf94869b4b7b9128bbe4a475",
+    "symbol": "TOPIA",
+    "name": "Cryptopia123",
+    "decimals": 18,
+    "logoURI": "ipfs://QmTm6Ex7D3zDBTmzAF2Kh54fWsUV3pTBvGtGBEyVLmRV6T"
   },
   {
     "chainId": 43114,
@@ -116742,6 +117838,14 @@
     "name": "Pendle",
     "decimals": 18,
     "logoURI": "ipfs://QmTxKVNqNmydR5GtNVxyHamQiSXg7KVat1x2PNqhFPY4z8"
+  },
+  {
+    "chainId": 59144,
+    "address": "0xd96536b77ae5500fe850add2253bcf640e7824c1",
+    "symbol": "SIDUS",
+    "name": "SIDUS",
+    "decimals": 18,
+    "logoURI": "ipfs://QmR3R7iViCVGTvK2PGV2ntXETyzva42ibYe5AayGYgFfss"
   },
   {
     "chainId": 534352,
