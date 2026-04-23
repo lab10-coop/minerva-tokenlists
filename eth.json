@@ -3507,7 +3507,7 @@
     "chainId": 1,
     "name": "USAT",
     "address": "0x07041776f5007aca2a54844f50503a18a72a8b68",
-    "decimals": 18,
+    "decimals": 6,
     "symbol": "USAT",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/38386.png"
   },
@@ -5689,11 +5689,11 @@
   },
   {
     "chainId": 1,
+    "name": "USD.AI",
     "address": "0x0c1c1c109fe34733fca54b82d7b46b75cfb71f6e",
-    "name": "CHIP",
-    "symbol": "CHIP",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/102171777/thumb/CHIP_Token_Logo_Large.png?1776777444"
+    "symbol": "CHIP",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/39870.png"
   },
   {
     "chainId": 1,
@@ -15353,7 +15353,7 @@
     "name": "Augur",
     "symbol": "REP",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/309/thumb/REP.png?1696501648"
+    "logoURI": "https://assets.coingecko.com/coins/images/309/thumb/REPv2_Icon_-_Full_Color_over_Black.png?1776903141"
   },
   {
     "chainId": 1,
@@ -33645,14 +33645,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x4b0ee7c047d43ca403239f28f42115bedb7c0076",
-    "name": "Oklo xStock",
-    "symbol": "OKLOX",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/69622/thumb/Ticker_OKLOx__Company_Name_Oklo__size_200x200.png?1759233239"
-  },
-  {
-    "chainId": 1,
     "name": "Pollchain",
     "address": "0x4b0f027d0b694aae2761ed2d426295d4f949f5d0",
     "decimals": 18,
@@ -50122,6 +50114,14 @@
     "decimals": 18,
     "symbol": "TIUSD",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/27693.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x6f0066f9df5abf780cfc69ebe50b71fc4cdb08b0",
+    "name": "DANK DOGE",
+    "symbol": "DANKDOGE",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/102172971/thumb/dankdoge.jpg?1776905466"
   },
   {
     "chainId": 1,
@@ -71333,6 +71333,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x9fdbde76236998dc2836fe67a9954ede456a1d63",
+    "name": "Baseline",
+    "symbol": "B",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102172966/thumb/baseline-logo.png?1776870681"
+  },
+  {
+    "chainId": 1,
     "name": "Meme Kombat",
     "address": "0x9fdfb933ee990955d3219d4f892fd1f786b47c9b",
     "decimals": 18,
@@ -72106,6 +72114,14 @@
     "decimals": 9,
     "symbol": "RFI",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7747.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xa1b014878d47c0836ed79163ddec55985adb7023",
+    "name": "Dog Food Token",
+    "symbol": "OISHII",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/50682/thumb/oishii.png?1729064633"
   },
   {
     "chainId": 1,
@@ -98417,14 +98433,6 @@
   },
   {
     "chainId": 1,
-    "address": "0xdf8ef8fef6fa5489d097652dedfb6617ce28a0d6",
-    "name": "dump.trade",
-    "symbol": "DUMP",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/36984/thumb/logo.png?1712945749"
-  },
-  {
-    "chainId": 1,
     "name": "YetiCoin",
     "address": "0xdf96bde075d59e9143b325c75af38e208c986e6f",
     "decimals": 18,
@@ -100158,6 +100166,14 @@
     "decimals": 18,
     "symbol": "EYES",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/5673.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xe430a5152d594e16344a28a04b7e40c3f8450838",
+    "name": "Baby Asteroid",
+    "symbol": "BASTEROID",
+    "decimals": 2,
+    "logoURI": "https://assets.coingecko.com/coins/images/102172964/thumb/%E4%B8%8B%E8%BD%BD.png?1776853086"
   },
   {
     "chainId": 1,
