@@ -3601,6 +3601,14 @@
   },
   {
     "chainId": 1,
+    "name": "Indonesia Rupiah Token",
+    "address": "0x07429a7f8f80db4bf05d0753aa6b0fd156fffa56",
+    "decimals": 6,
+    "symbol": "IDRP",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/39956.png"
+  },
+  {
+    "chainId": 1,
     "name": "HaloOracle",
     "address": "0x0746b8cb6dd33134baf0ead66146f442c098b42e",
     "decimals": 8,
@@ -5577,7 +5585,7 @@
   },
   {
     "chainId": 1,
-    "name": "yearn.finance",
+    "name": "Yearn",
     "address": "0x0bc529c00c6401aef6d220be8c6ea1667f6ad93e",
     "decimals": 18,
     "symbol": "YFI",
@@ -103585,6 +103593,14 @@
   },
   {
     "chainId": 1,
+    "address": "0xec2af1c8b110a61fd9c3fa6a554a031ca9943926",
+    "name": "MegaUSD",
+    "symbol": "USDM",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69955/thumb/USDm.png?1760170136"
+  },
+  {
+    "chainId": 1,
     "name": "zkExchange",
     "address": "0xec2bc2b25ab6ed8e669e202cd0ee533e24c9a068",
     "decimals": 18,
@@ -110406,6 +110422,14 @@
     "decimals": 18,
     "symbol": "RBLX",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2689.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xfc347c996bd66c1d92e2045c80b413ef3fc84a90",
+    "name": "Zand AED",
+    "symbol": "AEDZ",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/102173145/thumb/zand2.png?1778055317"
   },
   {
     "chainId": 1,
