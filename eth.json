@@ -33613,14 +33613,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x4acb074ff8152de067be3da282dda6469992b42d",
-    "name": "NUVA nvPRIME",
-    "symbol": "NVPRIME",
-    "decimals": 12,
-    "logoURI": "https://assets.coingecko.com/coins/images/102171768/thumb/nvPRIME_%282%29.png?1778233512"
-  },
-  {
-    "chainId": 1,
     "address": "0x4ad0b81f92b16624bbcf46fc0030cfbbf8d02376",
     "name": "Unagii Dai",
     "symbol": "UDAI",
@@ -40266,6 +40258,14 @@
     "symbol": "XSTETH",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/39601/thumb/Screenshot_2024-08-07_at_7.23.59%E2%80%AFPM.png?1723065407"
+  },
+  {
+    "chainId": 1,
+    "address": "0x5a0f93d040de44e78f251b03c43be9cf317dcf64",
+    "name": "Janus Henderson Anemoy AAA CLO Fund",
+    "symbol": "JAAA",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/70446/thumb/jaaa.png?1762078666"
   },
   {
     "chainId": 1,
@@ -62861,6 +62861,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x8c213ee79581ff4984583c6a801e5263418c4b86",
+    "name": "Janus Henderson Anemoy Treasury Fund",
+    "symbol": "JTRSY",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/70445/thumb/JTRSY.png?1762078582"
+  },
+  {
+    "chainId": 1,
     "name": "NFTEarthOFT",
     "address": "0x8c223a82e07fecb49d602150d7c2b3a4c9630310",
     "decimals": 18,
@@ -66221,6 +66229,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x9477724bb54ad5417de8baff29e59df3fb4da74f",
+    "name": "Anemoy Tokenized Apollo Diversified Credit Fund",
+    "symbol": "ACRDX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70454/thumb/acdrx.png?1762081579"
+  },
+  {
+    "chainId": 1,
     "name": "FME",
     "address": "0x947938339bf61c84669e303bc39c794d65a525d0",
     "decimals": 18,
@@ -66653,7 +66669,7 @@
   },
   {
     "chainId": 1,
-    "name": "SCANDIC COIN",
+    "name": "SNC SCANDIC COIN",
     "address": "0x95697cb93cdd65a29ca2613beeafa18e39fa5b76",
     "decimals": 18,
     "symbol": "SNC",
@@ -75057,14 +75073,6 @@
     "decimals": 18,
     "symbol": "IFEX",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7949.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xa896871b0348bd4cf9c456ab20208fe7635733a9",
-    "name": "Layer Brett",
-    "symbol": "LBRETT",
-    "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/70623/thumb/logo.jpg?1762793886"
   },
   {
     "chainId": 1,
@@ -116069,6 +116077,14 @@
     "name": "bAInance",
     "decimals": 18,
     "logoURI": "ipfs://QmSsWtwUQagjV2DFYHWKZkcpm1YVoFFJ2SE3rVwHG938Gy"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb6bdc0f422a901062ecd948c6d0d785acd131ce1",
+    "symbol": "ELYS",
+    "name": "Elysionyx by Virtuals",
+    "decimals": 18,
+    "logoURI": "ipfs://QmU314XmdqTMwWc76JHf8PEwT1BEd6KMB3U6YRTxhyRhDx"
   },
   {
     "chainId": 8453,
