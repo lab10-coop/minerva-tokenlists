@@ -3595,7 +3595,7 @@
     "chainId": 1,
     "name": "Indonesia Rupiah Token",
     "address": "0x07429a7f8f80db4bf05d0753aa6b0fd156fffa56",
-    "decimals": 6,
+    "decimals": 18,
     "symbol": "IDRP",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/39956.png"
   },
@@ -30821,11 +30821,11 @@
   },
   {
     "chainId": 1,
+    "name": "Binibit",
     "address": "0x445d03f499f1c150615957bb87588fb465fc91cc",
-    "name": "BiniBit",
-    "symbol": "BINI",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/102172937/thumb/binibit_token_logo.png?1776930189"
+    "symbol": "BINI",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/40011.png"
   },
   {
     "chainId": 1,
@@ -72033,6 +72033,14 @@
     "decimals": 18,
     "symbol": "DFK",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/6962.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xa17f383786cf2241affe41b130d8c373fdb34574",
+    "name": "SPACEX4200",
+    "symbol": "SPCX",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/102173334/thumb/SPACEX4200.jpg?1779084859"
   },
   {
     "chainId": 1,
