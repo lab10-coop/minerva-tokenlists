@@ -2769,14 +2769,6 @@
   },
   {
     "chainId": 1,
-    "name": "Vellum USD",
-    "address": "0x056aa0b63a3cd2fc5538608ad37dbe0f89cceee7",
-    "decimals": 17,
-    "symbol": "USD1",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/37598.png"
-  },
-  {
-    "chainId": 1,
     "name": "Gains",
     "address": "0x056c1d42fb1326f57da7f19ebb7dda4673f1ff55",
     "decimals": 18,
@@ -4150,6 +4142,14 @@
     "decimals": 18,
     "symbol": "GRE",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/26630.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x0885f310222f3c8d237b36861d1a84e551cd4aa3",
+    "name": "CURRENC Group Inc.",
+    "symbol": "CURR",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/102173367/thumb/458ff28e-4484-4fd1-a2b2-7b8d5b78ac75-token-icon.png?1779207252"
   },
   {
     "chainId": 1,
@@ -12070,14 +12070,6 @@
     "name": "Netherworld",
     "decimals": 18,
     "logoURI": "ipfs://QmNf3UPuwR8r2zEftYi7wFPxpkEdhSS5JdJ9L9EUc9gEfn"
-  },
-  {
-    "chainId": 1,
-    "address": "0x1a44e35d5451e0b78621a1b3e7a53dfaa306b1d0",
-    "name": "baoETH-ETH StablePool",
-    "symbol": "B-BAOETH-ETH-BPT",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/31288/thumb/baoETH-ETH.jpg?1772703011"
   },
   {
     "chainId": 1,
@@ -41293,6 +41285,14 @@
   },
   {
     "chainId": 1,
+    "name": "Vellum USD",
+    "address": "0x5c7841b87f79cec0b1b884c6ed463ada49536aad",
+    "decimals": 18,
+    "symbol": "USD1",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/37598.png"
+  },
+  {
+    "chainId": 1,
     "name": "Archive AI",
     "address": "0x5c8190b76e90b4dd0702740cf6eb0f7ee01ab5e9",
     "decimals": 18,
@@ -62101,14 +62101,6 @@
   },
   {
     "chainId": 1,
-    "name": "USD X20",
-    "address": "0x8abd1aca182c18397c2069c0517d19c769a29816",
-    "decimals": 18,
-    "symbol": "USDX",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/38508.png"
-  },
-  {
-    "chainId": 1,
     "name": "Saitama Samurai",
     "address": "0x8abf6f060c388754c2ac275ec6c9b63cdc8f2b90",
     "decimals": 9,
@@ -77828,6 +77820,14 @@
   },
   {
     "chainId": 1,
+    "address": "0xaf3a37e800991501b88dc4745a96cc8fc3d5cb52",
+    "name": "Bobina",
+    "symbol": "BOBINA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102173361/thumb/26.png?1779205157"
+  },
+  {
+    "chainId": 1,
     "name": "Lizcoin",
     "address": "0xaf4144cd943ed5362fed2bae6573184659cbe6ff",
     "decimals": 18,
@@ -90704,6 +90704,14 @@
   },
   {
     "chainId": 1,
+    "name": "USD X20",
+    "address": "0xcdacf938100f0d3d2fe0a3c909d329d75b37183f",
+    "decimals": 18,
+    "symbol": "USDX",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/38508.png"
+  },
+  {
+    "chainId": 1,
     "name": "1337 LEET",
     "address": "0xcdaf65b08241a5f4c3b8b74dd9590bce8fe0224e",
     "decimals": 9,
@@ -91269,6 +91277,14 @@
     "decimals": 18,
     "symbol": "LHINU",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/24520.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xcee063f8148901037323c1c3a3763b8a5c7c36fb",
+    "name": "SDMC (Openstock Pre-IPO)",
+    "symbol": "OSDMC-PRE",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/102173369/thumb/smdc.jpg?1779208787"
   },
   {
     "chainId": 1,
@@ -96597,6 +96613,14 @@
     "decimals": 18,
     "symbol": "TKA",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2756.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xdae854d0896ad2fee335689a3f7b4a95fd1a3e46",
+    "name": "Gami USDC",
+    "symbol": "GAMIUSDC",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102173360/thumb/PFP2-circle.png?1779204741"
   },
   {
     "chainId": 1,
@@ -110877,14 +110901,6 @@
     "decimals": 8,
     "symbol": "LDIME",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/27387.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xfd957f21bd95e723645c07c48a2d8acb8ffb3794",
-    "name": "Ethereum Meta",
-    "symbol": "ETHM",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/6586/thumb/ethereum-meta.png?1696506937"
   },
   {
     "chainId": 1,
