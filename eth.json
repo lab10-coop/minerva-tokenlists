@@ -10265,6 +10265,14 @@
   },
   {
     "chainId": 1,
+    "name": "Solv Protocol",
+    "address": "0x169e36f327caa83d004f5c2668ac25a1424c940d",
+    "decimals": 18,
+    "symbol": "SOLV",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/12165.png"
+  },
+  {
+    "chainId": 1,
     "address": "0x16a3543fa6b32cac3b0a755f64a729e84f89a75c",
     "name": "Wrapped Hypertensor",
     "symbol": "TENSOR",
@@ -42901,14 +42909,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x5fe72ed557d8a02fff49b3b826792c765d5ce162",
-    "name": "Shezmu",
-    "symbol": "SHEZMU",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/31772/thumb/200x200.png?1721704460"
-  },
-  {
-    "chainId": 1,
     "name": "SPX69000",
     "address": "0x5ff0d2de4cd862149c6672c99b7edf3b092667a3",
     "decimals": 18,
@@ -60309,14 +60309,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x8730762cad4a27816a467fac54e3dd1e2e9617a1",
-    "name": "Grindery X",
-    "symbol": "GX",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/54812/thumb/nRJLYA_H_400x400.png?1741811175"
-  },
-  {
-    "chainId": 1,
     "name": "Ponzio The Cat",
     "address": "0x873259322be8e50d80a4b868d186cc5ab148543a",
     "decimals": 18,
@@ -62098,6 +62090,14 @@
     "symbol": "PTH",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/32771/thumb/Ticker_%282%29.png?1699343244"
+  },
+  {
+    "chainId": 1,
+    "name": "USD X20",
+    "address": "0x8abd1aca182c18397c2069c0517d19c769a29816",
+    "decimals": 18,
+    "symbol": "USDX",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/38508.png"
   },
   {
     "chainId": 1,
@@ -69996,6 +69996,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x9d0b65a76274645b29e4cc41b8f23081fa09f4a3",
+    "symbol": "LIME",
+    "name": "iMe Lab",
+    "decimals": 18,
+    "logoURI": "ipfs://QmWjQ8FrQ6cviqpPBnsMTrKACt2pm2JdLaKpXjav9p57zD"
+  },
+  {
+    "chainId": 1,
     "address": "0x9d1089802ee608ba84c5c98211afe5f37f96b36c",
     "name": "Fluid USDC",
     "symbol": "FUSDC",
@@ -77297,14 +77305,6 @@
     "decimals": 9,
     "symbol": "MILKIT",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/26757.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xae1e1b4d8f590371b77bee27257ef038d4b835a1",
-    "name": "ChicagoCoin",
-    "symbol": "CLT",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/67589/thumb/CHICAGO-200x200.png?1753212727"
   },
   {
     "chainId": 1,
@@ -90701,14 +90701,6 @@
     "decimals": 18,
     "symbol": "COVID",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/26847.png"
-  },
-  {
-    "chainId": 1,
-    "name": "USD X20",
-    "address": "0xcdacf938100f0d3d2fe0a3c909d329d75b37183f",
-    "decimals": 18,
-    "symbol": "USDX",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/38508.png"
   },
   {
     "chainId": 1,
@@ -113712,6 +113704,14 @@
   },
   {
     "chainId": 324,
+    "address": "0x1856931b7e70c99f1116eed0bd5781dde757f588",
+    "symbol": "BABYDOGE",
+    "name": "Baby Doge Coin",
+    "decimals": 9,
+    "logoURI": "ipfs://QmS9CdReFoT2jX4X7vtMkxs7uAYWCsr2WxENhJNXT4iX9s"
+  },
+  {
+    "chainId": 324,
     "address": "0x1ab721f531cab4c87d536be8b985eafce17f0184",
     "symbol": "ZZ",
     "name": "ZigZag",
@@ -114272,6 +114272,14 @@
   },
   {
     "chainId": 8453,
+    "address": "0x06abb84958029468574b28b6e7792a770ccaa2f6",
+    "symbol": "MONK",
+    "name": "0xMonk by Virtuals",
+    "decimals": 18,
+    "logoURI": "ipfs://QmYCwYuLnaALbkPXhHzUdkuVUsSiQE1wad5TpsxibegKhs"
+  },
+  {
+    "chainId": 8453,
     "address": "0x06f71fb90f84b35302d132322a3c90e4477333b0",
     "symbol": "BRACKY",
     "name": "BRACKY",
@@ -114416,19 +114424,19 @@
   },
   {
     "chainId": 8453,
-    "address": "0x151ccc74972a6f85690afe997d0fdd69efdc71fe",
-    "symbol": "LIFE",
-    "name": "Cyberlife",
-    "decimals": 18,
-    "logoURI": "ipfs://Qma3TUn4yVbw65tAQ98GKKNcVMEH8e5PEMkxtayXMbg24S"
-  },
-  {
-    "chainId": 8453,
     "address": "0x15dd9165b3a80f83a5471f2e6eba57158ca3cf86",
     "symbol": "BL",
     "name": "ButlerLiquid",
     "decimals": 18,
     "logoURI": "ipfs://QmRhkxL3sB4RBMM6SRTSAggqDFeMw1x7qzGeVM2ooKvTob"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x15eda1086c54c148037597e9dc60e5a87b618aa1",
+    "symbol": "BLUE",
+    "name": "BLUEPAY",
+    "decimals": 18,
+    "logoURI": "ipfs://QmW1JQ8dvFGVm4ooMX4cKXkgzpxTDoqexHXBJx9GxFXeiM"
   },
   {
     "chainId": 8453,
@@ -114792,6 +114800,14 @@
   },
   {
     "chainId": 8453,
+    "address": "0x3c86129b990876ea63751fa7a27deba91fc5bfad",
+    "symbol": "LUCIA",
+    "name": "Lucia",
+    "decimals": 18,
+    "logoURI": "ipfs://Qmc7pmZsXBqyHuJ8J8KFUwwF4ibvYMoaB2xffixuQeap88"
+  },
+  {
+    "chainId": 8453,
     "address": "0x3d01fe5a38ddbd307fdd635b4cb0e29681226d6f",
     "symbol": "ALPHA",
     "name": "Alpha",
@@ -115029,6 +115045,14 @@
     "name": "Eye Future by Virtuals",
     "decimals": 18,
     "logoURI": "ipfs://QmRVhym31X3n9X5my8J5SthHDnCpygvFQNwYcSGhoHZCqq"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x5576d6ed9181f2225aff5282ac0ed29f755437ea",
+    "symbol": "SERV",
+    "name": "OpenServ",
+    "decimals": 18,
+    "logoURI": "ipfs://QmdmA7Wy2zUyGnNZR9GBncSz9B4hLfWYYujUrMa1KC7CRL"
   },
   {
     "chainId": 8453,
@@ -115336,6 +115360,14 @@
   },
   {
     "chainId": 8453,
+    "address": "0x6e84030fa86ebf585e3e18fe557e5612f7e93bff",
+    "symbol": "AORA",
+    "name": "AtlasOra",
+    "decimals": 18,
+    "logoURI": "ipfs://QmRQcuuxtLdrXSb1X5ozPx7ANHsuAmySev6yT5fmGZYcHX"
+  },
+  {
+    "chainId": 8453,
     "address": "0x6ef6314cf4619bb616942d2ee038308072b1db91",
     "symbol": "BTC",
     "name": "AI_Saylor by Virtuals",
@@ -115469,6 +115501,14 @@
     "name": "It's so over",
     "decimals": 18,
     "logoURI": "ipfs://QmXxjqywRcWkFN8PSxQ4xfv1K5tUWUgFu7MBoWopoUGXQ2"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x7afe438411ee3959c7de6f7fb76bf9c769320ba3",
+    "symbol": "BLOCKTRONICS",
+    "name": "Blocktronics",
+    "decimals": 18,
+    "logoURI": "ipfs://Qmck3nNpg1gpZ14mM9x422c2fyrwPiREFScVdZmLgaZbKi"
   },
   {
     "chainId": 8453,
@@ -117208,6 +117248,14 @@
   },
   {
     "chainId": 43114,
+    "address": "0x40beead5cc2baef5b95e31547321668ae0cd38f2",
+    "symbol": "XXI",
+    "name": "Retardao",
+    "decimals": 18,
+    "logoURI": "ipfs://QmYSN6ySKT4yf1nnBTE9eJXS4Tu4FbWZTESJQkj2Tj7EXC"
+  },
+  {
+    "chainId": 43114,
     "address": "0x41cbfd7c8709d1e459ce816703a1fc882daa77d3",
     "symbol": "LOK",
     "name": "Loksmith",
@@ -117373,6 +117421,14 @@
     "name": "SpaceM",
     "decimals": 18,
     "logoURI": "ipfs://QmdrtWLst1TxxpKBJg12hdZFGCn5RzhMY5QkrRXa9S83hF"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x7f2b1d59b13999a8581d8ef382d00b733c2c70fb",
+    "symbol": "JORBO",
+    "name": "JORBO AI",
+    "decimals": 18,
+    "logoURI": "ipfs://QmbBBTRfJTGvCLHvBd5koLtLRfS25U2FsjE74dVqMpXeBQ"
   },
   {
     "chainId": 43114,
