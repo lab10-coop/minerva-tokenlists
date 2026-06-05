@@ -3265,6 +3265,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x067f03be93c7dcd21c3eb700f58203f514c2be1a",
+    "name": "Tenbin Mexican Peso",
+    "symbol": "TMXN",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102173627/thumb/tMXN.png?1780557035"
+  },
+  {
+    "chainId": 1,
     "name": "STOA Network",
     "address": "0x06874f973dc3c96dc22a10ef0d0609f877f335ea",
     "decimals": 18,
@@ -33047,7 +33055,7 @@
     "chainId": 1,
     "name": "AllUnity EUR",
     "address": "0x4933a85b5b5466fbaf179f72d3de273c287ec2c2",
-    "decimals": 18,
+    "decimals": 6,
     "symbol": "EURAU",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/37504.png"
   },
@@ -46341,14 +46349,6 @@
   },
   {
     "chainId": 1,
-    "name": "MAP Protocol",
-    "address": "0x66d79b8f60ec93bfce0b56f5ac14a2714e509a99",
-    "decimals": 18,
-    "symbol": "MAPO",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/4956.png"
-  },
-  {
-    "chainId": 1,
     "name": "Molten",
     "address": "0x66e535e8d2ebf13f49f3d49e5c50395a97c137b1",
     "decimals": 18,
@@ -50901,11 +50901,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x7046933234a82af77f14625e8d0fa9bcc5044a7e",
     "name": "MAP Protocol",
-    "symbol": "MAPO",
+    "address": "0x7046933234a82af77f14625e8d0fa9bcc5044a7e",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/10085/thumb/500*500.png?1723560204"
+    "symbol": "MAPO",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/4956.png"
   },
   {
     "chainId": 1,
@@ -53322,6 +53322,14 @@
     "decimals": 9,
     "symbol": "NGMI",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/25442.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Dogeus Maximus",
+    "address": "0x759f8b83db57033aed95545694f6ada480b6e987",
+    "decimals": 9,
+    "symbol": "DOGEUS",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/40119.png"
   },
   {
     "chainId": 1,
@@ -83164,6 +83172,14 @@
   },
   {
     "chainId": 1,
+    "address": "0xbbe6aab0ed76e90aea0d1cd978ec231c8adcdf8b",
+    "name": "Agant GBP",
+    "symbol": "GBPA",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/102173633/thumb/gbpa.png?1780589453"
+  },
+  {
+    "chainId": 1,
     "name": "Global Crypto Alliance",
     "address": "0xbbe761ea1447a20b75aa485b7bcad4837415d7d7",
     "decimals": 18,
@@ -86744,14 +86760,6 @@
   },
   {
     "chainId": 1,
-    "address": "0xc3d21f79c3120a4ffda7a535f8005a7c297799bf",
-    "name": "Term Finance",
-    "symbol": "TERM",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/38142/thumb/terms.png?1716630303"
-  },
-  {
-    "chainId": 1,
     "name": "Roso Elite Gamblers Mansion",
     "address": "0xc3d222685f1acacddd4bf8ae566a288702252f0d",
     "decimals": 18,
@@ -89685,14 +89693,6 @@
     "decimals": 18,
     "symbol": "BIP",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/4957.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xcafe5de18756817d98f4603f6828397406d4cafe",
-    "name": "Witnet",
-    "symbol": "WIT",
-    "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/11109/thumb/wit.png?1696511049"
   },
   {
     "chainId": 1,
@@ -97109,14 +97109,6 @@
     "decimals": 18,
     "symbol": "ALCX",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/8613.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xdbdc1ef57537e34680b898e1febd3d68c7389bcb",
-    "name": "InfiniFi Staked iUSD",
-    "symbol": "SIUSD",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/67891/thumb/siUSDlogo.png?1754195138"
   },
   {
     "chainId": 1,
@@ -106640,11 +106632,11 @@
   },
   {
     "chainId": 1,
-    "address": "0xf326c8c9a691319f6330e27aa4a39f2d22c88dc5",
     "name": "Zest Protocol",
-    "symbol": "ZEST",
+    "address": "0xf326c8c9a691319f6330e27aa4a39f2d22c88dc5",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/102173294/thumb/zest.jpg?1778837125"
+    "symbol": "ZEST",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/40008.png"
   },
   {
     "chainId": 1,
@@ -111669,6 +111661,14 @@
     "decimals": 8,
     "symbol": "BWRX",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/12683.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xff0d6f193e152830b38ef45eb75538636c9f7063",
+    "name": "Tenbin Brazilian Real",
+    "symbol": "TBRL",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102173628/thumb/tBRL.png?1780557193"
   },
   {
     "chainId": 1,
