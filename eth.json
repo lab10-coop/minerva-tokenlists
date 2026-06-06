@@ -9353,14 +9353,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x149af500734056b98572b66e6c771e57408e12e4",
-    "name": "Horizon",
-    "symbol": "HRZ",
-    "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/66843/thumb/IMG_0902.png?1750768250"
-  },
-  {
-    "chainId": 1,
     "address": "0x149cac67f1cd5d80651e7c9bb359ec285d821a05",
     "name": "Minterest",
     "symbol": "MINTY",
@@ -27413,6 +27405,14 @@
   },
   {
     "chainId": 1,
+    "name": "USDGOLD",
+    "address": "0x3c89df6c17ca5c735498712d343387198e573383",
+    "decimals": 18,
+    "symbol": "USDG",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/39011.png"
+  },
+  {
+    "chainId": 1,
     "name": "Nifty League",
     "address": "0x3c8d2fce49906e11e71cb16fa0ffeb2b16c29638",
     "decimals": 18,
@@ -44565,6 +44565,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x633748335ee5b33dea9fc25c9ecc6f92270c713f",
+    "name": "FXArbUSDTRY",
+    "symbol": "FXARBUSDTRY",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102173636/thumb/BMMF.png?1780627441"
+  },
+  {
+    "chainId": 1,
     "address": "0x633821b8e003344e5223509277f2084ea809a452",
     "name": "Junior DOLA",
     "symbol": "JRDOLA",
@@ -56301,14 +56309,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x7cc97bf17c5adabe25f9d19d15a1ec8a1ad65f14",
-    "name": "Wolverinu",
-    "symbol": "WOLVERINU",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/27872/thumb/LOGO3232.jpg?1696526890"
-  },
-  {
-    "chainId": 1,
     "name": "Captain Inu",
     "address": "0x7cca2e1c9b0519f52029467914a15e782bf66971",
     "decimals": 18,
@@ -58298,14 +58298,6 @@
     "decimals": 18,
     "symbol": "ROND",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/22034.png"
-  },
-  {
-    "chainId": 1,
-    "name": "USDGOLD",
-    "address": "0x82248d53de2b7608caf53978a8e8c238dc42403a",
-    "decimals": 18,
-    "symbol": "USDG",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/39011.png"
   },
   {
     "chainId": 1,
@@ -98733,14 +98725,6 @@
     "symbol": "CBDC",
     "decimals": 9,
     "logoURI": "https://assets.coingecko.com/coins/images/31665/thumb/MThOhXH1_400x400.jpg?1696530482"
-  },
-  {
-    "chainId": 1,
-    "address": "0xe07ecc676daf0b24b24a1c46c966d9c463984b38",
-    "name": "Nexus Pro USEU",
-    "symbol": "USEU",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/39079/thumb/useu.png?1720270389"
   },
   {
     "chainId": 1,
