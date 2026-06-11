@@ -9497,7 +9497,7 @@
   },
   {
     "chainId": 1,
-    "name": "AdventureWurld",
+    "name": "GULD",
     "address": "0x14d6c649292c5c9790c5196d1a9ea039307947a1",
     "decimals": 18,
     "symbol": "GULD",
@@ -26229,6 +26229,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x399b29975cbe313c56269cd5097f5ae097fa2741",
+    "name": "Stable Mint USD",
+    "symbol": "USDSM",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102173681/thumb/USDSM-logo-2.png?1780931561"
+  },
+  {
+    "chainId": 1,
     "name": "Layer One X",
     "address": "0x399ef659fdead53b3e7f97e9491e727925667945",
     "decimals": 18,
@@ -33063,7 +33071,7 @@
     "chainId": 1,
     "name": "AllUnity EUR",
     "address": "0x4933a85b5b5466fbaf179f72d3de273c287ec2c2",
-    "decimals": 6,
+    "decimals": 18,
     "symbol": "EURAU",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/37504.png"
   },
@@ -37141,11 +37149,11 @@
   },
   {
     "chainId": 1,
+    "name": "Re",
     "address": "0x526526528f35ac738177003b8773b402b8df8143",
-    "name": "RE",
-    "symbol": "RE",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/102173708/thumb/RE-Token.png?1781031591"
+    "symbol": "RE",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/40224.png"
   },
   {
     "chainId": 1,
@@ -80148,6 +80156,14 @@
   },
   {
     "chainId": 1,
+    "address": "0xb4589127a468f9fea9da3c8c9e39c48fdfd982fa",
+    "name": "Vortex",
+    "symbol": "VRTX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102173718/thumb/XstiWY06_400x400.jpg?1781102368"
+  },
+  {
+    "chainId": 1,
     "name": "Lotty",
     "address": "0xb459f7204a8ac84f9e7758d6d839ebd01670e35c",
     "decimals": 18,
@@ -85369,6 +85385,14 @@
     "decimals": 18,
     "symbol": "LINA",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3083.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xc06036793272219179f846ef6bfc3b16e820df0b",
+    "name": "UBS USD Money Market Investment Fund Token",
+    "symbol": "UMINT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/51913/thumb/%E5%9B%BE%E5%83%8F.png?1732678510"
   },
   {
     "chainId": 1,
