@@ -1209,11 +1209,25 @@
   },
   {
     "chainId": 1,
+    "address": "0x01e7eaf05be1d0c2d1834fc65080188376026d07",
+    "name": "Nokia (Ondo Tokenized)",
+    "symbol": "NOKON",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
     "name": "Sonic",
     "address": "0x01e87d74b11f656a673a3e7c441425816213eb0c",
     "decimals": 18,
     "symbol": "HOTDOG",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/27911.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x01eb2ee6ec05c304666210133b762088ff9965ac",
+    "name": "Direxion Daily Semi Bear 3X ETF (Ondo Tokenized)",
+    "symbol": "SOXSON",
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -1841,6 +1855,13 @@
   },
   {
     "chainId": 1,
+    "address": "0x034c9ffec64597e0a0622ca5b9eaf00839052e0a",
+    "name": "Global X S&P 500 Covered Call ETF (Ondo Tokenized)",
+    "symbol": "XYLDON",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
     "address": "0x0352557b007a4aae1511c114409b932f06f9e2f4",
     "name": "sRUNE",
     "symbol": "SRUNE",
@@ -2465,6 +2486,13 @@
   },
   {
     "chainId": 1,
+    "address": "0x04c8381e17b6a9245abbf2e62c544eaee4030d1b",
+    "name": "Extreme Networks (Ondo Tokenized)",
+    "symbol": "EXTRON",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
     "name": "Maya",
     "address": "0x04cd1f7143f84fdeb469325cc763a60bd6e1ec55",
     "decimals": 9,
@@ -2969,6 +2997,13 @@
   },
   {
     "chainId": 1,
+    "address": "0x05d2d23398756821dc3de359ffce8ebbd50af8c5",
+    "name": "EQT (Ondo Tokenized)",
+    "symbol": "EQTON",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
     "name": "Viction",
     "address": "0x05d3606d5c81eb9b7b18530995ec9b29da05faba",
     "decimals": 18,
@@ -3270,6 +3305,13 @@
     "symbol": "TMXN",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/102173627/thumb/tMXN.png?1780557035"
+  },
+  {
+    "chainId": 1,
+    "address": "0x0683154c33b7563ed39951b4d7c0470ea28d93e9",
+    "name": "Bitdeer Technologies (Ondo Tokenized)",
+    "symbol": "BTDRON",
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -4121,6 +4163,13 @@
   },
   {
     "chainId": 1,
+    "address": "0x084a613fed04b5d26672e38dc9c3aa13f3c1ae58",
+    "name": "United States Antimony (Ondo Tokenized)",
+    "symbol": "UAMYON",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
     "name": "FUUPAY",
     "address": "0x084da5a9c0e3f086532b98d8568432349b89d9df",
     "decimals": 18,
@@ -4286,6 +4335,13 @@
     "decimals": 18,
     "symbol": "DCN",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/1876.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x08d777b6a82c8dee715848702f72dad4c2504687",
+    "name": "iShares Large Cap Core Active ETF (Ondo Tokenized)",
+    "symbol": "BLCRON",
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -4761,14 +4817,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x0a1a1a107e45b7ced86833863f482bc5f4ed82ef",
-    "name": "Staked USDai",
-    "symbol": "SUSDAI",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/55861/thumb/sUSDai_Token_Full_Glyph.png?1755229072"
-  },
-  {
-    "chainId": 1,
     "address": "0x0a26c80be4e060e688d7c23addb92cbb5d2c9eca",
     "name": "NONOS",
     "symbol": "NOX",
@@ -4870,6 +4918,13 @@
     "decimals": 18,
     "symbol": "USX",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/13080.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x0a600856eedce367ed49c3cd399775dc95d8bb5a",
+    "name": "NuScale Power (Ondo Tokenized)",
+    "symbol": "SMRON",
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -5306,10 +5361,10 @@
   {
     "chainId": 1,
     "address": "0x0b2b2b2076d95dda7817e785989fe353fe955ef9",
-    "name": "USDai",
-    "symbol": "USDAI",
+    "name": "Staked USDai",
+    "symbol": "SUSDAI",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/55857/thumb/USDai_Token_Full_Glyph.png?1755229050"
+    "logoURI": "https://assets.coingecko.com/coins/images/55861/thumb/sUSDai_Token_Full_Glyph.png?1755229072"
   },
   {
     "chainId": 1,
@@ -6321,6 +6376,13 @@
   },
   {
     "chainId": 1,
+    "address": "0x0d8ef471a11036bc6dda1536069457f7e97dab66",
+    "name": "Arteris (Ondo Tokenized)",
+    "symbol": "AIPON",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
     "name": "Sergey Save Link",
     "address": "0x0d9227f9c4ab3972f994fccc6eeba3213c0305c4",
     "decimals": 18,
@@ -6454,6 +6516,13 @@
     "decimals": 18,
     "symbol": "LAC",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/27293.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x0e05ba0756c504b69aaa642f7379cd1af7c63969",
+    "name": "RoboStrategy (Ondo Tokenized)",
+    "symbol": "BOTON",
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -7745,6 +7814,13 @@
   },
   {
     "chainId": 1,
+    "address": "0x10bd54f1f4dc19be0c46b1ea7e5f38fd2eafee26",
+    "name": "Huntington Ingalls Industries (Ondo Tokenized)",
+    "symbol": "HIION",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
     "name": "UniMex Network",
     "address": "0x10be9a8dae441d276a5027936c3aaded2d82bc15",
     "decimals": 18,
@@ -7990,6 +8066,13 @@
     "decimals": 18,
     "symbol": "JOKER",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/26968.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x113fae6e1103a4c09250c8697a6a4be6ca987d06",
+    "name": "AMETEK (Ondo Tokenized)",
+    "symbol": "AMEON",
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -8374,6 +8457,13 @@
     "decimals": 8,
     "symbol": "ARCT",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2415.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x1252c5fa0a4031f6843d5cf8d4986ba99a8a9b42",
+    "name": "iShares MSCI EAFE Value ETF (Ondo Tokenized)",
+    "symbol": "EFVON",
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -9161,6 +9251,13 @@
   },
   {
     "chainId": 1,
+    "address": "0x141196732ce4bb20010e4149704c0f278d5d3cea",
+    "name": "Strive Preferred (Ondo Tokenized)",
+    "symbol": "SATAON",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
     "name": "MargiX",
     "address": "0x1412f6aa5adc77c620715bb2a020aa690b85f68a",
     "decimals": 18,
@@ -9753,6 +9850,13 @@
   },
   {
     "chainId": 1,
+    "address": "0x1577d4ae114b6f217453b754aeac164db44832da",
+    "name": "iShares US Technology ETF (Ondo Tokenized)",
+    "symbol": "IYWON",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
     "name": "Hiko Inu",
     "address": "0x1579d058918f339c945802ffac81762e432cd0b8",
     "decimals": 9,
@@ -10065,6 +10169,13 @@
   },
   {
     "chainId": 1,
+    "address": "0x1630281079ebac2e873fb1f1cb41df3d0e451e23",
+    "name": "Celestica (Ondo Tokenized)",
+    "symbol": "CLSON",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
     "address": "0x1634e10c9155be623b5a52d6ca01c7a904d89b0a",
     "name": "This Is Fine - Ethereum",
     "symbol": "FINE",
@@ -10214,6 +10325,13 @@
     "symbol": "XBO",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/67268/thumb/Xbo_logo.jpg?1752253856"
+  },
+  {
+    "chainId": 1,
+    "address": "0x167f8d6b357fa9fff9b1286e519bd32d4504757e",
+    "name": "Nucor (Ondo Tokenized)",
+    "symbol": "NUEON",
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -12649,6 +12767,13 @@
   },
   {
     "chainId": 1,
+    "address": "0x1b8085e78877dfba98692cb918809b35f6280015",
+    "name": "Powell Industries (Ondo Tokenized)",
+    "symbol": "POWLON",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
     "name": "Bitsdaq",
     "address": "0x1b80eeeadcc590f305945bcc258cfa770bbe1890",
     "decimals": 18,
@@ -13021,6 +13146,13 @@
   },
   {
     "chainId": 1,
+    "address": "0x1c4c8a66884f1eec60aa203c6cb51fd6cb76dbb9",
+    "name": "Vishay Precision Group (Ondo Tokenized)",
+    "symbol": "VPGON",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
     "address": "0x1c530d6de70c05a81bf1670157b9d928e9699089",
     "name": "MEV Capital WBTC",
     "symbol": "MCWBTC",
@@ -13162,6 +13294,13 @@
     "decimals": 18,
     "symbol": "TOWER",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/8620.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x1c99a152e00a5dc40f8c3e893c1d04b0f6a48b0f",
+    "name": "Innodata (Ondo Tokenized)",
+    "symbol": "INODON",
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -13397,6 +13536,13 @@
   },
   {
     "chainId": 1,
+    "address": "0x1d1b9ae25722d0b27db23171cfee0c269b203695",
+    "name": "Teradyne (Ondo Tokenized)",
+    "symbol": "TERON",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
     "name": "Chin",
     "address": "0x1d1de64ea7322c98e8f57828da9fd3f4d287dd7a",
     "decimals": 18,
@@ -13597,6 +13743,13 @@
   },
   {
     "chainId": 1,
+    "address": "0x1db23e5c0da6b960d0cf3d9939cbf50a2514bfc2",
+    "name": "MYR Group (Ondo Tokenized)",
+    "symbol": "MYRGON",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
     "name": "Lead Wallet",
     "address": "0x1dd80016e3d4ae146ee2ebb484e8edd92dacc4ce",
     "decimals": 18,
@@ -13746,6 +13899,13 @@
     "decimals": 18,
     "symbol": "SHIRYO",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/13727.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x1e328bbcd67e1bbee198bb3f90e764812e6e0ac9",
+    "name": "Keysight Technologies (Ondo Tokenized)",
+    "symbol": "KEYSON",
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -14597,6 +14757,13 @@
   },
   {
     "chainId": 1,
+    "address": "0x1ffac2df9696868d06f9fe8d72fee9e1452eef76",
+    "name": "Ciena (Ondo Tokenized)",
+    "symbol": "CIENON",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
     "name": "VBT",
     "address": "0x1ffe24629f1b3df74fc0f6e5d086f2fd09258ff2",
     "decimals": 18,
@@ -15066,6 +15233,13 @@
     "symbol": "HIXOKDKEKJCJDKSICNDN",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/32630/thumb/DEV_SMASHED_HIS_KEYBOARD.png?1698824159"
+  },
+  {
+    "chainId": 1,
+    "address": "0x211d1d372e6a782e9786b045004382834bdb224e",
+    "name": "Hyperliquid Strategies (Ondo Tokenized)",
+    "symbol": "PURRON",
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -15693,6 +15867,13 @@
   },
   {
     "chainId": 1,
+    "address": "0x22a684e0a3cc9b74596719f722cf4e597aafa3ba",
+    "name": "US Copper Index Fund (Ondo Tokenized)",
+    "symbol": "CPERON",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
     "name": "XERIUM",
     "address": "0x22ad96acf613539d7900b5ec6e0e65dbcc668d2a",
     "decimals": 9,
@@ -16309,6 +16490,13 @@
   },
   {
     "chainId": 1,
+    "address": "0x241aa03de25bd3a6b6254258bef7f287af94b93c",
+    "name": "Vanguard Energy ETF (Ondo Tokenized)",
+    "symbol": "VDEON",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
     "name": "4NEW",
     "address": "0x241ba672574a78a3a604cdd0a94429a73a84a324",
     "decimals": 18,
@@ -16418,14 +16606,6 @@
     "decimals": 18,
     "symbol": "NUG",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3092.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x246249a33cf9dd3d1ba3c6758adb80f2b36af98f",
-    "name": "Alpha Technologies Token",
-    "symbol": "ATT",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/70757/thumb/att_logo.jpg?1763545695"
   },
   {
     "chainId": 1,
@@ -16746,6 +16926,13 @@
     "symbol": "CIFRON",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/71573/thumb/cifron_160x160.webp?1768404416"
+  },
+  {
+    "chainId": 1,
+    "address": "0x24e7504246dfdd7e866936e2816bfbea73bd890a",
+    "name": "Hubbell (Ondo Tokenized)",
+    "symbol": "HUBBON",
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -17509,6 +17696,13 @@
   },
   {
     "chainId": 1,
+    "address": "0x26719965000a3dcacc1451f836fbb9c883ccde85",
+    "name": "Emerson Electric (Ondo Tokenized)",
+    "symbol": "EMRON",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
     "name": "Trace AI",
     "address": "0x267eb2a9a13dc304a9deff4277abe850d0852c5f",
     "decimals": 8,
@@ -17733,6 +17927,13 @@
   },
   {
     "chainId": 1,
+    "address": "0x26e78f7170d8cc3bd3865d37ce4c554b65b1c9ba",
+    "name": "Trane Technologies (Ondo Tokenized)",
+    "symbol": "TTON",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
     "name": "Retik Finance",
     "address": "0x26ebb8213fb8d66156f1af8908d43f7e3e367c1d",
     "decimals": 18,
@@ -17802,6 +18003,13 @@
     "symbol": "DOGIUS",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/53336/thumb/IMG_6575.jpeg?1737095929"
+  },
+  {
+    "chainId": 1,
+    "address": "0x2710e30d84b376c34a3b3036aa196b26a83a321b",
+    "name": "SPDR Bloomberg 1-3 Month T-Bill ETF (Ondo Tokenized)",
+    "symbol": "BILON",
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -19082,6 +19290,13 @@
     "name": "Cream DefiPulse Index",
     "decimals": 8,
     "logoURI": "ipfs://QmTPoDsmepNRwPF4YpCZuWErZyoUgKHkeFDEpRdLghtxNe"
+  },
+  {
+    "chainId": 1,
+    "address": "0x2a5ae1bde731cb8732fd762073dd0bbe151360b9",
+    "name": "Global X Artificial Intelligence & Technology ETF (Ondo Toke",
+    "symbol": "AIQON",
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -20402,6 +20617,13 @@
     "symbol": "GFY",
     "decimals": 9,
     "logoURI": "https://assets.coingecko.com/coins/images/33358/thumb/IMG-599dfebc71e8c1aa8056944bb7156a1e-V.jpg?1734983822"
+  },
+  {
+    "chainId": 1,
+    "address": "0x2d9fc6c5dd136658ab6190f356ae3186c4daa7d5",
+    "name": "Navitas Semiconductor (Ondo Tokenized)",
+    "symbol": "NVTSON",
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -23061,6 +23283,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x333333330522f64ee8d0b3039c460b41670e3404",
+    "name": "Jane",
+    "symbol": "JANE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102173748/thumb/jane.jpg?1781250536"
+  },
+  {
+    "chainId": 1,
     "name": "ORA",
     "address": "0x33333333fede34409fb7f67c6585047e1f653333",
     "decimals": 18,
@@ -23866,6 +24096,13 @@
     "decimals": 8,
     "symbol": "PETE",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/33048.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x34b33399a629fed8edc216eeb76c8309024c8987",
+    "name": "iShares Euro High Yield Corporate Bond USD Hedged ETF (Ondo ",
+    "symbol": "EUHYON",
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -25738,6 +25975,13 @@
     "decimals": 18,
     "symbol": "SHRIMP",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/6630.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x38cbbbf83ab583e231960b5c112145324bef55ae",
+    "name": "nVent Electric (Ondo Tokenized)",
+    "symbol": "NVTON",
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -27717,6 +27961,13 @@
   },
   {
     "chainId": 1,
+    "address": "0x3d45d340a30f49f036142e5e4d8993b9ad4e3f9a",
+    "name": "iShares Total Return Active ETF (Ondo Tokenized)",
+    "symbol": "BRTRON",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
     "name": "Movement DAO",
     "address": "0x3d46454212c61ecb7b31248047fa033120b88668",
     "decimals": 18,
@@ -28245,6 +28496,13 @@
   },
   {
     "chainId": 1,
+    "address": "0x3eb4293b73080214012def05244ec291094c6c14",
+    "name": "Global X Lithium & Battery Tech ETF (Ondo Tokenized)",
+    "symbol": "LITON",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
     "name": "Tratin",
     "address": "0x3eb55d5b22ee0f9b03d59b4994c5ae7fe811be92",
     "decimals": 8,
@@ -28514,6 +28772,13 @@
     "decimals": 18,
     "symbol": "VARC",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/5628.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x3f696db88aca815c150feb9baaa9870f85b77494",
+    "name": "International Seaways (Ondo Tokenized)",
+    "symbol": "INSWON",
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -28802,6 +29067,13 @@
     "decimals": 18,
     "symbol": "MOV",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/5958.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x4032d3076974b89238adfe61085ec57fc4522646",
+    "name": "Invesco PHLX Semiconductor ETF (Ondo Tokenized)",
+    "symbol": "SOXQON",
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -29229,6 +29501,13 @@
   },
   {
     "chainId": 1,
+    "address": "0x410e7d6b6303e531753d4fbe3e50e35efbcff53c",
+    "name": "Forgent Power Solutions (Ondo Tokenized)",
+    "symbol": "FPSON",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
     "name": "HELLO Labs",
     "address": "0x411099c0b413f4feddb10edf6a8be63bd321311c",
     "decimals": 18,
@@ -29597,6 +29876,13 @@
   },
   {
     "chainId": 1,
+    "address": "0x41d022c6008fbf431c5e5e88246a948b9e941ea3",
+    "name": "Symbotic (Ondo Tokenized)",
+    "symbol": "SYMON",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
     "name": "HUSBY",
     "address": "0x41d06390b935356b46ad6750bda30148ad2044a4",
     "decimals": 18,
@@ -29658,6 +29944,13 @@
     "decimals": 18,
     "symbol": "MADX",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/4733.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x41fa6d32917e17cf29a5e93940471492d7c301c8",
+    "name": "Penguin Solutions (Ondo Tokenized)",
+    "symbol": "PENGON",
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -30981,6 +31274,13 @@
   },
   {
     "chainId": 1,
+    "address": "0x448550de96bcbef1d8ccd755b5bc842f58485b46",
+    "name": "Leonardo DRS (Ondo Tokenized)",
+    "symbol": "DRSON",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
     "name": "invoxfinance",
     "address": "0x4485561db76614ff727f8e0a3ea95690b8b16022",
     "decimals": 18,
@@ -30994,6 +31294,13 @@
     "decimals": 18,
     "symbol": "TTX",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7392.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x4493e670f5a077d46eb3389ffa9af19999ea54ed",
+    "name": "Flex (Ondo Tokenized)",
+    "symbol": "FLEXON",
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -31050,6 +31357,13 @@
     "decimals": 9,
     "symbol": "SIMPSON",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/25081.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x44abf03ca01b8e7877bc3dbc37b132f6f25e9450",
+    "name": "Entegris (Ondo Tokenized)",
+    "symbol": "ENTGON",
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -31410,6 +31724,13 @@
     "decimals": 18,
     "symbol": "JBX",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/15456.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x45583545be579cc96409903597c5e17b3fd7ceff",
+    "name": "Arqit Quantum (Ondo Tokenized)",
+    "symbol": "ARQQON",
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -34357,6 +34678,13 @@
   },
   {
     "chainId": 1,
+    "address": "0x4c26bebd3ec5b0329f24dfed0de10a7ad205d8c3",
+    "name": "Defiance Quantum ETF (Ondo Tokenized)",
+    "symbol": "QTUMON",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
     "name": "FODL Finance",
     "address": "0x4c2e59d098df7b6cbae0848d66de2f8a4889b9c3",
     "decimals": 18,
@@ -34725,6 +35053,13 @@
   },
   {
     "chainId": 1,
+    "address": "0x4cdd1099146f28a9b428cd85f36b562b6d05c8c8",
+    "name": "REalloys (Ondo Tokenized)",
+    "symbol": "ALOYON",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
     "address": "0x4ce1ac8f43e0e5bd7a346a98af777bf8fbea1981",
     "name": "Lido EarnUSD",
     "symbol": "EARNUSD",
@@ -34986,6 +35321,13 @@
     "decimals": 18,
     "symbol": "BEE",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2557.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x4d9216151dad1af871a6eec623e2f04e7a2717b3",
+    "name": "Global X Data Center & Digital Infrastructure ETF (Ondo Toke",
+    "symbol": "DTCRON",
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -35693,6 +36035,13 @@
   },
   {
     "chainId": 1,
+    "address": "0x4ef7a9145e7b3c92e23a97fb41a9f4e9856288cb",
+    "name": "Rockwell Automation (Ondo Tokenized)",
+    "symbol": "ROKON",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
     "address": "0x4efd92f372898b57f292de69fce377dd7d912bdd",
     "name": "PayPal (Ondo Tokenized Stock)",
     "symbol": "PYPLON",
@@ -35882,6 +36231,13 @@
     "decimals": 18,
     "symbol": "3Cs",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/5907.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x4f5a3b3e184b1424816d9107448314ba0aad63e1",
+    "name": "Cloudflare (Ondo Tokenized)",
+    "symbol": "NETON",
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -38149,6 +38505,13 @@
   },
   {
     "chainId": 1,
+    "address": "0x55025c1e2acfe5a7092cf32f7a4f351a9fd21e1c",
+    "name": "Alpha and Omega Semiconductor (Ondo Tokenized)",
+    "symbol": "AOSLON",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
     "name": "Unicore",
     "address": "0x5506861bbb104baa8d8575e88e22084627b192d8",
     "decimals": 18,
@@ -38794,6 +39157,13 @@
     "decimals": 18,
     "symbol": "HSN",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3358.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x5673154dae5dab8ca6bd3ee42c3245dbfedc6611",
+    "name": "Oceaneering International (Ondo Tokenized)",
+    "symbol": "OIION",
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -40093,6 +40463,13 @@
   },
   {
     "chainId": 1,
+    "address": "0x596b790ccee1032f6658ac2c78a119cce69727fc",
+    "name": "Halliburton (Ondo Tokenized)",
+    "symbol": "HALON",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
     "name": "ChadGPT",
     "address": "0x596f426e34b1271901777a1b8782a0d34a9c4f96",
     "decimals": 9,
@@ -41117,6 +41494,13 @@
   },
   {
     "chainId": 1,
+    "address": "0x5bc56f5a324bb572b934ced4448055e30ec11c0c",
+    "name": "Lightwave Logic (Ondo Tokenized)",
+    "symbol": "LWLGON",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
     "name": "Stimmy Coin",
     "address": "0x5bc749a299c5de62325e1a676d53527149f7aa30",
     "decimals": 18,
@@ -42094,10 +42478,10 @@
   {
     "chainId": 1,
     "address": "0x5dd8bfa6c5c68d05d25ef6143e05c11e26c4cdb7",
-    "name": "Yield Optimizer USD Edge",
-    "symbol": "YOUSDEDGE",
+    "name": "Yield Optimizer yoloUSD",
+    "symbol": "YOLOUSD",
     "decimals": 6,
-    "logoURI": "https://assets.coingecko.com/coins/images/102173273/thumb/yousd_edge_m.png?1778742340"
+    "logoURI": "https://assets.coingecko.com/coins/images/102173273/thumb/yoloUSD.png?1781284534"
   },
   {
     "chainId": 1,
@@ -42650,6 +43034,13 @@
     "decimals": 18,
     "symbol": "BOBA",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/18501.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x5f24dd5ddb74bfe2bfe592ad91dba09347031afd",
+    "name": "AB Ultra Short Income ETF (Ondo Tokenized)",
+    "symbol": "YEARON",
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -43218,6 +43609,13 @@
     "decimals": 18,
     "symbol": "UZDT",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/36655.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x603e505799511155a9216d37cf9e051171240b4c",
+    "name": "Global X Silver Miners ETF (Ondo Tokenized)",
+    "symbol": "SILON",
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -43826,6 +44224,13 @@
     "decimals": 18,
     "symbol": "XYZ",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/10979.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x61882bb63af8e6a39531175cdfde1fcd98346503",
+    "name": "Cerebras Systems (Ondo Tokenized)",
+    "symbol": "CBRSON",
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -44501,6 +44906,13 @@
   },
   {
     "chainId": 1,
+    "address": "0x62d5854e309e7f7fc27ff6ebefb54d2b235a0e9b",
+    "name": "nLIGHT (Ondo Tokenized)",
+    "symbol": "LASRON",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
     "name": "SafeBitcoin",
     "address": "0x62d693fe5c13b5a5b24c9ec3f423e51c35f5624f",
     "decimals": 18,
@@ -44997,6 +45409,13 @@
   },
   {
     "chainId": 1,
+    "address": "0x6401365aa495ca96bcfcf9c6c47bd4a590336b00",
+    "name": "FormFactor (Ondo Tokenized)",
+    "symbol": "FORMON",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
     "name": "Hacken Token",
     "address": "0x6403af1267cacc0714c1bd916b12f80e179c0558",
     "decimals": 18,
@@ -45341,6 +45760,13 @@
   },
   {
     "chainId": 1,
+    "address": "0x64b84731cec441370c90c1b06d66a17eadfacd0f",
+    "name": "Nordic American Tankers (Ondo Tokenized)",
+    "symbol": "NATON",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
     "address": "0x64bbf62a855b24f45b3c7fd3aa8d34576e2e78fe",
     "symbol": "CNX",
     "name": "Cleanex",
@@ -45586,6 +46012,13 @@
     "symbol": "ACHF",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/33471/thumb/logo_achf.png?1701946601"
+  },
+  {
+    "chainId": 1,
+    "address": "0x65513b741541025731124408deb1a714699e3ee8",
+    "name": "iShares Investment Grade Systematic Bond ETF (Ondo Tokenized",
+    "symbol": "IGEBON",
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -46765,6 +47198,13 @@
   },
   {
     "chainId": 1,
+    "address": "0x6785ce8060655b1f4991c3893dc41814154a1808",
+    "name": "Axcelis Technologies (Ondo Tokenized)",
+    "symbol": "ACLSON",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
     "name": "GAME",
     "address": "0x67886ababdd886653b64bb846ea5822a6c353dd4",
     "decimals": 18,
@@ -46810,6 +47250,13 @@
     "decimals": 18,
     "symbol": "CCO",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2241.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x67a47353d5449fc24088190c44247d4d4e296073",
+    "name": "Ouster (Ondo Tokenized)",
+    "symbol": "OUSTON",
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -47901,6 +48348,13 @@
   },
   {
     "chainId": 1,
+    "address": "0x6987f17a188c3b64f4892f0e31c2ccd88f54fcfd",
+    "name": "Vishay Intertechnology (Ondo Tokenized)",
+    "symbol": "VSHON",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
     "name": "Tribal Finance",
     "address": "0x6988a804c74fd04f37da1ea4781cea68c9c00f86",
     "decimals": 18,
@@ -48346,6 +48800,13 @@
     "decimals": 18,
     "symbol": "BKBT",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2914.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x6a3e77d984e22bed6a036d3da79d7857936a593f",
+    "name": "AXT (Ondo Tokenized)",
+    "symbol": "AXTION",
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -49365,6 +49826,13 @@
   },
   {
     "chainId": 1,
+    "address": "0x6c51001149c7782820c107adce650692ab6c5378",
+    "name": "Vicor (Ondo Tokenized)",
+    "symbol": "VICRON",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
     "name": "Inescoin",
     "address": "0x6c58ee9794882c608e6015bde2802412b3d1377e",
     "decimals": 18,
@@ -50202,6 +50670,20 @@
     "decimals": 18,
     "symbol": "AUR",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/8831.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x6e9c4bceddd057d66b65794a0093ad95c5fa0cc4",
+    "name": "MACOM Technology Solutions Holdings (Ondo Tokenized)",
+    "symbol": "MTSION",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x6e9c573e5b8a59cec47d8e317c148e4b0595fb39",
+    "name": "AAON (Ondo Tokenized)",
+    "symbol": "AAONON",
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -52829,6 +53311,13 @@
   },
   {
     "chainId": 1,
+    "address": "0x744f87836d961e08b9305c690d663577718a0d0a",
+    "name": "iShares International Country Rotation Active ETF (Ondo Toke",
+    "symbol": "COROON",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
     "name": "iinjaz",
     "address": "0x7453b01d746a72b6397e77c7d9de969fdbde5a99",
     "decimals": 18,
@@ -54405,6 +54894,13 @@
   },
   {
     "chainId": 1,
+    "address": "0x77adb9f3ff7aacba0eece50d1bbf51ada182d174",
+    "name": "Ultra Clean Holdings (Ondo Tokenized)",
+    "symbol": "UCTTON",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
     "name": "Renzo Restaked REZ",
     "address": "0x77b1183e730275f6a8024ce53d54bcc12b368f60",
     "decimals": 18,
@@ -55597,6 +56093,13 @@
   },
   {
     "chainId": 1,
+    "address": "0x7abec847a3f9820397c82e1dad231721bf5a6732",
+    "name": "Global X Robotics & Artificial Intelligence ETF (Ondo Tokeni",
+    "symbol": "BOTZON",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
     "name": "Staked ACME",
     "address": "0x7ac168c81f4f3820fa3f22603ce5864d6ab3c547",
     "decimals": 18,
@@ -56098,6 +56601,13 @@
     "decimals": 18,
     "symbol": "FIDD",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/39549.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x7c17a5423200246eafdd9fa0f5d70eade3067dd6",
+    "name": "TE Connectivity (Ondo Tokenized)",
+    "symbol": "TELON",
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -57205,6 +57715,13 @@
   },
   {
     "chainId": 1,
+    "address": "0x7f24e4f5dc9ce7d00170c91ce18326e01d702242",
+    "name": "Worthington Steel (Ondo Tokenized)",
+    "symbol": "WSON",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
     "name": "Fancy Games",
     "address": "0x7f280dac515121dcda3eac69eb4c13a52392cace",
     "decimals": 18,
@@ -57845,6 +58362,13 @@
   },
   {
     "chainId": 1,
+    "address": "0x80d04221ec124850c4b9ba8f625b9a12ad609200",
+    "name": "Nova (Ondo Tokenized)",
+    "symbol": "NVMION",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
     "name": "Gera Coin",
     "address": "0x80d4f13acc30968fd6225b1ea79f5779f09fee60",
     "decimals": 18,
@@ -58381,6 +58905,13 @@
   },
   {
     "chainId": 1,
+    "address": "0x823cf9cca5b8eae0ae08ff3c6cd5102d2859db4d",
+    "name": "HIVE Digital Technologies (Ondo Tokenized)",
+    "symbol": "HIVEON",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
     "name": "Coil",
     "address": "0x823e1b82ce1dc147bbdb25a203f046afab1ce918",
     "decimals": 18,
@@ -58885,6 +59416,13 @@
   },
   {
     "chainId": 1,
+    "address": "0x8379c5595b8148a9968bee6d8110b2b4a627a9dd",
+    "name": "ACM Research (Ondo Tokenized)",
+    "symbol": "ACMRON",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
     "address": "0x837d904a3799c0769079be9ecbaddf1abd4ccd6e",
     "name": "Tarot V1",
     "symbol": "TAROT",
@@ -59258,6 +59796,13 @@
     "symbol": "SATOZ",
     "decimals": 8,
     "logoURI": "https://assets.coingecko.com/coins/images/14786/thumb/0GeSrIaQ_400x400.jpg?1696514455"
+  },
+  {
+    "chainId": 1,
+    "address": "0x84601fdb21e3e892104e1fe4a8269e7aca7c0e1a",
+    "name": "Methode Electronics (Ondo Tokenized)",
+    "symbol": "MEION",
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -59754,6 +60299,13 @@
     "symbol": "ARM-WETH-STETH",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/68681/thumb/arm-weth-steth-256x256.png?1756240752"
+  },
+  {
+    "chainId": 1,
+    "address": "0x85bd7b075a9e0f6d7099dd750cecd65ce57d4f44",
+    "name": "TaskUs (Ondo Tokenized)",
+    "symbol": "TASKON",
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -62629,6 +63181,13 @@
   },
   {
     "chainId": 1,
+    "address": "0x8b935eb2c98b597577359def9b18b4ae1523e6cf",
+    "name": "Fundrise Innovation Fund (Ondo Tokenized)",
+    "symbol": "VCXON",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
     "name": "JizzRocket",
     "address": "0x8b937af714ac7e2129bd33d93641f52b665ca352",
     "decimals": 18,
@@ -64805,6 +65364,13 @@
   },
   {
     "chainId": 1,
+    "address": "0x90c06bccb5bd20c5a84cbd59a43aa22ca96e588d",
+    "name": "Teekay Tankers (Ondo Tokenized)",
+    "symbol": "TNKON",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
     "name": "Elon Tusk",
     "address": "0x90c50ded94d73bc9bd1877fa641ff321cf766b9a",
     "decimals": 18,
@@ -65429,6 +65995,13 @@
   },
   {
     "chainId": 1,
+    "address": "0x927db66cd5b55e9df22d1d2207fbf059915240bb",
+    "name": "iShares Defense Industrials Active ETF (Ondo Tokenized)",
+    "symbol": "IDEFON",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
     "name": "bluSGD",
     "address": "0x92830ef7c8d651ed3a708053c602e807bad7db22",
     "decimals": 18,
@@ -65626,6 +66199,13 @@
     "decimals": 18,
     "symbol": "BANANA",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/8497.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x92e04b1fcc2b16347820241d226853cf01c9ebab",
+    "name": "Bloom Energy (Ondo Tokenized)",
+    "symbol": "BEON",
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -65957,6 +66537,13 @@
   },
   {
     "chainId": 1,
+    "address": "0x93a96721a624822a6ab6461a7891a5c6b154102f",
+    "name": "Fabrinet (Ondo Tokenized)",
+    "symbol": "FNON",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
     "address": "0x93aa0ccd1e5628d3a841c4dbdf602d9eb04085d6",
     "name": "Pepe Unchained",
     "symbol": "PEPU",
@@ -66269,6 +66856,13 @@
   },
   {
     "chainId": 1,
+    "address": "0x9463b0ee32c1b40b7fda6459e815f0790159bc3a",
+    "name": "iShares A.I. Innovation and Tech Active ETF (Ondo Tokenized)",
+    "symbol": "BAION",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
     "name": "Proof of Anon",
     "address": "0x9464dd05cac8ae74bf522e4c10725db6b56f92bc",
     "decimals": 18,
@@ -66354,6 +66948,13 @@
     "decimals": 18,
     "symbol": "GMB",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3819.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x948b03e4a1f1330d86ea3ade02482639b5cce720",
+    "name": "Cohu (Ondo Tokenized)",
+    "symbol": "COHUON",
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -67421,6 +68022,13 @@
   },
   {
     "chainId": 1,
+    "address": "0x96c662b152bec886facab388bd98470fd3aa9737",
+    "name": "Keel Infrastructure (Ondo Tokenized)",
+    "symbol": "KEELON",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
     "address": "0x96cc63eef1f63cde9acd69061bfb7606887f26d8",
     "name": "Basketballverse",
     "symbol": "BVR",
@@ -67730,6 +68338,13 @@
     "decimals": 18,
     "symbol": "COLLAR",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/12516.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x9784508a0758cbb43ecb9b62f4cf4b1b3a36480c",
+    "name": "United Microelectronics (Ondo Tokenized)",
+    "symbol": "UMCON",
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -68445,6 +69060,13 @@
   },
   {
     "chainId": 1,
+    "address": "0x995584539633f7d28757b6329a42439bd8aecede",
+    "name": "Wolfspeed (Ondo Tokenized)",
+    "symbol": "WOLFON",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
     "name": "First Ever NFT",
     "address": "0x995a6c0944322b7285d0712824acf0cf9bf3993a",
     "decimals": 18,
@@ -68522,6 +69144,13 @@
     "decimals": 18,
     "symbol": "EMOTI",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28213.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x99888f2ccd08258ed5f66e94ba59d7e75016900f",
+    "name": "Applied Optoelectronics (Ondo Tokenized)",
+    "symbol": "AAOION",
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -68937,6 +69566,13 @@
     "decimals": 18,
     "symbol": "MAPS",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/24660.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x9a73a9cc7c5889c521423870e896904f71562504",
+    "name": "LightPath Technologies (Ondo Tokenized)",
+    "symbol": "LPTHON",
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -70900,6 +71536,13 @@
   },
   {
     "chainId": 1,
+    "address": "0x9ed446b5cc93803291bfda5346a5b634a93a500c",
+    "name": "iShares Systematic Alternatives Active ETF (Ondo Tokenized)",
+    "symbol": "IALTON",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
     "name": "Reunit Wallet",
     "address": "0x9ed7e4b1bff939ad473da5e7a218c771d1569456",
     "decimals": 6,
@@ -71857,6 +72500,13 @@
     "decimals": 18,
     "symbol": "eUSD",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/22933.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xa0db1eca4aaebca03a3c04ed221b036dd3ccb025",
+    "name": "Lattice Semiconductor (Ondo Tokenized)",
+    "symbol": "LSCCON",
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -72924,6 +73574,13 @@
   },
   {
     "chainId": 1,
+    "address": "0xa32847395b007ee4a40407e3dd2f8f9bf56ca6ab",
+    "name": "iShares US Equity Factor Rotation Active ETF (Ondo Tokenized",
+    "symbol": "DYNFON",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
     "name": "Emerging Assets Group",
     "address": "0xa338b5a4bbd8053994bb6c55d770fc2447d66b88",
     "decimals": 18,
@@ -73668,6 +74325,13 @@
   },
   {
     "chainId": 1,
+    "address": "0xa4daa3f53405bea3b1e5701b6db2ddc0efc4c8b2",
+    "name": "Harmonic (Ondo Tokenized)",
+    "symbol": "HLITON",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
     "name": "Monastery Finance",
     "address": "0xa4e27ea37d18bb0f483779f9e75a6024efa5e73e",
     "decimals": 9,
@@ -74292,11 +74956,25 @@
   },
   {
     "chainId": 1,
+    "address": "0xa656c5dd6b64b3acb6e32af8a876a48b5748f858",
+    "name": "Planet Labs (Ondo Tokenized)",
+    "symbol": "PLON",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
     "name": "Lets Go Brandon",
     "address": "0xa6586e19ef681b1ac0ed3d46413d199a555dbb95",
     "decimals": 18,
     "symbol": "LETSGO",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/18471.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xa65db7879774bd6758abaf583a91177afd96d5a3",
+    "name": "Sprott Uranium Miners ETF (Ondo Tokenized)",
+    "symbol": "URNMON",
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -74697,6 +75375,13 @@
     "decimals": 18,
     "symbol": "GRAY",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/36809.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xa7776b3d801a6626807e0db357c7ee2a8962903b",
+    "name": "Global X NASDAQ 100 Covered Call ETF (Ondo Tokenized)",
+    "symbol": "QYLDON",
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -75436,6 +76121,13 @@
   },
   {
     "chainId": 1,
+    "address": "0xa95837130bcbc0ad99e188e22f674e4ec6925be2",
+    "name": "Cleveland-Cliffs (Ondo Tokenized)",
+    "symbol": "CLFON",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
     "name": "ALLCOIN",
     "address": "0xa958e706fc1934e26a3d0c32f471b54f733d0009",
     "decimals": 18,
@@ -75668,6 +76360,13 @@
   },
   {
     "chainId": 1,
+    "address": "0xa9e5c59f34397fe6baa9e4da139ba4e63bd84324",
+    "name": "iShares Expanded Tech-Software ETF (Ondo Tokenized)",
+    "symbol": "IGVON",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
     "name": "PepeCoin",
     "address": "0xa9e8acf069c58aec8825542845fd754e41a9489a",
     "decimals": 18,
@@ -75713,6 +76412,13 @@
     "decimals": 9,
     "symbol": "BLOCK-E",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/22127.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xa9f9be37b19f261ab067c5f7deda2c969ec66944",
+    "name": "Cameco (Ondo Tokenized)",
+    "symbol": "CCJON",
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -75809,6 +76515,13 @@
     "decimals": 8,
     "symbol": "AT",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2393.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xaa26e62e51bc5da24ed2b6fc6491e137d68824b9",
+    "name": "First Majestic Silver (Ondo Tokenized)",
+    "symbol": "AGON",
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -76441,6 +77154,13 @@
     "decimals": 18,
     "symbol": "SAC",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3157.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xabc32c14ce8502ff6b63adc2907b9458c06a6856",
+    "name": "Himax Technologies (Ondo Tokenized)",
+    "symbol": "HIMXON",
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -77436,6 +78156,13 @@
   },
   {
     "chainId": 1,
+    "address": "0xae1c6e353cdc9dc3cc01124ffb62a0d0ce64a401",
+    "name": "Rambus (Ondo Tokenized)",
+    "symbol": "RMBSON",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
     "name": "BenPysopLoyalFinaleFF6000Inu",
     "address": "0xae1cbb77d85812e0a5ca07ec20409f596044c01a",
     "decimals": 9,
@@ -77705,6 +78432,13 @@
     "decimals": 18,
     "symbol": "CYBR",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/4620.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xaeb2c4f3540a162045cc3bd82d367ac38c2f4da6",
+    "name": "iShares High Yield Active ETF (Ondo Tokenized)",
+    "symbol": "BRHYON",
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -79508,6 +80242,13 @@
   },
   {
     "chainId": 1,
+    "address": "0xb2e9ec5c62f78596ca4a21a21570b9a00c6d226c",
+    "name": "Enbridge (Ondo Tokenized)",
+    "symbol": "ENBON",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
     "name": "GolDInu",
     "address": "0xb2ed199b46630e789e8740fb83b1611acf018516",
     "decimals": 9,
@@ -79604,6 +80345,13 @@
   },
   {
     "chainId": 1,
+    "address": "0xb326821b68313082f00a1a4d6fa3f924d3e826dc",
+    "name": "GlobalFoundries (Ondo Tokenized)",
+    "symbol": "GFSON",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
     "name": "3X Short Cardano Token",
     "address": "0xb3299d4bab93bf04d5b11bc49cd6dfad1f77d23f",
     "decimals": 18,
@@ -79641,6 +80389,13 @@
     "decimals": 18,
     "symbol": "FLOCK",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/35474.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xb348a4bce7fae890d2d37ea104e59fb3881757c2",
+    "name": "Credo Technology Group Holding (Ondo Tokenized)",
+    "symbol": "CRDOON",
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -80404,6 +81159,13 @@
   },
   {
     "chainId": 1,
+    "address": "0xb4d71137656150e97f3ed2c18d4a30be138d8f2e",
+    "name": "Quanta Services (Ondo Tokenized)",
+    "symbol": "PWRON",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
     "address": "0xb4d930279552397bba2ee473229f89ec245bc365",
     "symbol": "MAHA",
     "name": "MahaDAO",
@@ -80457,6 +81219,13 @@
     "decimals": 18,
     "symbol": "ARB",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/11841.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xb50a8bd8883dfe59eaf1a8b1130acd97ced9ac84",
+    "name": "Atkore (Ondo Tokenized)",
+    "symbol": "ATKRON",
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -80777,6 +81546,13 @@
     "decimals": 8,
     "symbol": "OMX",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2844.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xb5dd7ff8e2e4019ca7a55f10c13282071a5775d4",
+    "name": "NANO Nuclear Energy (Ondo Tokenized)",
+    "symbol": "NNEON",
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -81273,6 +82049,13 @@
     "decimals": 18,
     "symbol": "MILEI",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28658.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xb71c4ebb4edbad867290206239c19dbb59ed55e1",
+    "name": "FuelCell Energy (Ondo Tokenized)",
+    "symbol": "FCELON",
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -82617,6 +83400,13 @@
     "decimals": 18,
     "symbol": "AOC",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/27274.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xba6ff85f4595a3e71f3a965e6b528bbcf51a2c79",
+    "name": "Primoris Services (Ondo Tokenized)",
+    "symbol": "PRIMON",
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -84988,6 +85778,13 @@
   },
   {
     "chainId": 1,
+    "address": "0xbf5ab848efff75d897a3dbe4647b939c59d3cdb0",
+    "name": "Lumentum Holdings (Ondo Tokenized)",
+    "symbol": "LITEON",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
     "name": "PaleBlueDot",
     "address": "0xbf5badfae2d219943dcd9652d1ce65960b8a1e0c",
     "decimals": 18,
@@ -85452,6 +86249,13 @@
   },
   {
     "chainId": 1,
+    "address": "0xc087ea645a1efe021577c19413fbe39d617a3196",
+    "name": "Camtek (Ondo Tokenized)",
+    "symbol": "CAMTON",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
     "name": "CARV",
     "address": "0xc08cd26474722ce93f4d0c34d16201461c10aa8c",
     "decimals": 18,
@@ -85641,6 +86445,13 @@
     "decimals": 18,
     "symbol": "CBUNNY",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/27284.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xc0e1f30e45da2dced2c35d89947c20bffba6f529",
+    "name": "iShares S&P Small-Cap 600 Value ETF (Ondo Tokenized)",
+    "symbol": "IJSON",
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -85881,6 +86692,13 @@
     "decimals": 18,
     "symbol": "NAVY",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3805.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xc15f11599828b0afb0c071994679ef9e685f9e2e",
+    "name": "Skyworks Solutions (Ondo Tokenized)",
+    "symbol": "SWKSON",
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -86397,6 +87215,13 @@
     "decimals": 18,
     "symbol": "CDN",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/34494.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xc29ff16a7b0a895e9fe05c32ce3f26c44e8eca3d",
+    "name": "Onto Innovation (Ondo Tokenized)",
+    "symbol": "ONTOON",
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -87128,6 +87953,13 @@
   },
   {
     "chainId": 1,
+    "address": "0xc4881ce8269744b9255b926b76728eadcb240a3b",
+    "name": "CEVA (Ondo Tokenized)",
+    "symbol": "CEVAON",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
     "name": "CORGI",
     "address": "0xc48cf59c059239e032470948f96535818f8fb675",
     "decimals": 9,
@@ -87285,6 +88117,13 @@
     "decimals": 18,
     "symbol": "HI",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/11240.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xc4fa11ed5141195ccba19180628fa5091f53790b",
+    "name": "Mobileye Global (Ondo Tokenized)",
+    "symbol": "MBLYON",
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -87645,6 +88484,13 @@
     "decimals": 10,
     "symbol": "KUB",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/5793.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xc5a72b01cc9e2721dc6de1a35ab8d92a6aa273e6",
+    "name": "VeriSign (Ondo Tokenized)",
+    "symbol": "VRSNON",
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -88325,6 +89171,13 @@
     "decimals": 18,
     "symbol": "INU",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/26676.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xc76e008965b2f0e37896f52a2feee66ef2926ae8",
+    "name": "Digi Power X (Ondo Tokenized)",
+    "symbol": "DGXXON",
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -89781,6 +90634,20 @@
     "decimals": 8,
     "symbol": "R34P",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/8040.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xcafc59d86fad601ea321c44439fe9d5b8f02ef0f",
+    "name": "iShares US Industry Rotation Active ETF (Ondo Tokenized)",
+    "symbol": "INROON",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0xcafd1c0ee8b392cb446e3e745a4adeff7a861995",
+    "name": "SAP (Ondo Tokenized)",
+    "symbol": "SAPON",
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -91336,6 +92203,13 @@
   },
   {
     "chainId": 1,
+    "address": "0xcea4290d6578f0253308304f7184ea2e8f5eb0e4",
+    "name": "SLB (Ondo Tokenized)",
+    "symbol": "SLBON",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
     "name": "Good Game",
     "address": "0xcea8a10df595a20fceca4f6f2c23384eec1e4073",
     "decimals": 18,
@@ -91349,6 +92223,13 @@
     "decimals": 9,
     "symbol": "CAST",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/31861.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xceb37ad46957047e22f726a7b25b134fc53ad753",
+    "name": "WhiteFiber (Ondo Tokenized)",
+    "symbol": "WYFION",
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -92136,6 +93017,13 @@
   },
   {
     "chainId": 1,
+    "address": "0xd081b43e3c334b1a101981efc1d98f1e82df076e",
+    "name": "Okeanis Eco Tankers (Ondo Tokenized)",
+    "symbol": "ECOON",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
     "name": "Manifold Finance",
     "address": "0xd084944d3c05cd115c09d072b9f44ba3e0e45921",
     "decimals": 18,
@@ -92336,6 +93224,13 @@
   },
   {
     "chainId": 1,
+    "address": "0xd0e60d2ef0841e49700772d9889123b9886194c7",
+    "name": "Iridium Communications (Ondo Tokenized)",
+    "symbol": "IRDMON",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
     "name": "NEOT",
     "address": "0xd0e6d04c2f105344860d07912a857ad21204fc97",
     "decimals": 18,
@@ -92437,6 +93332,13 @@
     "decimals": 18,
     "symbol": "TETH",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/37574.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xd120f60fec8189ed4a2346e10107b0f1f61354cb",
+    "name": "Generac Holdings (Ondo Tokenized)",
+    "symbol": "GNRCON",
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -92632,6 +93534,13 @@
   },
   {
     "chainId": 1,
+    "address": "0xd175b950b71f623bcd31c430c23e3e4a3487bda3",
+    "name": "iShares Aaa - A Rated Corporate Bond ETF (Ondo Tokenized)",
+    "symbol": "QLTAON",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
     "name": "TokenTuber",
     "address": "0xd1766a85b0d6f81185782dc07f15326d63c3cbaa",
     "decimals": 18,
@@ -92765,6 +93674,13 @@
     "decimals": 18,
     "symbol": "LQNTY",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/21392.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xd1c3bf5dde6ee17ae2a472a8c4f0258e0b350cb4",
+    "name": "MaxLinear (Ondo Tokenized)",
+    "symbol": "MXLON",
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -93309,6 +94225,13 @@
     "decimals": 18,
     "symbol": "TKP",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/4116.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xd318bbbe6b6e83f74e7acaeb5e94c08ddbdb44c0",
+    "name": "Direxion Daily Semi Bull 3X ETF (Ondo Tokenized)",
+    "symbol": "SOXLON",
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -94432,6 +95355,13 @@
   },
   {
     "chainId": 1,
+    "address": "0xd569ff7f1560f71874bc52d4728fb2921e3dce05",
+    "name": "Kopin (Ondo Tokenized)",
+    "symbol": "KOPNON",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
     "name": "Equus",
     "address": "0xd57a41edb1956d4710286f9086352178d49a9b4a",
     "decimals": 18,
@@ -94712,6 +95642,13 @@
   },
   {
     "chainId": 1,
+    "address": "0xd62c0bf1e1dd6f4fee1b3d042a9e479ad1fb1bcb",
+    "name": "Lincoln Electric (Ondo Tokenized)",
+    "symbol": "LECOON",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
     "address": "0xd63070114470f685b75b74d60eec7c1113d33a3d",
     "name": "MEV Capital Usual Boosted USDC Morpho Vault",
     "symbol": "USUALUSDC+",
@@ -94848,6 +95785,13 @@
   },
   {
     "chainId": 1,
+    "address": "0xd68fa0978c257aace5bec5246b201b56e838d45d",
+    "name": "General Dynamics (Ondo Tokenized)",
+    "symbol": "GDON",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
     "address": "0xd692ac3245bb82319a31068d6b8412796ee85d2c",
     "symbol": "crHUSD",
     "name": "Cream HUSD",
@@ -94957,6 +95901,13 @@
     "decimals": 18,
     "symbol": "ORCL5",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/8889.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xd6d09189b6fd611a75435e4a123e373a56ab0e41",
+    "name": "Astera Labs (Ondo Tokenized)",
+    "symbol": "ALABON",
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -95144,11 +96095,11 @@
   },
   {
     "chainId": 1,
+    "name": "Real Brasilero",
     "address": "0xd76f5faf6888e24d9f04bf92a0c8b921fe4390e0",
-    "name": "Brazilian real",
-    "symbol": "WBRL",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/70862/thumb/wbrl.png?1764272108"
+    "symbol": "WBRL",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/40233.png"
   },
   {
     "chainId": 1,
@@ -96056,6 +97007,13 @@
   },
   {
     "chainId": 1,
+    "address": "0xd9584f80cce13afc96bfd0188fd5c81e08f18c85",
+    "name": "Jabil (Ondo Tokenized)",
+    "symbol": "JBLON",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
     "name": "Aventa",
     "address": "0xd9641fc2826ecc9bebf4f3852fe4ed92a5239f02",
     "decimals": 18,
@@ -96280,6 +97238,13 @@
   },
   {
     "chainId": 1,
+    "address": "0xd9c1b5df94063177cf168680b695a417919ae1ae",
+    "name": "Amphenol (Ondo Tokenized)",
+    "symbol": "APHON",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
     "name": "HAPI Protocol",
     "address": "0xd9c2d319cd7e6177336b0a9c93c21cb48d84fb54",
     "decimals": 18,
@@ -96317,6 +97282,13 @@
     "decimals": 18,
     "symbol": "xSolvBTC",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/33310.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xd9e7c53205048f83859815852616cd65d87aa83e",
+    "name": "iShares J.P. Morgan EM Local Currency Bond ETF (Ondo Tokeniz",
+    "symbol": "LEMBON",
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -96936,6 +97908,13 @@
   },
   {
     "chainId": 1,
+    "address": "0xdb2e166f0c76b05bc07700cbf74cc36ae2603624",
+    "name": "Tsakos Energy Navigation (Ondo Tokenized)",
+    "symbol": "TENON",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
     "name": "CY Finance",
     "address": "0xdb33d49b5a41a97d296b7242a96ebd8ac77b3bb8",
     "decimals": 18,
@@ -96973,6 +97952,13 @@
     "symbol": "GSON",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/68621/thumb/gson_160x160.png?1756130252"
+  },
+  {
+    "chainId": 1,
+    "address": "0xdb5a8f5b4c17f2ee2e7192a150687e48eb3c415d",
+    "name": "Roundhill Memory ETF (Ondo Tokenized)",
+    "symbol": "DRAMON",
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -97328,6 +98314,13 @@
   },
   {
     "chainId": 1,
+    "address": "0xdc4f9c9caa96046816255bc6c10fd6433863128e",
+    "name": "MKS Inc. (Ondo Tokenized)",
+    "symbol": "MKSION",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
     "name": "Witch Token",
     "address": "0xdc524e3c6910257744c1f93cf15e9f472b5bd236",
     "decimals": 18,
@@ -97397,6 +98390,13 @@
     "decimals": 9,
     "symbol": "MONKAS",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/31368.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xdc7e54dd476812f7cf1d77066f523afe50edab1b",
+    "name": "Hesai Group (Ondo Tokenized)",
+    "symbol": "HSAION",
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -97549,6 +98549,13 @@
     "decimals": 18,
     "symbol": "AXPR",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2466.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xdd00b1046692aa2780ef04849829609fc4f90fd7",
+    "name": "Global X Blockchain ETF (Ondo Tokenized)",
+    "symbol": "BKCHON",
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -97805,6 +98812,13 @@
     "decimals": 8,
     "symbol": "$SDOPE",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/27330.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xddaf7945093ad7457228c185783fdf6ab25022b2",
+    "name": "Core Scientific (Ondo Tokenized)",
+    "symbol": "CORZON",
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -98232,6 +99246,13 @@
   },
   {
     "chainId": 1,
+    "address": "0xdebb8e6f581655759e3d64f769247a007af0ae36",
+    "name": "TTM Technologies (Ondo Tokenized)",
+    "symbol": "TTMION",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
     "name": "ALTAVA",
     "address": "0xdebe620609674f21b1089042527f420372ea98a5",
     "decimals": 18,
@@ -98472,6 +99493,13 @@
   },
   {
     "chainId": 1,
+    "address": "0xdf3f2315d124f7f8b714ba031d6e69aa16a61fa2",
+    "name": "Hut 8 (Ondo Tokenized)",
+    "symbol": "HUTON",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
     "name": "XAEA-Xii Token",
     "address": "0xdf3f28189516647f8cd2414b6add5ac948f3fc41",
     "decimals": 9,
@@ -98669,6 +99697,13 @@
     "symbol": "ODIN",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/50953/thumb/ODIN-secondary-logomark-200x200-COINGECKO.png?1737006393"
+  },
+  {
+    "chainId": 1,
+    "address": "0xdfca97fb2a3163011f3b5b3198f63d9ab8f04a98",
+    "name": "Ichor Holdings (Ondo Tokenized)",
+    "symbol": "ICHRON",
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -99368,6 +100403,13 @@
   },
   {
     "chainId": 1,
+    "address": "0xe172fb6b867f873db7cb2d7435b95a07e5defe81",
+    "name": "Power Integrations (Ondo Tokenized)",
+    "symbol": "POWION",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
     "name": "Eterna",
     "address": "0xe1747a23c44f445062078e3c528c9f4c28c50a51",
     "decimals": 18,
@@ -99869,6 +100911,13 @@
     "decimals": 9,
     "symbol": "ZKDOGE",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/26679.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xe2c149fa719d43912bfe584c71c9a6a018a5e916",
+    "name": "USA Rare Earth (Ondo Tokenized)",
+    "symbol": "USARON",
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -101368,6 +102417,13 @@
   },
   {
     "chainId": 1,
+    "address": "0xe67abca57e1504a26bd2ed209f2e0c09543fd7eb",
+    "name": "Hewlett Packard Enterprise (Ondo Tokenized)",
+    "symbol": "HPEON",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
     "name": "WATTTON",
     "address": "0xe67f943af5eb6051ef56f05979cc30b732717fa6",
     "decimals": 4,
@@ -102368,6 +103424,13 @@
   },
   {
     "chainId": 1,
+    "address": "0xe905c437a30ae6d8c0576e0d9f6360b93b94976d",
+    "name": "iShares 3-7 Year Treasury Bond ETF (Ondo Tokenized)",
+    "symbol": "IEION",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
     "address": "0xe90ce7764d8401d19ed3733a211bd3b06c631bc0",
     "name": "The Other Party",
     "symbol": "POD",
@@ -103152,6 +104215,13 @@
   },
   {
     "chainId": 1,
+    "address": "0xead51ee313a7187fc1a155c381270c764da42770",
+    "name": "Westlake (Ondo Tokenized)",
+    "symbol": "WLKON",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
     "name": "3x Long EOS Token",
     "address": "0xead7f3ae4e0bb0d8785852cc37cc9d0b5e75c06a",
     "decimals": 18,
@@ -103277,6 +104347,13 @@
     "decimals": 18,
     "symbol": "IXFI",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/38348.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xeb48e68f01c0c76735dc6f1dcc0f151a973bd9d2",
+    "name": "Aehr Test Systems (Ondo Tokenized)",
+    "symbol": "AEHRON",
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -103541,6 +104618,13 @@
     "decimals": 18,
     "symbol": "XNL",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/35245.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xebe0d1b1d50bc68458fcdc45c3c276d57cdc422b",
+    "name": "Tower Semiconductor (Ondo Tokenized)",
+    "symbol": "TSEMON",
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -103885,6 +104969,13 @@
     "decimals": 18,
     "symbol": "SGCC",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2738.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xeca55ac71f83931b7e074228aebc9104f13d8c02",
+    "name": "Breakwave Tanker Shipping ETF (Ondo Tokenized)",
+    "symbol": "BWETON",
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -104744,6 +105835,13 @@
   },
   {
     "chainId": 1,
+    "address": "0xee9f43476c5b7292b114ba1b280a42a8746792d4",
+    "name": "Dell Technologies (Ondo Tokenized)",
+    "symbol": "DELLON",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
     "address": "0xeea3edc017877c603e2f332fc1828a46432cdf96",
     "name": "Cove USD",
     "symbol": "COVEUSD",
@@ -105376,11 +106474,10 @@
   },
   {
     "chainId": 1,
-    "address": "0xf028adee51533b1b47beaa890feb54a457f51e89",
-    "name": "BMCHAIN",
-    "symbol": "BMT",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/7419/thumb/bchain_logo.jpg?1696507693"
+    "address": "0xf02b8309df07641ddcfd1dabceffdde3d30915de",
+    "name": "Amkor Technology (Ondo Tokenized)",
+    "symbol": "AMKRON",
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -105952,6 +107049,13 @@
   },
   {
     "chainId": 1,
+    "address": "0xf14d47aed45e16bf1f6e06904ac7f852fce6cdf4",
+    "name": "Energy Fuels (Ondo Tokenized)",
+    "symbol": "UUUUON",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
     "address": "0xf14dd7b286ce197019cba54b189d2b883e70f761",
     "name": "Young Peezy",
     "symbol": "PEEZY",
@@ -106421,6 +107525,13 @@
     "symbol": "DOGECOIN",
     "decimals": 8,
     "logoURI": "https://assets.coingecko.com/coins/images/31463/thumb/JgNkdCWn_400x400.jpg?1696530276"
+  },
+  {
+    "chainId": 1,
+    "address": "0xf25a149151033fcfaf069c1d007c3c2d2429be8e",
+    "name": "Scorpio Tankers (Ondo Tokenized)",
+    "symbol": "STNGON",
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -107872,6 +108983,13 @@
   },
   {
     "chainId": 1,
+    "address": "0xf5852886fff060df3af99a4246456fca26445e8c",
+    "name": "STMicroelectronics (Ondo Tokenized)",
+    "symbol": "STMON",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
     "address": "0xf587f2e8aff7d76618d3b6b4626621860fbd54e3",
     "name": "cbBTC Core Morpho Vault",
     "symbol": "GTCBBTCC",
@@ -108389,6 +109507,13 @@
     "decimals": 2,
     "symbol": "X1",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/21921.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xf6c9c6b33bd3df0d761702db7075f89e561a54d8",
+    "name": "Fluence Energy (Ondo Tokenized)",
+    "symbol": "FLNCON",
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -109016,6 +110141,13 @@
   },
   {
     "chainId": 1,
+    "address": "0xf87efca06f6af53cb096847ba092ccd04395a192",
+    "name": "WESCO International (Ondo Tokenized)",
+    "symbol": "WCCON",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
     "name": "HRDCOIN",
     "address": "0xf8834e39fdf20accc5bdbb017b92e20ebecc9fb2",
     "decimals": 2,
@@ -109221,6 +110353,13 @@
     "decimals": 18,
     "symbol": "LAS",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/8960.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xf8fd3698ca42c07f502150c19dd1d96b687f53cd",
+    "name": "Global X Space Tech ETF (Ondo Tokenized)",
+    "symbol": "ORBXON",
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -109605,6 +110744,13 @@
     "decimals": 18,
     "symbol": "CASTLE",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/21125.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xf9d5af26e1b96625dbc86609463a06602be42966",
+    "name": "Steel Dynamics (Ondo Tokenized)",
+    "symbol": "STLDON",
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -110160,6 +111306,13 @@
   },
   {
     "chainId": 1,
+    "address": "0xfb1b703b26957c344aab03bbe11ec9c23e9eddf5",
+    "name": "Global X MSCI Argentina ETF (Ondo Tokenized)",
+    "symbol": "ARGTON",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
     "name": "Galaxy eSolutions",
     "address": "0xfb1e5f5e984c28ad7e228cdaa1f8a0919bb6a09b",
     "decimals": 18,
@@ -110208,6 +111361,13 @@
   },
   {
     "chainId": 1,
+    "address": "0xfb4aa24c9c4e65f82d57d268da8a65a0de0dc43b",
+    "name": "Global X Defense Tech ETF (Ondo Tokenized)",
+    "symbol": "SHLDON",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
     "name": "ProBit Token",
     "address": "0xfb559ce67ff522ec0b9ba7f5dc9dc7ef6c139803",
     "decimals": 18,
@@ -110237,6 +111397,13 @@
     "symbol": "DPET",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/15321/thumb/mydefi.PNG?1696514970"
+  },
+  {
+    "chainId": 1,
+    "address": "0xfb6d594cccfded3606e1500b92a26b8b43a35071",
+    "name": "Williams (Ondo Tokenized)",
+    "symbol": "WMBON",
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -110373,6 +111540,13 @@
     "decimals": 18,
     "symbol": "TREAT",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/27839.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xfbd7880ebc5c2b1b871a8ce188c05311015139f4",
+    "name": "iShares Global Government Bond USD Hedged Active ETF (Ondo T",
+    "symbol": "GGOVON",
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -110744,6 +111918,13 @@
   },
   {
     "chainId": 1,
+    "address": "0xfc9d0ebbd17d3aaa336a50488795806c69ea4b32",
+    "name": "Aurora Innovation (Ondo Tokenized)",
+    "symbol": "AURON",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
     "address": "0xfc9d98cdb3529f32cd7fb02d175547641e145b29",
     "name": "WORM",
     "symbol": "WORM",
@@ -110789,6 +111970,13 @@
     "decimals": 18,
     "symbol": "CYSHI",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/17853.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xfcba0eebbb946ff933c91d2ddb2991845a400f39",
+    "name": "iShares Floating Rate Loan Active ETF (Ondo Tokenized)",
+    "symbol": "BRLNON",
+    "decimals": 18
   },
   {
     "chainId": 1,
