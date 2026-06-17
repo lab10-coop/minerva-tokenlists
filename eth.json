@@ -15383,7 +15383,7 @@
     "chainId": 1,
     "name": "Acurast",
     "address": "0x216b3643ff8b7bb30d8a48e9f1bd550126202add",
-    "decimals": 18,
+    "decimals": 12,
     "symbol": "ACU",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/36492.png"
   },
@@ -16042,6 +16042,14 @@
     "symbol": "FIABTC",
     "decimals": 8,
     "logoURI": "https://assets.coingecko.com/coins/images/68062/thumb/fiabtc_200-200.png?1754642511"
+  },
+  {
+    "chainId": 1,
+    "address": "0x22f7cb13d44e6da722d92d137a7635d05b206a96",
+    "name": "JRNY",
+    "symbol": "JRNY",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102173971/thumb/jrny_logo_circle2.png?1781619976"
   },
   {
     "chainId": 1,
@@ -39877,11 +39885,11 @@
   },
   {
     "chainId": 1,
-    "name": "Toncoin",
     "address": "0x582d872a1b094fc48f5de31d3b73f2d9be47def1",
-    "decimals": 18,
-    "symbol": "TON",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/11419.png"
+    "name": "Gram (prev. Toncoin)",
+    "symbol": "GRAM",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/17980/thumb/Gram_Circular_Badge.png?1781524778"
   },
   {
     "chainId": 1,
@@ -78287,7 +78295,8 @@
     "address": "0xae1c6e353cdc9dc3cc01124ffb62a0d0ce64a401",
     "name": "Rambus (Ondo Tokenized)",
     "symbol": "RMBSON",
-    "decimals": 18
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102173916/thumb/rambus.png?1781589919"
   },
   {
     "chainId": 1,
@@ -84976,6 +84985,14 @@
     "decimals": 18,
     "symbol": "SOV",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/8669.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xbdb37597c7e84d898a5536fbb6e4a5c2bcac640b",
+    "name": "Blotix",
+    "symbol": "BLOTIX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102173973/thumb/blotix_logo_200x200.png?1781634193"
   },
   {
     "chainId": 1,
@@ -101583,6 +101600,14 @@
   },
   {
     "chainId": 1,
+    "address": "0xe45575b8895664dedf7beffee98b078f2cf1a192",
+    "name": "Corning (Ondo Tokenized)",
+    "symbol": "GLWON",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102173732/thumb/glwon_160x160.png?1781494196"
+  },
+  {
+    "chainId": 1,
     "name": "Relation Labs",
     "address": "0xe45dfc26215312edc131e34ea9299fbca53275ca",
     "decimals": 18,
@@ -117116,6 +117141,14 @@
     "name": "Sequel",
     "decimals": 18,
     "logoURI": "ipfs://QmYkDPfPBos6Kq7XM7BzYLanSbBbo6ZRN5vRXpAh9BJBJa"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xa4d5501deaa04807bd5c48e3f2bf3fd9b79a4ba3",
+    "symbol": "CRUDE",
+    "name": "CRUDE",
+    "decimals": 18,
+    "logoURI": "ipfs://QmbVwbQ1HfG8Bnc356xH3P2B8VVgPoZ3WijrWxaX9RXs1z"
   },
   {
     "chainId": 8453,
