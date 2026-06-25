@@ -3756,6 +3756,19 @@
     "logoURI": "https://tokens.pancakeswap.finance/images/0x75E8ddB518bB757b4282cd5b83bb70d4101D12FB.png"
   },
   {
+    "name": "Advanced Micro Devices Inc",
+    "chainId": 56,
+    "symbol": "AMDB",
+    "address": "0x75fd4cf6f8392e41e70391d60c90c0d5211603a1",
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x75Fd4cF6f8392E41E70391D60c90C0D5211603a1.png",
+    "extensions": {
+      "scaledUIAmount": {
+        "enabled": true
+      }
+    }
+  },
+  {
     "name": "Linear Finance",
     "chainId": 56,
     "symbol": "LINA",
@@ -5991,6 +6004,19 @@
     "logoURI": "https://tokens.pancakeswap.finance/images/0xbE7E12B2E128bC955A0130fFB168F031d7dD8d58.png"
   },
   {
+    "name": "iShares MSCI South Korea ETF",
+    "chainId": 56,
+    "symbol": "EWYB",
+    "address": "0xbe82f76637dba2c114c41df856c2c51e522e2cb8",
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0xBE82F76637DBA2C114C41Df856c2C51e522E2Cb8.png",
+    "extensions": {
+      "scaledUIAmount": {
+        "enabled": true
+      }
+    }
+  },
+  {
     "name": "Uniswap",
     "chainId": 56,
     "symbol": "UNI",
@@ -6959,6 +6985,19 @@
     "logoURI": "https://tokens.pancakeswap.finance/images/0xe60eaf5A997DFAe83739e035b005A33AfdCc6df5.png"
   },
   {
+    "name": "Intel Corporation",
+    "chainId": 56,
+    "symbol": "INTCB",
+    "address": "0xe614e2fc6c787035ff51f452e8e826bfd32d5283",
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0xe614E2fc6C787035FF51f452e8E826Bfd32D5283.png",
+    "extensions": {
+      "scaledUIAmount": {
+        "enabled": true
+      }
+    }
+  },
+  {
     "name": "ROOBEE",
     "chainId": 56,
     "symbol": "bROOBEE",
@@ -7015,12 +7054,33 @@
     "logoURI": "https://tokens.pancakeswap.finance/images/0xE8176d414560cFE1Bf82Fd73B986823B89E4F545.png"
   },
   {
+    "name": "Strategy Inc.",
+    "chainId": 56,
+    "symbol": "MSTRB",
+    "address": "0xe87afb3076aeb0f9b14e368de8145ae6a2826a14",
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0xE87afb3076AeB0f9B14E368DE8145ae6a2826A14.png",
+    "extensions": {
+      "scaledUIAmount": {
+        "enabled": true
+      }
+    }
+  },
+  {
     "name": "TitanSwap",
     "chainId": 56,
     "symbol": "TITAN",
     "address": "0xe898edc43920f357a93083f1d4460437de6daec2",
     "decimals": 18,
     "logoURI": "https://tokens.pancakeswap.finance/images/0xe898EDc43920F357A93083F1d4460437dE6dAeC2.png"
+  },
+  {
+    "name": "Mame Inu",
+    "chainId": 56,
+    "symbol": "MAME",
+    "address": "0xe92f7fe3eaf61df28b7b75f3faab199333c42302",
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0xe92F7Fe3EAf61DF28b7B75f3FaAB199333c42302.png"
   },
   {
     "name": "Binance Pegged BUSD",
