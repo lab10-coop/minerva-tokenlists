@@ -8881,11 +8881,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x1337b164d318234ccafc3b06c726f522314b2799",
     "name": "BIG Indie Games",
-    "symbol": "BIG",
+    "address": "0x1337b164d318234ccafc3b06c726f522314b2799",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/102174205/thumb/Logo_Circular.png?1782540312"
+    "symbol": "BIG",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28725.png"
   },
   {
     "chainId": 1,
@@ -47237,6 +47237,14 @@
   },
   {
     "chainId": 1,
+    "name": "JPYSC",
+    "address": "0x6781d5631bfe47432b089e64e3eab3b6edd26177",
+    "decimals": 18,
+    "symbol": "JPYSC",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/40595.png"
+  },
+  {
+    "chainId": 1,
     "name": "Landwolf",
     "address": "0x67859a9314b9dca2642023ad8231beaa6cbf1933",
     "decimals": 18,
@@ -70116,11 +70124,11 @@
   },
   {
     "chainId": 1,
-    "name": "Meme Alliance",
     "address": "0x9b3a8159e119eb09822115ae08ee1526849e1116",
-    "decimals": 18,
+    "name": "Meme Alliance [OLD]",
     "symbol": "MMA",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28725.png"
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/33765/thumb/200x200.png?1709978615"
   },
   {
     "chainId": 1,
@@ -73969,14 +73977,6 @@
     "symbol": "WABUU",
     "decimals": 9,
     "logoURI": "https://assets.coingecko.com/coins/images/71723/thumb/wabuunewlogo.png?1769079588"
-  },
-  {
-    "chainId": 1,
-    "address": "0xa3c31927a092bd54eb9a0b5dfe01d9db5028bd4f",
-    "name": "Espresso Bot",
-    "symbol": "ESPR",
-    "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/31091/thumb/ESPR.png?1696529923"
   },
   {
     "chainId": 1,
@@ -89429,14 +89429,6 @@
     "symbol": "ASNX",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/32902/thumb/SNX.png?1699802376"
-  },
-  {
-    "chainId": 1,
-    "address": "0xc7bb03ddd9311fc0338be013e7b523254092fda9",
-    "name": "nsurance",
-    "symbol": "N",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/32392/thumb/n-logo-200x200.png?1698053006"
   },
   {
     "chainId": 1,
@@ -107740,7 +107732,7 @@
     "name": "Asteroid Shiba",
     "symbol": "ASTEROID",
     "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/50333/thumb/IMG_0728.jpeg?1727384521"
+    "logoURI": "https://assets.coingecko.com/coins/images/50333/thumb/IMG_0021.jpeg?1782717511"
   },
   {
     "chainId": 1,
