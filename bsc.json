@@ -432,6 +432,19 @@
     "logoURI": "https://tokens.pancakeswap.finance/images/0x0C808F0464C423d5Ea4F4454fcc23B6E2Ae75562.png"
   },
   {
+    "name": "Palantir Technologies",
+    "chainId": 56,
+    "symbol": "PLTRB",
+    "address": "0x0ca5d51d0277bd006fd9607d3e560785ebad8222",
+    "decimals": 18,
+    "logoURI": "https://bscscan.com/token/images/bstocks_pltrb_64.png",
+    "extensions": {
+      "scaledUIAmount": {
+        "enabled": true
+      }
+    }
+  },
+  {
     "name": "ZoRobotics",
     "chainId": 56,
     "symbol": "ZORO",
@@ -1006,6 +1019,19 @@
     "address": "0x20482b0b4d9d8f60d3ab432b92f4c4b901a0d10c",
     "decimals": 18,
     "logoURI": "https://tokens.pancakeswap.finance/images/0x20482b0b4d9d8f60d3AB432b92F4c4B901a0D10C.png"
+  },
+  {
+    "name": "Invesqo QQQ",
+    "chainId": 56,
+    "symbol": "QQQB",
+    "address": "0x205812cdbed920aff76c6580abd681a46d11efc7",
+    "decimals": 18,
+    "logoURI": "https://bscscan.com/token/images/bstocks_qqqb_64.png",
+    "extensions": {
+      "scaledUIAmount": {
+        "enabled": true
+      }
+    }
   },
   {
     "name": "Tagger",
@@ -3204,6 +3230,19 @@
     "logoURI": "https://tokens.pancakeswap.finance/images/0x64274835D88F5c0215da8AADd9A5f2D2A2569381.png"
   },
   {
+    "name": "Lumentum Holdings",
+    "chainId": 56,
+    "symbol": "LITEB",
+    "address": "0x64748bea17b6d19e242adf20425de2440c656142",
+    "decimals": 18,
+    "logoURI": "https://bscscan.com/token/images/bstocks_liteb_64.png",
+    "extensions": {
+      "scaledUIAmount": {
+        "enabled": true
+      }
+    }
+  },
+  {
     "name": "Compounding Open Dollar",
     "chainId": 56,
     "symbol": "cUSDO",
@@ -3676,6 +3715,19 @@
     "logoURI": "https://tokens.pancakeswap.finance/images/0x73b84F7E3901F39FC29F3704a03126D317Ab4444.png"
   },
   {
+    "name": "Meta Platforms",
+    "chainId": 56,
+    "symbol": "METAB",
+    "address": "0x7425889fe94f9d693e8daefe88bcced6acfef4c0",
+    "decimals": 18,
+    "logoURI": "https://bscscan.com/token/images/bstocks_metab_64.png",
+    "extensions": {
+      "scaledUIAmount": {
+        "enabled": true
+      }
+    }
+  },
+  {
     "name": "Anoma",
     "chainId": 56,
     "symbol": "XAN",
@@ -4095,6 +4147,19 @@
     "address": "0x7f70642d88cf1c4a3a7abb072b53b929b653eda5",
     "decimals": 18,
     "logoURI": "https://tokens.pancakeswap.finance/images/0x7F70642d88cf1C4a3a7abb072B53B929b653edA5.png"
+  },
+  {
+    "name": "Microsoft",
+    "chainId": 56,
+    "symbol": "MSFTB",
+    "address": "0x80106cb3ead06659a5ad19df39d9b4733863b9b0",
+    "decimals": 18,
+    "logoURI": "https://bscscan.com/token/images/bstocks_msftb_64.png",
+    "extensions": {
+      "scaledUIAmount": {
+        "enabled": true
+      }
+    }
   },
   {
     "name": "StakeStone Ether",

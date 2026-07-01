@@ -3513,6 +3513,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x06ea695b91700071b161a434fed42d1dcbad9f00",
+    "name": "Hemi Bitcoin",
+    "symbol": "HEMIBTC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/67027/thumb/hemibtc.jpg?1751514905"
+  },
+  {
+    "chainId": 1,
     "name": "Akira",
     "address": "0x06ef980d0423c096da3d3884c071372f2206306d",
     "decimals": 9,
@@ -42542,10 +42550,10 @@
   {
     "chainId": 1,
     "address": "0x5dd8bfa6c5c68d05d25ef6143e05c11e26c4cdb7",
-    "name": "Yield Optimizer yoloUSD",
-    "symbol": "YOLOUSD",
+    "name": "Yield Optimizer USD Edge",
+    "symbol": "YOUSDEDGE",
     "decimals": 6,
-    "logoURI": "https://assets.coingecko.com/coins/images/102173273/thumb/yoloUSD.png?1781284534"
+    "logoURI": "https://assets.coingecko.com/coins/images/102173273/thumb/yoUSD_Edge.png?1782811361"
   },
   {
     "chainId": 1,
@@ -49474,6 +49482,14 @@
     "decimals": 18,
     "symbol": "CHAD",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/24507.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x6b93a120829558c18f8cd54a96e8024ef973ce52",
+    "name": "Argonot",
+    "symbol": "ARGNOT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102174263/thumb/argonot-icon-rounded.png?1782852663"
   },
   {
     "chainId": 1,
@@ -88389,14 +88405,6 @@
     "decimals": 18,
     "symbol": "CNB",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/5114.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xc53ac24320e3a54c7211e4993c8095078a0cb3cf",
-    "name": "Wild Goat Coin [OLD]",
-    "symbol": "WGC",
-    "decimals": 6,
-    "logoURI": "https://assets.coingecko.com/coins/images/37966/thumb/wgc-v3-logo.png?1776225874"
   },
   {
     "chainId": 1,
