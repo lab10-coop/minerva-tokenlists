@@ -37437,6 +37437,14 @@
   },
   {
     "chainId": 1,
+    "name": "MAKA",
+    "address": "0x52076923f24daf4c9da90082b6384edcc4180646",
+    "decimals": 18,
+    "symbol": "MAKA",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/39073.png"
+  },
+  {
+    "chainId": 1,
     "name": "LIVE",
     "address": "0x5212df56d470b525c067ee6570a28aee61cdd7d9",
     "decimals": 18,
@@ -56997,6 +57005,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x7d1bc77187d15c9b79ac2059fa1d262947379ec0",
+    "name": "JGGL",
+    "symbol": "JGGL",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/71262/thumb/512x512.png?1766774280"
+  },
+  {
+    "chainId": 1,
     "name": "Rotate",
     "address": "0x7d2160f4acf8b23ddab7d20b191d041ab7c19fb4",
     "decimals": 18,
@@ -66821,7 +66837,7 @@
   },
   {
     "chainId": 1,
-    "name": "Tentum Coin",
+    "name": "UZDT",
     "address": "0x9409223575db90634d63da00beb6204d0fc192e0",
     "decimals": 18,
     "symbol": "UZDT",
@@ -66850,6 +66866,14 @@
     "decimals": 18,
     "symbol": "CROOGE",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/26851.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Airfox",
+    "address": "0x9414e9af3a531e47f0f2b48d1a7faf8178cf0bd7",
+    "decimals": 18,
+    "symbol": "AFX",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/27642.png"
   },
   {
     "chainId": 1,
@@ -72321,14 +72345,6 @@
     "symbol": "AWBTC",
     "decimals": 8,
     "logoURI": "https://assets.coingecko.com/coins/images/14244/thumb/aWBTC.41453c2a.png?1696513959"
-  },
-  {
-    "chainId": 1,
-    "name": "MAKA",
-    "address": "0x9ff7b37b84c05dfb08b4f50adb17a80a3fefd6ed",
-    "decimals": 18,
-    "symbol": "MAKA",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/39073.png"
   },
   {
     "chainId": 1,
@@ -94280,11 +94296,11 @@
   },
   {
     "chainId": 1,
-    "name": "Aviator",
     "address": "0xd2bdaaf2b9cc6981fd273dcb7c04023bfbe0a7fe",
-    "decimals": 18,
+    "name": "Aviator [OLD]",
     "symbol": "AVI",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/27642.png"
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/31024/thumb/avi-200x200png.png?1711119363"
   },
   {
     "chainId": 1,
@@ -117709,6 +117725,14 @@
     "name": "DIP",
     "decimals": 18,
     "logoURI": "ipfs://QmQj5TddmiaGtpz1PXzsSu1WQ3tERNF8b6fBVaxuQBkveU"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xaf4e191361bebabe064118cb611416a8b3070b07",
+    "symbol": "LUMEN",
+    "name": "Lumen Privacy",
+    "decimals": 18,
+    "logoURI": "ipfs://QmNfrNXBwLpVvw5FdHCDJkvqbB9hxLXXg2mNdpgBhnRwtr"
   },
   {
     "chainId": 8453,
