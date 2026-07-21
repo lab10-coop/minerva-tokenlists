@@ -19381,6 +19381,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x2a5ee480b67ba1e5ada2f6e63b1d95af0b0178a4",
+    "name": "Xerberus",
+    "symbol": "XER",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/53641/thumb/5aB8UPYQ_400x400.jpg?1736962104"
+  },
+  {
+    "chainId": 1,
     "name": "WAX",
     "address": "0x2a79324c19ef2b89ea98b23bc669b7e7c9f8a517",
     "decimals": 18,
@@ -35229,11 +35237,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x4cff203005b24aa1083b35063d684a76b1080f22",
     "name": "FONQ",
-    "symbol": "FONQ",
+    "address": "0x4cff203005b24aa1083b35063d684a76b1080f22",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/102173670/thumb/IMG_6664.png?1780833027"
+    "symbol": "FONQ",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/40885.png"
   },
   {
     "chainId": 1,
@@ -116445,6 +116453,14 @@
     "name": "Optimism",
     "decimals": 18,
     "logoURI": "ipfs://QmTLXfrC9ErFyQVMtGyvs3qtzrtScdNbQDHR96TvCfcSmK"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x4f3cb7965feb3576ff97e515c3828adefd694b07",
+    "symbol": "STRONG",
+    "name": "Strongman",
+    "decimals": 18,
+    "logoURI": "ipfs://QmfPWKqSMNcWUGqQaRspKG7pbV8zaYaszKPKxYWZrd1Amz"
   },
   {
     "chainId": 8453,
