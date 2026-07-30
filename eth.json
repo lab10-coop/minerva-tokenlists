@@ -57423,7 +57423,7 @@
     "chainId": 1,
     "name": "USAD",
     "address": "0x7ec90ed9297dbc5702b1e616a938235afd20a1de",
-    "decimals": 6,
+    "decimals": 18,
     "symbol": "USAD",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/38420.png"
   },
@@ -66938,6 +66938,14 @@
     "symbol": "INLSETH",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/34951/thumb/LSETH.png?1706771493"
+  },
+  {
+    "chainId": 1,
+    "name": "Wrapped BESC",
+    "address": "0x94b8922660df3aaf0a01e2f89fb2d113e5749c0b",
+    "decimals": 18,
+    "symbol": "WBESC",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/24526.png"
   },
   {
     "chainId": 1,
@@ -77572,7 +77580,7 @@
   },
   {
     "chainId": 1,
-    "name": "GRVT",
+    "name": "Grvt",
     "address": "0xad29f2723fcdbcf665f210f25e06f97477e417cf",
     "decimals": 18,
     "symbol": "GRVT",
