@@ -7585,6 +7585,14 @@
   },
   {
     "chainId": 1,
+    "name": "X100",
+    "address": "0x100acd9fcd8e0ff80a6595b66fdabe93184aa100",
+    "decimals": 6,
+    "symbol": "X",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/41862.png"
+  },
+  {
+    "chainId": 1,
     "name": "Brain Frog",
     "address": "0x1010107b4757c915bc2f1ecd08c85d1bb0be92e0",
     "decimals": 18,
@@ -27533,11 +27541,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x3c2f61f2e27c865981d2e7aaf6b2cdf823030039",
     "name": "TermMax",
-    "symbol": "TMX",
+    "address": "0x3c2f61f2e27c865981d2e7aaf6b2cdf823030039",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/102172700/thumb/TMX_Token_Icon_%281%29.png?1774963017"
+    "symbol": "TMX",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/39798.png"
   },
   {
     "chainId": 1,
@@ -59205,7 +59213,7 @@
   },
   {
     "chainId": 1,
-    "name": "Lombard Bitcoin",
+    "name": "Lombard BTC",
     "address": "0x8236a87084f8b84306f72007f36f2618a5634494",
     "decimals": 18,
     "symbol": "LBTC",
@@ -64549,11 +64557,11 @@
   },
   {
     "chainId": 1,
-    "name": "Vanar Chain",
     "address": "0x8de5b80a0c1b02fe4976851d030b36122dbb8624",
-    "decimals": 18,
+    "name": "Vanar Chain [OLD]",
     "symbol": "VANRY",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/8037.png"
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/33466/thumb/apple-touch-icon.png?1701942541"
   },
   {
     "chainId": 1,
@@ -71577,14 +71585,6 @@
     "decimals": 18,
     "symbol": "KOYO",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/22120.png"
-  },
-  {
-    "chainId": 1,
-    "name": "TermMax",
-    "address": "0x9daf7a876366c1f1195fe3072262fde900000000",
-    "decimals": 18,
-    "symbol": "TMX",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/39798.png"
   },
   {
     "chainId": 1,
