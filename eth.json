@@ -977,6 +977,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x015c477a4e2881c4b3bb8999f59ee4a04e812344",
+    "name": "Neuberger Securitize High Income Tokenized Fund",
+    "symbol": "HINC",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/102175595/thumb/hinc.png?1787066199"
+  },
+  {
+    "chainId": 1,
     "name": "KingXChain",
     "address": "0x016396044709eb3edc69c44f4d5fa6996917e4e8",
     "decimals": 18,
@@ -31349,14 +31357,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x445d03f499f1c150615957bb87588fb465fc91cc",
-    "name": "BiniBit",
-    "symbol": "BINI",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/102172937/thumb/binibit_token_logo.png?1776930189"
-  },
-  {
-    "chainId": 1,
     "name": "Project TXA",
     "address": "0x4463e6a3ded0dbe3f6e15bc8420dfc55e5fea830",
     "decimals": 18,
@@ -57239,7 +57239,7 @@
     "chainId": 1,
     "name": "Nillion",
     "address": "0x7cf9a80db3b29ee8efe3710aadb7b95270572d47",
-    "decimals": 6,
+    "decimals": 18,
     "symbol": "NIL",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/35702.png"
   },
@@ -120669,6 +120669,14 @@
     "name": "Hokkaidu Inu",
     "decimals": 9,
     "logoURI": "ipfs://QmUuA1HniKrYk1kbZA9qyjTWgAwhWfYagxDdHPou8mZjci"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xd85c31854c2b0fb40aaa9e2fc4da23c21f829d46",
+    "symbol": "PING",
+    "name": "Ping",
+    "decimals": 18,
+    "logoURI": "ipfs://QmXYjaT1Yeh7ZHYfVL1XegYrQnHb231LCHBSaMJdggzY6L"
   },
   {
     "chainId": 8453,
