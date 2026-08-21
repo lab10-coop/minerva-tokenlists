@@ -7603,7 +7603,7 @@
     "chainId": 1,
     "name": "X100",
     "address": "0x100acd9fcd8e0ff80a6595b66fdabe93184aa100",
-    "decimals": 6,
+    "decimals": 18,
     "symbol": "X",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/41862.png"
   },
@@ -15455,7 +15455,7 @@
     "chainId": 1,
     "name": "Acurast",
     "address": "0x216b3643ff8b7bb30d8a48e9f1bd550126202add",
-    "decimals": 12,
+    "decimals": 18,
     "symbol": "ACU",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/36492.png"
   },
@@ -75001,6 +75001,14 @@
     "decimals": 18,
     "symbol": "NDC",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/1872.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xa551285b49a29cbdbae7fc5c6a61fadc918ad224",
+    "name": "Ensuro Senior Pool",
+    "symbol": "EUSDCSR",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/102175641/thumb/eToken-Sr-white.png?1787211678"
   },
   {
     "chainId": 1,
