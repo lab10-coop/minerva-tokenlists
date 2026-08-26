@@ -16965,10 +16965,10 @@
   },
   {
     "chainId": 1,
-    "name": "XION",
+    "name": "Verona",
     "address": "0x24d7ad9402717f429a81925fe7643b78918eda8b",
     "decimals": 18,
-    "symbol": "XION",
+    "symbol": "VERONA",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/32089.png"
   },
   {
@@ -51229,6 +51229,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x6f20ae2c98c2d34e6a57f3411f2c5af92e32592d",
+    "name": "Tori Ecosystem Vault",
+    "symbol": "ETRUSD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102175806/thumb/trUSD.png?1787661625"
+  },
+  {
+    "chainId": 1,
     "name": "Roko",
     "address": "0x6f222e04f6c53cc688ffb0abe7206aac66a8ff98",
     "decimals": 18,
@@ -57757,14 +57765,6 @@
   },
   {
     "chainId": 1,
-    "name": "eccoin",
-    "address": "0x7dee371a788f9bd6c546df83f0d74fbe37cbf006",
-    "decimals": 18,
-    "symbol": "ecn",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/5598.png"
-  },
-  {
-    "chainId": 1,
     "address": "0x7def4573628021500c3207994935a51801fb56be",
     "name": "Akita",
     "symbol": "AKITA",
@@ -59418,14 +59418,6 @@
     "decimals": 18,
     "symbol": "BB-A-USDC",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/20365.png"
-  },
-  {
-    "chainId": 1,
-    "name": "Travel Care",
-    "address": "0x826e5ec70dbc5607ff9218011fbb97f9a8d97953",
-    "decimals": 18,
-    "symbol": "TRAVEL",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/18597.png"
   },
   {
     "chainId": 1,
@@ -65666,14 +65658,6 @@
     "decimals": 18,
     "symbol": "pDAI",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/6729.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x904567252d8f48555b7447c67dca23f0372e16be",
-    "name": "Kite",
-    "symbol": "KITE",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/70426/thumb/KITE-ICON.png?1762328605"
   },
   {
     "chainId": 1,
@@ -86097,6 +86081,14 @@
     "decimals": 18,
     "symbol": "AUC",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/6076.png"
+  },
+  {
+    "chainId": 1,
+    "name": "MEEKO",
+    "address": "0xbeec1fb5cbdfd50602f23b21f47d5500bbd1ed5f",
+    "decimals": 18,
+    "symbol": "MEEKO",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/41923.png"
   },
   {
     "chainId": 1,
@@ -107037,6 +107029,14 @@
     "decimals": 18,
     "symbol": "THE9",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/23850.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xefd30445a4ec1f4b3e0a6f4d9bdbd215f805047f",
+    "name": "Moderna xStock",
+    "symbol": "MRNAX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102175802/thumb/MRNA.webp?1787656673"
   },
   {
     "chainId": 1,
@@ -131624,6 +131624,14 @@
     "address": "0x658e64ffcf40d240a43d52ca9342140316ae44fa",
     "decimals": 8,
     "logoURI": "https://tokens.pancakeswap.finance/images/0x658E64FFcF40D240A43D52CA9342140316Ae44fA.png"
+  },
+  {
+    "name": "Teller",
+    "chainId": 56,
+    "symbol": "DEBIT",
+    "address": "0x66661c7229901f568f16bd1551b3ba826f83ce49",
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x66661c7229901F568F16BD1551b3bA826F83cE49.png"
   },
   {
     "name": "ARIVA",
