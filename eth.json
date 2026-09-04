@@ -4721,6 +4721,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x093df218d70ea6036afa26704a1c70d12010b908",
+    "name": "aptUSD",
+    "symbol": "APTUSD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102176657/thumb/aptusd.png?1788419762"
+  },
+  {
+    "chainId": 1,
     "name": "sTRX",
     "address": "0x0944d2c41fef3088467287e208e5bbb622a0c09c",
     "decimals": 18,
@@ -28136,6 +28144,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x3a54e9b53f32fd3441a87e1a95c853e595c8326f",
+    "name": "Dohrnii",
+    "symbol": "DHN",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102176649/thumb/DHN_logo_200x200_CMC.png?1788416001"
+  },
+  {
+    "chainId": 1,
     "name": "dKloud",
     "address": "0x3a5d531c282eb99d9257a2a2e92484e1c2ec71cc",
     "decimals": 18,
@@ -47478,14 +47494,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x633821b8e003344e5223509277f2084ea809a452",
-    "name": "Junior DOLA",
-    "symbol": "JRDOLA",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/102172347/thumb/jrDOLA.webp?1773039024"
-  },
-  {
-    "chainId": 1,
     "name": "JOEBIDEN2024",
     "address": "0x633fe30f0840f30b5ae510c9796019e5d288ddc5",
     "decimals": 9,
@@ -53771,6 +53779,14 @@
     "symbol": "SILO",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/21454/thumb/SILO_%281%29.png?1746759127"
+  },
+  {
+    "chainId": 1,
+    "address": "0x6f80a22a57c7f0257094ea8d426af3f747defbc7",
+    "name": "Junior DOLA",
+    "symbol": "JRDOLA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102172347/thumb/jrDOLA.png?1788415137"
   },
   {
     "chainId": 1,
@@ -110477,11 +110493,11 @@
   },
   {
     "chainId": 1,
-    "address": "0xeb7a9ad524ca0bcad732e971339990d112c2002c",
     "name": "EarthMeta",
-    "symbol": "EMT",
+    "address": "0xeb7a9ad524ca0bcad732e971339990d112c2002c",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/102175482/thumb/logo__200x200.png?1786435089"
+    "symbol": "EMT",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/34348.png"
   },
   {
     "chainId": 1,
@@ -124792,6 +124808,14 @@
     "name": "TiUSD",
     "decimals": 18,
     "logoURI": "ipfs://QmeerC7PaenA9GTnL1d35UH8LSR9665PWoZifyTHTAVUED"
+  },
+  {
+    "chainId": 999,
+    "address": "0x29dbf86a8c48ea4331e28b3c1eae824a2a45996a",
+    "symbol": "BRIDGE",
+    "name": "HyBridge",
+    "decimals": 18,
+    "logoURI": "ipfs://QmXWwQmTxvbMYaSEwtSPh5rWmDmUJoRSJxCBhTjLJcHSg7"
   },
   {
     "chainId": 4326,
