@@ -9328,14 +9328,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x130032f4475e95b68958994c696992ddaaab65c4",
-    "name": "Equity Residential xStock",
-    "symbol": "EQRX",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/102176062/thumb/EQRx.png?1787821491"
-  },
-  {
-    "chainId": 1,
     "name": "Marie",
     "address": "0x1303cbd61dbb01f2dfeee2a574508dd688ec11da",
     "decimals": 2,
@@ -24032,11 +24024,11 @@
   },
   {
     "chainId": 1,
-    "name": "Dohrnii",
     "address": "0x32462ba310e447ef34ff0d15bce8613aa8c4a244",
-    "decimals": 18,
+    "name": "Dohrnii [OLD]",
     "symbol": "DHN",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/20279.png"
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/24966/thumb/DHN_logo_200x200_CMC.png?1788414601"
   },
   {
     "chainId": 1,
@@ -27872,14 +27864,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x39a5f238fbafa97261eecb683551db70f8d82888",
-    "name": "Webster Financial xStock",
-    "symbol": "WBSX",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/102176442/thumb/WBSx.png?1787822981"
-  },
-  {
-    "chainId": 1,
     "name": "IVOCoin",
     "address": "0x39a82cff617804bd2432ae8acb849c2e2faef1d9",
     "decimals": 18,
@@ -28144,11 +28128,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x3a54e9b53f32fd3441a87e1a95c853e595c8326f",
     "name": "Dohrnii",
-    "symbol": "DHN",
+    "address": "0x3a54e9b53f32fd3441a87e1a95c853e595c8326f",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/102176649/thumb/DHN_logo_200x200_CMC.png?1788416001"
+    "symbol": "DHN",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/20279.png"
   },
   {
     "chainId": 1,
@@ -30797,14 +30781,6 @@
     "decimals": 18,
     "symbol": "PEPEMINER",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/25719.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x409de3004a6f1bd0c37cddee8efd86b13b058435",
-    "name": "Electronic Arts xStock",
-    "symbol": "EAX",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/102176044/thumb/EAx.png?1787821411"
   },
   {
     "chainId": 1,
@@ -89601,6 +89577,14 @@
   },
   {
     "chainId": 1,
+    "address": "0xbd49537cc9105e8c1651ed12b94cd9a3d79bf3d9",
+    "name": "Hastra SMB",
+    "symbol": "SMB",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/102176678/thumb/smbtoken.png?1788499336"
+  },
+  {
+    "chainId": 1,
     "name": "Saren",
     "address": "0xbd4a858139b155219e2c8d10135003fdef720b6b",
     "decimals": 18,
@@ -124944,6 +124928,14 @@
     "name": "Good In The Hood",
     "decimals": 18,
     "logoURI": "ipfs://Qme2oZCnAFJYpXVLFVEWvKfgafuWfAcij7BpDtZiasYmJg"
+  },
+  {
+    "chainId": 4663,
+    "address": "0x6835dbf2d7d5852f84bf0a80de00cab3864f44b1",
+    "symbol": "HH",
+    "name": "HyperHood",
+    "decimals": 18,
+    "logoURI": "ipfs://QmZFkgCnMBF9DxHAUy5L3qjquGNKGRVXwe29tLupJsrk6C"
   },
   {
     "chainId": 4663,
