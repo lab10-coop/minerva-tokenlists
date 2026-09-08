@@ -60019,7 +60019,7 @@
     "chainId": 1,
     "name": "Nillion",
     "address": "0x7cf9a80db3b29ee8efe3710aadb7b95270572d47",
-    "decimals": 18,
+    "decimals": 6,
     "symbol": "NIL",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/35702.png"
   },
@@ -60177,11 +60177,11 @@
   },
   {
     "chainId": 1,
-    "name": "Stonks",
     "address": "0x7d4a23832fad83258b32ce4fd3109ceef4332af4",
-    "decimals": 18,
+    "name": "Stonks on ETH",
     "symbol": "STONKS",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/31802.png"
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/38610/thumb/STONKS_logo_dextools.jpg?1749835302"
   },
   {
     "chainId": 1,
@@ -63726,6 +63726,14 @@
     "decimals": 9,
     "symbol": "NITEFEEDER",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/30686.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x8602b2fd8d105a56d3152e936e66b1d414142148",
+    "name": "Artificial Pepe",
+    "symbol": "",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102176807/thumb/arpe_400x400.jpg?1788771935"
   },
   {
     "chainId": 1,
@@ -118724,11 +118732,11 @@
   },
   {
     "chainId": 1,
-    "name": "DigiHealth",
     "address": "0xfd2cf2202f049064865dc32c6cf81eeb34074b39",
-    "decimals": 18,
+    "name": "DigiHealth [OLD]",
     "symbol": "DGH",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/22870.png"
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/53173/thumb/Its.webp?1735541593"
   },
   {
     "chainId": 1,
@@ -137733,6 +137741,19 @@
     "logoURI": "https://tokens.pancakeswap.finance/images/0x250632378E573c6Be1AC2f97Fcdf00515d0Aa91B.png"
   },
   {
+    "name": "Cea Industries",
+    "chainId": 56,
+    "symbol": "BNC4",
+    "address": "0x25795fd69c61149bf363089e997c6f31c52008c5",
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x25795fD69c61149Bf363089E997c6f31c52008c5.png",
+    "extensions": {
+      "scaledUIAmount": {
+        "enabled": true
+      }
+    }
+  },
+  {
     "name": "Any Inu",
     "chainId": 56,
     "symbol": "AI",
@@ -140609,6 +140630,19 @@
     "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-tokenlists/master/images/jCHF.svg"
   },
   {
+    "name": "Cea Industries",
+    "chainId": 56,
+    "symbol": "BNC4",
+    "address": "0x7c8d5502b544ddaf8852fc46d1174e34876d545c",
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x7C8D5502b544dDAf8852Fc46D1174E34876D545C.png",
+    "extensions": {
+      "scaledUIAmount": {
+        "enabled": true
+      }
+    }
+  },
+  {
     "name": "MIA",
     "chainId": 56,
     "symbol": "MIA",
@@ -142881,6 +142915,14 @@
     "address": "0xc61eb549acf4a05ed6e3fe0966f5e213b23541ce",
     "decimals": 18,
     "logoURI": "https://tokens.pancakeswap.finance/images/0xC61eb549Acf4A05Ed6e3Fe0966f5e213b23541cE.png"
+  },
+  {
+    "name": "CNPY",
+    "chainId": 56,
+    "symbol": "CNPY",
+    "address": "0xc69b16cf18cea1e5d0bb6a1a9db802097790ddd2",
+    "decimals": 6,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0xC69B16CF18CEA1e5D0bb6a1a9db802097790dDD2.png"
   },
   {
     "name": "zoey - your longevity coach by NetMind XYZ",

@@ -1290,6 +1290,19 @@
     "logoURI": "https://tokens.pancakeswap.finance/images/0x250632378E573c6Be1AC2f97Fcdf00515d0Aa91B.png"
   },
   {
+    "name": "Cea Industries",
+    "chainId": 56,
+    "symbol": "BNC4",
+    "address": "0x25795fd69c61149bf363089e997c6f31c52008c5",
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x25795fD69c61149Bf363089E997c6f31c52008c5.png",
+    "extensions": {
+      "scaledUIAmount": {
+        "enabled": true
+      }
+    }
+  },
+  {
     "name": "Any Inu",
     "chainId": 56,
     "symbol": "AI",
@@ -4166,6 +4179,19 @@
     "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-tokenlists/master/images/jCHF.svg"
   },
   {
+    "name": "Cea Industries",
+    "chainId": 56,
+    "symbol": "BNC4",
+    "address": "0x7c8d5502b544ddaf8852fc46d1174e34876d545c",
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x7C8D5502b544dDAf8852Fc46D1174E34876D545C.png",
+    "extensions": {
+      "scaledUIAmount": {
+        "enabled": true
+      }
+    }
+  },
+  {
     "name": "MIA",
     "chainId": 56,
     "symbol": "MIA",
@@ -6438,6 +6464,14 @@
     "address": "0xc61eb549acf4a05ed6e3fe0966f5e213b23541ce",
     "decimals": 18,
     "logoURI": "https://tokens.pancakeswap.finance/images/0xC61eb549Acf4A05Ed6e3Fe0966f5e213b23541cE.png"
+  },
+  {
+    "name": "CNPY",
+    "chainId": 56,
+    "symbol": "CNPY",
+    "address": "0xc69b16cf18cea1e5d0bb6a1a9db802097790ddd2",
+    "decimals": 6,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0xC69B16CF18CEA1e5D0bb6a1a9db802097790dDD2.png"
   },
   {
     "name": "zoey - your longevity coach by NetMind XYZ",

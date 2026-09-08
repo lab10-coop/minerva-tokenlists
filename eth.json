@@ -60019,7 +60019,7 @@
     "chainId": 1,
     "name": "Nillion",
     "address": "0x7cf9a80db3b29ee8efe3710aadb7b95270572d47",
-    "decimals": 18,
+    "decimals": 6,
     "symbol": "NIL",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/35702.png"
   },
@@ -60177,11 +60177,11 @@
   },
   {
     "chainId": 1,
-    "name": "Stonks",
     "address": "0x7d4a23832fad83258b32ce4fd3109ceef4332af4",
-    "decimals": 18,
+    "name": "Stonks on ETH",
     "symbol": "STONKS",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/31802.png"
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/38610/thumb/STONKS_logo_dextools.jpg?1749835302"
   },
   {
     "chainId": 1,
@@ -63726,6 +63726,14 @@
     "decimals": 9,
     "symbol": "NITEFEEDER",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/30686.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x8602b2fd8d105a56d3152e936e66b1d414142148",
+    "name": "Artificial Pepe",
+    "symbol": "",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102176807/thumb/arpe_400x400.jpg?1788771935"
   },
   {
     "chainId": 1,
@@ -118724,11 +118732,11 @@
   },
   {
     "chainId": 1,
-    "name": "DigiHealth",
     "address": "0xfd2cf2202f049064865dc32c6cf81eeb34074b39",
-    "decimals": 18,
+    "name": "DigiHealth [OLD]",
     "symbol": "DGH",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/22870.png"
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/53173/thumb/Its.webp?1735541593"
   },
   {
     "chainId": 1,
