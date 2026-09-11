@@ -1343,6 +1343,19 @@
     "logoURI": "https://tokens.pancakeswap.finance/images/0x25d887Ce7a35172C62FeBFD67a1856F20FaEbB00.png"
   },
   {
+    "name": "ProShares UltraPro Short QQQ",
+    "chainId": 56,
+    "symbol": "SQQQB",
+    "address": "0x25e572b466d152604d9e6c3e53b432b978825342",
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x25e572B466D152604D9E6C3e53B432B978825342.png",
+    "extensions": {
+      "scaledUIAmount": {
+        "enabled": true
+      }
+    }
+  },
+  {
     "name": "Atletico de Madrid",
     "chainId": 56,
     "symbol": "ATM",
