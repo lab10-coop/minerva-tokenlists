@@ -170,10 +170,10 @@
   {
     "chainId": 1,
     "address": "0x0000006238e3c7797ae71827da303560bae1b125",
-    "name": "Nora Brazil Real",
+    "name": "Nora Brazilian Real Stablecoin",
     "symbol": "BRS",
     "decimals": 6,
-    "logoURI": "https://assets.coingecko.com/coins/images/102178766/thumb/brs-icone-verde-1254.png?1790233416"
+    "logoURI": "https://assets.coingecko.com/coins/images/102178766/thumb/brs-icone-verde-256.png?1790320338"
   },
   {
     "chainId": 1,
@@ -8144,19 +8144,19 @@
   },
   {
     "chainId": 1,
+    "name": "X100",
     "address": "0x100a2c7f45fd48e217fdce72e658dc78fd43a100",
-    "name": "X100",
-    "symbol": "X",
-    "decimals": 6,
-    "logoURI": "https://assets.coingecko.com/coins/images/102178608/thumb/X100.png?1790141684"
-  },
-  {
-    "chainId": 1,
-    "name": "X100",
-    "address": "0x100acd9fcd8e0ff80a6595b66fdabe93184aa100",
     "decimals": 18,
     "symbol": "X",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/41862.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x100acd9fcd8e0ff80a6595b66fdabe93184aa100",
+    "name": "X100",
+    "symbol": "X",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/102175839/thumb/X100.png?1787732689"
   },
   {
     "chainId": 1,
@@ -24720,11 +24720,11 @@
   },
   {
     "chainId": 1,
+    "name": "Dohrnii",
     "address": "0x32462ba310e447ef34ff0d15bce8613aa8c4a244",
-    "name": "Dohrnii [OLD]",
-    "symbol": "DHN",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/24966/thumb/DHN_logo_200x200_CMC.png?1788414601"
+    "symbol": "DHN",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/20279.png"
   },
   {
     "chainId": 1,
@@ -28920,11 +28920,11 @@
   },
   {
     "chainId": 1,
-    "name": "Dohrnii",
     "address": "0x3a54e9b53f32fd3441a87e1a95c853e595c8326f",
-    "decimals": 18,
+    "name": "Dohrnii",
     "symbol": "DHN",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/20279.png"
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102176649/thumb/DHN_logo_200x200_CMC.png?1788416001"
   },
   {
     "chainId": 1,
@@ -81165,14 +81165,6 @@
   },
   {
     "chainId": 1,
-    "name": "Stobox Token",
-    "address": "0xa6422e3e219ee6d4c1b18895275fe43556fd50ed",
-    "decimals": 18,
-    "symbol": "STBU",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7245.png"
-  },
-  {
-    "chainId": 1,
     "name": "Caspian",
     "address": "0xa6446d655a0c34bc4f05042ee88170d056cbaf45",
     "decimals": 18,
@@ -90150,14 +90142,6 @@
     "decimals": 18,
     "symbol": "TCAT",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/35882.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xb9c1344105faa4681bc7ffd68c5c526da61f2ae8",
-    "name": "aarna atvPTmax",
-    "symbol": "ATVPTMAX",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/70963/thumb/atvPTmax_pendle_coin_gecko.png?1770870945"
   },
   {
     "chainId": 1,
@@ -104481,6 +104465,14 @@
   },
   {
     "chainId": 1,
+    "address": "0xd7956afcff5ebb0a84a2470aed3d8147cc00e617",
+    "name": "aarna atvPTmax",
+    "symbol": "ATVPTMAX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70963/thumb/atvPTmax_pendle_coin_gecko.png?1770870945"
+  },
+  {
+    "chainId": 1,
     "name": "Pixelverse",
     "address": "0xd795eb12034c2b77d787a22292c26fab5f5c70aa",
     "decimals": 18,
@@ -106085,14 +106077,6 @@
     "decimals": 18,
     "symbol": "TAO",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/20203.png"
-  },
-  {
-    "chainId": 1,
-    "name": "RAI Token",
-    "address": "0xda8d6d4c4082bfb296711782f0ead6c4b8ac5256",
-    "decimals": 18,
-    "symbol": "RAI",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/38944.png"
   },
   {
     "chainId": 1,
