@@ -173,7 +173,7 @@
     "name": "Nora Brazilian Real Stablecoin",
     "symbol": "BRS",
     "decimals": 6,
-    "logoURI": "https://assets.coingecko.com/coins/images/102178766/thumb/brs-icone-verde-256.png?1790320338"
+    "logoURI": "https://assets.coingecko.com/coins/images/102178766/thumb/brs-icone-verde-4096.png?1790778456"
   },
   {
     "chainId": 1,
@@ -37464,11 +37464,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x4c1dab3be86347977f3dfc4b9688224ef2272939",
     "name": "Wrapped 0G",
-    "symbol": "W0G",
+    "address": "0x4c1dab3be86347977f3dfc4b9688224ef2272939",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/69681/thumb/0g.png?1759289984"
+    "symbol": "W0G",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/42394.png"
   },
   {
     "chainId": 1,
@@ -37949,6 +37949,14 @@
     "decimals": 18,
     "symbol": "WPR",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2511.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x4cf5920df52f5b1f246e2e38e1786ae1cf03ecf5",
+    "name": "USDGO",
+    "symbol": "USDGO",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/102172077/thumb/USDGO_Primary_Icon.png?1789694084"
   },
   {
     "chainId": 1,
@@ -38696,11 +38704,11 @@
   },
   {
     "chainId": 1,
+    "name": "zipcoin",
     "address": "0x4e67db19044549ff420860834c91b45bad298722",
-    "name": "Zip coin",
-    "symbol": "ZC",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/102178898/thumb/IMG_0096.png?1790654746"
+    "symbol": "ZC",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/42393.png"
   },
   {
     "chainId": 1,
@@ -70952,6 +70960,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x9102a20f4ad56026eeffa8e121b14a9f7575f43f",
+    "name": "PACT",
+    "symbol": "PACT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/71722/thumb/Color_%281%29.png?1769079391"
+  },
+  {
+    "chainId": 1,
     "name": "Azuki",
     "address": "0x910524678c0b1b23ffb9285a81f99c29c11cbaed",
     "decimals": 18,
@@ -78010,6 +78026,14 @@
     "decimals": 18,
     "symbol": "TOID",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/26601.png"
+  },
+  {
+    "chainId": 1,
+    "name": "Open USD",
+    "address": "0x9f6f3991d525015a6f8caf062c83b62fd3ac4436",
+    "decimals": 6,
+    "symbol": "OUSD",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/40671.png"
   },
   {
     "chainId": 1,
@@ -88174,7 +88198,7 @@
     "name": "Bitsocial",
     "symbol": "BSO",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/102174326/thumb/logo-transparent-200.png?1783187379"
+    "logoURI": "https://assets.coingecko.com/coins/images/102174326/thumb/icon.png?1790743322"
   },
   {
     "chainId": 1,
@@ -96524,7 +96548,7 @@
     "chainId": 1,
     "name": "Palcoin Ventures",
     "address": "0xc6d3856d9e49b3e54c28179fbf758bb299f1ed51",
-    "decimals": 4,
+    "decimals": 18,
     "symbol": "PALCOIN",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/35901.png"
   },
@@ -158473,6 +158497,14 @@
     "address": "0x097acf27503753e77bca940277806156c5925b81",
     "decimals": 18,
     "logoURI": "https://tokens.pancakeswap.finance/images/0x097acf27503753e77bCA940277806156C5925B81.png"
+  },
+  {
+    "name": "Concrete Token",
+    "chainId": 56,
+    "symbol": "CT",
+    "address": "0x0a092e544da31150b439a1aaa1a3a2214a867f46",
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x0A092E544DA31150b439a1aAA1A3a2214a867F46.png"
   },
   {
     "name": "RFOX",
