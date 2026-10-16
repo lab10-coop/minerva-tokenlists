@@ -5768,14 +5768,6 @@
   },
   {
     "chainId": 1,
-    "name": "Hyperbridge",
-    "address": "0x0b06d62b182abb7782d92a20f9f6ea0a4f59b0ae",
-    "decimals": 18,
-    "symbol": "BRIDGE",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/38114.png"
-  },
-  {
-    "chainId": 1,
     "name": "Shiba V Pepe",
     "address": "0x0b0a8c7c34374c1d0c649917a97eee6c6c929b1b",
     "decimals": 9,
@@ -88114,6 +88106,14 @@
   },
   {
     "chainId": 1,
+    "name": "Owlto Finance",
+    "address": "0xb44eef53cc08a288f22e8e760004e84dd32a04c3",
+    "decimals": 18,
+    "symbol": "OWL",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/39339.png"
+  },
+  {
+    "chainId": 1,
     "name": "AGAr",
     "address": "0xb453f1f2ee776daf2586501361c457db70e1ca0f",
     "decimals": 8,
@@ -101803,7 +101803,7 @@
     "chainId": 1,
     "name": "Ultra",
     "address": "0xd13c7342e1ef687c5ad21b27c2b65d772cab5c8c",
-    "decimals": 18,
+    "decimals": 4,
     "symbol": "UOS",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/4189.png"
   },
@@ -165744,6 +165744,14 @@
     "address": "0xa8d3dee6671c4fdac4743a1eb1f276eabd4ba302",
     "decimals": 18,
     "logoURI": "https://tokens.pancakeswap.finance/images/0xa8d3dee6671c4fdac4743a1eb1F276EabD4ba302.png"
+  },
+  {
+    "name": "DE NEO AGENT",
+    "chainId": 56,
+    "symbol": "DNA",
+    "address": "0xa991f61940095aea0724ef54077223b048c5cf7b",
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0xA991F61940095AEA0724ef54077223B048c5CF7b.png"
   },
   {
     "name": "WaultSwap",
