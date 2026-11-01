@@ -15244,14 +15244,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x1e635120fe4441702d826369114f0665c49ded5e",
-    "name": "Wolfina",
-    "symbol": "WOLFINA",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/102179884/thumb/IMG_4446.jpeg?1793331605"
-  },
-  {
-    "chainId": 1,
     "name": "Stellar Classic",
     "address": "0x1e66008a24a486456a796e0c771fdc0cdf43cad9",
     "decimals": 18,
@@ -24789,6 +24781,14 @@
     "symbol": "OPEN",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/55406/thumb/Open-Token-Icon_200x200.png?1745839482"
+  },
+  {
+    "chainId": 1,
+    "address": "0x32401b9fb79065bc15949de0bd43927492f02f0c",
+    "name": "Flowdesk AUSD RWA Strategy",
+    "symbol": "FAUSDE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179950/thumb/Name_ausd__Confidential_false.png?1793467614"
   },
   {
     "chainId": 1,
@@ -39752,6 +39752,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x500ae64100d7dbdb640531085c2f5d40cdc8930d",
+    "name": "Wintermute USDT Select",
+    "symbol": "ARMUSDTS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179952/thumb/Name_usdt__Confidential_false.png?1793467776"
+  },
+  {
+    "chainId": 1,
     "name": "Hashthereum",
     "address": "0x500d15aa5b01e7eb77e4d4c8283df3e6c49da754",
     "decimals": 18,
@@ -42332,6 +42340,14 @@
     "decimals": 18,
     "symbol": "UWU",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/21920.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x55c1b6e461a6334b567baf0feb5d728715446f05",
+    "name": "Pendle Ecosystem USDC",
+    "symbol": "PENDLEUSDC",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179955/thumb/false.png?1793467910"
   },
   {
     "chainId": 1,
@@ -46163,6 +46179,14 @@
     "decimals": 8,
     "symbol": "BOND",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7500.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x5dc53a23adc9f2bed98de6f59f7f309a7c71ff2b",
+    "name": "Wintermute USDC Prime",
+    "symbol": "ARMUSDCP",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179953/thumb/false.png?1793467816"
   },
   {
     "chainId": 1,
@@ -50640,7 +50664,7 @@
     "chainId": 1,
     "name": "BTSE Token",
     "address": "0x666d875c600aa06ac1cf15641361dec3b00432ef",
-    "decimals": 18,
+    "decimals": 8,
     "symbol": "BTSE",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/5305.png"
   },
@@ -80189,6 +80213,14 @@
   },
   {
     "chainId": 1,
+    "address": "0xa2eaad0d586cf9fd73bb2c09cf6a7e3e187d68cd",
+    "name": "Wintermute USDC Select",
+    "symbol": "ARMUSDCS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179947/thumb/true.png?1793467384"
+  },
+  {
+    "chainId": 1,
     "name": "Boost2",
     "address": "0xa2eb4cd6bc9ba61571b12d3484a5688202851bbc",
     "decimals": 18,
@@ -93497,6 +93529,30 @@
   },
   {
     "chainId": 1,
+    "address": "0xbeeff07d991c04cd640de9f15c08ba59c4fedeb7",
+    "name": "Steakhouse High Yield USDT",
+    "symbol": "BBQUSDT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179948/thumb/Name_usdt__Confidential_false.png?1793467421"
+  },
+  {
+    "chainId": 1,
+    "address": "0xbeeff2c5bf38f90e3482a8b19f12e5a6d2fca757",
+    "name": "Steakhouse High Yield USDC",
+    "symbol": "BBQUSDC",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179956/thumb/false.png?1793467958"
+  },
+  {
+    "chainId": 1,
+    "address": "0xbeeffabcd0db09589dd21854aa760c52ab4bf04f",
+    "name": "Steakhouse tGBP",
+    "symbol": "BBQTGBP",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179951/thumb/Name_tgbp__Confidential_false.png?1793467730"
+  },
+  {
+    "chainId": 1,
     "name": "bitsCrunch",
     "address": "0xbef26bd568e421d6708cca55ad6e35f8bfa0c406",
     "decimals": 18,
@@ -93582,6 +93638,14 @@
     "decimals": 18,
     "symbol": "NORM",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/38859.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xbf29043164660c60a2a72cd15ffe2304e87b6838",
+    "name": "Wintermute USDT Prime",
+    "symbol": "ARMUSDTP",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179949/thumb/Name_usdt__Confidential_false.png?1793467487"
   },
   {
     "chainId": 1,
@@ -105312,14 +105376,6 @@
   },
   {
     "chainId": 1,
-    "address": "0xd7c80dcce5b45b04d744ddbb0070374830dcab45",
-    "name": "Super Intelligent Beauty",
-    "symbol": "SIB",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/102179847/thumb/logo_SIB.png?1793221026"
-  },
-  {
-    "chainId": 1,
     "name": "XAI Silo Finance",
     "address": "0xd7c9f0e536dc865ae858b0c0453fe76d13c3beac",
     "decimals": 18,
@@ -109255,6 +109311,14 @@
   },
   {
     "chainId": 1,
+    "address": "0xe0181090c22579b6a217f1522cbf8c9f1f0c1965",
+    "name": "RockawayX USDC Yield",
+    "symbol": "ROXUSDCY",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102179954/thumb/false.png?1793467868"
+  },
+  {
+    "chainId": 1,
     "name": "SYLVESTER",
     "address": "0xe0337b8835d9887e8b1294cecbbdbcff7b299f41",
     "decimals": 9,
@@ -111371,14 +111435,6 @@
     "decimals": 18,
     "symbol": "SPWN",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/10285.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xe51a1e57e3c1f037bfc0154918000419636fb1f0",
-    "name": "evmzone",
-    "symbol": "EVMZONE",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/102179743/thumb/logo.jpg?1792852591"
   },
   {
     "chainId": 1,
@@ -116754,6 +116810,14 @@
     "decimals": 18,
     "symbol": "ORB",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28718.png"
+  },
+  {
+    "chainId": 1,
+    "name": "KIM JONG UN",
+    "address": "0xf070d13bdeac16ba1ef6f2fea9a7f48cb547d4bd",
+    "decimals": 2,
+    "symbol": "KIMJONGUN",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/42737.png"
   },
   {
     "chainId": 1,
