@@ -3025,14 +3025,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x0563dce613d559a47877ffd1593549fb9d3510d6",
-    "name": "SuperBid",
-    "symbol": "SUPERBID",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/14179/thumb/sign_super_bid.png?1696513897"
-  },
-  {
-    "chainId": 1,
     "address": "0x056b269eb1f75477a8666ae8c7fe01b64dd55ecc",
     "name": "3Jane USD3",
     "symbol": "USD3",
@@ -14924,14 +14916,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x1da4858ad385cc377165a298cc2ce3fce0c5fd31",
-    "name": "CloutContracts",
-    "symbol": "CCS",
-    "decimals": 0,
-    "logoURI": "https://assets.coingecko.com/coins/images/19072/thumb/200.png?1696518522"
-  },
-  {
-    "chainId": 1,
     "name": "Equalizer",
     "address": "0x1da87b114f35e1dc91f72bf57fc07a768ad40bb0",
     "decimals": 18,
@@ -19284,10 +19268,10 @@
   {
     "chainId": 1,
     "address": "0x269616d549d7e8eaa82dfb17028d0b212d11232a",
-    "name": "Punk Vault (NFTX)",
     "symbol": "PUNK",
+    "name": "PUNK Vault",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/17018/thumb/Punk.png?1696516582"
+    "logoURI": "ipfs://QmSWCYKFRiebA4amUiMgREkXzoUmYKARZo3srH1cgypZ1a"
   },
   {
     "chainId": 1,
@@ -26824,6 +26808,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x35ebe010cdd541284fcfd2f85992a392a488f989",
+    "name": "Seppuku",
+    "symbol": "SEPPUKU",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180212/thumb/7391MuF0_400x400.jpg?1794324486"
+  },
+  {
+    "chainId": 1,
     "address": "0x35f43c6604b0de814abaa2d94c878bd1f5165478",
     "name": "Savings EUR0",
     "symbol": "SEUR0",
@@ -29109,14 +29101,6 @@
     "decimals": 18,
     "symbol": "LUNAR",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29841.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x3a707d56d538e85b783e8ce12b346e7fb6511f90",
-    "name": "Inverse Ethereum Volatility Index Token",
-    "symbol": "IETHV",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/16715/thumb/logo_-_2021-06-28T085526.083.png?1696516289"
   },
   {
     "chainId": 1,
@@ -49815,10 +49799,10 @@
   {
     "chainId": 1,
     "address": "0x64a60493d888728cf42616e034a0dfeae38efcf0",
-    "name": "OneLedger",
     "symbol": "OLT",
+    "name": "OneLedger",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/3422/thumb/One_Ledger.jpeg?1696504117"
+    "logoURI": "ipfs://QmTCFkEUj8qjxbukfLQB3BKzY76eKqr53DABxG97qvzMkY"
   },
   {
     "chainId": 1,
@@ -52259,14 +52243,6 @@
     "decimals": 18,
     "symbol": "APLP",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7837.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x692accdd8b86692427e0aa4752ae917df01cc56f",
-    "name": "Sunrise",
-    "symbol": "SUNC",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/17601/thumb/ticker_sunc_200_200.png?1696517134"
   },
   {
     "chainId": 1,
@@ -59840,14 +59816,6 @@
     "decimals": 18,
     "symbol": "DVD",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/8478.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x77deb0d6288b26edc3f813e16cef2e36c645941b",
-    "name": "Be Like José",
-    "symbol": "JOSÉ",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/102180174/thumb/Untitled-2.png?1794128091"
   },
   {
     "chainId": 1,
@@ -75542,14 +75510,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x997507cc49fbf0cd6ce5e1ee543218556fafdebc",
-    "name": "Bitenium",
-    "symbol": "BT",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/14618/thumb/BT-token-logo-200.png?1696514296"
-  },
-  {
-    "chainId": 1,
     "name": "COZ Plus",
     "address": "0x9975f96efa232679d7e36af6760e2c7b91bfc828",
     "decimals": 18,
@@ -80021,11 +79981,11 @@
   },
   {
     "chainId": 1,
-    "address": "0xa24c70209c857cb5a5a0ff0758a6f50000233d2f",
     "name": "Xsolla Gas",
-    "symbol": "XLA",
+    "address": "0xa24c70209c857cb5a5a0ff0758a6f50000233d2f",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/102180175/thumb/Xsolla_-_XLA_Gold_Gas_Logo_200x200.png?1794130637"
+    "symbol": "XLA",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/42791.png"
   },
   {
     "chainId": 1,
@@ -96154,6 +96114,14 @@
   },
   {
     "chainId": 1,
+    "address": "0xc4700ae5a5e6cd6b70e7190a0458e568089e98e2",
+    "name": "AudaCity",
+    "symbol": "DACITYCOIN",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102180213/thumb/5.png?1794332841"
+  },
+  {
+    "chainId": 1,
     "name": "Janction",
     "address": "0xc477b6dfd26ec2460b3b92de18837fd476ea7549",
     "decimals": 18,
@@ -96503,14 +96471,6 @@
     "decimals": 9,
     "symbol": "OMIX",
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/32841.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xc53342fd7575f572b0ff4569e31941a5b821ac76",
-    "name": "Ethereum Volatility Index Token",
-    "symbol": "ETHV",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/16716/thumb/logo_-_2021-06-28T092549.772.png?1696516290"
   },
   {
     "chainId": 1,
@@ -109943,14 +109903,6 @@
   },
   {
     "chainId": 1,
-    "address": "0xe138fda441fc31b36171122397a8a11d6cd2c479",
-    "name": "Global Trust Coin",
-    "symbol": "GTC",
-    "decimals": 0,
-    "logoURI": "https://assets.coingecko.com/coins/images/7752/thumb/gtib.png?1696507996"
-  },
-  {
-    "chainId": 1,
     "name": "Rent AI",
     "address": "0xe13cf110176e0dd6590536cd391b8a3522475f82",
     "decimals": 9,
@@ -115906,14 +115858,6 @@
     "symbol": "MARB",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/102176631/thumb/marb-Dk_69cOu.png?1788920194"
-  },
-  {
-    "chainId": 1,
-    "address": "0xee573a945b01b788b9287ce062a0cfc15be9fd86",
-    "name": "Exeedme [OLD]",
-    "symbol": "XED",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/13518/thumb/Asset_7_2x.png?1734167415"
   },
   {
     "chainId": 1,
