@@ -3553,6 +3553,19 @@
     "logoURI": "https://tokens.pancakeswap.finance/images/0x6a2608Dabe09bc1128EEC7275B92DFB939D5Db3f.png"
   },
   {
+    "name": "Ryde Group",
+    "chainId": 56,
+    "symbol": "RYDE4",
+    "address": "0x6a2b0b704650a93f7495d728c3b851a1c5f73172",
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x6a2b0B704650A93F7495d728C3b851A1c5f73172.png",
+    "extensions": {
+      "scaledUIAmount": {
+        "enabled": true
+      }
+    }
+  },
+  {
     "name": "Spintop",
     "chainId": 56,
     "symbol": "SPIN",
